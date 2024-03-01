@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-struct
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/"
 type: article
 quality: 89
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "India’s AI Future: A Bold And A Different Vision To Win"
-    excerpt: "40% of the nearly $8 Bn investment in Indian AI startups was made last year, indicating bullish global sentiment in the sector To embed AI innovation deep into the ecosystem, AI4Bharat is building open-source AI for Indian languages."
-    publishedDateTime: 2024-02-25T15:32:00Z
-    webUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/"
-    ampWebUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
   - title: "Reaching for the Future: TECNO Pioneers AI Revolution in Smart Devices, Extending Reach for Global Users"
     excerpt: "In the realm of processing power and AI capabilities, TECNO is harnessing the strength of MediaTek's latest innovations. MediaTek has made a significant push into the premium segment with its 3rd generation premium chipset, the Dimensity 9300, which boasts advanced AI capabilities."
     publishedDateTime: 2024-02-27T16:48:00Z

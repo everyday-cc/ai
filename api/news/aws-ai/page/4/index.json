@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
+      "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
+      "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
+      "sourceUrl": null,
+      "webUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
+      "originalUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2d1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35003ea1a59ccbb4e062cb2818e3b3d7dc4a1540/Rise-of-Cloud-Computing-Adoption-and-Cybercrimes.jpg/",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Security Alliance",
+        "domain": "cloudsecurityalliance.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-sas-intelligent-planning-suite-now-available-on-aws.md",
       "title": "SAS Intelligent Planning Suite now available on AWS",
       "excerpt": "SAS, a global leader in AI and analytics, has launched SAS Intelligent Planning Suite powered by Amazon Web Services (AWS). The",
@@ -1305,59 +1348,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-17-amazon-facial-recognition-bias-claims-are-misleading.md",
-      "title": "Amazon: Facial recognition bias claims are 'misleading'",
-      "excerpt": "The study author, Joy Buolamwini, has spent years researching bias in algorithms and machine learning Amazon has defended its facial-recognition tool, Rekognition, against claims of racial and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-47117299",
-      "originalUrl": "https://www.bbc.com/news/technology-47117299",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/152D1/production/_105473768_gettyimages-495664582.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-47117299.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-47117299.amp",
-      "publishedDateTime": "2023-12-16T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

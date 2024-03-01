@@ -64,6 +64,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 20
+  - title: "Top soccer clubs are using an AI-powered app to scout future stars"
+    excerpt: "A London-based technology company is looking to “democratize” talent-identification and scouting in soccer using a mobile app. Free to download and available globally, the aiScout app allows aspiring soccer stars to enter virtual trials for professional clubs by uploading self-recorded footage of themselves completing a series of drills."
+    publishedDateTime: 2024-03-01T12:14:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/03/01/top-soccer-clubs-are-using-an-ai-powered-app-to-scout-future-stars/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 19
   - title: "SK Telecom partners with AI search startup Perplexity in Korea"
     excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
     publishedDateTime: 2024-02-26T12:30:00Z
@@ -73,6 +82,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
+    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
+    publishedDateTime: 2024-03-01T14:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "oeVG4tsbGWLPfzJi4BqKh0o2y+gcU/CsyNPXQ9ZnkxtMZaVvcJoZNdl2jLuH8iRqayZqSVfl9Zl3hAwOdbRTOpxs4aX2WlnsZIbsq/IPtvwAM9hafpMoa3GYU8ceQptgcOis4BjKiHDMxmJqJyPW/LFAbWjTJcGXV8DOs/gjoKy7K0DxlvoEncZBx6KdQsonzWkmlEd4EQZVD8e0duMf9OqhKfeZ5gcP10cHkB8dtjmQfNJRPohGkMLHfyGAF39WYxEb5y2EErZ0A1djqybN1qeF49hmCvQHDqI2IyxIKq4w+1iCk2a6W6IDcSDicZPfeHUJPhNUQsnEKUOBmjCRLrr+SJZiTogZnNmyCQ1Kxt47t1Gl3xtM84N5cs/kMLDx+ABevhGeEfmCHEErHlTSZYvufpp1IscnyZ9Pzn9Q1HDpizR/xffcyy1szNu5czSxDcw3ubNly+c76n4ESgnUe3ErcWMw8AZc2Xou41w+OsX0/JfEDsS9mwJU4ohCQJTxdYghB8VbQCp1akcHneWlaA==;CXLJu6qxj7CdwJqq28h1aQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-lap
 webUrl: "https://www.geeky-gadgets.com/huawei-honor-magicbook-pro-16-ai-laptop/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "First look: HONOR MagicBook 16 Pro is a powerful laptop designed for the age of AI"
-    excerpt: "HONOR is bringing several products to global markets, including the MagicBook 16 Pro. But what's it like to use this powerful laptop?"
-    publishedDateTime: 2024-02-25T14:00:00Z
-    webUrl: "https://www.androidauthority.com/honor-magicbook-16-pro-hands-on-3419116/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 43
   - title: "HONOR Introduces the HONOR MagicBook Pro 16: A Next-Level AI-powered Laptop for Unparalleled User Experiences"
     excerpt: "Global technology brand HONOR today unveiled the HONOR MagicBook Pro 16, a revolutionary AI-powered laptop which sets to redefine the traditional laptop landscape. Based on HONOR's platform-level AI capabilities and joint efforts with technology partners such as Microsoft,"
     publishedDateTime: 2024-02-25T22:32:00Z

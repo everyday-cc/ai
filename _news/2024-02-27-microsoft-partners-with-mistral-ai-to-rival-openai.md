@@ -127,6 +127,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links"
+    excerpt: "Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015. The lawsuit - which has also been filed against OpenAI boss Sam Altman - says the firm has departed from its original non-profit, open source mission."
+    publishedDateTime: 2024-03-01T14:27:00Z
+    webUrl: "https://www.bbc.com/news/technology-68445981"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 79
   - title: "ChatGPT creator OpenAI to put AI into humanoid robots"
     excerpt: "OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, will allow its AI models to inhabit the physical world for the first time. California-based Figure announced the ..."
     publishedDateTime: 2024-02-29T09:55:00Z
@@ -228,6 +237,22 @@ related:
       name: The Indian Express
       domain: indianexpress.com
     quality: 59
+  - title: "Silicon Valley humanoid robot-maker partners with OpenAI and gets backing from Jeff Bezos and tech giants"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-03-01T07:25:00Z
+    webUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+    ampWebUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 57
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AI Startup Making Humanoid Robots Raises $675 Million With Bezos, Nvidia in Funding Round"
     excerpt: "Jeff Bezos, Nvidia and Microsoft are betting a humanlike robot could be one of the hot new developments in artificial intelligence. They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure ..."
     publishedDateTime: 2024-02-29T19:04:00Z
@@ -240,14 +265,14 @@ related:
   - title: "Humanoid robot-maker Figure partners with OpenAI"
     excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
     publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://madison.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_acfdce56-8e89-5ce0-abea-f0ca26820aa0.html"
+    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: wacotrib
+      domain: wacotrib.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/cf/acfdce56-8e89-5ce0-abea-f0ca26820aa0/65e1032714789.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/6/f4/6f4165a2-aaf3-519e-8386-e4b92a995101/65e10329eddb8.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

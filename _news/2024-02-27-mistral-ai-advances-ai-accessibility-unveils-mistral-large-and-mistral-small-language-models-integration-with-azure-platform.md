@@ -33,20 +33,6 @@ related:
         width: 1000
         height: 571
         isCached: true
-  - title: "Six Generative AI Predictions For 2024 And Beyond"
-    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
-    publishedDateTime: 2024-02-26T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Meta Plans Launch of New AI Language Model Llama 3 in July, the Information Reports"
     excerpt: "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by users,"
     publishedDateTime: 2024-02-28T16:31:00Z

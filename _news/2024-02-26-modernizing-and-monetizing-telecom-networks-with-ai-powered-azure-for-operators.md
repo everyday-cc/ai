@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-
 webUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/"
 type: article
 quality: 100
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 20
+  - title: "Top soccer clubs are using an AI-powered app to scout future stars"
+    excerpt: "A London-based technology company is looking to “democratize” talent-identification and scouting in soccer using a mobile app. Free to download and available globally, the aiScout app allows aspiring soccer stars to enter virtual trials for professional clubs by uploading self-recorded footage of themselves completing a series of drills."
+    publishedDateTime: 2024-03-01T12:14:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/03/01/top-soccer-clubs-are-using-an-ai-powered-app-to-scout-future-stars/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 19
   - title: "SK Telecom partners with AI search startup Perplexity in Korea"
     excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
     publishedDateTime: 2024-02-26T12:30:00Z
@@ -77,6 +86,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
+    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
+    publishedDateTime: 2024-03-01T14:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+aaAn5QCu0VYNN1efb0xnUG8K50Fey+Qim/nXlxZxrYq5ohG5g6EN1iwbJTJ2ixvXnAB9Xeaejf5vjtwDg2EHTna9x5ehecyrBiLp7BSdpQhm6P9r8neygXZonvSQswnlfRZ25nElg8m0kgfpWsiV7asGkRBwq3Ql7fNjZ4+xlnrrGV3tI4EbDAkkG02Z47+rEdZnflEl6yr7QHlpGqa1l7DpereObEwx6iAp66hCnrdiJdJAkdMyY7DAe2kuT8NLz0+rudQMn4/q95+GAXOub+VIOnMMeOnPkqyf37y5AsGGHVMfnb/BkEtKy6AfAf0pNkzhrR42exMHAfXMN1kjRuJtlXSLTOKYDxXYHoW3rw=;mthFp7sLTpSJSMJep+0uJA=="
 ---

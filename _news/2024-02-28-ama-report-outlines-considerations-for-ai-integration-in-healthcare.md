@@ -25,61 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Vendasta CEO Interview: Roots To Trusted Generative AI Innovations"
-    excerpt: "This article is an interview and research of Vendasta a rising AI unicorn building trusted AI foundations with a compelling vision to strengthen SMB's globally."
-    publishedDateTime: 2024-02-25T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/"
+  - title: "InnovationRx: Exploring The Future Of Healthcare AI"
+    excerpt: "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal."
+    publishedDateTime: 2024-02-28T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65db4cadf97a8a71e3bb3ab8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1201
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Infor Nexus Is Taking An Interesting Approach To Generative AI"
-    excerpt: "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception."
-    publishedDateTime: 2024-02-27T20:21:00Z
-    webUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
+  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
+    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
+    publishedDateTime: 2024-02-29T23:37:00Z
+    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 65
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 396
-        height: 350
+      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "Executive interview: David Wong, Thomson Reuters"
-    excerpt: "According to Wong, AI – and more specifically generative AI (GenAI) and natural language processing – has been a core competency within Thomson Reuters. Recalling the evolution of GenAI, he says: “It is an interesting story. If we play the tape back ..."
-    publishedDateTime: 2024-02-27T14:55:00Z
-    webUrl: "https://www.computerweekly.com/news/366570374/Executive-interview-David-Wong-Thomson-Reuters"
+  - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
+    excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
+    publishedDateTime: 2024-02-28T10:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-innovators-3-future-stock-leaders-to-watch-now-1033114109"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
+    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
+    publishedDateTime: 2024-02-28T14:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 47
     images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g943065362.jpg"
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
-        height: 400
+        height: 627
         isCached: true
-  - title: "FasterCapital welcomes innovative startup evolve media AI to its acceleration program"
-    excerpt: "With the exponential growth of cloud data and the increasing number of devices, the need for a solution like Evolve Media AI has never been more pressing. Evolve Media AI is based in the United States and is raising $1."
-    publishedDateTime: 2024-02-26T14:14:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/fastercapital-welcomes-innovative-startup-evolve-media-ai-to-its-acceleration-program-qftn3phm"
+  - title: "Where AI shines in healthcare"
+    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
+    publishedDateTime: 2024-02-27T20:38:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 10
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 34
 
 secured: "cQIcMxZXkbV7JgfsW4ok/T89BajQ209PoPtAGqh+uQdAYBXsVIDS+4XnunbrQJPhz+HCGZP7Wt6pz5VmGxXuY9OfAgi5eG5Hw+ZO6K7Kn92bvFP7s0uy2CoLEp7/TZmUw+tgzZhIrFYegdP7g9JuVsrXXydDsOoCieRJSvpROiMLpJP3Dwiopq1C89ytmQKGu79p8xHcHLoU+DiVX8intoTPcjSAciDtxHzIo5eJhb3pSbAjf5BwuERrSXDpLHOFRZ+6Kegd7utnxru38AXDDx1sgQguhNVyJ4TqULeD+jzlvdKsNvUhnc93Zn5H/D0weJyxVHhtGbNhCpeHeDQNTh4AFyqSEWsXwYYgcpFgEhzsfRzp5Y9RkVeACntPqPCGxpbz7iqlZXJLGgWGprZZQ1X6Te1WryVDrbRhua/Qjub34N7MAgFRjxSIbO0hPWzW+x7TViE5uVypAT7tKXsG5PbYnhk5h4VQsLJxLg8J0ixZXtfCxQqv+hpqal3ofRsrGbAPPn4zSCR0jD3bHTJKBQ==;z+6k8Hjf0WMtvegjBvBirg=="
 ---

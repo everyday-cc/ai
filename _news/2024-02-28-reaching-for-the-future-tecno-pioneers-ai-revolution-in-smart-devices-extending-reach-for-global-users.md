@@ -41,17 +41,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "India’s AI Future: A Bold And A Different Vision To Win"
-    excerpt: "40% of the nearly $8 Bn investment in Indian AI startups was made last year, indicating bullish global sentiment in the sector To embed AI innovation deep into the ecosystem, AI4Bharat is building open-source AI for Indian languages."
-    publishedDateTime: 2024-02-25T15:32:00Z
-    webUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/"
-    ampWebUrl: "https://inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/indias-ai-future-a-bold-and-a-different-vision-to-win/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
 
 secured: "whchRnrORnTfN/NhPB6TCdfcURQ1fef9RInrw26yC92iT3HYtdWVLzIKOkeyNWqO6PvEICLvwUlK4YunfqMks1TaRbCvYJhf7zRzR2VGNXi8XJv1dqzzReJjLB5syOWjT/gCuJ8zB0cTIWGMSke8FFzFVprjUBRUOy2BA/q2TcYxWt1NQoq6VQPzCR8B+v85avS+wHOVJrjadP/3YHD4sjhWEldeQvxfRbK7jCe5ENOjrfsJ+hxoPfySaSwJx/yKYaYsv1cJUdVbZz2ydjQ4ujOFA5578aykfrzb8RfGE+zpebWTks5KerLzN1TyKt4Dk9aVSZ2PQoreX9uhu7P+P3W6Fp8y6rBFUyUTropVK30=;ztYI2qzcjPwbBSDHk7YRgw=="
 ---

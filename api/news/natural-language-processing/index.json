@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -64,7 +64,7 @@
       "originalUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -88,58 +88,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-crunchyrolls-hope-for-ai-generated-subtitles-is-a-disaster-waiting-to-happen.md",
-      "title": "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen",
-      "excerpt": "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
-      "originalUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1527,6 +1475,58 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it.md",
+      "title": "Four Steps To Ride The Generative AI Wave, Instead Of Drowning Under It",
+      "excerpt": "Finally, there is one element that underpins all four of these steps and is a huge factor in successful GAI deployment—executive sponsorship. Business leaders must be committed to embracing change at an organizational level while ensuring objective measurement processes are embedded and that they do not lose sight of the company mission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/",
+      "publishedDateTime": "2024-02-16T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

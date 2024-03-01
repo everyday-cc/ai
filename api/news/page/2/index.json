@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-29-accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton.md",
+      "title": "Accelerating large-scale neural network training on CPUs with ThirdAI and AWS Graviton",
+      "excerpt": "This guest post is written by Vihan Lakshman, Tharun Medini, and Anshumali Shrivastava from ThirdAI. Large-scale deep learning has recently produced revolutionary advances in a vast array of fields. Although this stunning progress in artificial intelligence remains remarkable, the financial costs and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/accelerating-large-scale-neural-network-training-1118x630.jpg",
+          "width": 1118,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T16:09:08Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-ai-identifies-new-type-of-prostate-cancer.md",
+      "title": "AI identifies New Type Of Prostate Cancer",
+      "excerpt": "There are two distinct types of prostate cancer, which may open the door to more personalized therapies, according to a new AI-driven study published today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaa1c4adb4c8f69357735/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
+      "publishedDateTime": "2024-02-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation.md",
       "title": "Supercharge your AI team with Amazon SageMaker Studio: A comprehensive view of Deutsche Bahn’s AI platform transformation",
       "excerpt": "AI’s growing influence in large organizations brings crucial challenges in managing AI platforms. These include developing a scalable and operationally efficient platform that adheres to organizational compliance and security standards. Amazon SageMaker Studio offers a comprehensive set of capabilities",
@@ -113,7 +217,7 @@
       "originalUrl": "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-my-old-blog-into-an-ai-zombie",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -216,7 +320,7 @@
       "originalUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -405,6 +509,49 @@
         "AWS AI",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition.md",
+      "title": "University to remove vending machines after student claimed they used facial recognition",
+      "excerpt": "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the utilization of facial-recognition technology. The controversy unfolded when a vigilant student captured a photo of an M&M-branded vending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/MixCollage-29-Feb-2024-05-35-PM-4699.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp",
+      "publishedDateTime": "2024-02-29T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -599,57 +746,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-29-7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience.md",
-      "title": "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience",
-      "excerpt": "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/",
-      "publishedDateTime": "2024-02-29T06:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-29-verisilicon-npu-ip-is-shipped-in-over-100-million-ai-enabled-chips-worldwide.md",
       "title": "Verisilicon NPU IP Is Shipped In Over 100 Million AI-Enabled Chips Worldwide",
       "excerpt": "(MENAFN- AETOSWire) (BUSINESS WIRE )--VeriSilicon (688521) today announced that it has reached a milestone achievement with its Neural Network Processor (NPU) IP integrated into over 100 million AI-enabled chips across 10 major application sectors ...",
@@ -701,7 +797,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -752,7 +848,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -846,7 +942,7 @@
       "originalUrl": "https://www.forbes.com/sites/yolarobert1/2024/02/28/kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -974,58 +1070,6 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-crunchyrolls-hope-for-ai-generated-subtitles-is-a-disaster-waiting-to-happen.md",
-      "title": "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen",
-      "excerpt": "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
-      "originalUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1164,58 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-innovationrx-exploring-the-future-of-healthcare-ai.md",
-      "title": "InnovationRx: Exploring The Future Of Healthcare AI",
-      "excerpt": "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T22:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

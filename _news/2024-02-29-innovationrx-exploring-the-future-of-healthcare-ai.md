@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx
 webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
         width: 770
         height: 500
+        isCached: true
+  - title: "AMA Report Outlines Considerations for AI Integration in Healthcare"
+    excerpt: "The Emerging Landscape of Augmented Intelligence in Health Care” report provides an overview of risks and opportunities for clinicians looking to adopt AI."
+    publishedDateTime: 2024-02-27T21:22:00Z
+    webUrl: "https://healthitanalytics.com/news/ama-report-outlines-considerations-for-ai-integration-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
     excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."

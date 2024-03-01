@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Heard on the Street: Dell’s AI Secret is Really Out Now"
+    excerpt: "Investors have been hungry for anything related to artificial intelligence. A storied PC maker from Texas wouldn’t seem to fit on top of the menu. That’s been changing over the past year, as Dell has"
+    publishedDateTime: 2024-03-01T16:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/heard-on-the-street-dell-s-ai-secret-is-really-out-now-y3sR7ELlVrFvZcgOAS5J"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
   - title: "Heard on the Street Recap: AI Bliss"
     excerpt: "The Nasdaq Composite closed at a record high on Thursday, and you can thank AI euphoria for that. Tech companies are pouring cash into AI at a breakneck pace, with investors and analysts increasingly"
     publishedDateTime: 2024-03-01T08:37:00Z

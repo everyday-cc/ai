@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software discovered in college campus vending machines"
-    excerpt: "The University of Waterloo in Ontario, Canada, began removing its vending machines after discovering facial recognition technology on one of them. The machine's operators and manufacturers"
-    publishedDateTime: 2024-02-25T14:56:00Z
-    webUrl: "https://www.techspot.com/news/102013-facial-recognition-software-discovered-college-campus-vending-machines.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-24-image-12.jpg"
-        width: 2407
-        height: 1460
-        isCached: true
   - title: "University to remove vending machines after student claimed they used facial recognition"
     excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the utilization of facial-recognition technology. The controversy unfolded when a vigilant student captured a photo of an M&M-branded vending ..."
     publishedDateTime: 2024-02-29T12:09:00Z
@@ -113,15 +99,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Nwogu weighs in on bias in facial recognition software"
-    excerpt: "UB computer scientist Ifeoma Nwogu spoke with UBNow about how AI has evolved through the years and offers her perspective on bias in facial recognition programs."
-    publishedDateTime: 2024-02-26T13:17:00Z
-    webUrl: "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 19
 
 secured: "hsTUTVBoAV+avsawBVyA8BJMxNorQ02Qj+ohgG6YPWKIFIfNwkIDTa91mtW8UTjP2Kj3WlhfORfOiLC6ygrd//wam8n3sOteKsEXHoXxJlLXW3SVMS51O9kW92+Hb/jMW7SKGv2xBCB4qpzNV0ye+g4wkt9uHrbJMJOHV7FA5GY04uWo7+sjSAVjo1lU31gn40PXZr74pFizW7/Cxp/kVq0JwSNu/Y91fPD05lQiViVSV+lcahOkH/37qhHf4mjV8PEH3eaA5NovfZSjGpxyEPnSa5EKMVzQum6KeUQWo1HYHFFdQ1A8ZYEtv03QIKhiCzBilA6r/fKY2YotXrlYAHoGHZKudMpgXojixL7Qu79TQ2edmIT9wACo+Jgmj7qORS+9PO8ny7R4feD1libvTgz5/MaZI3EVQ0Yt7w02x6khLRf+cvs7lt8Zej0pVmBLRX68VBkUfE4BEID/PjfNm/Q8Fj/AwJU3fcWsUHrxgGENbaSuFsNz9HUSGGq2q5pyQi21Rfuk4aED1Me0TYdusQ==;17r/x3GkEjpGW8hM31AXzw=="
 ---

@@ -2,6 +2,159 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2024-02-13-would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai.md",
+      "title": "Would you be happy to be operated on by a surgical robot controlled by AI?",
+      "excerpt": "Would you be happy to be operated on by a surgical robot, being controlled solely by artificial intelligence (AI)? Or, how would you feel being stitched up by a robot, which is remotely operated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
+      "originalUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITV",
+        "domain": "itv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-senate-committee-discusses-bill-that-deals-with-artificial-intelligence-in-campaign-commercials.md",
+      "title": "Senate committee discusses bill that deals with artificial intelligence in campaign commercials",
+      "excerpt": "Under House Bill 1133, any images, video or audio that changes a candidate or elected official’s appearance, conduct or speech must have a disclaimer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "originalUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WCNC/images/ff68ac18-3d57-4685-ba45-9c8184e839e0/ff68ac18-3d57-4685-ba45-9c8184e839e0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "publishedDateTime": "2024-02-12T21:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTHR",
+        "domain": "wthr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain.md",
+      "title": "Expansive facial recognition surveillance networks coming to Hong Kong, Bahrain",
+      "excerpt": "The use of FRT for law enforcement has proven controversial, but not enough to deter authorities around the globe from implementing new FRT schemes",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain",
+      "originalUrl": "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg",
+          "width": 2048,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T21:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-man-tracked-with-facial-recognition-software-indicted-on-indecency-with-a-child-in-walmart.md",
+      "title": "Man tracked with facial recognition software indicted on indecency with a child in Walmart",
+      "excerpt": "A Texas man was indicted for indecency with a child allegations connected to an incident in a Wichita Falls Walmart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/man-tracked-facial-recognition-software-184120890.html",
+      "originalUrl": "https://www.aol.com/man-tracked-facial-recognition-software-184120890.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T20:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-super-bowl-lviii-told-by-ai-deepfakes.md",
       "title": "Super Bowl LVIII, Told by AI Deepfakes",
       "excerpt": "Gizmodo used Midjourney to create visual representations of some of the Super Bowl’s biggest moments. AI deepfakes are slowly becoming a central component of our society, so we",
@@ -950,188 +1103,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
-      "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
-      "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1300,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
-      "publishedDateTime": "2024-02-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation.md",
-      "title": "The Role Of Humans And AI In Social Media's Battle Against Misinformation",
-      "excerpt": "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655225b46f7ef811892e44e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
-      "publishedDateTime": "2024-02-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-boycott-tesla-super-bowl-ads-target-self-driving-technology.md",
-      "title": "‘Boycott Tesla’ Super Bowl ads target self-driving technology",
-      "excerpt": "A pair of Super Bowl ads went after Tesla’s self-driving technology Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/",
-      "originalUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/",
-      "publishedDateTime": "2024-02-12T10:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-microsoft-preparing-for-a-quantum-leap.md",
-      "title": "Microsoft: Preparing For A Quantum Leap",
-      "excerpt": "Microsoft has launched Azure Quantum, a cloud-based platform for researchers to learn quantum programming. Read why I rate MSFT stock a strong buy.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
-      "originalUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1241725400/photo/quantum-leap-a-portrait-for-troian-february-7-1971-episode-2-pictured-deborah-pratt-as-troian.jpg?b=1&s=594x594&w=0&k=20&c=B-k-GdCjYCVtWpFQWAmebAax0AM1ghxnG2Sb933vek0=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

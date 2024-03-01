@@ -2,6 +2,170 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2024-02-08-the-ethics-of-ai-balancing-innovation-with-responsibility.md",
+      "title": "The Ethics Of AI: Balancing Innovation With Responsibility",
+      "excerpt": "If you don’t follow the news of new AI products even for one day, you might miss something important. As a seasoned entrepreneur with more than 15 years of experience in IT consulting, I have noticed that we should delve into the ethics of AI implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3a7e6d64deeeba6f83f98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
+      "publishedDateTime": "2024-02-08T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning.md",
+      "title": "D-Wave and Zapata AI Announce Strategic Technical and Commercial Collaboration to Advance Quantum-Enabled Machine Learning",
+      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, and Zapata Computing, Inc. (operating as Zapata AI ),",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment.md",
+      "title": "Simpson Associates become the key delivery partner for newly launched TOEX Capabilities Environment",
+      "excerpt": "Simpson Associates, leading data transformation consultancy and managed service provider, are thrilled that the Tackling Organised Exploitation (TOEX)",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T11:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-1-artificial-intelligence-ai-growth-stock-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street.md",
+      "title": "1 Artificial Intelligence (AI) Growth Stock With More Upside Than Nvidia to Buy Now, According to Wall Street",
+      "excerpt": "Some analysts have called artificial intelligence (AI) the fourth industrial revolution, citing its potential to improve productivity and efficiency with predictive insights and automation. Similar to the third industrial revolution -- which was driven by digital technologies like the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/8e7684296fe079a184271a11ff614dad/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764162%252falphabet-revenue-wheel.png%26amp%3Bw%3D700",
+          "width": 3512,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-gpu-prices-and-availability-q1-2024-how-much-are-gpus-today.md",
       "title": "GPU prices and availability (Q1 2024): How much are GPUs today?",
       "excerpt": "The only current-gen GPU that suffers from some stock and pricing issues is the RTX 4090. Due to the high demand for AI chips, as well as scalpers buying the card out to export to China ...",
@@ -905,178 +1069,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-40-amazing-ibm-statistics-and-facts-for-2024.md",
-      "title": "40 Amazing IBM Statistics and Facts for 2024",
-      "excerpt": "Explore the dynamic realm of IBM statistics in 2024, revealing the latest in technology usage that redefine the industry landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/statistics/ibm-statistics/",
-      "originalUrl": "https://techreport.com/statistics/ibm-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2024/01/IBM-Statistics-and-Facts.jpg?_t=1707330166",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T18:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-amazons-cloud-boss-likens-generative-ai-hype-to-the-dotcom-bubble.md",
-      "title": "Amazon’s Cloud Boss Likens Generative AI Hype to the Dotcom Bubble",
-      "excerpt": "As CEO of Amazon's dominant cloud computing platform AWS, Adam Selipsky is one of ... the industry is racing to adopt generative artificial intelligence. Although a fan of the technology, he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
-      "originalUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65c2ca0dbafb5fecca35880c/191:100/w_1280,c_limit/Adam-Selipsky-AWS-CEO-Business-1245214128.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-meet-tara-the-ai-digital-worker-whos-helping-financial-institutions-stop-the-bad-guys.md",
-      "title": "Meet Tara - the AI Digital Worker who's helping financial institutions \"stop the bad guys\"",
-      "excerpt": "To that end, towards the end of last year the firm announced the rollout of its no code Work.AI platform and a partnership deal with a legal software company Epiq. Based in New York, Epiq wanted to build its own legal Digital Workers and is now using WorkFusion’s no code Work.AI platform. Famularo comments:",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "originalUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2024-02/Screenshot%202024-02-07%20at%2010.41.02.png",
-          "width": 1422,
-          "height": 1014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "publishedDateTime": "2024-02-07T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-webpt-wins-2024-best-in-klas-recognition.md",
-      "title": "WebPT Wins 2024 Best in KLAS Recognition",
-      "excerpt": "\"This accolade from KLAS Research validates WebPT's commitment to excellence and innovation as we aim to advance Practice Experience Management in outpatient therapy,\" said Ashley",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-01-expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer.md",
+      "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
+      "excerpt": "The rise of artificial intelligence (AI) has created opportunities to improve the customer experience in the contact center space. Machine learning (ML) technologies continually improve and power the contact center customer experience by providing solutions for capabilities like self-service bots, live",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/expedite-genesys-1117x630.jpg",
+          "width": 1117,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T16:51:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-soundhound-ai-shares-tumble-19-on-4q-miss.md",
       "title": "SoundHound AI Shares Tumble 19% on 4Q Miss",
       "excerpt": "Analysts polled by FactSet expected a per-share loss of 6 cents. Shares of SoundHound AI have shot up since chip giant Nvidia reported an ownership stake in the company. The stake was first reported in a filing in February. The company said with the fourth ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -307,6 +359,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
+      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
+      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "publishedDateTime": "2024-03-01T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps.md",
       "title": "e& UAE to Deploy AWS Amazon Bedrock and SageMaker GenAI Apps",
       "excerpt": "UAE yesterday announced a partnership with Amazon Web Services (AWS) to deploy advanced generative artificial intelligence (GenAI) technologies.",
@@ -315,7 +419,7 @@
       "originalUrl": "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -599,7 +703,7 @@
       "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 358,
+      "heat": 378,
       "tags": null,
       "images": [
         {
@@ -652,7 +756,7 @@
       "originalUrl": "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "",
@@ -891,7 +995,7 @@
       "originalUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1131,110 +1235,6 @@
         "AI Ethics",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton.md",
-      "title": "Accelerating large-scale neural network training on CPUs with ThirdAI and AWS Graviton",
-      "excerpt": "This guest post is written by Vihan Lakshman, Tharun Medini, and Anshumali Shrivastava from ThirdAI. Large-scale deep learning has recently produced revolutionary advances in a vast array of fields. Although this stunning progress in artificial intelligence remains remarkable, the financial costs and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/accelerating-large-scale-neural-network-training-1118x630.jpg",
-          "width": 1118,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T16:09:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-identifies-new-type-of-prostate-cancer.md",
-      "title": "AI identifies New Type Of Prostate Cancer",
-      "excerpt": "There are two distinct types of prostate cancer, which may open the door to more personalized therapies, according to a new AI-driven study published today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
-      "originalUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaa1c4adb4c8f69357735/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
-      "publishedDateTime": "2024-02-29T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

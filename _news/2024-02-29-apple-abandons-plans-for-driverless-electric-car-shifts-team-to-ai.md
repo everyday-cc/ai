@@ -7,8 +7,8 @@ originalUrl: "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-
 webUrl: "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reason
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI"
-    excerpt: "Bloomberg's Gurman wrote in January that Apple was at \"a make-or-break point\": The company did not expect to introduce a car until at least 2028, and the final product would have \"more limited features\" than the \"truly driverless car\" originally envisioned ..."
+    excerpt: "Cook said \"we continue to spend a tremendous amount of time and effort\" on artificial intelligence but gave no specifics—as well as products like the Vision Pro virtual reality headset."
     publishedDateTime: 2024-02-28T14:50:00Z
-    webUrl: "https://www.aol.com/news/apple-abandons-plans-driverless-electric-195018172.html"
+    webUrl: "https://reason.com/?p=8267073"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
+      name: Reason
+      domain: reason.com
+    quality: 54
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/02/zumaamericasthirtyeight489622-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Apple Shifts Gears: Abandons Electric Car Efforts After A Decade; Pivots To Artificial Intelligence"
     excerpt: "Apple Inc has decided to pull the plug on its ambitious decade-long project to develop an electric car, codenamed Project Titan. The decision was disclosed internally on Tuesday, leaving nearly 2,000 employees associated with the project taken aback."
     publishedDateTime: 2024-02-28T04:51:00Z

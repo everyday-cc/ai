@@ -47,20 +47,6 @@ related:
         width: 1494
         height: 1080
         isCached: true
-  - title: "AMD’s Future in AI: MI400 AI GPU Anticipated for 2025, Refresh of MI300 in the Works"
-    excerpt: "AMD is expected to introduce a version of its MI300 AI accelerator, which will include HBM3E memory, sometime this year. They also have plans to launch the"
-    publishedDateTime: 2024-02-25T14:34:00Z
-    webUrl: "https://technosports.co.in/amds-future-in-ai-mi400-ai-gpu-anticipated-2025/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 47
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2021/10/cropped-TechnoSportslogo-2-1024x1024-1.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "EnUZ6zzmBvC6kNZ9rX4/6JRS8fFRdiGQvcwwxczHiceEenCQdi+DiU0qPvq3SOPHHai5F/QeXVNp2q6fZHfyPmceoPfGL0pseJKH0LqLa0AdGlilFVlhDWcs0r9b7i+pKolILRjFoj1O3ejHyUhzGWaAWTPonzUdmHKQUFowxZXvIhKEQd/AVOZKtbNU9Sfkl/Q8pACcrkWNluQFjZ4MuL8nEpegPiA03ODpiFTFm+6VKkHZ7MyPTFPNKbxFTiZz7yrsncR9LUQC9jGidRg7SLBMjUK2RPlBe5bomh2sYxieGozEz3hAusutS+StC5tnWl0CA//oxOP0AHeAKQadHDFRMIHFHsjSyz50+SDqV4aHNY+rVPVfdkzOfKZP86kIBtjTeMDnVrKCJnOcdIkkZTR/X8SPLWOXmomWU+/0LzF0VLNWrR2XzvlnhTlCXNQbnfoF8bx06LAjjnlrVs53QS6m3HnU+KU+s0q9yQfJyVtr4HNvbR4NQWp62TLBFzQhN2EZukNEtGBcTvDouq7cwg==;Ttzn8G0Y4tg/Wkluvf9AVQ=="
 ---

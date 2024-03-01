@@ -64,6 +64,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Top soccer clubs are using an AI-powered app to scout future stars"
+    excerpt: "A London-based technology company is looking to “democratize” talent-identification and scouting in soccer using a mobile app. Free to download and available globally, the aiScout app allows aspiring soccer stars to enter virtual trials for professional clubs by uploading self-recorded footage of themselves completing a series of drills."
+    publishedDateTime: 2024-03-01T12:14:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/03/01/top-soccer-clubs-are-using-an-ai-powered-app-to-scout-future-stars/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 19
   - title: "SK Telecom partners with AI search startup Perplexity in Korea"
     excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
     publishedDateTime: 2024-02-26T12:30:00Z
@@ -73,6 +82,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
+    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
+    publishedDateTime: 2024-03-01T14:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "AUpeXgW3oyEE/bxjBzyXFE8jstQmqJHhob6AHZ4jQIlQy0szQfprHUNOy2aLeBhHDZgoJortjboyUC9LaHl4KKMm2UN4geV2asFQc/dX6hdFGCEjni7c2tNNrmWs69Bl6OLSFtJ+Zhn+390YOF5cFwS2FosQuO9kecZx6s8CHW06PuQsEuQzhqk4sDpSoUMICAn5qqcJBxAFQ04ac+Dfu6ccdWrB6hMma/1csjwAcKNjrjYLAzdJHBYAGEXX0RhXhTh0DUR8H62ZalYY2/vsz9vMf31/hMSLyH7JRkjDJQG7EupHTmJ1n68cMAdU5bQDU9+NhCquAryboq4GxPKN1c2U7NUQUXjffjHm7K5koRI=;pqyTOm6yhswaQJmNq1qxZA=="
 ---

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-02-why-its-time-for-a-chief-ai-officer.md",
+      "title": "Why It’s Time For A Chief AI Officer",
+      "excerpt": "Does your company need a CAIO? Artificial intelligence has the potential to impact every areas of business. Early adopters include the Mayo Clinic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
+      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbf5bbdc2b3980a75d196e/0x0.jpg?format=jpg&crop=2151,1210,x0,y146,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
+      "publishedDateTime": "2024-02-01T19:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-nvidia-turning-to-intel-foundry-services-to-expand-gpu-and-ai-chip-capacity.md",
       "title": "Nvidia turning to Intel Foundry Services to expand GPU and AI chip capacity",
       "excerpt": "Nvidia could choose Intel Foundry Services as a new partner for GPU manufacturing in the next few months. According to rumors from unnamed industry sources, Nvidia",
@@ -1407,49 +1460,6 @@
       "provider": {
         "name": "Seattle University",
         "domain": "seattleu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-the-top-12-people-in-artificial-intelligence-policy-ethics-and-research.md",
-      "title": "The top 12 people in artificial-intelligence policy, ethics, and research",
-      "excerpt": "Before getting his Ph.D. in math and artificial intelligence, Legg briefly studied finance in Switzerland. Since 2021, Mitchell has worked as a researcher and the chief ethics scientist at Hugging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
-      "originalUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-106798600,width-500,resizemode-4/The-top-12-people-in-artificial-intelligence-policy-ethics-and-research.jpg",
-          "width": 500,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
-      "publishedDateTime": "2024-01-15T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
         "images": null,
         "publishers": null,
         "authors": null

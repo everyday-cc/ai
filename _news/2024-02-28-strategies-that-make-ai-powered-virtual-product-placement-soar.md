@@ -7,7 +7,7 @@ originalUrl: "https://www.streamingmedia.com/Articles/Post/Blog/Strategies-That-
 webUrl: "https://www.streamingmedia.com/Articles/Post/Blog/Strategies-That-Make-AI-Powered-Virtual-Product-Placement-Soar-162814.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,35 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
+    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
+    publishedDateTime: 2024-02-26T13:04:00Z
+    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 0
+  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
+    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
+    publishedDateTime: 2024-02-26T16:04:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 0
 
 secured: "xrRAb9SKi+J+P6Ow7k3kTP5kGfItu64sYN11h8dykYsFOKLpxmLhwp0MVkQCWAhW8I2WzZKciVuBw+InBgsNS9BCmLbCQaJ6eRstWMVewY1DCxUKdhGjxdt37PXHZfFx5byHprz9pQdKUj5Y2wnlxG4izmT74clpGaN2ZNdmQParYhhJjz6qzziUE3XCUVjN6wiTJetCf3dEibe97pj6kyjjNAd//3Rw1zLua6RfEDnlKRS2A8QpefL5KMYTm93IpqaG7Q5tv2zQEiLGG6yNhdCBqgf0R5VTVzQLIuE1B1j6MGCViDJYl/1Ni/bdjQs44CPJ6+T1Ta4h2qprWx73EpKX15Vk+B2SbLqM56/9v8U=;k58L6J86pQ/oGhTtheyU8A=="
 ---

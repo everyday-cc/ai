@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 228
+heat: 238
 published: true
 
 provider:
@@ -116,6 +116,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Managing The Convergence Of Regulatory Tech And Fintech"
+    excerpt: "Technological advancements in fintech are starting to help create a more secure financial ecosystem, where movements of funds are transparent and bad actors are more easily identified and stopped. AI and machine learning are poised to become even more crucial in helping to understand consumer behavior and patterns."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/managing-the-convergence-of-regulatory-tech-and-fintech/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
     excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
     publishedDateTime: 2024-02-27T23:19:00Z
@@ -189,6 +198,6 @@ related:
         height: 500
         isCached: true
 
-secured: "wiWyC/zbhkQ1bXfqY8bmMxWH6DMjpCVbNbntLF5iQdBd7cRGZmrCfXrXYVRSJRgojRBCEJZ9RI/yiCHObKpTGmElLBfwNxSfwz/NUaljlnxoUA05RshH62MvwqwjV1Y5PU/T7eavgQb6vUoYvW+H8TLC08HIlzDPOtwsRQnLLb8RaLOThnNmD+PaVAM9VaABkvUAlgX+//n5yqclOnl08/lIj/rl5zzMyaltWV2AtR1ZpL3A7qxv5oSAZUcNyqwsdy5UZxVxnTI4TQX3FFYAJ6hRQkKpozYncOQAQO0AWgvZI9oTY/nToAjdoOoUAwlgr/OyZwKf2BF5iB6nKzMBPLrtlKXLIvvyotwSVxYNxqc=;QAoojn7hOF9scn+lmwtVWw=="
+secured: "b1IYalWbSxJYbjxgwXa15jHjN0gDDR+/kH6Qn7iOAH+sqW0Bx+AL5FfTFG3+3a5POWPnZajt2Gzvrl9yTFwVx8sXS0jZG2DooZQmBdTLfoWGdfryqOL7c+7mSt+g75J5ehCgVU4B2PL55zHaAGIrbseK43e6fSt6sN31nNG/r5Q2wk1073X9mcHEKJRVi9sdy7ZcH6PKK2cnbHcaRKvNKGGKoBWLTRTdJGH1w+BhUHQ7W0k5iOS4POzkN9bkzE2gDxApQLmfsXWqyUtmVFZXc0EMSzT985VBlNO32COdCldCyj/2NjDG8X72LQEUfrpkQIg1Jh44Jdf2zUoF9vEpnS91vJ7wEwDEAPf0dhRo/t0CGKWmNT1/9B84rg6fImP6k8WWb7/+xPq+oM2fYjpc2k/UewZYxr9prKEQefM/YiEmyF1ufi0Foy7pFhlGjfsQl6t2qTM+tn+eW8B3vYlRCPlSAj2YLUZMMhY4HyYOUpfabsKasvmaA1aGXA7BO9QG/oEfoELKCA9adWqpr98Auw==;ARNfQ6dm4QI4+Ptc3Cd7UA=="
 ---
 

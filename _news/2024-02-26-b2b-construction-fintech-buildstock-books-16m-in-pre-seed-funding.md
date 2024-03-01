@@ -78,6 +78,15 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "Socure Teams Up with Open Banking Fintech Trustly"
+    excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
+    publishedDateTime: 2024-03-01T08:50:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222107-socure-teams-up-with-open-banking-fintech-trustly/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
 
 secured: "4d4MX2l2qu3yV/DCwwmkti4JDLfCYTxR/ejN6/jUYHgsQ58+xvP7j55nTLua5Yeh/P9Dp6knZp2bLkjnzuyZ87R4bCXa6G5aLlYdb9Ogu9HVZGrl0rUG0LFmPQQy7JHk0WT/ePlFmU2pmqxt+n+QTtCm2fxjUuGt3bzzFxRAyEn5EKDJ43NjdZ9OS9V7OjeXqPXg9W9Hqb3zbducep0lS67LfMSI3Foo5x6+S10UhERUPSSTaWeGyEnHaJ6gW/S5YaUKSau4liMqPxa+ebKZ4ufjQ5Z3vKD6qKzlYZnDVdbum0JRmUJ/w54x7e13byAbio5iyNqA5+2lbUbJu5z/kcKZ6MX213wp4uUm2vvjH/DZmkWUlOMn1oORjZuFHCEBj4HVtCvpSIU3zjSuz2XHw2J63ln20fTt4hqEivNB20GSQ565vLpXR42EWtdwmd9CeX+zSemQ13e0uusvwSZ8Of59k9uJ+1Y4rNTx2BDKTWtTlatvElrmLYagcgnxDToRFJFy6BzUG1KgeztcuWpY0Q==;Bors0lHVvMFR7Zq8m1MxQg=="
 ---

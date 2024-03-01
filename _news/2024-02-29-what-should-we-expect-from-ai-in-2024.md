@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Stock: Is It Still A Top AI Stock In 2024?"
+    excerpt: "Those applications require specialized hardware and software, such as high-powered processors, memory chips, solid-state drives and robust AI development platforms. The table below shows how these stocks have performed year to date and over the last three ..."
+    publishedDateTime: 2024-02-28T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/nvidia-stock-still-top-ai-stock/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65df4e1cf4fc67b4ae4c124e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Cyber Insights 2024: Artificial Intelligence"
     excerpt: "AI's progress in 2024 and beyond: 2023 was a year of hype, 2024 brings the beginning of AI reality, and 2025 likely to be its delivery."
     publishedDateTime: 2024-02-26T16:42:00Z

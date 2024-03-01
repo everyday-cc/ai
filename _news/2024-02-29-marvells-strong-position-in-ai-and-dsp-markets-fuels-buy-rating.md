@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Dell Technologies Surpasses Earnings Estimates with Strong ISG Performance and AI Server Growth; Receives Buy Rating"
+    excerpt: "Goldman Sachs analyst Mike Ng maintained a Buy rating on Dell Technologies (DELL – Research Report) yesterday and set a price ... Additionally, the analyst was impressed by Dell’s AI server backlog, which at the end of the fiscal year 2024 stood ..."
+    publishedDateTime: 2024-03-01T04:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dell-technologies-surpasses-earnings-estimates-with-strong-isg-performance-and-ai-server-growth-receives-buy-rating-1033123254"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "gLn8d87DmeGpOltkj7AYkBY6Lar3TtPyWqxe+NhC6J9CSrk2WQ1tNEFj/L7FsZfdrdCmWn33AUPkF0mMKue9PRANrtrYhMe39aCqNv8xVPPYRPBTIpusv5Pgn2Z9odkUanhwHccexUWtVlFxY36aPxctP7Zvhzl6RZ2uzHxCKO3Yuw9DWn+HZvNOeAgFiv9WYwSpAfcxT7SBqaNBi4fMmKThMO/WL6kmkJR7wqWmOoCLnDXSCT/FxeE2OSgPJreLXZUsRDIrcpn2QccEwo8W3s4BI2Wd+1kYGDBD5mBH8Xasuy6XorR3k+PgCO8ERY9wiAFLmZtDS3d03TwCbrk1IagDW4wkaHCnw3m/NZ3HbEg=;VA0wo1JTP/5i7av39+uKng=="
 ---

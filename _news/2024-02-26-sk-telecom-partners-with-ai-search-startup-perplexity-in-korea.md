@@ -71,6 +71,24 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 20
+  - title: "Top soccer clubs are using an AI-powered app to scout future stars"
+    excerpt: "A London-based technology company is looking to “democratize” talent-identification and scouting in soccer using a mobile app. Free to download and available globally, the aiScout app allows aspiring soccer stars to enter virtual trials for professional clubs by uploading self-recorded footage of themselves completing a series of drills."
+    publishedDateTime: 2024-03-01T12:14:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/03/01/top-soccer-clubs-are-using-an-ai-powered-app-to-scout-future-stars/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 19
+  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
+    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
+    publishedDateTime: 2024-03-01T14:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "6YjX3tmuhRqYF4NqQSBesQjwmuW3bYZ3QVfs1rwzqWlRHly2BvWA0HHRoWECjtHKMxc1Ne1gRvcGCfukTA+XnTrq4+BEpjC4Fl3nQOZTT9Z05ER2SCFCJFwXLT9LqWpLTg2/KOXqTkmz0Ni1B+WjAYfPOGAU6JsGBGuc1a/ye7oeV03grXUjv2ChKxeSc+XF4LIPn7EX7Gggh9EPqjy53JSvElvSDEK1s6t9Adcv8Ie05pcIaHrqNFD7X4iVXQWtwescjnwjgHUF6vZ9CWISZ2XLBS+6Iz7ewOusVGbO3eR74onQtfn/GKvY3dqpHbUBXUMfFPXFUCro6f/8SfmwOpTw/U/QZ6p/tzCgFee2/xPpAie8ywVejtHAxVqJnh/pi95SiiZHTkmu5oLkViCKkWkFZ5JYVxoexLeP1LxiG8LBq5e7HOR77Tk0rRBpU06bJlAZFAuGEbMmXa0bwQpQSpTqruT0qstHAwpqETPd3B7pjfDTVkvQkauOWqZh7/B1n0A0XBwLzwtyoU/5dN4/pg==;sxl7jPRGrBJ4l0quTbonMQ=="
 ---

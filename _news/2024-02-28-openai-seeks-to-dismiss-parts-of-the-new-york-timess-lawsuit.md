@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/27/technology/openai-new-york-time
 webUrl: "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/03/chatgpt-output.jpg/w=3000"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "AI startup Cohere opens New York office in expansion"
+    excerpt: "The startup, which develops foundation models that compete with OpenAI and focuses on serving enterprise customers, will house about 30 employees in its office in the Meatpacking District, home to major tech companies such as Google."
+    publishedDateTime: 2024-03-01T15:07:00Z
+    webUrl: "https://www.aol.com/news/ai-startup-cohere-opens-york-130736511.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/5e26b55f5894d7238b6d943584d27d8f"
+        width: 800
+        height: 522
         isCached: true
 
 secured: "mK5Qh2hE0U7JtpcDyezf4QpJLfjH7tjOYJtS4gNnHDulPYoJsaxtsgn8EHDc13W7HBPGyQMby/KNJF5W68w6Tfza4tHs/uY5qXPGFZ75bFpz229F7gJcbTdk2J7E1CoAn7kklsJGxRXwLoox8KE05IRGTvdwtn4wAK0ER6QlmGHpNrvU/6gasXWp/x0bV8qHBEqz7CRsIK2sACHh7t2Zjj9XHQXtpgOA+MEI1xCdX6jQ4fF9VRDVw8RvEGbEIJ4rvctj+WyEMX91g2E0cSLezQ66ec/tC0+fM48YqJSFiqP6SZOPP+IGVv840JRSm+dueLMMKNpde8ZPHS5tr4Q+4N+HU+dcK5i1ItCf9On8f04=;cldk7K0lcTX3LP61XWhTjA=="

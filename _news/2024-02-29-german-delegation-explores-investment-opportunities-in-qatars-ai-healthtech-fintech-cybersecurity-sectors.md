@@ -92,6 +92,15 @@ related:
         width: 799
         height: 449
         isCached: true
+  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
+    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
+    publishedDateTime: 2024-03-01T13:06:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
 
 secured: "DPiK6z5dIl1ZAFsHoZAfvR1S1OAfceBpR6PrHdVtAEfAI4nQeDWxS40wHRh4fcdCTIMf+uPvoVo+T0XOis+Z5WzA+VCEwhkyfGTX2zMeGnwkeFwReYNoL95cYgOckKV3HW6ACprp3s8TEB8BStp4UM+S2S5f50wABuacb9qFzXlLq23JtNa63AqGGDSLxOcTIFVMpplAgZisqab+T2OfBu41/ZyvSbcE89amkd8uvmH6bV8iG9GoIOxnx6qdBkh4TPIMjQvL8qT3rfzmwngoKnSeB8p54F0c1v7ehgxeRleuhosm7QG/xhqvjubVScdxoIJ0LrE6ql69tz5O9jLymwFFOZ00ZKeoptCffBdZr4t1fb0iPVadpGmDB6TJ9UOwldqYEUClBU06/reuBYO23RuPNzZVDJBLfgPkTnETaiOssQhen2hL6uwU3crQ5icUaSxvI6feGUkWin+m3NG3KNw5g4f3mjtK9A++oZ2/jvXbc6O5tNv2HV4apou9Z79rxTB6hRaWQyhnzsMpQKDb/A==;wIOf8KvOl7hKpJbJBtwOCw=="
 ---

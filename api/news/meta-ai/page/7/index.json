@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-11-20-last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains.md",
-      "title": "Last llama on the loose returns to his home in the Blue Mountains",
-      "excerpt": "After nearly 10 days on the loose in the wilds of the Blue Mountains, the last llama on the loose returned home Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://barrie.ctvnews.ca/last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains-1.6652451",
-      "originalUrl": "https://barrie.ctvnews.ca/last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains-1.6652451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/20/llewis-the-llama-1-6652849-1700507040921.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-20-is-meta-llama-truly-open-source.md",
       "title": "Is Meta Llama Truly Open Source?",
       "excerpt": "Explore the authenticity of Meta LLaMA as an open-source LLM, dissecting the criteria and larger implications.",

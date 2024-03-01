@@ -37,20 +37,13 @@ related:
         isCached: true
   - title: "How scientists are using facial-recognition AI to track humpback whales"
     excerpt: "After being hunted for decades, humpback whales returned to the Pacific Ocean in big numbers. Now, new technology is revealing that underwater heat waves are taking a toll on that recovery."
-    publishedDateTime: 2024-02-29T23:06:00Z
-    webUrl: "https://www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
-    ampWebUrl: "https://www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
-    cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
+    publishedDateTime: 2024-03-01T02:06:00Z
+    webUrl: "https://www.kalw.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
     type: article
     provider:
-      name: WUNC
-      domain: wunc.org
-    quality: 59
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/4e7e9ef/2147483647/strip/true/crop/3634x2044+0+795/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F03%2F01%2Fgettyimages-2041484447_sq-14f387ce5bb531386f4232fbd94a8683a4ce13e5.jpg"
-        width: 480
-        height: 270
-        isCached: true
+      name: KALW
+      domain: kalw.org
+    quality: 19
 
 secured: "oU8F0F4/brp1USLOiPgdV4BwiRrOIQljArzdHx26jsFpmEQk6pz5WCjGJQHCaiusWpGRYxFjMEIxYixWeOHQo2e0qDI1PDrsVn5GkXzbtCBQ1UEpJ8fPy7iQjJ8MQHrFk+vaFeU8Cjkm/vd3oalG3PpyhLNcQxk/yxwfpNNd2mJbVljmEDPuzTS3m29oVOvypfkdx9o3EvAlZfaDxloZDic4hWR8kQ3RkdeMjVMfr5LJeILxEbMK3d2BUkNr3zUCvHkmOj2Gj1FvA+k4aF9Ry5Kyb5MStJKnzeo2VFhSpHbvSKslxcqKpjipGN4+nupgkslRrCmq1tjVwYyvZ6DaMFm/Gdt/VNh/DPLtQdygwrkykg+geJNy85jxklJatVKIXu7d+0bR7pQtpEmOm0Lmg6LFyu1M9qH8RfbIKWugHSqbrvKpN1N0Oww1hg2KK2iZtZ27EmQHWfzzJB0dsU+R75X5IeyYwYW8Q10tv7T79le++p+K1pk1CrTgxLh3uigWzp0D83g5SmUCNTB2OMaPgA==;SUU3k8WY8eVHOL6ryDqtvQ=="
 ---

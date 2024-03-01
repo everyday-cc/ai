@@ -7,7 +7,7 @@ originalUrl: "https://www.charlotteobserver.com/press-releases/article285939161.
 webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,29 @@ topics:
   - AI
 
 related:
+  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
+    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Strategies That Make AI-Powered Virtual Product Placement Soar"
+    excerpt: "Virtual Product Placement (VPP) is an excellent new type of CTV and streaming ad placement, but Stephan Beringer, CEO at Mirriad, discusses best practices for advertisers to follow for it to work well."
+    publishedDateTime: 2024-02-28T14:00:00Z
+    webUrl: "https://www.streamingmedia.com/Articles/Post/Blog/Strategies-That-Make-AI-Powered-Virtual-Product-Placement-Soar-162814.aspx"
+    type: article
+    provider:
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/163168-142733-globe-streaming-ORG-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
     excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
     publishedDateTime: 2024-02-26T16:04:00Z

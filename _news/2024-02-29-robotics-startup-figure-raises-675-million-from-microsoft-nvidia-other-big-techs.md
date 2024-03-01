@@ -116,22 +116,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "Google Suddenly Reveals Bad News For Millions Of Microsoft Users"
-    excerpt: "Which brings us to OpenAI’s ChatGPT (key shareholder—Microsoft) versus Google’s Gemini (née Bard). Currently, these two generative AI platforms are in the box seat for first mover advantage in AI-based search. This will step beyond browsers and task ..."
-    publishedDateTime: 2024-02-25T15:11:00Z
-    webUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/25/google-suddenly-reveals-bad-news-for-millions-of-microsoft-users/"
-    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/25/google-suddenly-reveals-bad-news-for-millions-of-microsoft-users/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/25/google-suddenly-reveals-bad-news-for-millions-of-microsoft-users/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65db651e54a80e758fd9cf16/0x0.jpg?format=jpg&crop=1909,1243,x138,y116,safe&height=900&width=1600&fit=bounds"
-        width: 1382
-        height: 900
-        isCached: true
   - title: "Microsoft and Mistral AI forge partnership for AI advancement on Azure"
     excerpt: "Microsoft and Mistral AI have unveiled a new multi-year partnership aimed at accelerating AI innovation and introducing the Mistral Large model first on the Azure platform."
     publishedDateTime: 2024-02-27T07:44:00Z
@@ -422,6 +406,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft unveils new AI tools for Windows 11"
+    excerpt: "The deeper integration of Copilot and other AI capabilities into Windows is a key part of Microsoft ... \"As businesses become more [familiar] with what it does, [Microsoft will] start bringing more to the table.” Matthew Finnegan covers Microsoft ..."
+    publishedDateTime: 2024-03-01T16:34:00Z
+    webUrl: "https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/03/win24_c2refresh_copilot_hero_3x2-1024x683-copy-100961603-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried"
     excerpt: "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ..."
     publishedDateTime: 2024-02-28T04:43:00Z
@@ -546,6 +546,22 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/ybCxS43NhQOBa5jkIkbISA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/6b32ce3930fd4f032171c753d4ab7fee"
         width: 1200
         height: 740
+        isCached: true
+  - title: "Apple's Launching A Futuristic Siri And Apple-Based Artificial Intelligence As It Looks To Take On Microsoft's AI Dominance"
+    excerpt: "In a bold move toward integrating artificial intelligence (AI) into its ecosystem, Apple is setting the stage to unveil a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June."
+    publishedDateTime: 2024-03-01T15:04:00Z
+    webUrl: "https://www.benzinga.com/startups/24/03/37424586/apples-launching-a-futuristic-siri-and-apple-based-artificial-intelligence-as-it-looks-to-take-on-mi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37424586"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37424586"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/ai-artificial-world-shutter_4.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
         isCached: true
   - title: "Watch out ChatGPT — Mistral just cut a huge deal with Microsoft for GPT-4 level AI model"
     excerpt: "That is likely to change after the company signed a multi-year deal with Microsoft to bring its next-generation, GPT-4-level AI model Mistral Large to the Azure cloud. Mistral isn't even a year old as a company but is worth more than $2 billion and has ..."

@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-29-apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai.md",
-      "title": "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI",
-      "excerpt": "While a disappointment to green-tech supporters, Apple's decision reflects the growing uncertainy in the E.V. market.",
-      "sourceUrl": null,
-      "webUrl": "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/",
-      "originalUrl": "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/02/zumaamericasthirtyeight489622-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reason",
-        "domain": "reason.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-29-inquiry-into-ouster-of-openais-chief-executive-nears-end.md",
       "title": "Inquiry Into Ouster of OpenAI’s Chief Executive Nears End",
       "excerpt": "He regularly covers Facebook and Silicon Valley. More about Mike Isaac Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz OpenAI filed a motion in federal ...",
@@ -136,6 +93,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai.md",
+      "title": "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI",
+      "excerpt": "Cook said \"we continue to spend a tremendous amount of time and effort\" on artificial intelligence but gave no specifics—as well as products like the Vision Pro virtual reality headset.",
+      "sourceUrl": null,
+      "webUrl": "https://reason.com/?p=8267073",
+      "originalUrl": "https://reason.com/?p=8267073",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/02/zumaamericasthirtyeight489622-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reason",
+        "domain": "reason.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -209,7 +209,7 @@
       "originalUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -221,7 +221,7 @@
           "isCached": true
         }
       ],
-      "content": "\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
@@ -349,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

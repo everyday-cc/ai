@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/02/26/market-downturn-artifici
 webUrl: "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,29 @@ images:
     isCached: true
 
 related:
+  - title: "3 Artificial Intelligence (AI) Stocks With More Potential Than Any Cryptocurrency"
+    excerpt: "While that growth is significant, it pales in comparison to the artificial intelligence (AI) market's CAGR of 37% for the rest of the decade and its value of $137 billion. Excitement over cryptocurrency faltered in recent years as volatility has caused ..."
+    publishedDateTime: 2024-03-01T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-ai-stocks-with-more-potential-than-any-cryptocurrency-3"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
+    excerpt: "Whether you're a casual investor or trade professionally, chances are you're aware of the boom in artificial intelligence (AI ... the world's largest cloud platform with Amazon Web Services (AWS), responsible for 31% of the cloud market."
+    publishedDateTime: 2024-03-01T16:18:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/2098997b81cb6f4b9d72eae24c27426e/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f56068daa55314cec205777cf5c338fb4.png%26amp%3Bw%3D700"
+        width: 720
+        height: 473
+        isCached: true
   - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
     excerpt: "One big reason why: The current bull market, and, in particular, the artificial intelligence (AI) stocks that are powering it higher. So, let's take a look at two millionaire-maker AI stocks that still have plenty of room to run. These stocks may not be ..."
     publishedDateTime: 2024-02-25T22:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/intels-double-wham
 webUrl: "https://markets.businessinsider.com/news/stocks/intels-double-whammy-a-chip-making-duopoly-and-a-huge-ai-advantage-1033113693"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel Bridges AI Chip Gap"
-    excerpt: "Intel is well-positioned to capitalize on emerging opportunities in the semiconductor landscape and bridge the AI chip shortage gap. Yiazou Capital Research members get exclusive access to our real-world portfolio. See all our investments here » Through ..."
-    publishedDateTime: 2024-02-25T14:00:00Z
-    webUrl: "https://seekingalpha.com/article/4673260-intel-bridges-ai-chip-gap"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://media.gettyimages.com/id/1251437157/photo/microchip-and-intel-logo-displayed-on-a-phone-screen-are-seen-in-this-multiple-exposure.jpg?b=1&s=594x594&w=0&k=20&c=HFVH7KxmOihjyT8EjTR8pO5m_rgbZfpLmjn4pVRwaAE="
-        width: 594
-        height: 396
-        isCached: true
   - title: "Intel Brings AI Everywhere Across Network, Edge, Enterprise"
     excerpt: "Intel announced new platforms, solutions and services spanning network and edge AI, Intel Core Ultra processors and the ... Samsung has demonstrated a first-call at their research and development lab in Suwon, South Korea. Ericsson has also demonstrated ..."
     publishedDateTime: 2024-02-26T05:55:00Z

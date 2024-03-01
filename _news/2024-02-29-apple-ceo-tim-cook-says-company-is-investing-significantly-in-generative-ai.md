@@ -38,22 +38,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tim Cook Reiterates Ground-Breaking Generative AI Features Will Arrive in 2024"
-    excerpt: "During its annual shareholders meeting, Tim Cook said Apple will \"break new ground\" in Generative AI in 2024. Shareholders also voted down the proposal asking Apple for an AI transparency and ethics report."
-    publishedDateTime: 2024-02-29T00:34:00Z
-    webUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/"
-    ampWebUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/02/Tim-Cook-Generative-AI-features.jpg"
-        width: 1250
-        height: 750
-        isCached: true
   - title: "Apple CEO Tim Cook promises big AI push for 2024 — what we know"
     excerpt: "AI carries its own share of potential pitfalls around ethics, inclusion, and risks. At Wednesday's Apple shareholder meeting, the AFL-CIO’s pension trust had issued a proposal that would have required Apple to issue a report on its ethical use of AI."
     publishedDateTime: 2024-02-28T00:00:00Z
@@ -65,20 +49,6 @@ related:
     quality: 39
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/5bVodBq8ZhiUbswuQcQZNS-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple to Unveil Ambitious Plan to Integrate Generative AI Later This Year"
-    excerpt: "Despite the defeat, the AFL-CIO's Brandon Rees expressed hope for improved disclosure practices by Apple on AI ethics and usage. The AFL-CIO had requested Apple to report on its AI applications in business operations and reveal any ethical standards ..."
-    publishedDateTime: 2024-02-29T04:37:00Z
-    webUrl: "https://www.gizbot.com/internet/news/apple-to-unveil-ambitious-plan-to-integrate-generative-ai-later-this-year-092117.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 38
-    images:
-      - url: "https://www.gizbot.com/img/2024/02/apple-11-1709180634.jpg"
         width: 1200
         height: 675
         isCached: true

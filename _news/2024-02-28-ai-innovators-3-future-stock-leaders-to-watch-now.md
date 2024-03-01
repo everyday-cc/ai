@@ -51,6 +51,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "AMA Report Outlines Considerations for AI Integration in Healthcare"
+    excerpt: "The Emerging Landscape of Augmented Intelligence in Health Care” report provides an overview of risks and opportunities for clinicians looking to adopt AI."
+    publishedDateTime: 2024-02-27T21:22:00Z
+    webUrl: "https://healthitanalytics.com/news/ama-report-outlines-considerations-for-ai-integration-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
     excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
     publishedDateTime: 2024-02-28T14:42:00Z

@@ -53,6 +53,20 @@ related:
         width: 320
         height: 550
         isCached: true
+  - title: "Why AI can be accountants' next big pivot"
+    excerpt: "Countless stories are emerging about the limitations of AI and technology — some humorous, others concerning. But all make clear that human context, judgment, ethics and problem-solving abilities are essential. This is why CAS offerings are a rapidly ..."
+    publishedDateTime: 2024-03-01T15:45:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/why-ai-can-be-accountants-next-big-pivot"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI Tools Can Help Governments Understand and Manage Data"
     excerpt: "One example is Augintel, software that leverages natural language processing (NLP), a subdiscipline of AI, to help process extensive amounts of case note data for those in behavioral health and child welfare industries. This tool has been adopted in ..."
     publishedDateTime: 2024-02-25T23:59:00Z

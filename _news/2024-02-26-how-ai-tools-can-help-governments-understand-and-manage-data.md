@@ -61,6 +61,20 @@ related:
         width: 1600
         height: 767
         isCached: true
+  - title: "Why AI can be accountants' next big pivot"
+    excerpt: "Countless stories are emerging about the limitations of AI and technology — some humorous, others concerning. But all make clear that human context, judgment, ethics and problem-solving abilities are essential. This is why CAS offerings are a rapidly ..."
+    publishedDateTime: 2024-03-01T15:45:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/why-ai-can-be-accountants-next-big-pivot"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/213d245/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F4c%2Ff764f70d44ec80eab750dbc8af35%2F1-1-1-artificial-intelligence-cover.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SJXBAZmaQpGLMmEp2o4zFcdrV1kGg96v7ra88buuqbqHMmQcvZrUA9nRkHY7XP/kLwchU5BDFho7FZx5wmJ29M3BK67zLNsDWl9L8xbijHDXzS1/SyKw1m3bvanuunRP+fSlT+ItQNx4yr14HqOj2F6heMn6JreRPknPL5SBjALWvbG60gx+xzTkGyW1t6w/m4QyZ0pQf1XmQ6EXFcS7EFgAX17KOvKxWsLyAeMYu4+ateDwKGWEGfffbAL9H0X6YdTLyYhBJwA6X+bU/Iuiko2slEH0nAnkv0jv8fVjjbyMAZ1mX3a7+PqYpLLoTyWWZiXqZnj7ywERGj4HlsYWJmMUgrcT6hzdnIuaqEp77IyAyzjvLR1eWJGhY38PHcCcW1Mx+c9ALi9qq+MIC6snY5gJRtM/a6BFEH48J9hUxsx7ioBsLdf3SqWHpoNjKNfR39h+JSg5kjtnVqtxojFbNcADYgrkowefWvRlXjDqXPd9DyjUz3WglzD/xwYZyNXOCuMuMYjHxquI3DNOwKLwLw==;DaC9vUobK4OOgmeLnkKlag=="
 ---

@@ -19,77 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
-    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
-    publishedDateTime: 2024-02-26T12:59:00Z
-    webUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+  - title: "HR Leaders Must Ensure AI Adoption Is A Success"
+    excerpt: "It's a steep learning curve, but the longer we wait to start, the steeper it gets. Because AI adoption requires frontline managers' understanding and cooperation, I believe HR leaders are integral to its success. When the discussion of AI adoption begins ..."
+    publishedDateTime: 2024-02-26T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265"
-        width: 7863
-        height: 5242
-        isCached: true
-  - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
-    excerpt: "The Facebook and Instagram parent is also building tools to label AI-generated images from Google ... data science, engineering, research, operations, content policy and legal teams. The objective is to identify potential threats and put “specific ..."
-    publishedDateTime: 2024-02-26T09:16:00Z
-    webUrl: "https://www.siliconrepublic.com/business/meta-eu-elections-disinformation-generative-ai-team"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-26.jpeg"
-        width: 2000
-        height: 1325
-        isCached: true
-  - title: "Harnessing artificial intelligence for infectious disease prevention"
-    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
-    publishedDateTime: 2024-02-28T02:49:00Z
-    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Fears of AI threat to democratic elections"
-    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
-        width: 700
-        height: 1047
-        isCached: true
-  - title: "Meta to form 'Operations Centre' to combat spread of deceptive AI in EU polls"
-    excerpt: "New Delhi, Feb 26 (IANS) Meta (formerly Facebook) on Monday said that it will be activating an Elections Operations Centre to combat the spread of misleading artificial intelligence (AI ... engineering, research, operations, content policy and legal ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-to-form-operations-centre-to-combat-spread-of-deceptive-ai-in-eu-polls"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 36
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2024/02/202402263124037.png"
-        width: 300
-        height: 225
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d8989b0216c468579d5548/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "+TZepiLgwzreOZ6eD2FoyZ1p+6uF2myhT28awt41RKOxqy/J3OUd4YCARpR6dvORNEuU6A8gSOHQFxoqsG9x2gehQD/tOJh7vYMxFlLhG/J8Pfag+kef8f0PQc4TlgFuaqQkxcnDM2sqxoxq9NSDJOu88XYorykS2qjIZiveFEm18oMqpMMEUP7tRJ7qYoHUN9WWV/dfyGq5BpKLulvVt7IYCk1Hj+LemFhZjy2WFxRvIJ/ZD5rxK6vxgVca3z5F6dkNi9sgWqR01jPB7thG1vRrIBgGyAx0S2u6Zlq7unXT+KgHh4uLfl8NsywY75Cd6BGDZoyTRohvz1aodcgZCNsxnUrxxgFXT9i7j1NAO6V/Faek5Le/YFBSBGUl279Js7+hFSjtr6M/zTz2s3r+V+MNKMrmDkXd5uwO1fbTNlhk6+PQeUJ/1VxCgUg6ajRGVXUj2wQwKf+l4oXXGhXLmk58pxIXK8zH4lCHcN7IZ5jDYFDAc4rJauWTd7OoKt8ZA6U+klQjmHyqWnhtRf4pLQ==;dMSVSev+fE0vIug/hkMA9A=="

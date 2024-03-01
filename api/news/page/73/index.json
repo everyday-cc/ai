@@ -2,6 +2,204 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-12-29-this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films.md",
+      "title": "This Week In XR: Anthropic Raising $750 Million, NY Times Sues Open AI, Cinematic AI Holidays Films",
+      "excerpt": "Curious Refuge Holiday AI Film Award Winners. Curious Refuge, an online community for Cinematic AI, partnered with Epidemic Sound, to sponsor a $7,500 contest for the best short holiday theme made with AI tools. The first place winner ($5000) is Dragged Holidays by Rafael Arinelli, Beto Padreca, and Paula Fernandes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658dd61b87d2fcb2f6d701c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/12/28/this-week-in-xr-anthropic-raising-750-million-ny-times-sues-open-ai-cinematic-ai-holidays-films/amp/",
+      "publishedDateTime": "2023-12-28T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-health-care-up-on-defensive-bias-health-care-roundup.md",
+      "title": "Health Care Up on Defensive Bias -- Health Care Roundup",
+      "excerpt": "Health-care companies rose as traders rotated back to the sector from more cyclical niches of the market. Shares of obesity drug maker Novo Nordisk rose",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-up-on-defensive-bias-health-care-roundup-c4236497",
+      "publishedDateTime": "2023-12-28T21:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-lg-unveils-ai-powered-wheeling-smart-robot-for-the-home.md",
+      "title": "LG Unveils AI-Powered, Wheeling Smart Robot for the Home",
+      "excerpt": "LG describes the bot, which doesn’t have an official name just yet, as a “moving smart home hub.” The bot comes packed with Qualcomm’s RB5 robotics chip, cameras, speakers and sensors for gauging temperature, humidity and air quality.",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
+      "originalUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F12%2Flg-smart-agent-robot-home-preview-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-ai-and-journalism-need-each-other.md",
+      "title": "AI and Journalism Need Each Other",
+      "excerpt": "Without the information news organizations gather, artificial intelligence is garbage in, garbage out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-and-journalism-need-each-other-nyt-lawsuit-fair-price-news-565d744d",
+      "originalUrl": "https://www.wsj.com/articles/ai-and-journalism-need-each-other-nyt-lawsuit-fair-price-news-565d744d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-906097/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T17:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-startups-are-using-ai-to-predict-responses-to-cancer-drugs.md",
       "title": "Startups Are Using AI to Predict Responses to Cancer Drugs",
       "excerpt": "More accurate prognoses and treatments tailored to patients—entrepreneurs claim AI can be harnessed for breakthroughs in beating cancer. One founder is using lab-grown human organs in combination with AI to test drug efficacy.",
@@ -1046,189 +1244,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-artificial-intelligence-machine-learning-in-finance-carry-potential-risks.md",
-      "title": "Artificial Intelligence, Machine Learning in finance carry potential risks",
-      "excerpt": "While rapid deployment of Artificial Intelligence and Machine Learning (AI/ML) in finance is promoting efficiency gains, redefining client interfaces, augmenting forecasting accuracy, and improving risk management and compliance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "publishedDateTime": "2023-12-27T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-ai-in-security-policies-why-its-important-and-how-to-implement.md",
-      "title": "AI In Security Policies: Why It's Important And How To Implement",
-      "excerpt": "Integrating AI into cybersecurity can turn it into a formidable defense tool. The rapid data processing capabilities and knack for spotting critical signs can allow AI to thoroughly examine vast datasets, revealing any hints of suspicious activities, unauthorized access or looming security risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/ai-in-security-policies-why-its-important-and-how-to-implement/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/ai-in-security-policies-why-its-important-and-how-to-implement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T13:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition.md",
-      "title": "LG introduces smart home AI agent with facial and voice recognition",
-      "excerpt": "Additionally, the robot possesses voice and image recognition combined with natural language processing. These enable it to learn and understand the context of conversations and respond to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
-      "originalUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/12/1703680640_lg3_story.jpg",
-          "width": 760,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
-      "publishedDateTime": "2023-12-27T13:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-byd-to-start-testing-l3-autonomous-driving-on-highways-in-china.md",
-      "title": "BYD to start testing L3 autonomous driving on highways in China",
-      "excerpt": "Competition is revving up in China, as BYD is the latest to be allowed to test its L3 self-driving systems on roadways.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/12/27/byd-to-start-testing-l3-autonomous-driving-on-highways-in-china/",
-      "originalUrl": "https://electrek.co/2023/12/27/byd-to-start-testing-l3-autonomous-driving-on-highways-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/12/image-22.png?w=1600",
-          "width": 1600,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T12:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

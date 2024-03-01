@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-m
 webUrl: "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-my-old-blog-into-an-ai-zombie"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Build custom WordPress websites using AI assistants"
-    excerpt: "Increase your productivity by building WordPress websites using AI assistants. Create hundreds of websites without the need to worry about"
-    publishedDateTime: 2024-02-25T15:12:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-built-custom-wordpress-websites/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/How-to-build-WordPress-websites-using-AI.jpg"
-        width: 1280
-        height: 717
-        isCached: true
 
 secured: "NIgdVWr4Sq5iav0Qb0P41H7GX8IDQ3kJRzau7WdROIUja/78mToY9Abv09nNH83qvhl5ZA+EQcYNpPP244rSwCExq5XT28mA+MR5XPoLEyD0DahmBNfPYj7EukHbDm7jJrdmhNm6B0mJ83LBqTLDf/P/c2KWSvltDsvUhEjLdAChkWidpZMvX1nXzbURlE/NBlZ7YZ0VS/DZIW8ZdqL5zYcT7JMNXOJnnVfDSpcly+yE76wrfxZvXkSY5lpEV+nZ4ISl5+/YOzVw65JVAVbHBzHMPmBSrM32yKQmOeMh+lOfz4oWBPLjepTiilnTlZB7aQUDsLmIDdTaecx1bYHCyDDylcUidHD5p87Pnxoi1ayd2/XT3P0jLDMWCqp+8OL1omm+Jp+GYr45+OR0Jn4rtYVECV9ssxRVz6t3eX7TObA6t/wjHB5EdbxpdpxMoyJ28PZkYD4Z7MLaTHEVtQ25NL8PUZoDUuzoRM+oLVhO6CVRQQPxKoTVvZ5g9nAp+F2yI8kp2qp2R/vFlEYbvobbAQ==;Dd8mvKjTZEgGyA+Yx6+Kog=="
 ---

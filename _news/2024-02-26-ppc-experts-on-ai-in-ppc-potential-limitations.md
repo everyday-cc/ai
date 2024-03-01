@@ -40,6 +40,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "FasterCapital welcomes innovative startup evolve media AI to its acceleration program"
+    excerpt: "With the exponential growth of cloud data and the increasing number of devices, the need for a solution like Evolve Media AI has never been more pressing. Evolve Media AI is based in the United States and is raising $1."
+    publishedDateTime: 2024-02-26T14:14:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/fastercapital-welcomes-innovative-startup-evolve-media-ai-to-its-acceleration-program-qftn3phm"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 10
 
 secured: "MHdAqbKZRsFImnsY5vw1WNMHPryTihsHeWlKpYk6i1r5ANesqfOEgXj7slcRD9RI9rYWWDZadNYPT+omVILC3WinLxqVURwXVOr2s53PmU+3NbSNHDUOp61OJZFjlySupjmfvzAfYcVJPeZLPchCoH38RA8ZHj3DUhtqtYfChWr/3OyFKf3WpgvRnYyilurbPby3/ztJ5HeFnPPsjHR+fCHhX1UVNZGTaFFQlPG2dGyThsVGy9uulCQvhbkKGpbzlQ+xUQthJQMXQClrzPxt0ikhE+Gf16S+tMuxgjBjmsdmhE56d0ShTJ1qrQDa/uCwcyIrOMdlC1rvrkmMuAeKXOqjPIiNL4F1OqJzOT8OBPc=;MgemXULkyxZaSHYebag19w=="
 ---

@@ -2,29 +2,21 @@
 category: news
 title: "How scientists are using facial-recognition AI to track humpback whales"
 excerpt: "After being hunted for decades, humpback whales returned to the Pacific Ocean in big numbers. Now, new technology is revealing that underwater heat waves are taking a toll on that recovery."
-publishedDateTime: 2024-02-29T23:06:00Z
-originalUrl: "https://www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
-webUrl: "https://www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
-ampWebUrl: "https://www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
-cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales?_amp=true"
+publishedDateTime: 2024-03-01T02:06:00Z
+originalUrl: "https://www.kalw.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
+webUrl: "https://www.kalw.org/npr-news/2024-02-29/how-scientists-are-using-facial-recognition-ai-to-track-humpback-whales"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WUNC
-  domain: wunc.org
+  name: KALW
+  domain: kalw.org
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/4e7e9ef/2147483647/strip/true/crop/3634x2044+0+795/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F03%2F01%2Fgettyimages-2041484447_sq-14f387ce5bb531386f4232fbd94a8683a4ce13e5.jpg"
-    width: 480
-    height: 270
-    isCached: true
 
 related:
   - title: "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management"
@@ -53,6 +45,6 @@ related:
       domain: kbia.org
     quality: 19
 
-secured: "GHSwIgfBllwEk8uLe+Qm4hcVXBzzzTvGUz1G+LuAA0YMZyzSEYwf/WusYuwwiM++yQPBxW4Z2ksc8vBeJcdAYLEr1Uh9BLE1GL4jilGlEx4W3cuK5HbZOE82bvca2+MQgu1tVPHDaoNYo/oLUsztdGrv/ZAlM7qwuXpjZTQwudaH/+eNBg9qJMj1rlKe6OqtE7gfAELmoxJt0/SeYiHf8GgJkY1kOKpRq0rxRzPfBVWB+GX+kv4XIljwETDn7fk4viHhEaCCtnGVf9XIR1BU0LAWmUnh8x8eM3vfhBMTMUKvwlls1rVXRWfUAmPXaVyqXNYp8Jh9ASHHIkM33xC0Hz10vVXAZzOswZJowNqNUwM=;MDePgRf+A3TgOMV+E2dt3w=="
+secured: "cLYL1UzkQZrLm6btEtiat4jgSG8RluRieo2cZmATWyr1KG1nTDx0wntu7iPSneFKka5c8JeXOb+9Qn48ItlCNoXn+5j7FyPfxnZ9TruDcsg2Z2GkfcNXgyI8ZYdp/YjqJqIq8pAHw2oDdmkgfmvJxFDB+P1DujqKA3Bpy2h9EbUcoYohzkockQiq4NmGxtHy/7w0Yw1Y0qOQ4SUuUgIvD2eEYPiG8evf0a8ciogV2UOVbGIB1J8L8pXUrNSNQUFLxQ46R6vqfaJWr60ki7xuvqTQajEs9mpjSGOd2xol5dmQnIDrR4CvAk9xfWLppvyVvJsSMLJNean5vS78TSOu6T5HlXdqGJAM6OmHK1nY6nuraTPRc+L+nDa0pIvhHf1StzVd3aKx+cvcY+s9ef0kdewnls7iSguraOkkGzUzDGKREcsAT+Mqa9vrKIy5QqbqGHbm2dVQ6AzUzeMJB7Xvgnh1UiCWLlRYXwwLFYkfJ9C2fec7IVznG9wbwbqAWuNz2ALBr+TBy5VmRRAywZV1GQ==;bYHU6LEMqcWjjrO+zen4VA=="
 ---
 

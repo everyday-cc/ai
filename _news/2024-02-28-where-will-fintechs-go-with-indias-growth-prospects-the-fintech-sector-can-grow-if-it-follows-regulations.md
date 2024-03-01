@@ -126,6 +126,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Managing The Convergence Of Regulatory Tech And Fintech"
+    excerpt: "Technological advancements in fintech are starting to help create a more secure financial ecosystem, where movements of funds are transparent and bad actors are more easily identified and stopped. AI and machine learning are poised to become even more crucial in helping to understand consumer behavior and patterns."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/managing-the-convergence-of-regulatory-tech-and-fintech/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "Fintech at its Finest: Adding Value with Innovation"
     excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
     publishedDateTime: 2024-02-29T10:26:00Z

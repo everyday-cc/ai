@@ -2,6 +2,169 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2024-01-17-self-driving-freight-trucks-to-be-tested-by-continental-in-new-braunfels.md",
+      "title": "Self-driving freight trucks to be tested by Continental in New Braunfels",
+      "excerpt": "A Texas Hill Country facility will be the site for testing an autonomous commercial truck system called Aurora Driver.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/business/article/continental-self-driving-trucks-18603183.php",
+      "originalUrl": "https://www.mysanantonio.com/business/article/continental-self-driving-trucks-18603183.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "mysanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years-goldman-sachs.md",
+      "title": "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs",
+      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
+      "originalUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-national-beat-top-cities-for-tech-salaries-draft-beer-robots-and-startups-to-watch.md",
+      "title": "National Beat: Top cities for tech salaries, draft beer robots, and Startups to watch",
+      "excerpt": "Where software engineers make the most money, draft beer robots, and more startups to watch in the latest National Beat",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html",
+      "originalUrl": "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-gamification-in-banking-and-fintech-5-learnings-from-igaming.md",
+      "title": "Gamification In Banking And Fintech: 5 Learnings From iGaming",
+      "excerpt": "Fintech could incorporate similar features to make financial management more dynamic. For instance, introducing badges for reaching savings goals or interactive scenarios for financial planning could add an engaging layer to the user experience. Using AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/",
+      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a6a66ddb0dfad06873325d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/",
+      "publishedDateTime": "2024-01-16T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-thomvest-ventures-closes-250m-fund-to-invest-across-fintech-cybersecurity-ai.md",
       "title": "Thomvest Ventures closes $250M fund to invest across fintech, cybersecurity, AI",
       "excerpt": "Thomvest Ventures deploys capital in the areas of financial and real estate technology, cybersecurity, cloud and AI/data infrastructure.",
@@ -934,178 +1097,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-will-artificial-intelligence-be-sociopathic.md",
-      "title": "Will Artificial Intelligence Be Sociopathic?",
-      "excerpt": "Evolution favored social bonding and cooperation within our species. Empathy and concern for the welfare of others was critical to our survival. There is no guarantee that AGI systems can be infused with a social conscience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/Screenshot%202024-01-15%20at%209.18.00%20AM.png.jpg?itok=N1nYORYv",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
-      "publishedDateTime": "2024-01-15T17:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-the-top-12-people-in-artificial-intelligence-policy-ethics-and-research.md",
-      "title": "The top 12 people in artificial-intelligence policy, ethics, and research",
-      "excerpt": "Before getting his Ph.D. in math and artificial intelligence, Legg briefly studied finance in Switzerland. Since 2021, Mitchell has worked as a researcher and the chief ethics scientist at Hugging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
-      "originalUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-106798600,width-500,resizemode-4/The-top-12-people-in-artificial-intelligence-policy-ethics-and-research.jpg",
-          "width": 500,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
-      "publishedDateTime": "2024-01-15T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
-      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
-      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "originalUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "publishedDateTime": "2024-01-15T14:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-hey-siri-inside-apples-speech-ai-and-the-technology-behind-it.md",
-      "title": "'Hey, Siri:' Inside Apple's speech AI and the technology behind it",
-      "excerpt": "Siri, Apple's voice assistant, combines advanced AI, machine learning, and voice recognition to interpret and respond to user queries and commands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/siri-apple",
-      "originalUrl": "https://www.businessinsider.com/siri-apple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65a01aa643bb77284b9c4c0c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/siri-apple?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp",
-      "publishedDateTime": "2024-01-15T13:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

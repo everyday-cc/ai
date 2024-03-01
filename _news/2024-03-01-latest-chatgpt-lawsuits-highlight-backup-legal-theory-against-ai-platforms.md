@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-
 webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "\"Yo peeps\": ChatGPT is the latest translation of the Bible"
+    excerpt: "The man behind the Bible's latest translation spoke with CBS News Miami's Tania Francois about how it came to fruition."
+    publishedDateTime: 2024-03-01T03:45:00Z
+    webUrl: "https://www.cbsnews.com/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
+    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/29/801310fd-57fb-490a-9530-adc17c143291/thumbnail/1200x630/6871c01287dba54a5e9048f394f57988/gen-z-bible.png?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Is ChatGPT making scientists hyper-productive? The highs and lows of using AI"
     excerpt: "About 55% of the respondents to the Nature survey felt that a major benefit of generative AI is its ability to edit and translate writing for researchers whose first language is not English. Similarly, in a poll by the European Research Council (ERC ..."
     publishedDateTime: 2024-02-28T00:00:00Z

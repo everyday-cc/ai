@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/university-to-remove-vendin
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software discovered in college campus vending machines"
-    excerpt: "The University of Waterloo in Ontario, Canada, began removing its vending machines after discovering facial recognition technology on one of them. The machine's operators and manufacturers"
-    publishedDateTime: 2024-02-25T14:56:00Z
-    webUrl: "https://www.techspot.com/news/102013-facial-recognition-software-discovered-college-campus-vending-machines.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-24-image-12.jpg"
-        width: 2407
-        height: 1460
-        isCached: true
   - title: "Canada University To Remove Vending Machines Over Facial Recognition Tech"
     excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the use of facial recognition technology in secret. According to The Guardian, the controversy unfolded when a student captured a photo of ..."
     publishedDateTime: 2024-03-01T04:05:00Z
@@ -113,15 +99,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Nwogu weighs in on bias in facial recognition software"
-    excerpt: "UB computer scientist Ifeoma Nwogu spoke with UBNow about how AI has evolved through the years and offers her perspective on bias in facial recognition programs."
-    publishedDateTime: 2024-02-26T13:17:00Z
-    webUrl: "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 19
 
 secured: "LAxGQHuPER1bTwUu9riMLdr6DbGSVLrvTTvsdY5/SV+xpFt4GYimnv1oCxH98ZHPzWyY46R/7aiEQBtjofclb05wrjO9bfzehbidPxsQCXn6XIASq2Ly6610eAHMiNSZnad/P0/V2ApepxfpYt793Oto50b920F25B8WnHhsctM0hiyTPD/exMDL+e2SF+6emwDhgBz/vhFDaWEYqfx3Ei5GoHSR/QzndlM8Ywd7x9Lfh7z3mF/2+bH66UMlOrYXY/9HfRpYksBeYW3KSGH3M83qGDvGR9nmDLo5IyJvKAyJqGh3EIkQ6UEM1I+mkXesNTd6jd/yS2tSeG61lLqzim5pyZ5FDrnyOU/RSTOOwMWNttwojueceD1k9I3vPAOez28SD3lbiwwxGKQxGagBh3MqWamkF9HSwnZuyn15G4nu7ak/z4H5KzQCiBPYl0wA5foCFGWnEp+sq3S5ZhqXHOZ/A0N2ts2NAHfCQQ47csqUlQdnacGTLTJlGsmnboYKim91ys5Ztlt0R9dVuW9JFA==;pWXqGwH8gHNHf2Gl7OivIg=="
 ---

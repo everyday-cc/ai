@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "First look: HONOR MagicBook 16 Pro is a powerful laptop designed for the age of AI"
-    excerpt: "HONOR is bringing several products to global markets, including the MagicBook 16 Pro. But what's it like to use this powerful laptop?"
-    publishedDateTime: 2024-02-25T14:00:00Z
-    webUrl: "https://www.androidauthority.com/honor-magicbook-16-pro-hands-on-3419116/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 43
   - title: "Huawei HONOR MagicBook Pro 16 AI laptop"
     excerpt: "Complementing the processors is the NVIDIA GeForce RTX 40 series Laptop GPU, which ensures smooth graphics and efficient multitasking capabilities. But the AI in this laptop does more than just enhance its power; it also improves how users interact with ..."
     publishedDateTime: 2024-02-25T23:59:00Z

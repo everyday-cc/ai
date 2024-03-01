@@ -113,6 +113,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
+  - title: "Managing The Convergence Of Regulatory Tech And Fintech"
+    excerpt: "Technological advancements in fintech are starting to help create a more secure financial ecosystem, where movements of funds are transparent and bad actors are more easily identified and stopped. AI and machine learning are poised to become even more crucial in helping to understand consumer behavior and patterns."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/managing-the-convergence-of-regulatory-tech-and-fintech/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
     excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
     publishedDateTime: 2024-02-27T23:19:00Z

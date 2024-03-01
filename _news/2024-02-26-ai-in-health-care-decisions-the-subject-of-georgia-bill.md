@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Georgia House targets artificial intelligence ‘deepfakes’ in political ads of candidates"
+    excerpt: "We want to protect good political free speech,” Rep. Brad Thomas, R-Holly Springs, the bill’s chief sponsor, said on the House floor before Thursday’s vote. “But fraud is not protected speech.”"
+    publishedDateTime: 2024-03-01T03:01:00Z
+    webUrl: "https://www.ledger-enquirer.com/news/state/georgia/article286084431.html"
+    ampWebUrl: "https://amp.ledger-enquirer.com/news/state/georgia/article286084431.html"
+    cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/state/georgia/article286084431.html"
+    type: article
+    provider:
+      name: Ledger-Enquirer
+      domain: ledger-enquirer.com
+    quality: 28
 
 secured: "bv/viSAEMmG/Cr5//AbcVGUFw8WvbgOU7rDRldU3r7ti5r5fZhriGsi6JHkXY+NzoSkq5Ik55ZJO9nOkTJ3dtXBVBs3HaeAqrP+4Ud3KOBpgfoFV8ihyVP8rgCqVsL13anAOV/tVZCPnYBMmgbLz56PUdGBoGQ6GwvkscUde93nG5GzRndMWF9nvWlJF1rp0efeFTC5TSJaKcbdJF2AIHGI4Zs/COjQ9FjmOaH/ZykkCweJnPvR4gQ48hE2hHvnvvalNCuHKseqopNC0GnmOvaSNxqYWHqlU026s0uBu8ITgB1FJz4XQLiL0noz8sbb5GIbQhDkqHas9P7ZwU/THJCZ3MYcYOp88sxqKpGaDCyd7+PXrVxtAxU30O6TDVyvcQhLrKFfDuozJ5ymyL0uHJ7PCGmSjII7fYn3VP5cbOiEAmvJfdzG1Ji4eD4+xYbA6YV7xreLPxNnYNBhoDAj21e57aJDXY8Znp3CU2b/GApZ19Vd2pjERPatxOTLKl/8hYiz5lrj+uGO+tKalKKJf3w==;B10MqYQVJW0gForDVruebg=="
 ---

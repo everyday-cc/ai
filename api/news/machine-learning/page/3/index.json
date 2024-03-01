@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-02-buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-aiml-leadership.md",
+      "title": "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership",
+      "excerpt": "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T06:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-hariom-tatsats-journey-of-financial-innovation-through-ai-and-machine-learning.md",
       "title": "Hariom Tatsat’s Journey Of Financial Innovation Through AI And Machine Learning",
       "excerpt": "Explore Hariom Tatsat’s groundbreaking journey in financial innovation leveraging AI and machine learning. Discover how his pioneering strategies are reshaping the industry.",
@@ -1234,49 +1278,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-plant-phenotyping-deep-learning-and-3d-point-cloud-technology-in-overcoming-reconstruction-challenges.md",
-      "title": "Plant phenotyping: Deep learning and 3D point cloud technology in overcoming reconstruction challenges",
-      "excerpt": "Recently, integrating deep learning with point cloud analysis and innovative techniques like Reinforcement Learning Agent Controlled GAN Network and multi-scale geometry-aware Transformer networks show promise in addressing these challenges by enhancing ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
-      "originalUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/revolutionizing-plant.jpg",
-          "width": 1280,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -51,15 +51,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
-    excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
-    publishedDateTime: 2024-02-27T14:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "2roUS+RqTG1IbiAfWLVibnSXlQ4BS7eI1+YvGWqa4/hCwMromDU1RxOAhNwb6IqLyAvpnoR8zanmATKwvqzojhjq0DpMW3GSzEZXNCTKPA/lhXGSWZcPE7mSlawpntcPF6a1kUpbTObSPC8o722dNCYDUBPqO0kX13Onzz+6WOa1OwQHCtRfIGg9hEbtVbCeQphjhBrgBZNFHfFoeArLzNKBMXbbumzM6PSGGFBSvSA2bkD8sddOoeUErlZJT4ESY1DNV9gz7nsibSNO7tjqyimkxKumdMHeX4NPqIsxzp/bZ76pWVDvqp+VyVobCxOhjTRDanwf2F+UWSoOLZ0nINdXkAoOjry8gxgv9KSsNY3GWurPXmf7K9XBYjnMRFF/Oxverhg6nL72+dM//5sE+trM2TUfcbhThczbfZpzRn9zOH+cGEi1RnIB7BNaxW+rqThth0B8yUN9A1GgsDWCLcJhRggeknD55TkTO6cTW3ji/HdIwV3dA7h/JXk0z0xe/CuVVbRQ75i/TT1we1Eb4w==;uVGleHsrHEcvJU8njwdYdg=="
 ---

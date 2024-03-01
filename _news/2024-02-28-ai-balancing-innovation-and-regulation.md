@@ -114,6 +114,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
+    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
+    publishedDateTime: 2024-03-01T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
     excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
     publishedDateTime: 2024-02-29T17:20:00Z

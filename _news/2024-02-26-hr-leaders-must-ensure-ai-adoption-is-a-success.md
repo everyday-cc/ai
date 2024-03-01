@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 840
     isCached: true
+
+related:
+  - title: "What every business leader should know about artificial intelligence, automation and accounting"
+    excerpt: "It’s not uncommon for a business to have different software systems that don’t share information because they operate in silos. An executive could pull data from Enterprise Resource Planning and Customer Relationship Management systems but because the ..."
+    publishedDateTime: 2024-02-25T23:59:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-every-business-leader-should-know-about-a-i.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "AE4LSMo+1GTNtGEYmUDrsWB1kdL+aRNmz/e82ZlNpzXJ6Oi21RDlQQNpfHYf87G9h4uwWjicdNHLgEGw6IIkDCLmnsbPPD4rfOhDDAMiHhbc5JiWorBea0NgIDEGr9/jNkQssgkFYLwNC8ly4quLHbIH53IUpdm29zXk9lTSofHXt4lfEZgLu1QP5gq/CeQ107TmE/Ey4++5vOQ0c7jyG1QQWkAo66f4XYZNfTDYJi5kiiD9voEeZdkyNRqjyfbL96BAOW2GZ/KtB+n+7cH2xKUvPgG6LQY3O2RIaH2rre/7AssfzFqWP00X6JnV+YQewxTiXFG6DaNHG962CeUPTdsdI0yuAKsW7lEhTfV12zo=;1l687DmsnxXDX+o33ZLPHQ=="
 ---

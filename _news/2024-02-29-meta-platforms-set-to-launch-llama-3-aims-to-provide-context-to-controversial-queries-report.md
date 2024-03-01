@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Meta seeks to ‘loosen up’ Llama AI chatbot with better answers to contentious questions: report"
+    excerpt: "Mark Zuckerberg’s Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious ..."
+    publishedDateTime: 2024-02-28T17:12:00Z
+    webUrl: "https://nypost.com/2024/02/28/business/meta-seeks-to-loosen-up-llama-ai-chatbot-with-better-answers-to-contentious-questions-report/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 7
 
 secured: "vTV235jnAakIWr0nmN1wtHVfToo484h60YYB3DIvA4WC5CO9Iz6c+kRw4p5flhivCsaQeFxwQQ0Jbn54J8GXuXJW0/Hm1ioB9u8pc0fHXSbhEGLoVeQyFurwmxPrrlH70IIt3JsCHwkOXHGVlM89s0qZghPBAM8nqbgLRHCpoOMI0HljN7NKjZNmCNzYGlhGDn6oKi79UGHMaSw46z/r1tCbdnuJLolT6sRMW50Qpw4Gd1zHF3zpZOEIWS0JbplVbJkIbJZQNHHzjOA75CJQLJvomj2t60eubMi9MPQ4EWdfTE/CVS94/tjlHUSC8318nryNsNTEQqKUWpMz9oGleJmT6elkzM77GMfWqC+4zLF8vIMuYYRJoaDnGXOEPEXLWnXKGF9SibpcHDCWZXblca1ztv1s2rf2/DGx3BIXRXtiLU3CgGNnZsvI/WxEbKYjv2F7IDLX8L+lJFZDbsDn5GzA5E6A8+7pqOVUchUHppuleFhAoG21/nuQrBWbjGv9LLh2ROW5Hj+zm2O9yT80ng==;I1jAAajtvS6cEI1hVtvXZw=="
 ---
