@@ -25,66 +25,163 @@ images:
     isCached: true
 
 related:
-  - title: "InnovationRx: Exploring The Future Of Healthcare AI"
-    excerpt: "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal."
-    publishedDateTime: 2024-02-28T22:19:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
+  - title: "AI In Fintech Marketing: Let The Robots Do What They Do Best"
+    excerpt: "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ..."
+    publishedDateTime: 2024-03-01T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 108
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/629e12f58b003428bdbb3b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
-    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
-    publishedDateTime: 2024-02-29T23:37:00Z
-    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
+  - title: "Navigating the future of banking, fintech and AI"
+    excerpt: "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ..."
+    publishedDateTime: 2024-02-27T12:42:00Z
+    webUrl: "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 65
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
-        width: 770
-        height: 500
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
-    excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
-    publishedDateTime: 2024-02-28T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-innovators-3-future-stock-leaders-to-watch-now-1033114109"
+  - title: "Why do Nvidia’s chips dominate the AI market?"
+    excerpt: "A high-performance GPU can have more than a thousand cores, so it can handle thousands of calculations at the same time. Once Nvidia realised that its accelerators were highly efficient at training AI models, it focused on optimising them for that market."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 54
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fintech employees trained in AI in just over one-third of central banks"
+    excerpt: "The majority of central banks do not train staff in artificial intelligence (AI), the Fintech Benchmarks 2024 finds. Only 13 (37.1%) of 35 central banks say they offer such training. Seventeen (48.6%) jurisdictions say they do not. However, five (14.3%) central banks say they have such plans in the works."
+    publishedDateTime: 2024-02-28T10:11:00Z
+    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7960900/fintech-employees-trained-in-ai-in-just-over-one-third-of-central-banks"
+    type: article
+    provider:
+      name: Central Banking
+      domain: centralbanking.com
+    quality: 54
+    images:
+      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-08/benchmark-banner-FINTECH-2024.jpg?itok=tZCXaiT6"
+        width: 1200
+        height: 743
+        isCached: true
+  - title: "AI In MarTech: How AI Will Impact The MarTech Industry"
+    excerpt: "The crucial part of AI-powered MarTech systems is to balance human creativity with the automation tasks that they are responsible for. Each year, I have seen new AI and tech startups spring to life. They claim to assist marketers in automating their routine tasks as it consumes almost a third of their time, according to HubSpot."
+    publishedDateTime: 2024-02-28T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-in-martech-how-ai-will-impact-the-martech-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
+    excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
+    publishedDateTime: 2024-02-26T02:55:00Z
+    webUrl: "https://menafn.com/1107898432/Ai-In-Fintech-Market-Growth-Share-Trends-Analysis-Report-2024-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186729"
+        width: 272
+        height: 249
+        isCached: true
+  - title: "How AI and Machine Learning Are Shaping Fintech"
+    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
+    publishedDateTime: 2024-02-28T14:57:00Z
+    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+  - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
+    publishedDateTime: 2024-02-29T16:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-keep-growing-in-2024-and-beyond-1033119936"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
-    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
-    publishedDateTime: 2024-02-28T14:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Where AI shines in healthcare"
-    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
-    publishedDateTime: 2024-02-27T20:38:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
     quality: 34
+  - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
+    excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
+    publishedDateTime: 2024-02-27T23:19:00Z
+    webUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 25
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fintech at its Finest: Adding Value with Innovation"
+    excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
+    publishedDateTime: 2024-02-29T10:26:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-at-its-finest-adding-value-with-innovation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
+  - title: "My Wedding Whizz: Irish firm using AI and fintech to streamline wedding planning and digital gifting"
+    excerpt: "It’s an all-in-one digital management tool that pulls everything together in one place for the couple, and also incorporates a fintech element to facilitate the stress-free handling of deposits, payments and cash gifts,” Downes says. [ ‘Only gamble I ..."
+    publishedDateTime: 2024-02-29T05:45:00Z
+    webUrl: "https://www.irishtimes.com/business/2024/02/29/irish-company-using-ai-and-fintech-to-streamline-wedding-planning-and-digital-gifting/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: "https://www.irishtimes.com/resizer/QZXAnJ2zSc4VmkpPx0Gcp6fNcRE=/1200x630/filters:format(jpg):quality(70):focal(1774x763:1784x773)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JP5IUYRLE5A4NGXZFOHAPRI6MU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
+    excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
+    publishedDateTime: 2024-02-26T10:31:00Z
+    webUrl: "https://fintechnews.sg/87888/studies/more-than-half-the-fintech-industry-seeing-growth-from-strong-consumer-demand/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 21
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/The-Fintech-Industry-is-Resiliently-Looking-Ahead-to-Shape-Inclusive-Finance.jpg"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "24ms1sVIjReOkndv4zHqvcpDtd+7cSERp+fBtJFZaIXO5rTiFV1jb4e5ahehsD/rHjBwI5vVcewk5eosFEn/CMn/k4RwgnUZYDdC75Budi/VxYkFyD6WBPn1dBgJ+dHSq6K9KiUEU2UkOlno6Jl14Onp51ia5SMK06TqadCvxYXEnXd0H+BvWSGTPEYqxEI2oPFlfypW9pSk+d1wbOY/yJQoJkTF1O+082WQKTmyMLP0fIjgiCXte3dYdkE52CcybCZZCst7+mL6g7mi83ltm0IhzP7NMBwUPGBYFE311rJc53fU3eCTdk7tXRKZ5jx/gxXdKqjYtdGYezErARc6FzW8PCPntcPo9a0tllCIlYoo+ranohY0tE3aKtsgGvDOcDE7PcKzk8eTbfwoEq7GDjLdkiZsyI/ZoaVGiGGPcfoG2TNDp2Wt2kdbNXUWyQWe16iOcehJxBnDBvi0qtTgEmNDGjR9254aCdk7hv8ufRwveilQMI2x4qasxQ3JqFh2NH39TbBpdgsv9JiZqi8aAA==;2wAr00EJLqconq0LEiXWSw=="
 ---

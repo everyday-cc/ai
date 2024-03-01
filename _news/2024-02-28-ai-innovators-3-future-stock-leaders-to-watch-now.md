@@ -74,20 +74,6 @@ related:
       name: Becker's ASC
       domain: beckersasc.com
     quality: 34
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "m9hAyUO6ZMvstMeqFB/jT5NIDsDQxlcwQMEkEDRUSB8Hlk9QjilIeoNuXwq2Arlzfo8VOPsxVfM5MQVeRgKGQQo5od+HvvoMi99hqRlzUZ37WcsIEBUXBrujf8Z8nlGO7u5ChxmWr75zqCCD1fTS/0myKVGzZt2vl2wqoU39KRGVYeFo2k5WTnZls3L8nIg3h7LAfxPklZnuo9lk5DSugWJK6LjSy3oXr/X1KN7UPTN51tPb879N809HtRKG0VKhX6dy6sluw1v2jKNMuslpU471tcr5i+JW0tB+spEdZbh0yB+tPjVBfjTHtWbjHiK2eyASwoNxzPnJEPbLhxHS2pWE2qwdm/FkRcl1ds2kNWqYPfoW3yuXCj1UlvzVi6XG0WN3UpCQek4IFETuk91LSMBJkAeByEDeTozGxHj9htUf9elQKjFnRaqzFfCqbQfJnO0e3+bJAbjdgLcJCO28AETWRIBDZbFra30dlV/wkrtU61AROkZ7dtlZhu25USuBlOfvac/rl71p9hPBUztSpA==;6iUAeZvJjAI7eWG2bsrvjA=="
 ---

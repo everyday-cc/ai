@@ -96,6 +96,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 34
+  - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
+    excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
+    publishedDateTime: 2024-03-01T11:00:00Z
+    webUrl: "https://www.therecord.com/news/waterloo-region/how-a-facial-recognition-error-on-a-waterloo-vending-machine-led-to-an-international-debate/article_db1ff12a-55e2-5aa9-a180-dfef6c575720.html"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/7/d3/7d352126-1ac4-554c-8445-b8a41bac8b87/65e0ff3713264.image.jpg?crop=1524%2C800%2C157%2C85&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lTQXQmNC5ya8R8wo0K6O+zSl/BoMG6n04d1HVjYCyNtAu7pU3fJgGYd423l/IpSVXSyqgYOkT8edn/gIB2jKXpHxSC7byV5ctB66oCyuggCXAouCStDOH2RrQ2S+x6jYi/frncFJx2P07c+G5JbikHiFwVmU2Rbr5wb+l5QZNY73nr8Tef9yJ20pSlZnxnCuM6/J+UbNFWOGsf3NqPyhTFOtmWErn7WBvhMvYVVj1M22v4rn7FZ8N5yBF9laYvGb9DyNcXGPtKBKWnS7OfsxLMr50ZkRw/lIx0Ak0bwHGEpRTMUMIZUNr+ndni446IdrGS+5vF+yd/36am2CcNGo5GMWlqerqkkzf1T053UVCdY=;PrnBiuKHesbfFwai5/TwYQ=="
 ---

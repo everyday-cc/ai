@@ -82,15 +82,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "The future is woven with the threads of AI, Edge & blockchain"
-    excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
-    publishedDateTime: 2024-02-25T11:37:00Z
-    webUrl: "https://www.dqindia.com/features/the-future-is-woven-with-the-threads-of-ai-edge-blockchain-3996900"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "cewQD8EGkFcJEIbmaOgYt859OKR5LnfBB+Vc8csVhL9I3PqacxigzvDlBgw1zEJEPYkG0EtjEakEIEDC5X0VI3trHDA/zjyiCfeMReKYrnMnPh+g4STl7zY3fcsYM+35C+s6Th4mftz2S8sYI0ZiFtnY1HZ17Q2q28Ei0xb0+55DEqTofghcsL8YvvwN1zS2NwlIQ3mib7pz1Ra52Ku7zS7fGDYSBwtNZL2JqOgDL3x3WN6hQra8ZuxK+W4javRPYaJxdNYRzrAgcV+WPzD/2JFZtItUBj+h4pLBc0hor69q9JWS7fa9HQOZdWf4Ip2XnIxr/SuJTy2CD+CrEAbIn7JdnoS+8lYs15RNAxaFhcg=;A7OqYNpv4o/6ke/PoEcLfA=="
 ---

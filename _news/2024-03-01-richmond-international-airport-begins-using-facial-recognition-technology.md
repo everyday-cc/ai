@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wric.com/news/local-news/henrico-county/richmond-interna
 cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/"
 type: article
 quality: 73
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 34
+  - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
+    excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
+    publishedDateTime: 2024-03-01T11:00:00Z
+    webUrl: "https://www.therecord.com/news/waterloo-region/how-a-facial-recognition-error-on-a-waterloo-vending-machine-led-to-an-international-debate/article_db1ff12a-55e2-5aa9-a180-dfef6c575720.html"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/7/d3/7d352126-1ac4-554c-8445-b8a41bac8b87/65e0ff3713264.image.jpg?crop=1524%2C800%2C157%2C85&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rxCGHW/rW9gljZwBT8cQ5Tc5eZQUO64g/JRkk6rBbxT3+Lb5OH9JlQL+/ZXVeUboajKE7TOjXArkfEUYSWPH5BE6WyFrk+Jqec7/WhoJtnH7YjDjOXh20PYipInjPgbK8cyuaQwnpDXBTIzCeRvk2E2O8rNzp09ST1NSiZFHUIAvhGhCxBF25jVqyI10OBQ9vofzBmEr7AE+YPnRbtoI1EYMlOf49WaztSNZ4j4wlt5g5HXfLxNjfO3t6n5ZH41l/lC0S+zvL7bWknofJIBw0DhJkq6ggKOpZQPka1VNqLJ9L9C8wVC1hZ4U8qwHEpHIKvP974UT/GZhHYmz9GSkc/2Nh05JibpsN5pIjem6S6Q=;oMgSAm3obFClMEiV1kBYEg=="
 ---

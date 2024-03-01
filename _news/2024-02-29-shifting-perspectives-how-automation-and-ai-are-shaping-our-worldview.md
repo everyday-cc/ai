@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-persp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "How AI and Machine Learning Are Shaping Fintech"
-    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
-    publishedDateTime: 2024-02-28T14:57:00Z
-    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
 
 secured: "1PlosKWItIyB/gOcb42hjM16IKebzH9L/gt87Uey2gJolY7oi1SY7BIyp2HKo0N0tJauL0tjdmUQcFAud5meElC+c2pT8KUqxd50BoxMCuwx0fK01QVDZe9pOTy9MlYtsW05qDT//Zbg/O9CawVCSsOGoK1fhT170V6CZCjpgf/KlhCJvtTAGVwWPRktRUyQt9NtV9zaKZRF03BgNqBeLVB/JnVIAqXuW/IH66lOW9g/nXNkQcDH1NFXVpZwcRJSEsdz3zIpHox6dFnU4soRn7GVSVXmdH81hn9e+pBmMd8CJNJzYDzD0w3zbcS0Bu9RdS0N4LKgHA1iM6cXUjUYHKcEF1Epdhl8wjE0qVIg8qUEe7oguWlShM/8lDmblY+exspcFwpyKmdV0cmCpksRzutKZ8vFn0AoC8u4UBovYx7DICL7wqo6otnpYiiyq3Pxqv2maYHsvURUfVlyyZVAPZHvNiafBuz9OAJHZR3ZsQMj5qk00/uAGTwEdMRyStcXqqHmX9gPaAQUHTtSzkQzJw==;fFvGaRjHHX/VTEJhMJHkZA=="
 ---

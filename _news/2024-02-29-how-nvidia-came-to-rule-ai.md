@@ -140,20 +140,6 @@ related:
         height: 675
         isCached: true
   - title: "Why do Nvidia’s chips dominate the AI market?"
-    excerpt: "A high-performance GPU can have more than a thousand cores, so it can handle thousands of calculations at the same time. Once Nvidia realised that its accelerators were highly efficient at training AI models, it focused on optimising them for that market."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 54
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why do Nvidia’s chips dominate the AI market?"
     excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
     publishedDateTime: 2024-02-27T16:07:00Z
     webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
@@ -166,20 +152,6 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "NVIDIA samples two new AI GPUs for China, both comply with US export restrictions"
-    excerpt: "NVIDIA is offering customers samples of two new artificial intelligence chips for the Chinese market, where NVIDIA CEO Jensen Huang wants to defend its market dominance in China against the tides of US export restrictions on AI GPUs in the country."
-    publishedDateTime: 2024-02-25T12:19:00Z
-    webUrl: "https://www.tweaktown.com/news/96429/nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 49
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96429_804_nvidia-samples-two-new-ai-gpus-for-china-both-comply-with-us-export-restrictions_full.jpg"
-        width: 1500
-        height: 857
         isCached: true
   - title: "Wall Street hunts for more AI gold after Nvidia’s soaring rally"
     excerpt: "It has also spurred Wall Street to search for other AI-focused companies in hopes of catching outsized moves. Whether investors are looking at the broader chip industry or betting on firms elsewhere in the value chain, they agree on one thing: AI is here ..."
@@ -263,6 +235,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/c5a67e9b7634105976de2330637032f8.jpg?t=20240229_054549"
         width: 752
         height: 408
+        isCached: true
+  - title: "The Best Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- No, It's Not Nvidia"
+    excerpt: "Analysts at BMO Capital see Alphabet(NASDAQ: GOOGL)(NASDAQ: GOOG) as the company best positioned to benefit from the growing demand for generative artificial intelligence (AI). The firm reasons that Alphabet has a big head start on most peers because its ..."
+    publishedDateTime: 2024-03-01T12:54:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/24471149/the-best-artificial-intelligence-ai-stock-to-buy-in-2024-according-to-certain-wall-street-analysts-no-its-not-nvidia/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 25
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/07301639924a74caa0cfd3d609963c54/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766930%252falphabet-revenue-wheel.png%26amp%3Bw%3D700"
+        width: 3512
+        height: 2000
         isCached: true
   - title: "You Don't Have to Buy Nvidia to Benefit From Its Explosive Artificial Intelligence (AI) Growth. You Can Buy These 2 Stocks Instead."
     excerpt: "The artificial intelligence (AI) chip leader scored big as more and more ... Let's take a closer look at each. Amazon's AWS is the world's leading cloud services provider, and it also generally drives overall profitability at the company."

@@ -24,6 +24,22 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "CT task force encourages expanded government use, regulation of artificial intelligence"
+    excerpt: "A state task force on artificial intelligence believes the use of AI in both ... “Some states may use it more in health care, others more in agriculture. States should look for where it’s most applicable for their citizens.” During their meetings ..."
+    publishedDateTime: 2024-03-01T06:00:00Z
+    webUrl: "https://www.courant.com/2024/03/01/ct-task-force-encourages-expanded-government-use-regulation-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 31
+    images:
+      - url: "https://www.courant.com/wp-content/uploads/2023/10/THC_news_CT-State-Capitol_02.jpg?w=1024&#038;h=746"
+        width: 1024
+        height: 745
+        isCached: true
+
 secured: "qSidmB8QafwVZ1LS1XpgSHHcqn0pAOsJHa7emY8UdXe0WOXRXTtOPHMGNNkHBibE6REeVEugYuTDrfPCUBN9gleTJqeF0vYJJHkcfptQdXJhach/Jex8VTZ/OIJsABfxEPtllDduGG6ZfpstJY9p/R5V50BZDqlMG7UqzghJVhQfS33mwabrV8/HdCEtsK/gvACAdvQFUAo5Ps02gfriRK4PHiNPl8fg1SJ9g01gz0kqMXnoPUja5AWVSErfrrEaWng1rh1IwAW2rHzQn5EW8QCEMGMfqgu4cyeolKBo5RaZW3Dj5wPi4mfa3sa/FnlFKYLKEF2v5TP0EXO4KNCDebgU/B4do+PNa0oSehBLu0HZ9jgeMcq1lC8krWoF4Ug9zBAQ/Duyi51qDLwQHy0MSKIbUbz0SdH37iaUotiYMuVzPuyvdGqwkEZvxfkATMakncuCK36/6h5Ks/W1l3LbC9i7S2/yI12cECDv5ZOzcscJgjDu9ZGiESQsuHDJLmtnXmJjZrg+wGhPbM0X3iAXew==;VBvUEuLDXJld8DyCTjK18w=="
 ---
 

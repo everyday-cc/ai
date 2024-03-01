@@ -944,6 +944,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
+    excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."
+    publishedDateTime: 2024-03-01T07:05:00Z
+    webUrl: "https://menafn.com/1107921924/Du-To-Revolutionize-The-Digital-Landscape-In-The-UAE-With-AI-Innovation-Supported-By-Microsoft"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/01/M_f9956image_story.jpg"
+        width: 1251
+        height: 834
+        isCached: true
   - title: "Retail Media is Fastest Growing Form of Ad Spend; Microsoft’s Deal with Mistral AI Faces EU Scrutiny; Investors Push Apple for AI Transparency"
     excerpt: "The tech giant has been called on to publish transparency reports regarding its use of AI and associated risk management. Certain firms are backing a resolution for Apple to disclose information about the ethics and usage of its AI tech; they plan to raise ..."
     publishedDateTime: 2024-02-28T00:00:00Z

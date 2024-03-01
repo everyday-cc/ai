@@ -183,20 +183,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Jeff Bezos, Nvidia Back $2 Billion Humanoid Robot Venture with OpenAI, Microsoft: Report"
-    excerpt: "Jeff Bezos, Nvidia Corp., and other major technology companies are investing in a company that develops humanoid robots as part of a scramble to discover new applications for artificial intelligence,"
-    publishedDateTime: 2024-02-25T12:19:00Z
-    webUrl: "https://www.econotimes.com/Jeff-Bezos-Nvidia-Back-2-Billion-Humanoid-Robot-Venture-with-OpenAI-Microsoft-Report-1672214"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 62
-    images:
-      - url: "https://f1.econotimes.com/2024/02/eiaw9t4hrx_th_1024x0.jpg"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos and tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ..."
     publishedDateTime: 2024-02-28T15:19:00Z
@@ -252,14 +238,14 @@ related:
   - title: "Humanoid robot-maker Figure partners with OpenAI"
     excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
     publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
+    webUrl: "https://madison.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_acfdce56-8e89-5ce0-abea-f0ca26820aa0.html"
     type: article
     provider:
-      name: wacotrib
-      domain: wacotrib.com
+      name: Madison.com
+      domain: madison.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/6/f4/6f4165a2-aaf3-519e-8386-e4b92a995101/65e10329eddb8.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/cf/acfdce56-8e89-5ce0-abea-f0ca26820aa0/65e1032714789.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

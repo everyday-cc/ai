@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "The future is woven with the threads of AI, Edge & blockchain"
-    excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
-    publishedDateTime: 2024-02-25T11:37:00Z
-    webUrl: "https://www.dqindia.com/features/the-future-is-woven-with-the-threads-of-ai-edge-blockchain-3996900"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "kvpVK8WS0GoHKPptDuGLgPYZVNuhfvOaZjMXhUwtrfZzbk5SNWlYSGZpEO+kAMa1MQJco/Ie6mt/66fNDbLl5IvkIFfXWJWiIyKVHTotW2yeWU/nZCIF3xecE9DtEK7bnzqTSn6qvxEG86e5kVrdCuiLZhf0mUhPIF4wlZhINChabuBQFCUL8uwFckbBA+R7PC/gbOQoEq7NfCZVNcYu2a1xcNylWJ2wfbm0fIVMmV5imN5UBmDA+5/5HmymJLI2xhYWbGQP+6uf0W+0rDRSCDZDLT0JkmjT3X3/vnZgrACV+JRlivpgj9M8D4msn0n1rAEFLS7IMAejxE7l2jYN2S5dr21Qj8nEN5SYIdFBKaE=;TXaI4OYunbbU0BqacK7vmQ=="
 ---

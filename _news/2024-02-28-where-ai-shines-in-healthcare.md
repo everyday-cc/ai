@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "vh4gCgqzZwBOshG0o4MdLiHRWGo7/3nfiuMX7RTAc6LLC3gwmE241GtFf8XKOw285U097enn6Aa/OxAtMW/WRoBe0lmxWUzKOj5eRvFfqCwgmF7tjqbu6BoPb0IsoC3inHDfjzauueHh0yArdPLi6CbDUfO90rpRRLs5Q2oI9WgK4QmTV8HitoN9jr9r+W3e3h4aduGbNZEDYYK8zNW1MA12rM/cpqvD3Gv610YyXSKI0Tyjxnade4vARteqBm+yUDIsXiXrs0Cwh49n3rpGyC4WInw+WZS82Lh+stLYe5Ft8oZweG8hw9z1jUhMoWZeJ0/dysFmxr5lxammxGgFsk6g01EPTS2qBoJ5XSJushs=;OOW2ISESECuUs/pcRSzdiQ=="
 ---

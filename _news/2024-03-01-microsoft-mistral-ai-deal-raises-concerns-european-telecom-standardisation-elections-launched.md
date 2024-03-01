@@ -940,6 +940,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
+    excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."
+    publishedDateTime: 2024-03-01T07:05:00Z
+    webUrl: "https://menafn.com/1107921924/Du-To-Revolutionize-The-Digital-Landscape-In-The-UAE-With-AI-Innovation-Supported-By-Microsoft"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/01/M_f9956image_story.jpg"
+        width: 1251
+        height: 834
+        isCached: true
   - title: "Retail Media is Fastest Growing Form of Ad Spend; Microsoft’s Deal with Mistral AI Faces EU Scrutiny; Investors Push Apple for AI Transparency"
     excerpt: "The tech giant has been called on to publish transparency reports regarding its use of AI and associated risk management. Certain firms are backing a resolution for Apple to disclose information about the ethics and usage of its AI tech; they plan to raise ..."
     publishedDateTime: 2024-02-28T00:00:00Z
@@ -1145,6 +1159,6 @@ related:
       domain: benzinga.com
     quality: 23
 
-secured: "hCn+EH9QZjnTn9T3ceE6Fwwjh/LGyHIXBhkfvrjoVWi5QU7tZx+IbXywfqq7Q3fUsmp2m4+cCvq5ugZFeDCRRod+2V3937VKGSwxjJkCVJEUDS7tL6iAMGKaBojgj/4LSyRfKZB5zlveB8g9sIxT3ZnRVKJXikBzh06SDmJ0U5XsHAvt5rI0okWA/8TsZtH7hirHhIV3p20yWLQOBawA24BBYP7xUxVAS+WQFgpFfMPcuYUNhYYUwlK9C5bIvdi34lvayCMBD8xW4deTqAInFexGa85SDr5ktw2sk/IGkdJGe8c/qrY0bUzvAMtMLK71orgXUORp55lqm6RU+gH6l4x1+3B1Cy5KgcmS0meSlNQ=;MGUS9mo5/K6BH+T9mqdFZA=="
+secured: "YawdtiozhySISf5WhOC3x9mMnNWRk/ORtiBO01POYlL1XTsCVbvVKb6W8zSYiWMiWtkizMa4x6UIm0ojqY6XGyxWduAx3X6AkgF//i3gLap+dCQ19Xm5NLr9jCc26mw4ue+sO3jVhdKaRTbsZxuOZYMPigNGDDp7bprFBsl+VnSPyKOmf6R4x+Phz9Pu/oldOWpGpT70MC/mlvEawbcR7epKekrAeZAWLjEa1/G4xquM4gVyDgIwEF7rloMUzNokzM3rE+yyevWM/M8Es/Lfo3RGrbe8vBp1Y7ACE6Ihf2FfaNypk6018/L/Qd8ivxP7AZCVPN1obgzqaThxIsg8Xe/Tk84S2fp3vAa/Jp1WN6SdZcouUHH7CsR0ey1xRNVY5GLxa46xMWnd2YhCyi5luk3PesjqAAyoVJn6jQQXoHw37xyn8NtDyok1SJPO4/EUDYUBXVTytlxcaJTSJrqCAwQxy/jDDU5Lzp48yYiOa1Jzq2apTQjq+fILUWOjXjyh+DFGBPew4qf0jW+dYehJ+g==;kooP7vWM+H1NNHsq/EMvqQ=="
 ---
 

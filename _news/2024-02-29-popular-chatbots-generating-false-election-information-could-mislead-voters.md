@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Lok Sabha Elections: How AI will be a double-edged sword t boost fake news, curb voting manipulations in upcoming polls"
-    excerpt: "AI technology brings both risks and benefits to elections in India. While it can facilitate transparent vote counting, it also presents challenges such as misinformation and the need for regulatory frameworks."
-    publishedDateTime: 2024-02-25T11:56:00Z
-    webUrl: "https://www.livemint.com/news/india/lok-sabha-elections-2024-how-ai-will-be-a-double-edged-sword-to-boost-fake-news-curb-voting-manipulations-11708705430974.html"
-    ampWebUrl: "https://www.livemint.com/news/india/lok-sabha-elections-2024-how-ai-will-be-a-double-edged-sword-to-boost-fake-news-curb-voting-manipulations/amp-11708705430974.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/lok-sabha-elections-2024-how-ai-will-be-a-double-edged-sword-to-boost-fake-news-curb-voting-manipulations/amp-11708705430974.html"
+  - title: "How AI health care chatbots learn from the questions of an Indian women’s organization"
+    excerpt: "Can a chatbot reach more women with accurate, nonjudgmental and private advice about reproductive health? A pilot program is betting on it."
+    publishedDateTime: 2024-02-29T18:14:00Z
+    webUrl: "https://madison.com/news/nation-world/business/health-care/ai-health-care-chatbot-india/article_b375d4f5-07a2-5644-8452-1fd765023aae.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 35
+      name: Madison.com
+      domain: madison.com
+    quality: 31
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/24/1600x900/Election_2024_1708776024768_1708776025228.jpg"
-        width: 1600
-        height: 900
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/37/b375d4f5-07a2-5644-8452-1fd765023aae/65d8c4fc706c1.preview.jpg?crop=1616%2C848%2C0%2C213&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "vHJlC4ob3/gRtC73lBI6cmD8VArO0oe2YBW0UK/YWWEOqc7gJlbZ8/vLorGGPtS8942W337lTaWNXxPImo1gbFcuqeVl/feekZGuDDtOvZ20Fxi6cnkIYf9008A9OfNsGawTUjRRB5gilaWOUAVYMaXTWGIWDUtfsvz2x0bt4SGXgedzMW9z7xfLFVwc3KaCIKUO5snjYf36bIxnW5GrXDmlYu0JH9/vwDPqk848TlmQ8SYL32HJT+ICZdMXdITojZLtuDMti7pgPMhhh6YBgTR0Je9xWtVVgDMmG7HIkuPSa56Z8ugvtAFL1t9Us/TJW8hwFgHCvBarIS+DF/0MZLpnDI2N5BFdIrjxFyatuTWqd2kl+eqH3APvxQQq4qomzBSZovlO3JQJTEg/jfTPgDB3/77IZ4k6BVbnT/6V9qaiGg9QuVgo0dUUDRWdafUl0WDJhMyKs5tylyNxulJ3cQOJn8rR8Nz3KKuDUfDPkDnnbLkEbIRtrHJ2wIf1THSh6l2IDy9Gbk9KyXNR9gYb5g==;6PM8H91hYEIqxsaAYs7H2Q=="

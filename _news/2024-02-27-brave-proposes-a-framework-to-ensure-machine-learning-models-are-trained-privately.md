@@ -3,8 +3,8 @@ category: news
 title: "Brave Proposes a Framework to Ensure Machine Learning Models are Trained Privately"
 excerpt: "The makers of the Brave web browser today revealed a plan for ensuring that AI machine learning models are trained privately."
 publishedDateTime: 2024-02-27T14:51:00Z
-originalUrl: "https://www.thurrott.com/cloud/web-browsers/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately"
-webUrl: "https://www.thurrott.com/cloud/web-browsers/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately"
+originalUrl: "https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately"
+webUrl: "https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately"
 type: article
 quality: 48
 heat: 48
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "MF41koQqrG1OcdBRjvqvYQShXNj04PliuG58h2QOWsw+QKpMqJXGx71VZ6L/6DPl1xSa+SviPBpoo6UyI+vL9Uh8VskXf73suuU78/GpOuss4SOc+0dakgLh1ldWL+ClP10dCXuTlx0kAC/SmDZ0kd1MoXWm2C3zJOH9DWnbFvRWvXJw9uoSg78N5dV2odrXZ6vpXD3BlFMeCaI8MLJj+s/Sls4xtfGkXCeq5RhcUahCw9fMtSS8kAEzmRxvVs7h2aATm/B83Me3zbUBOsIcIlGVNAS0UXp0bzem2v0WanpVstEruFvJ4CY3lMg6shbt6vTUJJvVK7rT9u7ffO24zd0kY3h0ae5Tt280jG2tWkIBct2jSjl00486zq9ZWisO0SBJa2Skt7k1Ui/qLNo2yXxQ5pr7cpS6MUGnV/2gYIty3ZAGS7gdU8/CZBAaXmvBZJMIEoD9WsSHLmTV9n0m8N7ABD8HgkKuyb1DE2W9kZdTI+mvJYkJNZUvEE0Pd1FEAkDcW6rgX151NNALYPW/kw==;dnrpaIhj1GYKXtfvddqa/A=="
+secured: "gN28QBtxoEInDKk0jQhkm+gjfLNftoA5s2sNfxavktZgduiIK0Nqrt0Alp3OnFxGDDAjWBKtiLoDwfEjOM5m3fGIRreOx4Ky7nKUqzTldK/RTGt5OoxbbvOMrI4WmsoSw6vr9YeZpo8yIpvd6bQvUvF5KblLv6q+OfzwPi7N17H+URr5/EHRJSGxyU3Qq/+9I/POzonOTaLNWdjYDT0sgy+4tQHOtAOsoEy++HO5iujIQvAk1s/XDyQ8B/znhzTSAeh8pqe2UZAFh9bu2cPLWpZIvueK6CtgruPAyvXqOp5d4G+51B9JHvkzDevaWQk8YUiRrdBnNB/i6bquIUtiVUxlG1oCqEDulFbPH/lTXg8=;OYEfdM/KVsQEc86eWVgatQ=="
 ---
 

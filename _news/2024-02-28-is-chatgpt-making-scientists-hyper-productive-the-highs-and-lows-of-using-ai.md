@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exposing The Brittleness Of Generative AI As Exemplified By The Recent Gibberish Meltdown Of ChatGPT"
-    excerpt: "Generative AI is brittle, though most people don't realize this crucial revelation. An example can be seen in the recent incident of a gibberish meltdown of ChatGPT."
-    publishedDateTime: 2024-02-25T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/25/exposing-the-brittleness-of-generative-ai-as-exemplified-by-the-recent-gibberish-meltdown-of-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x276,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
     excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
     publishedDateTime: 2024-02-29T21:20:00Z
@@ -51,6 +35,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 62
+  - title: "Stock Spotlight: 3 Picks ChatGPT Urges You Not to Miss"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips ChatGPT was one of the big stories of 2023. As part of the generative"
+    publishedDateTime: 2024-02-27T18:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stock-spotlight-3-picks-chatgpt-urges-you-not-to-miss-1033109018"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "j0enWh+wS567ZLF8Gc6t7evtRKqapIMyJoAOKaeM0B5dlfu47W2fJvLFW+peMiFk+UNyOLiyaZSI46ajehKGXCiru5u6oA27ISXomxg/+gGlsfOiKq8+yf9Trq9ams7CbtONx2w5Xrq0fNJyuUTP7wdZh09evJrp1zndB1kAXeYhdGjtUL+KoKxbUpUMSE87wSQEDi23K0UDclvNtLz8YeNEbGEJgUJrTYXfNBPpKtYDISIF27buW1i6Ex/qEOOlVpU81FWymcvk0t21Lmwko6mh16Bl3vwovtH1QEskBPvEmjbwv9ESlJL0w7LfnAZtrcMsjGerkWjfZGuL0pHs0gkKEbkGnz2NHrwB4Vta+TCEfeyPqk6bHZHhIkhHikQQTtTJvnqI+IyNgWgR2by0AY6KCj/bUkIo3o7rEjt25+1KU0bW68s8tvpMiQ7BZMwvB7dwUAV5os7wYeAp0cCfeB+J6Nx7p7BL76lIt84CgY663Lr9Sb28SfhfCxn4rdhzdeYyOCY3P9Iri4DlUSYTHQ==;rE6QGA5nWNj0bKeDzdaKTg=="
 ---

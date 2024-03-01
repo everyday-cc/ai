@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/ai-offers-lucrative-opportun
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ai-offers-lucrative-opportunity-in-intels-programmable-chip-unit-altera-says-its-ceo-all-you-need-to-know/amp-11709253982113.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Today’s Cache | Technology and cricket big win for Ambani; Intel sees opportunity in programmable chip unit; Mistral AI CEO commits to open-source"
+    excerpt: "Rivera said the programmable chips Altera designs are useful for AI applications and computing tasks that fall in between the purpose built custom processors designed by cloud computing companies like Amazon.com and the general use AI chips made by Nvidia."
+    publishedDateTime: 2024-03-01T12:04:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-technology-and-cricket-big-win-for-ambani-intel-sees-opportunity-in-programmable-chip-unit-mistral-ai-ceo-commits-to-open-source/article67902987.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-technology-and-cricket-big-win-for-ambani-intel-sees-opportunity-in-programmable-chip-unit-mistral-ai-ceo-commits-to-open-source/article67902987.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-technology-and-cricket-big-win-for-ambani-intel-sees-opportunity-in-programmable-chip-unit-mistral-ai-ceo-commits-to-open-source/article67902987.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 36
+    images:
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/gadgets/eb425o/article67902961.ece/alternates/FREE_1200/2024-02-28T134153Z_1022837048_RC2OB6AZYDY0_RTRMADP_3_DISNEY-RELIANCE-INDIA-M-A.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "L8RZeo5/Dj4vNn2j7+QqySz3Km2vKQ4sXsccqiFvpQCVFzPA8NA1Z18xw/Tf+ZNu7Nq8D7VmiXAFzLFqRj3vJcXa0ykwyI5AmbHTo08VO9QlengRxI5uiDY6CT5wZjzWDLU5lrOdL+Rz93RJQFh1f/prpQSF70MtRxJepCipCgB3fGr2VepoqV3qGxhxgUgfwhZ0UKyOIr+DSTVhImyW1gqaAk1h3DJNnU1Z2EKYgwj+HecR47BWCWeufZTbuYT2ns+Uz9GWDE6Lk1n8cgbEQxg4qYvT0Q+nwjBWtqxSD9UrPCB5Jymxpjna9QV2oiXkJXfCOxO2th35jEDnZSfINQDRS83pMaVdsPmWTnhUrxuww7VSAqaguVTmi9NZJDZVLbkh68GVw6f1P6MRb+0ePVH+Uzc7NqctzXPxnhSRDuunilYb+Wm5mK7mGllQob7aEVpty3ziieA8Rd+Hjko26KPvVmi3B0mA7CXsYKYIE3ZwgCxWbcPjJeZbjEHp2GuHSI7GSXHyV/jjEyVHwacKyg==;MnTdVYf9As16yiE8MPj4CA=="
 ---

@@ -79,15 +79,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "The future is woven with the threads of AI, Edge & blockchain"
-    excerpt: "The future is being redefined by the interwoven threads of Edge computing, blockchain, and AI. In the dynamic landscape of India’s SaaS industry, Sudip Banerjee, CTO, APJ, Zscaler, highlights the promising trajectory of growth."
-    publishedDateTime: 2024-02-25T11:37:00Z
-    webUrl: "https://www.dqindia.com/features/the-future-is-woven-with-the-threads-of-ai-edge-blockchain-3996900"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "9qC+zNtkHoSyKfhbDIZjRcSbmHfBzGeS9pRPyEjK4KLJTMncleJ0vO07vifjC8jkupjMfiMbGmhiekv96IWwMD5gvvGqp+B7oEFGhW+kmJuTJRiyWC4O3sM8TyXysc8rFPFFYkqRuKQM9FJraokPUuPPVUSlxECBZykO4CVQhbNhH5Uz8AcNQlZp5/My0eR05JSl/BZ1zqphjUZbem8Ozi8U6O7ZQtifpij3QNKU1afU14ChzwTrwkKPDNo9+Xj79C6GrVuDq6GQePKlRq2axZzLXZAOg1vLYTx3rGR+D+zWm+VNK70LtS2jAOt+hO8mbM8dkmMAraIxTD0sXAtI1LBW7j20ZtlcUDKWZ65yqppXAXdRkvaVRgu5t07HbxpBcvjk0qvFpykkZ+H/J1DFKByHiCv3xApVByJPqy0i88GnJFHUmKMjqxKKlj3BM8xpvSNlN5T5JbrSKohld/Hq9wALV8+6+MUQNFahbPGnxODN8fZiBDc9KoNqexnfrtdyzNgi6TJuRBtdBZ6o6keogQ==;bywwmcgSxDMmYMmGo2e7cg=="
 ---

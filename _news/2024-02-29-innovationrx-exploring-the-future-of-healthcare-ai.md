@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx
 webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       name: Becker's ASC
       domain: beckersasc.com
     quality: 34
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "F6ISamBafPcC5JsB9w1vixaRjGGTdNV5oxs+DQ8aU8rtsS+X/fDnmhp74v0+jVtqLbYc9zHUbHj5txqtxtnmSItN7ZoUB8M+EWTkaH2SD1O4etwEq5W+ZJrXhWiVaWXw+qqkHYYIBmvnlQLGuqMoR02vIlXgB2hKVZ42SsmSjqIr5PekoCRb2vH78FXaOj2f0RIMYS8vr81+4J+hegokIbDFuLo8K80TivDI6/QtpZ9koU50a0hsCZzzCByXLFgJNe0d0Y1AFGXJQx4Vg+LSl3syPg6GpWC2b5yk7ndycXx6I0ulMw5Cx0L+Hh1aiFLqjyV45OFnParNylccogIgBGooIxW9Mb9jGsZPSbDYJFyVG32cpjTRc2M83JLtPTNJTqaSCOp/gJK32WDBQk8gjydDsUGBCM+xKk3liF671LNKvPH3G08nbHToyva3P1J1Rfd4/doDOc3afq6qeaxyr9yjMxaWsCXhlHLidzTyO/Npk3QIZE3dNjTWmxhHBxizeUyD1YOVzOTGlDkqKIpczA==;E/qU2CGEtnvw+5R17ybeXA=="
 ---

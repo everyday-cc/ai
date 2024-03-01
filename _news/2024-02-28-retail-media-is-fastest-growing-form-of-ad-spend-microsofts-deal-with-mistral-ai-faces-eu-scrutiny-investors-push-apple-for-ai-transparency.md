@@ -956,6 +956,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
+    excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."
+    publishedDateTime: 2024-03-01T07:05:00Z
+    webUrl: "https://menafn.com/1107921924/Du-To-Revolutionize-The-Digital-Landscape-In-The-UAE-With-AI-Innovation-Supported-By-Microsoft"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/01/M_f9956image_story.jpg"
+        width: 1251
+        height: 834
+        isCached: true
   - title: "Microsoft's Bold $16 Million Gamble on Mistral AI, the Challenger to GPT-4 and Claude 2 - A Strategic Move or a Risky Bet For Microsoft Shares?"
     excerpt: "The collaboration highlights the integration of Mistral's AI capabilities into Microsoft's Azure AI platform. Mistral is preparing to provide open and commercial language models on Azure, following in the footsteps of OpenAI. A key focus of this ..."
     publishedDateTime: 2024-02-29T11:47:00Z

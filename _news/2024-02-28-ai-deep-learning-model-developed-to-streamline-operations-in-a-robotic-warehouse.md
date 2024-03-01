@@ -7,7 +7,7 @@ originalUrl: "https://www.theengineer.co.uk/content/news/ai-deep-learning-model-
 webUrl: "https://www.theengineer.co.uk/content/news/ai-deep-learning-model-developed-to-streamline-operations-in-a-robotic-warehouse"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Data leaks can sink machine learning models"
-    excerpt: "When developing machine learning models to find patterns in data, researchers across fields typically use separate data sets for model training and testing, which allows them to measure how well their trained models do with new, unseen data. But ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://news.yale.edu/2024/02/28/data-leaks-can-sink-machine-learning-models"
+  - title: "OpenAI developing fully autonomous robots powered by AI"
+    excerpt: "OpenAI has joined forces with Figure to develop autonomous robots that are powered by artificial intelligence. To be used as a workforce to"
+    publishedDateTime: 2024-03-01T10:33:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-robot-figure/"
     type: article
     provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 39
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
     images:
-      - url: "https://news.yale.edu/sites/all/themes/yalenews/images/yale_og.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/OpenAI-Figure-autonomous-humanoid-robot.jpg"
+        width: 1280
+        height: 860
+        isCached: true
+  - title: "Intel plans to have fully AI-automated chip factories powered by 'Cobots' in the future"
+    excerpt: "Intel teases it has plans for fully AI-automated chip-making factories with 'Cobots' in the future, alongside its next-gen 1nm process node in 2027."
+    publishedDateTime: 2024-02-28T23:40:00Z
+    webUrl: "https://www.tweaktown.com/news/96531/intel-plans-to-have-fully-ai-automated-chip-factories-powered-by-cobots-in-the-future/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96531_02_intel-plans-to-have-fully-ai-automated-chip-factories-powered-by-cobots-in-the-future_full.jpg"
+        width: 1500
+        height: 857
         isCached: true
 
 secured: "hKfI4CuNSIehylxNM/6FLF6r1Q0lOtlUCwixhFPkSmNohXGNQEvi18V+7Ab1MnBNFd/NMj+dcEAscqqDlBw/b497+WIizeOzQ/gDcAUcYbjgUGzH5v2ImipDGDH0kdQpSJA7wUYOcrxzUB2OptWuLNxcduS0uyJC/q8ij79rF4kmAAVwPYlc0NIZK7/TYzwOe6cZbAIBH2tEmQxFtuNIc950tbFkVT0geqgAop/Nl5QxvYJ8HgPLf8Jbo+q8t0ZcKEAB4eL/FkXc1SCUI1g5mpyIg+JMLOVudT1gqWcrD7rq4HYl23YYGd2H8uTy8cngXp/S7I/EPUz6Y2dBxfxAhKXKudMaiLYUWFCtfcfMets=;O960oaGeHzAt95le1q4aRA=="
