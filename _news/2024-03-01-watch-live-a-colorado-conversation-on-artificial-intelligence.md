@@ -1,10 +1,10 @@
 ---
 category: news
 title: "WATCH LIVE: A Colorado Conversation on Artificial Intelligence"
-excerpt: "To sift through some of the most pressing questions regarding artificial intelligence, The Colorado Springs Gazette, Pikes Peak State College and KOAA News 5 are teaming up for a Town"
-publishedDateTime: 2024-03-01T15:45:00Z
-originalUrl: "https://gazette.com/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
-webUrl: "https://gazette.com/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
+excerpt: "To sift through some of the most pressing questions regarding artificial intelligence, The Colorado Springs Gazette, Pikes Peak State College and KOAA News 5 are teaming up for a Town Hall on March 1 on the quickly evolving role of AI in shaping our world."
+publishedDateTime: 2024-03-01T00:00:00Z
+originalUrl: "https://gazette.com/news/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
+webUrl: "https://gazette.com/news/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
 type: article
 quality: 37
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vHf24s+WxZcD99l1PvJACrXNk8tov4ozr4hs1kCHD22bzTvKQGZGOLaqNMjOA0lrIjYbTHRxCLZAyPBSC2C1mbh5By23CUJ+u51bFrs4NQU7zEPF+SGu8tKj1NI7PVg0AScB2jrv8txSPhAR6kPrBi5M3Y8uoaQAr+UoVZMP0WI8R8BacJD0OFPOpnUhZ7p+FaMszJm1CfjEdalGiSc3OVbQ4cFSe3xeYbi1rURzsx8r0kDjm7/nHTILCSQDdIsKONCwceMIdG09ipLrt6mX4TormZ5fWsAG+A9mFSTvF39BNyJhLmuqVZDghomwIMVhddhZMxyDWooAx8B/1PPioelhMLtgmk9Jl71n9gYeYmXHrqWj76CkPXZdqefDt82RdQFpNDaQzAP0FJq+WeilOn4w6CN+mi8Anb7Q/yzqaUKKDnjnnPW6dsVLNH7pX/Kf/iAH89r3aAKkKzvYLCkArzv9o/hBoc6/VI4I/aZY+zyFn2627e7KgZ36MclRy8sNlaJJWIOijd+jNTs3FXJuqA==;v4GDkcduR+L3EJPfKcZE2Q=="
+secured: "/kpWgEfUEAuRwgkEIKsblmhp1Oqjn/8dIBVdKkSQ6v3X+gchdvTjMUiscshlwqt9E1qYyhFbIews8VJCjVNkJzmjxm0qbGEBjRxcpaEBd0K3bAX9nc+24G4NERj9tftIwoNqpgCVpSX5fEm8OavVKwQBCALHkeHBZYzdgnUAm+axo5npJqEHL7drogS2ZQmuob7aWh94JuaOGRNjcMHmK8FEQ16cE6WGLxQyM4gRlUEAHoIbW6oPjTR7mOgpWXrZI9ky6v2OrZCUQ2sWG4Z7PPQbL13lTrAdDyZwlr+pR135ZmqrgrXjgobBYw/jSfzfu+qDvzGYYOnTXwTKbd+3c4rTNFYCBxdQS7xgQx8Wfaw=;6FKxUR72ka8FsQqiQ8Me+w=="
 ---
 

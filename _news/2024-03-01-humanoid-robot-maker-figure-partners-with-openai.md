@@ -3,23 +3,23 @@ category: news
 title: "Humanoid robot-maker Figure partners with OpenAI"
 excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
 publishedDateTime: 2024-02-29T22:30:00Z
-originalUrl: "https://madison.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_acfdce56-8e89-5ce0-abea-f0ca26820aa0.html"
-webUrl: "https://madison.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_acfdce56-8e89-5ce0-abea-f0ca26820aa0.html"
+originalUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
+webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: wacotrib
+  domain: wacotrib.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/cf/acfdce56-8e89-5ce0-abea-f0ca26820aa0/65e1032714789.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/6/f4/6f4165a2-aaf3-519e-8386-e4b92a995101/65e10329eddb8.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -383,6 +383,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "VcPdBOeCEZOrYu7uBvJkZfoCgqYVyiiALtRCSM2atkolgAhkIIpOq6jO0m8BjSgCsKkpoAh6LZvSlQgHmoypRYdfONgmKepzevM+sF+7yyy2cUK7r8NB3ovVbCDEXkmbj2YnZrY1bqYOjNc+ebIg1PYYZdOclHupSP2oKX9lrTHq77rc7FQYjUDFac9bj7XlodZg8EVhlB4qurp3C43P05rs4THI1sBUaQrfq+pSgOsIdUbijG6sJjLJLW2nK9D9DDbjyPGAjLjjyLYRKZqYL2IlXuGnGT+ISJLhpgKfvWr8dWOF1jcL/J+AbncKK/bROCqYGmpi0y3DTcH1NDWu4sRtZLRw3bIsnVFZW3Fx9do=;Ms5Qixh3Vm+QOXRprYjHVg=="
+secured: "K0eM3ZkkTKcfBJXM0q1K3U1WfSY2LPywkG7RZYJDjDd7qz7h7snnErqBbWHGpki8JUQHuOg547zqUev2vjWuAFQ4+jcIzw7zhnMkxmD8XlDzb9sRZ5asWQFCYB8Ao+IqzW/bigoEJfuNbCWbAIdQEMYLlHdoDjnWlqxM2oL7DbWzP+GMrk6v4PE8W4tTTle+P0rt5qVP77aQIC9+DKGrxCy84T1AJXaeilqUZ+lCoCDqwAF2FljjGImsNpHAcDFrBt2E1OpbZnu7QW1LlcxOxPBBxD1mBCaNll3XtykTA9VUCXX0ieohuxOTi2vsALpz9Kr3wnj2ZF2IT5cXMb/m6CoNJwjt3EaZ5X6g5Q84TaA=;exyKOK26+QFB/ZwmEFqkdA=="
 ---
 

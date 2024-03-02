@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI's Sam Altman says AI is a tool, not a 'creature'"
+    excerpt: "There are \"risks\" to artificial intelligence, but calling AI a \"creature\" is the stuff of sci-fi movies, Sam Altman told The Advocate."
+    publishedDateTime: 2024-03-02T05:06:00Z
+    webUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/65e286bc90413ab8e1d899f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Sam Altman-backed startup Humane in talks with Indian telcos to launch AI Pin"
+    excerpt: "Sam Altman-backed startup Humane has started talks with Indian telecom operators to prepare for the launch of its Humane AI Pin device. “We are starting early conversations with India telcos and hoping to be able to make announcements in some year."
+    publishedDateTime: 2024-02-28T16:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Humane-601x435.jpg"
+        width: 601
+        height: 435
+        isCached: true
   - title: "Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission"
     excerpt: "The new Board consisted of members with more experience in profit-centric enterprises or politics than in AI ethics and governance,” the lawsuit adds."
     publishedDateTime: 2024-03-01T10:30:00Z
@@ -33,6 +65,34 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
+  - title: "Elon Musk sues OpenAI over AI threat"
+    excerpt: "OpenAI is not so open now, Musk claims, following the closed source release of the company's artificial general intelligence technology under Microsoft."
+    publishedDateTime: 2024-03-01T04:22:00Z
+    webUrl: "https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
+    images:
+      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/03/chatgpt-output.jpg/w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "New AI image generator is 8 times faster than OpenAI's best tool — and can run on cheap computers"
+    excerpt: "Scientists used \"knowledge distillation\" to condense Stable Diffusion XL into a much leaner, more efficient AI image generation model that can run on low-cost hardware."
+    publishedDateTime: 2024-02-27T21:20:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-koala-is-8-times-faster-than-openais-best-tool-and-can-run-on-cheap-computers"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cmLRharBJ78qYwgfNqYnKN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GyihlDE/mMwKpJTTS/OfARdsSD1ZqelTqsx5gnEk4c8aMFVYOjobKkAoklOny1kKt1qPwY5m9RFKXaeaeMhy/nvca95CSBAFRoXeZVGjsbPnjrwHCPH3sGqr/F+pOHNAiXRG7ps9cygCN7Yt6wrbUqGTS2B0zgD3aOmvKnYWm4INHKqx5+Hc75q599whVCg/Ixjo96Q365MF6lcjro/1zyuqMSyYQlH+OLGgcC+s8czJiHcj5gI6gLPX1W7vxrX/Zbj1AGM0d5hHYgCtfO9y44TAA2iEXv2PuHH72QlrI5/9kzWVu+0ArPN5yrIyA22eo3rTrV5iYlHIXfZOUuJf+kaTgRbmCmdjkYjYxtTx4ETvzqCFpSCQI5T3WbJNsKdhymCX3OY2JT9UyCYaNnC/JTgYHM4FuI/62HPfFgCYkzVOpMeGOQZQ24ily5x9DNRB2+YleLbJ8pZsEB5KjP2CtgciuJ9GuW9WZtq8DNipLgyBF8NB0DCn9Q3INkolnfU30kPZkHZQhtF6L2vY+c/MtA==;Us6uRTUcoB3Vxn6KRwpANg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.nytimes.com/2024/02/28/technology/open-ai-investigatio
 webUrl: "https://www.nytimes.com/2024/02/28/technology/open-ai-investigation.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The New York Times
@@ -27,22 +27,6 @@ images:
     width: 1050
     height: 549
     isCached: true
-
-related:
-  - title: "New AI image generator is 8 times faster than OpenAI's best tool — and can run on cheap computers"
-    excerpt: "Scientists used \"knowledge distillation\" to condense Stable Diffusion XL into a much leaner, more efficient AI image generation model that can run on low-cost hardware."
-    publishedDateTime: 2024-02-27T21:20:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-koala-is-8-times-faster-than-openais-best-tool-and-can-run-on-cheap-computers"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cmLRharBJ78qYwgfNqYnKN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "zLSk5ULy2nxC1OQGelEIPMxySnYOVbAoqRSTFbVSlDGH5Z6W1OZ1eOIQvZQRqloOP1LZYP+oUsj7kGVFBhvm3jW7R5aQ4hFncrt5QHz+BU4JeyRPrdl/CPRec8M1EzveF7PPnvU7tsqa/rbmc8T1x7VfrpFEy0YFtJLpF84USEgmL1q2Ll5LlDA8c78751HghLCcNv6aFKc4e8gLpf7fumsz/Sdw2F2yYhTnlqC129q+yXdBiWfne3fy+cXU21bqPqpP4TqNERojKgg3EZT8oXzgE5ULa7cDEhDOf42fveXOJphDwAMM3J+aO/ZECApOJFuiUzJSd2HR7/dXk7iGfP+/Jce+HYoIaCQBtpf2EgU=;1r8CtTREHP/RHZ1ljMjCMw=="
 ---

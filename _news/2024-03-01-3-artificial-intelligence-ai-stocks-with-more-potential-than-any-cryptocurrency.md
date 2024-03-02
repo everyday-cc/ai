@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-ai-stock
 webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-ai-stocks-with-more-potential-than-any-cryptocurrency-3"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Nasdaq
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever"
-    excerpt: "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ..."
-    publishedDateTime: 2024-02-26T05:09:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/766231/big-data-analyst-ai-research.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
     excerpt: "Whether you're a casual investor or trade professionally, chances are you're aware of the boom in artificial intelligence (AI ... the world's largest cloud platform with Amazon Web Services (AWS), responsible for 31% of the cloud market."
     publishedDateTime: 2024-03-02T01:38:00Z
@@ -46,6 +32,15 @@ related:
         width: 720
         height: 473
         isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
+    excerpt: "The growing adoption of artificial intelligence (AI) has sent shares of companies involved in the proliferation of this technology soaring over 16 months or so, with many names seeing a parabolic rise in their stock prices. A parabolic move is a rapid rise ..."
+    publishedDateTime: 2024-02-29T14:47:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/24435107/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 32
 
 secured: "zfZswkGeKePvo1H4V8NOSFCHs5dcX2u6pAhRKsoJEXul/x2NClHNrK3p146eCmarEvRPs+XPX8RPMM7mMi6ZwW2/xL02vNa+rKSI99FgjxjBYM51HA55EinelUfNoJPXY49A3r02HVUy/FQ9gbIY7ACYdCYew5ughgKlq+dHCEyFIX8GU7tubfRP4HsqAxTrCCH6uaD33U4X9IQGF3PjVxIrA8gBKAh8viBV5CtNPcZGiqFyGe+f5tpc5rae4zSBm81x6p0+fgR1QkUgSJmh4Rj2fuL87HxbGN2vyUAmqPxgVEBtGZIm3tdYdBy5FPRDR+dAfrgiaAnFuDYl4niuA5jV53otNEUWOg+bxq7GW7ehWl0gsjTi0aV5tSc6qrEReBwV56kBybEC4NvANqP7UmmPOo1s9yX+bI7fslrSvroukkIW46BMfxYMb/MlT9O5jFuT6ECvpdefWW+lPZ9sPnJYECIHHi5L4tJ51JZlEmEiuaOqEFfC7NL9/8qc1IlHiwaT/mgobWWD4MV2oHkhvQ==;17ieHOrY1AvWLv2pY1B0xw=="
 ---

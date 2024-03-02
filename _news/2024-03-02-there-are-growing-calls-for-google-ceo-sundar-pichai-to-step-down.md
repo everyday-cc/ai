@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Calls grow for Sundar Pichai to step down from Google CEO position"
+    excerpt: "There are growing calls from many quarters for Sundar Pichai to step down as Google's CEO after the company's Gemini snafu."
+    publishedDateTime: 2024-03-02T06:27:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-sundar-pichai-step-down-ceo-9191645/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-sundar-pichai-step-down-ceo-9191645/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-sundar-pichai-step-down-ceo-9191645/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/11/Sundar-Pichai.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "'We got it wrong': Google CEO Sundar Pichai says 'Gemini AI responses show bias'"
     excerpt: "Google CEO Sundar Pichai has addressed the ongoing issues with the company's Gemini AI chatbot (previously called Bard), calling some of the responses by the AI chatbot as ‘problematic’ and showing bias. Notably, Google had recently paused the text-to ..."
     publishedDateTime: 2024-02-28T10:08:00Z

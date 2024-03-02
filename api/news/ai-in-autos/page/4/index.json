@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-30-artificial-intelligence-is-it-a-tool-a-threat-or-an-artform.md",
-      "title": "Artificial Intelligence: Is it a tool, a threat or an artform?",
-      "excerpt": "MINNEAPOLIS — Artificial Intelligence is coming at us fast and furious. It's on our phones, it's in our classrooms, and it's changing businesses and lives. There is little that isn't or won't be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "originalUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kare11.com/assets/KARE/images/31c8ab27-2bf5-472d-a218-33a5964005dc/31c8ab27-2bf5-472d-a218-33a5964005dc_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "publishedDateTime": "2024-01-30T14:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KARE 11",
-        "domain": "kare11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-29-utilizing-active-microparticles-for-artificial-intelligence.md",
       "title": "Utilizing active microparticles for artificial intelligence",
       "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with ...",
@@ -1277,6 +1234,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics.md",
+      "title": "Tesla: Continuing The Short Bet, As Bull Thesis Depends Too Much On AI And Robotics",
+      "excerpt": "We will see more hype around AI/robotics, but there is no timeline for when Tesla will deliver products. Read why I decided to continue short bet on TSLA stock.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "originalUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1584500014/image_1584500014.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

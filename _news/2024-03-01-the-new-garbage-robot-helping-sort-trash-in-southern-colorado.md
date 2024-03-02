@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "WATCH LIVE: A Colorado Conversation on Artificial Intelligence"
-    excerpt: "To sift through some of the most pressing questions regarding artificial intelligence, The Colorado Springs Gazette, Pikes Peak State College and KOAA News 5 are teaming up for a Town"
-    publishedDateTime: 2024-03-01T15:45:00Z
-    webUrl: "https://gazette.com/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
+    excerpt: "To sift through some of the most pressing questions regarding artificial intelligence, The Colorado Springs Gazette, Pikes Peak State College and KOAA News 5 are teaming up for a Town Hall on March 1 on the quickly evolving role of AI in shaping our world."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://gazette.com/news/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
     type: article
     provider:
       name: The Gazette

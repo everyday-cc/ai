@@ -25,29 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit"
-    excerpt: "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription."
-    publishedDateTime: 2024-02-27T20:40:00Z
-    webUrl: "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html"
+  - title: "OpenAI's Sam Altman says AI is a tool, not a 'creature'"
+    excerpt: "There are \"risks\" to artificial intelligence, but calling AI a \"creature\" is the stuff of sci-fi movies, Sam Altman told The Advocate."
+    publishedDateTime: 2024-03-02T05:06:00Z
+    webUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://static01.nyt.com/images/2024/02/27/multimedia/27openai-suit-blpk/27openai-suit-blpk-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://i.insider.com/65e286bc90413ab8e1d899f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "AI Startup Cohere Opens New York Office in Expansion"
-    excerpt: "The startup, which develops foundation models that compete with ... Cohere said the new office will help it tap into the talent pool in New York, and support its work with enterprise AI adoptions with customers like McKinsey. \"New York is a critical ..."
-    publishedDateTime: 2024-03-01T08:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
+  - title: "Sam Altman-backed startup Humane in talks with Indian telcos to launch AI Pin"
+    excerpt: "Sam Altman-backed startup Humane has started talks with Indian telecom operators to prepare for the launch of its Humane AI Pin device. “We are starting early conversations with India telcos and hoping to be able to make announcements in some year."
+    publishedDateTime: 2024-02-28T16:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Humane-601x435.jpg"
+        width: 601
+        height: 435
+        isCached: true
+  - title: "Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission"
+    excerpt: "The new Board consisted of members with more experience in profit-centric enterprises or politics than in AI ethics and governance,” the lawsuit adds."
+    publishedDateTime: 2024-03-01T10:30:00Z
+    webUrl: "https://techcrunch.com/2024/03/01/elon-musk-openai-sam-altman-court/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "Elon Musk Sues OpenAI and Sam Altman for ‘Perverting’ Nonprofit AI Mission"
+    excerpt: "The Tesla boss alleges that the lab was supposed to be working solely for the “benefit of humanity” instead of profit."
+    publishedDateTime: 2024-03-01T17:04:00Z
+    webUrl: "https://www.thedailybeast.com/elon-musk-sues-openai-and-sam-altman-for-perverting-nonprofit-ai-mission"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 35
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2718,w_4832,x_0,y_44/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709300246/2020-12-01T000000Z_1499439236_RC2IEK9HXXMC_RTRMADP_3_TESLA-MUSK-GERMANY_kj6zdo"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "New AI image generator is 8 times faster than OpenAI's best tool — and can run on cheap computers"
+    excerpt: "Scientists used \"knowledge distillation\" to condense Stable Diffusion XL into a much leaner, more efficient AI image generation model that can run on low-cost hardware."
+    publishedDateTime: 2024-02-27T21:20:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-koala-is-8-times-faster-than-openais-best-tool-and-can-run-on-cheap-computers"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cmLRharBJ78qYwgfNqYnKN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XGEMrOOSz9zhrnVBu8WffFjnZiuGEdeBlp1L/aXccr6j60GQWO4tCDt/1TRN+o7sAlBMpXDJolaZXw5zk7j4og24/fMX/ox2mf9253LcnRz79dtixWZeNtzh95/fGQsnubKEIRTm7SU4FJepFhqWGDqTJ/K8jONUP/ulbyx28mTvDjpQJNZCYOZeuEl7rf/rNgziXhKPINcLhDXc4BnyJlMwwuftMeguOla07Z7o4QM9qhjulBHNHW5Xx35qEz3mitNi69/YMo2VDJa8GVeQhdKprvirCk85i+2i/Qn+47mpHsdf/QVVQaJPQ1SZgG6yv+CYVWWHnFl0PdsPIw6euNMtPB/B9KlZQNd2qvTOKCOpwu8IlECxYcWOb7QcY3MF97GUbfUoLSPYkOu28QlS856zQ7zfypaNkSnrSjHs8PazsimZfEyq7v+f/6rjN4EsC69gVwvwN3I4k7Y4Iaqxwvg/CYw02ILp6iRdUlKcO2DyGXvakapXCo3ilcJ2lFLrcxVVpluWoD6jciGPxBMyiw==;c8FBZkuz87DE0kVwaTyGxw=="
 ---

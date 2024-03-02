@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--movi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/28/moving-bits--moving-beliefs-ai-is-about-to-get-physical/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

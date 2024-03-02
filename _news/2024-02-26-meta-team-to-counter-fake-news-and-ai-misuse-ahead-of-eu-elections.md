@@ -41,6 +41,22 @@ related:
         width: 7863
         height: 5242
         isCached: true
+  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
+    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+    publishedDateTime: 2024-03-02T06:47:00Z
+    webUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966"
+    ampWebUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/07/meta_ai.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Harnessing artificial intelligence for infectious disease prevention"
     excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
     publishedDateTime: 2024-02-28T02:49:00Z

@@ -2,57 +2,6 @@
   "page": 97,
   "value": [
     {
-      "path": "_news/2023-12-08-13-ways-ai-can-help-accelerate-your-startup-part-i.md",
-      "title": "13 Ways AI Can Help Accelerate Your Startup, Part I",
-      "excerpt": "You'd be surprised at how many business functions would be aided through targeted use of AI tools. Here are eight of 13 ideas you can put to work right away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/12/07/13-ways-ai-can-help-accelerate-your-startup-part-i/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/12/07/13-ways-ai-can-help-accelerate-your-startup-part-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65721dc838fb98b4ecf893d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/12/07/13-ways-ai-can-help-accelerate-your-startup-part-i/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/12/07/13-ways-ai-can-help-accelerate-your-startup-part-i/amp/",
-      "publishedDateTime": "2023-12-07T18:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-08-ai-horizons-ethics-risks-and-the-road-ahead.md",
       "title": "AI Horizons: Ethics, Risks, and the Road Ahead",
       "excerpt": "We’re at a historic inflection point in AI regulation, but from algorithmic bias to privacy issues, the ethical concerns grow. In this panel, moderated by WIRED’s Khari Johnson, we explore how tech companies and lawmakers are examining future existential risks and building safety measures in a rapidly evolving technological landscape.",
@@ -1101,6 +1050,49 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-training-algorithm-breaks-barriers-to-deep-physical-neural-networks.md",
+      "title": "Training algorithm breaks barriers to deep physical neural networks",
+      "excerpt": "Mar. 22, 2021 — Researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

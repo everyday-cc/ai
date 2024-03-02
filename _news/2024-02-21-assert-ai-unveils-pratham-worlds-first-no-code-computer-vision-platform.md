@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform"
-excerpt: "Pratham, which translates to first in Hindi, employs an innovative framework that places the power of computer vision directly into the hands of users, allowing them to analyze and utilize video data effortlessly."
-publishedDateTime: 2024-02-21T05:13:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-webUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2835383-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform?amp"
+excerpt: "NewsVoir Mumbai Maharashtra [India] February 21 In a pioneering move Assert AI proudly announces the launch of Pratham a groundbreaking platform that is patented for its innovative approach to democra"
+publishedDateTime: 2024-02-21T06:23:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform"
+webUrl: "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform"
 type: article
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
-    width: 1280
-    height: 853
+  - url: "https://cdn.bignewsnetwork.com/ZDU1MWViMGUtOGU.jpg"
+    width: 630
+    height: 473
     isCached: true
 
-secured: "vUc2cKjVN/YRFKgivq+ihzhh4xCLwHrumLo3JsgyffvFoUVn0akqjFmeLXrhDFaAqKb1p4YTc/jD7RPbuskGoRekKSPTK/kUlJHQhdBJyQNBfU39Zf/9/YKZJPwjG8Uaz1pSTseYkYOOhIScj5km+DjvvDGOMDWwVczLbo3MaGl5hd1oaZTpcG1jLej0A9VFjgrl1sPjfwaaXSVRfBlaUIFPTeDebOZZ7ZU5eA4X3N3YqhD/atWyKxB4+LUMdbi6Q0wLdKIL7VZG0vsQdFsvxJTesZMUyynyIarT5vW9JbyFK+XyF34LSMllRSwbcgUi2TcZuapvZ/s5+bDBmwAwfy6u+9BXH3g6X7y9IWOOCkQ=;eN/6cKnDh8Ziss59WlgaRg=="
+secured: "OZWNq3RaHlcUZ8TscDc6p3BvEqYNyT0HnzqYc/c1RPbfD9qkO4rIGN4UD42h3XvtaBQ4WY2lblb7amn/3txE6U2F+6N4NUTItwbgoDRIpw58GVIEuZPCUL9z/IwZB573ESmwGn50YTUSIOqNvaQ/tQVFsQmDzXOKpZjcDC6L6ddUOdX+nht3PggPpvllmg3HK6RH76+Q4s/NDG3aOr6XcBtEiBpbfY/hNSBka3Jsp5sHHL4IhgiyZ0QX3mf/4AFPUXtCpZK2Hk2/2SnQHlCWBSEPbkBA4v1DjtRQKhmLNu8YB3dGRcQQTcbB2BrY3zt4k+Wc24IrAROpYkbaFTAwgSrkA8C7yEHwcGjPx+sY25A=;PAJ61V4N4jIwfZj5lyhURQ=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_news/2024-01-18-the-vaticans-top-expert-on-ai-ethics-is-a-friar-from-a-medieval-franciscan-order.md",
-      "title": "The Vatican's top expert on AI ethics is a friar from a medieval Franciscan order",
-      "excerpt": "As artificial intelligence's impact on society receives more scrutiny, a Franciscan friar who preaches a message of ethics in technology has gained some powerful listeners ROME -- Friar Paolo ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_7a49d562633937efa0e826fb1fa08cc1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "publishedDateTime": "2024-01-18T05:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-18-digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access.md",
       "title": "DigitalOcean wants to open the floodgates to AI for smaller enterprises with Nvidia H100 access",
       "excerpt": "DigitalOcean has built its cloud business with a focus on developers that cater to SMBs and it’s now growing that business with new support for the industry leading Nvidia H100 GPU AI accelerator. The Nvidia H100 will be available on the Paperspace ...",
@@ -1157,6 +1114,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots.md",
+      "title": "At CES tech show, start-ups unveil AI-powered humanoids, robots",
+      "excerpt": "Thanks to generative AI, robots depend less on pre-written scripts Las Vegas ... \"Why live with ugly machines,\" says Jerome Monceaux, head of Paris-based start-up Enchanted Tools, who was on hand to present the pair at the CES tech show in Las Vegas ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2024/01/17/252643-01-02--Read-Only-_18d174d4911_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "publishedDateTime": "2024-01-17T15:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

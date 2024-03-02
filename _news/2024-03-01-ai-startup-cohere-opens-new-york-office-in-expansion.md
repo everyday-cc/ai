@@ -36,20 +36,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Elon Musk sues OpenAI over AI threat"
-    excerpt: "OpenAI is not so open now, Musk claims, following the closed source release of the company's artificial general intelligence technology under Microsoft."
-    publishedDateTime: 2024-03-01T04:22:00Z
-    webUrl: "https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 39
-    images:
-      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/03/chatgpt-output.jpg/w=3000"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "ifwFaPQ0nGrEbUtsJBpG+r2MaGimW6bl90FKzj+HsT3KN2Rv9owHnoD5p4jrD4MGqQonTR4OLPtnxxZcSOILzUbastIo//jTJuB+jHgBlsOoDxehjZLfk6Fb1+eOCmCsz8Lv0W+oMvvEGSfQfAD/YJX5x4ZpfX4b2j9W42nR8ZfmsP4StI+GvHN2p4Oh9FJYK2QNfPR/gGm3CLaShY1fqiuDFcTCo/C49urMxxF/emCNRx204wp3sBPQ79IP7tw3wAajD9ByKLcfsxBdaa9x2WyaDaU2l+Gj50wKNS5ClbQY3QC9VF/yLvlPc8Thzgzwir3KQPTZoZNE4ENwDLXUmLlL+VQuRoF75fTqAGxrDJjUaZQVVHAO4Ox+uL4jIAzgDwc5nnulNJWhRDPYSgVRaePCdDAtr6HZzjExlHadaIdZEtkYz9Ktcwqoum1Jd+ZAskVAFc2/CnY8Imq1bEDzmHffIg+fF5LkpvjO4yJkX4L3TsxqCz/CMcNQU/qcwOVlXvzLATUR0BGKlBPQf5Yj3g==;yI5EzQkoq7fHWZbpaihn+w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-firs
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 103
 published: true
 
 provider:

@@ -2,50 +2,6 @@
   "page": 71,
   "value": [
     {
-      "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
-      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
-      "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T16:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2024-01-06-ibm-a-hidden-ai-play-but-upside-is-capped-jefferies.md",
       "title": "IBM a 'hidden AI play' but upside is capped - Jefferies",
       "excerpt": "Despite the positives, Jefferies notes that the company is growing revenue below its software peers while operating at lower margins. \"While the stock can grind higher, we think upside is capped in the absence of a meaningful acceleration in software,\" analysts wrote.",
@@ -1058,6 +1014,58 @@
         "name": "Repairer Driven News",
         "domain": "repairerdrivennews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-03-the-7-best-artificial-intelligence-ai-stocks-to-buy-for-2024-and-beyond.md",
+      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy for 2024 and Beyond",
+      "excerpt": "Top artificial intelligence (AI) stocks have delivered ... Alphabet has many avenues to win in AI. Through its Waymo subsidiary, Alphabet is also a leader in autonomous vehicle technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759262/gettyimages-1473086836.jpg",
+          "width": 8000,
+          "height": 4570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T08:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

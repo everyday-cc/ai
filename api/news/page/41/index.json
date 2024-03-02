@@ -2,49 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2024-02-01-gms-self-driving-car-company-cruise-lost-348-billion-in-2023.md",
-      "title": "GM’s self-driving car company Cruise lost $3.48 billion in 2023",
-      "excerpt": "(Elijah Nouvelage/Reuters) SAN FRANCISCO — General Motors-owned self-driving car company Cruise’s operating loss totaled $3.48 billion in 2023, a staggering deficit that comes as the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2024/01/31/cruise-self-driving-company-loss-gm/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2024/01/31/cruise-self-driving-company-loss-gm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PKBUN4PVSHVIVQB4XST5LCFM34.JPG&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T21:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-01-aptiv-pulls-support-from-motional-robotaxi-joint-venture.md",
       "title": "Aptiv Pulls Support From Motional Robotaxi Joint Venture",
       "excerpt": "As such, support in the auto industry has waned, and the projects inside most companies were downgraded to focus on driver assist tools, or at the very most a freeway-only driving system ... California (including Apple, Baidu Apollo, Auurora, AutoX ...",
@@ -1229,6 +1186,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-new-ai-model-designs-proteins-to-deliver-gene-therapy.md",
+      "title": "New AI model designs proteins to deliver gene therapy",
+      "excerpt": "Researchers have used an artificial intelligence (AI) model to redesign a crucial protein involved in the delivery of gene therapy, a technique that employs genes to treat, prevent or cure diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
+      "originalUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/gene-therapy-chromosome-genetic-brain-disorder-x-y-chromosome-shut.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
+      "publishedDateTime": "2024-01-31T07:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

@@ -24,19 +24,74 @@ images:
     isCached: true
 
 related:
-  - title: "Inquiry Into Ouster of OpenAI’s Chief Executive Nears End"
-    excerpt: "He regularly covers Facebook and Silicon Valley. More about Mike Isaac Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz OpenAI filed a motion in federal ..."
-    publishedDateTime: 2024-02-28T17:50:00Z
-    webUrl: "https://www.nytimes.com/2024/02/28/technology/open-ai-investigation.html"
+  - title: "OpenAI's Sam Altman says AI is a tool, not a 'creature'"
+    excerpt: "There are \"risks\" to artificial intelligence, but calling AI a \"creature\" is the stuff of sci-fi movies, Sam Altman told The Advocate."
+    publishedDateTime: 2024-03-02T05:06:00Z
+    webUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://static01.nyt.com/images/2024/02/28/multimedia/28openai-investigate-01-phzc/28openai-investigate-01-phzc-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://i.insider.com/65e286bc90413ab8e1d899f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Sam Altman-backed startup Humane in talks with Indian telcos to launch AI Pin"
+    excerpt: "Sam Altman-backed startup Humane has started talks with Indian telecom operators to prepare for the launch of its Humane AI Pin device. “We are starting early conversations with India telcos and hoping to be able to make announcements in some year."
+    publishedDateTime: 2024-02-28T16:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Humane-601x435.jpg"
+        width: 601
+        height: 435
+        isCached: true
+  - title: "Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission"
+    excerpt: "The new Board consisted of members with more experience in profit-centric enterprises or politics than in AI ethics and governance,” the lawsuit adds."
+    publishedDateTime: 2024-03-01T10:30:00Z
+    webUrl: "https://techcrunch.com/2024/03/01/elon-musk-openai-sam-altman-court/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "Elon Musk sues OpenAI over AI threat"
+    excerpt: "OpenAI is not so open now, Musk claims, following the closed source release of the company's artificial general intelligence technology under Microsoft."
+    publishedDateTime: 2024-03-01T04:22:00Z
+    webUrl: "https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
+    images:
+      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/03/chatgpt-output.jpg/w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Elon Musk Sues OpenAI and Sam Altman for ‘Perverting’ Nonprofit AI Mission"
+    excerpt: "The Tesla boss alleges that the lab was supposed to be working solely for the “benefit of humanity” instead of profit."
+    publishedDateTime: 2024-03-01T17:04:00Z
+    webUrl: "https://www.thedailybeast.com/elon-musk-sues-openai-and-sam-altman-for-perverting-nonprofit-ai-mission"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 35
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2718,w_4832,x_0,y_44/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709300246/2020-12-01T000000Z_1499439236_RC2IEK9HXXMC_RTRMADP_3_TESLA-MUSK-GERMANY_kj6zdo"
+        width: 1480
+        height: 833
         isCached: true
 
 secured: "esUYkMjgyEcP2tq6reje6U4cSYmYduttEu5LpsN6QemAmdhjFROff9D4i0ifsj4iqSesOXxMfT8NtoLNVjbLZmjl6SHTw5drt9McjDZwO7b/odTS2pe0//BUj7JGeysKnOJonN0tYCxzq5JfdwPSpblsi1uIDaoxUv2mW2UfAbyZ/26gsLp+w5nNPP7TZnSYwjqpN+Zfk2Ndfoct526P3ixdk+H0t4R8AU59A4M7sPjF8boslO555zruimFYUm/kGzbOvvPjozxusdSCc6dpjH38kYtMwbgiAsLU48ETnkAjgXt/HbDxpXQ7eiXde46l/tKlJOer+s1wv0h7YgvKVUyc6qE5nXwCvEStj28Jp/s=;xQIFLOLFzs2G7m9xfbPq1w=="

@@ -2,40 +2,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2024-01-09-ces-2024-siemens-delivers-innovations-in-immersive-engineering-and-artificial-intelligence-to-enable-the-industrial-metaverse.md",
-      "title": "CES 2024: Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse",
-      "excerpt": "Siemens unveiled innovations that are combining the real world and the digital worlds to redefine reality as it opened CES 2024, the world’s pioneering technology gathering.Siemens",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html",
-      "publishedDateTime": "2024-01-09T15:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-09-kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business.md",
       "title": "Kodiak Robotics reveals its best shot at making self-driving trucks a business",
       "excerpt": "Those redundant systems are there as a backup in case anything were to fail while its self-driving truck barrels down a highway without a driver behind the wheel. “From a safety perspective, we do not believe that is responsible to put a driverless truck ...",
@@ -1032,6 +998,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-solos-debuts-airgo-3-smart-glasses-that-can-translate-languages.md",
+      "title": "Solos debuts AirGo 3 Smart Glasses that can translate languages",
+      "excerpt": "Beyond language translation, the AirGo3 Smart Glasses boast a comprehensive array of features like SolosChat and SolosTranslate powered by ChatGPT. It leverages AI to facilitate natural voice communication through the Solos app, enabling users to perform tasks via voice commands.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
+      "originalUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/solos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

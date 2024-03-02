@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever"
-    excerpt: "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ..."
-    publishedDateTime: 2024-02-26T05:09:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/766231/big-data-analyst-ai-research.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "3 Artificial Intelligence (AI) Stocks With More Potential Than Any Cryptocurrency"
     excerpt: "While that growth is significant, it pales in comparison to the artificial intelligence (AI) market's CAGR of 37% for the rest of the decade and its value of $137 billion. Excitement over cryptocurrency faltered in recent years as volatility has caused ..."
     publishedDateTime: 2024-03-01T11:00:00Z
@@ -48,6 +34,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
+    excerpt: "The growing adoption of artificial intelligence (AI) has sent shares of companies involved in the proliferation of this technology soaring over 16 months or so, with many names seeing a parabolic rise in their stock prices. A parabolic move is a rapid rise ..."
+    publishedDateTime: 2024-02-29T14:47:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/24435107/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 32
 
 secured: "FWilrOVXASTs2cNebIRfmefEog6CIKHBLWqUL3vmjK/HlnRWLiqQ094eL4y/dgzf7oqF94Qq7OYHk5F/VZK5c0K/1QT8AV6EvuVB4+ky4mxNCg0a/MKMtO7DiMlTlPviI4MbEt3nqt+8FytyfuUX3D4HQ/Vc/UnXG3zO/6jsrfHt7zdCJqjCwyw+LQiJ5H4a4vsr3w7p+aRYnzHydKE1qT92tt+tnzdkBzkd6pO9olqdYntZswFo2giMSwVJ4BDdc5wo7noz0RQZ9ax9ZV+LWyf6P1zxoawrthnZwP7cNxvQdRdev+Z303k/JLufzYY+p+v8nqVKU3ehRi0UJi3uRFMJJbEBdhGFAf4AYOqpufk=;Kd/9ibEc6WQWlHfggdWKmg=="
 ---

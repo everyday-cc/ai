@@ -40,6 +40,22 @@ related:
         width: 7863
         height: 5242
         isCached: true
+  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
+    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+    publishedDateTime: 2024-03-02T06:47:00Z
+    webUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966"
+    ampWebUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/07/meta_ai.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
     excerpt: "The Facebook and Instagram parent is also building tools to label AI-generated images from Google ... data science, engineering, research, operations, content policy and legal teams. The objective is to identify potential threats and put “specific ..."
     publishedDateTime: 2024-02-26T09:16:00Z

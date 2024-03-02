@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-res
 webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
 type: article
 quality: 95
-heat: 225
+heat: 215
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2024/02/digit-amazon.jpeg"
         width: 1132
         height: 637
-        isCached: true
-  - title: "The Best Generative AI Courses Money Can Buy"
-    excerpt: "Embark on a journey to master generative AI with the best paid courses available, covering everything from principles and prompt engineering to business applications."
-    publishedDateTime: 2024-02-26T05:58:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/26/the-best-generative-ai-courses-money-can-buy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dc3646f50b2433cd62402e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Three Custom AI Solutions To Implement To Increase Efficiency In 2024"
     excerpt: "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts."

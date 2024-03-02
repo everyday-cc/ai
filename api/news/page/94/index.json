@@ -2,40 +2,6 @@
   "page": 94,
   "value": [
     {
-      "path": "_news/2023-12-11-amazon-robotics-founding-engineer-andrew-hoffman-joins-gather-ai-as-cto-as-company-supercharges-growth.md",
-      "title": "Amazon Robotics Founding Engineer, Andrew Hoffman, Joins Gather AI as CTO as Company Supercharges Growth",
-      "excerpt": "Gather AI welcomes Andrew Hoffman as Chief Technology Officer (CTO). Gather AI offers AI-powered autonomous inventory management solutions for w",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
       "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
       "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
@@ -1076,6 +1042,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-automation-anywhere-announces-collaboration-agreement-with-aws.md",
+      "title": "Automation Anywhere Announces Collaboration Agreement with AWS",
+      "excerpt": "Automation Anywhere also announced general availability of Amazon Bedrock and Amazon SageMaker integrations for generative AI-based enterprise automation deployments San Jose, Calif., (ANTARA/PRNewswire)- Automation Anywhere, a leader in intelligent ...",
+      "sourceUrl": null,
+      "webUrl": "https://en.antaranews.com/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
+      "originalUrl": "https://en.antaranews.com/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.antaranews.com/cache/800x533/2023/12/09/aws-logo.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://en.antaranews.com/amp/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
+      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
+      "publishedDateTime": "2023-12-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Antara News",
+        "domain": "antaranews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

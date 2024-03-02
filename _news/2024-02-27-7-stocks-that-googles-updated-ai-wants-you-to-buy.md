@@ -22,17 +22,6 @@ topics:
   - Google AI
   - AI
 
-related:
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
-    excerpt: "The growing adoption of artificial intelligence (AI) has sent shares of companies involved in the proliferation of this technology soaring over 16 months or so, with many names seeing a parabolic rise in their stock prices. A parabolic move is a rapid rise ..."
-    publishedDateTime: 2024-02-29T14:47:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/24435107/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
-
 secured: "OwzOjV4Z9niRdX0OAxaDInwLlfCBn41tLz1Qj5UibBgNQyXmONm6fuS2RcLUuwJSCCguwkDMDAcOYtbPmkhIfA5/yPWPWd/OM7NfLJPtQVR+XQJoFByyieUnTwfPIseuFiZU1rSHTdazNVsaejjphE4sIP8TscCkAzrM9C/WxmnckK7hRXN+B/9dGvu6WLNIE75PUQS0nvWF2hrglxA65eraoC4ycsVw0s0b1zlDKlOy3bbBNtvovhymJoJsXa+rlB6HsdjLOZlVridUGXkcN9FPHEavlBhXzPvX+ot3hJ320XgAZ7e1XzXDZRWA9ckZW09mdaKV+Lr5uLaTTNSDWk/3PuU5EyD8nu8GDr5DsZgkbMhHx2T49K6BcyK5uTrzfrxsMe8VDjM1KvQe8bSAWXv2SGRW4TjPARBNZb3w5MCExe02pMzrB81WLyUB1vyB3jW8EBUI5Laq2UAw/JxZ8zZZgI4/zdqhP4jueYQ9j+mnC6mWq7bHzxoYK0xhI4yDudL5ieXcInwQqJeMfHP7wA==;qnih3i7Nsus87WvWFxABXQ=="
 ---
 

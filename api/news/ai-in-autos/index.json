@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-29-inquiry-into-ouster-of-openais-chief-executive-nears-end.md",
-      "title": "Inquiry Into Ouster of OpenAI’s Chief Executive Nears End",
-      "excerpt": "He regularly covers Facebook and Silicon Valley. More about Mike Isaac Cade Metz writes about artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas of technology. More about Cade Metz OpenAI filed a motion in federal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/28/technology/open-ai-investigation.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/28/technology/open-ai-investigation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/28/multimedia/28openai-investigate-01-phzc/28openai-investigate-01-phzc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-28-apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai.md",
       "title": "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI",
       "excerpt": "Cook said \"we continue to spend a tremendous amount of time and effort\" on artificial intelligence but gave no specifics—as well as products like the Vision Pro virtual reality headset.",
@@ -209,7 +157,7 @@
       "originalUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1414,6 +1362,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-waymo-recalls-444-self-driving-vehicles-over-software-error.md",
+      "title": "Waymo recalls 444 self-driving vehicles over software error",
+      "excerpt": "Feb 15 (Reuters) - Alphabet's (GOOGL.O), opens new tab Waymo unit has recalled 444 self-driving vehicles after two minor collisions in quick succession in Arizona ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
+      "originalUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

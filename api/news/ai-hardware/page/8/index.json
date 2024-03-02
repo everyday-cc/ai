@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-12-08-ai-gold-rush-pits-china-vs-us-as-possible-microchip-shortage-looms-experts.md",
-      "title": "AI gold rush pits China vs US as possible microchip shortage looms: experts",
-      "excerpt": "The world could face another chip shortage as companies and nations seek to lead the way with artificial intelligence (AI) development, having seemingly made few changes after the impacts of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts",
-      "originalUrl": "https://www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5aee3b4a-ceb8-4f74-88bc-439bde713df0/92af215b-9159-4986-bb51-a6db5729d090/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts.amp",
-      "publishedDateTime": "2023-12-08T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-08-windows-12-and-the-coming-ai-chip-war.md",
       "title": "Windows 12 and the coming AI chip war",
       "excerpt": "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities.",
@@ -1410,6 +1358,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-25-nvidia-delays-launch-of-ai-chip-for-china-amid-export-compliance-challenges-nvda-stock-1-down.md",
+      "title": "Nvidia Delays Launch of AI Chip for China amid Export Compliance Challenges, NVDA Stock 1% Down",
+      "excerpt": "Nvidia Corp (NASDAQ: NVDA), the California-based AI chip giant, has notified its Chinese customers of a delay in the launch of its new artificial intelligence chip, H20, designed to comply with the latest United States export regulations, Reuters reported Friday, citing two sources familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/",
+      "originalUrl": "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/11/nvidia-delay-launch-ai-chip.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/",
+      "publishedDateTime": "2023-11-24T16:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],
