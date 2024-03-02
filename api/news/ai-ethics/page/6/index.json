@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-11-29-students-explore-the-ethics-of-ai-in-education-at-2023-wise-summit.md",
-      "title": "Students Explore The Ethics Of Ai In Education At 2023 Wise Summit",
-      "excerpt": "The global conference on the future of education, hosted by Qatar Foundation’s (QF) education think tank WISE at Qatar National Convention Centre, featured a discussion on ‘Artificial Intelligence and the Challenges of Education and Ethics’ on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "originalUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-11/image002_0.png?itok=4z_erHTq",
-          "width": 1434,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
-      "publishedDateTime": "2023-11-29T09:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2023-11-28-ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age.md",
       "title": "Ensuring Data Privacy: 20 Best Practices For Businesses In The AI Age",
       "excerpt": "Ian Gotts, Elements.cloud The fusion of AI and transparency leads to trust. By publishing an AI ethics charter, an organization illuminates its dedication to data privacy. A transparent AI ethics charter is more than a document; it’s a promise.",

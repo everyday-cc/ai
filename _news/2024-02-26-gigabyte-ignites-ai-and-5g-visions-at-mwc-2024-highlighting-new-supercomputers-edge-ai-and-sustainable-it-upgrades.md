@@ -33,15 +33,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "GIGABYTE Technology: GIGABYTE Ignites AI and 5G Visions at MWC 2024, Highlighting New Supercomputers, Edge AI and Sustainable IT Upgrades"
-    excerpt: "Other highlighted exhibits include the high-density H223-V10 supporting the NVIDIA Grace Hopper Superchip, the G383-R80 server supporting four AMD Instinct MI300A APUs, and a G593 series AI server equipped with the powerful NVIDIA HGX H100 8-GPU."
-    publishedDateTime: 2024-02-26T08:38:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61503274-gigabyte-technology-gigabyte-ignites-ai-and-5g-visions-at-mwc-2024-highlighting-new-supercomputers-edge-ai-and-sustainable-it-upgrades-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "ixxFBQrUj2WqRZ/R4SYjpfd09MLYOeglQMu5+qG8q2KSbvjE/ZWILjS0R62rhMF8DOqGnvtPHHH3uSu2/giccoyifGJW2FiZ1QJyo5DpXRQOWYpZioEf5uCSx6hsp5L/A8GMm1QkjIM0aQN8p9nP6EU/L9sxTVZA71D/ltBQuVUNaioXwZ1sm7x11wKY1nD+pJsukEOXP1oMd/5BdkHDGhszbd1o2ZJirAaB8PEUR45bTBWbWIDx/j8TDLMkAVNfPYWo3GaK7dyxcrXZfP2YV5dg5XP3SLrVSS3KZog+yDccQQgo9ZHE2rU2jKVJqC8LoxedVyg40YnCJ/9IR/Jw3+sPpIvJC0LFB8GpcRIPydVWlJtMFGeU4SwVMLCevLEVb2+w7liaROCMGHbYGk9lfH+gJVA3ZJWjpMmI2/cs2NFHqC4BZqmt+IDGl5O2LV3iibAEv1kOXPjwZQTI5A6wCLJkiAhGO2g8tMlOH/tq6e6JR6hkWEoiLLVzpZzCOfo4yeF0kFzcLyjFHc5uhPH6hA==;E8ohaDaECrCGBmW+a9YXMg=="
 ---

@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Google CEO Calls Some Gemini AI Output 'Completely Unacceptable'"
-excerpt: "Since the launch of Microsoft-backed OpenAI's ChatGPT in November 2022, Alphabet-owned Google has been racing to create a rival AI software. It released the generative AI chatbot Bard a year ago. Earlier this month Google renamed it Gemini and rolled out ..."
-publishedDateTime: 2024-02-28T00:00:00Z
-originalUrl: "https://www.inc.com/reuters/google-ceo-calls-some-gemini-ai-output-completely-unacceptable.html"
-webUrl: "https://www.inc.com/reuters/google-ceo-calls-some-gemini-ai-output-completely-unacceptable.html"
+title: "Google Gemini product lead retreats from social media after troubled AI product launch led to harassment"
+excerpt: "Jack Krawczyk, Google's Gemini product lead, has gone dark on some of his social media profiles after facing online harassment."
+publishedDateTime: 2024-03-02T02:02:00Z
+originalUrl: "https://www.cnbc.com/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+webUrl: "https://www.cnbc.com/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
 type: article
-quality: 39
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Inc
-  domain: inc.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Google AI
   - AI
 
 images:
-  - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1080986288_tqjyet.jpg"
-    width: 1024
-    height: 576
+  - url: "https://image.cnbcfm.com/api/v1/image/107374413-1708024437471-gettyimages-1992338676-AA_10022024_1525083.jpeg?v=1709322946"
+    width: 7373
+    height: 4918
     isCached: true
 
 related:
@@ -56,22 +61,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344"
         width: 4978
         height: 3323
-        isCached: true
-  - title: "Google Gemini product lead retreats from social media after troubled AI product launch led to harassment"
-    excerpt: "Jack Krawczyk, Google's Gemini product lead, has gone dark on some of his social media profiles after facing online harassment."
-    publishedDateTime: 2024-03-02T02:02:00Z
-    webUrl: "https://www.cnbc.com/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107374413-1708024437471-gettyimages-1992338676-AA_10022024_1525083.jpeg?v=1709322946"
-        width: 7373
-        height: 4918
         isCached: true
   - title: "Google aims to relaunch Gemini AI image tool in a few weeks"
     excerpt: "Bard was renamed Gemini earlier this month and Google rolled out paid subscription plans, which users could choose for better reasoning capabilities from the AI model."
@@ -223,6 +212,20 @@ related:
       - url: "https://media.nbcnewyork.com/2024/02/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google CEO Calls Some Gemini AI Output 'Completely Unacceptable'"
+    excerpt: "Since the launch of Microsoft-backed OpenAI's ChatGPT in November 2022, Alphabet-owned Google has been racing to create a rival AI software. It released the generative AI chatbot Bard a year ago. Earlier this month Google renamed it Gemini and rolled out ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.inc.com/reuters/google-ceo-calls-some-gemini-ai-output-completely-unacceptable.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1080986288_tqjyet.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Google CEO acknowledges bias in Gemini AI, vows swift action"
     excerpt: "Users express concern while Google takes swift action to address issues with its AI model–Gemini, pledging structural changes."
@@ -418,6 +421,6 @@ related:
       domain: hindustantimes.com
     quality: 4
 
-secured: "1/p4bxELE6MQUaeIpbqxzm9O1RlzcqRhUWRd4jZA/1XxTGv5Z43WcwMC9Rfq/fUlFnoBKNXudj+92Q1lYzeNXIrbz4UeScAf95stfZuSOhzXS6aylHzm9Dryar72638MHGgas3CIOZgIgHj3CAQNdd5j8Jm5GNSIvqSNzxp2tcv8EYjMDLWImbWev+WmYhbx0oPpGMyo+WRPEDy3FUPAgUSl9IguIayXJT+KoBvd+I6SGVSLnJDg61/t8ORIxjroqXkgfe64XI2ZMKaVGtpXPSQOKOsFdAAZAsx4VFicFLa0+RK7I7O+YsrJAFvv0gE9E7PCGCtbxkNgf51KHFrDXzgnOmdm6g4PELag6/2jsSNFnzPJruwcYsHogIWLeFs1xQfkMAtRiXtImGpRntBWyDYCF8Ps5K0StMt0gSqbJ9j466j90UtuyXdKYhOZvYxZTbbebBc0Z8tZy4YfSmjq3QO8s7qhaOxecBvV1E7z9red8F1dg1yznmEJS3k5xuRQcx85O+dsX/GgBo7DPC85iw==;RFOn/E0tZvHhTRg4H57prg=="
+secured: "hA49+FbRGKy725E0nMxQnsxU5adczkOySnX3W+kEeqamhRgIDPbH32r6MZcda5IF2ncjYEKbNNx6Odx2Mb4Xhx5j2I04trcILppMwg+66ncediNwscH2iX/YE9MTA8ixIdIiV79KJGZxicQ9vdkYMlAtlUR6Ma/vgzH6IR5TtBYzZB+ViaFLppZvLKvF92oUiI4NyNGMDYRFE8khhlgFZMavFDVd7UmAAitou71McCOEw+FLdIfxUrwuzp8uVZjvy3rLWoe0JIzy1g+onBz7TDNmmqWc5LLI/fBaRXTXZM58kWXUs3/01zw3+2qCiH235qCATmwHplf8CcOZDyQrf9P9Dv3yFkBMl333Znal7iw=;kY/DOiLWd9rOq3dkdCZxxw=="
 ---
 

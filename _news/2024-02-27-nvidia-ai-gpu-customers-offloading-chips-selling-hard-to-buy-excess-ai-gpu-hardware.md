@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offlo
 webUrl: "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html"
 type: article
 quality: 61
-heat: 73
+heat: 71
 published: true
 
 provider:

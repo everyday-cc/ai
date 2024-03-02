@@ -2,48 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2024-02-26-how-to-improve-network-resilience-with-ns1-connect-filter-chains.md",
-      "title": "How to improve network resilience with NS1 Connect Filter Chains",
-      "excerpt": "We’ve put together a quick guide on how to build active-active, active-passive and manual failover systems by using filter chains.\nThe post How to improve network resilience with NS1 Connect Filter Chains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
       "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
       "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
@@ -1206,6 +1164,58 @@
       "topics": [
         "AI",
         "AI in Education",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-25-vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations.md",
+      "title": "Vendasta CEO Interview: Roots To Trusted Generative AI Innovations",
+      "excerpt": "This article is an interview and research of Vendasta a rising AI unicorn building trusted AI foundations with a compelling vision to strengthen SMB's globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65db4cadf97a8a71e3bb3ab8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1201,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
+      "publishedDateTime": "2024-02-25T15:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Meta AI"
       ]
     }

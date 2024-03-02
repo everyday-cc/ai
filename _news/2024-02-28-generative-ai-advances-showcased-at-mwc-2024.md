@@ -101,20 +101,6 @@ related:
         width: 1250
         height: 750
         isCached: true
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 39
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
-        width: 2397
-        height: 2098
-        isCached: true
   - title: "Why Citi is rolling out generative AI to all its developers"
     excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
     publishedDateTime: 2024-02-28T01:40:00Z

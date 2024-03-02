@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1
 webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
 type: article
 quality: 84
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96471_1008_micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu_full.png"
         width: 1500
         height: 857
-        isCached: true
-  - title: "Nvidia’s lightweight RTX 500 and 1000 GPUs to power new generation of AI-accelerated laptops"
-    excerpt: "The RTX 500 and 1000 Ada GPUs are said to include a neural processing unit that’s integrated within the central processing unit, as well as an RTX GPU that includes Tensor Cores for processing AI locally. The NPU helps by offloading lighter AI tasks to ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/nvidias-lightweight-rtx-500-1000-gpus-power-new-generation-ai-accelerated-laptops/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/RTX-500-_-1000-Blog-Image.jpg"
-        width: 5760
-        height: 3240
         isCached: true
   - title: "Nvidia is set to dominate AI — here's why"
     excerpt: "Your AI assistant has already scanned the world’s breaking news, browsed events happening in your area, and accounted for the weather to propose an ideal schedule for your weekend. If Nvidia’s dreams come true,"

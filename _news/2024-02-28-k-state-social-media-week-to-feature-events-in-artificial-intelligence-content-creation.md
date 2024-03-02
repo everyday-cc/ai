@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-ev
 cdnAmpWebUrl: "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: WIBW
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PPC Experts On AI In PPC: Potential & Limitations"
-    excerpt: "By streamlining reporting and analysis, the right AI-powered tool serves as a time-saving asset that can guide optimization efforts and drive favorable outcomes. This is only the start of the AI revolution transforming the social media advertising landscape."
-    publishedDateTime: 2024-02-26T07:30:00Z
-    webUrl: "https://www.searchenginejournal.com/ppc-trends/ppc-experts-on-ai-in-ppc-potential-limitations/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 37
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2024/02/ppc-experts-on-ai-in-ppc-65d35dbb55929-sej.jpg"
-        width: 1600
-        height: 832
-        isCached: true
   - title: "FasterCapital welcomes innovative startup evolve media AI to its acceleration program"
     excerpt: "With the exponential growth of cloud data and the increasing number of devices, the need for a solution like Evolve Media AI has never been more pressing. Evolve Media AI is based in the United States and is raising $1."
     publishedDateTime: 2024-02-26T14:14:00Z

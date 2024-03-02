@@ -1,10 +1,10 @@
 ---
 category: news
 title: "WATCH LIVE: A Colorado Conversation on Artificial Intelligence"
-excerpt: "To sift through some of the most pressing questions regarding artificial intelligence, The Colorado Springs Gazette, Pikes Peak State College and KOAA News 5 are teaming up for a Town Hall on March 1 on the quickly evolving role of AI in shaping our world."
-publishedDateTime: 2024-03-01T00:00:00Z
-originalUrl: "https://gazette.com/news/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
-webUrl: "https://gazette.com/news/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
+excerpt: "To sift through some of the most pressing questions regarding artificial intelligence, The Colorado Springs Gazette, Pikes Peak State College and KOAA News 5 are teaming up for a Town"
+publishedDateTime: 2024-03-01T15:45:00Z
+originalUrl: "https://gazette.com/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
+webUrl: "https://gazette.com/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
 type: article
 quality: 37
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/kpWgEfUEAuRwgkEIKsblmhp1Oqjn/8dIBVdKkSQ6v3X+gchdvTjMUiscshlwqt9E1qYyhFbIews8VJCjVNkJzmjxm0qbGEBjRxcpaEBd0K3bAX9nc+24G4NERj9tftIwoNqpgCVpSX5fEm8OavVKwQBCALHkeHBZYzdgnUAm+axo5npJqEHL7drogS2ZQmuob7aWh94JuaOGRNjcMHmK8FEQ16cE6WGLxQyM4gRlUEAHoIbW6oPjTR7mOgpWXrZI9ky6v2OrZCUQ2sWG4Z7PPQbL13lTrAdDyZwlr+pR135ZmqrgrXjgobBYw/jSfzfu+qDvzGYYOnTXwTKbd+3c4rTNFYCBxdQS7xgQx8Wfaw=;6FKxUR72ka8FsQqiQ8Me+w=="
+secured: "kI7UE90DV6hpstNesS+a0xwgoSbRLye284e7VIcMaXwk8nVpYZPp0DvWb5v7nNhjpiFIiMjsWmxrYBWD1YpQ+b+5Oo4Z633APb3vuiP1ki/b4oS1uMbOqUxOkXjN68HOn0sUkB4iyQbqoS521alQkkoEOZ6xQ2A/C+m+aBEE5rAhax3d5dYxddfRUDynFSUj2/9e3i3eG5i/GscjN60M3Si2fKdaIcSieoa+Qt1dshCYDJKrIp0sthgK+kRMmjg2xBHY+vSMhbVoLsVM49FklXb1AGGz4BeLnIMoXLgwMUH+oKU10tP6peOBzFXl7QEj6+j+F+RODo9QNfnjBDr6tXa/4LZXkg+vkap1I27VzCk=;tu/arkOiaiqjimN1lazkhA=="
 ---
 

@@ -188,20 +188,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft showcases next-generation AI and computing at Nvidia GTC"
-    excerpt: "Nvidia GTC takes place March 18 – 21 in San Jose, CA and virtually. In person and on-demand sessions, live discussions and hands-on demos will offer a look at the core Azure AI services and technologies that power some of the world’s largest and most ..."
-    publishedDateTime: 2024-02-26T07:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-showcase-next-generation-ai-and-computing-at-nvidia-gtc/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_735569484.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Mistral releases new ‘top-tier’ AI model, partners with Microsoft"
     excerpt: "Paris-based Mistral is launching a new \"flagship\" AI model for on Microsoft's Azure, partnering up with the tech giant."
     publishedDateTime: 2024-02-26T15:37:00Z
@@ -973,15 +959,6 @@ related:
     provider:
       name: Shacknews
       domain: shacknews.com
-    quality: 34
-  - title: "MWC24: Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
-    excerpt: "Using Amdocs' GenAI platform amAIz, and Microsoft Azure OpenAI Service, extended collaboration will include a GenAI lab and center of excellence"
-    publishedDateTime: 2024-02-26T07:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mwc24-amdocs-expands-strategic-partnership-with-microsoft-driving-generative-ai-innovation-across-the-telecommunications-industry-1033100978"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 34
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."

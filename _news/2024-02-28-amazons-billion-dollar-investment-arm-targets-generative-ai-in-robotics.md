@@ -61,20 +61,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Measuring brain’s response to different musical genres with artificial intelligence"
-    excerpt: "A research team from the University of Malaga (Andalusia, Spain) has analyzed how the brain responds to hearing different musical genres and has"
-    publishedDateTime: 2024-02-26T08:48:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/243107"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 48
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/055ada53-6efa-4e28-a4e9-7fc8860f3760-xpertsvar20logo.jpg"
-        width: 260
-        height: 260
-        isCached: true
   - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
     excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
     publishedDateTime: 2024-03-01T13:45:00Z

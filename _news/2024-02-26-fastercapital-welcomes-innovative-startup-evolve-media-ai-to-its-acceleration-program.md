@@ -34,20 +34,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "PPC Experts On AI In PPC: Potential & Limitations"
-    excerpt: "By streamlining reporting and analysis, the right AI-powered tool serves as a time-saving asset that can guide optimization efforts and drive favorable outcomes. This is only the start of the AI revolution transforming the social media advertising landscape."
-    publishedDateTime: 2024-02-26T07:30:00Z
-    webUrl: "https://www.searchenginejournal.com/ppc-trends/ppc-experts-on-ai-in-ppc-potential-limitations/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 37
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2024/02/ppc-experts-on-ai-in-ppc-65d35dbb55929-sej.jpg"
-        width: 1600
-        height: 832
-        isCached: true
 
 secured: "RaSHWXrPfjom+X7MXJcNpivdrhl46M7nzlT+rgjr245NQ2cSTyer480g9mC7YoPUIaJLhPNy3RWFD4PJNvMzgi9apoU2XWB01E0D5giB+xxN+PnUzPf8+9hOV9NIoh4xKupkaV3kXrvEJVmqNnzj9B5J77wvh4vg7S5jeGaAXA/9Te6gydfXMc1JLvpRtTXMbq2HovS6vTB7BFcuW+lc30qBWDHwaRkRHZ6oj2u5iBnVanqSz6UARErsXtFk6FOcCLO/jboiRIl3osaaVCzALmrH51XgTIJe7pdK6RHHdugn5izmeSD2F/keI0hK6qVfu+3tAC06l2irqUqY1MVlJb4a2cx7X2e/PnH9Ds44obksp0QAirtyf7h+XLQrv/Ycy+aRsmgaAZgUm42Ux4vETHyYFuDOCruq46KAeV4d0Bhd7TxBfEIWDa3lXq2yCk8xy/bml5u9s4d/5y9wCSICop/UBJ3tEPM5MbsCi/wv1woy5jCxM7VbXMIsD37ADLbUFfBN1xTeB5ci8aF4yYNOUA==;PJ/0NoZa5KcHwBn2h8IEcQ=="
 ---

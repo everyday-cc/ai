@@ -718,7 +718,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1004,49 +1004,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-28-k-state-social-media-week-to-feature-events-in-artificial-intelligence-content-creation.md",
-      "title": "K-State Social Media Week to feature events in artificial intelligence, content creation",
-      "excerpt": "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
-      "originalUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
-      "publishedDateTime": "2024-02-27T17:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WIBW",
-        "domain": "wibw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-28-foldable-models-artificial-intelligence-and-other-mwc-proposals-to-boost-cell-phone-sales.md",
       "title": "Foldable models, artificial intelligence and other MWC proposals to boost cell phone sales",
       "excerpt": "At the Mobile World Congress, the eagerness of smartphone brands to find new products to boost sales after two years of decline is evident",
@@ -1245,6 +1202,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-ai-gpu-hardware.md",
+      "title": "NVIDIA AI GPU customers 'offloading' chips, selling hard-to-buy excess AI GPU hardware",
+      "excerpt": "NVIDIA has greatly improved AI GPU shipments over the last few months, which were swelling out to 8-11 months and now down to a better 3-4 month waiting period. But some AI GPU customers are offloading their high-end AI chips... yeah, they're selling the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96505_6003_nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware_full.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T15:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

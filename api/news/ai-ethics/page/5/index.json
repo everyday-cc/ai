@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-12-16-ethical-considerations-in-googles-ai-development-a-closer-look.md",
-      "title": "Ethical Considerations in Google’s AI Development: A Closer Look",
-      "excerpt": "Introduction: In the realm of artificial intelligence (AI) development, Google stands as a juggernaut, pushing the boundaries of innovation. However, the journey toward AI excellence is not without its ethical challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ethical-considerations-in-googles-ai-development-a-closer-look/",
-      "originalUrl": "https://techbullion.com/ethical-considerations-in-googles-ai-development-a-closer-look/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/Ethical-Considerations-in-Googles-AI-Development-A-Closer-Look.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-16T10:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-16-ai-a-double-edged-sword-for-ethics-security-of-vietnamese-education.md",
       "title": "AI a double-edged sword for ethics, security of Vietnamese education",
       "excerpt": "The widespread embrace of artificial intelligence (AI) in learning can be a double-edged sword, with debate in academic circles revolving around how AI can be used ethically and in alignment with local academic standards. Hoang Ngan, a sophomore at the ...",
@@ -1382,6 +1339,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-students-explore-the-ethics-of-ai-in-education-at-2023-wise-summit.md",
+      "title": "Students Explore The Ethics Of Ai In Education At 2023 Wise Summit",
+      "excerpt": "The global conference on the future of education, hosted by Qatar Foundation’s (QF) education think tank WISE at Qatar National Convention Centre, featured a discussion on ‘Artificial Intelligence and the Challenges of Education and Ethics’ on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "originalUrl": "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-11/image002_0.png?itok=4z_erHTq",
+          "width": 1434,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450",
+      "publishedDateTime": "2023-11-29T09:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

@@ -115,20 +115,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Nvidia’s lightweight RTX 500 and 1000 GPUs to power new generation of AI-accelerated laptops"
-    excerpt: "The RTX 500 and 1000 Ada GPUs are said to include a neural processing unit that’s integrated within the central processing unit, as well as an RTX GPU that includes Tensor Cores for processing AI locally. The NPU helps by offloading lighter AI tasks to ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/nvidias-lightweight-rtx-500-1000-gpus-power-new-generation-ai-accelerated-laptops/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/RTX-500-_-1000-Blog-Image.jpg"
-        width: 5760
-        height: 3240
-        isCached: true
   - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
     excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
     publishedDateTime: 2024-02-26T12:42:00Z

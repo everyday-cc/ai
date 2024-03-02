@@ -91,20 +91,6 @@ related:
         width: 1250
         height: 750
         isCached: true
-  - title: "A Marketer’s Guide To Generative AI Startups"
-    excerpt: "But with so many new entrants popping up in generative AI, the increasingly jam-packed generative AI startup landscape can make it difficult for marketers to distinguish the fakers from the movers and shakers. AdExchanger consulted with agencies about how ..."
-    publishedDateTime: 2024-02-26T08:00:00Z
-    webUrl: "https://www.adexchanger.com/ai/a-marketers-guide-to-generative-ai-startups/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 39
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2024/01/Americas-next-top-AI-model_Kevvo_comic.jpg"
-        width: 2397
-        height: 2098
-        isCached: true
   - title: "Generative AI Advances Showcased at MWC 2024"
     excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
     publishedDateTime: 2024-02-27T16:47:00Z

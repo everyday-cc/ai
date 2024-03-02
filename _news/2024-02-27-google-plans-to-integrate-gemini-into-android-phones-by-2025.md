@@ -55,6 +55,22 @@ related:
         width: 4978
         height: 3323
         isCached: true
+  - title: "Google Gemini product lead retreats from social media after troubled AI product launch led to harassment"
+    excerpt: "Jack Krawczyk, Google's Gemini product lead, has gone dark on some of his social media profiles after facing online harassment."
+    publishedDateTime: 2024-03-02T02:02:00Z
+    webUrl: "https://www.cnbc.com/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107374413-1708024437471-gettyimages-1992338676-AA_10022024_1525083.jpeg?v=1709322946"
+        width: 7373
+        height: 4918
+        isCached: true
   - title: "Google aims to relaunch Gemini AI image tool in a few weeks"
     excerpt: "Bard was renamed Gemini earlier this month and Google rolled out paid subscription plans, which users could choose for better reasoning capabilities from the AI model."
     publishedDateTime: 2024-02-27T04:27:00Z
@@ -190,22 +206,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Google's Gemini AI Gaffe: Sundar Pichai should be fired or resign, says investor Samir Arora"
-    excerpt: "Replying to a user on social media site X, Samir Arora said Alphabet CEO Sundar Pichai should ‘be fired or resign’ after being in the lead on AI and ‘let other take over'."
-    publishedDateTime: 2024-02-26T07:14:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/googles-gemini-ai-gaffe-sundar-pichai-should-be-fired-or-resign-says-investor-samir-arora-11708930900238.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/googles-gemini-ai-gaffe-sundar-pichai-should-be-fired-or-resign-says-investor-samir-arora/amp-11708930900238.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/googles-gemini-ai-gaffe-sundar-pichai-should-be-fired-or-resign-says-investor-samir-arora/amp-11708930900238.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 48
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/26/1600x900/Samir_Arora_Helios_Capital_1708931222987_1708931223140.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
     excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."
     publishedDateTime: 2024-02-26T17:27:00Z
