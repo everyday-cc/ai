@@ -25,28 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Hottest Healthcare ETFs to Buy in 2024"
-    excerpt: "to invest in a medical imaging company and a firm that uses artificial intelligence (AI) to speed up the drug discovery process. However, many healthcare companies are extremely risky and volatile. That’s because start-up drug makers can easily go ..."
-    publishedDateTime: 2024-02-26T13:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-hottest-healthcare-etfs-to-buy-in-2024-1033104224"
+  - title: "The AI Megatrend: 3 Global X ETFs to Capitalize on the Artificial Intelligence Frenzy"
+    excerpt: "Thanks to companies like Nvidia (NASDAQ:NVDA), artificial intelligence ETFs have become in high demand by investors seeking to ride the tech industry’s most significant trend of 2024. Like most thematic ETFs, just because AI appears in the name of the ..."
+    publishedDateTime: 2024-03-01T08:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-megatrend-3-global-x-etfs-to-capitalize-on-the-artificial-intelligence-frenzy-1033123497"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "Healthcare Compliance Enforcement Trends to Watch in 2024"
-    excerpt: "firms’ ownership structures New regulations addressing the use of artificial intelligence in healthcare In short, 2024 promises to be an especially busy year for chief compliance officers, chief risk officers, and their counsel across many sectors and ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/healthcare-compliance-enforcement-3715041/"
+    quality: 55
+  - title: "Why AI will Soon become SA - Synthetic Intelligence - The Machine Learning Megatrend"
+    excerpt: "Is Artificial the right word to use for what is taking place as we enter 2024? Artificial - made or produced by human beings rather than occurring naturally, especially as a copy of something natural. Neural networks are a black box, they are not a copy of ..."
+    publishedDateTime: 2024-02-29T21:43:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article71167.html"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 47
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15118_1308.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.marketoracle.co.uk/images/2024/Feb/Ai-synethetic-intelligence.JPG"
+        width: 800
+        height: 447
         isCached: true
 
 secured: "jiUAwkdoDID4jdOqOBV/hpYFifYDtxVfG7OJIhc9lV07UCndvoaDhB1apumCsqTvKV7y4OaNEbZEW1Ra+0nVV8VyOJAazUgpp4nQ3fuYBqYd0xNDpGssxbRIdF/93EbljjD1GXZ7JaG5NKms4xuzhR30fs3cfyIC0uBtWSpzbej457vCU4Jz2GNEntYtGyxpF7sufSO1vv3YlaHczhZ0PR3+vUSQ23u+YXwvbUmeqeTKmJC3X35uMF0JOCG/T2v0kzgahh9dOH0H0JqhfxsZo+bIyZGypfFUzOTj9ubDCKiddcwvCiRyjJ0DgQxs+RCKumIrKhCCUruyjK0Qjs5qehxvGuHzLJX3hjn5yC8YB2A=;FPx0dEE1XO/9mlt7xN8dog=="

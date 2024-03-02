@@ -25,62 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How Meta’s Llama 3 will impact the future of AI"
-    excerpt: "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-26T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/llama-3/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Navigating The Future Through The Power Of AI, Leadership And Governance"
-    excerpt: "These regulations must balance innovation with the mitigation of risks like bias and discrimination, setting a global standard for AI ethics that can guide both public and private sector initiatives. The role of leadership is fundamentally changing in the ..."
-    publishedDateTime: 2024-02-26T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
+  - title: "Rethinking AI In The Context Of Sustainability"
+    excerpt: "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ..."
+    publishedDateTime: 2024-02-28T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d897629f1bf0bef78f6ce4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 700
-        isCached: true
-  - title: "7 Paradoxes Of Artificial Intelligence"
-    excerpt: "artificial intelligence, a survey from IBM’s Watson Group finds. 3. AI is expensive to implement. AI helps manage and reduce IT costs. For example, the rising practice of FinOps — which encourages intelligently controlling technology spending — may ..."
-    publishedDateTime: 2024-02-27T02:36:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1501
         height: 900
         isCached: true
-  - title: "The Rise Of AI Tutors"
-    excerpt: "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning."
-    publishedDateTime: 2024-03-01T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
+  - title: "Here Come the AI Worms"
+    excerpt: "Security researchers created an AI worm in a test environment that can automatically spread between generative AI agents—potentially stealing data and sending spam emails along the way."
+    publishedDateTime: 2024-03-01T08:59:00Z
+    webUrl: "https://www.wired.com/story/here-come-the-ai-worms/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://media.wired.com/photos/65e0e13fef1050f96f06c160/191:100/w_1280,c_limit/security_ai_worm_email_spam.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Exploring the impact of Artificial Intelligence"
     excerpt: "Visitors can dive into the realms of artificial intelligence at the Muscat Book Fair, where the evolution of this groundbreaking technology"
@@ -98,20 +71,6 @@ related:
         width: 1000
         height: 819
         isCached: true
-  - title: "Artificial Intelligence and Its Impact"
-    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
-    publishedDateTime: 2024-02-27T21:50:00Z
-    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
-    type: article
-    provider:
-      name: Cfr.org
-      domain: cfr.org
-    quality: 39
-    images:
-      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Navigating the impact of AI in our daily lives"
     excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
     publishedDateTime: 2024-02-27T17:20:00Z
@@ -126,38 +85,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Dell says on-prem is the future of AI"
-    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
-    publishedDateTime: 2024-03-01T21:24:00Z
-    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
+  - title: "The murky world of AI training"
+    excerpt: "AI companies have also inadvertently hired children and teenagers to perform these roles, reported Wired, because tasks are \"often outsourced to gig workers, via online crowdsourcing platforms\". Ethics demands aside, the creators of AI models are concerned ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://theweek.com/tech/ai-training-reddit"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
+      name: THE WEEK
+      domain: theweek.com
     quality: 39
     images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
+      - url: "https://cdn.mos.cms.futurecdn.net/rByL7C22c2VbJFdbWypPTV-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The future of artificial intelligence in trucking"
-    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 19
-  - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
-    excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
-    publishedDateTime: 2024-02-27T20:32:00Z
-    webUrl: "https://www.inc.com/sania-khan/how-will-artificial-intelligence-impact-jobs-a-labor-economist-weighs-in.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
 
 secured: "IeYqTTyy2vHq96W/W1OumZd/q5+9AZ4p68bFfeQnZ4rNWyqU7D6U8m8xiIKUsvSAtcVIsTVGZJYt4SnLiTamSzd6zZubkOaKUv+o7J7LEgQvJpeA0Wag/6pFdNJOldZR0vULe8BIgxs2bFBWWqTk4WRDJ3j87g+doECCBdyflkYuTo5Sv2v1KsXI49MhXyfoTmTpJ+WbOyPKv3bXnqe08XEfLXhMvDgyZQ+CV2ji8l05X04yOoA4eUONZO9NVFLH9618QIw7aAu2P7FMqF+Ka8vFFTKx8nv+b2xUoPnDLigW9eQtcW14sLr7t7dsdwbGmUcMx72wy0zzHNuawmDEEnKdpzyrfo3DduPam4RCICE=;86rRQj+crS5NaBs0c3lUsw=="
 ---

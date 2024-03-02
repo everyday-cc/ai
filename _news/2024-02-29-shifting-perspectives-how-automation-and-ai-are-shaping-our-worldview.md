@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-persp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
+    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
+    publishedDateTime: 2024-03-01T13:06:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
 
 secured: "1PlosKWItIyB/gOcb42hjM16IKebzH9L/gt87Uey2gJolY7oi1SY7BIyp2HKo0N0tJauL0tjdmUQcFAud5meElC+c2pT8KUqxd50BoxMCuwx0fK01QVDZe9pOTy9MlYtsW05qDT//Zbg/O9CawVCSsOGoK1fhT170V6CZCjpgf/KlhCJvtTAGVwWPRktRUyQt9NtV9zaKZRF03BgNqBeLVB/JnVIAqXuW/IH66lOW9g/nXNkQcDH1NFXVpZwcRJSEsdz3zIpHox6dFnU4soRn7GVSVXmdH81hn9e+pBmMd8CJNJzYDzD0w3zbcS0Bu9RdS0N4LKgHA1iM6cXUjUYHKcEF1Epdhl8wjE0qVIg8qUEe7oguWlShM/8lDmblY+exspcFwpyKmdV0cmCpksRzutKZ8vFn0AoC8u4UBovYx7DICL7wqo6otnpYiiyq3Pxqv2maYHsvURUfVlyyZVAPZHvNiafBuz9OAJHZR3ZsQMj5qk00/uAGTwEdMRyStcXqqHmX9gPaAQUHTtSzkQzJw==;fFvGaRjHHX/VTEJhMJHkZA=="
 ---

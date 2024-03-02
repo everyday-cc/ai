@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Harnessing artificial intelligence for infectious disease prevention"
+    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
+    publishedDateTime: 2024-02-28T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Why Citi is rolling out generative AI to all its developers"
     excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
     publishedDateTime: 2024-02-28T01:40:00Z

@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 19
 
 secured: "whchRnrORnTfN/NhPB6TCdfcURQ1fef9RInrw26yC92iT3HYtdWVLzIKOkeyNWqO6PvEICLvwUlK4YunfqMks1TaRbCvYJhf7zRzR2VGNXi8XJv1dqzzReJjLB5syOWjT/gCuJ8zB0cTIWGMSke8FFzFVprjUBRUOy2BA/q2TcYxWt1NQoq6VQPzCR8B+v85avS+wHOVJrjadP/3YHD4sjhWEldeQvxfRbK7jCe5ENOjrfsJ+hxoPfySaSwJx/yKYaYsv1cJUdVbZz2ydjQ4ujOFA5578aykfrzb8RfGE+zpebWTks5KerLzN1TyKt4Dk9aVSZ2PQoreX9uhu7P+P3W6Fp8y6rBFUyUTropVK30=;ztYI2qzcjPwbBSDHk7YRgw=="
 ---

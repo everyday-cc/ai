@@ -2,6 +2,84 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-15-apple-vision-pro-users-return-35k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session.md",
+      "title": "Apple Vision Pro users return $3.5K headsets, say they cause extreme headaches, motion sickness: ‘Like a torture session’",
+      "excerpt": "“Vision Pro is a new kind of computer that augments reality by seamlessly blending the real world with the digital world,” Cook stated. “It’s the first Apple product you look through and ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/15/tech/apple-vision-pro-users-return-3-5k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session/",
+      "originalUrl": "https://nypost.com/2024/02/15/tech/apple-vision-pro-users-return-3-5k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-senate-finance-committee-holds-hearing-on-use-of-ai-in-healthcare.md",
+      "title": "Senate Finance Committee Holds Hearing on Use of AI in Healthcare",
+      "excerpt": "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "originalUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American College of Radiology",
+        "domain": "acr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
       "title": "Our next-generation model: Gemini 1.5",
       "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
@@ -1053,100 +1131,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-important-nvda-guidance-released.md",
-      "title": "Important NVDA guidance released",
-      "excerpt": "Artificial intelligence chipmaker Nvidia (NVDA) has surpassed $700/share and is now up 52% in 2024. Stephen McBride just issued guidance for Disruption Investor members on what to do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
-      "originalUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240214_feature.jpg",
-          "width": 725,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
-      "cdnAmpWebUrl": "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MauldinEconomics.com",
-        "domain": "mauldineconomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-is-supercharging-parametric-insurance.md",
-      "title": "AI Is Supercharging Parametric Insurance",
-      "excerpt": "Considering its 200-year history, parametric insurance has been slow to adopt, with conventional insurers regarding it as a niche proposition, suited for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca298f61d43ff4607a297b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1316,
-          "height": 877,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
-      "publishedDateTime": "2024-02-15T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

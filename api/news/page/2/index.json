@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-richmond-international-airport-begins-using-facial-recognition-technology.md",
+      "title": "Richmond International Airport begins using facial recognition technology",
+      "excerpt": "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight",
+      "sourceUrl": null,
+      "webUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
+      "originalUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wric.com/wp-content/uploads/sites/74/2024/02/ric-feature-img-new-tech.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
+      "publishedDateTime": "2024-02-29T21:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRIC",
+        "domain": "wric.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker.md",
       "title": "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker",
       "excerpt": "OpenAI is joining Microsoft, Nvidia, and Jeff Bezos in investing in Figure, a company that's developing human-like robots to rival Tesla's Optimus project.",
@@ -63,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2024/02/29/grey-swans-on-the-horizon-ai-cyber-pandemics-and-et-scenarios/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -457,7 +500,7 @@
       "originalUrl": "https://www.techspot.com/news/102080-data-governance-provenance-two-words-critical-future-generative.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1199,49 +1242,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily.md",
-      "title": "NextGen Food Robotics Provides Update on its AI-Powered Food Ordering Application, Lily",
-      "excerpt": "VANCOUVER, BC, Feb. 29, 2024 (GLOBE NEWSWIRE) -- NextGen Food Robotics Corp. (the “Company” or ... food ordering and delivery experience through advanced generative artificial intelligence powered by OpenAI’s GPT-4.0 large language model.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

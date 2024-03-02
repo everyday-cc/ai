@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-a
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-02/Untitled%20design%20-%202024-02-27T121453.219_c.png?itok=UDLdFHig"
         width: 600
         height: 399
+        isCached: true
+  - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
+    publishedDateTime: 2024-02-26T16:21:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-organizations-should-know-about-cybersecurity.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 30
+    images:
+      - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
     excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."

@@ -317,14 +317,14 @@ related:
   - title: "Humanoid robot-maker Figure partners with OpenAI"
     excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
     publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
+    webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
     type: article
     provider:
-      name: wacotrib
-      domain: wacotrib.com
+      name: The Roanoke Times
+      domain: roanoke.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/6/f4/6f4165a2-aaf3-519e-8386-e4b92a995101/65e10329eddb8.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -397,6 +397,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "5UCG/xjm5/tpuDX2i6fkp2sCWqzhVTPd9ivmJZE2ZcEpECKWuBN9NnTJZySa69bYWCADDbCkB03+xmlcStEtERjebxnOE+bQxBnbNpkBkKEoELVg48t8hjHdxexSPHjmM6wTD5/m3FLzNOHt8OCMYnwswE03jxCky+JB2kcSB703mq8AJUlM81vtI+UW/RolFHpm3vhdFPUyJo9zWjQWfBM5/sbN2oafzbeBT9HXfvMJEdWf82lptFkZjp5My23vXzp38poKiR/u6HeY4yGejkPJEP+xEtFdz+liLbPZDFbzhJTOMPcU/pcgGNhDLFmtodzBsa/3cd0+jmjvISgyu5A1TTPN4JTQwep6KLm9Ir8=;xcwzkT3qwNVXlEvKL/NpEA=="
+secured: "E1rsvuytoTaosuLFfJRM2n48ke4hfMFzNEfObXHa3Tr9g92+VJA3pVfwJfws1EWY6K9h23x9gfZPT32MaIQiuToqGEQuX/atMNJEW5swS4iAXZ0P6lLu+CbAfRVmBP4iKLRf/bobmWvfcxm0c5ByaAxsDFmUeCId1AstMWLTV2EFg8SGCU4x3zDVMoRa+hCFor3xju5QQcfKjM+1bbswUXXfuHq+vzLJEBGQBY2W736qwRYWbCWZdltgCt/j6JC5BJ6s2T4iY9RtVWta6FPx7mtQF9Xik1UiLQoVfDcanrwiRL70W6eW7/Crti+E4T39mGrbT4s94D5GLw+ocYyXpyoZzKqnuWBkFMw2DRhhjGqPUG3ywy3AexlG5S9hFABK2PDoFGYqJ82fzWg/0PuiX3XZ+77m5aamMxelnV8xaDwehut1SgXl/cCUwHPJKHAwrod19pi+MjdOEk6PXuMlLdXlxh/RhWNybcUrrm4a3/NgFr8h7wew1UxJiXwgt0ee+Ta5omo9hjw+dcR/DYMGbg==;oYYBku0Q1ENFDMdTBOOUPg=="
 ---
 

@@ -52,20 +52,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 36
-  - title: "B2B Construction Fintech Buildstock Books $1.6M in Pre-seed Funding"
-    excerpt: "This funding enables Buildstock to scale, expand third-party fintech, AI and logistics integrations and bring more participants into the marketplace. Late payments cost the $1.4 trillion construction materials industry over $208B in 2022, up 53% from 2021."
-    publishedDateTime: 2024-02-26T11:23:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221878-b2b-construction-fintech-buildstock-books-1-6m-in-pre-seed-funding/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/02/Construction-Real-Estate-Crains-LA-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Anyone nostalgic for the pre-SVB fintech era?"
     excerpt: "In the UK, KPMG’s Pulse of Fintech, a biannual report on fintech investment trends, saw fintech investment down 34 per cent in 2023, while retaining a lead in Europe. KPMG also found that total fintech investment in the Emea region dropped to $24.5bn in 2023, down from $49.6bn in 2022 and the lowest level of fintech funding in seven years."
     publishedDateTime: 2024-02-28T09:08:00Z
@@ -79,6 +65,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https://www.thebanker.com/var/ezflow_site/storage/images/media/images/liz-headshot-july-23/12744001-1-eng-GB/Liz-headshot-July-23.jpg?source=specialist-tb-article&width=816"
         width: 816
         height: 459
+        isCached: true
+  - title: "German delegation explores investment opportunities in Qatar's AI, HealthTech, FinTech, cybersecurity sectors"
+    excerpt: "BVMW GCC Office in Doha has taken a significant step towards enhancing trade co-operation between Germany and Qatar by organising a"
+    publishedDateTime: 2024-02-28T17:33:00Z
+    webUrl: "https://www.gulf-times.com/article/678068/business/german-delegation-explores-investment-opportunities-in-qatars-ai-healthtech-fintech-cybersecurity-sectors"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 20
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/02/28/thumbs/300x300/146600.jpg"
+        width: 300
+        height: 255
         isCached: true
   - title: "Socure Teams Up with Open Banking Fintech Trustly"
     excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."

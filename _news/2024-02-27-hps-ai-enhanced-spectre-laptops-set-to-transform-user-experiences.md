@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
-    excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
-    publishedDateTime: 2024-02-26T12:42:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-reveals-ai-focused-rtx-500-1000-gpus-highly-portable-mobile-workstations"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 26
   - title: "NVIDIA RTX 5090 GPU could have fuller core count than RTX 4090, but stock is a worry already"
     excerpt: "NVIDIA certainly won't want to get too close to using all the cores, as the full die GB102 chips will be needed for AI graphics cards ... it would be one possible tactic for NVIDIA: Launching a GPU to dominate the benchmark charts, more than anything ..."
     publishedDateTime: 2024-02-27T00:43:00Z

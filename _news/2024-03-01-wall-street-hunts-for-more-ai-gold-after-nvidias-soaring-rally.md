@@ -104,15 +104,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
-    excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
-    publishedDateTime: 2024-02-26T12:42:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-reveals-ai-focused-rtx-500-1000-gpus-highly-portable-mobile-workstations"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 26
   - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
     excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
     publishedDateTime: 2024-02-27T14:05:00Z

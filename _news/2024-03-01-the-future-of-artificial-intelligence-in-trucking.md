@@ -19,144 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "How Meta’s Llama 3 will impact the future of AI"
-    excerpt: "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-26T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/llama-3/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Navigating The Future Through The Power Of AI, Leadership And Governance"
-    excerpt: "These regulations must balance innovation with the mitigation of risks like bias and discrimination, setting a global standard for AI ethics that can guide both public and private sector initiatives. The role of leadership is fundamentally changing in the ..."
-    publishedDateTime: 2024-02-26T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
+  - title: "AI Market Structure In The Future: Few Engines, Many Applications"
+    excerpt: "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs."
+    publishedDateTime: 2024-02-27T12:31:00Z
+    webUrl: "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/"
+    ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d897629f1bf0bef78f6ce4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/657ca9e7bc7dbcfed2d9bd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
-        height: 700
+        height: 899
         isCached: true
-  - title: "7 Paradoxes Of Artificial Intelligence"
-    excerpt: "artificial intelligence, a survey from IBM’s Watson Group finds. 3. AI is expensive to implement. AI helps manage and reduce IT costs. For example, the rising practice of FinOps — which encourages intelligently controlling technology spending — may ..."
-    publishedDateTime: 2024-02-27T02:36:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "The Rise Of AI Tutors"
-    excerpt: "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning."
-    publishedDateTime: 2024-03-01T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Exploring the impact of Artificial Intelligence"
-    excerpt: "Visitors can dive into the realms of artificial intelligence at the Muscat Book Fair, where the evolution of this groundbreaking technology"
-    publishedDateTime: 2024-02-28T16:08:00Z
-    webUrl: "https://www.omanobserver.om/article/1150321/oman/exploring-the-impact-of-artificial-intelligence"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150321"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150321"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 59
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/28/2594140.jpg"
-        width: 1000
-        height: 819
-        isCached: true
-  - title: "Artificial Intelligence and Its Impact"
-    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
-    publishedDateTime: 2024-02-27T21:50:00Z
-    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
-    type: article
-    provider:
-      name: Cfr.org
-      domain: cfr.org
-    quality: 39
-    images:
-      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Harnessing the Potential of Artificial Intelligence"
-    excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
-    publishedDateTime: 2024-02-27T17:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-harnessing-potential-artificial-intelligence-/2024/02/27/9969051.htm"
+  - title: "Reaching for the Future: TECNO Pioneers AI Revolution in Smart Devices, Extending Reach for Global Users"
+    excerpt: "In the realm of processing power and AI capabilities, TECNO is harnessing the strength of MediaTek's latest innovations. MediaTek has made a significant push into the premium segment with its 3rd generation premium chipset, the Dimensity 9300, which boasts advanced AI capabilities."
+    publishedDateTime: 2024-02-27T16:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968957.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 22
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://mma.prnewswire.com/media/2348713/TECNO_Mobile_AI.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Navigating the impact of AI in our daily lives"
-    excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
-    publishedDateTime: 2024-02-27T17:20:00Z
-    webUrl: "https://manilastandard.net/spotlight/314420667/navigating-the-impact-of-ai-in-our-daily-lives.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 39
-    images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/steve-johnson-_0iV9LmPDn0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Dell says on-prem is the future of AI"
-    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
-    publishedDateTime: 2024-03-01T21:24:00Z
-    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
-  - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
-    excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
-    publishedDateTime: 2024-02-27T20:32:00Z
-    webUrl: "https://www.inc.com/sania-khan/how-will-artificial-intelligence-impact-jobs-a-labor-economist-weighs-in.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
 
 secured: "kOmvrKvD7q8aszaM+TfH43Qm+QrLEKkr8PK9BowHqVgpkNnj6jYbpI3/oP6j1Njy4qSg8Rm4Kc7Ulr+k2xEywCAE2SB8ernuGpxfscJqIlRN6aw1OxxuJPl3I2RUwtH9ag585qe1PiAzd67KVPT28+nrsT9A3pLCMwwq+1HiJN+89LlzVVfc/kui22Xg02nN/hXai0hh+kriG9uoqu1YjE08BFIbpsiLxmrdepDfiD1vkgYKg30OqAS/L+ZX2/TR1skEHzFY6R2rG8qA8Tc4TfPMRqcAmtX59/UgHKus4C/5b/WQGSnvQOk5M/Ls8U5M5FAUAplOqfUHG+qpIn4NLrjNZZa4665Ua8wCBNSNj/7RUQcaC1FCzCdk2d9q7DIucMtkNy8fEMnQtzHm3QhMc+4tZfMW4n0iAv29WZRl77kj83PIdQO2kH5DP3oqIIROthQ4YyraLhm7itbP3gPh8mI7OMxVbg0HfKkM5eNSBsudEizryWcpiISPoHH2KjvwNkIJ3PAyCh+EOJRBsZOV/A==;NaAjkUcb1enfdu/uwHoZWQ=="
 ---

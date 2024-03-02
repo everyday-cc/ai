@@ -49,6 +49,20 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
+    publishedDateTime: 2024-02-26T16:21:00Z
+    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-organizations-should-know-about-cybersecurity.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 30
+    images:
+      - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
     excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
     publishedDateTime: 2024-02-28T15:56:00Z

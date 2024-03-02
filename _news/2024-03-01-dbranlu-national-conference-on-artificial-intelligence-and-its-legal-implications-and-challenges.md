@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "CW National 2024 preview: Diana Kelley on AI implications for compliance"
-    excerpt: "Artificial intelligence expert Diana Kelley will discuss what AI means for organizations and explore the technology's implications for compliance and enterprise risk as part of a keynote address at Compliance Week's National Conference in Washington,"
-    publishedDateTime: 2024-02-26T11:30:00Z
-    webUrl: "https://www.complianceweek.com/technology/cw-national-2024-preview-diana-kelley-on-ai-implications-for-compliance/34388.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 38
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/5/3/3/18533_aiforbusiness_124120.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Fujitsu Launches Advanced AI Applications to Simplify 5G+ Network Challenges"
     excerpt: "Fujitsu Network Communications introduced Virtuora® IA, a collection of network applications powered by artificial intelligence (AI) that use network-focused machine learning (ML) models and inherent telecommunications expertise to significantly improve mobile network operators’ (MNOs) network performance with drastically simplified operations."
     publishedDateTime: 2024-02-29T06:37:00Z

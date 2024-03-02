@@ -2,6 +2,109 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2024-02-02-amazon-announces-ai-shopping-assistant-called-rufus.md",
+      "title": "Amazon announces AI shopping assistant called Rufus",
+      "excerpt": "Amazon is rolling out an assistant that uses generative artificial intelligence to help users search and shop for products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/01/amazon-announces-ai-shopping-assistant-called-rufus.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/01/amazon-announces-ai-shopping-assistant-called-rufus.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106848357-1614774690045-gettyimages-1231487844-widak-amazonqu210303_npAct.jpeg?v=1706820914",
+          "width": 5600,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/01/amazon-announces-ai-shopping-assistant-called-rufus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/amazon-announces-ai-shopping-assistant-called-rufus.html",
+      "publishedDateTime": "2024-02-01T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-designing-generative-ai-workloads-for-resilience.md",
+      "title": "Designing generative AI workloads for resilience",
+      "excerpt": "Resilience plays a pivotal role in the development of any workload, and generative AI workloads are no different. There are unique considerations when engineering generative AI workloads through a resilience lens. Understanding and prioritizing resilience is crucial for generative AI workloads to meet",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/generative-ai-workloads-resilience.jpg",
+          "width": 1022,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T18:17:17Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-should-large-enterprises-self-host-their-authoritative-dns.md",
       "title": "Should large enterprises self-host their authoritative DNS?",
       "excerpt": "There are several reasons why a large enterprise would want to build and host an authoritative DNS service on its own.\nThe post Should large enterprises self-host their authoritative DNS? appeared first on IBM Blog.\n",
@@ -1110,102 +1213,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-create-an-ai-center-of-excellence-to-kickstart-and-sustain-success.md",
-      "title": "Create An AI Center Of Excellence To Kickstart And Sustain Success",
-      "excerpt": "A center of excellence, or COE, can coordinate and drive adoption of sustainable AI benefits for the entire organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1348,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
-      "publishedDateTime": "2024-02-01T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-combining-robotics-and-ai-to-create-humanoid-robots.md",
-      "title": "Combining robotics and AI to create humanoid robots",
-      "excerpt": "The fusion of robotics and artificial intelligence (AI) to create humanoid robots represents a frontier of innovation that captivates both the imagination",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ai-humanoid-robots/",
-      "originalUrl": "https://www.geeky-gadgets.com/ai-humanoid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T11:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

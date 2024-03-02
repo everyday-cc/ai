@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/102080-data-governance-provenance-tw
 webUrl: "https://www.techspot.com/news/102080-data-governance-provenance-two-words-critical-future-generative.html"
 type: article
 quality: 61
-heat: 72
+heat: 71
 published: true
 
 provider:

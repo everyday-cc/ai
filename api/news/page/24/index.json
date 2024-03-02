@@ -2,6 +2,110 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2024-02-14-ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024.md",
+      "title": "AI Chip Vendors: A Look At Who’s Who In The Zoo In 2024",
+      "excerpt": "Intel Gaudi3 is starting to look like a late-2024 event, which will virtually assure AMD a strong 2nd place in the market. Meanwhile, Intel still enjoys a significant advantage over AMD in the AI performance of its Xeon server CPUs for inference processing, a gap AMD will likely attempt to close later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3dc989cb174ce82b81de6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1542,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
+      "publishedDateTime": "2024-02-13T18:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-pioneering-ais-next-phase-insights-from-mits-venture-studio-course.md",
+      "title": "Pioneering AI’s Next Phase: Insights From MIT’s Venture Studio Course",
+      "excerpt": "Ramesh Raskar gave us some insights into what's happening with AI, talking about a sea change toward models that are going to be more powerful than what we've seen to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbb912303e79e010e6ee1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1352,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
+      "publishedDateTime": "2024-02-13T18:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
       "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
       "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
@@ -1103,101 +1207,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-the-future-of-business-to-business-banking-fintech-50-2024.md",
-      "title": "The Future Of Business To Business Banking: Fintech 50 2024",
-      "excerpt": "Compared with other fintech segments, business to business banking had a pretty good 2023–thanks in part to the failure of a conventional bank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/",
-      "originalUrl": "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca49c9ad26e48437eb62c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars.md",
-      "title": "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars",
-      "excerpt": "Bryant Walker Smith, a professor at the University of South Carolina with expertise in autonomous-vehicle law, said the episode raises a fair question about whether self-driving cars can or should be able to detect areas crowded with pedestrians and navigate around them.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T11:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

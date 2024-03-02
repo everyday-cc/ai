@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3713340/the-roi-in-ai-and-how-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713340/the-roi-in-ai-and-how-to-find-it.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1199
     height: 608
     isCached: true
+
+related:
+  - title: "Artificial Intelligence and Its Impact"
+    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
+    publishedDateTime: 2024-02-27T21:50:00Z
+    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 39
+    images:
+      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "KQlSz6jRoq2tJG3klCwLxA4E98j0a/SUppgr9sg2eGQcYoDndbxZntc9zL2wlr3x9fiTosvGJj1T+NEUxaAYOjbJHhe0k5xZFrBiA3rUyMytQ0ezi/7c2Qi0uslQ/QdjW7HiPDoufKm4gmrn/lOeCTO2Qj3BiXxHh4gIGuwZp0bGHfewLn1zkrGQpIfEiIUjfZtkWULHRJZ41IQ/3Nr3jwytnDRcQ1WzlpPP3SIyN78ql3+atQF+aZCbfcP+kplct3iST7Cl8A2kHgW71Jjovnp3xClx1fVbH8wgAlnJE8+XY3rOFMyOk8aI2RDgAVcaW4IAK1Vu8zA2qiCKqP6eoZiJ0YEGrQy/KqpM913oMa4=;OkDmVPYOET9XWwQvN20FrQ=="
 ---

@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2024-02-15-slack-rolls-out-generative-ai-search-and-summarization.md",
+      "title": "Slack Rolls Out Generative AI Search and Summarization",
+      "excerpt": "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/slack-generative-ai-search/",
+      "originalUrl": "https://www.techrepublic.com/article/slack-generative-ai-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T16:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-the-3-best-ai-stocks-to-buy-in-february-2024.md",
+      "title": "The 3 Best AI Stocks to Buy in February 2024",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T16:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-how-robotics-and-ai-helped-hippo-harvest-land-21m-to-grow-lettuce.md",
       "title": "How robotics and AI helped Hippo Harvest land $21M to grow lettuce",
       "excerpt": "Lettuce isn’t the world’s most challenging crop, but as any farmer knows, there are plenty of problems that pop up between planting and harvest. The gamut runs from pests to pathogens and rain — both too little and too much.",
@@ -1074,93 +1169,6 @@
       "topics": [
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-akamai-bets-on-edge-computing-to-take-on-aws-azure-and-google-cloud.md",
-      "title": "Akamai Bets on Edge Computing to Take on AWS, Azure and Google Cloud",
-      "excerpt": "Akamai aims to establish 25 new edge locations by the end of this month, 100 by the end of this year, and scale to over thousands in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/akamai-bets-on-edge-computing-to-take-on-aws-azure-and-google-cloud/",
-      "originalUrl": "https://analyticsindiamag.com/akamai-bets-on-edge-computing-to-take-on-aws-azure-and-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://8f430952.rocketcdn.me/wp-content/uploads/2024/02/Akamai-interview.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T08:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression.md",
-      "title": "Machine Learning Can Predict Eyes at Risk for Diabetic Retinopathy Progression",
-      "excerpt": "Automated machine learning models may help identify eyes at risk for diabetic retinopathy (DR) progression based on ultra-widefield retinal images, according to a study published online Feb. 8 in JAMA Ophthalmology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/",
-      "originalUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.shortpixel.ai/spai2/q_lossy+ret_img+to_webp/www.physiciansweekly.com/wp-content/uploads/2024/02/image1708768822.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T06:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

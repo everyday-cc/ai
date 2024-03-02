@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-struct
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 19
 
 secured: "faqbHYjyoTynkkMaR0tNqWyxmCIh1wM+mTmkX+LhpqUj72cFQC5jaUK+GogKl45zY4Yhtmxz+o4UMqCixmTS6cM0C6FfLy/VtzBjvtiIGF21gwRk8HEK+BOBKA0NKFEqpCEfh9VXks8kNumee2d4xaxHxGU9hvpr8qMdK6DRb3dDEC04IM/ZW5pOVy9MnYZaFGph6f8t6FZZE1qZp2BaTKUxfuNmz4laFO1xz+Ygt4kBxj3BO8yo6WpoJMClnDpPnj/VW1T1jpIVtNLWwdu0UklGkGufAuL9jm87HJwfSU9lph/zvLDnMrUMG8jQH8xF2TWsP2uGq/WkZ7kItE4IV2Oz29HeYdHA4fwZ4oV4LaEB/WGdKh+sxhS5GssZzxlf5Js25sn2dcOGPyfRZIlZYi+5JzNSf8YVJd/5+qJRw/6IrQqmXdtAgskhphphQvEmuTuIIo5Uvq8rf/3v33/ogg4+wMA+XKuSKeib+m0q/E2AgnX1avVck97Dzi+5024a4Nq22NKAf9MIT4OhxzDPcw==;ZaDZDU2jsNf4O6m9GF0UAA=="
 ---

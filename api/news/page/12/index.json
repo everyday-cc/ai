@@ -2,6 +2,111 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-22-fox-news-ai-newsletter-lizard-like-robot-could-help-navy-prevent-catastrophes.md",
+      "title": "Fox News AI Newsletter: Lizard-like robot could help Navy 'prevent catastrophes'",
+      "excerpt": "MILITARY GAME-CHANGER: A lizard-like robot and other devices relying ... DEEPFAKE BATTLE’: An Israeli AI cybersecurity start-up, Clarity, has developed software to detect and protect against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d705d93-3ff3-4ead-a33e-b0a42bc27432/dbc13643-03fe-4e99-947e-db2ba52ac205/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
+      "publishedDateTime": "2024-02-21T16:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-10-ai-bootcamps-taught-by-top-schools-companies-and-tech-experts.md",
+      "title": "10 AI bootcamps taught by top schools, companies, and tech experts",
+      "excerpt": "In the AI and Machine Learning Bootcamp, lectures will touch on how to build a machine learning model and test its effectiveness, neural networks, NLP best practices, and the role of AWS, Microsoft’s Azure AI, and SQL in machine learning. Upon completing ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/education/articles/ai-bootcamps/",
+      "originalUrl": "https://fortune.com/education/articles/ai-bootcamps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1517344698-e1708531258991.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T16:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-global-neural-processor-market-to-reach-07-billion-by-2030-driven-by-ai-adoption-and-machine-learning-acceptance.md",
       "title": "Global Neural Processor Market to Reach $0.7 Billion by 2030, Driven by AI Adoption and Machine Learning Acceptance",
       "excerpt": "DUBLIN, Feb. 21, 2024 /PRNewswire/ -- The \"Neural Processor Market Report: Trends, Forecast and Competitive Analysis to 2030\" report has been added to ResearchAndMarkets.com's offering.",
@@ -1115,101 +1220,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
-      "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
-      "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
-      "originalUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2024-02/86jsk76g_mark-zuckerberg-bloomberg_625x300_02_February_24.jpeg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
-      "publishedDateTime": "2024-02-21T08:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains.md",
-      "title": "Arm unveils Arm Neoverse CSS V3 chip designs for AI efficiency gains",
-      "excerpt": "In a leap forward for AI infrastructure, Arm announced the latest advancements in its Neoverse chip technology based on the Arm computing architecture. The company unveiled two new Arm Neoverse Compute Subsystems (CSS) built on third-generation Neoverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
-      "originalUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/arm-neoverse.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T07:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

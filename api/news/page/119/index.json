@@ -2,6 +2,110 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2023-11-22-best-cyber-monday-deals-2023-50-sales-from-amazon-best-buy-walmart-target.md",
+      "title": "Best Cyber Monday deals 2023: 50+ sales from Amazon, Best Buy, Walmart, Target",
+      "excerpt": "If you're looking for a bargain this November, you're not the only one. Amazon has already posted a sneak peak for its upcoming 'Cyber Weekend' sale so we've already got a decent picture of what's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/cyber-monday/best-cyber-monday-deals",
+      "originalUrl": "https://www.techradar.com/cyber-monday/best-cyber-monday-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ARr35zMXd5NMsbknoeP8jR-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T16:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-ai-is-finding-its-feet-in-cross-border-payments-but-theres-a-long-road-ahead.md",
+      "title": "AI Is Finding Its Feet In Cross-Border Payments – But There’s A Long Road Ahead",
+      "excerpt": "Behind the scenes, most fintechs are likely to have long-term projects that involve generative AI, but when it comes to current applications, the space is divided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielwebber/2023/11/21/ai-is-finding-its-feet-in-cross-border-payments--but-theres-a-long-road-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/danielwebber/2023/11/21/ai-is-finding-its-feet-in-cross-border-payments--but-theres-a-long-road-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655cbdd69c479be29dfceb6b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 999,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielwebber/2023/11/21/ai-is-finding-its-feet-in-cross-border-payments--but-theres-a-long-road-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielwebber/2023/11/21/ai-is-finding-its-feet-in-cross-border-payments--but-theres-a-long-road-ahead/amp/",
+      "publishedDateTime": "2023-11-21T16:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-small-batch-evs-and-plenty-of-robotshyundais-new-innovation-center.md",
       "title": "Small-batch EVs and plenty of robots—Hyundai’s new innovation center",
       "excerpt": "Hyundai's Innovation Center has put robots in charge of that entire task. One robot places the dash while another swings in and secures it to the vehicle. An impressive feat, because this task is full of constantly changing variables.",
@@ -1096,82 +1200,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-ssd-vs-nvme-whats-the-difference.md",
-      "title": "SSD vs. NVMe: What’s the difference?",
-      "excerpt": "While the terms SSD and NVMe are used to describe two types of drives, they are actually different data storage technologies that can complement each other. \nThe post SSD vs. NVMe: What’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ssd-vs-nvme/",
-      "originalUrl": "https://www.ibm.com/blog/ssd-vs-nvme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T20:49:34Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-ai-systems-given-physical-constraints-develop-features-of-complex-brains.md",
-      "title": "AI Systems, Given Physical Constraints, Develop Features of Complex Brains",
-      "excerpt": "Study using seRNNs could point to development of more efficient AI systems, particularly in situations where there are likely to be physical constraints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-systems-given-physical-constraints-develop-features-of-complex-brains/",
-      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-systems-given-physical-constraints-develop-features-of-complex-brains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
         "images": null,
         "publishers": null,
         "authors": null

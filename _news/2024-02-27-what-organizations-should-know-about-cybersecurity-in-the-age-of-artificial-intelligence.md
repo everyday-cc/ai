@@ -25,68 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "What's Stopping Cybersecurity From Being AI-Driven?"
-    excerpt: "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI."
-    publishedDateTime: 2024-02-26T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+  - title: "Conversational AI revolutionizes the customer experience landscape"
+    excerpt: "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey."
+    publishedDateTime: 2024-02-26T15:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/"
+    ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200"
+        width: 1200
+        height: 671
+        isCached: true
+  - title: "The Program-Level AI Conversations We Should Be Having"
+    excerpt: "Affirm their existing program-level learning outcomes and determine if a generative AI-specific outcome is needed. For example, a department might decide to revise their ethics-related program-level learning outcome to reflect a commitment to the ethical ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.insidehighered.com/opinion/views/2024/02/28/next-step-higher-eds-approach-ai-opinion"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-02/Untitled%20design%20-%202024-02-27T121453.219_c.png?itok=UDLdFHig"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
+    publishedDateTime: 2024-02-28T15:56:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/more-extensive-more-timely-more-professionalai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-302074386.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg?p=facebook"
         width: 1600
-        height: 862
+        height: 838
         isCached: true
-  - title: "Understanding The Limits Of AI And What This Means For Cybersecurity"
-    excerpt: "4. Incorporate a code of ethics for AI processes. For the most part, lawyers, doctors, airline pilots and other professionals operate under a code of ethics. Why this code exists may have to do with how professions play a central role in the development ..."
-    publishedDateTime: 2024-02-29T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/understanding-the-limits-of-ai-and-what-this-means-for-cybersecurity/"
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
+    publishedDateTime: 2024-02-28T17:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Why cybersecurity skills are coveted in fintech"
-    excerpt: "In areas such as AI and cybersecurity, those with the necessary skills and ... that new solutions are found to deal with online fraud, particularly within the fintech sector. While the above stats sound positive, the one thing getting in the way of the ..."
-    publishedDateTime: 2024-03-01T10:02:00Z
-    webUrl: "https://www.finextra.com/the-long-read/959/why-cybersecurity-skills-are-coveted-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/959.jpg"
-        width: 799
-        height: 449
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
-    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
-    publishedDateTime: 2024-03-01T13:06:00Z
-    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+  - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
+    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
+    publishedDateTime: 2024-02-27T19:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 23
-  - title: "German delegation explores investment opportunities in Qatar's AI, HealthTech, FinTech, cybersecurity sectors"
-    excerpt: "BVMW GCC Office in Doha has taken a significant step towards enhancing trade co-operation between Germany and Qatar by organising a"
-    publishedDateTime: 2024-02-28T17:33:00Z
-    webUrl: "https://www.gulf-times.com/article/678068/business/german-delegation-explores-investment-opportunities-in-qatars-ai-healthtech-fintech-cybersecurity-sectors"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 20
-    images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/02/28/thumbs/300x300/146600.jpg"
-        width: 300
-        height: 255
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "KRK8cofHQYGQaiIKwlFaduHjopDw8tJl8o5IRai2wTYYNpTSUCnZT9PXYUtYSTkJwy9tr2TdMu97eUHy2jlTtySCrSbntr4evW3TAxR5KoFVbEZxE1mI61s2dr1NS7MnXWPy7y/LIsPSK8vOMw6eZhnyw0LcTYvp2rh9pJpwXl1VD97aC6L6DcVRdfP/Dlhl9SUCiJXv/TstnHCh/MCL/UsLIedFc1iSwYHUslAy0H3gznevnZF+OM4quaM3UrGJmY95GoclqoRLSjqzjBAwLbY3QANcGtB1BOBMqGxyiBPMdHyhimv3RsEPPOn6kbTawHArJAns7hpKe+St3VJI6p4pmo7aE0p8igWt01J20nbK4bun0txO9VVbv/LMPpO0YP/M1TkHUa5IufwzCdSElLGEt9GFkO9+oXtHdI+oCHH7yqgILSEVYrY0bLrw47Qmwz8KlrILMRA4C/Qe/ccYBS2LzBpKIF4Ohge6HBfzPYy+p70drSRFjFkYsHizKBJBZqUF+RWsHhUjMCqEIuA3Dw==;gjn49od8rpA4yGmG1eoEiA=="
 ---

@@ -973,15 +973,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Microsoft signs multi-year deal with Mistral AI"
-    excerpt: "The companies announced their deal, with Microsoft promising to supply Mistral with all of the benefits of its Azure network and services to be able to develop and research the latest in large language models (LLM). Microsoft and Mistral AI announced their ..."
-    publishedDateTime: 2024-02-26T12:44:00Z
-    webUrl: "https://www.shacknews.com/article/138879/microsoft-multi-year-deal-mistral-ai"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 34
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
     publishedDateTime: 2024-02-26T22:16:00Z

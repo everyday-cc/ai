@@ -2,6 +2,83 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2024-01-13-cruise-casts-shadow-on-self-driving-tech-at-ces-2024.md",
+      "title": "Cruise casts shadow on self-driving tech at CES 2024",
+      "excerpt": "LAS VEGAS — Self-driving vehicles and advances in automated-driving technology have been a CES staple since Audi drove an A7 autonomously from San Francisco to Las Vegas nine years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
+      "originalUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T23:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-smart-construction-future-hd-hyundai-collaborates-with-aws-to-pioneer-unmanned-autonomous-sites.md",
+      "title": "Smart Construction Future: HD Hyundai Collaborates with AWS to Pioneer Unmanned Autonomous Sites",
+      "excerpt": "LAS VEGAS, Jan. 12, 2024 /PRNewswire/ -- HD Hyundai, a global leader in heavy industries, is teaming up with Amazon Web Services (AWS) to lead the innovation of future unmanned and autonomous construction sites. This collaboration was announced at Consumer Electronics Show (CES) 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2317101/image_123650291.jpg",
+          "width": 400,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T22:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-facial-recognition-could-play-key-role-in-workplace-safety-for-football-players.md",
       "title": "Facial recognition could play key role in workplace safety for football players",
       "excerpt": "A survey of football player unions found that fan violence is a growing concern, and tech interventions like facial recognition could help keep players safe.",
@@ -988,83 +1065,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-google-kills-17-assistant-features-ahead-of-assistant-with-bard-release.md",
-      "title": "Google Kills 17 Assistant Features Ahead of ‘Assistant with Bard’ Release",
-      "excerpt": "The next victims of Google's slaughter and first entrants of Google Graveyard in 2024 are Google Assistant features, 17 of them.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/google-kills-17-assistant-features/",
-      "originalUrl": "https://beebom.com/google-kills-17-assistant-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T01:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-hpc-in-the-cloud-is-growing-ensure-your-organization-benefits.md",
-      "title": "HPC in the cloud is growing, ensure your organization benefits",
-      "excerpt": "This is driven partly by the demands of artificial intelligence (AI) and machine learning (ML ... infrastructure Featuring a technology spotlight on Amazon Web Services (AWS) and NVIDIA working together to provide performant and easy to use solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
-      "originalUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2024/01/AWS_Cover_72Ver3.jpg",
-          "width": 685,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

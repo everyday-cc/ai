@@ -2,6 +2,92 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2024-01-26-the-benefits-of-medical-speech-to-text.md",
+      "title": "The Benefits of Medical Speech-to-Text",
+      "excerpt": "What is medical speech-to-text? Medical speech-to-text, also known as medical speech recognition (MSR), is a technology that allows you to dictate your medical notes instead of typing them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
+      "originalUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tL3Jlc291cmNlcy9pbWcvZXAtYm5kLWxvZ28tMTIwLnBuZw==",
+          "width": 700,
+          "height": 297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-uspto-contributes-patent-and-trademark-data-to-help-launch-national-ai-research-resource-pilot-program.md",
+      "title": "USPTO Contributes Patent and Trademark Data to Help Launch National AI Research Resource Pilot Program",
+      "excerpt": "This week, the U.S. National Science Foundation (NSF) alongside public and private sector collaborators launched the National Artificial Intelligence Research Resource (NAIRR) pilot program. NAIRR seeks to advance AI discovery and innovation by making ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/uspto-contributes-patent-and-trademark-5578753/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/uspto-contributes-patent-and-trademark-5578753/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9342_1744.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high.md",
       "title": "Broadcom’s Software Expansion And AI Potential Drive Stock To New Record High",
       "excerpt": "Generative AI is already powering growth in Broadcom’s semiconductor business, while the recently completed acquisition of VMware will significantly boost the company's software exposure.",
@@ -1075,110 +1161,6 @@
         "IBM AI",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-voltron-claypot-deal-cooks-up-faster-ai-engine-power.md",
-      "title": "Voltron Claypot Deal Cooks Up Faster AI Engine Power",
-      "excerpt": "As we know then, there’s a race on to provide AI processing power, so why is the data preparation challenge part of this equation so tough?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b24cfb438acdd6bba57f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/",
-      "publishedDateTime": "2024-01-25T12:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-lds-transformation-from-order-taker-to-trusted-learning-advisor.md",
-      "title": "L&D’s Transformation From Order Taker To Trusted Learning Advisor",
-      "excerpt": "The Learning & Development (L&D) field, since its inception, has found itself pigeonholed into a reactive, order-taking role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
-      "originalUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14807e631844a3005ca8d/0x0.jpg?format=jpg&crop=1230,922,x144,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1201,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
-      "publishedDateTime": "2024-01-25T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

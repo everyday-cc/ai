@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Forbes
@@ -30,31 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Meta’s Llama 3 will impact the future of AI"
-    excerpt: "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-26T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/llama-3/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Navigating The Future Through The Power Of AI, Leadership And Governance"
-    excerpt: "These regulations must balance innovation with the mitigation of risks like bias and discrimination, setting a global standard for AI ethics that can guide both public and private sector initiatives. The role of leadership is fundamentally changing in the ..."
-    publishedDateTime: 2024-02-26T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d897629f1bf0bef78f6ce4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 700
-        isCached: true
   - title: "The Rise Of AI Tutors"
     excerpt: "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning."
     publishedDateTime: 2024-03-01T15:00:00Z
@@ -71,63 +46,46 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Exploring the impact of Artificial Intelligence"
-    excerpt: "Visitors can dive into the realms of artificial intelligence at the Muscat Book Fair, where the evolution of this groundbreaking technology"
-    publishedDateTime: 2024-02-28T16:08:00Z
-    webUrl: "https://www.omanobserver.om/article/1150321/oman/exploring-the-impact-of-artificial-intelligence"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150321"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150321"
+  - title: "Q&A: Businesses need to be the boss of AI, or else"
+    excerpt: "The keynote speaker at FutureIT Los Angeles, Anat Baron, shares her thoughts on innovation and generative AI, guardrails, and preparing a workforce ready to use emerging technology."
+    publishedDateTime: 2024-02-27T00:18:00Z
+    webUrl: "https://www.cio.com/article/1309848/qa-businesses-need-to-be-the-boss-of-ai-or-else.html"
+    ampWebUrl: "https://www.cio.com/article/1309848/qa-businesses-need-to-be-the-boss-of-ai-or-else.html?amp=1"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309848/qa-businesses-need-to-be-the-boss-of-ai-or-else.html?amp=1"
     type: article
     provider:
-      name: omanobserver
-      domain: omanobserver.om
+      name: CIO
+      domain: cio.com
     quality: 59
     images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/28/2594140.jpg"
-        width: 1000
-        height: 819
+      - url: "https://www.cio.com/wp-content/uploads/2024/02/Anat-Baron.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 1024
         isCached: true
-  - title: "Artificial Intelligence and Its Impact"
-    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
-    publishedDateTime: 2024-02-27T21:50:00Z
-    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
+  - title: "Perfect promises, imperfect realities of AI"
+    excerpt: "With the widespread adoption of AI comes worry regarding its ethics. Deepmind’s original charters for AI ethics over time have transformed into Google’s AI principles, which involve objectives including being socially beneficial, avoiding unfair biases ..."
+    publishedDateTime: 2024-02-27T05:16:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece/amp/"
     type: article
     provider:
-      name: Cfr.org
-      domain: cfr.org
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 39
-    images:
-      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Harnessing the Potential of Artificial Intelligence"
-    excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
-    publishedDateTime: 2024-02-27T17:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-harnessing-potential-artificial-intelligence-/2024/02/27/9969051.htm"
+  - title: "Welcome to the era of mobile AI"
+    excerpt: "When integrated into phones, AI is, to put it simply ... Availability of the service varies by country and language. Accuracy of results is not guaranteed. 3 Live Translate requires a network connection and Samsung Account login. Live Translate is only ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://mg.co.za/partner-content/2024-02-27-welcome-to-the-era-of-mobile-ai/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Mail & Guardian
+      domain: mg.co.za
     quality: 39
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Navigating the impact of AI in our daily lives"
-    excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
-    publishedDateTime: 2024-02-27T17:20:00Z
-    webUrl: "https://manilastandard.net/spotlight/314420667/navigating-the-impact-of-ai-in-our-daily-lives.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 39
-    images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/steve-johnson-_0iV9LmPDn0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://mg.co.za/wp-content/uploads/2024/02/image001-1.jpg"
+        width: 813
+        height: 508
         isCached: true
   - title: "Dell says on-prem is the future of AI"
     excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
@@ -143,24 +101,20 @@ related:
         width: 822
         height: 822
         isCached: true
-  - title: "The future of artificial intelligence in trucking"
-    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+  - title: "Fears of AI threat to democratic elections"
+    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
     type: article
     provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 19
-  - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
-    excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
-    publishedDateTime: 2024-02-27T20:32:00Z
-    webUrl: "https://www.inc.com/sania-khan/how-will-artificial-intelligence-impact-jobs-a-labor-economist-weighs-in.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
+        width: 700
+        height: 1047
+        isCached: true
 
 secured: "pmTfTvQTlZJ4I5pPknRSqRoYuSKo5Hx9022mh/IbDO72XtQFoqaNiCf3qAfdlSdnMr1/I53MtSSZAIGBDsYh1DV3sF5rWczPkUldv/CWSs/4wORrnY45Sh/uf8OSCrpEkFu+Eq3xMjvvZaS7u6S5S9yVTpQ8usL1h4CYGtPru2cj7eNmrEDiHZR0KpbfIz206ObNrgtFOg5Kd1e2Esiia9W3TdtZvdYOpjFpBkf0y/ooOfLXtHBynuinwmYlrzcnZGG/1F8umFWyy9cAmBZ4PLWE3qJaS2mtk0No8p6EywTyKxK8naCLORZVMaq062YSf77YDnTj73D72qj6EZqoW2W2Rmih8pvUlJEVf66Yrd8=;kP/tGCX6SYvW2RM2TrVERg=="
 ---

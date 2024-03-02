@@ -6,41 +6,23 @@
       "title": "2 Millionaire-Maker Artificial Intelligence (AI) Stocks",
       "excerpt": "Artificial intelligence (AI) has emerged as the next big growth opportunity for investors. Bloomberg estimates that the generative AI market, which was worth $40 billion in 2022, could generate a whopping $1.3 trillion of annual revenue in 2032.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/02/2-millionaire-maker-artificial-intelligence-ai-sto/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/02/2-millionaire-maker-artificial-intelligence-ai-sto/",
+      "webUrl": "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0",
+      "originalUrl": "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/767173/two-people-celebrating-with-cash-in-a-car.jpg",
-          "width": 2123,
-          "height": 1412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T05:07:00Z",
+      "publishedDateTime": "2024-03-02T10:07:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -876,6 +858,48 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-the-ai-megatrend-3-global-x-etfs-to-capitalize-on-the-artificial-intelligence-frenzy.md",
+      "title": "The AI Megatrend: 3 Global X ETFs to Capitalize on the Artificial Intelligence Frenzy",
+      "excerpt": "Thanks to companies like Nvidia (NASDAQ:NVDA), artificial intelligence ETFs have become in high demand by investors seeking to ride the tech industry’s most significant trend of 2024. Like most thematic ETFs, just because AI appears in the name of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-ai-megatrend-3-global-x-etfs-to-capitalize-on-the-artificial-intelligence-frenzy-1033123497",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-ai-megatrend-3-global-x-etfs-to-capitalize-on-the-artificial-intelligence-frenzy-1033123497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T08:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-will-samsung-introduce-galaxy-ai-to-budget-phones.md",
       "title": "Will Samsung introduce Galaxy AI to budget phones?",
       "excerpt": "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features.",
@@ -1208,49 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-richmond-international-airport-begins-using-facial-recognition-technology.md",
-      "title": "Richmond International Airport begins using facial recognition technology",
-      "excerpt": "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight",
-      "sourceUrl": null,
-      "webUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
-      "originalUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wric.com/wp-content/uploads/sites/74/2024/02/ric-feature-img-new-tech.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
-      "publishedDateTime": "2024-02-29T21:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRIC",
-        "domain": "wric.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

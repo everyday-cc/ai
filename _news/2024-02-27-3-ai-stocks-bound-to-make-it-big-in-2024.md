@@ -25,18 +25,13 @@ topics:
 related:
   - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
     excerpt: "Artificial intelligence (AI) has emerged as the next big growth opportunity for investors. Bloomberg estimates that the generative AI market, which was worth $40 billion in 2022, could generate a whopping $1.3 trillion of annual revenue in 2032."
-    publishedDateTime: 2024-03-02T05:07:00Z
-    webUrl: "https://www.fool.com/investing/2024/03/02/2-millionaire-maker-artificial-intelligence-ai-sto/"
+    publishedDateTime: 2024-03-02T10:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/767173/two-people-celebrating-with-cash-in-a-car.jpg"
-        width: 2123
-        height: 1412
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
   - title: "3 Artificial Intelligence (AI) Stocks With More Potential Than Any Cryptocurrency"
     excerpt: "While that growth is significant, it pales in comparison to the artificial intelligence (AI) market's CAGR of 37% for the rest of the decade and its value of $137 billion. Excitement over cryptocurrency faltered in recent years as volatility has caused ..."
     publishedDateTime: 2024-03-01T11:00:00Z

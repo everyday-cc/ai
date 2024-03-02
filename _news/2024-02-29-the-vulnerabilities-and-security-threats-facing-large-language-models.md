@@ -56,15 +56,6 @@ related:
         width: 1048
         height: 675
         isCached: true
-  - title: "Google’s Large Language Models on Android Smartphones by 2025"
-    excerpt: "Google expects that its currently available Gemini large language model, will begin to get embedded into devices starting next year."
-    publishedDateTime: 2024-02-26T12:58:00Z
-    webUrl: "https://www.industryleadersmagazine.com/googles-large-language-models-on-android-smartphones-by-2025/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 4
 
 secured: "6nEFqBE5iBWrpESaLdYcZl1lSWn0bVB/uAVwHbq6a6TSbN5c3MeWHSu0cLxaY8SAwRU/6bRshVHyJYyjOGyaZSwYQhCdgO0nLAFLPdQURCUTBzlTngA32pmUGj9C1vbK9YltIEwMhC8TE8Ax/LnHaOuX+kMrDxnjPZxE5sedOEoHToBbMi5Ej0jVua5fWNsvgmPjKuayoKdCXY/cAeR8m1MzVdG6QL4gPm9nT7ofZMzEb6MAzcsMdnE/EseiXCnshHZXsBvj9BJtuLbQBW9t01vjOxfOPGJo36sQvcURFH0O1JkGr0cr5cKh3479ODjzgCKOtg7c4avGFlOT8ggF53fL9P0GuNoKJduh7lps3Dw=;Ies9T1qqP6tjJj49B7BPTQ=="
 ---

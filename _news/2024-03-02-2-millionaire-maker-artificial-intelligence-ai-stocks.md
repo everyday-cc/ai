@@ -2,30 +2,20 @@
 category: news
 title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
 excerpt: "Artificial intelligence (AI) has emerged as the next big growth opportunity for investors. Bloomberg estimates that the generative AI market, which was worth $40 billion in 2022, could generate a whopping $1.3 trillion of annual revenue in 2032."
-publishedDateTime: 2024-03-02T05:07:00Z
-originalUrl: "https://www.fool.com/investing/2024/03/02/2-millionaire-maker-artificial-intelligence-ai-sto/"
-webUrl: "https://www.fool.com/investing/2024/03/02/2-millionaire-maker-artificial-intelligence-ai-sto/"
+publishedDateTime: 2024-03-02T10:07:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
+webUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
 type: article
-quality: 82
-heat: 122
+quality: 62
+heat: 102
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/767173/two-people-celebrating-with-cash-in-a-car.jpg"
-    width: 2123
-    height: 1412
-    isCached: true
 
 related:
   - title: "3 Artificial Intelligence (AI) Stocks With More Potential Than Any Cryptocurrency"
@@ -70,6 +60,6 @@ related:
       domain: theglobeandmail.com
     quality: 32
 
-secured: "NLLNI6SAJs5KB4uqWi2k22J+nqSUC02aTnJs3TcQBxu+smp/bUjJLEDRUYCc+s2XwplKvRjJ+UIfeKOuoE2tHyGEqjsHjoVL8bNmWItuQu36wrTANh0oBl7Yb1lozhSYsiYdqCUH0/QDQc6vo8nMCZkK5868fgGyfgKxPoYaVdM8+NyzFvJHiA9z75f+f8r9ZtklUqjxg9mNFsv1kACXZD5UpiGdswD27OQML+CUNKlIoLb9zSEox8RA3wx+4n6I4tNU2iOLS75t/Vtn36oAoABjh5hEznjKzCqVCh+4ZUVwAW37eiq8F+81sC8gaXv26yIdvE2YVaVCH+f8FjX6wlOwMtU/u+3WsV7OypeoJiM=;33RveP/Sr9R54ueRVMgvwA=="
+secured: "P3BKJrEs9wzTppT4PL+4irG/U2d3kFXyH61dTl3Dw+yis3yvAOado4tkj6LM+5SOfWa22Xh7QfUSkrMJe5EoxsFbzPWX2rDWi+noLltXty4oGetlFJ8VWPKaaKL463qtZ/8rgXz76UdPtxISzwdrNqay05RdmQ6HkjUsCzKoGl+sMaXzGPjJwHeYmdi9M+2fCJk/02ULtQa6RWtTWC/rWxl2LGYhozIXZ95mtrfNYdZpviYIdlPx8P7uJykbPwok/x1t0Bclxx2uPWVEK87qMJ27AM+AMPUJdx+TXXdDTlmt5t1NutHJJ3jKMZwHySq2jDmbt+/ZDIpGdMh4Dlhz1un9AXPGt66H3XHv7C7AzlXBd54xN3HUDU7SQLNhnKOiJAGJ+cQtqaDDDtHLQDVq/cXHmm2DtNWDAzAC6JP9Zlb0nKBS5kXJ7cn3IMWK209i5iW2/hcWtuSMBJP/gT7/x1qASvXr8PJKh6MCs2v/bXpZkyY4sdxa9U4kC4m0fdesvfWm3n/wcrp0t6ybXEZkQw==;whkkT/Gv9U2bKjrsZPl0lw=="
 ---
 

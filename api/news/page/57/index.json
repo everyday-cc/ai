@@ -2,6 +2,91 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2024-01-19-operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy.md",
+      "title": "Operational Data Lakes: Why They're Needed In Your 2024 AI Strategy",
+      "excerpt": "Operational data lakes can play an important role in fueling AI strategies and have a lot of potential for driving business success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/amp/",
+      "publishedDateTime": "2024-01-19T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-gasgoo-daily-venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-v-online-in-guangzhou.md",
+      "title": "Gasgoo Daily: Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
+      "excerpt": "Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
+      "sourceUrl": null,
+      "webUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
+      "originalUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T12:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metal",
+        "domain": "metal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-baidu-idg-geely-co-introduce-ai-conversational-assistant-in-galaxy-l6-model.md",
       "title": "Baidu IDG, Geely co-introduce AI conversational assistant in Galaxy L6 Model",
       "excerpt": "Beijing (Gasgoo)- Recently, the collaborative efforts of Baidu's Intelligent Driving Group (IDG) and Geely Auto have come to fruition with the successful mass production of an AI conversational product embedded in the automaker’s Galaxy L6 model.",
@@ -1093,109 +1178,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai.md",
-      "title": "Zuckerberg says Meta is working on open source “general intelligence” for AI",
-      "excerpt": "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course).",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/zuckerberg_front_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T23:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-microsofts-copilot-revolutionizes-ai-investing.md",
-      "title": "Microsoft's Copilot Revolutionizes AI Investing",
-      "excerpt": "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1338,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T22:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

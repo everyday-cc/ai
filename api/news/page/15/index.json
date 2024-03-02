@@ -2,6 +2,101 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-20-samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing.md",
+      "title": "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing",
+      "excerpt": "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37218987",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987",
+      "publishedDateTime": "2024-02-20T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity.md",
+      "title": "An Approach For Leadership Teams To Balance AI Risk Versus Opportunity",
+      "excerpt": "We all have a responsibility to ensure the responsible use of AI. Here's my advice on how to make strides towards responsible-by-design AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6037c3e74880e0aa679f79b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1045,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/",
+      "publishedDateTime": "2024-02-20T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-how-to-build-generative-ai-agents-with-joon-sung-park.md",
       "title": "How to Build Generative AI Agents with Joon Sung Park",
       "excerpt": "Joon’s research seeks to answer this question by applying LLMs to a long-standing challenge in computer science: the creation of AI agents that can authentically simulate human behavior. This ambition traces back to the earliest days of AI in the 1950s ...",
@@ -1129,103 +1224,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
-      "title": "I tested Meta's Code Llama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
-      "excerpt": "A few weeks ago, Meta CEO Mark Zuckerberg announced via Facebook that his company is open-sourcing its large language model (LLM) Code Llama, which is an artificial intelligence (AI) engine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "publishedDateTime": "2024-02-19T16:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-what-are-the-best-ai-stocks-in-february-2024-our-top-3-picks.md",
-      "title": "What Are the Best AI Stocks in February 2024? Our Top 3 Picks",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in AI stocks is thrilling, especially now in February 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T16:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

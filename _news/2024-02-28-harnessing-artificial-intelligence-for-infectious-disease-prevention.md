@@ -25,75 +25,133 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
-    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
-    publishedDateTime: 2024-02-26T12:59:00Z
-    webUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+  - title: "Infor Nexus Is Taking An Interesting Approach To Generative AI"
+    excerpt: "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception."
+    publishedDateTime: 2024-02-27T20:21:00Z
+    webUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265"
-        width: 7863
-        height: 5242
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 396
+        height: 350
         isCached: true
-  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
-    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
-    publishedDateTime: 2024-03-02T06:47:00Z
-    webUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966"
-    ampWebUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
+  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
+    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
+    publishedDateTime: 2024-02-29T06:50:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/07/meta_ai.jpg"
-        width: 750
-        height: 393
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
-    excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
-    publishedDateTime: 2024-02-27T04:06:00Z
-    webUrl: "https://techreport.com/news/meta-prevent-ai-tampering-elections/"
+  - title: "Six Generative AI Predictions For 2024 And Beyond"
+    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
+    publishedDateTime: 2024-02-26T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/arnaud-jaegers-IBWJsMObnnU-unsplash-scaled.jpg?_t=1709035648"
-        width: 2048
-        height: 1365
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Fears of AI threat to democratic elections"
-    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
+  - title: "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen"
+    excerpt: "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing."
     publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
+    webUrl: "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 66
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
-        width: 700
-        height: 1047
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
-    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
-    publishedDateTime: 2024-02-26T12:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+  - title: "Tim Cook Reiterates Ground-Breaking Generative AI Features Will Arrive in 2024"
+    excerpt: "During its annual shareholders meeting, Tim Cook said Apple will \"break new ground\" in Generative AI in 2024. Shareholders also voted down the proposal asking Apple for an AI transparency and ethics report."
+    publishedDateTime: 2024-02-29T00:34:00Z
+    webUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/"
+    ampWebUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 20
+      name: Beebom
+      domain: beebom.com
+    quality: 55
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/02/Tim-Cook-Generative-AI-features.jpg"
+        width: 1250
+        height: 750
+        isCached: true
+  - title: "Generative AI Advances Showcased at MWC 2024"
+    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
+    publishedDateTime: 2024-02-27T16:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Why Citi is rolling out generative AI to all its developers"
+    excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
+    publishedDateTime: 2024-02-28T01:40:00Z
+    webUrl: "https://www.americanbanker.com/news/why-citi-is-rolling-out-generative-ai-to-all-its-developers"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7bbe3eb/2147483647/strip/true/crop/3000x1575+0+204/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F07%2F775653d8444aa9c315818244d643%2F402523218.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple to Unveil Ambitious Plan to Integrate Generative AI Later This Year"
+    excerpt: "Despite the defeat, the AFL-CIO's Brandon Rees expressed hope for improved disclosure practices by Apple on AI ethics and usage. The AFL-CIO had requested Apple to report on its AI applications in business operations and reveal any ethical standards ..."
+    publishedDateTime: 2024-02-29T04:37:00Z
+    webUrl: "https://www.gizbot.com/internet/news/apple-to-unveil-ambitious-plan-to-integrate-generative-ai-later-this-year-092117.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 38
+    images:
+      - url: "https://www.gizbot.com/img/2024/02/apple-11-1709180634.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How businesses are actually using generative AI"
+    excerpt: "Tools for lower-skilled workers could be more immediately useful. Some simple applications for things like customer service involve off-the-shelf AI. Most customers’ questions are simple and concern a small number of topics, making it easy for companies ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.economist.com/business/2024/02/29/how-businesses-are-actually-using-generative-ai"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 19
 
 secured: "vYart31weOrZcKJ0CxjomwHiq2/Es0cQRfN0l2rV6IRRI8WyYzuI9g+A5ChM5Jayk+mr3Sg/NgbkXdL0bQRyWpfCrUqBhFdIIyVVS4bT52cCASDMesQN9KuQyeOeHVrPEDQd2MJZwZ18fnTeMvsCih98MJgp7mID9HFRDfLXpbFXw0KkWC0FG1HBNIFZuc0VzoPWGZ4rAW8UY+elpqixBSi5knPdpVcl3n5ehM3k0e6wNBKQIYKKuSEMG91zfRMYWXK2fjpZ0dbY+zjKFx0rkw7HGFIfqhYHtBBYQMuMp/GYJ27ZLuiMtOyQ/tDCPzrCxAKTabcFuLeyAZA0WXo7W8oxwu0kl6kEB3kh9YrwPN0=;ETCk3UmgijYjtuh8F9LZ1g=="
 ---

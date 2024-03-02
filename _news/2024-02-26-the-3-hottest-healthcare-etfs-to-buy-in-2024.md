@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Best AI ETFs in March 2024"
-    excerpt: "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 39
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/08/09032927/GettyImages-1495043596.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Compliance Enforcement Trends to Watch in 2024"
     excerpt: "firms’ ownership structures New regulations addressing the use of artificial intelligence in healthcare In short, 2024 promises to be an especially busy year for chief compliance officers, chief risk officers, and their counsel across many sectors and ..."
     publishedDateTime: 2024-03-01T00:00:00Z

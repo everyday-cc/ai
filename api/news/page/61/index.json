@@ -2,6 +2,101 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2024-01-17-the-end-of-google-assistant-google-prepares-to-launch-rebranded-bard-ai-on-android.md",
+      "title": "The end of Google Assistant? Google prepares to launch rebranded Bard AI on Android",
+      "excerpt": "Plus, the company seems to be directly referring to Bard as a digital assistant entirely separate from Google Assistant. 9to5Google, who have done a full deep dive, offers this table here directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/the-end-of-google-assistant-google-prepares-to-launch-rebranded-bard-ai-on-android",
+      "originalUrl": "https://www.techradar.com/computing/the-end-of-google-assistant-google-prepares-to-launch-rebranded-bard-ai-on-android",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/caBse9FshggzUAGoJ6u5wX-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-the-shark-ai-ultra-robot-vacuum-is-back-at-its-lowest-price-ever-at-amazon.md",
+      "title": "The Shark AI Ultra robot vacuum is back at its lowest price ever at Amazon",
+      "excerpt": "SEE ALSO: The best robot vacuums unveiled at CES 2024 go where Roombas still haven't You can control the Shark AI Ultra with voice commands or through the free SharkClean app. Instead of crashing ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
+      "originalUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/076Dm4IcnZ8SCcnGD2GH7pS/hero-image.fill.size_1200x675.v1705506828.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-using-natural-language-processing-to-detect-mental-health-crises.md",
       "title": "Using natural language processing to detect mental health crises",
       "excerpt": "The authors published their work in npj Digital Medicine. Using natural language processing, the team developed a machine learning (ML) system called Crisis Message Detector 1 (CMD-1) that can ...",
@@ -980,91 +1075,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-accelerating-sustainable-modernization-with-green-it-analyzer-on-aws.md",
-      "title": "Accelerating sustainable modernization with Green IT Analyzer on AWS",
-      "excerpt": "Businesses are increasingly embracing high-performance computing, artificial intelligence and machine learning.\nThe post Accelerating sustainable modernization with Green IT Analyzer on AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "originalUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-top-financial-services-trends-of-2024.md",
-      "title": "Top financial services trends of 2024",
-      "excerpt": "Check out these seven financial services trends and how your company can use them for competitive advantage in 2024. \nThe post Top financial services trends of 2024 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/financial-services-trends/",
-      "originalUrl": "https://www.ibm.com/blog/financial-services-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

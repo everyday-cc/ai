@@ -2,6 +2,101 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2024-02-05-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila.md",
+      "title": "Bell to Deploy Deep Learning AI on Systems and Data in 18-Month Partnership With Mila",
+      "excerpt": "Mila and Bell are pleased to announce an 18-month collaborative project to apply deep learning neural network algorithms to Bell's systems and data",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/15ff7f43bd0cc2d1cd56f576e4b3d532.jpg?t=20240205_014804",
+          "width": 753,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T01:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-aisee-wearable-tells-blind-users-what-theyre-holding-in-their-hand.md",
+      "title": "AiSee wearable tells blind users what they're holding in their hand",
+      "excerpt": "The scientists are now working on making the technology more affordable and ergonomic, plus they hope to boost the processing speed and improve the object recognition algorithms. \"At present ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/aisee-wearable-blind-object-recognition",
+      "originalUrl": "https://newatlas.com/wearables/aisee-wearable-blind-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/eea6137/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F47%2F3a%2Fce765bcb47b2bd2cb9430ad429be%2Fhoto201.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-best-robot-mops-of-2024.md",
       "title": "Best Robot Mops of 2024",
       "excerpt": "Designed with pet owners in mind, the Shark Matrix Plus is a 2-in ... Many are accompanied by a smartphone app that allows you to control your mop and schedule cleanings remotely via Wi-Fi. Some robot mops use a combination of AI and 3D technology to ...",
@@ -1041,92 +1136,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-biden-arrasa-en-las-primarias-de-carolina-del-sur-y-llama-perdedor-a-trump.md",
-      "title": "Biden Arrasa En Las Primarias De Carolina Del Sur Y Llama \"Perdedor\" A Trump",
-      "excerpt": "Añade citas de Biden, simpatizantes demócr... Already a Barron's subscriber? Sign In",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
-      "originalUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP8281762384358363907959724513602719109110---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
-      "publishedDateTime": "2024-02-03T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating.md",
-      "title": "Microsoft Azure: The Hidden Insights Beneath The Surface, Reiterate Buy Rating",
-      "excerpt": "On the latest fiscal Q2 earnings call, CEO Satya Nadella offered new insights into how Azure is capitalizing on the AI opportunity. We simplify the jargon and complexities to help investors better ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4667196-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating",
-      "originalUrl": "https://seekingalpha.com/article/4667196-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1920932608/image_1920932608.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T21:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

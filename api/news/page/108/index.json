@@ -2,6 +2,92 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-11-30-deepminds-ai-discovers-800-years-worth-of-knowledge.md",
+      "title": "DeepMind’s AI discovers ‘800 years’ worth of knowledge’",
+      "excerpt": "Related video: AI must not move fast and break things, says Deepmind founder Google’s leading AI division DeepMind claims to have unlocked “800 years’ worth of knowledge” after discovering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/11/30/09/deepmind%20ai%20materials%20discovery.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/deepmind-ai-discovery-materials-crystals-b2456029.html",
+      "publishedDateTime": "2023-11-30T12:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-gesture-controlled-robot-arm-is-a-nifty-educational-build.md",
+      "title": "Gesture-Controlled Robot Arm Is A Nifty Educational Build",
+      "excerpt": "Traditionally, robot arms have been controlled either by joysticks, buttons, or very carefully programmed routines. However, for [Narongporn Laosrisin’s] homebrew build, they decided to go with ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2023/11/29/gesture-controlled-robot-arm-is-a-nifty-educational-build/",
+      "originalUrl": "https://hackaday.com/2023/11/29/gesture-controlled-robot-arm-is-a-nifty-educational-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2023/11/F1U4GZ0LP8CJKO4-e1701171720301.jpg",
+          "width": 2583,
+          "height": 1451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-google-deepmind-ai-predicts-2-million-novel-chemical-materials-for-real-world-tech.md",
       "title": "Google DeepMind AI predicts 2 million novel chemical materials for real-world tech",
       "excerpt": "Google DeepMind’s AI predicts the structures of two million materials, with potential for batteries and chips.",
@@ -1036,92 +1122,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-gm-to-cut-spending-on-cruise-self-driving-unit.md",
-      "title": "G.M. to Cut Spending on Cruise Self-Driving Unit",
-      "excerpt": "General Motors will “substantially lower spending” on autonomous vehicle efforts in 2024 after accidents with its self-driving taxis in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
-      "originalUrl": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/11/30/multimedia/29bizsky-gm-cruise-print/29gm-cruise-hcjk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T21:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-accelerating-gene-therapy-production.md",
-      "title": "Accelerating Gene Therapy Production",
-      "excerpt": "A key challenge for gene therapy is to minimize the dosage while concurrently devising more targeted delivery vectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
-      "originalUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -35,15 +35,6 @@ related:
       domain: forbes.com
     quality: 47
   - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months CHICAGO, IL / ACCESSWIRE / February 26, 2024 / AVIA, the leading healthcare digital transformation partner, shared the six-month milestones of ..."
-    publishedDateTime: 2024-02-26T13:04:00Z
-    webUrl: "https://www.charlotteobserver.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 0
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
     excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
     publishedDateTime: 2024-02-26T16:04:00Z
     webUrl: "https://www.kansascity.com/press-releases/article285939161.html"

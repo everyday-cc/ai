@@ -25,68 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "What's Stopping Cybersecurity From Being AI-Driven?"
-    excerpt: "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI."
-    publishedDateTime: 2024-02-26T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/"
+  - title: "2024 Tech Trends Projections for Indian Fintech Industry"
+    excerpt: "The Indian fintech industry for the year 2024, authored by Narendra Babu, the Chief Technology Officer at PayU. It outlines six key trends, including the integration of advanced technologies."
+    publishedDateTime: 2024-03-01T09:53:00Z
+    webUrl: "https://www.dqindia.com/business-technologies/2024-tech-trends-projections-for-indian-fintech-industry-4168256"
+    ampWebUrl: "https://www.dqindia.com/business-technologies/2024-tech-trends-projections-for-indian-fintech-industry-4168256"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/business-technologies/2024-tech-trends-projections-for-indian-fintech-industry-4168256"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 862
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/hPhwpXCD6Gnfl50cqL8z.jpg"
+        width: 1162
+        height: 675
         isCached: true
-  - title: "Understanding The Limits Of AI And What This Means For Cybersecurity"
-    excerpt: "4. Incorporate a code of ethics for AI processes. For the most part, lawyers, doctors, airline pilots and other professionals operate under a code of ethics. Why this code exists may have to do with how professions play a central role in the development ..."
-    publishedDateTime: 2024-02-29T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/understanding-the-limits-of-ai-and-what-this-means-for-cybersecurity/"
+  - title: "Top trends in tech that professionals should look out for in 2024"
+    excerpt: "As data keeps proliferating online and in technology like the cloud, organisations will need to make cybersecurity a business priority"
+    publishedDateTime: 2024-03-02T03:55:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
-    excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
-    publishedDateTime: 2024-02-26T16:21:00Z
-    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-organizations-should-know-about-cybersecurity.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
     images:
-      - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-01T173328.867.jpg"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
-  - title: "Why cybersecurity skills are coveted in fintech"
-    excerpt: "In areas such as AI and cybersecurity, those with the necessary skills and ... that new solutions are found to deal with online fraud, particularly within the fintech sector. While the above stats sound positive, the one thing getting in the way of the ..."
-    publishedDateTime: 2024-03-01T10:02:00Z
-    webUrl: "https://www.finextra.com/the-long-read/959/why-cybersecurity-skills-are-coveted-in-fintech"
+  - title: "Why fintech startups need to prioritize email security"
+    excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
+    publishedDateTime: 2024-02-29T18:46:00Z
+    webUrl: "https://techbullion.com/why-fintech-startups-need-to-prioritize-email-security/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+  - title: "Anyone nostalgic for the pre-SVB fintech era?"
+    excerpt: "In the UK, KPMG’s Pulse of Fintech, a biannual report on fintech investment trends, saw fintech investment down 34 per cent in 2023, while retaining a lead in Europe. KPMG also found that total fintech investment in the Emea region dropped to $24.5bn in 2023, down from $49.6bn in 2022 and the lowest level of fintech funding in seven years."
+    publishedDateTime: 2024-02-28T09:08:00Z
+    webUrl: "https://www.thebanker.com/Anyone-nostalgic-for-the-pre-SVB-fintech-era-1709108803"
+    type: article
+    provider:
+      name: The Banker
+      domain: thebanker.com
     quality: 24
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/959.jpg"
-        width: 799
-        height: 449
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https://www.thebanker.com/var/ezflow_site/storage/images/media/images/liz-headshot-july-23/12744001-1-eng-GB/Liz-headshot-July-23.jpg?source=specialist-tb-article&width=816"
+        width: 816
+        height: 459
         isCached: true
-  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
-    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
-    publishedDateTime: 2024-03-01T13:06:00Z
-    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+  - title: "Socure Teams Up with Open Banking Fintech Trustly"
+    excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
+    publishedDateTime: 2024-03-01T08:50:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222107-socure-teams-up-with-open-banking-fintech-trustly/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 23
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
 
 secured: "DPiK6z5dIl1ZAFsHoZAfvR1S1OAfceBpR6PrHdVtAEfAI4nQeDWxS40wHRh4fcdCTIMf+uPvoVo+T0XOis+Z5WzA+VCEwhkyfGTX2zMeGnwkeFwReYNoL95cYgOckKV3HW6ACprp3s8TEB8BStp4UM+S2S5f50wABuacb9qFzXlLq23JtNa63AqGGDSLxOcTIFVMpplAgZisqab+T2OfBu41/ZyvSbcE89amkd8uvmH6bV8iG9GoIOxnx6qdBkh4TPIMjQvL8qT3rfzmwngoKnSeB8p54F0c1v7ehgxeRleuhosm7QG/xhqvjubVScdxoIJ0LrE6ql69tz5O9jLymwFFOZ00ZKeoptCffBdZr4t1fb0iPVadpGmDB6TJ9UOwldqYEUClBU06/reuBYO23RuPNzZVDJBLfgPkTnETaiOssQhen2hL6uwU3crQ5icUaSxvI6feGUkWin+m3NG3KNw5g4f3mjtK9A++oZ2/jvXbc6O5tNv2HV4apou9Z79rxTB6hRaWQyhnzsMpQKDb/A==;wIOf8KvOl7hKpJbJBtwOCw=="
 ---

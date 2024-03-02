@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google DeepMind taps the power of its AI to accelerate quantum computers"
-    excerpt: "Together with Quantinuum, DeepMind has developed a new AI model that can boost the development of quantum computers."
-    publishedDateTime: 2024-02-26T12:24:00Z
-    webUrl: "https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-26-10.jpg&signature=ae2affe139ede8d7a42bcbe87df8d1c8"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Expect AI-made prescription drugs to be ready for clinical trials in a couple of years, predicts Google DeepMind CEO"
     excerpt: "Google DeepMind CEO Demis Hassabis discussed his prediction on an episode of The New York Times podcast \"Hard Fork\" released Friday. \"I think we are very close,\" Hassabis said when asked about ..."
     publishedDateTime: 2024-02-26T21:11:00Z
