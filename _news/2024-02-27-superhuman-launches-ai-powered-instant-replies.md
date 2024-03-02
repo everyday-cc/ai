@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How an AI-Powered Dog Food Brand Secured $2M in Seed Funding After Launching Its First Product"
-    excerpt: "Vazin bootstrapped the company to create its core ingredient: GreenMeat, its plant-based meat, which it developed using artificial intelligence to optimize both its nutrition and palatability. In 2022, PawCo officially launched."
-    publishedDateTime: 2024-02-26T22:43:00Z
-    webUrl: "https://www.inc.com/rebecca-deczynski/how-an-ai-powered-dog-food-brand-secured-2m-in-seed-funding-after-launching-its-first-product.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 25
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/pawco-dog-food-mahsa-vazin-inc_537845_j0nteo.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "DcQtUiCfDIkthe1A1b9pMmMm0hymULBtI2xArZZV1fTpWFfq27dlQA4+NDj7cz3vzxuewqT1BKHkOyd7OyvCJXfEwzJ0Lz+QHBXGSZouSmiAPNTeAkwQu3xBdY0szMbKf5zCtjzW8lDDcm6a7JzJNIZ/wyNzFxzI7XGeTGJYSfTJ0dkyk5Dvakre2aphnHAkPa8lbLFujR6vTJC6HdhsC44yzWd4maElbPUZgqXKcdfJpgvZTp0jyrSCCV8w3dZGPsi9MTmQj68GSflZBDCmB7k9ydhx/bqpwewvYJJlw+Wf9s3KJb5hCHFYzmRM0tZJw3t4omjpJxsHVZloZqtPJ+gQ4GiU68dxMpmZPCP+87Y=;o05kIeOSytrR9spqKXgZLA=="
 ---

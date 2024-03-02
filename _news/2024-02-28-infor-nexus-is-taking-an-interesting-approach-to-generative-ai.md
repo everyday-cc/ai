@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -150,6 +150,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 15
+  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
+    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
+    publishedDateTime: 2024-03-02T19:16:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 6
 
 secured: "jx+fWe7XhkUNKnkccBpMmpd6xYkKgUlUsZZUFfvvURYZ+cVNEwY7eCQqU6SD9hF3Icdu/h9uS2IjwOstTel/H8hPr9nE0Ep5ymE8l6nbfeErqSEorfoXAM9pnr6AdVfZbZlH8gyRIZBqNTtVApaKY5xyh3AaTVQ7Sy5M4Fl90eOgAPl6Mupvz/4S/Wi0KMaPfk/TTqVdjx7dRigOlJ9PtI4LT6IXyzjPHvtiE21qlxDu7Mue4njtuXr5K342MLUVnD+gw2DR7Y/y82WIj+Aro2BZONb1du8EG16UxWgq9QE1bUWot6vowCei3zp/pjl8CbZIC+gvrTOKCwegNugNRNjtBwvR0A10PicZ0sCSP3h9HSGEIUORn9Ru8+0/gonHTXKDqdwcMx6RAT0yI/eXypzOgJPgqkaGwRnys/YEnSyRpwHUJ17kTTnGcUkCMGolaFLXt8nd29pmrlQfPAb40m6SBy39qwuQJbK2goWWSM9qC5BUvZqNR0QG1J2YXVILAoV5P+1Phu3TdGi8XMl9WQ==;pBLKmRW+A/rwNp8zoneDMA=="
 ---

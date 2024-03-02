@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Expect AI-made prescription drugs to be ready for clinical trials in a couple of years, predicts Google DeepMind CEO"
-    excerpt: "Google DeepMind CEO Demis Hassabis discussed his prediction on an episode of The New York Times podcast \"Hard Fork\" released Friday. \"I think we are very close,\" Hassabis said when asked about ..."
-    publishedDateTime: 2024-02-26T21:11:00Z
-    webUrl: "https://www.businessinsider.com/ai-drugs-medicine-clinical-trials-years-google-deepmind-ceo-prediction-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/ai-drugs-medicine-clinical-trials-years-google-deepmind-ceo-prediction-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-drugs-medicine-clinical-trials-years-google-deepmind-ceo-prediction-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/65dcf24390413ab8e1d6efee?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
     excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."
     publishedDateTime: 2024-02-27T13:58:00Z
@@ -124,6 +108,6 @@ related:
       domain: technologyreview.com
     quality: 14
 
-secured: "OZ8nx7iTATP9X6eYGiyss0qUTDMTksHYlYg73uW0lthsLoG03zLoiKyFs6uMgT/IbxjAmV/KUsOQh9sxcL/qS3IvaDg85wNP6aZY7hd1mV948tFwpq4ysfAheRuheSO6dgTc9XBplNlceCfpKpeA1IOVEJGGN8TnjLncBr9Hce/PmvNN8WUVJp+IbL1Q4rva2OO3/RWD1miqtx9L7gvfTGDYBYkKAxdGMtNOu+C4587Bc1VNkTKrtMqa8NEQ0y6OkIVHBlQl2lO1v/sSGHXxJ0fEdPwfE6zKnshr/D5vL7yTFBo83wZuBsR6ctsArpJpRkEXECZOUoupI99gZqQjqpineE7p77jOymvXHQ7+gOs=;3bn+xeQ1OO9NJF88NDZC9g=="
+secured: "L5lAU0VE0MFmai1GxZwlvH5pUI6WaDOvlBNqdSpNLrlm/+sMqyego226p54uaXw0v/PP1d6qjHuLxIpFbwsspq6SgtTwr41xLMo38ASqK9+Y0W2fpCG03b5crPVfXPFCO4ZRjAlB7n922jStx1ha4Y3hCX3KFH7ESIF0fxnXkDx1bQtX650okkVDI2EmuBh/IJG2VAUBzjY3jlY739QBJzDPgV0rXy8HydZRwnasedqrBppzKpAs8i4II5lvZcA+Uh7xggXJP0CxVgfBhkprD22CqAbVgtQLuyxGmbDhi+dvBpjt//tCqmxTObe6MPAfEoVBfGY3bw4EXRj8uAk50/CqHadhLD2Lpiw7RW5QFdUCi1cPtSnkAdvIgQRxEs+lWr/8c7fwI/dxGBcrYGmbk4JtRYdRaYwb1xhLAD2hCW5MoezPplP5E4wVWbifNXfpku9Su/kb+bh7v4GfWNsJmfTTfsA/q/c9uWV1ko7TPmCKFXKnnNG1L40w4nZQiO7uaw9OkasLvJKR21qASjeFOA==;qSHmDRkQTH0AnJ7hf13wUQ=="
 ---
 

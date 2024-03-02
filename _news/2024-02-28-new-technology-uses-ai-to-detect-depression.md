@@ -41,19 +41,35 @@ related:
         width: 1478
         height: 900
         isCached: true
-  - title: "The National Science Foundation wide-and-far on artificial intelligence"
-    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
-    publishedDateTime: 2024-02-29T20:29:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
+  - title: "Humanizing Technology: The Role of AI and Robotics in User Experience Enhancements"
+    excerpt: "In the digital era, the convergence of artificial intelligence (AI) and robotics has transcended mere automation; it has ushered in a paradigm where technology aims not just to serve but to enhance the overall human experience."
+    publishedDateTime: 2024-02-27T14:24:00Z
+    webUrl: "https://techbullion.com/humanizing-technology-the-role-of-ai-and-robotics-in-user-experience-enhancements/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 63
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-27-at-7.23.43-AM-975x600.jpeg"
+        width: 975
+        height: 600
+        isCached: true
+  - title: "Start-up Street: Can India be at the forefront of AI technology?"
+    excerpt: "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field"
+    publishedDateTime: 2024-02-29T04:02:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
   - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
     excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."

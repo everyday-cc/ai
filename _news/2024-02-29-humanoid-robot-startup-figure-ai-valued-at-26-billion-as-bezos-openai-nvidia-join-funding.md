@@ -1,35 +1,22 @@
 ---
 category: news
 title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
-excerpt: "The company said Thursday that it raised $675 million at a $2.6 billion valuation from investors including Jeff Bezos, Nvidia, Microsoft and Amazon ’s $1 billion Industrial Innovation Fund."
-publishedDateTime: 2024-02-29T11:00:00Z
-originalUrl: "https://www.cnbc.com/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
-webUrl: "https://www.cnbc.com/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
-ampWebUrl: "https://www.cnbc.com/amp/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
+excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
+publishedDateTime: 2024-02-29T14:42:00Z
+originalUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
+webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
 type: article
-quality: 95
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI
   - AI in Robotics
-  - Microsoft AI
-
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015"
-    width: 2000
-    height: 1500
-    isCached: true
+  - AI
 
 related:
   - title: "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker"
@@ -260,6 +247,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI Startup Making Humanoid Robots Raises $675 Million From Bezos, Nvidia, Others"
+    excerpt: "They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure, the startup said Thursday, valuing it at $2.6 billion."
+    publishedDateTime: 2024-02-29T18:06:00Z
+    webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 59
   - title: "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids"
     excerpt: "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software."
     publishedDateTime: 2024-03-01T05:43:00Z
@@ -388,6 +384,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "xQhFukpDKhUFELb1niOszn3RTrxAlrM9rl7fsm7lM7WGxzFKvSpir1FqV2KPmKpKCLFyZEdOaKJc4b6GoYXykU2BG56Fjp8iPmr7XSyCtkMFRCWofVmyhSxoNvRgYWn6JkKLMJHAge27Ab3JrFtC6E00CgE+KW3sHqazA43j/zBrtgeY+9zzPzHDWagRZqyAfEfmN/QA0QJ6atNuSmqbKRL2vJsex8RwFc4WCAvXzGUGwNLK7XczWR+l9Vf2TIX7CTaT5/dOT7Icg5Ae8BswU9viC6Fxs4mtJyk7ECVPQkyxg3M3f/JlSeiyUdxZzP97NZiMdFoOzYnzHAgRn9gTbe/9sjUuq8Z72IFY2nkTGb+w+SoQ2tDO8gNFUZOHwKIcfSPhuk3MNO2XdaNqFPMu/gJ1NM8VNOxbKahcFFH98SnL3R3+npWaBjF0V8DY4QrqbAogiDWmFJY1tSvLQXMAKgwMy3Tzh1WMB07otZr6ntB/jBoOjNFSJ7qsbkg/G5xdXs8ffKt9QZQlEOyL8pbSJA==;v3ZmoBrbcIQoGRTX/AFEhw=="
+secured: "xSlaVsEfFgf+0XcXpZM3UFBuVrIVhD4/KzUaKIBxALBIjGd8LPfDlUwRSRAUEF0tDzQZ66MMANoLBjt+F7fkneOOFN0KONEmneNCRGckWZB1/77WsGmGA8qmjiLCN3VTUQxECFtVmNm2SnJm+6eQ01VyZ+HS/9+1fqOSAMKtpWHRRBTC/lebhTjRQRa7K6UbYq/47V5HNdKOqm2ZZIPkkXje/ILVl0IHJy0eKEZAemnlKFBMBlZIgL2YRR3VkQsIryYx2xsHijTDEAA1rg6Vizxr6N4CROJpPYQI7pbaLdq1ogfIvMS4Pf7pkCBLk56mnoD9LdnXWQuYjTrutjjEkZMsAh6B/JRI4d1ldWjotAY=;7UHeJz2mnxFHEvfTuMyI1w=="
 ---
 

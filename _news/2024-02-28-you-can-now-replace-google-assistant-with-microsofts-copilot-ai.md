@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft reveals new AI Access Principles for its services and infrastructure"
-    excerpt: "Microsoft says developers can pick how their AI models are sold, distributed, and used on Microsoft's Azure services. The company claims it will make it easier for developers to switch from Azure to another cloud developer. Also, Microsoft will not use any ..."
-    publishedDateTime: 2024-02-26T22:10:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reveals-new-ai-access-principles-for-its-services-and-infrastructure/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 100
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/05/1685285989_microsoft_story.jpg"
-        width: 760
-        height: 451
-        isCached: true
   - title: "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI"
     excerpt: "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges."
     publishedDateTime: 2024-02-29T23:00:00Z
@@ -357,31 +341,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Microsoft Aims to Empower AI Assets, Competition with Newly-Announced AI Access Principles"
-    excerpt: "The third and fourth AI access principles build upon the second, wherein it specifies that AI models hosted on Azure, including the Microsoft Azure OpenAI API service will now be openly available to software developers via public APIs and a common public ..."
-    publishedDateTime: 2024-02-26T22:01:00Z
-    webUrl: "https://www.techtimes.com/articles/302067/20240226/microsoft-empower-ai-assets-competition-newly-announced-access-principles.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302067/20240226/microsoft-empower-ai-assets-competition-newly-announced-access-principles.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302067/20240226/microsoft-empower-ai-assets-competition-newly-announced-access-principles.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 64
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443003/microsoft-unveils-new-surface-laptop.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Microsoft Strikes Deal with France’s Mistral AI"
-    excerpt: "Mistral AI emerged less than a year ago but is already what Microsoft ... Anthropic's Claude 2 and Google's Gemini Pro and will be available on Microsoft's Azure cloud computing platform. Mistral has also previously said it is teaming up with other big ..."
-    publishedDateTime: 2024-02-26T19:39:00Z
-    webUrl: "https://time.com/6835345/mistral-microsoft-ai-partnership/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 64
   - title: "Microsoft debuts AI-powered Copilot for Finance as it continues company-wide AI push"
     excerpt: "On Tuesday, the company also disclosed it is working with OpenAI rival Mistral and will begin offering that firm’s AI models via its Azure cloud platform. In its most recent earnings report, Microsoft revealed that AI services contributed 6 percentage ..."
     publishedDateTime: 2024-02-29T11:17:00Z
@@ -496,20 +455,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Microsoft invests in start-up Mistral, debuts AI principles"
-    excerpt: "Microsoft president and vice chair Brad Smith outlined a series of principles for the responsible deployment of AI."
-    publishedDateTime: 2024-02-26T21:06:00Z
-    webUrl: "https://www.mobileworldlive.com/microsoft/microsoft-invests-in-start-up-mistral-debuts-ai-principles/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/26202642/microsoft_smith.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Microsoft Partners with OpenAI Rival Mistral"
     excerpt: "It was then accessible through Azure AI Studio and Azure Machine Learning. \"This latest addition of Mistral AI’s premium models into Models as a Service (MaaS) within Azure AI Studio and Azure Machine Learning provides Microsoft customers with a diverse ..."
     publishedDateTime: 2024-02-27T00:00:00Z
@@ -593,20 +538,6 @@ related:
       - url: "https://media.bizj.us/view/img/10377402/virginia-mason-board-member-asha-sharma2017*1200xx1800-1013-0-489.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Now a Microsoft partner, Mistral AI challenges OpenAI with three new LLMs"
-    excerpt: "Mistral is expanding its LLM lineup with three proprietary models headlined by Mistral Large. It can generate text in English, French, Spanish, German and Italian, as well as craft software code and solve math problems. A user prompt may contain up to 32,000 tokens, units of data that each comprise a few letters or numbers."
-    publishedDateTime: 2024-02-26T22:04:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/now-microsoft-partner-mistral-ai-challenges-openai-three-new-llms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Mistral.png"
-        width: 1000
-        height: 561
         isCached: true
   - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
     excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."
@@ -807,15 +738,6 @@ related:
       name: unilad
       domain: unilad.com
     quality: 36
-  - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival"
-    excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
-    publishedDateTime: 2024-02-26T22:16:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
   - title: "Microsoft partners with French start-up in artificial intelligence"
     excerpt: "Partnership provides Mistral AI access to Microsoft's cloud computing platform Azure's AI infrastructure - Anadolu Ajansı"
     publishedDateTime: 2024-02-27T05:58:00Z
@@ -852,15 +774,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival that has its own chatbot"
-    excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
-    publishedDateTime: 2024-02-26T22:16:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-inks-deal-with-frances-mistral-ai-an-openai-rival-that-has-its-own-chatbot/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 26
   - title: "Microsoft signs a partnership agreement with AI startup Mistral, a competitor of OpenAI"
     excerpt: "Microsoft has announced a new multi-year partnership with Mistral, a French startup specializing in artificial intelligence. This startup is only 10 m"
     publishedDateTime: 2024-02-27T09:10:00Z

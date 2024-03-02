@@ -26,20 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Can We Handle Ubertechnology? Yann LeCun And Others On Controlling AI"
-    excerpt: "“Human intelligence is very specialized,” LeCun said. Instead of AGI, he added, we should be talking about “human-level AI” and, he suggested, we’re not anywhere near there yet. The process, he said, would be to get machines learning as efficiently as humans and animals."
-    publishedDateTime: 2024-02-26T20:49:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2024/02/26/can-we-handle-ubertechnology-yann-lecun-and-others-on-controlling-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/02/26/can-we-handle-ubertechnology-yann-lecun-and-others-on-controlling-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/26/can-we-handle-ubertechnology-yann-lecun-and-others-on-controlling-ai/amp/"
+  - title: "How AI Will Spur The Democratization Of Technology In 2024"
+    excerpt: "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead."
+    publishedDateTime: 2024-02-28T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dd0676ec19ddf9cbc69504/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65299ef3b71b98caddf7c4c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1478
         height: 900
         isCached: true
   - title: "Humanizing Technology: The Role of AI and Robotics in User Experience Enhancements"
@@ -55,6 +55,34 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-27-at-7.23.43-AM-975x600.jpeg"
         width: 975
         height: 600
+        isCached: true
+  - title: "New technology uses AI to detect depression"
+    excerpt: "Researchers at Dartmouth’s Department of Science and School of Medicine in New Hampshire created a prototype of a smartphone app, which has facial imaging processing software."
+    publishedDateTime: 2024-02-28T02:48:00Z
+    webUrl: "https://www.wsls.com/health/2024/02/27/new-technology-uses-ai-to-detect-depression/"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-27-2024/t_8de89b85f1704088995080cbfb473ad2_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
+    excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/phones/best-of-mwc-2024"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Kps6jkiXFHhVXoPwVL5dDc-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "uETO00tZyF4Y1WDQ3ArP+fyTDDvWCtDJS5z/4/BlL5+k+WWnQZVrlpanY4wjnS9egOCbHiPnlc8iXKIbb4GJ3XZyZBEgyFhkpQ4FQ34TPX6fDEKCUeZ/TDc21JmlwtTqK1BVXXQEnZfG1dS3Q3+uRbhe6bQ92vZVw3Hq2/tGTlaIVTk1Q2D0tC0x+Uvr32Zchy+YKl4bpqEEDXDAUNnZOxd75ivr8JInTHdwL49YXIiK5Ff19votJSaihx24SW0Y0JyB4vXpTQVSicFwVcHQ/gdF1iBvI2g68KmNoeFrD02VdYG7E+uPGUuBpUhVyNgv+5GOHv5H4QSM9Rk490rxrrOGXe01wfnbSYOca1R9PPA=;58ky/N/+io+d3cK/wT4s5g=="

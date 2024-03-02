@@ -101,20 +101,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple Is Scrapping Its Electric Car and Moving Employees to AI"
-    excerpt: "The company canceled a decade-long, multibillion-dollar effort to build an EV and plans to move some employees to its generative AI division."
-    publishedDateTime: 2024-02-27T22:23:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/apple-is-scrapping-its-electric-car-moving-employees-to-ai.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/apple-logo-GettyImages-1863293981_537906_km7yao.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Apple scraps plans to develop self-driving electric car | What was ‘Project Titan’ all about?"
     excerpt: "After working on it for 10 years, Apple has decided to cancel its plans to build electric vehicles (EV) just when China’s Xiaomi showcased its Su7 at the mobile world congress in Barcelona. What was reportedly known as the Special Projects Group as part of its chief executive Tim Cook's Project Titan,"
     publishedDateTime: 2024-02-29T07:27:00Z

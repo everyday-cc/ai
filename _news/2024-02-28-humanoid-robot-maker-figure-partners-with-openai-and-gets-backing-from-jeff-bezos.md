@@ -65,22 +65,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
-  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
-    excerpt: "The company said Thursday that it raised $675 million at a $2.6 billion valuation from investors including Jeff Bezos, Nvidia, Microsoft and Amazon ’s $1 billion Industrial Innovation Fund."
-    publishedDateTime: 2024-02-29T11:00:00Z
-    webUrl: "https://www.cnbc.com/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 95
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "OpenAI and Microsoft focus on robotics with Figure AI deal"
     excerpt: "Figure AI said it will also leverage Microsoft Azure for AI infrastructure, training, and storage. The tech giant supported OpenAI on its development of ChatGPT – one of the major products that launched the recent focus on generative AI technology."
     publishedDateTime: 2024-03-01T10:47:00Z
@@ -263,6 +247,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI Startup Making Humanoid Robots Raises $675 Million From Bezos, Nvidia, Others"
+    excerpt: "They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure, the startup said Thursday, valuing it at $2.6 billion."
+    publishedDateTime: 2024-02-29T18:06:00Z
+    webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 59
   - title: "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids"
     excerpt: "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software."
     publishedDateTime: 2024-03-01T05:43:00Z
@@ -381,6 +374,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
+  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
+    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
+    publishedDateTime: 2024-02-29T14:42:00Z
+    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 23
 
 secured: "CdEyqQrL8JuUjWR4ci8iQBFyKvlIAW8aZrNLasyViSZtpDojwWCzBxp7V9iIaAYLHMYfF+nFxH7EU0emRGdNvVTjzuSkxlZueJTqsY6aC/Mu8jdsw47DmZi6ih8GF60ZLVLyLdVf6nFGMyh6r9AK4UFEfxHO2BjhkbVKK40pX2rG8CLNAx6iOykk78yOVrDve3nkEbBgExqLoAXtIxM0DqWW3fl7lHGX2Zebk0aQtE+PBzZkc8yXFY2s5c/sZAk7JTewBygrC1AS1uKwgc7SIz/ZCkvWjMBEYatdm9hB5YH/SUo4b7ExCyp98zqOitjSNrngEVm78/to8BVWJvswlDORXXhFKcx2UAY6iGhzM8J8fbYSZQYiZtAqIkYaOWpeGga32RmvAskLDEG9uzY39iDhgXC3Hu2YDp/Ds4YiULH0P0Nk0/S4dnOuFhaLT8eN0B8Vx96h/MeuTSRgnBqUJXSIuy5Lrku1tuo20ZvpoNtLLCeuKO4nUzrs06daKwwtDAz60rHVKOBI/3SFuZZRpQ==;qSxrmUkfTEl3vrSrQ4KNjA=="
 ---

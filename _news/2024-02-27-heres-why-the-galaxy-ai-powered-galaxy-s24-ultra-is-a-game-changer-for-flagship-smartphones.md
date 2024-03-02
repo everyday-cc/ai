@@ -43,15 +43,6 @@ related:
         width: 630
         height: 419
         isCached: true
-  - title: "Samsung Galaxy Book 4 AI-Accelerated Laptops Available Now Starting at $1,450"
-    excerpt: "The new laptops and two-in-ones keep 2023's attractive designs but have boosted performance from Intel's Ultra chips and Microsoft's Copilot AI assistant. Managing Editor Josh Goldman is a laptop expert and has been writing about and reviewing them since ..."
-    publishedDateTime: 2024-02-26T20:25:00Z
-    webUrl: "https://www.cnet.com/tech/computing/samsung-galaxy-book-4-ai-accelerated-laptops-available-now-starting-at-1450/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 46
 
 secured: "oQkEEHb9moTHFVUZagr3q/1MjthiEz7RKyuquJv0GaB8hNe8/wldaFDmTPpKsw94/kn8kPlJjJj9x+iIHBcbFxeiLLJ/o2TDoqIDkYIA70GrQvgrDF7Al0xS/AmUQrnPIiI6Si8XzjmBWBNwS8OoRSXtQQdxHy5quKgVZxaTTp4t1JxooQVW5SpAu66Fvd7RajPcP/6fTdHQjxi1S0Y448UeW2O3PuyT5L6MiV73wHAFdRQ/+WslpmFmgNpHs55D4vMMd7EUtGcX0GfTI22uOlYmFHVX5FOwF4CApG2UH99M28aeaI42oAqct6+0Lsjk8+yLJanrzMSR7AVAVEUqi23t09h0S3QYjxEGp//PmYo=;tSW9+SD3aC2u0QwA+FNIRA=="
 ---

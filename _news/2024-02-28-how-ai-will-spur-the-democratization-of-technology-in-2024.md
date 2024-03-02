@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "Humanizing Technology: The Role of AI and Robotics in User Experience Enhancements"
+    excerpt: "In the digital era, the convergence of artificial intelligence (AI) and robotics has transcended mere automation; it has ushered in a paradigm where technology aims not just to serve but to enhance the overall human experience."
+    publishedDateTime: 2024-02-27T14:24:00Z
+    webUrl: "https://techbullion.com/humanizing-technology-the-role-of-ai-and-robotics-in-user-experience-enhancements/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 63
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-27-at-7.23.43-AM-975x600.jpeg"
+        width: 975
+        height: 600
+        isCached: true
+  - title: "Start-up Street: Can India be at the forefront of AI technology?"
+    excerpt: "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field"
+    publishedDateTime: 2024-02-29T04:02:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
   - title: "New technology uses AI to detect depression"
     excerpt: "Researchers at Dartmouth’s Department of Science and School of Medicine in New Hampshire created a prototype of a smartphone app, which has facial imaging processing software."
     publishedDateTime: 2024-02-28T02:48:00Z
@@ -43,20 +73,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-27-2024/t_8de89b85f1704088995080cbfb473ad2_name_image.jpg?_a=ATAPphC0"
         width: 700
         height: 394
-        isCached: true
-  - title: "The National Science Foundation wide-and-far on artificial intelligence"
-    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
-    publishedDateTime: 2024-02-29T20:29:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
-        width: 2560
-        height: 1708
         isCached: true
   - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
     excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."

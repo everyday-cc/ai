@@ -97,16 +97,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mistral AI Advances AI Accessibility: Unveils Mistral Large and Mistral Small Language Models, Integration with Azure Platform"
-    excerpt: "Mistral AI, an AI company, has introduced Mistral Large, its latest advanced language model, offering top-tier reasoning capabilities and multiling"
-    publishedDateTime: 2024-02-26T19:46:00Z
-    webUrl: "https://news.europawire.eu/mistral-ai-advances-ai-accessibility-unveils-mistral-large-and-mistral-small-language-models-integration-with-azure-platform/eu-press-release/2024/02/26/20/35/28/130787/"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 6
 
-secured: "u90damtqc/CJ7EWQrfPJOyk6ZfzbE0D1CjTtSGK5XGFkUPU+4jm9h47BXzBRPU6ZdALU6Q2HexsKZtArQzFI/kUHv62yPFuUsgXZ3ZloLbaMXPR8rASML1bSBzZSROtAcaajpcy+6jV6czp90OzyDFjJ5hyZJmMr74KZcgNthR1ZqRDMEU6l7ZVFPikTTr35Xd12Hjj1eK5+/YH/Jdr7L4/9NFGtphxucCGkMDvSus//J96sdJA7iCF66HW8dFS5fmdYX1Y0fCt6iBXB1jyxmiDq4Kd0TuIGeJDxSFP+iU6ejJaz2szyrzXYsCV7ITTg7pvT/L0JRW0FTJSR0cVbqqAl3//SSEGb0pJGDPJOnsU=;jEKuBl5qqmGgqir1rR0S4A=="
+secured: "CDduc4iwWFr0OBxIzmVih21Mt55SyG3HNZ985DUdA3LpjLcmA2ugz1w5dPfgkWs0XsmYYaO3AxxyN4kbpE+aHqoRqqgoZeits45XCwRFvuB6LqvrY9LJoZRSTfWHxIVDbjK3XW3Y/nnoeLjlIkX1M66cgSjDRWcBR7y5emddKqXRIaCBOOeFg3LyFDjptoEwk1S8gOFc2lC+A24XQEaAh4XHnXRrbti3jaCzL4zp9CZo1vGlqQPO3HxDUDTwfinmkrf9YOq0qljAXB03YRGYn3PtJqEQNu7fnKAAvvGI8BBEepmjZTd+7O0q6uswE/Nb/G/onZpsqgp59YsTzKnHO/GTPHnGK/PSfhSosA3zrOg=;nXPBYmm9AQ/9qzNQC99jRQ=="
 ---
 

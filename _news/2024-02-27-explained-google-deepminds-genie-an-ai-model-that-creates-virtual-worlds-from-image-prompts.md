@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Expect AI-made prescription drugs to be ready for clinical trials in a couple of years, predicts Google DeepMind CEO"
-    excerpt: "Google DeepMind CEO Demis Hassabis discussed his prediction on an episode of The New York Times podcast \"Hard Fork\" released Friday. \"I think we are very close,\" Hassabis said when asked about ..."
-    publishedDateTime: 2024-02-26T21:11:00Z
-    webUrl: "https://www.businessinsider.com/ai-drugs-medicine-clinical-trials-years-google-deepmind-ceo-prediction-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/ai-drugs-medicine-clinical-trials-years-google-deepmind-ceo-prediction-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-drugs-medicine-clinical-trials-years-google-deepmind-ceo-prediction-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/65dcf24390413ab8e1d6efee?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI to Design Drugs in the Near Future, Says Google DeepMind CEO"
     excerpt: "Demis Hassabis, CEO of Google DeepMind, predicts that artificial intelligence (AI) could be designing drugs directly in clinics within the next few years."
     publishedDateTime: 2024-02-27T08:22:00Z

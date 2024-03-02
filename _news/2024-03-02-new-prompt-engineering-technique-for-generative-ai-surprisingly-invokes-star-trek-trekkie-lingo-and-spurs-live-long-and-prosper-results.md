@@ -149,6 +149,15 @@ related:
       name: The Economist
       domain: economist.com
     quality: 19
+  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
+    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
+    publishedDateTime: 2024-03-02T19:16:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 6
 
 secured: "G2jklonplU7exMW+WgM46kxB3Z18R5+9lGxH3YkxQcuE540R5Gbk6FwxXKqHsPk/welsfQwn5c8850Va85eWyAFGXVEpRcvoT3eXP7s/lYOvnx/Tp31RArd/5gIfPv1kdCQp/8AjDzxWIJrf83SXw6m8KUWmqJTrp/+UPm52C5G/+0G3Ze1E+aFB+M50ViSBgYWP/CZJ+qMs9vm4QYP4pVGS3vUnh0CfNqXBJwbmJCF4wLcJ/lDlM3EAw9zod+uU8J2hL5Ri7O6ic6JoQVNazus6TwUb0CWP7fFikhNj5DcQYzj62d7B35yRngvzV0MUMvvmJyChJnWA4yrG527zzZl4G6RgT+8k8euc6NshPuE=;Gy/FjeN1NhFdcf1srKT0Ow=="
 ---

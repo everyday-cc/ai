@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Why healthcare lags on AI, per Amazon"
-    excerpt: "Healthcare lags behind other industries in its adoption of artificial intelligence, largely because it lacks training capacity, according to a study commissioned by Amazon Web Services. Here are seven other things to know from the survey of 412 healthcare ..."
-    publishedDateTime: 2024-02-26T21:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-lags-on-ai-per-amazon.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "CorroHealth's AI Solution, REVIVE, Targets Small and Zero Balance Accounts to Boost Healthcare Finances"
     excerpt: "the next evolution in intelligent technology targeting a healthcare system's aged receivables (AR). Building on CorroHealth's previous AR platform, REVIVE is re-engineered with artificial intelligence and automation to effectively recover revenue on small ..."
     publishedDateTime: 2024-02-27T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/metas-zuckerberg-south-korea-expected-214
 webUrl: "https://www.aol.com/news/metas-zuckerberg-south-korea-expected-214401300.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Mark Zuckerberg woos Big Tech in Asia to double down on AI chips"
+    excerpt: "AI processors — the manufacturing and procurement, and the development of cutting-edge technologies that are more efficient than the current generation of chips — have become a major priority ..."
+    publishedDateTime: 2024-02-29T09:30:00Z
+    webUrl: "https://techcrunch.com/2024/02/29/metas-zuckerberg-woos-big-tech-in-asia-to-double-down-on-ai-chips/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "Yoon, Zuckerberg discuss AI, digital ecosystem in Seoul"
     excerpt: "(Presidential Office) President Yoon Suk Yeol met with Mark Zuckerberg, CEO of Meta, formerly Facebook, on Thursday to discuss ways to enhance cooperation in cutting-edge technologies, especially artificial intelligence, upon the US tech giant’s request."
     publishedDateTime: 2024-02-29T06:04:00Z

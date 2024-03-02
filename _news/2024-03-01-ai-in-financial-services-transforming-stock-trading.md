@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-fina
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 101
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 benefits of data lineage for financial services"
-    excerpt: "How can banks, credit unions and financial advisors keep up with demanding regulations while battling budgets and employee turnover?\nThe post 6 benefits of data lineage for financial services appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-26T19:17:03Z
-    webUrl: "https://www.ibm.com/blog/6-benefits-of-data-lineage-for-financial-services/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Legal transparency in AI finance: facing the accountability dilemma in digital decision-making"
     excerpt: "Like hidden gears whirring behind the Emerald City facade, AI algorithms are transforming finance by unlocking efficiencies, predicting trends and personalizing financial experiences. From fighting fraud to streamlining transactions,"
     publishedDateTime: 2024-03-01T16:58:00Z

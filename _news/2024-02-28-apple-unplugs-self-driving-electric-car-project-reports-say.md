@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-68420817.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/07/19/AppleUnsplash@einfachlaurenz.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Apple Is Scrapping Its Electric Car and Moving Employees to AI"
-    excerpt: "The company canceled a decade-long, multibillion-dollar effort to build an EV and plans to move some employees to its generative AI division."
-    publishedDateTime: 2024-02-27T22:23:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/apple-is-scrapping-its-electric-car-moving-employees-to-ai.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/apple-logo-GettyImages-1863293981_537906_km7yao.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Report: Apple Abandons Self-Driving Electric Vehicle Initiative, Plans Workforce Reductions"
     excerpt: "Apple has reportedly terminated its self-driving electric car project permanently, leading to impending layoffs of 'hundreds of employees' within the division. The decision marks a significant shift for the tech giant,"

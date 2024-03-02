@@ -42,22 +42,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Google to relaunch Gemini AI picture generator in a 'few weeks' following mounting criticism of inaccurate images"
-    excerpt: "Google plans to relaunch its image-generation AI tool in the next \"few weeks,\" according to Google DeepMind CEO Demis Hassabis."
-    publishedDateTime: 2024-02-26T20:01:00Z
-    webUrl: "https://www.cnbc.com/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?v=1708024344"
-        width: 4978
-        height: 3323
-        isCached: true
   - title: "Google Gemini product lead retreats from social media after troubled AI product launch led to harassment"
     excerpt: "Jack Krawczyk, Google's Gemini product lead, has gone dark on some of his social media profiles after facing online harassment."
     publishedDateTime: 2024-03-02T02:02:00Z

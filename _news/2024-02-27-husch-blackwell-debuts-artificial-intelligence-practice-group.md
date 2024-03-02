@@ -23,6 +23,17 @@ images:
     height: 740
     isCached: true
 
+related:
+  - title: "Dell Exec Confirms NVIDIA’s Monster Blackwell AI Accelerator Is Coming"
+    excerpt: "In a statement to analysts during an investor call, Dell's COO says Blackwell will be massive when it hits next year."
+    publishedDateTime: 2024-03-02T18:30:00Z
+    webUrl: "https://hothardware.com/news/dell-exec-says-blackwell-2025"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 19
+
 secured: "v9AVwv4JRwl2xTPRVMofZxVB1WvEXpVj3so3lb8GWYT6gtf6V8QMCZ0vnDR+LTadgpMsQJwLeBCgfgXehF2LOUraY5biSjPvSdwRfqreL4dcHIdHfyyotrgxRPPb92hCh6KF7uPUua+WnmQ6sGBgEcOo+uPolqTKtb3SDfYSLoPVt9FelTQqmmhh1J1//Sa6BdV9qdRUnLFmT77VgzeKuw1V/z/ZjeWygOQBOJEJtuTCMBnxYA2JZmy3ogKzqDpnLFzTn2jteTV7ycrY+O6LqgfedocaO6zeZyk5Hijzb0gFPhlidl1g8ec0nNpyYQ0Jth6nn1MkEBqKmNVb25/NNccspwaiEa/mk0cJ6AAsS3I=;q5cNGdI7h2av1FDQ9l1Jgw=="
 ---
 

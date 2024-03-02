@@ -150,6 +150,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 15
+  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
+    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
+    publishedDateTime: 2024-03-02T19:16:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 6
 
 secured: "1GAfW1kfzMNEIPUVbH4TPShlXhL05Hb4Ixk1N7fdbQgQM1lvB0vaoWgUuUKEy0NMpmqrL/qCDIh5bnrfdp5z8G0eTu/KdLo+jb0h3QKkQ51Y/nM7bVG8KdHVaUoCJaMMybwmD0RccIpwF519z44/XCEte7XA/YlOwqWN8Pbhistj5RO7ouOiZM3Xz4BhAfE4sjJOtDFEYolHy1wuxK+i2iZAV22FIgWd+qyAejXuPIzQitaZPY63ZGjBYk/whoR3iu/VNxN0+NH5mr1TAqwhBAzRkTrYctXoE9sMOSCyyKeBQd7afoUXjk0najZXMz5/+8lPp0WWanqRkYQ+n8dlVP7NjO6oVCnrIxG1ub3Fuu3G38YoW9n8JUh85eQ9R8/dGbLaOLXg9fsVJolds/OWRorCD7DAREnISn73kvknm98fvc9eKSl6Yo+sOd4OKM05BO5usMaQ13ry9tX4b8Jk5q83gRDXwwA3GVJMykLrsWRYK3Yo41dsV/nSUKfcq4XDwlN5DvhmTuBCMzAtc+jF7Q==;BYrmy3q8e6+/qbdWxdTY+Q=="
 ---

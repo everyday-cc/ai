@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-sm
 webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mistral AI Advances AI Accessibility: Unveils Mistral Large and Mistral Small Language Models, Integration with Azure Platform"
-    excerpt: "Mistral AI, an AI company, has introduced Mistral Large, its latest advanced language model, offering top-tier reasoning capabilities and multiling"
-    publishedDateTime: 2024-02-26T19:46:00Z
-    webUrl: "https://news.europawire.eu/mistral-ai-advances-ai-accessibility-unveils-mistral-large-and-mistral-small-language-models-integration-with-azure-platform/eu-press-release/2024/02/26/20/35/28/130787/"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 6
 
 secured: "1ZpHsxRSNRRZJtUV7jQ5PK+dDVrnIE6PPU1c5IuYhBlJKfTtP67uyZhcx5JorguJN8efMBM8dEoeDKWP6mIO2vgPhID7RpbtVVX+WLe+9GdQ9i/8fVJrrEswR/GKz+Q0Fu7ygUJI4LCJRy4SmcJNWbj/sNLIEoAXVNna22s95GCGqqQGjKWPTlfqWeEP6KRAv8cH3n4ZICOZgnNwgdFuOGaRh0wgDwzzRQqc6Y0tG6xefMjKyAh1ueJ0372HDxZTI1D3S70joD4MxPDsLvPNf5zP70I1gmTawqqLsIBwMsiXRVjBgCW4Rx1EgdAeDjOLmmFYWV93ZcgYafGwyrJcOnLjObPqy9fqDHzsaJ8lq+s=;KWlRjA2H/Frz6onzlnQqeg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240301050172"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240301050172"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Korea Herald
@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Samsung Galaxy Book 4 AI-Accelerated Laptops Available Now Starting at $1,450"
-    excerpt: "The new laptops and two-in-ones keep 2023's attractive designs but have boosted performance from Intel's Ultra chips and Microsoft's Copilot AI assistant. Managing Editor Josh Goldman is a laptop expert and has been writing about and reviewing them since ..."
-    publishedDateTime: 2024-02-26T20:25:00Z
-    webUrl: "https://www.cnet.com/tech/computing/samsung-galaxy-book-4-ai-accelerated-laptops-available-now-starting-at-1450/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 46
 
 secured: "WmiB2zMBl4B3FJoc3qy40F9hhmsgpVmec3vwQAhKLCuTUUtU1mf2CbBTlmbv+ZN9OB6hzcJGj52B0OT7op1LhC2Iz4sqICUbkGatfwlU++LzyMht3admHLbdiVnCpC5WvvaIragUWrRuFk2sY5Uba1Z4WJ1LDWhRUhIHbmzI1WZwLa3y0hxNwSUBCYHFpXPUKXxyzdw3mH/xJVKu2SLySe4G+fNRGDtiKj3sIJ4haDn3VGr0SVqXQjppwcDzuTNfxDi7vQvJ2vF6LgtSonAKqlUjyd33s6qSs2IGI7z5qc8WQVChJcBiTa1jxujJ3jFEAxEnN308P61SaQ0ORRgEQ/Tn2hqGAf38579veIZ+N1k=;SwlgBC1kgepgQIEo3FsqGQ=="
 ---

@@ -47,15 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Artificial Intelligence’s Impact on Stock Market"
-    excerpt: "Artificial intelligence (AI) has emerged as a significant force behind the impressive gains witnessed in the stock market over the past year. This revolutionary technology has made its mark across various sectors, including healthcare and finance ..."
-    publishedDateTime: 2024-02-26T22:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/24358194/artificial-intelligences-impact-on-stock-market/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 19
 
 secured: "yfkNVI1RON0/oXBu0LvGL5nTRANepD5jrmJU3JWQdzEKJdRgiQDeTeDM5lYx/7uhSfcBiQdVGWlqZ2tdPz2r3qxXmvf6shCDX73GhXbMZILmJaFan0dwCmO3v+zH+QAp7LXHArFx8HOHb1lCuDTA3SbkGkQj+x4dj4uL64kbwQAgfI65gxDydqkuvNH96RoK+k8h8OvwKhFG45OGoGNmUMBvEtJ9y8wqxof6rLDavV8dgLQg38kbFGzPSbv/QvkLI7YlKnShLIlTree9RpqkfOhKfqmCblAmva+i0VqCu2wI0XnELIYgPz/e2ZxOE7PDj7O68ubNTSqw9qwwP35LhqKnxHiTCGtRFeb3ehnUfjJ41FrlaqkfKeZbUzYKXWBPHx5eMXTeRxI9dcAGqcArI8Y5KDZ8dKzKLhS0wy7zhbX/So52T6oU6XhOXr/dgD8zdvRr8tkRUIj7GaJqPKmLC9KycJPTotErEOPCOA+ig3J9mLRjm5IQLiQmdbBB0Ta6xN6njQ5luhGUmibnFJchsw==;fOA1VseEmOK4FP8k/fomBg=="
 ---

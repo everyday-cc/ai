@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Mark Zuckerberg woos Big Tech in Asia to double down on AI chips"
+    excerpt: "AI processors — the manufacturing and procurement, and the development of cutting-edge technologies that are more efficient than the current generation of chips — have become a major priority ..."
+    publishedDateTime: 2024-02-29T09:30:00Z
+    webUrl: "https://techcrunch.com/2024/02/29/metas-zuckerberg-woos-big-tech-in-asia-to-double-down-on-ai-chips/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "Meta's Zuckerberg in South Korea, expected to discuss AI"
     excerpt: "Meta CEO Mark Zuckerberg arrived in South Korea late on Tuesday, where he is expected to hold talks on artificial intelligence and have meetings with President Yoon Suk Yeol and the heads of some of the country's tech powerhouses."
     publishedDateTime: 2024-02-27T23:44:00Z
