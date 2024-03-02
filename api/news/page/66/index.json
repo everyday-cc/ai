@@ -2,6 +2,84 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2024-01-11-robot-revolution-uncovering-the-real-value-of-security-robots.md",
+      "title": "Robot revolution: Uncovering the real value of security robots",
+      "excerpt": "Robots have been in the spotlight lately, as tycoons like Elon Musk discuss the perils of automation and artificial intelligence (AI), and roving robots meet their watery demise. These recent events have unmasked a particularly interesting topic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T01:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-botricia-presents-dhruvitkumar-talatis-ai-a-new-god-we-trust-exploring-technology-and-spirituality.md",
+      "title": "Botricia Presents Dhruvitkumar Talati's 'AI - A New GOD We Trust': Exploring Technology and Spirituality.",
+      "excerpt": "Notably, he has architected end-to-end AI solutions on AWS, integrating services like Amazon SageMaker, Lambda, EC2, and S3 to meet diverse business requirements. Woven with a tapestry of philosophy, science, and human psychology, the book prompts readers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
+      "originalUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.kisspr.com/system/media_files/images/000/049/985/original_jpeg/image_%281%29.jpg",
+          "width": 875,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T01:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
       "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
       "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
@@ -935,92 +1013,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-beatbot-to-make-waves-at-ces-2024-by-unveiling-worlds-first-all-in-one-intelligent-pool-cleaning-robot.md",
-      "title": "Beatbot To Make Waves At CES 2024 By Unveiling World's First All-In-One Intelligent Pool Cleaning Robot",
-      "excerpt": "With significant advances in efficiency, performance and power, Beatbot AquaSense Pro is truly, The One Pool Robot to Rule Them All.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107701150/Beatbot-To-Make-Waves-At-CES-2024-By-Unveiling-Worlds-First-All-In-One-Intelligent-Pool-Cleaning-Robot",
-      "originalUrl": "https://menafn.com/1107701150/Beatbot-To-Make-Waves-At-CES-2024-By-Unveiling-Worlds-First-All-In-One-Intelligent-Pool-Cleaning-Robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528",
-          "width": 258,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T05:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-the-10-most-in-demand-tech-skills-in-2024-with-skill-tests.md",
-      "title": "The 10 most in-demand tech skills in 2024 (with skill tests)",
-      "excerpt": "Here is a list of the top tech skills to have on your resume this year, as well as a list of skill tests you can use to gauge your current proficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
-      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T03:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

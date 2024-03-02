@@ -34,20 +34,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 51
-  - title: "Artificial intelligence already plays a part in Kansas City health care, without much regulation"
-    excerpt: "teeth grinding and leg dragging, a diagnosis that had eluded 17 doctors over three years. It’s an increasingly common scenario: Patients are looking to artificial intelligence for health care answers."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.columbiamissourian.com/news/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_e6ac8c68-d4f3-11ee-b2fc-f73e851137ae.html"
-    type: article
-    provider:
-      name: Columbia Missourian
-      domain: columbiamissourian.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/custom/image/5400d872-b3f6-11eb-b554-53386ef890f2.png?resize=600%2C314"
-        width: 600
-        height: 314
-        isCached: true
 
 secured: "IRGUNmz0jXglt747Lo8JTE07tZ5HpGQO0ykSHvBb/gbnjqNSf5ivYtP3aUy/xQpH6WyD7NRG5tGMbWJULAd8M7qVZVj2NQnkxTR631xLNYJ+CC6Oa6nRdSaT8vdNRuAeRxcV2nPG7OVAkI2GoEl8YN7IREZL/BtWXJ3wbWyF3wdJYRgIqbxq4J++KhF8S4rEfnTYOQkAZujExEZPmEX4+Lz4S4doogVSn4B5FpF1Oh1pjP2gzd7OEVVPsxv7XhxEqEjMFrOS+b54eeVAUxzirt3j3+nLCkojYOC5O8TVBwwUn4qlE0lDV+wxU7mSchokKYnNi3POG9Iq5gUUK7qdq5pHDfe4FRH7dh+TebagMrj/sai9UdcwFM91ST85nq3Otlxeuiv1kESnRSQp31dIkicRhpOChB25nXVBotvnMo5osDvY3dsVgHLI0T/yqW2jE2YPPEA9KxHWLtcX/LJkDk0YIFsuiIBa7JZUlxqnrdJ/+mh06yIfAXdz+cq4M8UvnjI5I5Mq24e3k8yKjZb6PA==;DvoTonO4uQiQTvJwF/zYTg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-a
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
+    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
+    publishedDateTime: 2024-02-27T19:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "x6mIf8uaa3rYeCLkftq2z2FCHBvDKLf2fjkf7wYp9q2B+kDrNZPKEw4ga/S/mjzL1mE+KBtgPxNyMZkkay4o4+4sS13InZ63WwhT0rWDmkHqLBt3mtYSoguBs7IX14pxKlUPDXnxYtTbpVbSvg5VA85F9ikuWSQPhsddnaqm4gZqseg36mCjkOB2LheX9PLU6gUfrFoRUBI2ALB4XX2Dy45K1J+GROaBwXZzsS+ZxaQ/h1VqQzTSXwnKejO8JkS/R8Z9OqCotmfMRkFPMdbsanOes4jkWbtKI8UOgI87lq0DOZ0nRwDWkolh6KkJ9B+llgdBWnPSl9M5fp8PfeXadQtjiPUBG93LmOfcHlFkMJ8DLuU3wIfEhynmfmxo9g8etLn5/3UgyhY6DQH57DJ3tkTWjCcialAKyXYdfN+/+dRD3GzMRYJmmAo3w0PbhUTgVNnA5HtH36vwC/0TFR3FggHiD8qM/B0w3JRKymONBVzP6iKPebzeY2Zh7xWFPRzJcbZpDPV18WyMlhXLkwnvsA==;XCvemAjz6YfO8nuET3wrjw=="
 ---

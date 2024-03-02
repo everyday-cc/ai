@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "F|T: The FinTech Times – BC court upholds ban on crypto mining, Sequoia backpedals Klarna ousting"
-    excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-bc-court-upholds-ban-on-crypto-mining-sequoia-backpedals-klarna-ousting/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 0
 
 secured: "xaCW2Fr/+MbCh7HAqn5aUvKrXMsh3O5Wvm87++SlTJH+WcPmBO9XKcoVms8TF8hSIRJIaSW1aW8rVZ7NXz7DCwKDewizUjeQFQpNpQTpVRtYiUhDmTnbm9Q552gQ/+c7F6DTbk2PtlbsJsOs/lto2CjzFgrFmAAvWsKTfZsrp4Tod7cu4w+kMqmoDmpOO96j6UVoQJ4ByKDkcVtjO3IcEqYIjaD2NliOKcW8QdiZU6Xjs5jjFLGvqx8rGpt6+LeUfZLn12JG2J8tLdhw6ut8VKdmMrNdTbIPkx1Ms9vA+VSmE53LV/HkndWRuJss42uU772wVpiNbwVmNq6deEfXZRjLxNnAEfj43vNtaUlFF/ZrrMkKduORvUVAaiYhQclTuyJnLpCxEY+m0uP5pwUV0XVVUnVJqPyWEJB76XtZx519mjrdIB65ztCPtx3Chd2rB9nwkyLJIb7yw1AWiCFVqlCthaEUTy6MClpcqDBREHLsxICx3ScJzz1GPL2Gn2MTbn2FB54wAT40RVpgBwaNCQ==;bimc/l+TSM3Qc/Pm5BgfbA=="
 ---

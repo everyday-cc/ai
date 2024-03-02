@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rhode Island Creates AI Task Force, Data Centers"
+    excerpt: "Both public- and private-sector experts will serve as members. The Center of Excellence for AI and Data is tasked with the creation of a state code of ethics for AI. Tardiff said in the announcement that making this the first order of business helps ensure ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/rhode-island-creates-ai-task-force-data-centers"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/5e2e692/2147483647/strip/true/crop/833x405+83+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F47%2Faf%2Ff943e3f646249fbac04bc93d10f7%2Fai-task-force.jpg"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "CT task force encourages expanded government use, regulation of artificial intelligence"
     excerpt: "A state task force on artificial intelligence believes the use of AI in both ... “Some states may use it more in health care, others more in agriculture. States should look for where it’s most applicable for their citizens.” During their meetings ..."
     publishedDateTime: 2024-03-01T06:00:00Z

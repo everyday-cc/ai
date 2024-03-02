@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-canada-lawyer-under-fire-for-submitting-fake-cases-created-by-ai-chatbot.md",
+      "title": "Canada lawyer under fire for submitting fake cases created by AI chatbot",
+      "excerpt": "Chong Ke, from Vancouver, under investigation after allegedly using ChatGPT to cite case law – but those cases did not exist",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news",
+      "originalUrl": "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1b45223823af90a16d52ba01337b9e85da635acb/0_101_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=43b13e2355f57d44ad13ca18835eb670",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai",
+      "publishedDateTime": "2024-02-29T20:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes.md",
+      "title": "AI Could Replace the Apps on Your Phone. I've Seen It With My Own Eyes",
+      "excerpt": "A concept phone at MWC demonstrates how AI has the potential to radically transform the way ... You can also find her writing about tech for good, ethics and human rights, the climate crisis, robots, travel and digital culture. She was once described ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e3da625833bd1d09584b999827b3f167718c7573/hub/2024/02/29/a18fd767-6726-4832-bd9a-fb293d9392a0/brain-ai-deutsche-10.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T18:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use.md",
       "title": "Apple CEO Tim Cook set to unveil plans to expand generative AI use",
       "excerpt": "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,",
@@ -571,7 +674,7 @@
       "originalUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -961,7 +1064,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 389,
       "tags": null,
       "images": [
         {
@@ -1099,7 +1202,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1138,100 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-what-should-we-expect-from-ai-in-2024.md",
-      "title": "What Should We Expect From AI In 2024?",
-      "excerpt": "We are already two months into 2024, and the AI revolution roars on unabated. What should we expect from AI in 2024?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0028da2001bd2d124c603/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1190,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
-      "publishedDateTime": "2024-02-29T04:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-abb-eyes-ai-robotics-integration-to-push-growth-in-various-businesses.md",
-      "title": "ABB eyes AI-robotics integration to push growth in various businesses",
-      "excerpt": "ABB Ltd will integrate artificial intelligence with robotics across various sectors in China to sustain robust growth, senior executives of the Swiss-Swedish technology and engineering group said, as AI continues to evolve at an unprecedented pace, transforming numerous industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202402/29/WS65dfdce5a31082fc043b9b69.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202402/29/WS65dfdce5a31082fc043b9b69.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202402/29/65dfdce5a31082fc2b69544d.jpeg",
-          "width": 992,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T01:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

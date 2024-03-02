@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Navy Yard's self-driving shuttle is ready to begin transporting riders"
-    excerpt: "The first self-driving shuttle service in Pennsylvania will begin operating Tuesday at the Navy Yard, offering a four-stop loop for visitors and workers at the South Philly business hub. The nine-seat, electric-powered van has been tested for more than a ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.phillyvoice.com/navy-yard-self-driving-shuttle-south-philly-autonomous-vehicle/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 2
   - title: "Self-driving, zero-emission van to shuttle people around Philadelphia Navy Yard"
     excerpt: "The zero-emissions van has been undergoing testing for the past year. The nine-seat, electric-powered van will run from 10 a.m. until 2 p.m. on weekdays."
     publishedDateTime: 2024-02-27T12:53:00Z

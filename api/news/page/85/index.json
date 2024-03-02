@@ -2,6 +2,103 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-12-16-google-shapes-gemini-ai-tools-for-developers.md",
+      "title": "Google Shapes Gemini AI Tools For Developers",
+      "excerpt": "AI is changing and it will continue to do so - although this year of generative AI stands out as a seminal moment in time - now we need the right developer tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657d683b20807ddde92b89ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
+      "publishedDateTime": "2023-12-16T09:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-ai-a-double-edged-sword-for-ethics-security-of-vietnamese-education.md",
+      "title": "AI a double-edged sword for ethics, security of Vietnamese education",
+      "excerpt": "The widespread embrace of artificial intelligence (AI) in learning can be a double-edged sword, with debate in academic circles revolving around how AI can be used ethically and in alignment with local academic standards. Hoang Ngan, a sophomore at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://tuoitrenews.vn/news/education/20231216/ai-a-doubleedged-sword-for-ethics-security-of-vietnamese-education/77287.html",
+      "originalUrl": "https://tuoitrenews.vn/news/education/20231216/ai-a-doubleedged-sword-for-ethics-security-of-vietnamese-education/77287.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tuoitrenews.vn/ttnew/r/2023/12/14/385537962-678314627624249-309935422918557897-n-1702528424.png",
+          "width": 730,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-16T06:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tuoi Tre news",
+        "domain": "tuoitrenews.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-12-16-dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue.md",
       "title": "Dictionary.com 2023 Word Of The Year ‘Hallucinate’ Is An AI Health Issue",
       "excerpt": "Dictionary.com noticed a 46% jump in dictionary lookups for the word “hallucinate” from 2022 to 2023 with a comparable increase in searches for “hallucination” as well.",
@@ -1128,109 +1225,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-medical-text-written-by-artificial-intelligence-outperforms-doctors.md",
-      "title": "Medical Text Written By Artificial Intelligence Outperforms Doctors",
-      "excerpt": "Here, I will examine their findings and discuss the impact on the future of artificial intelligence in healthcare. Rather than build an entirely new large language model from scratch, Peng and colleagues used the skeleton of ChatGPT-3. In other words ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65663826a8f7748e76f9be0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/amp/",
-      "publishedDateTime": "2023-12-15T13:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-building-ai-for-climate-opportunities-and-considerations.md",
-      "title": "Building AI For Climate: Opportunities And Considerations",
-      "excerpt": "To effectively build and deploy AI technologies, it's important to recognize the limitations and risks they entail. A key limitation of AI is its dependence on user inputs. The quality of training data sets and the \"training\" an AI receives (similar to a human education) will greatly impact how effectively they solve specific problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6363be26d666fe5483dd299d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/",
-      "publishedDateTime": "2023-12-15T13:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

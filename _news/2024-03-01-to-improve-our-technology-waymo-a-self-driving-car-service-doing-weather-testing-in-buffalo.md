@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
-secured: "01ajWltJtAmr5I1Wq2XPzO3ubgSxwo9/K2ydJMSdbcLtKBVtO9GdUF2cTr7n1/0fZ4dKqhwpaB61h0lna5uZls5Lq8kxPIMwK/JmlqOyD/tGAW+C02hwinYDbYbEBFtAzVqovNfCG7TtKYYeZzBdOaz6dihKg82NtqyPvSaNejgPAheo2kKhS/GGgCMO234FsYqnqMtT+tVwrSJKIHIHOwhKTN8PRhuktMW3FY4fsK7rEk/x9o32OoFLKqzN98nAG+R8mYG7HQhieAwtIjIzgKrodsEf1qjfxddmCJpc78wqiKwigPsnmBF9R5RAWsoiypJpLVPLcyqPckKF4SQ9k++b9SNb2GQptfS091vlGz0=;rKFGMeFphFmxJzSUz2MTsw=="
+related:
+  - title: "Waymo's massive self-driving expansion gets green light"
+    excerpt: "While some of the industry's biggest players are abandoning their self-driving vehicle efforts, Waymo is gearing up for a massive expansion."
+    publishedDateTime: 2024-03-01T22:32:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-robotaxi-plans-win-california-approval"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
+
+secured: "hGMX0hF6CTwFTyRJy6/QEsfqtLgIsn3hOnrJkv7quaLm+cLzv+NEv0XhVRRrddeQcxZCCUJu3HbGrh/cafFT4i5q6Tio4hTIo77WBzCFdCpSyhrVc7jOce8XvV73QOK9wyT6sg+XdCeZHFDSMmkJXgXTJOid0t7m/4x6ZMgkIey/NAuygdFZkUA6gPHRiPbcxOpyxh9CXfR3h2ozU+dYDxNwGLcm7tO1jBhx+n/ZTtZDUwoJ+yzmNTa8qrq3nJ3auYH6AUWvAPs8YUk8+jVZoITexoZ5cco6sZCSwUMsIq9q4jOI56JRJI3vfJFNCfTaZTZNcZ81VVKbGA2Dm2OLoKTwK6Ib3NG+j3N2BUBd9N2EBxefUel0r99TP7LeQJ4JKBPdQcadpLNPPqrX2X4bMIBIHCXiJdQcK1hwAPH0uZwRpzckJhx0twGmLux7qlUFeZjg0Sq6+ha58f4GJh4ZkKBGu9B0idGUiV1EWjJ8/Yh1UX0vZ55oOppF5iDn7d6iam/c9FEdFOpjWEywENgIxQ==;oZUY0k+zO4MyRip92YpbnQ=="
 ---
 

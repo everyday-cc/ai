@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
 webUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -24,20 +24,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Artificial intelligence already plays a part in Kansas City health care, without much regulation"
-    excerpt: "teeth grinding and leg dragging, a diagnosis that had eluded 17 doctors over three years. It’s an increasingly common scenario: Patients are looking to artificial intelligence for health care answers."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.columbiamissourian.com/news/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_e6ac8c68-d4f3-11ee-b2fc-f73e851137ae.html"
-    type: article
-    provider:
-      name: Columbia Missourian
-      domain: columbiamissourian.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/custom/image/5400d872-b3f6-11eb-b554-53386ef890f2.png?resize=600%2C314"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Artificial intelligence: The future is already here, and businesses will have to play catch-up"
     excerpt: "Markham Nolan, a former journalist and co-founder of Noan, which helps companies utilise artificial intelligence, said AI was “a time ... was showcasing Swedish company Furhat’s social robot. Looking a bit like a bust from Will Smith’s I, Robot ..."
     publishedDateTime: 2024-02-29T05:00:00Z

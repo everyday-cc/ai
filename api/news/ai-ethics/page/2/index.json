@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-20-qloo-leading-ai-advances-culture-and-taste-intelligence.md",
+      "title": "Qloo Leading AI Advances Culture And Taste Intelligence",
+      "excerpt": "3. Rigorous Legal Compliance: Qloo engages external legal counsel to review all its data practices, ensuring they align with the highest standards of intellectual property laws and data privacy regulations. This guarantees that all of their AI development processes are legally sound and ethically responsible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3d38b3a691de5c282c09f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
+      "publishedDateTime": "2024-02-19T21:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-google-lengthens-mixes-broadens-ai-with-gemini-toolset.md",
       "title": "Google Lengthens, Mixes, Broadens AI With Gemini Toolset",
       "excerpt": "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment.",
@@ -1391,49 +1443,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-create-images-with-adobe-firefly-ai-for-apple-vision-pro.md",
-      "title": "Create images with Adobe Firefly AI for Apple Vision Pro",
-      "excerpt": "Adobe's image-generating software Firefly has been announced for the new Apple Vision Pro, and joins the company's previously-announced Lightroom photo app.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
-      "originalUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/58429-119036-000-lead-Firefly-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
-      "publishedDateTime": "2024-02-02T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

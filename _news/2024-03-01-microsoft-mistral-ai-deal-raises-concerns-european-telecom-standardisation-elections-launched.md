@@ -303,22 +303,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft invests in Europe's Mistral AI to expand beyond OpenAI"
-    excerpt: "Under the deal, Mistral's large language models (LLM) — the technology behind generative AI products — will be available on Microsoft's Azure cloud computing platform, becoming only the second company to host its LLM on the platform after OpenAI."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/3471498/"
-    ampWebUrl: "https://www.nbcdfw.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/3471498/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/3471498/?amp=1"
-    type: article
-    provider:
-      name: NBC DFW
-      domain: nbcdfw.com
-    quality: 74
-    images:
-      - url: "https://media.nbcdfw.com/2024/02/107378366-1708964869127-gettyimages-1850859194-AA_16122023_1456011.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "EU To Examine Microsoft, French AI Mistral Partnership"
     excerpt: "Microsoft said Monday it sealed a \"multi-year partnership\" that would allow Mistral to use its platforms including Azure AI, which enables businesses to build apps using AI. A Microsoft spokesperson said the company was pouring 15-million-euros ($16 ..."
     publishedDateTime: 2024-02-27T00:00:00Z
@@ -476,34 +460,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
         width: 700
         height: 394
-        isCached: true
-  - title: "Canada’s Seneca Polytechnic set to integrate Microsoft Azure AI"
-    excerpt: "Seneca Polytechnic announced it will integrate Azure OpenAI to develop an AI tutor that supports enhanced learning of course material and simulated, personalized job interviews based on job postings. Seneca students will be among the first in Canada to ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.ecampusnews.com/innovation-insights/2024/02/26/microsoft-azure-integrated-seneca-polytecnic/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 69
-    images:
-      - url: "https://www.ecampusnews.com/files/2024/02/Screen-Shot-2024-02-23-at-12.01.48-PM.png"
-        width: 745
-        height: 552
-        isCached: true
-  - title: "Microsoft partners with Mistral AI in Azure supercomputing deal"
-    excerpt: "Microsoft has entered into a partnership with French generative AI lab Mistral AI to help commercialize its new generative AI language models. As part of the deal, Microsoft will support the company with Azure AI supercomputing infrastructure, including ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-partners-with-mistral-ai-in-azure-supercomputing-deal/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 69
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft teams up with Mistral to bring start-up's AI model on Azure"
     excerpt: "and code generation — is available through Azure AI Studio and Azure Machine Learning. Mistral added that the AI model achieves strong results on commonly used benchmarks, making it the world's second-ranked model generally available through an API ..."
@@ -671,34 +627,6 @@ related:
       - url: "https://www.lifehacker.com.au/wp-content/uploads/2024/02/hero-image_961bb2.jpg?quality=75&w=640&h=360&crop=1"
         width: 640
         height: 360
-        isCached: true
-  - title: "Microsoft Pledges Regulatory Respect with 11 AI Access Principles"
-    excerpt: "Also, it announced on Monday that it was newly partnering with France-based Mistral AI. Microsoft is offering its Azure AI infrastructure and supercomputing capabilities for use with Mistral's next-generation large language models. Microsoft's 11 AI Access ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://redmondmag.com/Articles/2024/02/26/Microsoft-AI-Access-Principles.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/240226ScrollIntro.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "New Microsoft AI Tool Could Help Government Lighten Its Load"
-    excerpt: "The move, Ling wrote, enables agencies “with stringent security and compliance requirements to utilize this industry-leading generative AI service at the unclassified levels.” Microsoft is submitting Azure OpenAI Service for FedRAMP High authorization ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.govtech.com/biz/new-microsoft-ai-tool-could-help-government-lighten-its-load"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 54
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/09eb35f/2147483647/strip/true/crop/940x457+0+62/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
-        width: 1440
-        height: 700
         isCached: true
   - title: "Microsoft collaborates with French start-up Mistral AI"
     excerpt: "(MENAFN) On Monday, the US-based multinational technology company Microsoft revealed its collaboration with French start-up Mistral AI in a multi-year partnership aimed at expediting advancements in artificial intelligence (AI). \"The AI industry is ..."
@@ -955,20 +883,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-270224-cover-500px.jpg"
         width: 500
         height: 354
-        isCached: true
-  - title: "Microsoft Just Invested in This French AI Startup to Capitalize on 'Entirely New Businesses'"
-    excerpt: "The company has announced a multi-year partnership with Paris-based artificial intelligence startup Mistral, whose new flagship large ... reportedly seeks to diversify its partnerships with AI companies beyond OpenAI, in which the company has invested ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.inc.com/ben-sherry/microsoft-just-invested-in-this-french-ai-startup-to-capitalize-on-entirely-new-businesses.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 43
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/microsoft-mistral-ai-inc-2_537850_hdnjjt.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
     excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."

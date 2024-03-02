@@ -2,6 +2,109 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-12-15-medical-text-written-by-artificial-intelligence-outperforms-doctors.md",
+      "title": "Medical Text Written By Artificial Intelligence Outperforms Doctors",
+      "excerpt": "Here, I will examine their findings and discuss the impact on the future of artificial intelligence in healthcare. Rather than build an entirely new large language model from scratch, Peng and colleagues used the skeleton of ChatGPT-3. In other words ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65663826a8f7748e76f9be0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/12/15/medical-text-written-by-artificial-intelligence-outperforms-doctors/amp/",
+      "publishedDateTime": "2023-12-15T13:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-building-ai-for-climate-opportunities-and-considerations.md",
+      "title": "Building AI For Climate: Opportunities And Considerations",
+      "excerpt": "To effectively build and deploy AI technologies, it's important to recognize the limitations and risks they entail. A key limitation of AI is its dependence on user inputs. The quality of training data sets and the \"training\" an AI receives (similar to a human education) will greatly impact how effectively they solve specific problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6363be26d666fe5483dd299d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/15/building-ai-for-climate-opportunities-and-considerations/amp/",
+      "publishedDateTime": "2023-12-15T13:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-the-role-of-humanity-in-crafting-trustworthy-ai-content.md",
       "title": "The Role Of 'Humanity' In Crafting Trustworthy AI Content",
       "excerpt": "AI-generated content, while efficient, comes with its share of pitfalls and challenges with concerns about authenticity, creativity and quality control.",
@@ -1095,101 +1198,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-machine-learning-deep-learning-and-the-credit-market.md",
-      "title": "Machine Learning, Deep Learning, And The Credit Market",
-      "excerpt": "What are the applications of machine learning and deep learning models in the credit market? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657a40948a8f77ae0ea63ced/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
-      "publishedDateTime": "2023-12-14T21:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots.md",
-      "title": "XtalPi and ABB Robotics to automate laboratory workstations with GoFa cobots",
-      "excerpt": "XtalPi has used more than 100 ABB collaborative robots to build automated workstations for accelerating chemical and life sciences R&D.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
-      "originalUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/XtalPi_ABB_GoFa_AMRs.jpg",
-          "width": 770,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T20:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

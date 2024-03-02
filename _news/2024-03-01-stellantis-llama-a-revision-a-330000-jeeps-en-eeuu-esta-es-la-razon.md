@@ -47,15 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Volkswagen llama a revisión por posibles incendios"
-    excerpt: "Volkswagen llama a revisión a más de 260.000 autos por posibles incendios de una bomba de succión dentro del tanque. ¿Cuáles modelos están incluidos?"
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.cnn.com/videos/spanish/2024/02/26/volkswagen-llama-revision-miles-autos-cnn-dinero-tv.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 34
 
 secured: "MCWqElgN4IxyyjBdb9JKfGBfAeff66TJvTDm4cFV88o53eqV/1PdlbrANt5ijHoicfs+Pdbt3386n3QwUtLEFI6BfRxJhGGW0Wf53MArI15Xi3TiQU9MVyMAWjsBbQkNAOhYwUhlhN24cbs/5D9oCfqfhmvs/aqnWUG9oLNmD9mJ1H8WTr24OLRinr9GzHjJ53bMzPk0bpQGTPTZVclcrJ9PlAt49VlmcnHEioJeE86FwwUBzk2G9dDcoZ3pfabuV5hRnCJfdPMzv460jSrt6LNLpj4HSNZV+ojCoXxlMJJbVoP9Wm/c5wTmBeHaicryjPyRWKfTxBZjPy23iwoFCuQZJD3+9IAxojbql3MTfVK4AgfvfRzW2ZD8VNFkI7+JtS7+zy2TT6eDWNAn5e+kp0qqu64bqg0IbHRgfZSNyeEW6UfX/Fzl8hWTAT5Qn52LTaemyDLgPhrxvNRwVBzCy/kAQVSG3SqYiuYLdZwFD7DRP2eFyuWJl6MZbHp4jYMn0GQdtblNbXv8dc2rqkWipA==;eI3Je29jeZyX/SlK0w+/hg=="
 ---

@@ -69,6 +69,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
+    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
+    publishedDateTime: 2024-02-27T19:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "dPFehCUrY9nCYoIjqKlAjtKa8nv/5pVLYNOPCv5HYL6k2+Eu1Dxm/VjGpdApytSvlW+aTp3BSp35OWBKJ9sMY0+Wcapb7AeXzyhujq4KWDSOOXpKwWvePUawoIVnO2S4mhy/bvsWHA6701jj5ys1Z7UBEGorjQFlrl6cSfu/O6IhqZIjE19j2LoGouZotYl4n3F0QlZ/q8GLTWokE0/HKY3ixgIif29+LObHbrR3LV8Vd/DJ8/uHQOMfDP2e57WZoiAmZtY6St7jGd0Zp0FB7h31QuFeVLGtGvpRw1Cy4isQpnF4mNP0C8XTP0no2Z8o/QDDdyFsC6i9tebnTQpiEdQ93BpriXoDl8qHsMmecKc=;6UvEGx2wpcojLWjKdT8ZfA=="
 ---

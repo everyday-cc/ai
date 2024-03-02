@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96498/amd-confirms-ultra-fast-hbm3e
 webUrl: "https://www.tweaktown.com/news/96498/amd-confirms-ultra-fast-hbm3e-memory-is-coming-to-instinct-mi300-refresh-ai-gpu/index.html"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD's next-gen MI400 AI GPU expected in 2025, MI300 AI GPU refresh in the works"
-    excerpt: "AMD's next-gen Instinct MI400X AI accelerator expected in 2025, will compete directly against NVIDIA's next-gen Blackwell B100 AI GPU."
-    publishedDateTime: 2024-02-26T00:21:00Z
-    webUrl: "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 50
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96428_802_amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "AMD Mulls Upgrading Its MI300 AI Accelerators to HBM3e Memory"
     excerpt: "AMD officially launched its MI300 family of accelerators in November 2023, and in a nod to the breakneck pace of the AI industry, is already talking ... company's fastest Arm-based CPU with its H100 GPU. It's also upgrading the H100 to HBM3e and renaming ..."
     publishedDateTime: 2024-02-28T00:00:00Z

@@ -2,6 +2,109 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2024-02-02-artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email.md",
+      "title": "Artificial Intelligence in Practice eBook (worth $24) free for your email",
+      "excerpt": "Artificial Intelligence in Practice is a fascinating look into how companies use AI and machine learning to solve problems. Presenting 50 case studies of actual situations, this book demonstrates practical applications to issues faced by businesses around ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "originalUrl": "https://www.neowin.net/sponsored/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1706796417_w_wile497c82_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/artificial-intelligence-in-practice-ebook-worth-24-free-for-your-email/",
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-i-tested-a-next-gen-ai-assistant-it-will-blow-you-away.md",
+      "title": "I Tested a Next-Gen AI Assistant. It Will Blow You Away",
+      "excerpt": "WIRED experimented with a new form of voice assistant that can browse the web and perform tasks online. Siri, Alexa, and other virtual helpers could soon be much more powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65baf73038f4406f11e1a29c/191:100/w_1280,c_limit/business_ai_voice_assistant.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn.md",
       "title": "Probabl is a new AI company built around popular library scikit-learn",
       "excerpt": "Probabl isn’t your average AI startup as this new French company is an Inria spin-off company that revolves around an open-source data science library called scikit-learn — Inria is a well-known French technology research institute. As for scikit-learn ...",
@@ -1102,93 +1205,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-rise-of-the-machines-openai-microsoft-to-invest-in-robots-that-think-independently.md",
-      "title": "Rise Of The Machines? OpenAI, Microsoft To Invest In Robots That Think Independently",
-      "excerpt": "If rumours turn out to be true, Microsoft and OpenAI might be putting up to $500 million (£394.92 million) in Figure AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144",
-      "originalUrl": "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1722763/humanoid-robot.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T08:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service.md",
-      "title": "WEKA’s Sustainable Data Platform For NexGen Cloud’s GPU-As-A-Service",
-      "excerpt": "WekaIO partners with NexGen Cloud, the leading UK-based sustainable IAAS provider, to establish a high-performance foundation for NexGen Cloud's upcoming AI Supercloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/01/wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/01/wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T06:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

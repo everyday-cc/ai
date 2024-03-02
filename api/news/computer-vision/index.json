@@ -184,50 +184,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-29-ai-warfare-is-already-here.md",
-      "title": "AI Warfare Is Already Here",
-      "excerpt": "The Maven group set out to assess object recognition tools from different vendors, testing them on drone footage recorded by US Navy SEAL units in Somalia. None performed particularly well, recalls Jane Pinelis, who oversaw the early testing and evaluation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/",
-      "originalUrl": "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T00:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
       "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
       "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
@@ -1376,6 +1332,58 @@
         "name": "Houston Chronicle",
         "domain": "chron.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-it-looks-like-russias-automated-killer-drones-did-not-work-as-planned.md",
+      "title": "It Looks Like Russia’s Automated Killer Drones Did Not Work As Planned",
+      "excerpt": "Russia's Lancet kamikaze drones were recently upgraded to locate targets without human involvement — but this automated mode now seems to have been disabled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc89284db5e2fad8876e8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 966,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
+      "publishedDateTime": "2024-02-14T09:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

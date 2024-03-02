@@ -40,6 +40,15 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "Qualcomm At MWC 2024: Spatial Computing, Loads Of AI And 5G/6G Demos"
+    excerpt: "Analyst Anshel Sag reviews the latest 5G, AI, spatial computing and automotive announcements from Qualcomm at Mobile World Congress Barcelona 2024."
+    publishedDateTime: 2024-02-29T12:57:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-mwc-2024-spatial-computing-loads-of-ai-and-5g6g-demos/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Generative AI Advances Showcased at MWC 2024"
     excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
     publishedDateTime: 2024-02-28T16:20:00Z

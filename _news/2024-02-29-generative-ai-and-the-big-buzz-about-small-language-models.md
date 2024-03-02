@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-sm
 webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 43
+  - title: "How to install CrewAI and run AI models locally for free"
+    excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/install-crew-ai-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Installing-AI-models-locally-with-CrewAI.jpg"
+        width: 1280
+        height: 713
+        isCached: true
   - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
     excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
     publishedDateTime: 2024-02-28T21:20:00Z

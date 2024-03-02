@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-struct
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/"
 type: article
 quality: 89
-heat: 103
+heat: 102
 published: true
 
 provider:

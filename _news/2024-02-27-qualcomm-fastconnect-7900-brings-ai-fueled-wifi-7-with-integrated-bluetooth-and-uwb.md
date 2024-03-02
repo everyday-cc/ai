@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Forbes
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm unveils AI and connectivity chips at Mobile World Congress"
-    excerpt: "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all"
-        width: 1200
-        height: 703
-        isCached: true
   - title: "Qualcomm shows how it combines AI and connectivity"
     excerpt: "At Mobile World Congress, Qualcomm is demonstrating its vision for better exploiting artificial intelligence with the help of on-device computing and connectivity."
     publishedDateTime: 2024-02-27T14:49:00Z
@@ -61,53 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Qualcomm At MWC 2024: Spatial Computing, Loads Of AI And 5G/6G Demos"
-    excerpt: "Analyst Anshel Sag reviews the latest 5G, AI, spatial computing and automotive announcements from Qualcomm at Mobile World Congress Barcelona 2024."
-    publishedDateTime: 2024-02-29T12:57:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-mwc-2024-spatial-computing-loads-of-ai-and-5g6g-demos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "MWC: Qualcomm previews multimodal AI models on Android phone, Windows PC"
-    excerpt: "Qualcomm also displayed generative AI features on Snapdragon 8 Gen 3 powered devices from Xiaomi, OPPO, and HONOR. Below are the details"
-    publishedDateTime: 2024-02-26T07:02:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/mwc-qualcomm-previews-multimodal-ai-models-on-android-phone-windows-pc-124022600213_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/mwc-qualcomm-previews-multimodal-ai-models-on-android-phone-windows-pc-124022600213_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/mwc-qualcomm-previews-multimodal-ai-models-on-android-phone-windows-pc-124022600213_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 38
-  - title: "WISeKey Announces at the Mobile World Congress Comprehensive AI Integration Across All Subsidiaries"
-    excerpt: "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a global leader in cybersecurity, digital identity, and Internet of Things (IoT) innovations, operating as a holding company,"
-    publishedDateTime: 2024-02-28T06:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-announces-at-the-mobile-world-congress-comprehensive-ai-integration-across-all-subsidiaries-1033110924"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-  - title: "Qualcomm debuts new wireless networking chips and AI model bundle"
-    excerpt: "New AI features are also arriving to several of Qualcomm’s existing chips in the form of a neural network bundle called the AI Hub. The first addition to the company’s product portfolio is the Snapdragon X80 5G Modem-RF System. It’s a bundle of ..."
-    publishedDateTime: 2024-02-26T19:39:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/qualcomm-debuts-new-wireless-networking-chips-ai-model-bundle/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
-    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
-    publishedDateTime: 2024-02-27T19:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "RhCENyX65skynXYSPy+dtwIu85m7DyytYdeuCSzvU7Frpun857Mj59DzxJeHcBnagd+FFTX1uZZeACeK6z+RVUs5cy1114ocXkSOV5cOT6HSn/fiCckysD5ld96C0ICAIGunOb7aZmwu8zVQeatSqB56+FeCrN4u7LG1Coe4nRfEvWAhURBqjV+A68iNqZ2VaBT59VC/wdU0G0Kghf5WAEjbxpqrtUE2yxP+W5Bin8TbzcNeCvv6DRryEHtoVNvzbc+W5+a5DE7CQBNWPCpoFgSN+5ijQrJh/KFHcJiR/7/lGYdRj0z39JWVj8bJVeRbmJrlrj+ovtxNsd/zJZmyPGYM16d114EcLg1hm0pTOcw8qErm2ICeu15QXf0UTiK0/LpGPzWl7XbK3//AnTGA1kwVD3eXWgRUbogayCnVInM9m38a5SDbtGraABpKvSx5/sYvgvNSVUgi7dXpkpUC8ccbwmZ/+3FCwqwtV1cMvxYTU9bR0XcvLz1FT793WFqF3d4IKSaWRyVhb+FgANdehw==;25ek8GWnO0M/gymS2vlmMw=="
 ---

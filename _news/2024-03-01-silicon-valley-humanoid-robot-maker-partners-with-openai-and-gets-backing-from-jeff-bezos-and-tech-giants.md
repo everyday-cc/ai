@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Silicon Valley humanoid robot-maker partners with OpenAI and gets backing from Jeff Bezos and tech giants"
-excerpt: "Sunnyvale -based Figure announced the partnership along with $675 million in venture capital funding from a group that includes Amazon founder Jeff Bezos as well as Microsoft, chipmaker Nvidia and"
-publishedDateTime: 2024-03-01T15:06:00Z
-originalUrl: "https://www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-webUrl: "https://www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-ampWebUrl: "https://www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+publishedDateTime: 2024-03-01T07:25:00Z
+originalUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+webUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+ampWebUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Silicon Valley
-  domain: siliconvalley.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.siliconvalley.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
@@ -130,6 +130,22 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/8c70e7441196b7a02e364701b80a4efc"
         width: 800
         height: 533
+        isCached: true
+  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
+    publishedDateTime: 2024-03-01T14:57:00Z
+    webUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+    ampWebUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 81
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links"
     excerpt: "Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015. The lawsuit - which has also been filed against OpenAI boss Sam Altman - says the firm has departed from its original non-profit, open source mission."
@@ -271,14 +287,14 @@ related:
   - title: "Humanoid robot-maker Figure partners with OpenAI"
     excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
     publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://madison.com/news/nation-world/science-technology-artificial-intelligence-robotics-bezos/article_acfdce56-8e89-5ce0-abea-f0ca26820aa0.html"
+    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: wacotrib
+      domain: wacotrib.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/cf/acfdce56-8e89-5ce0-abea-f0ca26820aa0/65e1032714789.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/6/f4/6f4165a2-aaf3-519e-8386-e4b92a995101/65e10329eddb8.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -351,6 +367,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "9vTOVCHyDBgV8Jgj7l+c6SGouHuzAK6zSET6y4JEypeaTR8hZpadJ31gZjxKJQ8yjgh+Ks9KsP5YG4Fe7RpVzi2HlJ0mp7mhR6DtQg0laouvIaQsz80Q/cUi+fB/q6etysaC02HSQPsCnXuVXtAl+Aj1aFnIn28g0OsDU68d8G/leMCIQCY6jrHe1UXvAkfZzqqmqPHkW4v6DpZ1RZZiheeYpXVCTbN9tUXpAblO+ZgoZDUvuF/GDOuIuF0igWWNs350IhuUIW0zOSf3WILRmYF12om/C7uTemtHi30aV+ySv6nFjoLzj/CiMeSAhygSurFcgA/br0yE2cE3dmhJVTwXwf/DlOoUvQ0dF8kRlIc=;yDZUPXXcid6+2qXCcNA33Q=="
+secured: "ufX+c70NFPSm2nIXEgbqPX7f/UG3vsPhC4JrHbVdtpovkQqyOo5N+JhQ/W2hHNriGyucumBa2jh1rfXljf+c1qmYIA8TUPudv9tmiHbQyWiLa48JBzo21pxs08lm/0Dl2ukKKW91+CFozYSW0HIjThR15jHnijJ0uzbWxIeo0/JPhfAo22BG8g5Wt6lTDtGOr1sB+QWF7IZ+zypQmXPs5lu+dwIROynSSnu8qavI5tZF+86eUk6zvrgCxLjJEtRvUZaqm8utvOaG8ZGTnN1YEn9W/NGW+wdYF+EVQ/UDKLjlkwYu3vWjTpznkHDQaqmYJ0R2PKH/YDXcxHTnOEOJoQy/D+6JGhlIhjBYyppR1jA=;fCZy5qG8CqLpYsB9cgbskw=="
 ---
 

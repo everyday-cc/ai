@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-02-apple-loop-iphone-17-details-leak-apples-ai-promise-ios-fixes-iphone-15-problems.md",
+      "title": "Apple Loop: iPhone 17 Details Leak, Apple’s AI Promise, iOS Fixes iPhone 15 Problems",
+      "excerpt": "This week’s Apple headlines; leaked iPhone 17 details, iPhone 15 features fixed, Apple’s AI promise, iOS long-term support, MacBook Pro repair details, Apple Arcade’s future, a potential iRing, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65173674770347df44065c12/0x0.jpg?format=jpg&crop=931,524,x130,y83,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
+      "publishedDateTime": "2024-03-01T22:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
       "title": "US stock markets close at record highs amid continued enthusiasm for AI",
       "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
@@ -619,6 +670,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-apple-may-soon-be-feeling-the-heat-from-investors-over-its-slow-rollout-of-buzzy-ai-products.md",
+      "title": "Apple may soon be feeling the heat from investors over its slow rollout of buzzy AI products",
+      "excerpt": "Tim Cook attempted to reassure shareholders that the company is committed to AI innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "originalUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e07870ce7f1785b2e4d75d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "publishedDateTime": "2024-03-01T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-will-samsung-introduce-galaxy-ai-to-budget-phones.md",
       "title": "Will Samsung introduce Galaxy AI to budget phones?",
       "excerpt": "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features.",
@@ -911,7 +1014,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1109,7 @@
       "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 388,
+      "heat": 398,
       "tags": null,
       "images": [
         {
@@ -1141,109 +1244,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-canada-lawyer-under-fire-for-submitting-fake-cases-created-by-ai-chatbot.md",
-      "title": "Canada lawyer under fire for submitting fake cases created by AI chatbot",
-      "excerpt": "Chong Ke, from Vancouver, under investigation after allegedly using ChatGPT to cite case law – but those cases did not exist",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news",
-      "originalUrl": "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1b45223823af90a16d52ba01337b9e85da635acb/0_101_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=43b13e2355f57d44ad13ca18835eb670",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai",
-      "publishedDateTime": "2024-02-29T20:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes.md",
-      "title": "AI Could Replace the Apps on Your Phone. I've Seen It With My Own Eyes",
-      "excerpt": "A concept phone at MWC demonstrates how AI has the potential to radically transform the way ... You can also find her writing about tech for good, ethics and human rights, the climate crisis, robots, travel and digital culture. She was once described ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e3da625833bd1d09584b999827b3f167718c7573/hub/2024/02/29/a18fd767-6726-4832-bd9a-fb293d9392a0/brain-ai-deutsche-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T18:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

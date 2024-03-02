@@ -2,6 +2,101 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-01-29-revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024.md",
+      "title": "Revealing The Dark Side: The Top 6 Problems With ChatGPT And Generative AI In 2024",
+      "excerpt": "Despite its spectacular potential, generative AI isn’t without its shortcomings. In fact, you could argue that its arrival has rather made a mess of things for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7190e5c497d8f4832c5fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
+      "publishedDateTime": "2024-01-29T03:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-automated-system-teaches-users-when-to-collaborate-with-an-ai-assistant.md",
+      "title": "Automated System Teaches Users When to Collaborate with an AI Assistant",
+      "excerpt": "Artificial intelligence models that pick out patterns in images can often do so better than human eyes — but not always. If a radiologist is using an AI model to help her determine whether a patient’s X-rays show signs of pneumonia,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/automated-system-teaches-users-when-to-collaborate-with-an-ai-assistant/",
+      "originalUrl": "https://indiaeducationdiary.in/automated-system-teaches-users-when-to-collaborate-with-an-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/automated-system-teaches-users-when-to-collaborate-with-an-ai-assistant/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/automated-system-teaches-users-when-to-collaborate-with-an-ai-assistant/",
+      "publishedDateTime": "2024-01-29T03:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-google-update-reveals-ai-will-read-all-your-private-messages.md",
       "title": "Google Update Reveals AI Will Read All Your Private Messages",
       "excerpt": "Google has just unveiled a game-changing AI upgrade for Android. But it has a darker side. Google’s AI will read and analyze your private messages, going back forever. So what does this mean for you, how do you maintain privacy, and when does it begin.",
@@ -1066,93 +1161,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
-      "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
-      "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "publishedDateTime": "2024-01-27T09:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required0-0.md",
-      "title": "One of Windows 11 AI features is now available to all users, no special hardware required0 0",
-      "excerpt": "You will soon be able to use one of the Surface-exclusive AI features on any supported Windows 11 computer. Microsoft revealed that Voice Clarity is coming to all Windows 11 PCs with x64 processors, not only ARM64 chips. Voice Clarity is a feature that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "originalUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "publishedDateTime": "2024-01-27T08:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

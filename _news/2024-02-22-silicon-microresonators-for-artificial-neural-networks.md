@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Silicon microresonators for artificial neural networks"
-excerpt: "(Nanowerk News) Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient artificial intelligence systems. These ..."
+excerpt: "Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient ..."
 publishedDateTime: 2024-02-22T00:00:00Z
-originalUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64706.php"
-webUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64706.php"
+originalUrl: "https://www.eurekalert.org/news-releases/1035234"
+webUrl: "https://www.eurekalert.org/news-releases/1035234"
 type: article
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "BrKubXioLOAnRe0nx+AoON0rVPdXcRZLjY9pv2XpOnGbPz6hfNotSwZXwrUI0SLKTiZm/OKsMGkLFoRb/gbLEYC6qEs66IE4RuuqgwjDo23h2axuCRxT81Me9FQv80pn2LvOiPP2BsoLtD5Stmm2ZYh8ztC8kcVKU861f0ifn5+imOywKb5gjU9QKRtPYi18gJ7MRA1a1IrHSYeBoePYWWDOZnFiM11+T+rrEpepGbrDBewArkdSbbGmOS78DbeX8VxIpkseCNCUg1Z72OcpPrfCjCNjv12zKZyCrnVg9/U85GTWDnDZR3OIcITzL3+eBPKdvjTCZXowwzmfEypRkrP7tv+Ow5Y3YEddjtmhQ3c=;hfFD3nUujd5EOOGMm0lu4w=="
+secured: "oDlaCPAOwkMbFyFr6EEWe/ERx9wad7GyEeEHmpDV9sw39of7YhUNeUit6e9nVxLPy8OPQW3IAYh8OXv0miGeRdIa8IfRuAR6vtR4e+EztcjywMRJ687S9WzwaiQbwJ4nQB+EhEUZZii1qKU7VERMfcq79qKaRMTj7mxuYzYyFi3MZVyfKY70kd/94oUI/lwnwTbacRqPGk43n4YbsDACoXH9T1Sb9kENZWtPzdZ5FJoHVN1LUnIM5I4Mzw0EKfJBk96lCULEz4CXmZm6I0GKDKvE5oI6mG9H7t2oebJejpZqShD3Ovihf8xVesFGwPGuDI6YqPdUl5lqhrEz9YS3Kuqz0eOqLev7iUQlSqsc+D0=;1yNzJhOFXuACtxL9x5gphw=="
 ---
 

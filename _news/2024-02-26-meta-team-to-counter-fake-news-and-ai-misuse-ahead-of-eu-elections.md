@@ -39,20 +39,6 @@ related:
         width: 800
         height: 497
         isCached: true
-  - title: "Meta to form 'Operations Centre' to combat spread of deceptive AI in EU polls"
-    excerpt: "New Delhi, Feb 26 (IANS) Meta (formerly Facebook) on Monday said that it will be activating an Elections Operations Centre to combat the spread of misleading artificial intelligence (AI ... engineering, research, operations, content policy and legal ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-to-form-operations-centre-to-combat-spread-of-deceptive-ai-in-eu-polls"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 36
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2024/02/202402263124037.png"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "xYBPjptAPGsdvefzB8PEEJKLL6yzbMK1vQUsKTNvz2pawxRB8e/HypTy6FFL0UCHorrMM6KTxYZ+LNvN6+A0rAOH1EOE9P3pupzDZAtaAD+EOsHQbfZRCzUbrMafDknQmgVgL43LtF8qPUZcziKGCNhgv00ph+gq9FRnHeFrmLu+qZrdFklIYYkACN3ZhWPs6HRfM+mQ3saFpZaVD3yJ+Rr2snHAzXRVc9KTCx346K42AkapynWYA7mha8kEHyu2I94prYp/YyHFEzgjG7b/a9bYTpmk8ybMTlEkm8Qw3f1rtO+7APgfYXllUJodDlFIykWivFobWQ8CVDeKyMlXVui8qGR3Jlr47z7qrUCkjeqrk56ouZQUhjz2XLKFu9tLAAu44AHb7Xgk0uJLh1dhmGBzydTOEkBmRuErG+ag6wMtpsO4C133jH64la8J29QdHsMIJHm50EAuby+93IRAFX8optXj490nCluXS1BjTRxtH59k6T+hww1HkeTgMjpwE86/Bhkti3c62JKCdwaLqA==;CpL3qcRCtbiOmfwALtrN9A=="
 ---

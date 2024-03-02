@@ -23,6 +23,17 @@ images:
     height: 2000
     isCached: true
 
+related:
+  - title: "Analysis: How Nvidia Surpassed Intel In Annual Revenue And Won The AI Crown"
+    excerpt: "Instead, the Intel veteran saw a bigger threat in Nvidia and its “uncontested” hold over the AI computing space and said his company would give its all to challenge the GPU designer. “Well, they’re going to get contested going forward, because we ..."
+    publishedDateTime: 2024-02-26T19:00:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/analysis-how-nvidia-surpassed-intel-in-annual-revenue-and-won-the-ai-crown"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
+
 secured: "6d1A6u118boAhLcwQsbtqaV4M1VVXkJLfuVKbUVHLTp9SmBj/sa2Gz7NLXQ4wQ+vzSOGC3uV2yprrw4Kf/iefEv4kko6lqhV0bgtM1+hjdg3s3ypDJiHB/vn2UFEnIrUDvh/8lItgSGanTJMCfrkYgIS2RozE8GNMZiu6bx0/7vdfeafbqAUtS6lWgYv00X6rmLQp3x9WtZZbIvBjQPGICLA1OjOn3AEB1gK3b6OGBO+fypsu3rBGjz+YQ0kC+3N9d3q1xQWEuPTRUA5ohzHbTZRTeK0TgQIa/KKWJxvakxB5FAjbv2g6KFpVRUyIPchFaGj7vWVQ//nCV4b0bcMRuBZ0orQ4thtU0G1RFMoOKM=;PZa6r4K02pkGO1CL1xGgaQ=="
 ---
 

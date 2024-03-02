@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Loop: iPhone 17 Details Leak, Apple’s AI Promise, iOS Fixes iPhone 15 Problems"
+    excerpt: "This week’s Apple headlines; leaked iPhone 17 details, iPhone 15 features fixed, Apple’s AI promise, iOS long-term support, MacBook Pro repair details, Apple Arcade’s future, a potential iRing, and"
+    publishedDateTime: 2024-03-01T22:30:00Z
+    webUrl: "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/"
+    ampWebUrl: "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65173674770347df44065c12/0x0.jpg?format=jpg&crop=931,524,x130,y83,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "iOS 18's AI Features Could Revive iPhone Sales in China"
     excerpt: "but cautioned that Apple needs to make significant progress in the AI space to meet consumer expectations and revive the company's popularity in China amid fierce competition from brands like Huawei, which are heavily investing in AI research and development."
     publishedDateTime: 2024-02-26T15:34:00Z

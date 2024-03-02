@@ -50,20 +50,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 36
-  - title: "ASTRI sets up FinTech and ESG Alliance"
-    excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4765"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://mma.prnasia.com/media2/2345405/1.jpg?p=medium600"
-        width: 599
-        height: 380
-        isCached: true
   - title: "Anyone nostalgic for the pre-SVB fintech era?"
     excerpt: "In the UK, KPMG’s Pulse of Fintech, a biannual report on fintech investment trends, saw fintech investment down 34 per cent in 2023, while retaining a lead in Europe. KPMG also found that total fintech investment in the Emea region dropped to $24.5bn in 2023, down from $49.6bn in 2022 and the lowest level of fintech funding in seven years."
     publishedDateTime: 2024-02-28T09:08:00Z

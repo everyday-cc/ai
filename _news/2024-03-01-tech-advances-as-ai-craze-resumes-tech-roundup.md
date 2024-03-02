@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resu
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

@@ -2,6 +2,101 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-20-ai-comes-to-the-world-of-beauty-as-eyelash-robot-uses-artificial-intelligence-to-place-fake-lashes.md",
+      "title": "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes",
+      "excerpt": "Artificial intelligence is making its way into esthetics ... told Fox News Digital in an interview that the company is using robotics and AI to \"completely transform the experience of eyelash ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T10:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-looking-for-artificial-intelligence-ai-investments-this-etf-could-be-for-you.md",
+      "title": "Looking for Artificial Intelligence (AI) Investments? This ETF Could Be for You.",
+      "excerpt": "The fund's managers change its holdings without requiring you to do any due diligence or research whatsoever. This is where long-term thinking comes in handy. While use cases for AI are unfolding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/20/looking-for-artificial-intelligence-ai-investments/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/20/looking-for-artificial-intelligence-ai-investments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/765151/stock-market-data-with-uptrend-vector.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T10:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond.md",
       "title": "Navigating Retail's New Reality: Omnichannel, Hyper-Personalization And Beyond",
       "excerpt": "While AI has been touted by many as a silver bullet for addressing key challenges, it is not the only solution available and may not work for every retail company.",
@@ -1123,93 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-ai-and-robotics-to-play-key-roles-in-space-exploration.md",
-      "title": "AI and Robotics to Play Key Roles in Space Exploration",
-      "excerpt": "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
-      "originalUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T14:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electropages",
-        "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-employing-your-cloud-data-warehouse-to-scale-up-aiml.md",
-      "title": "Employing your cloud data warehouse to scale up AI/ML",
-      "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
-      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/05/17/cloud_shutterstock.jpg",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
-      "publishedDateTime": "2024-02-19T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

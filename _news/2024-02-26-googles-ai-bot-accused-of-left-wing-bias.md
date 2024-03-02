@@ -51,20 +51,6 @@ related:
         width: 4978
         height: 3323
         isCached: true
-  - title: "Google explains how Gemini’s AI image generation went wrong, and how it’ll fix it"
-    excerpt: "A few weeks ago Google launched a new image generation tool for Gemini (the suite of AI tools formerly known as Bard and Duet) which allowed users to generate all sorts of images from simple text prompts. Unfortunately, Google’s AI tool repeatedly missed ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-explains-how-geminis-ai-image-generation-went-wrong-and-how-itll-fix-it"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VMMRBZKZLVGdLpQz9YvkH8-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google aims to relaunch Gemini AI image tool in a few weeks"
     excerpt: "Bard was renamed Gemini earlier this month and Google rolled out paid subscription plans, which users could choose for better reasoning capabilities from the AI model."
     publishedDateTime: 2024-02-27T04:27:00Z
@@ -217,22 +203,6 @@ related:
         height: 900
         isCached: true
   - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
-    excerpt: "The controversy follows a high-profile rebrand Google announced this month, when it changed the name of its chatbot and rolled out a fresh app and new subscription options. The chatbot and assistant formerly known as Bard, a chief competitor to OpenAI's ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/3471562/"
-    ampWebUrl: "https://www.nbcdfw.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/3471562/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/3471562/?amp=1"
-    type: article
-    provider:
-      name: NBC DFW
-      domain: nbcdfw.com
-    quality: 39
-    images:
-      - url: "https://media.nbcdfw.com/2024/02/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
     excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."
     publishedDateTime: 2024-02-26T17:27:00Z
     webUrl: "https://www.nbcnewyork.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/"
@@ -336,20 +306,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 26
-  - title: "The Google Gemini integration in Messages is now official"
-    excerpt: "Since the start of the year, we've come across multiple reports of Google Gemini (formerly Bard) integrating with Google Messages. This particular feature addition is now official, with Google announcing Gemini for Google Messages (in beta) as part of its ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-messages-integration-official-mwc-2024/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 24
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google’s Gemini Decoded: Unveiling The Impact On SEO"
     excerpt: "Gemini AI has already replaced Google’s Bard, so you can test it if you want. Spoiler: dialogs really seem quite natural and human-like. This is where the fun begins. SEO professionals are very intrigued by how search optimization will change when Gemini ..."
     publishedDateTime: 2024-02-27T00:00:00Z
@@ -378,15 +334,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How to Use Google Gemini AI on Your Android Phone Right Now"
-    excerpt: "Google made perhaps the biggest AI announcement of 2024 earlier this month by rebranding its year-old chatbot Bard as Gemini and releasing Gemini Advanced. Now, Android users will be able to access the powerful tool via their phones too. The new change for ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://tech.co/news/use-gemini-on-your-android-phone"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 19
   - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
     excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
     publishedDateTime: 2024-02-28T04:28:00Z

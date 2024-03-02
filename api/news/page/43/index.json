@@ -2,6 +2,92 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2024-01-30-a-view-of-artificial-intelligence-ai-from-the-trenches.md",
+      "title": "A View Of Artificial Intelligence (AI) From The Trenches",
+      "excerpt": "Digital transformation and cyber security ought to be bigger priorities for most companies. “How will AI change the CFO’s job?” My boss, the CEO, keeps asking me, “what’s our AI strategy?” What should I tell her?”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/",
+      "originalUrl": "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b90343142eedce6b991d95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/amp/",
+      "publishedDateTime": "2024-01-30T14:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy.md",
+      "title": "Forget IBM, This Legacy Tech Giant Is a Better AI Stock to Buy",
+      "excerpt": "With regard to AI, IBM looked like an early winner with Watson but struggled to monetize the advanced technology. While IBM now appears to be capitalizing on it, Oracle seems to have a more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/forget-ibm-this-legacy-tech-giant-is-a-better-ai-stock-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-inferenceai-matches-ai-workloads-with-cloud-gpu-compute.md",
       "title": "Inference.ai matches AI workloads with cloud GPU compute",
       "excerpt": "Inference.ai, a startup building a platform that matches AI workloads with available GPU compute, has raised new venture capital.",
@@ -1120,100 +1206,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-tomorrowios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight.md",
-      "title": "Tomorrow.io’s radar satellites use machine learning to punch well above their weight",
-      "excerpt": "Tomorrow.io just released the results from its first two radar satellites, which, thanks to machine learning, turn out to be competitive with larger, more old-school forecasting tech on Earth and in orbit. The company has been planning this mission since ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/",
-      "originalUrl": "https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/total-coverage.jpg?resize=1200,703",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/amp/",
-      "publishedDateTime": "2024-01-29T19:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-how-does-data-deduplication-work.md",
-      "title": "How does data deduplication work?",
-      "excerpt": "Demystifying data deduplication and explaining how it can work for your organization.\nThe post How does data deduplication work? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-does-data-deduplication-work/",
-      "originalUrl": "https://www.ibm.com/blog/how-does-data-deduplication-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T19:17:53Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia launches RTX 500 and 1000 Ada Generation laptop GPUs for AI on the go"
-    excerpt: "The next generation of mobile workstations featuring Ada Generation GPUs will incorporate a neural processing unit (NPU), a component of the CPU, along with an Nvidia RTX GPU equipped with Tensor Cores for advanced AI processing. This dual creation is ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-rtx-500-and-1000-ada-generation-laptop-gpus-for-ai-on-the-go/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-500-_-1000-Blog-Image.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia GeForce RTX 5090 could be up to 70% faster than the 4090, but its best chips might be reserved for AI"
     excerpt: "There’s another prediction that the card will most likely not have a fully enabled die since Nvidia will almost certainly save its most powerful cards for the booming AI market, the same market that launched the tech giant into the trillion-dollar earnin ..."
     publishedDateTime: 2024-02-28T00:00:00Z

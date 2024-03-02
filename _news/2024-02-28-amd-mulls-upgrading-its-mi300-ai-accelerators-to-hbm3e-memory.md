@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AMD's next-gen MI400 AI GPU expected in 2025, MI300 AI GPU refresh in the works"
-    excerpt: "AMD's next-gen Instinct MI400X AI accelerator expected in 2025, will compete directly against NVIDIA's next-gen Blackwell B100 AI GPU."
-    publishedDateTime: 2024-02-26T00:21:00Z
-    webUrl: "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 50
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96428_802_amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "AMD confirms ultra-fast HBM3e memory is coming to Instinct MI300 refresh AI GPU"
     excerpt: "AMD confirms it's working on beefed-up Instinct MI300 AI GPU with ultra-fast HBM3e memory, regular Instinct MI300X AI GPU features HBM3 non-e memory."
     publishedDateTime: 2024-02-28T04:08:00Z

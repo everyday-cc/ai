@@ -2,6 +2,83 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2024-01-09-3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-147.md",
+      "title": "3 Global Robotics Stocks To Consider As Market Grows At Annual Rate Of 14.7%",
+      "excerpt": "Fueled by significant advancements in artificial intelligence (AI) and machine learning, the once-futuristic realm of robots is swiftly becoming a reality. The global robotics technology market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-14.7",
+      "originalUrl": "https://www.nasdaq.com/articles/3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-14.7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-advanced-analytics-market-surges-projected-to-reach-us-266880-million-by-2034.md",
+      "title": "Advanced Analytics Market Surges, Projected to Reach US$ 26,688.0 Million by 2034",
+      "excerpt": "The global advanced analytics market is anticipated to reach a valuation of US$ 15,149.8 million in 2024, driven by rise in self-service analytics. The trend is expected to create new opportunities for the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2024/01/09/advanced-analytics-market-surges-projected-to-reach-us-26688-0-million-by-2034/",
+      "originalUrl": "https://www.fmiblog.com/2024/01/09/advanced-analytics-market-surges-projected-to-reach-us-26688-0-million-by-2034/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Data-Analytics.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T13:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-california-eyes-using-generative-artificial-intelligence-to-help-solve-traffic-problems.md",
       "title": "California eyes using generative artificial intelligence to help solve traffic problems",
       "excerpt": "Southern California drivers are no stranger to sitting in traffic during their commute, and now state officials want to figure out how to use artificial intelligence for possible solutions.",
@@ -981,102 +1058,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions.md",
-      "title": "How AI and machine learning solutions drive value for financial institutions",
-      "excerpt": "In an era where technology is reshaping industries, BMO is making waves in the financial sector through its robust artificial intelligence (AI) initiatives and machine learning technologies. A recent interview with Eric Morrow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
-      "originalUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/09/GettyImages-994786384-1.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
-      "publishedDateTime": "2024-01-08T14:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-5-best-ai-chatbots-in-2024.md",
-      "title": "5 Best AI Chatbots in 2024",
-      "excerpt": "IBM has long been developing artificial intelligence, including Deep Blue, the computer that beat the reigning world chess champion, and Watson, its supercomputer that won the game show Jeopardy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,101 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-12-20-the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat.md",
+      "title": "The widening web of effective altruism in AI security | The AI Beat",
+      "excerpt": "A follow up on a VentureBeat story last week adds context about the web of effective altruism connections in AI security circles.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-18-16.54.03-An-abstract-illustration-depicting-the-web-of-power-over-AI-security.-The-image-shows-a-complex-network-of-interconnected-metallic-threads-forming-a-.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T17:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-accelerate-release-lifecycle-with-pathway-to-deploy-part-1.md",
+      "title": "Accelerate release lifecycle with pathway to deploy: Part 1",
+      "excerpt": "For many enterprises, the journey to cloud reduces technical debt costs and meets CapEx-to-OpEx objectives\nThe post Accelerate release lifecycle with pathway to deploy: Part 1 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/accelerate-release-lifecycle-with-pathway-to-deploy-part-1/",
+      "originalUrl": "https://www.ibm.com/blog/accelerate-release-lifecycle-with-pathway-to-deploy-part-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T17:32:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator.md",
       "title": "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC’s Machine Learning Ops Accelerator",
       "excerpt": "This post was written in collaboration with Ankur Goyal and Karthikeyan Chokappa from PwC Australia’s Cloud &amp; Digital business. Artificial intelligence (AI) and machine learning (ML) are becoming an integral part of systems and processes, enabling decisions in real time, thereby driving top and bottom-line",
@@ -1096,100 +1191,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company.md",
-      "title": "Lake Central grad sells AI therapy app to Silicon Valley tech company",
-      "excerpt": "A recent Lake Central High School graduate sold an artificial intelligence therapy app he developed in his dorm room at Indiana University to a Silicon Valley tech firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html",
-      "originalUrl": "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/custom/image/62705d74-c54a-11ea-8606-37fa834f20c5.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T23:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Northwest Indiana",
-        "domain": "nwitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-ceo-initiative-2023-where-do-we-start-pause-or-stop-with-ai.md",
-      "title": "CEO Initiative 2023: Where Do We Start, Pause, Or Stop With AI",
-      "excerpt": "December 18, 2023 00:00 AM UTC - Updated 1 hour ago Erik Brynjolfsson, Jerry Yang and Akiko Yamazaki Professor and Senior Fellow, Stanford Institute for Human-Centered AI (HAI), Julie Sweet, Chair and CEO, Accenture Hemant Taneja, Managing Director and CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b",
-      "originalUrl": "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/331ba556-0b4a-41cb-9cb0-3569dae6595b/Images/posterImage-ver2-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp",
-      "publishedDateTime": "2023-12-18T22:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

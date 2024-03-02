@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-10-sensormatic-solutions-maximizes-shopper-experiences-through-store-guest-behaviors-powered-by-computer-vision-analytics-at-nrf-2024.md",
-      "title": "Sensormatic Solutions Maximizes Shopper Experiences Through Store Guest Behaviors Powered by Computer Vision Analytics at NRF 2024",
-      "excerpt": "As part of Sensormatic Solutions computer vision capabilities, Store Guest Behaviors is an artificial intelligence (AI) solution that leverages an adaptive learning model to help retailers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-09-how-to-find-out-if-facial-recognition-is-being-used-where-you-shop.md",
       "title": "How to find out if facial recognition is being used where you shop",
       "excerpt": "AI is watching. It sounds like something from a sci-fi movie.But if you go shopping at some big chain stores, you may be under the watchful",
@@ -1371,6 +1337,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office.md",
+      "title": "Hays County approves AI facial recognition technology for sheriff’s office",
+      "excerpt": "HAYS COUNTY, Texas (KXAN) — A facial recognition software could come to the Hays County Sheriff’s Office in the future. County commissioners recently approved for the sheriff’s office to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/",
+      "originalUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/05/haysheriffs_37206290_ver1.0-1.jpg?w=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/",
+      "publishedDateTime": "2023-12-13T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

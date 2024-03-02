@@ -1,27 +1,25 @@
 ---
 category: news
-title: "AI startup Cohere opens New York office in expansion"
-excerpt: "The startup, which develops foundation models that compete with OpenAI and focuses on serving enterprise customers, will house about 30 employees in its office in the Meatpacking District, home to major tech companies such as Google."
-publishedDateTime: 2024-03-01T15:07:00Z
-originalUrl: "https://www.aol.com/news/ai-startup-cohere-opens-york-130736511.html"
-webUrl: "https://www.aol.com/news/ai-startup-cohere-opens-york-130736511.html"
+title: "AI Startup Cohere Opens New York Office in Expansion"
+excerpt: "The startup, which develops foundation models that compete with ... Cohere said the new office will help it tap into the talent pool in New York, and support its work with enterprise AI adoptions with customers like McKinsey. \"New York is a critical ..."
+publishedDateTime: 2024-03-01T08:07:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
+webUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/5e26b55f5894d7238b6d943584d27d8f"
-    width: 800
-    height: 522
-    isCached: true
 
 related:
   - title: "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit"
@@ -53,6 +51,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "MlPh1ZrXp7w1rLdVZ6AgqBiZig3CcrwWpuaO4ALwasf8yJnDyWk867jyny5c6UoPj6iWN9ipzsV4VRSWOTk+z74rdnGzolI6dQdoJODlkXNTqproRYK1pJEHHVbzdYso2yCS6AfV3hUAUrnyOgWppfO6M9dJrHmx0udRZlUAkJdG62nd3BhxetEj7CVG7+SCc2IZa/LJqcxdg0wtv4Xz7Oc+dJhkTtxhEcGhaw/PSi5jwAtnZT0Y0nMslwnZs3lhlK/kAEzpilqLUromsrqEpmWkI3437kSUOO1h3dvPiZIAtkFAGXcbpNdI6ysmHvNrS9CC1WTYLXC+JvJbtZ6E9210UKQH/Uia9zM9HCvY1fk=;myPje+R57WmorbnYSxyNPA=="
+secured: "ifwFaPQ0nGrEbUtsJBpG+r2MaGimW6bl90FKzj+HsT3KN2Rv9owHnoD5p4jrD4MGqQonTR4OLPtnxxZcSOILzUbastIo//jTJuB+jHgBlsOoDxehjZLfk6Fb1+eOCmCsz8Lv0W+oMvvEGSfQfAD/YJX5x4ZpfX4b2j9W42nR8ZfmsP4StI+GvHN2p4Oh9FJYK2QNfPR/gGm3CLaShY1fqiuDFcTCo/C49urMxxF/emCNRx204wp3sBPQ79IP7tw3wAajD9ByKLcfsxBdaa9x2WyaDaU2l+Gj50wKNS5ClbQY3QC9VF/yLvlPc8Thzgzwir3KQPTZoZNE4ENwDLXUmLlL+VQuRoF75fTqAGxrDJjUaZQVVHAO4Ox+uL4jIAzgDwc5nnulNJWhRDPYSgVRaePCdDAtr6HZzjExlHadaIdZEtkYz9Ktcwqoum1Jd+ZAskVAFc2/CnY8Imq1bEDzmHffIg+fF5LkpvjO4yJkX4L3TsxqCz/CMcNQU/qcwOVlXvzLATUR0BGKlBPQf5Yj3g==;yI5EzQkoq7fHWZbpaihn+w=="
 ---
 

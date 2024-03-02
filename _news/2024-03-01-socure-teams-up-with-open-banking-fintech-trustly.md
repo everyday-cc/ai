@@ -44,20 +44,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 36
-  - title: "ASTRI sets up FinTech and ESG Alliance"
-    excerpt: "The \"FinTech and ESG Alliance\" marks ASTRI's third alliance formation ... Innovative Mind, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New-Industrialisation and Intelligent ..."
-    publishedDateTime: 2024-02-25T23:59:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4765"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://mma.prnasia.com/media2/2345405/1.jpg?p=medium600"
-        width: 599
-        height: 380
-        isCached: true
   - title: "B2B Construction Fintech Buildstock Books $1.6M in Pre-seed Funding"
     excerpt: "This funding enables Buildstock to scale, expand third-party fintech, AI and logistics integrations and bring more participants into the marketplace. Late payments cost the $1.4 trillion construction materials industry over $208B in 2022, up 53% from 2021."
     publishedDateTime: 2024-02-26T11:23:00Z
