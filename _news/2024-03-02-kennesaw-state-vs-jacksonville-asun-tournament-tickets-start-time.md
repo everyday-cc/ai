@@ -1,0 +1,66 @@
+---
+category: news
+title: "Kennesaw State vs. Jacksonville ASUN Tournament Tickets & Start Time"
+excerpt: "Preview the ASUN Tournament Kennesaw State Owls vs. Jacksonville Dolphins game with ticket info, start time, stats, odds and TV channel."
+publishedDateTime: 2024-03-02T14:50:00Z
+originalUrl: "https://www.wtoc.com/sports/betting/2024/03/04/kennesaw-state-vs-jacksonville-buy-asun-tournament-college-basketball-tickets/"
+webUrl: "https://www.wtoc.com/sports/betting/2024/03/04/kennesaw-state-vs-jacksonville-buy-asun-tournament-college-basketball-tickets/"
+type: article
+quality: 2
+heat: -1
+published: false
+
+provider:
+  name: WTOC-TV
+  domain: wtoc.com
+
+topics:
+  - AI
+
+related:
+  - title: "FGCU vs. Queens ASUN Tournament Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 7 seed Florida Gulf Coast Eagles (14-17, 8-8 ASUN) will hit the court in the ASUN tournament against the No. 8 seed Queens Royals (13-18, 7-9 ASUN), Monday at 7:00 PM ET live on ESPN+. Watch college basketball ..."
+    publishedDateTime: 2024-03-02T11:51:00Z
+    webUrl: "https://www.wjhg.com/sports/betting/2024/03/04/fgcu-vs-queens-buy-asun-tournament-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WJHG
+      domain: wjhg.com
+    quality: 22
+    images:
+      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/5WZRJUGLJBJUPFEHA6PJAYZ7AY.jpg?auth=565122e7465b0fe671137a683f6e2279cced7a984e226f20f23f8b17fbf5674a&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Jacksonville vs. Kennesaw State ASUN Tournament Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. seed Kennesaw State Owls (15-15, 6-10 ASUN) are squaring off against the No. seed Jacksonville Dolphins (14-16, 5-11 ASUN) in the ASUN tournament on Monday at KSU Convocation Center, at 7:00 PM ET airing on ESPN+."
+    publishedDateTime: 2024-03-01T21:39:00Z
+    webUrl: "https://www.wjhg.com/sports/betting/2024/03/04/jacksonville-vs-kennesaw-state-buy-asun-tournament-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WJHG
+      domain: wjhg.com
+    quality: 22
+    images:
+      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/NAQGP64UHVNGHP7KRJ4GWQFNRE.jpg?auth=fe3557f6710269dadd464a1092874727ac31225e5c7bfc150f0d439dd4546f53&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Texas State vs. Old Dominion Sun Belt Tournament Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 11 seed Texas State Bobcats (14-17, 7-11 Sun Belt) and the No. 14 seed Old Dominion Monarchs (7-24, 3-15 Sun Belt) will look to advance in the Sun Belt tournament on Tuesday as they square off at 8:30 PM ET."
+    publishedDateTime: 2024-03-02T11:50:00Z
+    webUrl: "https://www.kcbd.com/sports/betting/2024/03/05/texas-state-vs-old-dominion-buy-sun-belt-tournament-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KCBD
+      domain: kcbd.com
+    quality: 22
+    images:
+      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/NJKI5TSKJ5P53EIIQ4FXU6IEXM.jpg?auth=d8ca27b0a01ae821ea304b17d4aeee8d22838240a8d756eb06cdd69a90463d58&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "bh9F5wThMjhcgP2G8GmbaT78XFNBazTZu3XMckWc79LvOlYlT4YwEHqW+NvxbAeO5iELFAirfCfJdo6H+u1UyUpVTucg2VdNSvmuhHAPkOIYdp9c8VhQTiXT7rqDskG7d5Fu9MPskTlZD+FAJHBPUdr7aK4sQTZjEqn3oZNDuQTqbllvpy3q7Cf46Dgwej0DQh+YEI8hhVMoYR6QzTjlKIPTCqSdHZUK4sA6X64uQKsSuHXMhP+6s7tsn0caxQpBIjpEBVZTOs2cb+QjvvzEyTx27HVZZrNWJhPLhqP0St84ctVWaJLs6PlgWOm8yTnHkfvV0AjUQ5Jl7ANQpw06mGBAq6TGhGmut+u+T8Cmx+8sz/Lfzx73mfBFqIdXSZA0X0KZLqBzJO91pgD6cmAZCVcb/1ZLiFsXC7PvVVfVZW5J22zf7UR5NUSmIKdSbzu1v9iU9fd8gwZiGcUQ4htXsgNQHUrOo72sH5B8sKo0nV8NzjIN5ZBJZjTqCLZfxh8bJsAaAPD/c6M1SK4S2rScyA==;sAfCOHRlehW4u/B9QXqCGw=="
+---
+

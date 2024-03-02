@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-ev
 cdnAmpWebUrl: "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: WIBW
@@ -27,15 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "FasterCapital welcomes innovative startup evolve media AI to its acceleration program"
-    excerpt: "With the exponential growth of cloud data and the increasing number of devices, the need for a solution like Evolve Media AI has never been more pressing. Evolve Media AI is based in the United States and is raising $1."
-    publishedDateTime: 2024-02-26T14:14:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/fastercapital-welcomes-innovative-startup-evolve-media-ai-to-its-acceleration-program-qftn3phm"
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
+    publishedDateTime: 2024-02-28T15:56:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/more-extensive-more-timely-more-professionalai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-302074386.html"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
+      name: PR Newswire
+      domain: prnewswire.co.uk
     quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg?p=facebook"
+        width: 1600
+        height: 838
+        isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
+    publishedDateTime: 2024-02-28T17:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "bjMIBcYmJLKj2eIhwtkqxCBDEhe5xAF4DnQQ3Iv8LLgowDaoL0OZxN0vmGmdlmUdBOziBTPkD61vOJIamblK09WuLciNl7KrXxZpTNv0NqOyfhWxl85I++wbVTbiZZkLLoxFyecHfWiK5ztoJcuOSELJJ99xxJmV/l4c4y5dwv0w9IL3V5BdTUcrVjY7kRtGdgtd9f8sg/R/T5Ry+ek3B4gNt5Lw8wRQS8Z9x548LlwdWD8hITKFoa4iPUphkQ6in6YAhF37bDySGjk569wTWyL8snARYep7QrlPejYLzVQOGVsMJHzBT8ifGtpti3ixiFxvBNI4g5dH9/Z6B1UAUvfv7XhyXI6uQn+SY3i2RHwNjdJHudMAaRK8q9XnehLkYJXheFE8iIYT+TEKOM1UvHZST0w1Db9OVz42ZFaKQvstlFwIGa83uWD9M+44VicWA6FEjP+IzDyzSf52Daq26artF11TGiQ+nmOSjKD54+7nBd+newFfh/85Ifw7sxH9nC6/N0/85LqafhYhHT4tEQ==;jFIz6KeqNMgntHNCAo7ylg=="
 ---

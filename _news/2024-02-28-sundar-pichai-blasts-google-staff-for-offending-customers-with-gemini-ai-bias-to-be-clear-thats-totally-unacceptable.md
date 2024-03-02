@@ -88,22 +88,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google aims to relaunch Gemini AI image tool"
-    excerpt: "BARCELONA (Reuters) - Google plans to relaunch its AI tool that creates images of people, which it paused last week after inaccuracies in some historical depictions, in the next few weeks, Google DeepMind CEO Demis Hassabis said on Monday."
-    publishedDateTime: 2024-02-26T16:49:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/794305-Google-aims-to-relaunch-Gemini-AI-image-tool-"
-    ampWebUrl: "https://dunyanews.tv/amp/english/794305.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/794305.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2024/February/02-26-24/news_big_images/794305_13019390.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Android users, Google Gemini AI magic will soon be at your fingertips"
     excerpt: "Google has announced its intentions to integrate its advanced AI language models, dubbed Gemini, directly into Android smartphones starting in 2025."
     publishedDateTime: 2024-02-28T05:31:00Z
@@ -274,6 +258,15 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 34
+  - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
+    excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/mistral-ai-startup-launches-llm-taking-on-chatgpt-gemini-claude"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
   - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
     excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
     publishedDateTime: 2024-03-01T17:47:00Z
@@ -325,15 +318,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google’s AI bot accused of left-wing bias"
-    excerpt: "“Three weeks ago, we launched a new image generation feature for the Gemini conversational app (formerly known as Bard), which included the ability to create images of people. It’s clear that this feature missed the mark,” Google’s Knowledge and ..."
-    publishedDateTime: 2024-02-26T14:02:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2885234/google-ai-bot-gemini-accused-left-wing-bias/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
   - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
     excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
     publishedDateTime: 2024-02-28T04:28:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcdfw.com/news/business/money-report/salesforces-top-ai
 cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/business/money-report/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/3476778/?amp=1"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: NBC DFW
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Jim Cramer says Salesforce earnings should benefit from demand for AI-powered tools"
-    excerpt: "Salesforce is \"a big user of AI,\" Jim Cramer said Monday. \"That's going to be the theme on their conference call.\""
-    publishedDateTime: 2024-02-26T14:20:00Z
-    webUrl: "https://www.cnbc.com/2024/02/26/cramer-salesforce-earnings-should-benefit-from-demand-for-ai-powered-tools.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 61
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107377133-1708634775492-gettyimages-1953706165-img_2701_salesforce01_01222024.jpeg?v=1708634817&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "rKzNGLRL2DsrSkV95+bmtPQofDKbC40KJAogCBR334lxzIxe2vrHFogVAAlXipr548DV/wx356My8JUCD/xN2pKnDfn5F8vWcuPBnOMPhx1ATD73v5/n5RS8eQNT7BJgGjaQ4FxaFNgechPDmWUx+6cECeJnr+iP42HBHAcI7gcH2KyaTTlTl3Ac4H6QA/ig+o3s+PNXW7gdFbbGaALwfBUFx5eZG6O0ak9rY1ix37xVAR054xSpj9ixjfVbZXg9c+KIv/wKmZAgqa4GZaUSTBPprvrPqWc/sMv1ikbZAZGJmeNnkjopuujQ6Eco119X8U0mE3I1zAwSFORvHxpwPwlQh7mS5sgreD7N5BaITZI=;Vzha/gPwdx1KVwJXC/2Ktw=="
 ---

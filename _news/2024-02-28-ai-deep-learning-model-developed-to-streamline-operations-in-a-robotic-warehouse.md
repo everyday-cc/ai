@@ -53,6 +53,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "OpenAI trademarks GPT-6 and GPT-7 AI models"
+    excerpt: "The pursuit of Artificial General Intelligence (AGI) represents the frontier of AI research. AGI aims to create machines that can understand, learn, and apply knowledge in a manner akin to human intelligence. The development of open-source AI models ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-trademarks-gpt-6-and-gpt-7-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-trademarks-GPT-6-GPT-7-artificial-intelligent-models.jpg"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "hKfI4CuNSIehylxNM/6FLF6r1Q0lOtlUCwixhFPkSmNohXGNQEvi18V+7Ab1MnBNFd/NMj+dcEAscqqDlBw/b497+WIizeOzQ/gDcAUcYbjgUGzH5v2ImipDGDH0kdQpSJA7wUYOcrxzUB2OptWuLNxcduS0uyJC/q8ij79rF4kmAAVwPYlc0NIZK7/TYzwOe6cZbAIBH2tEmQxFtuNIc950tbFkVT0geqgAop/Nl5QxvYJ8HgPLf8Jbo+q8t0ZcKEAB4eL/FkXc1SCUI1g5mpyIg+JMLOVudT1gqWcrD7rq4HYl23YYGd2H8uTy8cngXp/S7I/EPUz6Y2dBxfxAhKXKudMaiLYUWFCtfcfMets=;O960oaGeHzAt95le1q4aRA=="
 ---

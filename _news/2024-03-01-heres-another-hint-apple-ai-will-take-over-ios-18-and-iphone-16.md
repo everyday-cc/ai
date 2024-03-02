@@ -41,20 +41,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "iOS 18's AI Features Could Revive iPhone Sales in China"
-    excerpt: "but cautioned that Apple needs to make significant progress in the AI space to meet consumer expectations and revive the company's popularity in China amid fierce competition from brands like Huawei, which are heavily investing in AI research and development."
-    publishedDateTime: 2024-02-26T15:34:00Z
-    webUrl: "https://www.macrumors.com/2024/02/26/ios-18-could-revive-iphone-sales-in-china/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 56
-    images:
-      - url: "https://images.macrumors.com/t/b9U6_r_1Wk3CZZJYQVme2V-3d2Y=/2250x/article-new/2023/09/iOS-18-Mock-Siri-Feature-Baubles.jpg"
-        width: 2250
-        height: 1266
-        isCached: true
 
 secured: "O9nKlogB3BTrtW1UWWVbT8BTTYQNB0k/teLKbHxkegAc0yKi54orR4OzNbT2XvpP5JYUMVpXQn9FWr/6gcL3kNZUgLQzKY2wfQP0T9yyS+ufk71Fe0Awi+VoVUuO/3/aTt0Iqaes+UTifywUr7zzHA+Y7sjUib2Hq1RUcpmnxbeuSp/6Dw59xpQLPocuVK5yJm1ecUqfa+juT80YLPE7TdSVJg/oZRxbmeDB4Krqj+14XhQ8/FJ0tmwQHADx3ywC+KBVmliM5/at3MTAA0IMKZ8ZNfFv7ADMNXHuLLHzTDMC3i29Y8tRNbc+SJfFniHixYEZZiZ+YvmnbSc5JUfcj7/qdVTCh19XDYTlU0IFLQ5FAFsmoQlRrG45V8Hqj9ADbGcCCthD6W/Z4vNIk0AESCF+5982BUd7BV6P5ZNzJNe3mTS7Gq0JnYaG88UQnUiDYhfUiIWTZwKqsPJ3f59dQJYvp1XPdmXB4QZ+y6SbvJlcKgsl3Pe6pxMe4bScPumppCGYekAF7rMlOBmpEyhScA==;kW2k3sQNhy3ZeVrI5qXtwg=="
 ---

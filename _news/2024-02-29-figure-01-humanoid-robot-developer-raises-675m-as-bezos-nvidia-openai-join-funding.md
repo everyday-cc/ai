@@ -209,15 +209,6 @@ related:
         width: 2221
         height: 1403
         isCached: true
-  - title: "Microsoft Partners With Mistral AI To Rival OpenAI"
-    excerpt: "In return, Mistral would provide commercial language models on Microsoft's Azure cloud computing platform. \"What we're fundamentally agreeing to a long-term partnership with Mistral AI so that they can train and deploy their next generation models for AI ..."
-    publishedDateTime: 2024-02-26T16:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-with-mistral-ai-to-rival-openai-1033104560"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "NVIDIA and Microsoft-backed humanoid robot maker signs with OpenAI to make robot brains"
     excerpt: "A humanoid robot manufacturer has announced it's closed a deal with ChatGPT-maker OpenAI to put its technology inside human-like robots."
     publishedDateTime: 2024-03-01T08:01:00Z
@@ -300,20 +291,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 55
-  - title: "Humanoid robot-maker Figure partners with OpenAI"
-    excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
-    publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
-    type: article
-    provider:
-      name: The Roanoke Times
-      domain: roanoke.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
     excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
     publishedDateTime: 2024-02-27T13:10:00Z
@@ -377,6 +354,15 @@ related:
     provider:
       name: The York Dispatch
       domain: yorkdispatch.com
+    quality: 34
+  - title: "Humanoid robot-maker Figure partners with OpenAI"
+    excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
+    publishedDateTime: 2024-02-29T22:30:00Z
+    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
+    type: article
+    provider:
+      name: wacotrib
+      domain: wacotrib.com
     quality: 34
   - title: "Daily Digest: Chime dinged for customer service; AI robotics firm rakes in $675M, inks new OpenAI partnership"
     excerpt: "Airwallex, a global payments and financial startup, announced the expansion of its global leadership ... Figure and OpenAI have entered into a collaboration agreement to develop next generation AI models for humanoid robots, combining OpenAI's research ..."

@@ -59,20 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Six Generative AI Predictions For 2024 And Beyond"
-    excerpt: "We are a month into 2024, and generative AI is starting the year off with a bang. While AI has been a hot topic in technical circles for years, the rise of ChatGPT made AI accessible to everyone—from sales teams to high school students."
-    publishedDateTime: 2024-02-26T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/26/six-generative-ai-predictions-for-2024-and-beyond/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen"
     excerpt: "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing."
     publishedDateTime: 2024-02-28T23:59:00Z
@@ -152,6 +138,15 @@ related:
       name: The Economist
       domain: economist.com
     quality: 19
+  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
+    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
+    publishedDateTime: 2024-03-02T14:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 15
 
 secured: "+emeTFA1DgyPI6LlK1IqUtrL6vsxOliHCmzkBZL6L5FSy9I6qpgW5q/6SKh0XMS28v6lnORklbcof3MI6MNy09K6POcV+KSqMud6JhUacYo8ftWlMxqsBvBCLGEraHEqT9R5rnFU2qokqBr20/DC8Oxv6twfV6J/+EYJFnt9iZNNjQGCkJbrHqZj4nEHBEquHPdEUWP/jvZJS/YvcFD/LRE/rh0nVHrN/hJZ+d7dHOHgSbyYgKhXDWlFc84gkb33jJRC95CXDjGasrE29Yha33BLp5xIZfKRJQ+hPUaMJPLYpccsdqrZC2aAyr3v/gbGTCZh6iNEa0heZZloxzKCo/97L4Dr/5mH+3emJ4FDJnPBMJHsxktJKGluCGmNhQ2zGG0VUR49uCY1YewPVica2cE4r4G5hLHN2hGnzR2pmhTV7RArelzG6srRLKYhwQOOlTa7yRQ219Bo9BikWHxStw96R0Wem//bN6dZ1dUI3NW/WBrB/2jSLM0sLYyrVXO3fu0MebfQHiBj7zPP7BdYBg==;gXIL0EUsU0YuJzeVirK9CQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-d
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Daily Star
@@ -40,6 +40,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2024/02/arnaud-jaegers-IBWJsMObnnU-unsplash-scaled.jpg?_t=1709035648"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Harnessing artificial intelligence to enhance infectious disease outbreak investigations"
+    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will highlight the potential artificial ... called network graph theory and graph neural networks ..."
+    publishedDateTime: 2024-02-27T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-to-enhance-infectious-disease-outbreak-investigations.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 30
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "tYBXbpD6rLleiLWkLIaudetMKrKFjC6iKTmpvf7ftu1a72SuMTNriWBuZXsM5mW+/L0NHFp6zUxfaJf8LR9Mrb/k5dM7mNvygcZJJ+8Z2II3wvQh4unuN7BOyETQXp/sK2F2AhWtrBxY94guSR5NxEChfOq9VYkQ7Nb67VIcs6hn50I5drO5TtRr8nFGdTgtaj/jT6/V93eSbp9+YPLwJQCaBvQlsyPoMbMc4vu0FnTBrl7vwv725dokXyEQH9ko+vrGKI6VvtblJCQ/2uC4S8+86EnpnMxo/iGRc3fZ01pdjr/mycBzP9bIlCz8XkEisoSB1XQ+lysPKJgQa+uzcbGKF8y2XEcUAv3gem5+2zhYSHv7Venj+aEK5xqaujsxZI6QCT56o5k4B7Qjxr8rLpAQXK3YoThsLjdTQLFJqGedM/A+eofJNXw2BwtX6sdNgQ9JjcYpCJhucHI1fdwsueZXlD4deulBotOH7BM/Vfo6JvVMrKYMD91H6dYw65/IUhIl140vqpyugl6dVmoBvA==;ZjPgwlXfUd+0K1Lz5OCRHw=="

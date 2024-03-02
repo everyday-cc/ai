@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI revolutionizes the customer experience landscape"
-    excerpt: "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey."
-    publishedDateTime: 2024-02-26T15:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/"
-    ampWebUrl: "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/"
+  - title: "K-State Social Media Week to feature events in artificial intelligence, content creation"
+    excerpt: "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ..."
+    publishedDateTime: 2024-02-27T17:21:00Z
+    webUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/"
+    ampWebUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: WIBW
+      domain: wibw.com
+    quality: 50
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200"
-        width: 1200
-        height: 671
-        isCached: true
-  - title: "The Program-Level AI Conversations We Should Be Having"
-    excerpt: "Affirm their existing program-level learning outcomes and determine if a generative AI-specific outcome is needed. For example, a department might decide to revise their ethics-related program-level learning outcome to reflect a commitment to the ethical ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.insidehighered.com/opinion/views/2024/02/28/next-step-higher-eds-approach-ai-opinion"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-02/Untitled%20design%20-%202024-02-27T121453.219_c.png?itok=UDLdFHig"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "What organizations should know about cybersecurity in the age of artificial intelligence"
-    excerpt: "Artificial intelligence (AI) brings many benefits to organizations, from process automation and increased efficiency to enhanced customer experiences. But cybercriminals have the same access to the technology. As it evolves, so do the risks."
-    publishedDateTime: 2024-02-26T16:21:00Z
-    webUrl: "https://www.bizjournals.com/bizjournals/news/2024/02/26/what-organizations-should-know-about-cybersecurity.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
-    images:
-      - url: "https://media.bizj.us/view/img/12679474/gettyimages-1508780671*1200xx2121-1195-0-218.jpg"
-        width: 1200
-        height: 676
+      - url: "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true"
+        width: 800
+        height: 450
         isCached: true
   - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
     excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
@@ -83,15 +55,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Geotab Brings Conversational AI to Connected Transportation Solutions at Mobile World Congress"
-    excerpt: "CNW/ - Geotab Inc. (\"Geotab\"), a leading connected vehicle technology provider, will demonstrate its industry-first generative AI assistant for connected transportation, Geotab Ace, at Mobile World Congress."
-    publishedDateTime: 2024-02-27T19:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-geotab-brings-conversational-ai-connected-transportation-solutions-mobile-/2024/02/27/9969165.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "dPFehCUrY9nCYoIjqKlAjtKa8nv/5pVLYNOPCv5HYL6k2+Eu1Dxm/VjGpdApytSvlW+aTp3BSp35OWBKJ9sMY0+Wcapb7AeXzyhujq4KWDSOOXpKwWvePUawoIVnO2S4mhy/bvsWHA6701jj5ys1Z7UBEGorjQFlrl6cSfu/O6IhqZIjE19j2LoGouZotYl4n3F0QlZ/q8GLTWokE0/HKY3ixgIif29+LObHbrR3LV8Vd/DJ8/uHQOMfDP2e57WZoiAmZtY6St7jGd0Zp0FB7h31QuFeVLGtGvpRw1Cy4isQpnF4mNP0C8XTP0no2Z8o/QDDdyFsC6i9tebnTQpiEdQ93BpriXoDl8qHsMmecKc=;6UvEGx2wpcojLWjKdT8ZfA=="
 ---

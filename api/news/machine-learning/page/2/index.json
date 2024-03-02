@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-deep-learning-from-the-bench-a-conversation-on-algorithmic-fairness.md",
+      "title": "(Deep) Learning from the Bench: A Conversation on Algorithmic Fairness",
+      "excerpt": "As machine learning and other algorithmic predictive tools rely on biased data and produce disparate outcomes, they highlight unresolved tensions and limitations in legal frameworks in the U.S., Canada and EU pertaining to equality and non-discrimination.",
+      "sourceUrl": null,
+      "webUrl": "https://cyber.harvard.edu/events/deep-learning-bench-conversation-algorithmic-fairness",
+      "originalUrl": "https://cyber.harvard.edu/events/deep-learning-bench-conversation-algorithmic-fairness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2024-01/Deep%20Learning%20Event%20Design-2.png?h=57024e64&itok=68NpRpk2",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T19:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-language-of-ai-defining-the-most-common-terms.md",
       "title": "The Language of AI: Defining the Most Common Terms",
       "excerpt": "Natural Language Processing: A branch of AI that uses machine learning to process and interpret text and data. Neural Network: A computer system made up of interconnected \"artificial neurons\" that help computers learn from data and recognize patterns.",
@@ -1218,40 +1261,6 @@
       "provider": {
         "name": "中国日报网",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-bell-and-mila-to-study-how-deep-learning-ai-can-improve-business-performance.md",
-      "title": "Bell and Mila to study how deep learning AI can improve business performance",
-      "excerpt": "Mila researchers will work alongside Bell's Machine Learning and AI teams to build on those investments by using cutting-edge deep learning neural network techniques to identify opportunities for improving business performance and customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/02/9956506.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/02/9956506.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T13:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

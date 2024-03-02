@@ -26,45 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "Mistral AI releases new model to rival GPT-4 and its own chat assistant"
-    excerpt: "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ..."
-    publishedDateTime: 2024-02-26T15:10:00Z
-    webUrl: "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/"
-    ampWebUrl: "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1630826367.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New Mistral Large AI model beats GPT-3.5 and Llama2-70B"
-    excerpt: "This model is currently the world’s second-ranked and is available through an API on Azure and Mistral AI’s platform. Despite its closed-source nature, Mistral Large offers cutting-edge text generation and reasoning capabilities, excelling in complex ..."
-    publishedDateTime: 2024-02-27T12:46:00Z
-    webUrl: "https://www.geeky-gadgets.com/new-mistral-large-ai-model-beats-gpt-3-5-and-llama2-70b/"
+  - title: "OpenAI developing fully autonomous robots powered by AI"
+    excerpt: "OpenAI has joined forces with Figure to develop autonomous robots that are powered by artificial intelligence. To be used as a workforce to"
+    publishedDateTime: 2024-03-01T10:33:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-robot-figure/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 39
+    quality: 56
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Mistral-Large-AI-model.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/OpenAI-Figure-autonomous-humanoid-robot.jpg"
         width: 1280
-        height: 784
+        height: 860
         isCached: true
-  - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
-    excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/mistral-ai-startup-launches-llm-taking-on-chatgpt-gemini-claude"
+  - title: "AI deep-learning model developed to streamline operations in a robotic warehouse"
+    excerpt: "Researchers from Massachusetts Institute of Technology (MIT) have developed a deep-learning technique that can identify the optimal areas for reducing robotic traffic in a warehouse production system. According to the research team, large robotic ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-deep-learning-model-developed-to-streamline-operations-in-a-robotic-warehouse"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 49
+    images:
+      - url: "https://www.theengineer.co.uk/media/yexjghw0/robotic-warehouse.jpeg"
+        width: 5120
+        height: 2880
+        isCached: true
+  - title: "Intel plans to have fully AI-automated chip factories powered by 'Cobots' in the future"
+    excerpt: "Intel teases it has plans for fully AI-automated chip-making factories with 'Cobots' in the future, alongside its next-gen 1nm process node in 2027."
+    publishedDateTime: 2024-02-28T23:40:00Z
+    webUrl: "https://www.tweaktown.com/news/96531/intel-plans-to-have-fully-ai-automated-chip-factories-powered-by-cobots-in-the-future/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96531_02_intel-plans-to-have-fully-ai-automated-chip-factories-powered-by-cobots-in-the-future_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "eDVmq62AMStrQY7T2WhlyZx7T3wqsgxQCx9X4JStde+xEf9b9TZeSy2N7xnqtjntdwvmUH4dfwlrXxog3IItTcYZ9fWqrAyoEBR7YHt1b1wwLdlwwlubZOGUH4BWHApVHHpIHAixCMJ/pNcCoPzWsUrpq9NOcr6N2Fz/P6Hz+1KtLpGH3F4Dkp2yWBqqKQ69RrAU+kuOgw7L1yKxHYZKdPQW0b89FFxil35+MPKoaOz25fJYDG0vs7RCFxw6Mga8HoxCXdr9eHwmx+1hZbrwEKGl0YooMpspSxkLqcklmWG9SHRwXSuQJ8csi8qMQmftQCM+W4VNDMFiKySCoxUmhtZcOnKWiJFJu9RXxpdiDrgW9CtmS5631F8u+S7vIx5Yv6GdKczruEjU4VtvDtaVg+VT1BVWdPakMDffW6bcWv0ndoDsw2WJBq7NHWgx5n3SRYkh/ojKwT2udlXnQ8ux6vwfoEZJdg44Hin21rhG4by/XAg4P32G3FT6W+jDckHXFhEaw1C/jf2K6TM4FkGHzA==;0tNjXcTpk/5EtqFKa/nxgg=="
 ---

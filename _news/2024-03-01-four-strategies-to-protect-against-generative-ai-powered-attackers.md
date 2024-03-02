@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AVIA’s Generative AI Strategic Collaborative Highlights Six-Month Milestones And Outlines Next Steps For Pioneering Initiative"
-    excerpt: "Healthcare AI collaborative identifies 32 generative AI use cases and five core frameworks in first six months"
-    publishedDateTime: 2024-02-26T16:04:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article285939161.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 0
 
 secured: "2sEzIw4Bfz+tZaY9KYPqFE586JGtoETgbzrEgBnb73HyQV/WEWrovuYBOgFm6LCsJYd3rfG6spFVzVh+U1/a8Qmd0OELodqrbN3Y4dCUBohYO6ndHGEpRZGaz9cRxyWGnipJ/bN+8uEEHSCKK1E30Eg8DRt+4pgGQ6LzqwzPZxyQzeguYDr8puXDw9LKONQQLRLkBsrAxsFUd7fSrMTSNaqD5ivUqh6hEE3skgMlfddVyLRah1RQ9+oL8EPiZY1/tSTXHebOlL05ukP+cZMsWNegZrJZ/EZdMqzIHCiCQ8gk4wl9BHSxdfcq5U+CDa7P3OoGI4xlxbsyQz9KyhPW/z689PC2acHqDxD4ZVTkk3LBMYsBWb9C3yGLyxG5XA8JDJTG+b1X8CdoNOB4IGmyr7L0VrmPNwZR4MkiN0+mGG3mtVPawsUCwQBoD2Cw5zJRetnqanqTtdUcVH/ZtrWW66dE7G0CMEw7PiV9oZ4d1tAqfP/IzBbKQViAVGUYa8UV7osTmJpS+GDzgGCNLjrbiw==;afnux9V/WagfHXm17z2dBA=="
 ---

@@ -3,26 +3,20 @@ category: news
 title: "Humanoid robot-maker Figure partners with OpenAI"
 excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
 publishedDateTime: 2024-02-29T22:30:00Z
-originalUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
-webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
+originalUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
+webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Roanoke Times
-  domain: roanoke.com
+  name: wacotrib
+  domain: wacotrib.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker"
@@ -223,15 +217,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft Partners With Mistral AI To Rival OpenAI"
-    excerpt: "In return, Mistral would provide commercial language models on Microsoft's Azure cloud computing platform. \"What we're fundamentally agreeing to a long-term partnership with Mistral AI so that they can train and deploy their next generation models for AI ..."
-    publishedDateTime: 2024-02-26T16:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-partners-with-mistral-ai-to-rival-openai-1033104560"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "NVIDIA and Microsoft-backed humanoid robot maker signs with OpenAI to make robot brains"
     excerpt: "A humanoid robot manufacturer has announced it's closed a deal with ChatGPT-maker OpenAI to put its technology inside human-like robots."
     publishedDateTime: 2024-03-01T08:01:00Z
@@ -397,6 +382,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "m35G3Cg2o2EQZmnk+KOyYqfRClr3sYVBsFdZl7ZSsnDwrFXz8fL3QWTGYnwjXO93ZAYoJUh6MBQRnMvsFGzJA5u9/flW93lGsFG7I2ssejJLzNmjH/O+Deo4w2ns0zEmr33rfDSqMn3nNh8fJ07i2ITwk870tMsfl4QY1yiDEj0hMaACJO5OfFTHBMznWkvAZwhvskFMIzVcGKMNtasV0wUFsIdp/u5iJusPyK4/J3pjPwtSxarCs1eFqlsRxMb2/TAuO6VoPj6twFRQsD24vuB7Fr8Bj7z6ydafWD48SR7hRb3EfkWkNtWzSTlC8J7ZBO5COBkYT+A59CVxXS20l9DqnRui2jqUL8Ac0Bt2mCE=;w6GTtUiQUNvTLunPMUqdOQ=="
+secured: "cKBFVgFfOyy2DwWd/ROgT5nkp+0giy2bmgghvfbRz0AcUzyPci25MI2WaMRqlS/WkNjKYzx04iegYqAfoWV25Y1hoyM+Ez2R1MRC7NIdqKntn3EwWZ6hnSryJY8tWsVaY0+7vWmAFlinUFUl7oUPcTL6t0JuwuafiLm+cNDKwt3gUT/fN36OmEBew9ybUrnSof2/0QLrxeRYgtA7JlieCEj56RrPE9uJ54IfqSVeip0dhdXWQPRgkfJOu1Zc/txHt0jrrE9he81R2jkteYR6kLGJXDLELlH7pCzbLRAzF9yh/eDiZ2qOjUqB4p2k4tKUIWCxklfwLBrv1etb+PAbElntm7AV9pEnYrqDVFVhJMYP/JT+kwksAG5ui2G28UxaRkyM6z3qGQbzooegq6l7okARploE82HZmE6NZkSDLdbrsGU/2s4nfYlue9fE4/pyQXtbQ/BYGDfbH6yYzGXPTPxbpDz8tR7xbbhGXUDQMSYV+XTroip6nQS9yyh7Rke25An+/kkRDmOziXW/htkscw==;RHoFl49oP4D8S5BxgR23Sg=="
 ---
 

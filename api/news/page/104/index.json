@@ -2,6 +2,143 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-12-04-in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy.md",
+      "title": "In digital era, experts push for use of handwriting for mental health therapy",
+      "excerpt": "Kolkata: In the age of artificial intelligence and electronic gadgets, psychologists are adopting handwriting as a therapeutic tool for the treatment .",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/kolkata/in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy/articleshow/105712611.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/kolkata/in-digital-era-experts-push-for-use-of-handwriting-for-mental-health-therapy/articleshow/105712611.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T02:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-can-broadcoms-latest-silicon-ai-chip-revolutionize-network-efficiency.md",
+      "title": "Can Broadcom’s latest silicon AI chip revolutionize network efficiency?",
+      "excerpt": "Broadcom's Trident 5-X12 chip revolutionizes AI cluster networking with advanced AI and neural network technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2023/12/how-is-broadcoms-ai-chip-redefining-networking/",
+      "originalUrl": "https://techwireasia.com/2023/12/how-is-broadcoms-ai-chip-redefining-networking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T01:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study.md",
+      "title": "Robot chemist powered by artificial intelligence could create oxygen needed for humans colonising Mars: study",
+      "excerpt": "A robot chemist powered by artificial intelligence could solve the puzzle of providing oxygen to humans on Mars, according to the results of a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c",
+      "originalUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c?amp",
+      "cdnAmpWebUrl": "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c?amp",
+      "publishedDateTime": "2023-12-04T00:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky News Australia",
+        "domain": "skynews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-ai-networks-are-more-vulnerable-to-malicious-attacks-than-previously-thought.md",
+      "title": "AI networks are more vulnerable to malicious attacks than previously thought",
+      "excerpt": "Artificial intelligence tools hold promise for applications ... on determining how common these sorts of adversarial vulnerabilities are in AI deep neural networks. They found that the vulnerabilities are much more common than previously thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1010001",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1010001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-artificial-intelligence-ai-what-it-is-and-how-it-is-used.md",
       "title": "Artificial Intelligence (AI): What It Is and How It Is Used",
       "excerpt": "Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take ...",
@@ -889,160 +1026,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-amazons-290-very-best-cyber-monday-2023-deals-you-cannot-miss.md",
-      "title": "Amazon’s 290+ Very Best Cyber Monday 2023 Deals You Cannot Miss",
-      "excerpt": "Laneige lip masks, Apple AirTags, and more holiday gifts are up to 80 percent off We independently evaluate all recommended products and services. If you click on links we provide, we may receive ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
-      "originalUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T17:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-not-all-generative-ai-highlights-from-aws-reinvent.md",
-      "title": "Not all generative AI: Highlights from AWS re:Invent",
-      "excerpt": "While gen AI certainly stole the spotlight, my vote for the most intriguing news from AWS was its progress extending serverless functionality to various data services, including the Aurora relational database service, the Redshift cloud data warehouse, and the ElastiCache caching service.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/02/not-generative-ai-highlights-aws-reinvent/",
-      "originalUrl": "https://siliconangle.com/2023/12/02/not-generative-ai-highlights-aws-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T16:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-brfs-center-for-molecular-imaging-and-therapy-to-acquire-states-most-advanced-petct-scanner-by-january.md",
-      "title": "BRF’s Center for Molecular Imaging and Therapy to acquire state’s most advanced PET/CT scanner by January",
-      "excerpt": "SHREVEPORT, La. - Northwest Louisiana is closer to offering the state’s most technologically advanced PET/CT scanner to patients of BRF’s Center for Molecular Imaging and Therapy (CMIT). BRF has relea",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
-      "originalUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/7/b3/7b34c022-9137-11ee-b60c-037a81950478/656b682f59fe6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T16:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTBS",
-        "domain": "ktbs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-computer-vision-eastern-africa.md",
-      "title": "Computer Vision - Eastern Africa",
-      "excerpt": "The market size in the Computer Vision market is projected to reach US$48.55m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 14.98%, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T13:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

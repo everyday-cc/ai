@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-29-machine-learning-vs-ai-vs-deep-learning-the-differences-explained.md",
+      "title": "Machine learning vs AI vs deep learning: The differences explained",
+      "excerpt": "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
+      "originalUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
       "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
       "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
@@ -116,7 +159,7 @@
       "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1351,49 +1394,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-deep-learning-from-the-bench-a-conversation-on-algorithmic-fairness.md",
-      "title": "(Deep) Learning from the Bench: A Conversation on Algorithmic Fairness",
-      "excerpt": "As machine learning and other algorithmic predictive tools rely on biased data and produce disparate outcomes, they highlight unresolved tensions and limitations in legal frameworks in the U.S., Canada and EU pertaining to equality and non-discrimination.",
-      "sourceUrl": null,
-      "webUrl": "https://cyber.harvard.edu/events/deep-learning-bench-conversation-algorithmic-fairness",
-      "originalUrl": "https://cyber.harvard.edu/events/deep-learning-bench-conversation-algorithmic-fairness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2024-01/Deep%20Learning%20Event%20Design-2.png?h=57024e64&itok=68NpRpk2",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T19:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

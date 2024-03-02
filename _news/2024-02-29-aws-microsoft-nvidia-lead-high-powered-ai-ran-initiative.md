@@ -82,36 +82,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft and Mistral AI reveal partnership to help boost its AI large language models"
-    excerpt: "Today, Microsoft revealed a multi-year partnership with France-based Mistral AI. In the post on its Azure blog, Microsoft said that the collaboration with Mistral AI will allow its large language models to be used on Microsoft's Azure AI supercomputing ..."
-    publishedDateTime: 2024-02-26T16:32:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-mistral-ai-reveal-partnership-to-help-boost-its-ai-large-language-models/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-mistral-ai-reveal-partnership-to-help-boost-its-ai-large-language-models/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-mistral-ai-reveal-partnership-to-help-boost-its-ai-large-language-models/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 96
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2024/02/1708962323_microsoft-mistral-ai_story.jpg"
-        width: 760
-        height: 444
-        isCached: true
-  - title: "Microsoft and Mistral AI announce new partnership to accelerate AI innovation and introduce Mistral Large first on Azure"
-    excerpt: "Today, we are announcing a multi-year partnership between Microsoft and Mistral AI. We are fueled by a steadfast dedication to innovation and practical applications, bridging the gap between pioneering research and real-world solutions.\nThe post Microsoft and Mistral AI announce new partnership to accelerate"
-    publishedDateTime: 2024-02-26T14:10:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-first-on-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Mistral-featured-image.jpg"
-        width: 1260
-        height: 708
-        isCached: true
   - title: "Robotics Startup Figure Raises $675 Million From Microsoft, Nvidia, Other Big Techs"
     excerpt: "(Reuters) - Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia, Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion."
     publishedDateTime: 2024-02-29T13:02:00Z
@@ -183,34 +153,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft partners with Mistral in second AI deal beyond OpenAI"
-    excerpt: "or through Azure AI Studio and Azure Machine Learning. Mistral Small will also be available today, offering improved latency over Mistral’s 8x7B model. Mistral is also releasing a new ..."
-    publishedDateTime: 2024-02-26T15:23:00Z
-    webUrl: "https://www.theverge.com/2024/2/26/24083510/microsoft-mistral-partnership-deal-azure-ai"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Mistral releases new ‘top-tier’ AI model, partners with Microsoft"
-    excerpt: "Paris-based Mistral is launching a new \"flagship\" AI model for on Microsoft's Azure, partnering up with the tech giant."
-    publishedDateTime: 2024-02-26T15:37:00Z
-    webUrl: "https://thenextweb.com/news/mistral-releases-new-ai-model-partners-microsoft"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-26-11.jpg&signature=ae92ab7c1644fc470d3931fadebc398b"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "E.U. Watchdog to Examine Microsoft’s Mistral AI Investment"
     excerpt: "M icrosoft Corp.’s Mistral AI investment is set to be analyzed by the European Union’s competition watchdog at the same time that its deep ties to OpenAI Inc come under regulatory scrutiny."
     publishedDateTime: 2024-02-27T15:34:00Z
@@ -238,20 +180,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png"
         width: 600
         height: 299
-        isCached: true
-  - title: "Mistral partners with Microsoft, announces new large AI model with chat app"
-    excerpt: "In MMLU tests, Mistral Large had an accuracy of 81.2%, sitting behind GPT-4’s, but doing much better than Llama 2 70B and Gemini Pro 1.0."
-    publishedDateTime: 2024-02-26T16:57:00Z
-    webUrl: "https://venturebeat.com/ai/mistral-partners-with-microsoft-announces-new-large-ai-model-with-chat-app/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/robot_writing_on_a_notepad-e1708964969795.jpg?w=1200&strip=all"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Microsoft partners with OpenAI-rival Mistral for AI models, drawing EU scrutiny"
     excerpt: "On Monday, Microsoft announced plans to offer AI models from Mistral through its Azure cloud computing platform, which came in conjunction with a 15 million euro non-equity investment in the French firm, which is often seen as a European rival to OpenAI. Since then, the investment deal has faced scrutiny from EU regulators."
@@ -298,22 +226,6 @@ related:
       - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
         width: 1320
         height: 742
-        isCached: true
-  - title: "Microsoft invests in Europe's Mistral AI to expand beyond OpenAI"
-    excerpt: "Microsoft on Monday announced a new partnership with French start-up Mistral AI – Europe's answer to ChatGPT maker OpenAI — as the U.S. tech giant seeks to expand its footprint in the fast-evolving artificial intelligence industry."
-    publishedDateTime: 2024-02-26T16:40:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/5170622/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/5170622/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/microsoft-invests-in-europes-mistral-ai-to-expand-beyond-openai/5170622/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 74
-    images:
-      - url: "https://media.nbcnewyork.com/2024/02/107378366-1708964869127-gettyimages-1850859194-AA_16122023_1456011.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft Invests in French Startup Mistral AI to Foster AI Innovation"
     excerpt: "Microsoft entered a multi-year partnership with Mistral AI aimed at fostering innovation in the artificial intelligence AI industry."
@@ -440,20 +352,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
         width: 700
         height: 394
-        isCached: true
-  - title: "Microsoft teams up with Mistral to bring start-up's AI model on Azure"
-    excerpt: "and code generation — is available through Azure AI Studio and Azure Machine Learning. Mistral added that the AI model achieves strong results on commonly used benchmarks, making it the world's second-ranked model generally available through an API ..."
-    publishedDateTime: 2024-02-26T15:23:00Z
-    webUrl: "https://seekingalpha.com/news/4071598-microsoft-teams-up-with-mistral-to-bring-start-ups-ai-model-on-azure?source=content_type%3Areact|first_level_url%3Ahome|section%3Aindices|section_asset%3Alatest_news|line%3A1"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 69
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1495819409/image_1495819409.jpg?io=getty-c-w750"
-        width: 750
-        height: 429
         isCached: true
   - title: "Microsoft president commits to Azure open platform for AI"
     excerpt: "Brad Smith sets out Microsoft’s ambitions to make Azure the best platform to host foundational AI models, and train and run AI applications."
@@ -790,15 +688,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Buy Rating on Microsoft: Strategic AI Partnerships Poised to Enhance SaaS Offerings and Operating Margins"
-    excerpt: "Havemeyer believes that by integrating Mistral’s sophisticated AI models within Microsoft’s Azure AI infrastructure, the tech giant stands to potentially infuse its SaaS offerings with next-generation capabilities. This move could allow Microsoft to ..."
-    publishedDateTime: 2024-02-26T15:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-microsoft-strategic-ai-partnerships-poised-to-enhance-saas-offerings-and-operating-margins-1033104789"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Microsoft's next AI feature for Windows 11's Paint app could be a real stroke of genius"
     excerpt: "There's an example on YouTube where the creator wants to draw the head of a green alien, so they start off with a green blob and a couple of black eyes. The AI doesn't get what they're driving at, so telling it with text that they want to create a 'green ..."
     publishedDateTime: 2024-02-27T04:45:00Z
@@ -947,24 +836,6 @@ related:
       name: unilad
       domain: unilad.com
     quality: 36
-  - title: "Microsoft Announces Cloud Partnership With Mistral AI"
-    excerpt: "Microsoft announced a multi-year partnership with French generative AI startup Mistral AI. The company will make Mistral AI's premium models available in the Azure AI Studio and Azure Machine Learning model catalog."
-    publishedDateTime: 2024-02-26T15:02:00Z
-    webUrl: "https://www.thurrott.com/a-i/298349/microsoft-announces-cloud-partnership-with-mistral-ai"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 34
-  - title: "Microsoft Partners With French Startup Mistral AI"
-    excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
-    publishedDateTime: 2024-02-26T14:00:00Z
-    webUrl: "https://menafn.com/1107901282/Microsoft-Partners-With-French-Startup-Mistral-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
     publishedDateTime: 2024-02-26T22:16:00Z
@@ -1010,15 +881,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Telefónica partners with Microsoft to incorporate generative AI into Kernel"
-    excerpt: "Telefónica today announced its partnership with Microsoft to integrate Azure AI Studio into Kernel applying generative AI to key workflows"
-    publishedDateTime: 2024-02-26T13:45:00Z
-    webUrl: "https://www.telefonica.com/en/communication-room/press-room/telefonica-partners-with-microsoft-to-incorporate-generative-ai-into-kernel/"
-    type: article
-    provider:
-      name: Telefonica
-      domain: telefonica.com
-    quality: 32
   - title: "Mistral’s ‘Le Big Model’ Beats Google’s Gemini Pro, Signs Multi-Year Deal with Microsoft"
     excerpt: "Alongside Mistral Large, Mistral AI has also introduced Mistral Small, an optimised model designed for low latency workloads. Outperforming Mixtral 8x7B and featuring lower latency, Mistral Small offers a refined solution between Mistral’s open-weight offering and its flagship model."
     publishedDateTime: 2024-02-26T17:50:00Z
@@ -1051,15 +913,6 @@ related:
       name: itc.ua
       domain: itc.ua
     quality: 26
-  - title: "FWD Group Partners with Microsoft to Shape the Future of AI-driven Insurance Experiences"
-    excerpt: "FWD Group Holdings Limited today announced it is extending its partnership with Microsoft with a four-year agreement to provide access to the latest generative artificial intelligence (AI) innovations while continuing to support FWD’s cloud-first technology strategy."
-    publishedDateTime: 2024-02-26T14:11:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/fwd-group-partners-microsoft-shape-future-ai-driven-insurance"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 25
   - title: "Microsoft Copilot Can Soon Be Your Digital Assistant On Android By Replacing Google Assistant Or Bixby"
     excerpt: "Copilot by Microsoft emerges as a contender in the digital assistant arena for Android devices, challenging Google Assistant and Bixby."
     publishedDateTime: 2024-02-28T09:55:00Z

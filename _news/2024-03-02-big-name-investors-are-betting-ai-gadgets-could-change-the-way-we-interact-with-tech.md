@@ -55,6 +55,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
+  - title: "\"Outcomes will be better but we remain masters...\": AIIMS Director on Artificial Intelligence and its use in identifying therapies"
+    excerpt: "\"Quality healthcare down the line and at an affordable prices, that is where technology and Artificial Intelligence and algorithms and telemedicine is going to play a role,\" he said. He asserted that in the future all the healthcare activities may not be ..."
+    publishedDateTime: 2024-03-02T14:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20240302/4174487.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
 
 secured: "iD+JlHwLNpKCqUWzIjOmsRarHZulx2C5pA6p5TsqPGiUFttDvIU0AEtwLf3SSlM0PcLe+7lO8JdKH9GQe3EA+jEaFre7asj92LiP01BYS/FJ+HFAMDfG0U01TtZOasDmoioAk3pUf14Ej4FGBhz2aaHsDy2YocIjpBkf8i24jGJ73p3IUIhzZKirv0onjeawqwKyH1z+Wu/MHBUrgajyoLq7igJC6iEYcYa6ecoKJGOdxJOzSMnOzlllxDXvCmODkizjUbP6mb8XKUsM1GHvXS9ak4jrVPbgF7yqbYk5v7FdQy1wz4NXnxgWAPrj9rpIUfsuS2aJfUgmx6Lvb1SrHhbSCF9e/uyLZtcucSrbysU=;B/JdEKqXCItAydCQg66GeQ=="
 ---

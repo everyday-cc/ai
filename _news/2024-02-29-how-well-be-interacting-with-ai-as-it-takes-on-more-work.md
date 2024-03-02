@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
+  - title: "\"Outcomes will be better but we remain masters...\": AIIMS Director on Artificial Intelligence and its use in identifying therapies"
+    excerpt: "\"Quality healthcare down the line and at an affordable prices, that is where technology and Artificial Intelligence and algorithms and telemedicine is going to play a role,\" he said. He asserted that in the future all the healthcare activities may not be ..."
+    publishedDateTime: 2024-03-02T14:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20240302/4174487.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
 
 secured: "2MEr6NsfdNfIE2wA/O8d3PSKDvvjEbPipPtL0VITr7XRUNqt5Gca6o4ABOvBpVwQAlq/RpqNAva9RgTxvVsNRHEkQ5BRcXavC/Hh6+TIUSyARHO7uDPbcdY6GAF0DVp/0DdXGyP3KmTBHQBQwI9adfbbRrCr7Fh0I02kWlX0A8+9W018mpOinEPzjprYbYeksN3XnL+nzyh1VKdmuAxlqz0yua8LXiYITBPvCiShTITuvgLG0RFC/qUkAQMYIMG2u+2YeXvCynZQyl5Y/J/mQ5H2MrNUkKz1Kxi62iyukvNGDPhDA2l3NzoETsejuGFu2UVwkbmNqvpBEE+9jvquW/CQOclV+2H4Vhq0C6QRdLCCo8LTRaE60d8mx3cPSsIiE89ZwP1hFS2c7MY/wmQkA2POkfKqGvKrNwvcch9ARA3p8DYM6GTiNZoiyZ5PdD5g1whTXbH8HLHFwyPiAERauHkSTzbfLwCsiS/36dVK+LX6fEebwzjUQQR9oqKHN9n+B9++cyOTavrkjU3L6QcYIQ==;c9qV2bATLV7x73e+7DcxWA=="
 ---

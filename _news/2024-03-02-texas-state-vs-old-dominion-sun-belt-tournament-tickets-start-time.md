@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kennesaw State vs. Jacksonville ASUN Tournament Tickets & Start Time"
+    excerpt: "Preview the ASUN Tournament Kennesaw State Owls vs. Jacksonville Dolphins game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-03-02T14:50:00Z
+    webUrl: "https://www.wtoc.com/sports/betting/2024/03/04/kennesaw-state-vs-jacksonville-buy-asun-tournament-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 2
 
 secured: "MI2XN1xiHgVpCfRW76F/zTbUC1VVWX3IhPZlCSB9qxWB+MgpNU7NZqLijA3jaTkkuUIN1DwEvhtnFxOkyikyYIDcbyFi9eNje9UH7oVWolVoVUhmGw2fq/HoCtmfWb7coqqhepVY5sBacKYVIogNuN+xuitIIuerPQx9z4t6vxL2pC5Bc0Qml3xjHbFZaQtVBmkkJcO63QlI5fj3PUydKSoVDUre+AX4miDUI8R/pyf8gXQsJk68YRgVGDO5EF5cdp8EP4X5TzUCOWyB0GIPSZcrs6M3ecyk2m2BTnwCPGOrSyrKhJyXRaFB+MeHXKA0mH1HT3MbKv4HN3EqbCtVTydzlh6hRl0pEhu0mydiFfo=;Oykzm3VxOwgVW6rYiAP/Vg=="
 ---

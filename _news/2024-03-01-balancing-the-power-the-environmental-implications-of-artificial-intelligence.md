@@ -18,20 +18,18 @@ topics:
   - AI
 
 related:
-  - title: "AI Can Power The Green Energy Transition"
-    excerpt: "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy."
-    publishedDateTime: 2024-02-26T15:21:00Z
-    webUrl: "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/"
-    ampWebUrl: "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/"
+  - title: "AI Has an Environmental Impact, Too"
+    excerpt: "The use of artificial intelligence (AI) in healthcare has a substantial environmental footprint but it could still have net carbon benefits, particularly in radiology, researchers reported."
+    publishedDateTime: 2024-02-27T22:56:00Z
+    webUrl: "https://www.medpagetoday.com/radiology/diagnosticradiology/108922"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1599
+      - url: "https://assets.medpagetoday.net/media/images/108xxx/108922.jpg"
+        width: 1600
         height: 900
         isCached: true
 

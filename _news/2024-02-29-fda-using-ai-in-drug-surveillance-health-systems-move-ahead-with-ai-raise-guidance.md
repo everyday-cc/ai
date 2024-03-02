@@ -24,17 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "QubeHealth Plans Up To $9 Mn Raise For Launching Healthcare In App Marketplace, AI Integration"
-    excerpt: "Healthcare-focused fintech startup QubeHealth is looking to raise between $6-$9 Mn as a part of its Series A funding round."
-    publishedDateTime: 2024-02-26T13:48:00Z
-    webUrl: "https://inc42.com/buzz/qubehealth-plans-up-to-9-mn-raise-for-new-feature-ai-deployment/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 24
-
 secured: "zczLKUL3QY1oAPkA6yJydQoGxCSVcjNXP2ngukROhCVfNgukTqLbCbwLEOlsHZ74gUQg2nNbVDVXmJkQ6Vmrs0i+ab4XUwB6tu7MTjSodN11lJO5rmJHZ07PxvPtNu80uEigiy93QyafHpkrIZQmbP9D+e0ZVlPsw+YoIe3kNy/CBPet8gnkocGh/yiV7xlEBisDG5AeZb364cBQEeHUgWR0wsh81PV4dZy612ubUEALxgIukLc+3UEU7T7TtZYOxEcEOjQXkCFvGlVjeWa6GT34cs17z/LFD2dbbsiWIyAzcxZgR1RibqmuHL0SXpamwXwU0gt4aHanhF7vTnWcgux79RpYqk9zNYABNASAnwzDByl2Fpl/Mc/pAJjIdMLoTKML4yhnpv0vElxhxZKmEssLMTi3jYNhT4StoWRoG+CbrzVJFMcbLTUOg0gSM9lZYx/Uq47ax7LeASwPi4oLMdErHw0bDC4GTvVqujjY/DxgoY6d4lubJ1RUCcYt8ZopcyJNVjSLm1yiWAcAC4d3qw==;1jt9D8e7OAHbWYy9dptdhw=="
 ---
 

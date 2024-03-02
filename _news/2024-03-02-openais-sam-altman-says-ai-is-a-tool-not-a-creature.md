@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
 type: article
 quality: 87
-heat: 137
+heat: 139
 published: true
 
 provider:

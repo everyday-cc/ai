@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "What payment companies are doing with AI copilots"
-    excerpt: "A handful of early adopters within the payments industry are providing a different view of AI's impact — how it helps workers perform everyday tasks. Payments fintech Stax, for example, has not implemented AI fully into its daily internal processes ..."
-    publishedDateTime: 2024-02-26T15:09:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/what-payment-companies-are-doing-with-ai-copilots"
+  - title: "Does generative artificial intelligence infringe copyright?"
+    excerpt: "Over the past year artists, authors and comedians have filed lawsuits against the tech companies behind AI tools, including OpenAI, Microsoft and Anthropic. The cases allege that, by using copyrighted material to train their AI models, tech firms have violated creators’ rights. Do those claims have merit?"
+    publishedDateTime: 2024-03-02T14:21:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2024/03/02/does-generative-artificial-intelligence-infringe-copyright"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
+      name: The Economist
+      domain: economist.com
+    quality: 37
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/50df2cd/2147483647/strip/true/crop/4000x2662+0+0/resize/740x492!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F35%2F0b%2F1942cbc14f94ad7e57373197f0ca%2Fmicrosoftbl.jpg"
-        width: 740
-        height: 492
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP515.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "biT7fwIqI7AbmNfH+AlPSiS7XJ7fCPHR7PodN0PJ4x/CsVBuc0GivedkxpPFiD1Yy43AD88/qzmvZq24YW0V9TBYi4DDUTUtFEPyN26R7j//J2tH25q0V6kztIEJGF5jdyNf6Fs3w3+OmHoMoyVrdCYFYyeAZvshI0o785AzbR5yDRicUIQ13Dn6ImJm4HOz+4jEyvWLFUB8Za5nzXI3CW4p59mReNUxgzf5S0SM71TAwsd2mh5GQJHwllVDCqJKzZ9KP7sr499X1SGLfa2lusC7ihDmdbJzZpZ/QcN1JFBEKvVEQuJtyXDqczXYZK/DXag7fMJGsG8+OM+KMmT9y/yPe8hrvSpDzOhA0/FXi9Q=;7S7Kya9YEl48AyXy2mz2JQ=="

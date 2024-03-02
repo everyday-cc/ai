@@ -39,20 +39,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "University of Warwick receives £1.25m to “revolutionise AI and financial research”"
-    excerpt: "As part of our 2024 Innovation Week, in association with Innovation SuperNetwork, we hear from The University of Warwick, which… | Finance | Innovation | National | Science and Technology | Artificial"
-    publishedDateTime: 2024-02-26T14:41:00Z
-    webUrl: "https://bdaily.co.uk/articles/2024/02/26/university-of-warwick-receives-125m-to-revolutionise-ai-and-financial-research"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 35
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/HsfjtM1pfBYu53OWfQE7VwJwj4QXUZrw4DijNjDO.png?w=1200&h=630&fm=jpg&fit=crop-50-50&s=cc9f0b3997c490c03774dc50f82e5298"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "o9vp+dBqtlyX3wsXjm3bwhU33m9/pCjWGwLJKQMgFKddhUVgxZ4mSAX+ODuZHY1ARmTI6O6h9zJxgfxG38N93xgdLLywC20nFntJ84Me5oZ0BEU2O2wsZV+krCWsdi3+kvdiEBPwprOIbYKABPmCgAIqqUZSV3l5g8wDei8OinL/vz9FqJNycGZ69sOOKRDOEpAkTzi+IstGcLKnW0Z1pNpT7380ZIe7FCBeuXssPE967rGmrgylkU1n6h35OgCCLWEGGl4whGjWR8jSuEsfHcLTAFhjKJAbXwURZTuG6k0ffFvy6qfM1ciktn5TvBsE/x+IoVKlCsVUDfWq4Td/z+AKMqoZRW/7AET/b+cEOCL9kBlZ/JuirUjJyLPQW2IUyLwGDbgs0oi7IdJR68TRVqIS9T+2SLfEU7+/SE1hyuCgwz3gp29HwWt/d45Fy5uiQUHH99zSxc2Ra0ON61G7N4/Gvxze268uiMMaGw0dVBcnuPZTjrNDDLM0N6oX8EBdXjQISc1J8nKrgsmEE4wCUg==;1t0Vxaw9vSzJ38NjGF6sSw=="
 ---

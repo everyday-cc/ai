@@ -49,7 +49,12 @@ related:
     provider:
       name: CCJ
       domain: ccjdigital.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "whchRnrORnTfN/NhPB6TCdfcURQ1fef9RInrw26yC92iT3HYtdWVLzIKOkeyNWqO6PvEICLvwUlK4YunfqMks1TaRbCvYJhf7zRzR2VGNXi8XJv1dqzzReJjLB5syOWjT/gCuJ8zB0cTIWGMSke8FFzFVprjUBRUOy2BA/q2TcYxWt1NQoq6VQPzCR8B+v85avS+wHOVJrjadP/3YHD4sjhWEldeQvxfRbK7jCe5ENOjrfsJ+hxoPfySaSwJx/yKYaYsv1cJUdVbZz2ydjQ4ujOFA5578aykfrzb8RfGE+zpebWTks5KerLzN1TyKt4Dk9aVSZ2PQoreX9uhu7P+P3W6Fp8y6rBFUyUTropVK30=;ztYI2qzcjPwbBSDHk7YRgw=="
 ---

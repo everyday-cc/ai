@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "University of Warwick receives £1.25m to “revolutionise AI and financial research”"
-    excerpt: "As part of our 2024 Innovation Week, in association with Innovation SuperNetwork, we hear from The University of Warwick, which… | Finance | Innovation | National | Science and Technology | Artificial"
-    publishedDateTime: 2024-02-26T14:41:00Z
-    webUrl: "https://bdaily.co.uk/articles/2024/02/26/university-of-warwick-receives-125m-to-revolutionise-ai-and-financial-research"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 35
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/HsfjtM1pfBYu53OWfQE7VwJwj4QXUZrw4DijNjDO.png?w=1200&h=630&fm=jpg&fit=crop-50-50&s=cc9f0b3997c490c03774dc50f82e5298"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "University of Warwick receives £1.25 million to research how AI could change the market for real estate"
     excerpt: "The University of Warwick has received a £1.25 million grant to study the way the world purchases, sells, rents and handles real estate"
     publishedDateTime: 2024-02-29T08:14:00Z

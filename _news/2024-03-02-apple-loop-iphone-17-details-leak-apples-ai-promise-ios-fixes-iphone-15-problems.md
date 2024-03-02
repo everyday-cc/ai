@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "iOS 18's AI Features Could Revive iPhone Sales in China"
-    excerpt: "but cautioned that Apple needs to make significant progress in the AI space to meet consumer expectations and revive the company's popularity in China amid fierce competition from brands like Huawei, which are heavily investing in AI research and development."
-    publishedDateTime: 2024-02-26T15:34:00Z
-    webUrl: "https://www.macrumors.com/2024/02/26/ios-18-could-revive-iphone-sales-in-china/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 56
-    images:
-      - url: "https://images.macrumors.com/t/b9U6_r_1Wk3CZZJYQVme2V-3d2Y=/2250x/article-new/2023/09/iOS-18-Mock-Siri-Feature-Baubles.jpg"
-        width: 2250
-        height: 1266
-        isCached: true
   - title: "Here’s another hint Apple AI will take over iOS 18 and iPhone 16"
     excerpt: "Apple is heavily rumored to add several AI features for iOS 18 and its upcoming iPhone 16 lineup. A new report gave us another hint at it."
     publishedDateTime: 2024-02-29T20:26:00Z

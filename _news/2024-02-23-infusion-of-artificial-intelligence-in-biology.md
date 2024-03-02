@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://cdn.the-scientist.com/assets/articleNo/71665/aImg/52217/66166-ts-newsletter-ai-image-ac-800x560-m.jpg"
@@ -42,6 +43,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7XR8s6S/u1qomX64YzkXsgfH6yjRkZJiYTlJul9P6krexQiHizL20sykhFtDnW6q5F1NtrgSV5yp8NMlH3oVoIArRq5Xj23XRUXwOqp+Ryh/xm6lDWLr3kqdB0HO6+cKJikQzVKUM4KE1HjNE+nC1C/dsPJSNvYiYOdhV7eUh1VObnbCHb3CdopG0NJaawCCZKBDybNjAVw3ZLwYmMSCbzRQb6Epfzc5G7DUrbHPL8xY04Ry5KVgxVTZHzFcpsF7oFIw+rIGuyjhCcb0sIdFDdoCKsQZO/btBtKugi/fmAT/r+6UackGtCBcejKfFWA/MReGwun4lX1Ljmx8cfnDK5QSg3FSh7WrPykSskaOsaM=;ohqF8mFh4ponxNxXipLMJg=="
+secured: "JHvgVGT9YmtnRoTUwVja6c4ackaHmWcoXhW3NWIY4Ua4ingh0pt7ASjWKIXvbfDGcABiI/cr4Nxiqv3ixfIijhYUo+yA1RVmZ15bNQKBnY9p6BAD91tTklMKIaSh66kx2eKUDXko940eHBO4GoRnO+0MG22UzSL1/SbuHXbA6h1h1gsU9XV+Cdd4Xl9QuZ6bUdwtYPm+w3BMNI5q47houa3j88HRR098psJHS/GhJy+yZXF0saj/jk6yEO5mIRE/wtzWjrW56c2PmprAhcaa5yRXqXVabgn/BAEIyABMLmBez6lvoeau02WBw4FatJD3/2NNAbFOizIh5JWWvPZwygpGUIh0QHanZ+hzdLdas06lFdZz4wBL4Gh6Rk1LAgihOzvOTa+YTWS5DdTWMZQZr05FNrEvahGx7lrdJXC6T9IpTrMmV2XdLHPHuOVBNOzVtjqLuqhznN6ObA4EO5H9hxWMXxcgdKybUhqaZLKOtBj9bJXCUyABoqgDKuGGFwxktIdXu7KIWULmlN0nx06Uhg==;WHWzkqk6dPduGHtCXuQkEw=="
 ---
 

@@ -32,6 +32,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 49
+  - title: "What 6 Wall Street commentators say AI will do for stocks and the economy"
+    excerpt: "The S&P 500 could soar as high as 5,800 by the end of the year, thanks to AI's magnifying effect on productivity. That implies the benchmark index notching a 22% gain for the year, according to Sanctuary Wealth's chief investment strategist Mary Ann Bartels."
+    publishedDateTime: 2024-03-02T13:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-stock-market-outlook-artificial-intelligence-economy-worker-shortage-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Heard on the Street Recap: AI Bliss"
     excerpt: "The Nasdaq Composite closed at a record high on Thursday, and you can thank AI euphoria for that. Tech companies are pouring cash into AI at a breakneck pace, with investors and analysts increasingly"
     publishedDateTime: 2024-03-01T08:37:00Z

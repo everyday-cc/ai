@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/openai-robot-figure/"
 webUrl: "https://www.geeky-gadgets.com/openai-robot-figure/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96531_02_intel-plans-to-have-fully-ai-automated-chip-factories-powered-by-cobots-in-the-future_full.jpg"
         width: 1500
         height: 857
+        isCached: true
+  - title: "OpenAI trademarks GPT-6 and GPT-7 AI models"
+    excerpt: "The pursuit of Artificial General Intelligence (AGI) represents the frontier of AI research. AGI aims to create machines that can understand, learn, and apply knowledge in a manner akin to human intelligence. The development of open-source AI models ..."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-trademarks-gpt-6-and-gpt-7-ai-models/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-trademarks-GPT-6-GPT-7-artificial-intelligent-models.jpg"
+        width: 1280
+        height: 719
         isCached: true
 
 secured: "627QIWDrDyH1JxaB7ESIMAFHwo21jsD57xKGyJfOOB0IgBdcQSoz1inNN/Xbrq/pYgqLTHIzWfk1trTxYL/mR0b8d2QmpSv43t8NvQhTgGN8tkzT8Q1cWiKw5hYObfUmEFpnlr06HTXgGahN/8rYpzjYPwC6oE9zbUgkhorTyFgY4XaIL9yH9WknoU0iurdrq9/La1CxmKydEW/B6SuHvLLLnk2pjb1qNtgmr1Gh+eT78ais5sjeuZXHvv/KFwMRBt487tRGCzlzoUE8gRux6O2/vB8rIApjAxg++HTf3Z/m+yChl0W5dCatEf8urXWexfpdkqlYtg1Csbj9PZlFteSWX2OLKPBq4OxAR5Awz84=;vs2GO/Y1Zq4oaSv8yWeBvQ=="

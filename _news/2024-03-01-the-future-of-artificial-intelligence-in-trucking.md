@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-01T00:00:00Z
 originalUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
 webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "AI Market Structure In The Future: Few Engines, Many Applications"
@@ -50,6 +57,6 @@ related:
         height: 225
         isCached: true
 
-secured: "kOmvrKvD7q8aszaM+TfH43Qm+QrLEKkr8PK9BowHqVgpkNnj6jYbpI3/oP6j1Njy4qSg8Rm4Kc7Ulr+k2xEywCAE2SB8ernuGpxfscJqIlRN6aw1OxxuJPl3I2RUwtH9ag585qe1PiAzd67KVPT28+nrsT9A3pLCMwwq+1HiJN+89LlzVVfc/kui22Xg02nN/hXai0hh+kriG9uoqu1YjE08BFIbpsiLxmrdepDfiD1vkgYKg30OqAS/L+ZX2/TR1skEHzFY6R2rG8qA8Tc4TfPMRqcAmtX59/UgHKus4C/5b/WQGSnvQOk5M/Ls8U5M5FAUAplOqfUHG+qpIn4NLrjNZZa4665Ua8wCBNSNj/7RUQcaC1FCzCdk2d9q7DIucMtkNy8fEMnQtzHm3QhMc+4tZfMW4n0iAv29WZRl77kj83PIdQO2kH5DP3oqIIROthQ4YyraLhm7itbP3gPh8mI7OMxVbg0HfKkM5eNSBsudEizryWcpiISPoHH2KjvwNkIJ3PAyCh+EOJRBsZOV/A==;NaAjkUcb1enfdu/uwHoZWQ=="
+secured: "zALsf1UshsGXm/3kitYEJBTcEXXR0Ql1nUwllXls0g6qq0SoxVs6BSPWXs5dofFotjwjYxbIbUsSUS056pX4JVyhdOzKX1z5b2iMuji/4J/fVyPLwhaRXKkTY4OPlBVMF6hkB26WBlBj7g9/8cyzE2o1hwmiMFFU2pixQ+8ysREd8Mi2LVndkDcWRy02blXa3e5tw7wrjRNEKX1whdr2m3QTiHbb79ZHcsG6gYb2ED64+jW5GyodyFr9534gWSa3/sjybpGGkJF0RMurX2bVAAU4R6QuLWpLKgrnLybNPo7JuQdPU+h2vvGX7UPo9uqTEIwuNwVqQOPNrLQcNOF345GGUPx4yZWiKj03l2I5XUE=;MNll1nAbVaadSLD71HvnfQ=="
 ---
 
