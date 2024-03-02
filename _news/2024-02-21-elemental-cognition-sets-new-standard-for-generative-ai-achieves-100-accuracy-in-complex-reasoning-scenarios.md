@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Elemental Cognition Sets New Standard for Generative AI, Achieves 100% Accuracy in Complex Reasoning Scenarios"
-excerpt: "From the Inventor of IBM's Watson, Elemental Cognition's Neuro-Symbolic AI Platform Outperforms LLM Capabilities for Complex Problem Solving, Makes Generative AI Accurate and Transparent NEW YORK, NY / ACCESSWIRE / February 20, 2024 / Elemental Cognition ..."
-publishedDateTime: 2024-02-20T19:14:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm"
+excerpt: "Elemental Cognition (EC) is the next wave of enterprise AI that delivers the reliability, accuracy, and transparency businesses need. EC combines the fluency of large language models with the rigor of formal reasoning to create a neuro-symbolic AI architecture that can solve complex problems when businesses can't afford to be wrong."
+publishedDateTime: 2024-02-20T18:44:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios"
+webUrl: "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "kw2I6KgCxjgOiaZNO9qB5i6cRd3SQ2aAAgnLT9MY7vDhqHOMoS7mSSqDDkbFLAw5gPsI2Igb9cymr8ZfruU1+8Tk8D68hLYB3qarfW4G7jdRxmOTaaJBeaM80ItVE4zUS3J1ki2ZATlZnd2oBB6dcf99thUP830mJP/z38a/Ei/EhD9tZH8Zfu57m7m8bxvV5n/LsnxGKInBrI8u0bwAnzG++Hlexergctw8Igu9OVGgOjt9/7nqVlpOjr/OioWxB0llfp7RiBKLVi3K7iQZ3p66zuQoIupBP5PCVzfahKmhYd6XCKIQ8dZD7udmgbLidkCQ5mDh7q8xaP/t/ivHKbCMMKhnq75LRZf1keoJIL4=;ZA+0hEzVTv2W+I7cuVKHJw=="
+images:
+  - url: "https://cdn.bignewsnetwork.com/cus1709315558988.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
+secured: "8TRKI0bmYWRUTxrJu1+9/V4d8jEUizPbCrEo/DN5lRL/mO67kD1YqVHwzX6NnON1kk6AyLbQYwTZrv6jyBRLW3J3+sp1jKOFD3Dxu7TmJOMesMULhPCb3EmfSSSeB5NzneXPkPYOuYZAnP5Xtcv2VhAJs9ZApDj+GtH2UNHgv6WUIoR/G2xw8cd+6SK4xTvn1Q9E/ai23t5Mqu2GbcEvng0yvT8HW9TtMUa4S677bW98HS/Vad5whx/pmtRMaYHwkw0Mm2Xxhs+KWX9+czmKZaQp5wuLkA15/WKMGUopvNNIK54ElYKIeFvHMeY2wtA9K0+PAf0cLdSHKi5eReSVH+QjCPT2jNj7jFNRUg7wmUk=;EUF4rx8TruD1T/qKhkTyug=="
 ---
 

@@ -816,20 +816,6 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 51
-  - title: "MWC: Long-lost Metaswitch team at Microsoft, taps AI for call fraud protection"
-    excerpt: "Microsoft announced a product that stems from its investment in Metaswitch. The UAE operator e& (formerly known as Etisalat) is now using Microsoft&nbsp | Jason Zander, EVP of strategic missions and tech at Microsoft,"
-    publishedDateTime: 2024-02-26T03:00:00Z
-    webUrl: "https://www.fiercewireless.com/wireless/long-lost-metaswitch-team-microsoft-taps-ai-call-fraud-protection"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 50
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud4/media/image/Image%20%287%29.jpeg?VersionId=seOq4fAaaYtoLTTsxRJp774VFW7iBbiH"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Microsoft's next AI feature for Windows 11's Paint app could be a real stroke of genius"
     excerpt: "There's an example on YouTube where the creator wants to draw the head of a green alien, so they start off with a green blob and a couple of black eyes. The AI doesn't get what they're driving at, so telling it with text that they want to create a 'green ..."
     publishedDateTime: 2024-02-27T04:45:00Z

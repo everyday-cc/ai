@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stoc
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

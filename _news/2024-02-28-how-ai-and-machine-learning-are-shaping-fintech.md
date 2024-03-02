@@ -87,20 +87,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
-    excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
-    publishedDateTime: 2024-02-26T02:55:00Z
-    webUrl: "https://menafn.com/1107898432/Ai-In-Fintech-Market-Growth-Share-Trends-Analysis-Report-2024-2032"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186729"
-        width: 272
-        height: 249
-        isCached: true
   - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
     publishedDateTime: 2024-02-29T16:59:00Z

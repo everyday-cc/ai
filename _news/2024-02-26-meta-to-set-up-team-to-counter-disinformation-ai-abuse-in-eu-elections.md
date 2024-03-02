@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
-excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European Parliament elections in June amid concerns about election interference and misleading AI-generated content."
-publishedDateTime: 2024-02-26T12:02:00Z
-originalUrl: "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html"
-webUrl: "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html"
+excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+publishedDateTime: 2024-02-26T12:59:00Z
+originalUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+webUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/56cb1901f0b71c523216864cade4a592"
-    width: 800
-    height: 497
+  - url: "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265"
+    width: 7863
+    height: 5242
     isCached: true
 
 related:
@@ -39,7 +45,35 @@ related:
         width: 2000
         height: 1325
         isCached: true
+  - title: "Harnessing artificial intelligence for infectious disease prevention"
+    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
+    publishedDateTime: 2024-02-28T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Fears of AI threat to democratic elections"
+    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
+        width: 700
+        height: 1047
+        isCached: true
 
-secured: "C/R0LPJpRnivWmfq0g5hZTulASdULt6wUhtnL66D+qQIzcd2rwFq/qh+ys5j7UxaLhT8B7QtA8Q+bvXOMVte/IZ4uT5GS9UEKN3ZzEkydellQ1vGr7vNPtz4APBXV/sI4aSGeeqNOVs31UMBFQIFFLl8lbhrf3VH1ikequcVsZuqj+lxEBO6HdS14+qLhn4XLvExE+VfX14GeHNw1BNLEEQ9AxPqkH6fulpc1B54qnLT7+TyR4+RhSucrWjQm+3TRfcohAl43gvHu7Z8mHs5xL/VojXnKJmq+fADggu9ANe116w3CFgINf0Ml91JDglDiWY/J5Z+pGpyq4WhsE8RLcGiyANBErCSxHYytMIFt1s0nToR2x+WzZHCAFoFiZPDxmVkFZD5VZUxveAX70Bkb/774Tf85tvuxzDvW6YTtcm3l2msCbcN7f9NhSf1gMWQCfYHlGOY28jaD+RRbgM2heX9VlBB/X+0tdhf9KcKbhGzaXhIK5JQPZtatdV32tIdGUzvyAD5MRJcsYqbhDoJKA==;X7Hp3kMNFP9iGQ9iMRBazQ=="
+secured: "beTpWg44LRlkAqQ5rcZoJKcisJuebYj1Cy8EFMa1N2BVRWTPYjQwWXzPMziOZIQy8FJ1YSOa+YBToITXsGugKugcWf/qsVE/xXx0LBIAs4rZ1/64Ew5zXiStB2kes9iRNbSFCRRJCyWc1o2Ho8C/vsBx8ZXLLJqmrXxM6bcu+ZFw9tPUd6B5sQ1nw9VfhkYYl0U7AtB+xnI8UjED4+MJrHHm2BgfbdLKe2XYb29epbAzmSvHFidSBJsrIW9cpLBndTe4qhKpdsiOcxfK3I+MZ8BJeNbLnC1nqUmGFS904AbkF6ljup788a4D3ldXjtqBHFyMdwFqgaTNuCkv5v34U0b2DTDRnyHghgJCJYCBKcY=;tp+o0AcHoMMIfP9JFF6H+g=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-01T21:59:00Z
 originalUrl: "https://betakit.com/these-tech-companies-are-hiring-machine-learning-engineers-in-canada/"
 webUrl: "https://betakit.com/these-tech-companies-are-hiring-machine-learning-engineers-in-canada/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.betakit.com/wp-content/uploads/2024/03/AI.jpg"

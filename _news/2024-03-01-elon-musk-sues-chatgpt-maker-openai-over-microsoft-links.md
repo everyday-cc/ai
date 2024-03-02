@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
+    excerpt: "Sunnyvale-based Figure is less than two years old and doesn’t yet have a commercial product but aims to ship billions of human-like robots to the world’s workplaces and homes."
+    publishedDateTime: 2024-03-01T21:38:00Z
+    webUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+    ampWebUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 81
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "$675 Million For Humanoid ChatGPT Robot, Ideogram Gen AI Raises $80 Million"
     excerpt: "Ideogram Text-to-Image Midjourney competitor Raises $80 M. This values the company well north of $1 Billion. Andressen Horowitz led the round. Ideogram 1.0 has an amazingly effective feature called Magic Prompt, which created the image above."
     publishedDateTime: 2024-03-01T18:27:00Z

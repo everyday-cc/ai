@@ -34,8 +34,8 @@ related:
         isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
     excerpt: "Whether you're a casual investor or trade professionally, chances are you're aware of the boom in artificial intelligence (AI ... the world's largest cloud platform with Amazon Web Services (AWS), responsible for 31% of the cloud market."
-    publishedDateTime: 2024-03-01T16:18:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
+    publishedDateTime: 2024-03-02T01:38:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
     type: article
     provider:
       name: The Globe and Mail

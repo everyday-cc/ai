@@ -2,9 +2,9 @@
 category: news
 title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
 excerpt: "Whether you're a casual investor or trade professionally, chances are you're aware of the boom in artificial intelligence (AI ... the world's largest cloud platform with Amazon Web Services (AWS), responsible for 31% of the cloud market."
-publishedDateTime: 2024-03-01T16:18:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
+publishedDateTime: 2024-03-02T01:38:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
 type: article
 quality: 54
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: nasdaq.com
     quality: 57
 
-secured: "9zv0VaRV/JJtjFtxEuFdX0sdD8t82dRFU5loPhXCdESzCm2elBh7hviH/JW/B+aE/xoR/mxEJcIMIi9oQ6vxRa9KDq7xbUgJ9NbYsu+GZPHdeKWxH8gwGBCAbRVXylE4p6h3s38+NdaQSsDg7PnPCJeqkYn8NRI7uYmfWQvG0gLczCzuNJBVouDMghKZmJqGxcaUIjlE8pHqPitpZTM79fZ/U/wrMGioloYPajbAQmNnQbDJ8ZJtY0+ilsAs1dXwCXfi3FHM/hYPVdEzTD0lZUj8cAAknSUl/j7+Z+xgc3F/0XifErmrhGaZu9wlIkSSOOUJCbczfhgqD87hd/xqmAe5LftYPvcPZ1dF0zIdwOY=;1yIuDPkFUuA0S66xWmFLBw=="
+secured: "FWilrOVXASTs2cNebIRfmefEog6CIKHBLWqUL3vmjK/HlnRWLiqQ094eL4y/dgzf7oqF94Qq7OYHk5F/VZK5c0K/1QT8AV6EvuVB4+ky4mxNCg0a/MKMtO7DiMlTlPviI4MbEt3nqt+8FytyfuUX3D4HQ/Vc/UnXG3zO/6jsrfHt7zdCJqjCwyw+LQiJ5H4a4vsr3w7p+aRYnzHydKE1qT92tt+tnzdkBzkd6pO9olqdYntZswFo2giMSwVJ4BDdc5wo7noz0RQZ9ax9ZV+LWyf6P1zxoawrthnZwP7cNxvQdRdev+Z303k/JLufzYY+p+v8nqVKU3ehRi0UJi3uRFMJJbEBdhGFAf4AYOqpufk=;Kd/9ibEc6WQWlHfggdWKmg=="
 ---
 

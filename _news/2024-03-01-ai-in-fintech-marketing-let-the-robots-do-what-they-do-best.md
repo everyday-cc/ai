@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 238
+heat: 230
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Ai In Fintech Market Growth, Share, Trends, Analysis Report 2024-2032"
-    excerpt: "Financial firms are adopting artificial intelligence (AI) to automate intricate and repetitive tasks, such as data analysis, risk assessment, and user service. This automation enhances efficiency, reduces operational costs, and minimizes human errors."
-    publishedDateTime: 2024-02-26T02:55:00Z
-    webUrl: "https://menafn.com/1107898432/Ai-In-Fintech-Market-Growth-Share-Trends-Analysis-Report-2024-2032"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186729"
-        width: 272
-        height: 249
-        isCached: true
   - title: "How AI and Machine Learning Are Shaping Fintech"
     excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
     publishedDateTime: 2024-02-28T14:57:00Z

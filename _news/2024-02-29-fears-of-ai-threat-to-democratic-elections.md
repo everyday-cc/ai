@@ -24,63 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Will Spur The Democratization Of Technology In 2024"
-    excerpt: "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead."
-    publishedDateTime: 2024-02-28T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
+  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
+    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+    publishedDateTime: 2024-02-26T12:59:00Z
+    webUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65299ef3b71b98caddf7c4c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1478
-        height: 900
+      - url: "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265"
+        width: 7863
+        height: 5242
         isCached: true
-  - title: "New technology uses AI to detect depression"
-    excerpt: "Researchers at Dartmouth’s Department of Science and School of Medicine in New Hampshire created a prototype of a smartphone app, which has facial imaging processing software."
-    publishedDateTime: 2024-02-28T02:48:00Z
-    webUrl: "https://www.wsls.com/health/2024/02/27/new-technology-uses-ai-to-detect-depression/"
+  - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
+    excerpt: "The Facebook and Instagram parent is also building tools to label AI-generated images from Google ... data science, engineering, research, operations, content policy and legal teams. The objective is to identify potential threats and put “specific ..."
+    publishedDateTime: 2024-02-26T09:16:00Z
+    webUrl: "https://www.siliconrepublic.com/business/meta-eu-elections-disinformation-generative-ai-team"
     type: article
     provider:
-      name: WSLS 10
-      domain: wsls.com
+      name: SiliconRepublic
+      domain: siliconrepublic.com
     quality: 39
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-27-2024/t_8de89b85f1704088995080cbfb473ad2_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-26.jpeg"
+        width: 2000
+        height: 1325
         isCached: true
-  - title: "The National Science Foundation wide-and-far on artificial intelligence"
-    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
-    publishedDateTime: 2024-02-29T20:29:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
+  - title: "Harnessing artificial intelligence for infectious disease prevention"
+    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
+    publishedDateTime: 2024-02-28T02:49:00Z
+    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
-  - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
-    excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.tomsguide.com/phones/best-of-mwc-2024"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Kps6jkiXFHhVXoPwVL5dDc-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "7TVRZ+FgQlXtqs5zSVoF5xVz9bolxMs+DdhOdw3EvuMtTviY1LUVLRvbT/9YKaDhLQPj8WZ+wgfsPD1VjaLqcVDlPn8QDoTC76Y3JGrFr0nNKeB7KFSfnPuuk0psxDvh5smxFtGeGEqC4rqYUEGyRwfiJcTZ8V9QOlHe9j2xBKGvaKh1ggi/TX6x11fJ3wgcbYyzl+wiO7k7TKkjpVcdGTcL9JWT8f19A5EXChpsMHr+99nLipx2ye2D9X8CCXdd7R26MqVvjss4TOrHyBXF74vFteQmMlNbYfSMsNjYpNymr+e/hmytUGyI0skpos92va8qGLyBTDPKzKYoloaddi6+GhjoUQbg2QuL9FMKxXYWRkQuPXG+uxWJGG76ETbkCjVBFfN8wFkcYrmuvYsWLrCbrEzxDoUlJCz3FjlhCc9VO+p4Se/Wq6HICD4TZPkCZtdbvRnqf9QWwnSERoNpP8dUJEr6aIVoUkOfE0MqcmNk7dCRYxoxqz4JtL8EGeLArsEKK8UAYtch3FcKENhwdQ==;bVtom8HUvFoZKUgfOP6OKg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.uwyo.edu/news/2024/02/uw-and-wyoming-community-navigat
 webUrl: "https://www.uwyo.edu/news/2024/02/uw-and-wyoming-community-navigator-program-to-discuss-using-artificial-intelligence-march-6.html"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -26,24 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "New Haven Public Schools using AI tool to develop five-year plan"
-    excerpt: "Superintendent Madeline Negrón and district leadership presented their progress in developing the strategic operating plan to the Board of Alders on Wednesday. They are surveying community members with the AI program Thought Exchange."
-    publishedDateTime: 2024-03-01T06:31:00Z
-    webUrl: "https://yaledailynews.com/blog/2024/03/01/new-haven-public-schools-using-ai-tool-to-develop-five-year-plan/"
+  - title: "SEPTA study using AI finds parking in bus lanes blocks safe access for disabled community"
+    excerpt: "On this International Wheelchair Day, Kwanesha Clarke and the Liberty Resources nonprofit are working to create equal access to public transportation for the disabled community."
+    publishedDateTime: 2024-03-02T00:56:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/news/international-wheelchair-day-septa-artificial-intelligence-the-cost-of-blocking-the-bus/"
+    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/international-wheelchair-day-septa-artificial-intelligence-the-cost-of-blocking-the-bus/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/international-wheelchair-day-septa-artificial-intelligence-the-cost-of-blocking-the-bus/"
     type: article
     provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 19
-  - title: "Advocates Voice Concerns As Bill Restricting Hemp Clears Wyoming Senate, Heads To House"
-    excerpt: "By cutting through the overload of information in today's market, HW brings its clients unparalleled recognition and brand awareness. HW is where breaking news, insightful content and actionable information converge."
-    publishedDateTime: 2024-02-29T14:15:00Z
-    webUrl: "https://menafn.com/1107918431/Advocates-Voice-Concerns-As-Bill-Restricting-Hemp-Clears-Wyoming-Senate-Heads-To-House"
+      name: CBS News
+      domain: cbsnews.com
+    quality: 48
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/02/d98fefab-f5da-4de2-9abf-e7263f98ac30/thumbnail/1200x630/73322357c1313a6ae9d3a4bf36825bab/septa-study-1.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise AI Is Becoming A Business Necessity, But How Can Companies Pay For It?"
+    excerpt: "The Generative AI Guidance for Organizations from the Aspen Institute’s U.S. Cybersecurity Group provides a good place to start. Implementing GenAI requires resources and costs to optimize it for enterprise use. Although companies understand that it's ..."
+    publishedDateTime: 2024-02-27T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/27/enterprise-ai-is-becoming-a-business-necessity-but-how-can-companies-pay-for-it/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 42
 
 secured: "oK/6CY/dQu7FztxTL6K4MneMPU8g97NqL5RIjQgRESBiTXMX3Tv9J/CHbYz31fjX4cgIfhKmqNnJ0MVqjQv2wYU53CZtQwt5o6a2UabkJ/fIt9UnjFy3y+TzLZEX1N1s/CL5NjnIymCi27K6r08XSTixe1HOwBFDzDvj9t6lUclhGB7Pn+RAFEXhQQqOoGNBxxRNgSbS1/IVY5aVooRTYI0xli17VNJXU3jjFMSjjIFq6bJdWKaJy0pgLhEs/vaDU1/ypTccQVAWB1fJ5Z/nuwVXXwm0q0i0FjjrFE9CzT7zGZv3NGXwUXIKLHpgfnf+U8WHv1cvICGKBdMmWV78zSQa2DAmPraIGubKodWoAKM=;kqs1nWaH+IgCoRCCTAr9sg=="
 ---

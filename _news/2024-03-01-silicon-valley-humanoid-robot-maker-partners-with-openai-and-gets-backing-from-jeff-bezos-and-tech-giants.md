@@ -147,6 +147,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
+    excerpt: "Sunnyvale-based Figure is less than two years old and doesn’t yet have a commercial product but aims to ship billions of human-like robots to the world’s workplaces and homes."
+    publishedDateTime: 2024-03-01T21:38:00Z
+    webUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
+    ampWebUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 81
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links"
     excerpt: "Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015. The lawsuit - which has also been filed against OpenAI boss Sam Altman - says the firm has departed from its original non-profit, open source mission."
     publishedDateTime: 2024-03-01T14:27:00Z
@@ -367,6 +383,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "ufX+c70NFPSm2nIXEgbqPX7f/UG3vsPhC4JrHbVdtpovkQqyOo5N+JhQ/W2hHNriGyucumBa2jh1rfXljf+c1qmYIA8TUPudv9tmiHbQyWiLa48JBzo21pxs08lm/0Dl2ukKKW91+CFozYSW0HIjThR15jHnijJ0uzbWxIeo0/JPhfAo22BG8g5Wt6lTDtGOr1sB+QWF7IZ+zypQmXPs5lu+dwIROynSSnu8qavI5tZF+86eUk6zvrgCxLjJEtRvUZaqm8utvOaG8ZGTnN1YEn9W/NGW+wdYF+EVQ/UDKLjlkwYu3vWjTpznkHDQaqmYJ0R2PKH/YDXcxHTnOEOJoQy/D+6JGhlIhjBYyppR1jA=;fCZy5qG8CqLpYsB9cgbskw=="
+secured: "zHE314dgFqqvd+YTQ6lJy9G0WGKw+B+O6ShMLje056e+9+8rR4hBh5CRCwjSfsDVSzH9DDr7dIET9I/sNIPlZQjM+3G+f8YCCVb/yHzQpe3jfE8S/SSE9tefkD5T9d2wM6+h8YuxKzoSKxWd8beFMzHZySDyfB40wAxSeKjgY3/edbLw6InsIaYvFw1Th/Ndpuzwz4zFf320RarNF34ExMBPtflHUQUPyQkdGmbEKfiw6uSRorwWkhNx+r1IimwxKt9aMLIEdM4OtMVhH1JyxTI+X8mgVgs1dcXGpxWH8JjKhvp05oynfRWs4nEarzr+YOot/hNRuWInv4N81/RA4oJsYsPXzk+l2rzqK+OIiMdwRXWcMlhD/7i0G2KQTn7A92/7MlQIUFwEnHzqXxhNgS12+B/HjXC6jEXtrQA2abrSErHZNrH+U3Jo/x+1DPz5lSnOMjnj4OGrUHszvrAKcojjgOcFGhV5TBG0dapZp6G5Q7OMGsred4/N8oOrJhuu8nOM1ANaXGYBrl41qSw5yg==;rx/c+fBtmHLHoZkxxvCUng=="
 ---
 

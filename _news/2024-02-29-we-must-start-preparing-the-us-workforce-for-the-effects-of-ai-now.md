@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-lay
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/29/ai-workers-layoffs-surveillance"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Guardian
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "A for artificial intelligence, B for base effect: The A-Z of Q3 earnings season"
-    excerpt: "However, company managements enthusiastically tried to brighten the mood during the post-earning concalls by deploying the hottest buzzword in town — artificial intelligence. Analysts, meanwhile, urge investors to resist the temptation of counting the ..."
-    publishedDateTime: 2024-02-26T02:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/earnings/a-for-artificial-intelligence-b-for-base-effect-the-a-z-of-q3-earnings-season-12346171.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 53
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Q2-earnings-Auto-Sector.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial Intelligence: Preparing for the EU AI Act"
     excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
     publishedDateTime: 2024-02-28T23:59:00Z
