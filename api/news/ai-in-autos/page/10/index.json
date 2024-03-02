@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-24-the-rise-of-artificial-intelligence-ai-in-online-casinos.md",
+      "title": "The rise of Artificial Intelligence (AI) in Online casinos",
+      "excerpt": "Online casinos, and even physical gambling establishments, are an example of one of the many industries that have benefited greatly from artificial intelligence (AI); from in the form of customized AI dealers to improved and sophisticated customer service bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/",
+      "originalUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1",
+      "cdnAmpWebUrl": "https://www-chiangraitimes-com.cdn.ampproject.org/c/s/www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1",
+      "publishedDateTime": "2023-11-24T09:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chiangrai Times",
+        "domain": "chiangraitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-driverless-cars-immune-from-traffic-tickets-in-california-under-current-laws.md",
       "title": "Driverless cars immune from traffic tickets in California under current laws",
       "excerpt": "“I think all of us are still struggling to understand whether [driverless cars] really are ... agency purely focused on driverless cars and artificial intelligence. “Like when we got the ...",

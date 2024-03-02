@@ -2,6 +2,92 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2024-02-06-ai-is-fueling-a-major-contract-dispute-in-the-music-industry-why-it-matters-for-your-business.md",
+      "title": "AI is Fueling a Major Contract Dispute in the Music Industry: Why it Matters for Your Business",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business",
+      "originalUrl": "https://www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI_artificial_Intelligence_purple.jpg?itok=4x5ZztAT",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ai-fueling-major-contract-dispute-music-industry-why-it-matters-your-business?amp",
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ai-moving-fast-uk-to-spend-125m-on-ai-hubs-regulation.md",
+      "title": "‘AI moving fast’: UK to spend $125m on AI hubs, regulation",
+      "excerpt": "The United Kingdom has unveiled plans to spend over 100 million pounds ($125m) on research and training related to artificial intelligence (AI). Under the plans announced on Tuesday, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "originalUrl": "https://www.aljazeera.com/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2024/02/2023-11-02T162052Z_1550215641_RC2454A1KFX0_RTRMADP_3_AI-BRITAIN-SUMMIT-1707180555.jpg?resize=1920%2C1440",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/2/6/uk-to-spend-125m-on-ai-research-and-regulation",
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-ai-vs-human-translators-who-will-win-the-translation-battle.md",
       "title": "AI vs. Human Translators: Who Will Win the Translation Battle?",
       "excerpt": "Interestingly, the introduction of Artificial Intelligence (AI) has fundamentally disturbed language translation, an essential communication tool in today's interconnected world. A significant concern that comes to mind with AI's quick growth is this ...",
@@ -1044,101 +1130,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-93-have-concerns-about-self-driving-cars-according-to-new-forbes-legal-survey.md",
-      "title": "93% Have Concerns About Self-Driving Cars According to New Forbes Legal Survey",
-      "excerpt": "Vehicles equipped with auto-drive are on the roads today in increasing numbers. While some believe autonomous vehicles will reduce the risk of an auto accident, many others have concerns. To better understand attitudes toward self-driving cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/advisor/wp-content/uploads/2024/02/960x0.jpg",
-          "width": 958,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
-      "title": "A baby llama has possibly been stolen from Maine farm",
-      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
-      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

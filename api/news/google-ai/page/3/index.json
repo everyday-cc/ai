@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-31-5-ways-to-use-circle-to-search.md",
+      "title": "5 ways to use Circle to Search",
+      "excerpt": "Circle to Search is now available on select premium Android smartphones — here are some helpful ways to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
+      "originalUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ways-to-Circle-to-Search_2.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/how-to-use-circle-to-search-google/amp/",
+      "publishedDateTime": "2024-01-31T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-an-ai-opportunity-agenda-for-asean.md",
       "title": "An AI opportunity agenda for ASEAN",
       "excerpt": "We’re publishing an AI Opportunity whitepaper to help ASEAN governments tap into AI’s vast potential.",
@@ -1415,59 +1467,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian.md",
-      "title": "Google DeepMind’s AI system solves geometry problems like a math Olympian",
-      "excerpt": "Google DeepMind researchers have created an AI system called AlphaGeometry that can solve complex high school geometry problems as well as the average International Mathematical Olympiad gold medalist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
-      "originalUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_geometric_shapes_math_competition_33d7db75-2612-4028-8673-02dc7d32c1ad-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T04:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

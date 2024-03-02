@@ -2,6 +2,101 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2024-02-05-93-have-concerns-about-self-driving-cars-according-to-new-forbes-legal-survey.md",
+      "title": "93% Have Concerns About Self-Driving Cars According to New Forbes Legal Survey",
+      "excerpt": "Vehicles equipped with auto-drive are on the roads today in increasing numbers. While some believe autonomous vehicles will reduce the risk of an auto accident, many others have concerns. To better understand attitudes toward self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/advisor/wp-content/uploads/2024/02/960x0.jpg",
+          "width": 958,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
+      "title": "A baby llama has possibly been stolen from Maine farm",
+      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "AI plays a pivotal role across diverse healthcare applications ... and the potential for personalized treatment strategies. Artificial Intelligence in Manufacturing Market Size, Share & Industry ...",
@@ -1036,92 +1131,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-roblox-adds-instantaneous-text-translation-plans-to-translate-voices-using-ai-in-future.md",
-      "title": "Roblox adds instantaneous text translation, plans to translate voices using AI in future",
-      "excerpt": "Roblox is today introducing a new AI feature that will translate a user's real-time text into other languages. Following this, the Roblox team has plans for a feature which will translate voices ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurogamer.net/roblox-adds-instantaneous-text-translation-plans-to-translate-voices-using-ai-in-future",
-      "originalUrl": "https://www.eurogamer.net/roblox-adds-instantaneous-text-translation-plans-to-translate-voices-using-ai-in-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsio.reedpopcdn.com/English-__-Korean-Translation-Render-V2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eurogamer",
-        "domain": "eurogamer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-scientists-use-ai-to-investigate-structure-and-long-term-behavior-of-galaxies.md",
-      "title": "Scientists use AI to investigate structure and long-term behavior of galaxies",
-      "excerpt": "Their innovative approach uses a deep neural network to quickly predict the stability of galaxy models. This artificial intelligence-based method enables efficient verification or falsification of ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
-      "originalUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-use-artific.jpg",
-          "width": 2880,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

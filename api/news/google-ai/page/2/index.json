@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-09-google-ditches-assistant-with-bard-branding-for-gemini.md",
+      "title": "Google ditches ‘Assistant with Bard’ branding for Gemini",
+      "excerpt": "Google is replacing its \"Assistant with Bard\" name for Android AI Assistant with Gemini. Learn more about it here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/09/google-ditches-assistant-with-bard-branding-for-gemini/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/09/google-ditches-assistant-with-bard-branding-for-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/google-assistant-with-bard-2.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T10:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-google-bard-is-now-gemini-paid-version-has-better-ai-features.md",
       "title": "Google Bard is Now Gemini; Paid Version has Better AI Features",
       "excerpt": "Roughly a year after Google Bard is made available to the Philippines, Google has decided to give its Chat GPT rival a makeover by formally calling it Gemini. Its similar to how Microsoft has decided to rebrand all of its AI-powered features to Copilot.",
@@ -1329,58 +1381,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-5-ways-to-use-circle-to-search.md",
-      "title": "5 ways to use Circle to Search",
-      "excerpt": "Circle to Search is now available on select premium Android smartphones — here are some helpful ways to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
-      "originalUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ways-to-Circle-to-Search_2.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/how-to-use-circle-to-search-google/amp/",
-      "publishedDateTime": "2024-01-31T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

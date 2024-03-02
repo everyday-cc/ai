@@ -68,6 +68,29 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
+    excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
+    publishedDateTime: 2024-02-27T04:06:00Z
+    webUrl: "https://techreport.com/news/meta-prevent-ai-tampering-elections/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/arnaud-jaegers-IBWJsMObnnU-unsplash-scaled.jpg?_t=1709035648"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
+    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
+    publishedDateTime: 2024-02-26T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 20
 
 secured: "7TVRZ+FgQlXtqs5zSVoF5xVz9bolxMs+DdhOdw3EvuMtTviY1LUVLRvbT/9YKaDhLQPj8WZ+wgfsPD1VjaLqcVDlPn8QDoTC76Y3JGrFr0nNKeB7KFSfnPuuk0psxDvh5smxFtGeGEqC4rqYUEGyRwfiJcTZ8V9QOlHe9j2xBKGvaKh1ggi/TX6x11fJ3wgcbYyzl+wiO7k7TKkjpVcdGTcL9JWT8f19A5EXChpsMHr+99nLipx2ye2D9X8CCXdd7R26MqVvjss4TOrHyBXF74vFteQmMlNbYfSMsNjYpNymr+e/hmytUGyI0skpos92va8qGLyBTDPKzKYoloaddi6+GhjoUQbg2QuL9FMKxXYWRkQuPXG+uxWJGG76ETbkCjVBFfN8wFkcYrmuvYsWLrCbrEzxDoUlJCz3FjlhCc9VO+p4Se/Wq6HICD4TZPkCZtdbvRnqf9QWwnSERoNpP8dUJEr6aIVoUkOfE0MqcmNk7dCRYxoxqz4JtL8EGeLArsEKK8UAYtch3FcKENhwdQ==;bVtom8HUvFoZKUgfOP6OKg=="
 ---

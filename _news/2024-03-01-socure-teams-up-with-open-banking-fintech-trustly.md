@@ -35,6 +35,22 @@ related:
         width: 1162
         height: 675
         isCached: true
+  - title: "Top trends in tech that professionals should look out for in 2024"
+    excerpt: "As data keeps proliferating online and in technology like the cloud, organisations will need to make cybersecurity a business priority"
+    publishedDateTime: 2024-03-02T03:55:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-01T173328.867.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why fintech startups need to prioritize email security"
     excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
     publishedDateTime: 2024-02-29T18:46:00Z

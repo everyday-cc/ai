@@ -55,6 +55,20 @@ related:
         width: 2000
         height: 1325
         isCached: true
+  - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
+    excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
+    publishedDateTime: 2024-02-27T04:06:00Z
+    webUrl: "https://techreport.com/news/meta-prevent-ai-tampering-elections/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/arnaud-jaegers-IBWJsMObnnU-unsplash-scaled.jpg?_t=1709035648"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Fears of AI threat to democratic elections"
     excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
     publishedDateTime: 2024-02-28T23:59:00Z
@@ -69,6 +83,15 @@ related:
         width: 700
         height: 1047
         isCached: true
+  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
+    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
+    publishedDateTime: 2024-02-26T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 20
 
 secured: "vYart31weOrZcKJ0CxjomwHiq2/Es0cQRfN0l2rV6IRRI8WyYzuI9g+A5ChM5Jayk+mr3Sg/NgbkXdL0bQRyWpfCrUqBhFdIIyVVS4bT52cCASDMesQN9KuQyeOeHVrPEDQd2MJZwZ18fnTeMvsCih98MJgp7mID9HFRDfLXpbFXw0KkWC0FG1HBNIFZuc0VzoPWGZ4rAW8UY+elpqixBSi5knPdpVcl3n5ehM3k0e6wNBKQIYKKuSEMG91zfRMYWXK2fjpZ0dbY+zjKFx0rkw7HGFIfqhYHtBBYQMuMp/GYJ27ZLuiMtOyQ/tDCPzrCxAKTabcFuLeyAZA0WXo7W8oxwu0kl6kEB3kh9YrwPN0=;ETCk3UmgijYjtuh8F9LZ1g=="
 ---

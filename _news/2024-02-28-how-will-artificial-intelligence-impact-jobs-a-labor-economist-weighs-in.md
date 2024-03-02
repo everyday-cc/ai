@@ -27,6 +27,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Navigating The Future Through The Power Of AI, Leadership And Governance"
+    excerpt: "These regulations must balance innovation with the mitigation of risks like bias and discrimination, setting a global standard for AI ethics that can guide both public and private sector initiatives. The role of leadership is fundamentally changing in the ..."
+    publishedDateTime: 2024-02-26T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/02/26/navigating-the-future-through-the-power-of-ai-leadership-and-governance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d897629f1bf0bef78f6ce4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 700
+        isCached: true
   - title: "How to cut through the AI noise"
     excerpt: "Once you’ve gotten settled in the cloud, figure out where to innovate, and look for a unicorn vendor that can make AI simple and effective."
     publishedDateTime: 2024-02-26T10:00:00Z

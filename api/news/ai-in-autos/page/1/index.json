@@ -792,6 +792,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking.md",
+      "title": "Bugeja: Artificial intelligence poses many risks in public policymaking",
+      "excerpt": "For the past year the public has debated use of the artificial intelligence application ChatGPT composing student essays, passing law examinations and replacing jobs and professions. There are greater concerns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
+      "originalUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nwestiowa.com/content/tncms/assets/v3/editorial/5/f2/5f234756-df6d-11eb-9c27-9be52711bf84/62b9cd4a46974.image.jpg?resize=400%2C318",
+          "width": 400,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nwestiowa",
+        "domain": "nwestiowa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-no-tip-required-self-driving-robots-will-now-deliver-uber-eats-orders-in-tokyo.md",
       "title": "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo",
       "excerpt": "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ...",
@@ -1371,49 +1414,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-waymo-recalls-444-self-driving-vehicles-over-software-error.md",
-      "title": "Waymo recalls 444 self-driving vehicles over software error",
-      "excerpt": "Feb 15 (Reuters) - Alphabet's (GOOGL.O), opens new tab Waymo unit has recalled 444 self-driving vehicles after two minor collisions in quick succession in Arizona ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
-      "originalUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T13:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

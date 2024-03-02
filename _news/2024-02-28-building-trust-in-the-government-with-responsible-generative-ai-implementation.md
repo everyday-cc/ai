@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-res
 webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
 type: article
 quality: 95
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -172,6 +172,15 @@ related:
     excerpt: "The Keysight platform enables large scale validation and experimentation with fabric design in a realistic and cost-effective way. This solution complements testing AI / ML workloads using GPUs, providing AI operators with a more scalable, robust, and integrated AI test platform."
     publishedDateTime: 2024-02-28T17:24:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-keysight-introduces-leading-benchmarking-solution-fast-track-deployment-/2024/02/28/9969997.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
+    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
+    publishedDateTime: 2024-03-01T14:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
     type: article
     provider:
       name: TMCnet

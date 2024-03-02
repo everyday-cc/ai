@@ -44,20 +44,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain"
-    excerpt: "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and"
-    publishedDateTime: 2024-02-26T04:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://lh7-us.googleusercontent.com/QnKXxXlezgzKCQkNJT1UWPIIz9jsLH7CdUAF4SwYzJwpetjMz4PPmwNINISZ-eZoeSRgRsZDofFVchvM-l0ZMqAqc-MI0DKCj1vD46GZm4qldNuOxhhh8eJEcAiRRLZUTfHl0MizY7WBdSEryBPaOow"
-        width: 1060
-        height: 1600
-        isCached: true
   - title: "From Blockchain to AI: Exploring the Hottest Fintech Careers in 2024"
     excerpt: "Are you ready to dive into the exciting world of fintech and explore the hottest careers that will shape the industry in 2024? From blockchain to AI, these technologies are revolutionizing how we manage our finances."
     publishedDateTime: 2024-02-28T15:04:00Z

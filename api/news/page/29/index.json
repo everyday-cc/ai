@@ -2,6 +2,84 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2024-02-09-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-aiml-based-precision-medicine.md",
+      "title": "Owkin Partners With AWS, Leverages Cloud Computing to Fuel Innovation In AI/ML-Based Precision Medicine",
+      "excerpt": "Owkin is working with Amazon Web Services (AWS) to transform drug discovery, de-risk and accelerate clinical trials, and develop AI diagnostics",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/3841a1b210f6fed1504afe0ced9b6797.jpg?t=20240209_090213",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T09:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-bard-is-now-gemini-paid-version-has-better-ai-features.md",
+      "title": "Google Bard is Now Gemini; Paid Version has Better AI Features",
+      "excerpt": "Roughly a year after Google Bard is made available to the Philippines, Google has decided to give its Chat GPT rival a makeover by formally calling it Gemini. Its similar to how Microsoft has decided to rebrand all of its AI-powered features to Copilot.",
+      "sourceUrl": null,
+      "webUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "originalUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T04:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unbox",
+        "domain": "unbox.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-profiling-in-a-digital-age-facial-recognition-video-surveillance-and-policing.md",
       "title": "Profiling in a Digital Age: Facial Recognition, Video Surveillance, and Policing",
       "excerpt": "The Surveillance, Criminalization, and Punishment speaker series is organized by Katy Naples-Mitchell, Program Director of the Program in Criminal Justice Policy and Management, and Sandra Susan Smith,",
@@ -979,101 +1057,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-ai-officially-becomes-gemini.md",
-      "title": "Google Bard AI Officially Becomes Gemini",
-      "excerpt": "Exactly a year after Google announced Bard — its first conversational chatbot — the search giant has given it the first major makeover. As part of a new update, the now-famous name \"Google Bard” has been retired in favor of its new name; \"Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "originalUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers.md",
-      "title": "AI cannot be used to deny health care coverage, feds clarify to insurers",
-      "excerpt": "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1985565682-760x380.jpeg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

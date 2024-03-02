@@ -174,6 +174,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
+    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
+    publishedDateTime: 2024-03-01T14:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "SNZriCXoqFHWWzCU46X8d4IBpnya/vUB7NzZO1Q2F5fGv2obZljQI9SUvtZRKyw0PPAus8pegmaOVVFsgcRzx8YVxRxTkeoYmV+RkUIaaK8YKMrMjXuCoviiQmtcKpUM9EhLS5+/HCTf2G892+m7VEDzlnFYj+x7BuC6yN+a42VWWjGPZBtI9A6bdeWIfe1Ea5K/WpbUzhwgAi1vKaVsKhiYSmmaDGWFc81CLC/C4OTadipt2/zHoYheSzJgEozOtaOl49lIXMcAuh4G9wn6oXSRiXg3+eYZUSpYwhPLM7Sh6sjfj8i30/b1dLBpvCvVNL+Izijzc0JGNJS/QUG+Qm57H1uYenRJrWx9yPbe0EjUC9TQmuZjIsNc3mw6ujk9lZgUIy7W0SZIYG2JRTnkz28Pgfh+CaG9bUr0Z8oqprRWaLtXThi6+vUVkY623mLDInW1YEpdx10hvjaQBy51doC2ipsbzU7AWLpHNqt4w5P9pAc3iQk4g0CJ4bGiA5FmLTH3uuBmvoY6o8Sy4nIy9Q==;LtYnEZf1gSA+e2/ky5sD+w=="
 ---

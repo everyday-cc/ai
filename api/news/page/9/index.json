@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-23-debunking-the-4-biggest-myths-about-artificial-intelligence-in-retail.md",
+      "title": "Debunking The 4 Biggest Myths About Artificial Intelligence in Retail",
+      "excerpt": "There are many popular myths circulating about AI, according to one Gartner report. And as retailers integrate AI solutions into their businesses, it’s important to know which common beliefs about the technology are myths and which ones are factual. Here are four big AI myths — and the truths about them.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
+      "originalUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/AI%20myths%20hero-%20sized%20for%20CMS_.jpg?itok=suO1VbZu",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/debunking-4-biggest-myths-about-artificial-intelligence-retail?amp",
+      "publishedDateTime": "2024-02-23T01:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-lamda-ai-raises-320-million-flower-labs-20-million-webxr-hubs-shut.md",
       "title": "Lamda AI Raises $320 Million, Flower Labs $20 Million, WebXR Hubs Shut",
       "excerpt": "Flower Labs Raises $20 M. Flower’s technology makes it easier for people to use an AI training method called “federated learning,” which allows an AI model to be trained without having all the training data transferred to a central server, which is a security concern. Felicis Ventures led the round.",
@@ -1176,58 +1219,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-google-halts-ai-tools-ability-to-produce-images-of-people-after-backlash-over-historically-inaccurate-depictions-of-race.md",
-      "title": "Google halts AI tool’s ability to produce images of people after backlash over historically inaccurate depictions of race",
-      "excerpt": "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
-      "originalUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1835957780.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
-      "publishedDateTime": "2024-02-22T16:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

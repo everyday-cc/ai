@@ -2,6 +2,91 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-12-14-ai-can-help-do-your-taxes-how-hr-block-utilizes-microsofts-azure-openai-for-customers.md",
+      "title": "AI Can Help Do Your Taxes: How H&R Block Utilizes Microsoft's Azure OpenAI For Customers",
+      "excerpt": "The company is using AI technology from Microsoft Corporation's MSFT Azure OpenAI to help streamline the tax preparation process. H&R Block said it is the only company in the tax industry to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/12/36245483/ai-can-help-do-your-taxes-how-h-r-block-utilizes-microsofts-azure-openai-for-customers",
+      "originalUrl": "https://www.benzinga.com/news/23/12/36245483/ai-can-help-do-your-taxes-how-h-r-block-utilizes-microsofts-azure-openai-for-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Taxes_6.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36245483",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36245483",
+      "publishedDateTime": "2023-12-14T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-ibm-cloud-solution-tutorials-2023-in-review.md",
+      "title": "IBM Cloud solution tutorials: 2023 in review",
+      "excerpt": "Our team looks back and shares personal highlights from the year, including generative AI, LLMs, watsonx and more.\nThe post IBM Cloud solution tutorials: 2023 in review appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-intel-core-ultra-meteor-lake-mobile-cpus-launch-with-gaming-grade-igpu-and-ai-brawn.md",
       "title": "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn",
       "excerpt": "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,",
@@ -1034,92 +1119,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-apple-silicon-m3-pro-competes-with-nvidia-rtx-4090-gpu-in-ai-benchmark-u.md",
-      "title": "Apple Silicon M3 Pro competes with Nvidia RTX 4090 GPU in AI benchmark [u]",
-      "excerpt": "In a recent test of Apple's MLX machine learning framework, a benchmark shows how the new Apple Silicon Macs compete with Nvidia's RTX 4090.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "originalUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg",
-          "width": 1312,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "publishedDateTime": "2023-12-14T00:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-futuristic-driverless-pods-could-ferry-people-to-hospital-from-bolton-town-centre.md",
-      "title": "Futuristic driverless pods could ferry people to hospital from Bolton town centre",
-      "excerpt": "Driverless pods could take people from ... Dromos say they will use artificial intelligence to ‘predict traffic volumes and patterns and develops alternative routings for the vehicles to allow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301",
-      "originalUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.manchestereveningnews.co.uk/incoming/article28291266.ece/ALTERNATES/s1200/0_dromos-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301.amp",
-      "cdnAmpWebUrl": "https://www-manchestereveningnews-co-uk.cdn.ampproject.org/c/s/www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301.amp",
-      "publishedDateTime": "2023-12-14T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manchester Evening News",
-        "domain": "manchestereveningnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

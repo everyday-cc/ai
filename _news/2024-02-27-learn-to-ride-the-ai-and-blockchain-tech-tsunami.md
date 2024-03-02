@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AstraAI: Redefining Innovation with the Ultimate AI Ecosystem in Blockchain"
-    excerpt: "As AstraAI continues on its path of groundbreaking advancements, it is clear that the platform is not just participating in the blockchain and"
-    publishedDateTime: 2024-02-26T04:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/astraai-redefining-innovation-with-the-ultimate-ai-ecosystem-in-blockchain-1033100075"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://lh7-us.googleusercontent.com/QnKXxXlezgzKCQkNJT1UWPIIz9jsLH7CdUAF4SwYzJwpetjMz4PPmwNINISZ-eZoeSRgRsZDofFVchvM-l0ZMqAqc-MI0DKCj1vD46GZm4qldNuOxhhh8eJEcAiRRLZUTfHl0MizY7WBdSEryBPaOow"
-        width: 1060
-        height: 1600
-        isCached: true
   - title: "Algoritmic Lab's Revolutionary New AI and Blockchain Ecosystem: Stalwart AI"
     excerpt: "The foundation of the Blockchain Stalwart is the Cosmos SDK, known for its reliability and versatility in blockchain development. Stalwart seamlessly integrates all Cosmos blockchains through the IBC module. Algoritmic Lab's goal in creating Stalwart was to create a truly scalable solution for digital asset management."
     publishedDateTime: 2024-02-27T10:39:00Z

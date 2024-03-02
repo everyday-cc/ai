@@ -31,70 +31,137 @@ images:
     isCached: true
 
 related:
-  - title: "Modernizing and monetizing telecom networks with AI-powered Azure for Operators"
-    excerpt: "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation"
-    publishedDateTime: 2024-02-26T04:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/"
+  - title: "How Meta’s Llama 3 will impact the future of AI"
+    excerpt: "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-26T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/llama-3/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 100
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How to cut through the AI noise"
+    excerpt: "Once you’ve gotten settled in the cloud, figure out where to innovate, and look for a unicorn vendor that can make AI simple and effective."
+    publishedDateTime: 2024-02-26T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713280/how-to-cut-through-the-ai-noise.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713280/how-to-cut-through-the-ai-noise.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713280/how-to-cut-through-the-ai-noise.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png"
-        width: 1260
-        height: 708
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
-    excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
-    publishedDateTime: 2024-02-27T04:06:00Z
-    webUrl: "https://techreport.com/news/meta-prevent-ai-tampering-elections/"
+  - title: "7 Paradoxes Of Artificial Intelligence"
+    excerpt: "artificial intelligence, a survey from IBM’s Watson Group finds. 3. AI is expensive to implement. AI helps manage and reduce IT costs. For example, the rising practice of FinOps — which encourages intelligently controlling technology spending — may ..."
+    publishedDateTime: 2024-02-27T02:36:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/arnaud-jaegers-IBWJsMObnnU-unsplash-scaled.jpg?_t=1709035648"
-        width: 2048
-        height: 1365
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
-    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
-    publishedDateTime: 2024-02-26T12:01:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+  - title: "Exploring the impact of Artificial Intelligence"
+    excerpt: "Visitors can dive into the realms of artificial intelligence at the Muscat Book Fair, where the evolution of this groundbreaking technology"
+    publishedDateTime: 2024-02-28T16:08:00Z
+    webUrl: "https://www.omanobserver.om/article/1150321/oman/exploring-the-impact-of-artificial-intelligence"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150321"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150321"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 20
-  - title: "Top soccer clubs are using an AI-powered app to scout future stars"
-    excerpt: "A London-based technology company is looking to “democratize” talent-identification and scouting in soccer using a mobile app. Free to download and available globally, the aiScout app allows aspiring soccer stars to enter virtual trials for professional clubs by uploading self-recorded footage of themselves completing a series of drills."
-    publishedDateTime: 2024-03-01T12:14:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/03/01/top-soccer-clubs-are-using-an-ai-powered-app-to-scout-future-stars/"
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 59
+    images:
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/28/2594140.jpg"
+        width: 1000
+        height: 819
+        isCached: true
+  - title: "Artificial Intelligence and Its Impact"
+    excerpt: "Artificial intelligence (AI) has emerged as one of the most disruptive forces in geoeconomics and geopolitics. Its rise to prominence began with twin breakthroughs in 2012 and 2013: the successful use of convolutional neural networks for image recognition ..."
+    publishedDateTime: 2024-02-27T21:50:00Z
+    webUrl: "https://www.cfr.org/project/artificial-intelligence-and-its-impact"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 19
-  - title: "SK Telecom partners with AI search startup Perplexity in Korea"
-    excerpt: "SK Telecom, South Korea's largest telco, is partnering with U.S. AI startup Perplexity to offer the artificial intelligence-based search engine to its users as an alternative to Google and Naver, the companies told Reuters."
-    publishedDateTime: 2024-02-26T12:30:00Z
-    webUrl: "https://www.aol.com/news/sk-telecom-partners-ai-search-133002108.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
-  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
-    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
-    publishedDateTime: 2024-03-01T14:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
+      name: Cfr.org
+      domain: cfr.org
+    quality: 39
+    images:
+      - url: "https://www.cfr.org/themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Harnessing the Potential of Artificial Intelligence"
+    excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
+    publishedDateTime: 2024-02-27T17:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-harnessing-potential-artificial-intelligence-/2024/02/27/9969051.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Navigating the impact of AI in our daily lives"
+    excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
+    publishedDateTime: 2024-02-27T17:20:00Z
+    webUrl: "https://manilastandard.net/spotlight/314420667/navigating-the-impact-of-ai-in-our-daily-lives.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 39
+    images:
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/steve-johnson-_0iV9LmPDn0-unsplash-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Dell says on-prem is the future of AI"
+    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
+    publishedDateTime: 2024-03-01T21:24:00Z
+    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 19
+  - title: "How Will Artificial Intelligence Impact Jobs? A Labor Economist Weighs In"
+    excerpt: "Investing in advanced AI capabilities and complementary infrastructure can steer labor market effects in a positive direction."
+    publishedDateTime: 2024-02-27T20:32:00Z
+    webUrl: "https://www.inc.com/sania-khan/how-will-artificial-intelligence-impact-jobs-a-labor-economist-weighs-in.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
 secured: "0K3hRjTfZSGWK+eYNxn40jYgvMgmJ4ipJe8z6zY9D00ipk7JFoSF7QsgdOfQBGaAFo3ddMWop1byfpuflDQ7Sx4oR7x315D73j+YO/6prA+cB3af2FQiMr6lwTlMSw9grz14aFatKhoJccx2xw5yxFJkLJLNvqAhLxmv/XLHJbDT/Mewv8dxOuT7axzuQ5tM7JcNUBfGmfwy8cIr68kBYtc392+so70k3rg6fumaZA4wF3PIFBNtkLO8We/4nUDSO9TyTb5PY6M3GkDHmSWgf/B10WsZLS18+Xx9yFSUJXpu0hbvOcc/Nq71t2ec+WTrnTPfNKfLbJPtrLuIh48rfmaqE9lQ5eLXhNJXKqtcc3fGm0Ye28oSPM8pE+6EmNaKO2KqMmG2rzvOjPkFlHnnDLt7eWpNAG67gNQP4ZgER7we1vHezwiQhkdzxYQfPI8/doiOtCeseCfoztgXWBZT2yZO3q+WTBcJkudxNu07jrzb6xiUrk5SHbfMj1hwWr1U6kDDoep/jIWJsLaPozKvOw==;JmabqQoX4ULtMKJakPH6ww=="
 ---

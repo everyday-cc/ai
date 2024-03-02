@@ -55,6 +55,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
+    excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
+    publishedDateTime: 2024-02-27T04:06:00Z
+    webUrl: "https://techreport.com/news/meta-prevent-ai-tampering-elections/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/arnaud-jaegers-IBWJsMObnnU-unsplash-scaled.jpg?_t=1709035648"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Fears of AI threat to democratic elections"
     excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
     publishedDateTime: 2024-02-28T23:59:00Z
@@ -69,6 +83,15 @@ related:
         width: 700
         height: 1047
         isCached: true
+  - title: "ARway Corporation: ARway.ai Expanding Its Spatial Computing Platform, Hires New AI Computer Vision and Machine Learning Ph.D Engineer"
+    excerpt: "With a distinguished background in robotics and machine learning, Mr. Sarkar brings a wealth of experience from prestigious institutions and leading-edge projects. With an academic foundation holding a Ph.D. in Control and Automation from the Indian ..."
+    publishedDateTime: 2024-02-26T12:01:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61506595-arway-corporation-arway-ai-expanding-its-spatial-computing-platform-hires-new-ai-computer-vision-and-machine-learning-ph-d-engineer-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 20
 
 secured: "xYBPjptAPGsdvefzB8PEEJKLL6yzbMK1vQUsKTNvz2pawxRB8e/HypTy6FFL0UCHorrMM6KTxYZ+LNvN6+A0rAOH1EOE9P3pupzDZAtaAD+EOsHQbfZRCzUbrMafDknQmgVgL43LtF8qPUZcziKGCNhgv00ph+gq9FRnHeFrmLu+qZrdFklIYYkACN3ZhWPs6HRfM+mQ3saFpZaVD3yJ+Rr2snHAzXRVc9KTCx346K42AkapynWYA7mha8kEHyu2I94prYp/YyHFEzgjG7b/a9bYTpmk8ybMTlEkm8Qw3f1rtO+7APgfYXllUJodDlFIykWivFobWQ8CVDeKyMlXVui8qGR3Jlr47z7qrUCkjeqrk56ouZQUhjz2XLKFu9tLAAu44AHb7Xgk0uJLh1dhmGBzydTOEkBmRuErG+ag6wMtpsO4C133jH64la8J29QdHsMIJHm50EAuby+93IRAFX8optXj490nCluXS1BjTRxtH59k6T+hww1HkeTgMjpwE86/Bhkti3c62JKCdwaLqA==;CpL3qcRCtbiOmfwALtrN9A=="
 ---
