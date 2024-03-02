@@ -2,6 +2,40 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-12-03-1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your-portfolio.md",
+      "title": "1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist and 1 to Make Disappear From Your Portfolio",
+      "excerpt": "Both are using artificial intelligence (AI ... that competes with the Amazon's AWS and Microsoft's Azure. But the vast majority of Alphabet's revenue and profits are derived from advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
+      "originalUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T19:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-03-amazons-290-very-best-cyber-monday-2023-deals-you-cannot-miss.md",
       "title": "Amazon’s 290+ Very Best Cyber Monday 2023 Deals You Cannot Miss",
       "excerpt": "Laneige lip masks, Apple AirTags, and more holiday gifts are up to 80 percent off We independently evaluate all recommended products and services. If you click on links we provide, we may receive ...",
@@ -1024,58 +1058,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions.md",
-      "title": "How Microsoft and Nuance empower radiologists with AI-powered solutions",
-      "excerpt": "Microsoft and Nuance are committed to creating outcomes-focused AI solutions that streamline radiology workflows. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
-      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/12/GettyImages-1320844652-1.jpg",
-          "width": 942,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

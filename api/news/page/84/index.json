@@ -2,6 +2,49 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-12-18-5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead.md",
+      "title": "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead",
+      "excerpt": "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "originalUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T17:13:44Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions.md",
       "title": "IBM makes $2B+ deal to add more AI, cloud computing solutions",
       "excerpt": "IBM is investing more than $2 billion in cash to bolster its artificial intelligence and cloud computing lineup by acquiring an integration platform as a service suite from Germany-based Software AG.",
@@ -1111,40 +1154,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-17-google-bard-advertising-gets-underway-with-harry-kane-subway-ads-video.md",
-      "title": "Google Bard advertising gets underway with Harry Kane, subway ads [Video]",
-      "excerpt": "With the addition of Gemini Pro, Google has been advertising Bard a great deal more. The latest involves Harry Kane",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2023/12/17/google-bard-advertising/",
-      "originalUrl": "https://9to5google.com/2023/12/17/google-bard-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-17T13:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

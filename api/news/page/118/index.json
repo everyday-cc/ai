@@ -2,6 +2,57 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2023-11-22-generative-ai-adoption-speed-unprecedented-oreilly-survey-says.md",
+      "title": "Generative AI adoption speed unprecedented, O’Reilly survey says",
+      "excerpt": "Survey of enterprise users of generative AI finds rapid adoption but also hurdles, with difficulty finding business use cases, legal uncertainties, and high infrastructure costs top concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.html",
+      "originalUrl": "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/arrows-showing-upward-trend_growth_chart_graph-100747015-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.amp.html",
+      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-now-that-generative-ai-is-here-where-will-all-the-data-come-from.md",
       "title": "Now That Generative AI Is Here, Where Will All The Data Come From?",
       "excerpt": "In fact, they will rely on human feedback more than ever. No matter where it comes from (historical, publicly available, open source or synthetic), AI datasets will continue to be curated at both the macro and micro levels before being used to train a new model and on an ongoing basis once an application has been launched into the market.",
@@ -1102,58 +1153,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-mediatek-brings-ai-features-to-new-dimensity-8300-chip.md",
-      "title": "MediaTek Brings AI Features to New Dimensity 8300 Chip",
-      "excerpt": "MediaTek's second-tier mobile processor, the Dimensity 8300, should be able to offer a lot of power while using less battery life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/mediatek-brings-ai-features-to-new-dimensity-8300-chip",
-      "originalUrl": "https://www.pcmag.com/news/mediatek-brings-ai-features-to-new-dimensity-8300-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/029rRKh0jF40dYQE8P8Ixi6-1.fit_lim.size_1200x630.v1700579299.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

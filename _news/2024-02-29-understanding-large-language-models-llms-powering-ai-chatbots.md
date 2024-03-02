@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Techniques and approaches for monitoring large language models on AWS"
-    excerpt: "Large Language Models (LLMs) have revolutionized the field of natural language processing (NLP), improving tasks such as language translation, text summarization, and sentiment analysis. However, as these models continue to grow in size and complexity, monitoring their performance and behavior has become"
-    publishedDateTime: 2024-02-26T17:59:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/"
+  - title: "Generative AI and the big buzz about small language models"
+    excerpt: "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ..."
+    publishedDateTime: 2024-02-29T14:23:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/26/monitoring-llm-1119x630.jpg"
-        width: 1119
-        height: 630
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_580417436_Preview.jpeg?w=1200&strip=all"
+        width: 1000
+        height: 571
         isCached: true
   - title: "The Vulnerabilities and Security Threats Facing Large Language Models"
     excerpt: "Explore the vulnerabilities of large language models like GPT-3 and ChatGPT, and discover strategies to protect against adversarial attacks, data poisoning, model theft, and infrastructure vulnerabilities,"
@@ -55,6 +55,57 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "How to install CrewAI and run AI models locally for free"
+    excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/install-crew-ai-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Installing-AI-models-locally-with-CrewAI.jpg"
+        width: 1280
+        height: 713
+        isCached: true
+  - title: "Meta plans launch of new AI language model Llama 3 in July, The Information reports"
+    excerpt: "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ..."
+    publishedDateTime: 2024-02-29T00:31:00Z
+    webUrl: "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
+    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
+    publishedDateTime: 2024-02-28T21:20:00Z
+    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/update-generative-ai-and-ai-tools-bbc"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 23
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Mistral AI Advances AI Accessibility: Unveils Mistral Large and Mistral Small Language Models, Integration with Azure Platform"
+    excerpt: "Mistral AI, an AI company, has introduced Mistral Large, its latest advanced language model, offering top-tier reasoning capabilities and multiling"
+    publishedDateTime: 2024-02-26T19:46:00Z
+    webUrl: "https://news.europawire.eu/mistral-ai-advances-ai-accessibility-unveils-mistral-large-and-mistral-small-language-models-integration-with-azure-platform/eu-press-release/2024/02/26/20/35/28/130787/"
+    type: article
+    provider:
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 6
 
 secured: "jXYzCDQeRQ9SI66iQvqZCW42DHULgFColyP/dlHJPvm2g/7xGLxSOqFfz4DBakqPqB8UTmYHsFu9XL9qeyEbhrL8t7TJsy96wORE/wp4RdFighexpLz8/CuCyVc+H/4lmN36T+IR/BEUS7tOHxfRRo3wpNlT6Xs/3kyepRbMRXjbBXRwtmJmBh2sUMwWZb3ZwunwDwVMmY3o5ZSQSfKULFGyPt31zEPr9/dIN1NKiSGxrNAuxeWL3kzvS0q2V51lOE0c8h0w+qlDyTBGHVTVaRWPl5TP6NOPextOdbcyecfXvmfiVXV1wNMiRN658nTj5b6gh4i0tzkFLYbkaOIFGva0TsgkQwaIy/0mQaikZWChceIB1s2WfLdpVMFSaFS1wiQQbqtdyZ3s/hhQPOR0wMjgZvOyGgjet6AdTdr8dsaJH90PRrM7Lfj9wtqxule/VD1VgZhSWTXQFYEuSc5F/PfqMwcVSWFbidqGJ6PDv5/dR/1+DHeUEar/9DYj9nGYm6Aiz1jat55eRccfflJqlw==;3Bz1SXyixyatiBYDUp6Z0w=="
 ---

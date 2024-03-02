@@ -35,7 +35,7 @@ related:
     provider:
       name: Tampa Bay Times
       domain: tampabay.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://www.tampabay.com/resizer/7H_jqHStowhR74tMAJvCM0MZSeI=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/UR25HY66BZCDBPF65272MOLNIA.jpg"
         width: 1200

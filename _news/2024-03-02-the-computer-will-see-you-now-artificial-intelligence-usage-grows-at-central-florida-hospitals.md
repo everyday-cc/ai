@@ -8,8 +8,8 @@ webUrl: "https://www.tampabay.com/news/health/2024/03/02/artificial-intelligence
 ampWebUrl: "https://www.tampabay.com/news/health/2024/03/02/artificial-intelligence-ai-use-centrall-florida-hospital-orlando-adventhealth/?outputType=amp"
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/health/2024/03/02/artificial-intelligence-ai-use-centrall-florida-hospital-orlando-adventhealth/?outputType=amp"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.tampabay.com/resizer/7H_jqHStowhR74tMAJvCM0MZSeI=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/UR25HY66BZCDBPF65272MOLNIA.jpg"
@@ -42,6 +43,6 @@ related:
         height: 700
         isCached: true
 
-secured: "4a/PRD2XHVhJmUhomWgmnsXYXkk11ZFZ+4c9laf5EGgx/hC2oss5GfqCBYMIFiirFGRR3CspItFFChS/uIdo8zJd0nTgPXUND3CewZ3dDdQdAgx17aTVs+1DxJTmGdd68vJojbu9qMmbnPvR33IpafXGe9SUhAyQ60lSsKqQ85Rm5cMFsjZaPpi+42pTHVI1clUfugT8Tk3cbN/6CrYYlmZegQ5LH7lUOmXpDLJE+4LLu9vjs2taxXL/WEwfdldAajXoGzygEy9Lbt2EdEaoHBFHI+HGcHGIitd5DhNyjWtbXngMi+QanvHlOLaCHW8uL5i0+/0ejIv0WwN/3rf6TyhI6RK6lzn3onYBIbQ8sAQ=;c+qwYZfx5MGHhx+oboFY1A=="
+secured: "eJfrwCuyBCI60+5Wa7zw4u026dVjnCPxpLOEZRr7pBJreEEtlySJr+Jb23SuFvVFfzdOuOs2KaFQLYUcVBigjdIFbX6zu3tCLgemsXybj2m2vWUvHK0mz1lCFiJ19MJOJ47C13y/5Xx/BDxJI4dwwCFaUUt9e0jmMh5jiBvhb//rDs80e1KiY17sKaDAQjfhqZGZso33f1g7wN/ciO69I43yy6bjj7JEfRGp7fmz3/9Y9eHsSau3v4f4ECA5GzjB+ma9pxOPKY3XpI+huMuzlw8nDv6lTzW09IOl5DTYPDPqeWJiQ4HxnBz6nvbSf6yOTRBMJrVzQJ4bqz8dGFBmRZWMFkVPF1ERrFgRw+2/rwLT+QXeM4YNA92gLEPpI1OYGM23p5yYJrdzBRQwSw+8rlI03bb5CYTMv4usWCSm3vmF8K6DBDWACNDwZvdUf0dLCch+qlGJd8cNbJ3lKQqAk/OWfuJYsRNurwsgrExYPH5KKmdeje43VvuNtcpr4VRGzDxUJBtpc9DI4nl9vfZyDw==;iEs7oSk+p3fEQDp8R0RxBQ=="
 ---
 

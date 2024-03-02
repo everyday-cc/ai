@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2024-02-06-5m-masstech-collaborative-initiative-boosts-states-robotics-sector.md",
+      "title": "$5M MassTech Collaborative initiative boosts state’s robotics sector",
+      "excerpt": "MassTech program will focus on expansion of research and development, testing, commercialization, and workforce development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/5m-masstech-collaborative-initiative-boosts-states-robotics-sector/",
+      "originalUrl": "https://www.therobotreport.com/5m-masstech-collaborative-initiative-boosts-states-robotics-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/Screen-Shot-2023-03-06-at-12.22.25-PM.png",
+          "width": 520,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T19:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "For years, IBM has been developing ways to adapt its AI supercomputer Watson to revolutionize health care, finance, law and academia. IBM’s portfolio of Watson AI solutions includes applications ...",
@@ -1076,58 +1119,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-looking-outside-the-magnificent-seven-stocks-could-be-a-good-idea-for-artificial-intelligence-ai-investors-heres-1-stock-that-ive-got.md",
-      "title": "Looking Outside the \"Magnificent Seven\" Stocks Could Be a Good Idea for Artificial Intelligence (AI) Investors: Here's 1 Stock That I've Got My Eye On",
-      "excerpt": "IBM's Watson governance tools have garnered interest as it pertains to compliance with AI practices. The company's consulting operation is serving as a bellwether for generative AI software revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/763057/it-solutions-server-room-data-management.jpg",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T07:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

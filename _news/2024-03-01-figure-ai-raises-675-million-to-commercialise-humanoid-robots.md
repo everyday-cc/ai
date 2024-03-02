@@ -34,20 +34,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 92
-  - title: "Bezos, Nvidia Join $675 Million Funding Round for a Startup Making Humanoid AI-Powered Robots"
-    excerpt: "With a billionaire backing the project, it sounds more like a Hollywood pitch deck than real life. But it is real."
-    publishedDateTime: 2024-02-26T18:52:00Z
-    webUrl: "https://www.inc.com/kit-eaton/jeff-bezos-nvidia-help-inject-675-million-into-a-startup-building-human-like-ai-powered-robots.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 43
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jeff-bezos-inc-magazine_537826_bzkhkd.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "VG1XctP7wd/c2N6WwoXBtJkPaUFLQPAVN/8n8IilgPk1F3lu7a3VbASeN4uqpv/pj3Elh60n8A5gpPGDTk58yBm5zJniZe6F6gOT7ihvmTOSEmRnJCPctmJYZfNQZdCHf2GZbSh7udwPYePOWptJuRGs9HSNHnFkgPeON6vG7zwc/LAYQMbUUXbem4Qa1MD9dXyE1SNC9JoAdqILYZ9rfLinyXTAPrHDXCJkCXjspy/tC5O8uxGuVLxWDvyhn5FQLYOgai2eFMVEk9psQZosbbt2ZEJ1DDJULN2n8li+BeXSzOwETKZVs/Ur/Bp+itkY4i9yp7yXYvagJsn8PZ/KReC2NPRv9bUFSVf7ONvluS2mW5tvEzXwJYKgAB8bjlPDhywxRJrGeUALWYDIEBa8Cl144jww0R2AM2o9oRYgNf1XWaXjkD/Tx4uRBxkNq51/npzZWUmiZ3nnfGzk9jmUapGd+hDJAGeMEyWaKFh9ROO/1IYI1su/hcEVm8ICEr6rnVC0I3CpD8NTTruhQjI8uw==;TAQl7zmaWaGxUOHjBTOGiA=="
 ---

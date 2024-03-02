@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-20-china-based-startup-moonshot-ai-secures-a-whopping-us-1-billion-in-funding.md",
+      "title": "China-based Startup Moonshot AI Secures a Whopping US$ 1 Billion in Funding",
+      "excerpt": "This financial milestone for Moonshot AI is part of a larger trend in China, where there's a noticeable rush to support AI startups",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/20/china-moonshot-ai-funding-1-billion/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/20/china-moonshot-ai-funding-1-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-the-pentagons-silicon-valley-problem.md",
       "title": "The Pentagon’s Silicon Valley Problem",
       "excerpt": "Artificial intelligence may indeed affect the way our military operates ... After years of expensive effort, the “ATR [automatic target recognition] just doesn’t work. Even driverless cars,” he emphasized “are relatively easy problems to solve ...",
@@ -1144,48 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-streamlining-supply-chain-management-strategies-for-the-future.md",
-      "title": "Streamlining supply chain management: Strategies for the future",
-      "excerpt": "Here’s how companies are using different strategies to address supply chain management and meet their business goals.\nThe post Streamlining supply chain management: Strategies for the future appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/supply-chain-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/supply-chain-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

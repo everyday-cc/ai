@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft announces ‘AI access principles’ to offset OpenAI competition concerns"
-    excerpt: "On the heels of Microsoft’s investment and partnership with French Large Language Model startup Mistral AI, the company continues to work hard to try to dispel the image that it’s blocking competition through its deep partnership (and financial stake ..."
-    publishedDateTime: 2024-02-26T17:30:00Z
-    webUrl: "https://techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/"
-    ampWebUrl: "https://techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/microsoft-ai-access-principles-openai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 99
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI"
     excerpt: "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges."
     publishedDateTime: 2024-02-29T23:00:00Z
@@ -529,20 +513,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Microsoft partners with French startup Mistral AI"
-    excerpt: "Paris: Microsoft said on Monday it had partnered with French startup Mistral AI, as the software giant seeks to tighten its grip on the emerging technology. The US firm, which has already ploughed billions into ChatGPT maker OpenAI, called Mistral \"an ..."
-    publishedDateTime: 2024-02-26T17:59:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/26/02/2024/microsoft-partners-with-french-startup-mistral-ai"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20240226_1708970117-283.jpg?1708970117"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Microsoft Partners with OpenAI Rival Mistral"
     excerpt: "It was then accessible through Azure AI Studio and Azure Machine Learning. \"This latest addition of Mistral AI’s premium models into Models as a Service (MaaS) within Azure AI Studio and Azure Machine Learning provides Microsoft customers with a diverse ..."
     publishedDateTime: 2024-02-27T00:00:00Z
@@ -885,20 +855,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Mistral’s ‘Le Big Model’ Beats Google’s Gemini Pro, Signs Multi-Year Deal with Microsoft"
-    excerpt: "Alongside Mistral Large, Mistral AI has also introduced Mistral Small, an optimised model designed for low latency workloads. Outperforming Mixtral 8x7B and featuring lower latency, Mistral Small offers a refined solution between Mistral’s open-weight offering and its flagship model."
-    publishedDateTime: 2024-02-26T17:50:00Z
-    webUrl: "https://analyticsindiamag.com/mistrals-le-big-model-beats-googles-gemini-pro-signs-multi-year-deal-with-microsoft/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/09/mistral-ai.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft inks deal with France’s Mistral AI, an OpenAI rival that has its own chatbot"
     excerpt: "Microsoft announced an artificial intelligence partnership Monday with the French startup Mistral AI that could lessen the software giant’s reliance on ChatGPT-maker OpenAI for supplying the next wave of chatbots and other generative AI products."
     publishedDateTime: 2024-02-26T22:16:00Z

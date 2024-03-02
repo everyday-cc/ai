@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/65dcf24390413ab8e1d6efee?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI to Design Drugs in the Near Future, Says Google DeepMind CEO"
+    excerpt: "Demis Hassabis, CEO of Google DeepMind, predicts that artificial intelligence (AI) could be designing drugs directly in clinics within the next few years."
+    publishedDateTime: 2024-02-27T08:22:00Z
+    webUrl: "https://bmmagazine.co.uk/tech/ai-to-design-drugs-in-the-near-future-says-google-deepmind-ceo/"
+    ampWebUrl: "https://bmmagazine.co.uk/tech/ai-to-design-drugs-in-the-near-future-says-google-deepmind-ceo/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/tech/ai-to-design-drugs-in-the-near-future-says-google-deepmind-ceo/?amp"
+    type: article
+    provider:
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 74
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/02/shutterstock_331288130-scaled.jpg"
+        width: 850
+        height: 567
         isCached: true
   - title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
     excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."

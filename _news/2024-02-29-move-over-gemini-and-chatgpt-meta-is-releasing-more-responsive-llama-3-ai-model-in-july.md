@@ -173,22 +173,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
-    excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."
-    publishedDateTime: 2024-02-26T17:27:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/googles-gemini-ai-picture-generator-to-relaunch-in-a-few-weeks-following-mounting-criticism-of-inaccurate-images/5170798/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 39
-    images:
-      - url: "https://media.nbcnewyork.com/2024/02/107374408-1708024236177-gettyimages-2004540056-PGONCHAR_1264.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google CEO Calls Some Gemini AI Output 'Completely Unacceptable'"
     excerpt: "Since the launch of Microsoft-backed OpenAI's ChatGPT in November 2022, Alphabet-owned Google has been racing to create a rival AI software. It released the generative AI chatbot Bard a year ago. Earlier this month Google renamed it Gemini and rolled out ..."
     publishedDateTime: 2024-02-28T00:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
 excerpt: "Following the release of OpenAI’s Chat-GPT in November 2022, questions and concerns surrounding the use of artificial intelligence and how it will change our lives as we know it erupted from the general public. Is now the time robots will begin taking ..."
 publishedDateTime: 2024-03-01T00:00:00Z
-originalUrl: "https://gazette.com/news/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
-webUrl: "https://gazette.com/news/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
+originalUrl: "https://gazette.com/news/local/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
+webUrl: "https://gazette.com/news/local/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "pR+IXPL5n9dkbggaVuh8flFu/h+qjsBwCbkRRrJKk8fnOCeyB9bv0n0EzsbqKT24xPLFBBeGCGy4th8NX8nZ9jYP1IGGd2t+g1MgqqDh2zAQmrV/Bqj3x4vjTBFYYMeofqSqc+adThsEIpLvFfdS95h/X7mFFGDaiFm+tTfiv/4oihp8dYsN1Pxse5DwFF+Vy56mPbZI9SyxnSpEQgryu4VPevFL9rZ2Ljyqrww5oo4tTjsS2QY/+Ev6GjB7WDpUtC0N2NXa9lCJSGRBi04JnROyWSGQOPmt4rEOFn7EL5EVIBQC+YrMQeTb4IFBHPoOumWs/MDvc4J09JSb403ZfRv+wq9o1/RQS1U7uupEqLc=;vPiLmHy+AlqQFskscswNmA=="
+secured: "kUns0M7hYz1Wc5sPw2Rffnv6RgfH13w/TyeleLcdSop7JySPQIufB3Xvh+ecsbAykT9DiFlEVtZyP9ULW3bRvkMBxW3Nhx9avksJ4/WLvaaoLOfIdjF7OiRQYQmkHS2muFWBdzhrcqo4Yt6iwCxzIoPTR/sbUM8c5FOyQwsDrX0J+e36sJX+IhUfhOkvPrbqGK4RiZzKdT+YtayO4o4xPRMk8Zl2irjga0fYbXpYIwsxYD4EI02GqVhgprMEFuxUiiGrn4w5p7cnv7KXSn0yoVL7TzxTD0zNZq6kSJJo9CTDt4EXvcMdZjIJ+WqqCfCGL5pERG8ID1MWFfhjjJUhdvNmHLejiu4iyRjulxQXmv4=;LMyzyCbYM4Hnk4+E0/YsZg=="
 ---
 
