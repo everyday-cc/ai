@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "PH has potential to lead cybersecurity via AI -- exec"
-    excerpt: "An executive of Amazon Web Services (AWS) on Monday said there is an opportunity for the Philippines to become a leader in cybersecurity through the use of generative artificial intelligence (AI). During an online press conference,"
-    publishedDateTime: 2024-02-26T09:51:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1219573"
-    type: article
-    provider:
-      name: pna
-      domain: pna.gov.ph
-    quality: 39
-    images:
-      - url: "https://files01.pna.gov.ph/ograph/2024/02/26/img-6240b92d2470f74128c5bc1852c6d5ae-v.jpg"
-        width: 720
-        height: 377
-        isCached: true
   - title: "Why cybersecurity skills are coveted in fintech"
     excerpt: "In areas such as AI and cybersecurity, those with the necessary skills and ... that new solutions are found to deal with online fraud, particularly within the fintech sector. While the above stats sound positive, the one thing getting in the way of the ..."
     publishedDateTime: 2024-03-01T10:02:00Z

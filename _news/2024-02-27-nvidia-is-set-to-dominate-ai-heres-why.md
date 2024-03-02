@@ -101,20 +101,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Micron announces HBM3e memory enters volume production, ready for NVIDIA's new H200 AI GPU"
-    excerpt: "Micron has just announced it has started volume production of its bleeding-edge HBM3e memory, with the company's HBM3e known good stack dies (KGSDs) shipping as part of NVIDIA's upcoming H200 AI GPU. NVIDIA's new beefed-up H200 AI GPU will feature up to ..."
-    publishedDateTime: 2024-02-26T10:31:00Z
-    webUrl: "https://www.tweaktown.com/news/96471/micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 44
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96471_1008_micron-announces-hbm3e-memory-enters-volume-production-ready-for-nvidias-new-h200-ai-gpu_full.png"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "Nvidia Reveals AI-Focused RTX 500, 1000 GPUs For ‘Highly Portable’ Mobile Workstations"
     excerpt: "Nvidia has revealed the RTX 500 and 1000 Ada Generation GPUs that are designed to boost AI workflows for ultrathin laptops used by professionals and content creators."
     publishedDateTime: 2024-02-26T12:42:00Z

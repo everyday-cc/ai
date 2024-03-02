@@ -7,8 +7,8 @@ originalUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do
 webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Economist
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia briefly hits $2trn valuation as demand for AI chips soars"
-    excerpt: "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ..."
-    publishedDateTime: 2024-02-26T11:00:00Z
-    webUrl: "https://www.siliconrepublic.com/business/nvidia-market-value-ai-chip-demand-revenue-shares"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-27.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Analysis-Wall Street Hunts for More AI Gold After Nvidia’s Soaring Rally"
     excerpt: "Shares of Nvidia - whose chips are the gold standard in the AI industry - are up about 60% this year after tripling in 2023. The run has pushed its market value to roughly $2 trillion, making it the third-largest U.S. company by market cap after Microsoft ..."
     publishedDateTime: 2024-03-01T01:03:00Z
@@ -62,6 +48,15 @@ related:
         width: 1536
         height: 1024
         isCached: true
+  - title: "Nvidia: The mother of all artificial intelligence"
+    excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
+    publishedDateTime: 2024-03-01T20:47:00Z
+    webUrl: "https://www.thestar.com.my/business/insight/2024/03/02/nvidia-the-mother-of-all-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 19
 
 secured: "SA02SnDjDGJcDUT/DdKh0OAg7OkZ1RpQUQTncB+HC8YRgn/bafYBWDX7XMACq6FhGrXBlkcCelRoqe98XRNKEy1mCa7njXIUPsGD+7iAfQcuG4ztbLlQiL8mGYtyTZYaZSQfTfLEJZQ+tv/cu96otdZj3nc1HTuhsGoUs1afUqyEqpHGmoeKX+u8Uhm7a/TqzqgQWFZt6si48sWxrZ/dfkIrpa6QhNeOP/7aOmIdiwDfgW5WBl8X00UYYaPDGwdqh2Z73+RX7e6Ogk4+VXWiWRPY0twCUI6Xj+cX0jUmPET6TflGAxj70bqRxPp2eEGjGi8vIJsPjxz/W+z6VwgIPZZpqKOAWTggCL1FDl4jK4c=;SJm3UgllF2k0t5/Nk27yQA=="
 ---

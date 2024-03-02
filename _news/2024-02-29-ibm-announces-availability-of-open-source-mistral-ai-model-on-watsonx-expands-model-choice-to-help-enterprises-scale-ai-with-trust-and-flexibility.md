@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-excerpt: "IBM offers an optimized version of Mixtral-8x7B that showed potential to cut latency by up to 75% Adds to growing catalogue of IBM, third-party and open-source models to give clients choice and flexibility Latest open-source model available on watsonx AI and data platform with enterprise-ready AI studio,"
+excerpt: "IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral"
 publishedDateTime: 2024-02-29T12:00:00Z
-originalUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
-webUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-302075685.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-302075685.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/IBM_watson_x_social_0.jpg?h=d2743266&itok=yW8xOuzW"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/2171964/IBM_watson_x_social.jpg?p=facebook"
+    width: 1917
+    height: 1005
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vuEGs498S+ggIsENApJwfY3d1KA7DLyVr1QeGIob17vp2mkgFPvEHv2GgfDuZgQNvET1EDIWMkKdlQEcU1BrSkgeWyPoIPAGjEavhqULyBoh2gR2EVUMWlYpWhRfJY/kBmT337Ul40+N1UybvAXLCKGeO2iyl0r/TcJDHubHwZPp6bXLRsMYDpNMt1okNTYMzLPciAwZVsXIaTzkyTK+UpDJ5RLVbCodeqXmcyUvcxxvhfqZIE0XE5OJ/hfT80L72LLN8l0L6hApShK8sk5eeLCTON9f4ADauOmIcMRX3g+jttZJwlTjugKny8fB81CXsr1gWqRbJonE196SoYwf4DqP2J5gw24lMB1QCntq8U4=;hzsgLZO2mfp7syxe4mIj0A=="
+secured: "KulzHlIEHIj4Nn9bNChIvwEpNLBw+TeP+6CIyq1bk8i9yRTHAE+cM8QZfzLyGnCqoHw1eZO0eLsQqdf0WN1JjdtG9+iS6eB3MZfVjAEz3DQZ87Ek4DI4q2hjUGLGW5NZtCjU9p1c4h5YM56UspSS0ef9qp2I+pKTZK+iKMy5bG6DnGslAplA2dRHVMb06cdqlRZZCETMDsZFOQeEqVnnHMpGdVU8OYxeyFFgzvANuPXNHHt+1RvLH/Ua+g8WoF/BmHKfgNIxHilB+MTMbNLKZ3ogje9GjNbDGtQXbqT9zQwxrCOmG/xFOBlKx2VSovl04IfX5ncD/nahHawtp79XKJ3aucj0pgdOVBSGnpOKIn4=;5n+UIIn6QhVz2UgPugYGjA=="
 ---
 

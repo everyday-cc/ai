@@ -50,22 +50,6 @@ related:
         width: 1600
         height: 700
         isCached: true
-  - title: "How to cut through the AI noise"
-    excerpt: "Once you’ve gotten settled in the cloud, figure out where to innovate, and look for a unicorn vendor that can make AI simple and effective."
-    publishedDateTime: 2024-02-26T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3713280/how-to-cut-through-the-ai-noise.html"
-    ampWebUrl: "https://www.infoworld.com/article/3713280/how-to-cut-through-the-ai-noise.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713280/how-to-cut-through-the-ai-noise.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "7 Paradoxes Of Artificial Intelligence"
     excerpt: "artificial intelligence, a survey from IBM’s Watson Group finds. 3. AI is expensive to implement. AI helps manage and reduce IT costs. For example, the rising practice of FinOps — which encourages intelligently controlling technology spending — may ..."
     publishedDateTime: 2024-02-27T02:36:00Z
@@ -79,6 +63,22 @@ related:
     quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "The Rise Of AI Tutors"
+    excerpt: "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning."
+    publishedDateTime: 2024-03-01T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true

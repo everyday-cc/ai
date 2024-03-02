@@ -183,20 +183,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "A year after AI ‘code red,’ Google is red-faced amid Gemini backlash. Was it inevitable? | The AI Beat"
-    excerpt: "All weekend, it seemed like my social media feed was little more than screenshots and memes and links to headlines that either poked fun or took painful stabs at Google’s so-called ‘woke’ Gemini AI model ... Google and its research lab DeepMind ..."
-    publishedDateTime: 2024-02-26T10:07:00Z
-    webUrl: "https://venturebeat.com/ai/a-year-after-ai-code-red-google-is-red-faced-amid-gemini-backlash-was-it-inevitable-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T130039.881.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Google's Gemini AI picture generator to relaunch in a ‘few weeks' following mounting criticism of inaccurate images"
     excerpt: "Google plans to relaunch its image-generation AI tool in the next “few weeks,” according to Google DeepMind CEO Demis Hassabis."
     publishedDateTime: 2024-02-26T17:27:00Z

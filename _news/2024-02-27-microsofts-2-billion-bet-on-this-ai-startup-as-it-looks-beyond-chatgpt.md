@@ -174,6 +174,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Microsoft partners with Mistral in second AI deal beyond OpenAI"
+    excerpt: "or through Azure AI Studio and Azure Machine Learning. Mistral Small will also be available today, offering improved latency over Mistral’s 8x7B model. Mistral is also releasing a new ..."
+    publishedDateTime: 2024-02-26T15:23:00Z
+    webUrl: "https://www.theverge.com/2024/2/26/24083510/microsoft-mistral-partnership-deal-azure-ai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Mistral releases new ‘top-tier’ AI model, partners with Microsoft"
     excerpt: "Paris-based Mistral is launching a new \"flagship\" AI model for on Microsoft's Azure, partnering up with the tech giant."
     publishedDateTime: 2024-02-26T15:37:00Z
@@ -229,20 +243,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/robot_writing_on_a_notepad-e1708964969795.jpg?w=1200&strip=all"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Microsoft invests in startup Mistral AI, outlines broader AI access principles"
-    excerpt: "The company announced a multi-year partnership and an investment of undisclosed size in French startup Mistral AI as an example of its approach. Mistral AI will be able to train and deploy its AI models via Microsoft’s data centers, and Microsoft will ..."
-    publishedDateTime: 2024-02-26T10:24:00Z
-    webUrl: "https://www.geekwire.com/2024/microsoft-invests-in-startup-mistral-ai-outlines-broader-ai-access-principles/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 80
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/02/msft-brad-smith-mwc.png"
-        width: 1241
-        height: 779
         isCached: true
   - title: "Microsoft partners with OpenAI-rival Mistral for AI models, drawing EU scrutiny"
     excerpt: "On Monday, Microsoft announced plans to offer AI models from Mistral through its Azure cloud computing platform, which came in conjunction with a 15 million euro non-equity investment in the French firm, which is often seen as a European rival to OpenAI. Since then, the investment deal has faced scrutiny from EU regulators."
@@ -885,6 +885,34 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Microsoft Promo Codes for March 2024"
+    excerpt: "Does Microsoft offer free shipping ... You’ll only ever pay for the products or services you buy, with lower prices just as they’re described on the page. If you're looking for more ..."
+    publishedDateTime: 2024-03-01T03:04:00Z
+    webUrl: "https://www.pcgamer.com/coupons/microsoft.com/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/iL6D95t98F3a3oPkTLE4A-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "This Week's D.C. Deal Sheet: Microsoft Pays $466M For Data Center Site"
+    excerpt: "Microsoft Corp. purchases 124 acres in Prince William County from Chuck Kuhn, Finmarc sells Springfield flex/warehouse to tenant, and more."
+    publishedDateTime: 2024-03-01T20:11:00Z
+    webUrl: "https://www.bisnow.com/washington-dc/news/deal-sheet/this-weeks-dc-deal-sheet-123142"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 39
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F05%2F5ebed9d0342a5-building92microsoft.jpeg&width=1200&sign=cK4ZcVn6e_apfNCGe0YqeqAq34AMrGFnuIU0rk3ZbRA"
+        width: 750
+        height: 525
+        isCached: true
   - title: "Microsoft's Bold $16 Million Gamble on Mistral AI, the Challenger to GPT-4 and Claude 2 - A Strategic Move or a Risky Bet For Microsoft Shares?"
     excerpt: "The collaboration highlights the integration of Mistral's AI capabilities into Microsoft's Azure AI platform. Mistral is preparing to provide open and commercial language models on Azure, following in the footsteps of OpenAI. A key focus of this ..."
     publishedDateTime: 2024-02-29T11:47:00Z
@@ -1064,6 +1092,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "Atlanta wants Microsoft to bring city 15,000 jobs or return land"
+    excerpt: "Atlanta's mayor is pressing Microsoft about the future of a 90-acre site. The tech giant says it's reevaluating its global real estate portfolio post-pandemic."
+    publishedDateTime: 2024-03-01T23:44:00Z
+    webUrl: "https://www.seattletimes.com/business/atlanta-wants-microsoft-to-bring-city-15000-jobs-or-return-land/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "Y04IPjENNlKxxqLJquDIP5YNOC3UJakokShe2a7eBhhm8ab5zd8cIq52IYqGgxuyMcPPRZ9+p9e+QJJetX0euJ5IlGrAaf+cHd1/cDUlGnsQe+xl+tHl9lPe29yo7+eaFazJJ2E2eq0tqFvvgG5k4KLot/pfCGxusZ2JL5PEORkQT7wJD6TwQ+9FRG1rUDOUZ6k0bV6bMpQ2GmiTzwUN+HjF4m+/FiFrV39B0dINhxc99b2/b4XD8W2FJEJQz6oGCuW/nTKj6tEQG7UV8xRdzyx3eWwX2ZVshwarEKnL5BTOyuZaaXSiG8RFdmAwYwLHy3fzOT8s8JoVzalw4hDCrk2GLEia21lKnyxcqCc4y5M=;T11L1XtAcu5og/0eQFhKhA=="
 ---

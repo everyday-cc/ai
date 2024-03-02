@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Nvidia: The mother of all artificial intelligence"
-    excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
-    publishedDateTime: 2024-03-01T20:47:00Z
-    webUrl: "https://www.thestar.com.my/business/insight/2024/03/02/nvidia-the-mother-of-all-artificial-intelligence"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 19
-
 secured: "W2EM+scy2C4oLLPw+O3OBn4o11z35a7g2Upba8UwQr2gm+2FkoIm32KzSvLMomzJCOqIZRsZXv5zRM59ZnUVy+RDyR+gIVEev0Kmp+4WxcQWXRd9FZOyfqDv3vngz3lBPM361EGH4z6GrSUd/JVXB5uMO9S6UCt4t2uYTAvRdYkNDjAPUk0e0jwrxqMCDagultBpR1GOXtt50rdZilOGOwhQRk5A9UVdyC5PC0CK9V1M/zXWyb3nelUT9pfq/UfIaPY3QEdfbFkj/WvKVGG1hJZiTlWk5PXVW+X9vwUr9g0Tw9RWQxR9CpO7qTt5albfzZG/FqRstF9K2Zx+jUGF+nX+lxRxRzfTkU188fP5JEn5EAgV82c8cuopslWO8Pizxmv1lOuzJsPWbNAsCiRKoSBfcFinKYJ3F3KuBDbbCX63AlVgxYl58vYQ8zaf412qT9cLMbxcgna7S/MQ86480VqRcPuQRHUu9w+k8pWxg4O3t2xY2w2F67Mi5HkNFoTKbAxZKFi1a5zLTDpuh+b3zQ==;l6l2kXlKSc1nQ2JUIQTRpA=="
 ---
 

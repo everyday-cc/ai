@@ -163,20 +163,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "More Than Half the Fintech Industry Seeing Growth from Strong Consumer Demand"
-    excerpt: "Fintech industry resilience during the pandemic has been underscored by a sustained interest in digital financial services."
-    publishedDateTime: 2024-02-26T10:31:00Z
-    webUrl: "https://fintechnews.sg/87888/studies/more-than-half-the-fintech-industry-seeing-growth-from-strong-consumer-demand/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 21
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/The-Fintech-Industry-is-Resiliently-Looking-Ahead-to-Shape-Inclusive-Finance.jpg"
-        width: 1024
-        height: 567
-        isCached: true
 
 secured: "24ms1sVIjReOkndv4zHqvcpDtd+7cSERp+fBtJFZaIXO5rTiFV1jb4e5ahehsD/rHjBwI5vVcewk5eosFEn/CMn/k4RwgnUZYDdC75Budi/VxYkFyD6WBPn1dBgJ+dHSq6K9KiUEU2UkOlno6Jl14Onp51ia5SMK06TqadCvxYXEnXd0H+BvWSGTPEYqxEI2oPFlfypW9pSk+d1wbOY/yJQoJkTF1O+082WQKTmyMLP0fIjgiCXte3dYdkE52CcybCZZCst7+mL6g7mi83ltm0IhzP7NMBwUPGBYFE311rJc53fU3eCTdk7tXRKZ5jx/gxXdKqjYtdGYezErARc6FzW8PCPntcPo9a0tllCIlYoo+ranohY0tE3aKtsgGvDOcDE7PcKzk8eTbfwoEq7GDjLdkiZsyI/ZoaVGiGGPcfoG2TNDp2Wt2kdbNXUWyQWe16iOcehJxBnDBvi0qtTgEmNDGjR9254aCdk7hv8ufRwveilQMI2x4qasxQ3JqFh2NH39TbBpdgsv9JiZqi8aAA==;2wAr00EJLqconq0LEiXWSw=="
 ---

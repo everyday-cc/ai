@@ -171,20 +171,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "A year after AI ‘code red,’ Google is red-faced amid Gemini backlash. Was it inevitable? | The AI Beat"
-    excerpt: "All weekend, it seemed like my social media feed was little more than screenshots and memes and links to headlines that either poked fun or took painful stabs at Google’s so-called ‘woke’ Gemini AI model ... Google and its research lab DeepMind ..."
-    publishedDateTime: 2024-02-26T10:07:00Z
-    webUrl: "https://venturebeat.com/ai/a-year-after-ai-code-red-google-is-red-faced-amid-gemini-backlash-was-it-inevitable-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T130039.881.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "A Litany Of Apologies Over Google’s Gemini AI"
     excerpt: "Alorica, which uses technology to transform customer experience, has a new AI implementation hitting markets today: Real-time Voice Language Translation (ReVoLT). This platform can do real-time audio and voice translation in 75 languages, making it ..."
     publishedDateTime: 2024-02-29T19:48:00Z

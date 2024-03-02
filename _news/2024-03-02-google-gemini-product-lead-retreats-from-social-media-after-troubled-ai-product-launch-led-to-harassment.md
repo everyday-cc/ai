@@ -174,20 +174,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "A year after AI ‘code red,’ Google is red-faced amid Gemini backlash. Was it inevitable? | The AI Beat"
-    excerpt: "All weekend, it seemed like my social media feed was little more than screenshots and memes and links to headlines that either poked fun or took painful stabs at Google’s so-called ‘woke’ Gemini AI model ... Google and its research lab DeepMind ..."
-    publishedDateTime: 2024-02-26T10:07:00Z
-    webUrl: "https://venturebeat.com/ai/a-year-after-ai-code-red-google-is-red-faced-amid-gemini-backlash-was-it-inevitable-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T130039.881.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "A Litany Of Apologies Over Google’s Gemini AI"
     excerpt: "Alorica, which uses technology to transform customer experience, has a new AI implementation hitting markets today: Real-time Voice Language Translation (ReVoLT). This platform can do real-time audio and voice translation in 75 languages, making it ..."
     publishedDateTime: 2024-02-29T19:48:00Z
@@ -421,6 +407,6 @@ related:
       domain: hindustantimes.com
     quality: 4
 
-secured: "hA49+FbRGKy725E0nMxQnsxU5adczkOySnX3W+kEeqamhRgIDPbH32r6MZcda5IF2ncjYEKbNNx6Odx2Mb4Xhx5j2I04trcILppMwg+66ncediNwscH2iX/YE9MTA8ixIdIiV79KJGZxicQ9vdkYMlAtlUR6Ma/vgzH6IR5TtBYzZB+ViaFLppZvLKvF92oUiI4NyNGMDYRFE8khhlgFZMavFDVd7UmAAitou71McCOEw+FLdIfxUrwuzp8uVZjvy3rLWoe0JIzy1g+onBz7TDNmmqWc5LLI/fBaRXTXZM58kWXUs3/01zw3+2qCiH235qCATmwHplf8CcOZDyQrf9P9Dv3yFkBMl333Znal7iw=;kY/DOiLWd9rOq3dkdCZxxw=="
+secured: "oXaN7OAJUnaLiepcLsASOiLSD+XSkodjOB3QVvWg3lEv1mCwhKcB7iMXo0O1SRQxZzc7av4Nw579/e9YihYXFFIaYLJr3OfYcmyvmm4ibSBkZ6CmDKcma4IRbdHgSsku2meArjKKJHBBJUfUUSCEORe4sJNNoHsdzLC0zT+z8WjBab8AYMrzsO/8G+eX82/pWknKO2lPdg5nexv2eOJJJ14ZN2fc/NluUL4xSFig8m2hyYF9/pJP4iCIrrT2weg9e8EexBqLVPL5U5Gym8GZUI0mLeJ7KPzuTdzZAtnzqSbAcIExr0u6eZ1/t/8TWg3w0cz/PSliXECG4yM8kD1rKVbTL5P8snWwvvSLsRjKF3ntCnzBaLrxeyajw7+MotD3Z3DKpVWqlbg8oqkK79BmIldHYG1rzKj3ieIXyF7m6g6rYOMOB132GQu9+ZyoM4wszgYduYEFUe2zoSziXnVHIekJ2PnaMBvbUuo4jdhBVYFyryPrmnKaBhLH/Tqv1AHkfLfj3UPRoBr7nN3j+SK1bw==;lRGSZXY5+6wLDpLD9eXi3Q=="
 ---
 

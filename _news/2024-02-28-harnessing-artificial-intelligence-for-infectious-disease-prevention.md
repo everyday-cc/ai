@@ -57,20 +57,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Meta team to counter fake news and AI misuse ahead of EU elections"
-    excerpt: "The Facebook and Instagram parent is also building tools to label AI-generated images from Google ... data science, engineering, research, operations, content policy and legal teams. The objective is to identify potential threats and put “specific ..."
-    publishedDateTime: 2024-02-26T09:16:00Z
-    webUrl: "https://www.siliconrepublic.com/business/meta-eu-elections-disinformation-generative-ai-team"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-26.jpeg"
-        width: 2000
-        height: 1325
-        isCached: true
   - title: "Meta Decides To Form A Team To Prevent AI From Tampering With EU Elections"
     excerpt: "The team will consist of experts from within the company, including engineering, operations, legal, content moderation, research ... across Facebook, Instagram, and Threads. The company already does this for images generated through its own AI tools."
     publishedDateTime: 2024-02-27T04:06:00Z

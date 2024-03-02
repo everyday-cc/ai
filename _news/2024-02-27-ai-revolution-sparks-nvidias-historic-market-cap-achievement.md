@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia briefly hits $2trn valuation as demand for AI chips soars"
-    excerpt: "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ..."
-    publishedDateTime: 2024-02-26T11:00:00Z
-    webUrl: "https://www.siliconrepublic.com/business/nvidia-market-value-ai-chip-demand-revenue-shares"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-27.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Why do Nvidia’s chips dominate the AI market?"
     excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
     publishedDateTime: 2024-02-27T16:07:00Z
@@ -62,6 +48,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Nvidia: The mother of all artificial intelligence"
+    excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
+    publishedDateTime: 2024-03-01T20:47:00Z
+    webUrl: "https://www.thestar.com.my/business/insight/2024/03/02/nvidia-the-mother-of-all-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 19
 
 secured: "V7bJr5H89q1hOaRwS9PsmhW5gXJzhI/FtSwb9Jfr0qoZ1y6NZIx6CwxTSdHXS1b7ayqNWpGIJdqhapWq0+0HMFYKWwCbDpFrKkAi2m6kPjVC/kkbOh83yo4Wp/xJ9G1oi4C055bUM9MrHncXxLhMXrKh2S6RBi+DWi3UD1ZBaBoNlIsXnvy785b3l4wte93ZKEKndcG68i/70breOzP20wK0l8ReGH95YGqaVSvckr5sl/h7m9T/qSTZYZj5U1LC9kBG3X0mnYPV19qmcBelcGG9In1sGa7TOsjJABdlrXiZ3YD+KSQ/hoz7kK+SIh5epvFKoaSlNQh+ZGycwao/pZ2YTMHS5g/qF99+muh8u74=;G6wDnDLtzpIpBWV2j0/k2g=="
 ---
