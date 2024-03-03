@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-
 webUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/"
 type: article
 quality: 97
-heat: 347
+heat: 337
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_The_letter_M_pixel_art_set_against_a_backdrop_of_comp_d20af6a7-9ba2-4759-bba8-3c2d7b034c5c-transformed.webp?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "E.U. Watchdog to Examine Microsoft’s Mistral AI Investment"
-    excerpt: "M icrosoft Corp.’s Mistral AI investment is set to be analyzed by the European Union’s competition watchdog at the same time that its deep ties to OpenAI Inc come under regulatory scrutiny."
-    publishedDateTime: 2024-02-27T15:34:00Z
-    webUrl: "https://time.com/6835554/eu-microsoft-mistral-investment/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1850859244.jpg?quality=85"
-        width: 5472
-        height: 3648
         isCached: true
   - title: "Microsoft partners with OpenAI-rival Mistral for AI models, drawing EU scrutiny"
     excerpt: "On Monday, Microsoft announced plans to offer AI models from Mistral through its Azure cloud computing platform, which came in conjunction with a 15 million euro non-equity investment in the French firm, which is often seen as a European rival to OpenAI. Since then, the investment deal has faced scrutiny from EU regulators."

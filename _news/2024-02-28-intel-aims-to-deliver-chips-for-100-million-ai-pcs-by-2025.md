@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deli
 webUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Intel’s new Intel vPro platform to power the next generation of AI PCs"
-    excerpt: "The company said the Intel Core combines both types of chip, splitting processing tasks across the CPU, GPU and a new neural processing unit to support much faster and more powerful AI workloads. Intel says the Arc GPU delivers twice the graphics ..."
-    publishedDateTime: 2024-02-27T17:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/27/intels-new-intel-vpro-platform-power-next-generation-ai-pcs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/image_2024-02-27_091615705.png"
-        width: 842
-        height: 428
         isCached: true
   - title: "Intel plans on shipping 100 million CPUs for next-gen AI PCs by 2025"
     excerpt: "Intel plans on shipping over 100 million processors for AI PCs by 2025, where it's working with Microsoft to try and 'define' the value of an AI PC."

@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Ontario university to remove vending machines due to facial recognition technology concerns"
-    excerpt: "A southwestern Ontario university says it will be getting rid of more than two dozen vending machines after students raised concerns about facial recognition technology. The University of Waterloo says it began looking into the issue after seeing students ..."
-    publishedDateTime: 2024-02-27T16:19:00Z
-    webUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/"
-    ampWebUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 49
-    images:
-      - url: "https://globalnews.ca/wp-content/uploads/2024/02/20240227150220-65de4451cf8eb72713cd07a5jpeg.jpg?quality=85&#038;strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Complaints filed with privacy commissioner over facial recognition vending machines"
     excerpt: "Two complaints have been filed with the Office of the Information and Privacy Commissioner of Ontario over facial recognition software in smart vending machines on ..."
     publishedDateTime: 2024-02-29T23:28:00Z

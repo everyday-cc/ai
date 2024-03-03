@@ -103,20 +103,6 @@ related:
         width: 1250
         height: 750
         isCached: true
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
-    publishedDateTime: 2024-02-27T16:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Why Citi is rolling out generative AI to all its developers"
     excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
     publishedDateTime: 2024-02-28T01:40:00Z

@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "E.U. Watchdog to Examine Microsoft’s Mistral AI Investment"
-    excerpt: "M icrosoft Corp.’s Mistral AI investment is set to be analyzed by the European Union’s competition watchdog at the same time that its deep ties to OpenAI Inc come under regulatory scrutiny."
-    publishedDateTime: 2024-02-27T15:34:00Z
-    webUrl: "https://time.com/6835554/eu-microsoft-mistral-investment/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1850859244.jpg?quality=85"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Microsoft partners with OpenAI-rival Mistral for AI models, drawing EU scrutiny"
     excerpt: "On Monday, Microsoft announced plans to offer AI models from Mistral through its Azure cloud computing platform, which came in conjunction with a 15 million euro non-equity investment in the French firm, which is often seen as a European rival to OpenAI. Since then, the investment deal has faced scrutiny from EU regulators."
     publishedDateTime: 2024-02-28T20:48:00Z
@@ -377,6 +363,6 @@ related:
       domain: menafn.com
     quality: 34
 
-secured: "b7Xqnhf0f2V9qgP6QwDUHGldgjBtiwchDduu3r6SuukjlX+SKjISkAYW5HlqMLMVpItkawseHJH/QUO8Vr9kUgO0kucZGbNJuRrJnrr0n7BkPxq0cWZ5nshbSN0mP2UzAkEQ0UqXPWAWoKbSdAx+a1SY5G3W84rxvBOe/QcuAfHBhQiEbLGopvTzeUIkPYztRwV2f5jxAbnZbtbCD62dS8SnP1ds52+QKadjD3zXZhSzXRea90lalxYz5cI8kbTahIxKJ4+oUQ6KRVcnwrUz9RhMDTu6B5vmYfpqUwQs6cWQDq7kv5mB8LZD4u/s9xHfHQk2yzUTGSZPpHx/DoY7W8q66OazJpPl4mqBGzmXFj4=;wuM7ag2vunC1qaqRY+V9PA=="
+secured: "WwomDVsatmEjOLXgvnO8QMvk05NbFQCynG/wWyocQnlDfDlXtjmX80rJAu9iq0UK40Qoxef4HSVAinhbVit4pO6FDigNKqupEQTnxavSROM8vxUxi9PPKmpZ0dP9BMaJ9qlwKlSvhUg3EIYiw1BA8VN/8ckD3WwHVXisoZeY7da9hm69/NcHa+lzvdeVv9TGuC/cmLZeb+U3cVYiiRw6MxfiS8ICTcie0P6m0C0JdrtTKU6QeSE5VXcBoMCOz0395UA4dW4ICyt+UMrhsi+7EtqJWZYphg0Ofh66rnXDZtcOjObcLwzH0XxCvTXIJGEwz26i+teHr3/GWdCWjeNd5k4jucI6VKmcM1ityfTtb0RK21DSkmaYIxiHiCSHfQ95YNBXw1aEtRYhsfNO2sva0D6W2/nrO5Sw2hH7I9DLZpgmbSLHjqdGpVnsMEnFuugzWiYUAeffq/OXquYw4eyaepyodtBeHFm3SaDuDh1xhcxNjTQU6rrFwVHRKeoXKFoBVMXPjsBk+4rAfFJjgllueQ==;nnlGp1BJzZqZiMdqSySzxw=="
 ---
 

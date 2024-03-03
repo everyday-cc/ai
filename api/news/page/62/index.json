@@ -2,6 +2,91 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2024-01-17-using-natural-language-processing-to-detect-mental-health-crises.md",
+      "title": "Using natural language processing to detect mental health crises",
+      "excerpt": "The authors published their work in npj Digital Medicine. Using natural language processing, the team developed a machine learning (ML) system called Crisis Message Detector 1 (CMD-1) that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/using-nlp-to-detect-me.jpg",
+          "width": 950,
+          "height": 1311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-the-advantages-of-holistic-facilities-management.md",
+      "title": "The advantages of holistic facilities management",
+      "excerpt": "Successfully managing your facilities can directly impact employee productivity and customer satisfaction.\nThe post The advantages of holistic facilities management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-advantages-of-holistic-facilities-management/",
+      "originalUrl": "https://www.ibm.com/blog/the-advantages-of-holistic-facilities-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T22:36:47Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.md",
       "title": "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case",
       "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology",
@@ -980,93 +1065,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-1-artificial-intelligence-ai-stock-that-has-created-millionaires-and-will-continue-to-make-more.md",
-      "title": "1 Artificial Intelligence (AI) Stock That Has Created Millionaires and Will Continue to Make More",
-      "excerpt": "Amazon uses AI throughout its e-commerce business to identify trends, manage inventory, and for product recommendations. The company has an extensive distribution network, with eight regional warehouses and multiple lines and delivery methods. It uses AI to determine the fastest and cheapest way to get out orders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23361613/1-artificial-intelligence-ai-stock-that-has-created-millionaires-and-will-continue-to-make-more/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23361613/1-artificial-intelligence-ai-stock-that-has-created-millionaires-and-will-continue-to-make-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-says-he-wants-more-control-over-tesla-far-from-ideal-says-analyst.md",
-      "title": "Elon Musk says he wants more control over Tesla. ‘Far from ideal,’ says analyst.",
-      "excerpt": "Elon Musk said he doesn’t want to grow Tesla’s TSLA, +0.47% artificial intelligence and robotics capability without having control of a quarter of the company. Musk already owns 13% of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "originalUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-66475805/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "publishedDateTime": "2024-01-16T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

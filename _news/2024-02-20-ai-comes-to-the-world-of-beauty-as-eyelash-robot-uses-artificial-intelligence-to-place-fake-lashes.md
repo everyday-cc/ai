@@ -1,10 +1,12 @@
 ---
 category: news
 title: "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes"
-excerpt: "Artificial intelligence is making its way into esthetics ... told Fox News Digital in an interview that the company is using robotics and AI to \"completely transform the experience of eyelash ..."
+excerpt: "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ..."
 publishedDateTime: 2024-02-20T10:54:00Z
-originalUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
-webUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
+originalUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
+webUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes"
+ampWebUrl: "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp"
 type: article
 
 provider:
@@ -16,9 +18,16 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Robotics
 
-secured: "ZLs2dHj+TajI7eCVC3t3M/1MVy21zEITo66umPtbZOquVr6LsRHokwA80j+Ue7kD/ldxvSM8/4KHCLV2bQZUvX9EVHIsYhlGzmtwT/8aW1gwTM0WUx+dnzhZhOwgYQ6JOnvvOgtzwIE/xC5U2n5hrAvN1JRxTDlPTd8q1d+LvIGenFkljAJ34fG/C94oNc7UCaF4T60jbE3HczGaVowqkP3k9xIEHzOmheaSfLuWZlcnlHan01RH+/V2qatFGoyjTFPhILTgo/MhZaypkVXEGiwi3oFGkvyudB+8koqRD6bRjnEG2mZux8XXJQEF6CNBgO2SD8liIO5i4bRpqFByGQkNd8ayAXpt6af/ctRSddQ=;EV2+3Ynx9N7hfjihF01eVw=="
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+secured: "dKHPYp3J46s8bfE7+r1874zF1j5v0oRFIwPbK0E2Ka5ddScTK9pnhlPhD87kdltT4KIoo2tBm5DGYaXObQ9kADwzUcrlUnWo6aytrAM0ZGifs9BoikE8DWVymh/KYeIHlb2XjxupPHHzi3+5Pb8os64LfGuOJZZyzTFmRpIxPzgBT5oCEr4PyV7xJ6/rhGr80FsZi1/M9qa6U2SeGYQ2XxzGLrMtvG9DTcz6nWwZ/Pq7HONhyJ+gEtL8jvLVeNF+a3kDmTyGZwQrBU0MVYDGQhMD2nNLKkNrY60qmnzewTON0+trYxq0LRA1aRoeOymUS5hXACx8HRHDZvSrCpIhtL/lFdsXmbp72gVrjAh7mH4=;oAnvKlaBQ/pogZ4BfOaRoA=="
 ---
 

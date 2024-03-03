@@ -40,20 +40,6 @@ related:
         width: 1478
         height: 900
         isCached: true
-  - title: "Humanizing Technology: The Role of AI and Robotics in User Experience Enhancements"
-    excerpt: "In the digital era, the convergence of artificial intelligence (AI) and robotics has transcended mere automation; it has ushered in a paradigm where technology aims not just to serve but to enhance the overall human experience."
-    publishedDateTime: 2024-02-27T14:24:00Z
-    webUrl: "https://techbullion.com/humanizing-technology-the-role-of-ai-and-robotics-in-user-experience-enhancements/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 63
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-27-at-7.23.43-AM-975x600.jpeg"
-        width: 975
-        height: 600
-        isCached: true
   - title: "Start-up Street: Can India be at the forefront of AI technology?"
     excerpt: "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field"
     publishedDateTime: 2024-02-29T04:02:00Z

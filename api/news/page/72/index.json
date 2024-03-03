@@ -2,6 +2,101 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
+      "title": "How AI emerges as revolutionary force?",
+      "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "originalUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.samaa.tv/images/ai-file.jpg",
+          "width": 850,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T18:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Samaa",
+        "domain": "samaa.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-fintech-kaspikz-is-set-to-be-first-kazakh-company-to-list-in-the-us.md",
+      "title": "Fintech Kaspi.kz is set to be first Kazakh company to list in the U.S.",
+      "excerpt": "Fintech Kaspi.kz is poised to become the first ... hits record intraday low and another record-low close The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia PayPal’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "originalUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-77047086/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "publishedDateTime": "2024-01-05T17:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
       "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
       "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
@@ -980,83 +1075,6 @@
       "provider": {
         "name": "RTE Online",
         "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024.md",
-      "title": "Shift Robotics to Unveil Moonwalkers X at CES 2024",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / January 3, 2024 / Significantly lighter, quicker, and smarter than the original Moonwalkers model introduced in the spring of 2023, Moonwalkers X have six wheels instead o",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-lexisnexis-av-going-mainstream-still-on-distant-horizon.md",
-      "title": "LexisNexis: AV going mainstream still on ‘distant horizon’",
-      "excerpt": "UK Transport Minister Mark Harper has said self-driving cars could be on some British roadways by 2026, but a recent report from LexisNexis lays out why mainstream adoption of autonomous vehicles",
-      "sourceUrl": null,
-      "webUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
-      "originalUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2023/12/iStock-1322056314.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Repairer Driven News",
-        "domain": "repairerdrivennews.com",
         "images": null,
         "publishers": null,
         "authors": null

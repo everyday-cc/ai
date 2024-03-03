@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
+      "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
+      "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107241946-1684255273555-sei.jpg?v=1694098121",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "publishedDateTime": "2024-02-28T21:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
       "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
       "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
@@ -105,7 +156,7 @@
       "originalUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 215,
       "tags": null,
       "images": null,
       "content": "",
@@ -200,7 +251,7 @@
       "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -576,7 +627,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_VO1RavpYLA9NyC8VPMRLxLSCmRcwZxtQD8bLNxkYV6PHFEWLFX4hxgbXflccaEtQ-UpZC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -680,7 +731,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -886,7 +937,7 @@
       "originalUrl": "https://www.bbc.com/news/business-68420817",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -934,22 +985,13 @@
       "title": "Amazon to spend $1 billion on startups that combine AI with robots",
       "excerpt": "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ...",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
-      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
+      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
+      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -1034,7 +1076,7 @@
       "originalUrl": "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1162,49 +1204,6 @@
         "AI",
         "AWS AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use.md",
-      "title": "Apple investors reject call for ethics transparency on company’s AI use",
-      "excerpt": "Discovery Inc. Apple Inc. shareholders rejected a labor-backed request for an artificial intelligence transparency report, which would have delved into whether the company is using the technology ethically. The proposal, submitted by AFL-CIO Equity Index ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
-      "originalUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

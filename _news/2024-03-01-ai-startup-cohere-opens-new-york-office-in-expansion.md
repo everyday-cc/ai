@@ -1,22 +1,18 @@
 ---
 category: news
-title: "AI Startup Cohere Opens New York Office in Expansion"
-excerpt: "The startup, which develops foundation models that compete with ... Cohere said the new office will help it tap into the talent pool in New York, and support its work with enterprise AI adoptions with customers like McKinsey. \"New York is a critical ..."
-publishedDateTime: 2024-03-01T08:07:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
-webUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
+title: "AI startup Cohere opens New York office in expansion"
+excerpt: "The startup, which develops foundation models that compete with OpenAI and focuses on serving enterprise customers, will house about 30 employees in its office in the Meatpacking District, home to major tech companies such as Google."
+publishedDateTime: 2024-03-01T15:07:00Z
+originalUrl: "https://www.aol.com/news/ai-startup-cohere-opens-york-130736511.html"
+webUrl: "https://www.aol.com/news/ai-startup-cohere-opens-york-130736511.html"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
@@ -37,6 +33,6 @@ related:
         height: 550
         isCached: true
 
-secured: "ifwFaPQ0nGrEbUtsJBpG+r2MaGimW6bl90FKzj+HsT3KN2Rv9owHnoD5p4jrD4MGqQonTR4OLPtnxxZcSOILzUbastIo//jTJuB+jHgBlsOoDxehjZLfk6Fb1+eOCmCsz8Lv0W+oMvvEGSfQfAD/YJX5x4ZpfX4b2j9W42nR8ZfmsP4StI+GvHN2p4Oh9FJYK2QNfPR/gGm3CLaShY1fqiuDFcTCo/C49urMxxF/emCNRx204wp3sBPQ79IP7tw3wAajD9ByKLcfsxBdaa9x2WyaDaU2l+Gj50wKNS5ClbQY3QC9VF/yLvlPc8Thzgzwir3KQPTZoZNE4ENwDLXUmLlL+VQuRoF75fTqAGxrDJjUaZQVVHAO4Ox+uL4jIAzgDwc5nnulNJWhRDPYSgVRaePCdDAtr6HZzjExlHadaIdZEtkYz9Ktcwqoum1Jd+ZAskVAFc2/CnY8Imq1bEDzmHffIg+fF5LkpvjO4yJkX4L3TsxqCz/CMcNQU/qcwOVlXvzLATUR0BGKlBPQf5Yj3g==;yI5EzQkoq7fHWZbpaihn+w=="
+secured: "Fgo/ATwFdQEWEWz+Y4PYdWGhM9wBjxhQEM0zpzJb0kTbwJ+KzmuuB0oMjnqtRzGVmZVV7xp+it38Uo++vRwpznloLgPQLCFCa5D683kemsv+wvJGAstvLjKgEl+BgKxcFDmqCSLsI/ejXnQu91YtsriRdnObKJN1MylbkjJHSwM32aOnJ3q88oPqBzKSI8Do2dY2E/YADsb+DZeZek9Nzg4fEAo6DtWeKTgqyDrsMCUyjKEpjrX4TeVVaq2nAoJFkIi22Il+vKSIyBnLh0I6kLJtqmC8wdJPKP/mChjKUeN1u1ey+SVyeQ096GE95NK7W+6R3QaSUpgruOuvlqEd8ONsOiDFu2GjQCyFmbdcmmwRzHM9345/v4RFWTvAHRn7GFpHHvQSodyx+pZ9sKRSnjxxAm2Um1tzLJI256J6iXKBZqxtyu7tZJOp3xwVnSlYVw3Bl2wEgFwTguwWuy8rfTN52rwrv3UhMTBwQiQoJGWGvn8Rz1ZZ499w/IuEo5eViV7rDWN3CtCqXPfpcAkBpA==;JZSGJdKTapqGB9YPE0wwGw=="
 ---
 

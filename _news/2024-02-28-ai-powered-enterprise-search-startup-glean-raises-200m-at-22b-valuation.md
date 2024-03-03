@@ -32,15 +32,6 @@ related:
         width: 6026
         height: 4017
         isCached: true
-  - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
-    excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
-    publishedDateTime: 2024-02-27T14:42:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree/108049287"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 14
 
 secured: "cccMm1w0TRICQiXWuag3Uh5AlzxzyotZxW4zm2JyutkMQ+YVcahdIuftFttfEVxTL0AN1UzJ5A4alfQHQ4bUkEIOgLLHFTX687hV998r8oj/NitdKsEYqBHiqUUTcyT5Tpwdv8/uKQmju8UXVCitwKe0vZVMWByMlao3Y4gTZh5K3loQM02e+29QqM1BbvD2KnWv47nHc3t9calGWwbA+A1OC63uJL5JZE4cZzkSIBwMlTOGyqs4ogwGqzzesCoo+TcypReDDZ4bRAkXIEY0ld2Qew8bLyD0M7EtjXm65FMzuKbNbAkwxMwwN9ixAc7g9BwgSmuZkOguv6diPfugHnbWacZ1oPlzzEVni0k7i24AeAJ9DJhKwFeur312AvqVupclfKOvraPa+cjn9Ba2fe2eJqzwUMvUqSDnALryyXv6iWVlankTF8q+DOUcPpEs7ey8IOMpjY7EBCgtFrP1RqjZfjp2+3r0CFIIiVQqMhuq7GDz52Nc8sWi2OsIGQzM/VYoE/XCUXPcssZ4aXM7hA==;ZKSr3HRJhsLy6HawbyIC2g=="
 ---

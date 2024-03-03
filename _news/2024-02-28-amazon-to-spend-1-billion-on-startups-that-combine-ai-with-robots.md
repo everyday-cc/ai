@@ -3,11 +3,11 @@ category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
 excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
 publishedDateTime: 2024-02-28T06:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
 type: article
-quality: 84
-heat: 104
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -22,12 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
-    width: 760
-    height: 380
-    isCached: true
-
 related:
   - title: "Startup Ideogram Raises $80 Million for AI Image Generation"
     excerpt: "Ideogram, a company developing artificial intelligence image generation technology, is raising $80 million from investors — a large round for a startup that’s less than two years old. The Toronto-based startup is set to announce its Series A funding ..."
@@ -38,21 +32,7 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
-    excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
-    publishedDateTime: 2024-03-01T21:40:00Z
-    webUrl: "https://www.inc.com/sam-blum/elon-musk-wants-billions-to-fund-his-secretive-ai-startup-xai.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/elon-musk-inc-1948569318_538043_ndfgft.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
-secured: "7c0SV5CmxEPmgB3KZofeIdWTNd8ng2NsJNa4ed0OKNRs6EdRmHCXsgPx1pP/0TWySk6eGdfQ76WnifTUDiVn+PN+OaWnyLclAjGNBZSMGub26mRoxWEs6EIPLqspsw5SIWQk0WfOjMD9FLSPbG8uT6/+IEkWrIvflUAT8LHxshUYxCw75IPf4SG+TSLxsHsw0cuz6S2/7tc1X1wunIvw7z7RHB/os07Cq2xm7HDeX4JKAPmW6HaPMtik7nx5dfvld2vClgMfSeHcoF0c7OgpaIA9qLYgI1dL5hG1RWxRhJ+M8fBg81xN/3dKcxWrWZm44OZ6PzVPT9c3xC11vvrwBeZLd99nvS0k0oJHoDnrOQsqA1sa2bmF9MjdCwOIHBabtmzdbqXdmy0AoW5gcSPA7Y0tI+u5VYLH3C+VfB07B4v3KNHzmy3m9GPGTd9+ksAlfvMBQ9yYWMdKZfhOBYX1P1WnYiPYfo5i2aYuPkbRW+oMa6JbiAYphwhYUBgdR5GzGr0cW6aSTOFF+Qk8Lh4qZg==;idGaBC9F5HTJ6jZNUHRmjQ=="
+secured: "8R2oq1eUaO6l6y6RAqx82PWihTNbeoVTUmvVNsjDS12YTQo5+GybUA2k6f9QTw4aR/y5AgJwHYycL+b/AlWh5yRNUIWONAClV3b2jKmpJYWaiIWD4hvvVOT4dhKvTnU8DjC7K3E/t0BLr3XqMP6n+0PKLJtU4Kl7c6xw5iAMEy3r65fOhlh099ww5vbXFQsM7T1CReqPuUJJ/r9ApARNJ8+7Avyqf0xyEccsFNV+Z6CPuxeVfgpdDwSQszBTSj0oChwDbxAKwWPwXmHJCHUgpIGINi7QlVqlZcgV1i2m5pFCV3l1iU4LvQGOCzMtyBuUAjkSAmUOwW1U/16HZcMYDDQgejjcGBpwMNDxl5mRO0gJAzAtvlgaFIlynYvFpCu2y6WB3zLQdu4qgS/R+Mnj47twZKi4fJ7IKTbwpiX97WrYjxD1mw8VnKL+mOgdGmUsw3rFB/FkRRu3pQBLTSkU+OI8Rb70YIBwggKolYiSebfn2JhSvIGTzPYpI7EIEx75zwXpNpnr5PL23Oqru2s0Zw==;96NwJjPndGW1e1FoOZpTuQ=="
 ---
 

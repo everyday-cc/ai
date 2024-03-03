@@ -2,6 +2,83 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2024-01-03-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024.md",
+      "title": "Shift Robotics to Unveil Moonwalkers X at CES 2024",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / January 3, 2024 / Significantly lighter, quicker, and smarter than the original Moonwalkers model introduced in the spring of 2023, Moonwalkers X have six wheels instead o",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T14:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-03-lexisnexis-av-going-mainstream-still-on-distant-horizon.md",
+      "title": "LexisNexis: AV going mainstream still on ‘distant horizon’",
+      "excerpt": "UK Transport Minister Mark Harper has said self-driving cars could be on some British roadways by 2026, but a recent report from LexisNexis lays out why mainstream adoption of autonomous vehicles",
+      "sourceUrl": null,
+      "webUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
+      "originalUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2023/12/iStock-1322056314.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Repairer Driven News",
+        "domain": "repairerdrivennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-03-the-7-best-artificial-intelligence-ai-stocks-to-buy-for-2024-and-beyond.md",
       "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy for 2024 and Beyond",
       "excerpt": "Top artificial intelligence (AI) stocks have delivered ... Alphabet has many avenues to win in AI. Through its Waymo subsidiary, Alphabet is also a leader in autonomous vehicle technologies ...",
@@ -1038,100 +1115,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-2023-the-year-in-robotics.md",
-      "title": "2023 - the year in Robotics",
-      "excerpt": "Conquering physical movement is one of AI's biggest challenges/opportunities. Talk about generative AI all you want, but plant managers everywhere might prefer to talk robots. Finding the right mix between effective robotics and ever-scarce human labor is a shop-floor obsession.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/2023-year-robotics",
-      "originalUrl": "https://diginomica.com/2023-year-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-27%20at%2010.27.44.png",
-          "width": 1840,
-          "height": 1054,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/2023-year-robotics?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-robotics?amp",
-      "publishedDateTime": "2023-12-29T12:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-why-embracing-ai-is-the-next-evolution-of-devops.md",
-      "title": "Why Embracing AI Is The Next Evolution Of DevOps",
-      "excerpt": "When it comes to software development, there is far more to be gained by embracing AI than fearing what might be lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/29/why-embracing-ai-is-the-next-evolution-of-devops/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/29/why-embracing-ai-is-the-next-evolution-of-devops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65131d3bcb7a1fc00ce69c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 861,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/29/why-embracing-ai-is-the-next-evolution-of-devops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/29/why-embracing-ai-is-the-next-evolution-of-devops/amp/",
-      "publishedDateTime": "2023-12-29T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

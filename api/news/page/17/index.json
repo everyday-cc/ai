@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-02-20-softbanks-son-reportedly-seeks-100b-for-ai-chip-venture.md",
+      "title": "Softbank’s Son reportedly seeks $100B for AI chip venture",
+      "excerpt": "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "originalUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "publishedDateTime": "2024-02-19T16:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep.md",
+      "title": "Should You Stay Awake In A Self-Driving Car Or Can You Sleep?",
+      "excerpt": "Drivers have been dreaming of self-driving cars for decades. A way for them to get to their destinations without having to spend time and energy focused on the road (or other drivers). Maybe even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
+      "originalUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep/l-intro-1707915398.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
       "title": "How real estate listings and potentially jobs are shifting to AI",
       "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
@@ -479,49 +574,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-19-aws-launches-program-to-boost-ai-and-tech-competency-for-small-and-medium-businesses.md",
-      "title": "AWS launches program to boost AI and tech competency for small and medium businesses",
-      "excerpt": "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html",
-      "originalUrl": "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/PpNJP4_cOBlYG1x1noZw7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ed616f10d94cec74df632a21ff34cf1d",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
       "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
       "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
@@ -720,6 +772,40 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-aws-launches-program-to-boost-ai-and-tech-competency-for-small-and-medium-businesses.md",
+      "title": "AWS launches program to boost AI and tech competency for small and medium businesses",
+      "excerpt": "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/aws-launches-program-boost-ai-151834099.html",
+      "originalUrl": "https://www.aol.com/aws-launches-program-boost-ai-151834099.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T07:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1110,109 +1196,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-ethiopias-250-million-tech-expansion-in-bitcoin-and-ai.md",
-      "title": "Ethiopia's $250 Million Tech Expansion In Bitcoin And AI",
-      "excerpt": "Aiming to become a global digital economy leader, Ethiopia is leveraging its renewable energy sources to power the advancement of bitcoin mining and AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d2341d5d5e9962346adb36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
-      "publishedDateTime": "2024-02-18T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week.md",
-      "title": "PayPal Ventures’ first AI investment, a credit-based dating app and Robinhood’s good week",
-      "excerpt": "FlowFi, a startup creating a marketplace of finance experts for entrepreneurs ... Rasa, an enterprise-focused conversational generative AI platform with financial services companies as clients, raised $30 million in a Series C round co-led by StepStone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/",
-      "originalUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2014/04/shutterstock_161008784-e1409098226238.jpg?resize=1200,582",
-          "width": 1200,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/amp/",
-      "publishedDateTime": "2024-02-18T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

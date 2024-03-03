@@ -2,6 +2,101 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2024-01-19-is-truth-a-casualty-of-artificial-intelligence.md",
+      "title": "Is Truth a Casualty of Artificial Intelligence?",
+      "excerpt": "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/ai-generated-7816775_1280.jpg?itok=sIRyxhCS",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
+      "publishedDateTime": "2024-01-18T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-imf-ai-will-impact-60-of-jobs-and-worsen-inequality.md",
+      "title": "IMF: AI will impact 60% of jobs and worsen inequality",
+      "excerpt": "Just as with past technology advancements, AI will also lead to income and economic disparity, job displacement and inequality, IMF says.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
+      "originalUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_golden_age_sci-fi_book_art_profile_view_a_robot_leans_o_a5aa4b6f-7f83-4a44-b093-cc325ee94fcf.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-as-expected.md",
       "title": "New MIT CSAIL study suggests that AI won’t steal as many jobs as expected",
       "excerpt": "There’s been many attempts to extrapolate out and project how the AI technologies of today, like large language models, might impact people’s’ livelihoods — and whole economies — in the future.",
@@ -1086,93 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-7-must-have-home-robots-in-2024.md",
-      "title": "7 Must-Have Home Robots in 2024",
-      "excerpt": "Samsung has once again announced Ballie, an AI robot that will follow you around, acting as a home assistant. It can connect to all the IoT devices at home and even guard and feed your pets. The robot can answer questions, text you, and do everything that Alexa can.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/7-must-have-home-robots-in-2024/",
-      "originalUrl": "https://analyticsindiamag.com/7-must-have-home-robots-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/k-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-gpu-security-flaw-exposes-ai-data-of-millions-of-iphones-macbooks.md",
-      "title": "GPU security flaw exposes AI data of millions of iPhones, MacBooks",
-      "excerpt": "Nvidia, Arm, and Intel u are not affected. A report of a GPU security flaw appeared online, reported by Trail of Bits. According to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/gpu_security_flaw_exposes_ai_data_of_millions_of_iphones_macbooks-news-61266.php",
-      "originalUrl": "https://www.gsmarena.com/gpu_security_flaw_exposes_ai_data_of_millions_of_iphones_macbooks-news-61266.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/23/09/iphone-12-sar-lowering-update-france-approved/-1220x526/gsmarena_004.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/gpu_security_flaw_exposes_ai_data_of_millions_of_iphones_macbooks-amp-61266.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/gpu_security_flaw_exposes_ai_data_of_millions_of_iphones_macbooks-amp-61266.php",
-      "publishedDateTime": "2024-01-18T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

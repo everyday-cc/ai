@@ -2,6 +2,110 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-11-29-how-ai-could-transform-wall-street-and-personal-finance.md",
+      "title": "How AI Could Transform Wall Street And Personal Finance",
+      "excerpt": "From lightning-fast settlements to fortified cybersecurity, artificial intelligence is the tidal wave reshaping finance on Wall Street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/",
+      "originalUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65661a178acaebd59a6e3c8e/0x0.jpg?format=jpg&crop=3789,2131,x0,y4,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaimecatmull/2023/11/29/how-ai-could-transform-wall-street-and-personal-finance/amp/",
+      "publishedDateTime": "2023-11-29T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-ai-model-predicts-breast-cancer-risk-without-racial-bias.md",
+      "title": "AI Model Predicts Breast Cancer Risk Without Racial Bias",
+      "excerpt": "The predictive rate of both DCIS and invasive cancer was 0.71 across all races. The AUC in predicting DCIS was 0.77 in non-white patients and 0.71 in white patients. The AUC in predicting invasive cancer was 0.72 in non-white patients and 0.71 in white patients.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-model-predicts-breast-cancer-risk-without-racial-bias-1032857687",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-model-predicts-breast-cancer-risk-without-racial-bias-1032857687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2285186/New_RSNA_Signature_Logo.jpg",
+          "width": 400,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T10:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
       "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
       "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
@@ -1039,93 +1143,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-google-ai-and-robots-join-forces-to-build-new-materials.md",
-      "title": "Google AI and robots join forces to build new materials",
-      "excerpt": "Google DeepMind tool predicts nearly 400,000 stable substances, and an autonomous system learns to make them in the lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-023-03745-5",
-      "originalUrl": "https://www.nature.com/articles/d41586-023-03745-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-023-03745-5/d41586-023-03745-5_26368200.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-is-machine-learning-the-ultimate-weapon-against-financial-fraud.md",
-      "title": "Is Machine Learning the Ultimate Weapon Against Financial Fraud?",
-      "excerpt": "To address these threats, financial institutions are turning to machine learning (ML) as a powerful tool for proactive fraud prevention. Let’s explore how ML is effectively combating fraud and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/25284/is-machine-learning-the-ultimate-weapon-against-financial-fraud",
-      "originalUrl": "https://www.finextra.com/blogposting/25284/is-machine-learning-the-ultimate-weapon-against-financial-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://softjourn.com/media/expertise/ML-in-finance/LM_illustration_1.png",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

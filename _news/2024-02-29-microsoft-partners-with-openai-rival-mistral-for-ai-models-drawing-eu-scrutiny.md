@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "E.U. Watchdog to Examine Microsoft’s Mistral AI Investment"
-    excerpt: "M icrosoft Corp.’s Mistral AI investment is set to be analyzed by the European Union’s competition watchdog at the same time that its deep ties to OpenAI Inc come under regulatory scrutiny."
-    publishedDateTime: 2024-02-27T15:34:00Z
-    webUrl: "https://time.com/6835554/eu-microsoft-mistral-investment/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1850859244.jpg?quality=85"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Microsoft and Mistral partner on AI"
     excerpt: "in the Azure AI Studio and Azure Machine Learning model catalogue. Azure’s AI-optimised infrastructure and capabilities will offer Mistral AI additional opportunities to promote, sell and distribute its models to Microsoft customers worldwide."
     publishedDateTime: 2024-02-28T00:00:00Z

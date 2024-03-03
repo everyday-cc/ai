@@ -2,6 +2,85 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-12-01-cyberlink-faceme-security-integrates-with-genetec-security-center-to-enhance-investigations-and-secure-access-control-with-ai-facial-recognition.md",
+      "title": "CyberLink FaceMe® Security Integrates with Genetec Security Center to Enhance Investigations and Secure Access Control with AI Facial Recognition",
+      "excerpt": "FaceMe® Security’s AI facial recognition allows Genetec Security Center users to painlessly upgrade smart security and access control infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231130455398/en/CyberLink-FaceMe®-Security-Integrates-with-Genetec-Security-Center-to-Enhance-Investigations-and-Secure-Access-Control-with-AI-Facial-Recognition",
+      "originalUrl": "https://www.businesswire.com/news/home/20231130455398/en/CyberLink-FaceMe®-Security-Integrates-with-Genetec-Security-Center-to-Enhance-Investigations-and-Secure-Access-Control-with-AI-Facial-Recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-helios-integrates-machine-learning-into-its-investment-models.md",
+      "title": "Helios Integrates Machine Learning Into Its Investment Models",
+      "excerpt": "While the technology will be used to identify patterns in large data sets, it will not be used to automatically initiate any trading on its own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthmanagement.com/technology/helios-integrates-machine-learning-its-investment-models",
+      "originalUrl": "https://www.wealthmanagement.com/technology/helios-integrates-machine-learning-its-investment-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/helios-ceo-chris-shuba.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T21:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-aws-improves-sagemaker-studio-ai-development-tool-with-new-web-based-interface-code-editor.md",
       "title": "AWS improves SageMaker Studio AI-development tool with new web-based interface, code editor",
       "excerpt": "Amazon Web Services Inc. has released an improved version of its SageMaker Studio, a development interface that provides access to purpose-built artificial intelligence and machine learning development tools from preparing data, building training ...",
@@ -964,83 +1043,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-google-deepmind-ai-predicts-2-million-novel-chemical-materials-for-real-world-tech.md",
-      "title": "Google DeepMind AI predicts 2 million novel chemical materials for real-world tech",
-      "excerpt": "Google DeepMind’s AI predicts the structures of two million materials, with potential for batteries and chips.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
-      "originalUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-moscow-researchers-successfully-trial-first-domestic-neural-network-for-scientific-publication-analysis.md",
-      "title": "Moscow Researchers Successfully Trial First Domestic Neural Network for Scientific Publication Analysis",
-      "excerpt": "The first neural network designed for the analysis of scientific publications has undergone testing in Moscow. Researchers from the Center for Diagnostics and Telemedicine within the Moscow Department",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/moscow-researchers-successfully-trial-first-domestic-neural-network-for-scientific-publication-analysis/",
-      "originalUrl": "https://indiaeducationdiary.in/moscow-researchers-successfully-trial-first-domestic-neural-network-for-scientific-publication-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/11/Screenshot-2023-04-19-at-16.36.31.original-1024x555.png",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/moscow-researchers-successfully-trial-first-domestic-neural-network-for-scientific-publication-analysis/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/moscow-researchers-successfully-trial-first-domestic-neural-network-for-scientific-publication-analysis/",
-      "publishedDateTime": "2023-11-30T11:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://whdh.com/news/gov-healey-assembles-artificial-intelligence
 webUrl: "https://whdh.com/news/gov-healey-assembles-artificial-intelligence-strategic-task-force/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Gov. Healey targets life sciences, climate tech, artificial intelligence in eco dev bill"
-    excerpt: "A wide-ranging economic development bill Gov. Maura Healey plans to file this week will reauthorize a 10-year life sciences investment initiative, fund a similar program for the climate tech"
-    publishedDateTime: 2024-02-27T15:28:00Z
-    webUrl: "https://www.bostonherald.com/2024/02/27/gov-healey-targets-life-sciences-climate-tech-artificial-intelligence-in-eco-dev-bill/"
-    ampWebUrl: "https://www.bostonherald.com/2024/02/27/gov-healey-targets-life-sciences-climate-tech-artificial-intelligence-in-eco-dev-bill/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/27/gov-healey-targets-life-sciences-climate-tech-artificial-intelligence-in-eco-dev-bill/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 50
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/aleynl05_10b559.jpg?w=1024&h=703"
-        width: 1024
-        height: 702
-        isCached: true
 
 secured: "e0oMOgHr4pVo7YtkMo7wqC4JNWHQ+D+8NxGHqBwBL6MxBhMNk0Q32GS1g9cGDG2OuJEDXVi02J1ZcxsV56p67TWMPaiTNxYcYbRvcyi10pvdGE2WpmgTaWyboJWvPjh0zLjnWk5VWYttBWmZgNXWWCr/CIc2DETwQAj+qiRftCcC3Kb8KmZOhKu/7r1cFJnovyL0KYjC1H2Q+n86T9RFKFzCbU1LhZslcGU0LbsObi81eeDxHymGs8uzNZKuvJwNJ9NMkUEM/cXRcynYnG58OQl/rrLQC6sVjzLoFNKPy0t0M5sf4rcDa/NArLjIGSl2uCm6RuLKrfVA/hB91HQ9b5dZ/rPdXD26zdRYEgLO5h8p36Diq28rnCgXvMC1oQonf5ykJLGLoP6bdU/fcjlcVG7X+3inT5nMZ9GpiO0nQFNecN7u90tMfCqAW61Bp3N5Zgv7Hvr4iiRS1gC1BsXMbBoWi6IKshriaxrhLcJ6XefXX8CJ6AJWcgrOURK0n4cmliSLEawMTCstJ4HMLJ10fw==;iBGiqkDvDGjMyeF+4XRYWg=="
 ---

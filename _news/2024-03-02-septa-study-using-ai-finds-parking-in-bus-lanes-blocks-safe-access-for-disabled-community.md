@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise AI Is Becoming A Business Necessity, But How Can Companies Pay For It?"
-    excerpt: "The Generative AI Guidance for Organizations from the Aspen Institute’s U.S. Cybersecurity Group provides a good place to start. Implementing GenAI requires resources and costs to optimize it for enterprise use. Although companies understand that it's ..."
-    publishedDateTime: 2024-02-27T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/27/enterprise-ai-is-becoming-a-business-necessity-but-how-can-companies-pay-for-it/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
   - title: "UW and Wyoming Community Navigator Program to Discuss Using Artificial Intelligence March 6"
     excerpt: "Small-business owners will have an opportunity to learn how to use artificial intelligence (AI) to boost social media strategy for their businesses Wednesday, March 6. Alex Gunter will present a Wyoming Community Navigator Program (CNP) webinar titled ..."
     publishedDateTime: 2024-02-28T00:00:00Z

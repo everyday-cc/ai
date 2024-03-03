@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Atomera Stock: Exposure To AI And The CEO Make It A Buy"
+    excerpt: "Atomera's technology has the potential to improve chip efficiency and performance in growing markets like 5G and IoT, which could lead to significant net sales growth. Atomera Incorporated (NASDAQ:ATOM) recently reported significant exposure to the AI ..."
+    publishedDateTime: 2024-03-03T14:12:00Z
+    webUrl: "https://seekingalpha.com/article/4675558-atomera-stock-exposure-to-ai-and-the-ceo-make-it-a-buy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "Tcz3W8I+heYJ7kUjt3Sa9Qs4oraS2ETJHQlWu3ww7FSGjpNkb7cvDwjnI3+mc+9RN4rhacg/SOL5m6a/45hsXh5ZGkag+wnb9duetyXNiPh7G8waLg8Ad1PZgJKTybjLZSUM/AEEhiqR7UPc09qLpw4n967ch4i15wyf4ZBAL6dSp/7M54rrIcMXh52u/U4RHwOOFXYTIxcAnZQz/SmftFysjhYuQSziLaA33UMjj30jhUCKJimS+NpRSYjopOHmJKWh1TeVG3a+oVkRtzPyQewfxGw8rK4pN2yvQt38m1YKSC9J1S2PfWybxhhlxIiPUYP6gV/5SoWSZeDHUIpP/eT3kqmM6GrOFqqMBpcyDVU=;VmxGboJB7oPnIfoM1ikpAQ=="
 ---

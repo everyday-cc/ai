@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-01T11:26:00Z
 originalUrl: "https://www.aol.com/finance/ai-stealing-trust-companies-win-162637599.html"
 webUrl: "https://www.aol.com/finance/ai-stealing-trust-companies-win-162637599.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/4smyYrIK6JexJRkon_ss9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/12178d1625dbefcdefc768c7134b99ba"

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-res
 webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
 type: article
 quality: 95
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
     excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
     publishedDateTime: 2024-03-01T13:45:00Z
     webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
+    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
+    publishedDateTime: 2024-03-03T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
     type: article
     provider:
       name: Forbes

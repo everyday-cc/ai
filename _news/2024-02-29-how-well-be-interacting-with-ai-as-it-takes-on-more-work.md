@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Genie AI creates interactive game worlds from images"
-    excerpt: "Google Genie the latest artificial intelligence (AI) from the team at Deepmind is capable of transforming images into interactive world's"
-    publishedDateTime: 2024-02-27T13:12:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-genie-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
   - title: "\"Outcomes will be better but we remain masters...\": AIIMS Director on Artificial Intelligence and its use in identifying therapies"
     excerpt: "\"Quality healthcare down the line and at an affordable prices, that is where technology and Artificial Intelligence and algorithms and telemedicine is going to play a role,\" he said. He asserted that in the future all the healthcare activities may not be ..."
     publishedDateTime: 2024-03-02T14:29:00Z

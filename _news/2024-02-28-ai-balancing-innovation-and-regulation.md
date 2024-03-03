@@ -84,6 +84,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
+    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
+    publishedDateTime: 2024-03-03T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Should Government Guide the Use of Generative AI?"
     excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
     publishedDateTime: 2024-03-01T17:52:00Z

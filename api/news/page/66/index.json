@@ -2,6 +2,92 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2024-01-12-the-eight-coolest-inventions-from-the-2024-consumer-electronics-show.md",
+      "title": "The Eight Coolest Inventions From the 2024 Consumer Electronics Show",
+      "excerpt": "This year was as sci-fi cool as always, with translucent televisions, wall-crawling robots, artificial-intelligence-powered vehicles and more. We’ve chosen eight of the neatest and most function ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smithsonianmag.com/innovation/the-eight-coolest-inventions-from-the-2024-consumer-electronics-show-180983577/",
+      "originalUrl": "https://www.smithsonianmag.com/innovation/the-eight-coolest-inventions-from-the-2024-consumer-electronics-show-180983577/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-thumbnailer.cdn-si-edu.com/1prE0AO3B5LBx5PBnvQcP7bHee8=/fit-in/1600x0/filters:focal(512x344:513x345)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fa0%2F1b%2Fa01b726e-d45a-4fdc-8211-b0b0aa0e6082%2Fgettyimages-1913770389.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smithsonian Magazine",
+        "domain": "smithsonianmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-top-10-best-python-libraries-for-deep-learning-in-2024.md",
+      "title": "Top 10 Best Python Libraries for Deep Learning in 2024",
+      "excerpt": "Python is one of the most popular programming languages in the world, and it’s used extensively in the field of deep learning. Python’s versatility and ease of use make it an ideal language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Python-Libraries-for-Deep-Learning.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-tusimples-self-driving-trucks-up-for-auction-following-us-exit.md",
       "title": "TuSimple’s self-driving trucks up for auction following US exit",
       "excerpt": "Ten of TuSimple’s autonomous big rigs are set to be auctioned off later this month, just a few weeks after the self-driving trucking startup that went public in 2021 announced it was exiting the ...",
@@ -945,92 +1031,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-the-future-of-artificial-intelligence-ai-in-2024-and-beyond.md",
-      "title": "The future of artificial intelligence (AI) in 2024 and beyond",
-      "excerpt": "Find out how artificial intelligence (AI) will shape the future in 2024 and why 'future literacy' and 'future agency' are crucial. We shed light on the technological trend, the social impact and the need for new skills in this hyper-digital era.",
-      "sourceUrl": null,
-      "webUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
-      "originalUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morethandigital.info/wp-content/uploads/2023/12/Die-Zukunft-von-Kuenstlicher-Intelligenz-KI-in-2024-und-darueber-hinaus.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T07:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "morethandigital",
-        "domain": "morethandigital.info",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems.md",
-      "title": "Casper Labs to Build a Blockchain-Powered Solution with IBM Consulting to Help Improve Transparency and Auditability for Generative AI Systems",
-      "excerpt": "Casper Labs’ solution is planned to be built on Casper, a tamper-resistant and highly serialized ledger, and leverage IBM watsonx.governance and watsonx.ai to monitor and measure highly ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

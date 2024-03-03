@@ -2,9 +2,9 @@
 category: news
 title: "AWS launches program to boost AI and tech competency for small and medium businesses"
 excerpt: "Amazon Web Services (AWS) recently launched a new program aimed at helping small- and medium-sized businesses build competencies in areas like artificial intelligence (AI), the cloud and other skillsets to be more competitive. \"Small businesses often don ..."
-publishedDateTime: 2024-02-19T10:18:00Z
-originalUrl: "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html"
-webUrl: "https://www.aol.com/finance/aws-launches-program-boost-ai-151834099.html"
+publishedDateTime: 2024-02-19T07:18:00Z
+originalUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
+webUrl: "https://www.aol.com/aws-launches-program-boost-ai-151834099.html"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/PpNJP4_cOBlYG1x1noZw7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ed616f10d94cec74df632a21ff34cf1d"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "GUJlQZD5CTNKT++BPw9UyDxgoXbH4cVXubHpadsrUarVI1pLPH23lkuLP1O//4ovZMsE26BAZHtDNTRxmOqxXrQgKeZXg0WytsUmWF3MpSDGa4NEFXZQEQbMsmxqddr4SahB1J4sso1ZTejFkATy5S3yhuujiq2+dbgyghmL3k97HdTPJXiKqxdoY6j5DReI/x6lZVbrnxrSkPMSqcJlY8Q28jk3mnrQP/ogo6Pu9jIGBknJukbAAESTaGomU1L2X3mM/vq2GWhHbxsbR6YGAiUww3tKNap/W8ZmeeafYURdENxwvcXSnLCe99J35zVklnLF6SqqjDYEmIjGz9k2oh9boHTqZ6NyhWGEb93nXxE=;f7m3PkErpm8RjRCXakODzQ=="
+secured: "5EJFn6a8FNr4Z48cMbzRW++zyA3o0WUnu7ysQRIFKXtvthTgJ+iD7wT9daqhTF+3MQhIWUiHz8LLuabNyKZs2qGxbos0VIpLq4jn1wyvwf2z6gLIp0XkwAlNx/yboczfIJCbNiVmZXKEiMJit5Bed5lW2jd7BojtvaqIGP6IOX3fY3WQp3RTKOJdQMQvRv0hpUh6tX97VtL7E1oG/2wE9LUavYN3VOYBYSYuhD+OM1WEsPUsOzA2qXgH8KLpdLF6/1eMP1mjeV27guZn/QwsXddkHdad+D+N7WSRSgZ8x7/J2jc2yYTLg74xaH31saPRFxiFdDCIaWA3w2PH9l8b0UDOS3P9Z2CvSiLbbkOjsrvvthSaSTaSE79qTfOtCF7lRquzLrRFwkaQXOgxiR7cqHRt/xYkW+IPUv4V0OPm80PS+Bktqpz+E3oSVx/gAHnF33l+v4/0J0Kre6Fzc0161BB3XO16S3VBCigz+ORZILUX2SpgkpFCTa7sO67LOglMgoIMcgOkWe2+xI2BDUiU2w==;B/AS8/y8UxLRFR/5orvIVw=="
 ---
 

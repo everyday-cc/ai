@@ -312,15 +312,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
-    excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
-    publishedDateTime: 2024-02-27T13:10:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-openai-microsoft-other-tech-titans-investing-in-humanoid-robot-startup"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 46
   - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Bezos and tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-02T00:00:00Z
@@ -395,6 +386,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "Rl6vc35O8Cuon9E9+QginyWnsmR5EkqkQ8yZDhwWsCK9Se7MlN+NQ+8Q2SGJheBMJyuoyP6DNTQwJabzJc9k7AbjbyEOLjp0wjinxIseXEzKYYI4DhQZYsikrV3u3T3kss4Y5w/N4zhncXenapXE5YHFjeJF78ZbBOfS+5gYkEK6qLHsD5FhMN6Km3ir0MYUKzfA3GxZDAcSHYAl9+KTPIoGf1QHAxoN4C2hgKIqHMcMBlOkhu4E2ju/iAtQQoQAWP2LS61nk7yymx5RDBq5e7sHz+TsTP7KSvHyp3KDZtVrJ/+GjtNa3uTWa1lNkt62sKXAbXusZBOcM2vBC50tm0y2FQQmVb0XMOp3/x9p3yk=;5ncbxPK7hyEiZrkJ/dFkhg=="
+secured: "r/tWlmTdu+yx+ET6bOUYudSMv460FMOZqwLgz4eXiy9K4i7od+l4cx5Hjr+PG/D84KICGt2opj/4B84v3/lZbSM1yGYuwHnq5eKnTctRGlvf2X5zIOaOueoXT+cjQuRetFPsKczPQQGcFW0s3Ks+dFNAlvXPcCs827q/N42fGMKbCA3rZVYO1UTDtJYQZsfHXUuC3ACPJ+SW3oE41MSA5eyW/h8cylrbItX4vdAadPKpn0nOtd1qySVq6fmacILAeW7lVygpcJ0JoUeG1/vr13o+lK0jPtrwqY9fxhliOdFCduAMXj//Y7v4dBxBoUkZlJXRtQVIkR+QeuilAE96r+m2Yme1p16TfLCa1Efb/Cs=;69Ofus6y6cs7LEPcZXIUqQ=="
 ---
 

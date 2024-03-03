@@ -295,6 +295,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-elon-musk-ai-will-run-out-of-electricity-and-transformers-in-2025.md",
+      "title": "Elon Musk: AI will run out of electricity and transformers in 2025",
+      "excerpt": "\"I've never seen any technology advance faster than this.\" The chip shortage may be behind us, but AI and EVs are expanding at such a rapacious rate that the world will face supply crunches in electricity and transformers next year, says Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/elon-musk-ai",
+      "originalUrl": "https://newatlas.com/technology/elon-musk-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/27ca86b/2147483647/strip/true/crop/1136x757+121+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F5e%2F2a832fc94918a562a5ccdef4b0a3%2F6.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-openai-categorically-disagrees-with-elon-musks-lawsuit-against-it-suggests-tesla-ceo-has-regrets.md",
       "title": "OpenAI ‘categorically disagrees’ with Elon Musk’s lawsuit against it, suggests Tesla CEO has ‘regrets’",
       "excerpt": "Mike Windle/Getty Images for Vanity Fair OpenAI “categorically disagrees” with the lawsuit Elon Musk filed against the company, according to an internal memo sent to employees of the artificial intelligence startup. Musk, a cofounder of OpenAI who is ...",
@@ -406,7 +458,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 347,
+      "heat": 337,
       "tags": null,
       "images": [
         {
@@ -459,7 +511,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -562,7 +614,7 @@
       "originalUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -605,7 +657,7 @@
       "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 416,
+      "heat": 406,
       "tags": null,
       "images": [
         {
@@ -1188,58 +1240,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation.md",
-      "title": "Supercharge your AI team with Amazon SageMaker Studio: A comprehensive view of Deutsche Bahn’s AI platform transformation",
-      "excerpt": "AI’s growing influence in large organizations brings crucial challenges in managing AI platforms. These include developing a scalable and operationally efficient platform that adheres to organizational compliance and security standards. Amazon SageMaker Studio offers a comprehensive set of capabilities",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/bahn-ai-transformation-1121x630.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T15:54:12Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

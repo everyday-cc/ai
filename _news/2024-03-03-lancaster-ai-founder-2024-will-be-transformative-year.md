@@ -27,7 +27,7 @@ related:
   - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
     excerpt: "Following the release of OpenAI’s Chat-GPT in November 2022, questions and concerns surrounding the use of artificial intelligence and how it will change our lives as we know it erupted from the general public. Is now the time robots will begin taking ..."
     publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://gazette.com/news/local/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
+    webUrl: "https://gazette.com/news/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
     type: article
     provider:
       name: The Gazette

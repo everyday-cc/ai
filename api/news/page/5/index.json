@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-28-apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use.md",
+      "title": "Apple investors reject call for ethics transparency on company’s AI use",
+      "excerpt": "Discovery Inc. Apple Inc. shareholders rejected a labor-backed request for an artificial intelligence transparency report, which would have delved into whether the company is using the technology ethically. The proposal, submitted by AFL-CIO Equity Index ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
+      "originalUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portland Press Herald",
+        "domain": "pressherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-toyota-llama-a-revision-a-381000-camionetas-tacoma-por-fallas.md",
       "title": "Toyota llama a revisión a 381.000 camionetas Tacoma por fallas",
       "excerpt": "En Estados Unidos, Toyota llamó a revisión a unas 381.000 camionetas Tacoma porque los pernos del eje trasero podrían aflojarse.",
@@ -217,7 +260,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -468,7 +511,7 @@
       "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -511,7 +554,7 @@
       "originalUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1207,58 +1250,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-alibaba-staffer-offers-a-glimpse-into-building-llms-in-china.md",
-      "title": "Alibaba staffer offers a glimpse into building LLMs in China",
-      "excerpt": "Binyuan Hui, a natural language processing researcher at Alibaba’s large language model team Qwen, shared his daily schedule on X, mirroring a post by OpenAI researcher Jason Wei that went viral recently. The parallel glimpse into their typical day ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
-      "originalUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
-      "publishedDateTime": "2024-02-27T10:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

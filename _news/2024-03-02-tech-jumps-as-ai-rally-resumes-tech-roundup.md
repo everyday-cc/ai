@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US Chipmakers Want More Subsidies As AI Shapes The Semiconductor Industry"
-    excerpt: "Leading chipmakers, including Nvidia Corp and Advanced Micro Devices, Inc (NASDAQ:AMD), have earned breakthroughs in AI technology chips courtesy of the U.S. and global Big Tech companies splurging on expanding their AI moat. Analysts tout the chip ..."
-    publishedDateTime: 2024-02-27T14:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/us-chipmakers-want-more-subsidies-as-ai-shapes-the-semiconductor-industry-1033109126"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
 
 secured: "gopzZBHY80l4LD1ruwqvoQ1JOd6njnrzPQfUpQJyfhc4ttEHBBmSaHbj9z7gm+lO0SATY2oTdzOqeZSZZnLUxTE7Hoe1IqBHTt/tvIcKOlaFLQIEqbXRA4yC1zTmh5icM5+D2A24Ax3waQSJDYNSlvFbB3wWV0m1j0VSE9l774sKCCXBA8bb2EKTFMYNoeBOoIy1Mshh2RdtGzkHULhwmpno6hz2Wsustg/jv+HexgNImq2I6wmNFpDUbvLPwjuRnywxUTLp1wjmM5CYcAz85HMI0CBHjSeCLHMnA687A3vbHoJLV1f+mv+S1N/1BQLrtD51pQl1SVdCfPHUc6reNNpXqFPV3VIr/flGN1F6l6M=;ksnEjBky58j96riJs4BLnw=="
 ---

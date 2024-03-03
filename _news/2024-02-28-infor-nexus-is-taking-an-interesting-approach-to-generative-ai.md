@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2024/02/Tim-Cook-Generative-AI-features.jpg"
         width: 1250
         height: 750
-        isCached: true
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "The company has introduced an array of applications driven by generative AI and deep learning, including enterprise services and smart living environments. These applications are directly aimed at fulfilling the specific requirements of businesses and consumers."
-    publishedDateTime: 2024-02-27T16:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9969068.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Harnessing artificial intelligence for infectious disease prevention"
     excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise AI Is Becoming A Business Necessity, But How Can Companies Pay For It?"
-    excerpt: "The Generative AI Guidance for Organizations from the Aspen Institute’s U.S. Cybersecurity Group provides a good place to start. Implementing GenAI requires resources and costs to optimize it for enterprise use. Although companies understand that it's ..."
-    publishedDateTime: 2024-02-27T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/27/enterprise-ai-is-becoming-a-business-necessity-but-how-can-companies-pay-for-it/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
 
 secured: "oK/6CY/dQu7FztxTL6K4MneMPU8g97NqL5RIjQgRESBiTXMX3Tv9J/CHbYz31fjX4cgIfhKmqNnJ0MVqjQv2wYU53CZtQwt5o6a2UabkJ/fIt9UnjFy3y+TzLZEX1N1s/CL5NjnIymCi27K6r08XSTixe1HOwBFDzDvj9t6lUclhGB7Pn+RAFEXhQQqOoGNBxxRNgSbS1/IVY5aVooRTYI0xli17VNJXU3jjFMSjjIFq6bJdWKaJy0pgLhEs/vaDU1/ypTccQVAWB1fJ5Z/nuwVXXwm0q0i0FjjrFE9CzT7zGZv3NGXwUXIKLHpgfnf+U8WHv1cvICGKBdMmWV78zSQa2DAmPraIGubKodWoAKM=;kqs1nWaH+IgCoRCCTAr9sg=="
 ---

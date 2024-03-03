@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-68420817.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp"
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple's failed 'Project Titan' was a Full Self Driving gamble"
+    excerpt: "Apple's recently-abandoned \"car project\" shifted gears several times over the past decade, but ultimately the challenge of FSD proved insurmountable — and continues to elude the industry as a whole."
+    publishedDateTime: 2024-03-03T15:39:00Z
+    webUrl: "https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble"
+    ampWebUrl: "https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/58812-119881-87-hero-xl.jpg"
+        width: 890
+        height: 496
+        isCached: true
   - title: "Apple Kills Its Electric Car Project"
     excerpt: "The car, which Apple spent billions of dollars researching, had been intended as a rival to Tesla’s E.V.s, which include autonomous driving features."
     publishedDateTime: 2024-02-27T20:47:00Z

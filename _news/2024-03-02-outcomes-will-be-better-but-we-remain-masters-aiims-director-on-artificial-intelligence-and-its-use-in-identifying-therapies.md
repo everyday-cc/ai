@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Genie AI creates interactive game worlds from images"
-    excerpt: "Google Genie the latest artificial intelligence (AI) from the team at Deepmind is capable of transforming images into interactive world's"
-    publishedDateTime: 2024-02-27T13:12:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-genie-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "33LShLnUN7QQsZE7JEtZfV4sBuPsP1VyyK2CqrcTJUoqG960/hsOIyBTYdt19MXD21pfoluPJbWJvYAqP0KtDhzfdx97sdhZrMj+roufAplvsNEbSzOgW3hR/SQVVFbrUyaQLP8G7/3S8ccYjIPfN27lBzveNZtBeIv+ZGku7brqaajYQdQKspQL3zD0aEMGUshB3H8NfoI8qRfW/jaSWPejrmmUzAZOvamrAsQmMi2WetkWS2M0Y0mi2rKjSulmMsFjGKMmLVrP5CUS3b7oMl/0rblaOdq+ya+ZX3eaj9wft69TrCgJ8915qctIbJoFYlWbqnOU81GZnU4zmkIzsbbda3o8JgIa+MCwIVi/XIc=;WxGZCQ1fH4Ux+BVdloPt7g=="
 ---

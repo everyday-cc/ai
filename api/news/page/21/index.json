@@ -2,6 +2,110 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
+      "title": "Our next-generation model: Gemini 1.5",
+      "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "publishedDateTime": "2024-02-15T15:00:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it.md",
+      "title": "Google Teases an Even Better Version of Gemini, but You'll Have to Wait for It",
+      "excerpt": "Another day, another generative AI update. Google's AI subsidiary DeepMind has previewed Gemini 1.5 Pro, an upgraded model of Google's renamed Bard chatbot Gemini. Gemini got its new name less ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it/",
+      "originalUrl": "https://www.cnet.com/tech/google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/924ed5edfc0de9024ee6b4fb678edf3e7fe11a2a/hub/2024/02/15/f4c76374-3c54-4d63-a604-ef22b304b495/gettyimages-2004540056.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-responsible-technology-use-in-the-ai-age.md",
       "title": "Responsible technology use in the AI age",
       "excerpt": "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption.",
@@ -1043,92 +1147,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-the-iphone-16s-chip-could-get-a-big-ai-upgrade-for-generative-ai-features.md",
-      "title": "The iPhone 16's chip could get a big AI upgrade for generative AI features",
-      "excerpt": "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
-      "originalUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T07:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-jfrog-announces-fourth-quarter-and-fiscal-2023-results.md",
-      "title": "JFrog Announces Fourth Quarter and Fiscal 2023 Results",
-      "excerpt": "(“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced financial results for its fourth quarter and fiscal year ended December 31,",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/jfrog-announces-fourth-quarter-and-fiscal-2023-results/",
-      "originalUrl": "https://www.01net.it/jfrog-announces-fourth-quarter-and-fiscal-2023-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T04:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

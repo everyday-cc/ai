@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explained: Google DeepMind’s Genie, an AI model that creates virtual worlds from image prompts"
-    excerpt: "This AI model could soon enable users to create their own video games. Here’s why this experimental model is revolutionary."
-    publishedDateTime: 2024-02-27T13:58:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/"
-    ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/google-deepmind-genie-ai-9184347/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 62
-    images:
-      - url: "https://images.indianexpress.com/2024/02/Untitled-design-5-27.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google DeepMind’s new generative model makes Super Mario–like games from scratch"
     excerpt: "Genie learns how to control games by watching hours and hours of video. It could help train next-gen robots too."
     publishedDateTime: 2024-02-29T12:57:00Z

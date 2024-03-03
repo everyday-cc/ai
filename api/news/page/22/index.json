@@ -2,6 +2,92 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2024-02-15-the-iphone-16s-chip-could-get-a-big-ai-upgrade-for-generative-ai-features.md",
+      "title": "The iPhone 16's chip could get a big AI upgrade for generative AI features",
+      "excerpt": "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
+      "originalUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T07:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-jfrog-announces-fourth-quarter-and-fiscal-2023-results.md",
+      "title": "JFrog Announces Fourth Quarter and Fiscal 2023 Results",
+      "excerpt": "(“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced financial results for its fourth quarter and fiscal year ended December 31,",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/jfrog-announces-fourth-quarter-and-fiscal-2023-results/",
+      "originalUrl": "https://www.01net.it/jfrog-announces-fourth-quarter-and-fiscal-2023-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T04:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade.md",
       "title": "Microsoft: Azure And AI Are Set To Drive Growth In The Next Decade",
       "excerpt": "The synergies between Azure, AI, and Microsoft's other businesses, such as gaming and productivity tools, give the company a competitive advantage. Microsoft has the potential to gain market share ...",
@@ -1053,110 +1139,6 @@
         "Meta AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-how-robotics-and-ai-helped-hippo-harvest-land-21m-to-grow-lettuce.md",
-      "title": "How robotics and AI helped Hippo Harvest land $21M to grow lettuce",
-      "excerpt": "Lettuce isn’t the world’s most challenging crop, but as any farmer knows, there are plenty of problems that pop up between planting and harvest. The gamut runs from pests to pathogens and rain — both too little and too much.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/",
-      "originalUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/Copy-of-Copy-of-DSC01841.jpg?resize=1200,802",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/amp/",
-      "publishedDateTime": "2024-02-14T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-meta-unmasks-hundreds-of-ai-spies-on-facebook-and-instagram-made-by-italian-surveillance-dealers.md",
-      "title": "Meta Unmasks Hundreds Of AI Spies On Facebook And Instagram Made By Italian Surveillance Dealers",
-      "excerpt": "Nearly 1,000 AI-generated fake profiles have been posing as protesters, journalists and young women, Meta warns, and they appeared to be targeted at reporters and political activists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2024/02/14/ai-spies-on-facebook-instagram-meta-warns/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2024/02/14/ai-spies-on-facebook-instagram-meta-warns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ccd9194b2f2d2cd17581e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

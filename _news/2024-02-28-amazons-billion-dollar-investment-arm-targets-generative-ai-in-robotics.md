@@ -70,6 +70,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
+    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
+    publishedDateTime: 2024-03-03T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI: balancing innovation and regulation"
     excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
     publishedDateTime: 2024-02-28T12:18:00Z

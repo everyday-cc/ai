@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apple's failed 'Project Titan' was a Full Self Driving gamble"
+    excerpt: "Apple's recently-abandoned \"car project\" shifted gears several times over the past decade, but ultimately the challenge of FSD proved insurmountable — and continues to elude the industry as a whole."
+    publishedDateTime: 2024-03-03T15:39:00Z
+    webUrl: "https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble"
+    ampWebUrl: "https://appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/58812-119881-87-hero-xl.jpg"
+        width: 890
+        height: 496
+        isCached: true
   - title: "Apple pull the plug on self-driving electric car project"
     excerpt: "Apple has reportedly decided to cancel its plans to develop electric vehicles (EVs), a project that has been in the works for around a decade."
     publishedDateTime: 2024-02-28T09:35:00Z

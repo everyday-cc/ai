@@ -47,43 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia AI GPU buyers are selling surplus hardware as supply constraints ease"
-    excerpt: "Late last year, Amazon rolled out shorter-term GPU rentals for clients that only need AI processing for a single job. Storing hardware is also costly, especially if it isn't being put to use. Rather than sit on it and wait around for it to become obsolete ..."
-    publishedDateTime: 2024-02-27T14:36:00Z
-    webUrl: "https://www.techspot.com/news/102049-nvidia-ai-gpu-buyers-selling-surplus-hardware-supply.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 63
-  - title: "NVIDIA AI GPU customers 'offloading' chips, selling hard-to-buy excess AI GPU hardware"
-    excerpt: "NVIDIA has greatly improved AI GPU shipments over the last few months, which were swelling out to 8-11 months and now down to a better 3-4 month waiting period. But some AI GPU customers are offloading their high-end AI chips... yeah, they're selling the ..."
-    publishedDateTime: 2024-02-27T15:07:00Z
-    webUrl: "https://www.tweaktown.com/news/96505/nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 61
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96505_6003_nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware_full.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why do Nvidia’s chips dominate the AI market?"
-    excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
-    publishedDateTime: 2024-02-27T16:07:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market?ref=upstract.com"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 54
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Wall Street hunts for more AI gold after Nvidia’s soaring rally"
     excerpt: "It has also spurred Wall Street to search for other AI-focused companies in hopes of catching outsized moves. Whether investors are looking at the broader chip industry or betting on firms elsewhere in the value chain, they agree on one thing: AI is here ..."
     publishedDateTime: 2024-03-01T00:00:00Z
@@ -111,6 +74,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Nvidia wants to democratize AI with new RTX 500, RTX 1000 laptop GPUs — but I cannot help wonder whether Nvidia RTX 4000 GPUs are a better choice"
+    excerpt: "Nvidia wants to make AI more accessible to everyone with the launch of its new RTX 500 and RTX 1000 Ada Generation Laptop GPUs. These GPUs, tailored for professionals on the go, will be offered in portable mobile workstations, broadening the Ada Lovelace architecture-based selection."
+    publishedDateTime: 2024-03-03T16:19:00Z
+    webUrl: "https://www.techradar.com/pro/nvidia-wants-to-democratize-ai-with-new-rtx-500-rtx-1000-laptop-gpus-but-i-cannot-help-wonder-whether-nvidia-rtx-4000-gpus-are-a-better-choice"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 47
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mJGvYdcz4hoDJNkKQfNvhR-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Indosat Collaborates with NVIDIA to Enable Sovereign AI Infrastructure"
     excerpt: "As part of the collaboration with NVIDIA, Lintasarta aims to provide GPU-as-a-Service (Deka GPU) and give customers access to the latest and most powerful artificial intelligence capabilities specifically tailored for high-demand computing tasks, including infrastructure, platform, and bare metal services."
     publishedDateTime: 2024-02-29T05:49:00Z

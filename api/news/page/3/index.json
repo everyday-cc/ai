@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-29-supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation.md",
+      "title": "Supercharge your AI team with Amazon SageMaker Studio: A comprehensive view of Deutsche Bahn’s AI platform transformation",
+      "excerpt": "AI’s growing influence in large organizations brings crucial challenges in managing AI platforms. These include developing a scalable and operationally efficient platform that adheres to organizational compliance and security standards. Amazon SageMaker Studio offers a comprehensive set of capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/bahn-ai-transformation-1121x630.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T15:54:12Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement.md",
       "title": "Groundbreaking Chinese Ruling Finds AI Company Committed Copyright Infringement",
       "excerpt": "Chinese media reported the Guangzhou Internet Court ruled an AI company committed copyright infringement in its provision of AI-generated text-to-image",
@@ -258,7 +310,7 @@
       "originalUrl": "https://www.wired.com/story/gadget-lab-podcast-634/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -692,7 +744,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -743,7 +795,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1154,57 +1206,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
-      "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
-      "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107241946-1684255273555-sei.jpg?v=1694098121",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "publishedDateTime": "2024-02-28T21:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

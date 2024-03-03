@@ -292,6 +292,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-27-team-studies-medical-validity-of-deep-learning-models-in-diagnosing-drowning.md",
+      "title": "Team studies medical validity of deep learning models in diagnosing drowning",
+      "excerpt": "A research team from Tohoku University Graduate School of Medicine undertook a detailed examination of the medical validity of deep learning models using post-mortem imaging for diagnosing drowning.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-02-team-medical-validity-deep.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-02-team-medical-validity-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
       "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
       "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
@@ -1350,50 +1384,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-3-ways-machine-learning-is-changing-retail-for-the-better.md",
-      "title": "3 Ways Machine Learning Is Changing Retail for the Better",
-      "excerpt": "Customers want convenience; retailers want growth. Machine learning can help with both. Artificial intelligence has revealed its potential in retail, as anyone who has ever interacted with a digital sales assistant knows. In fact, the value of AI in retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better",
-      "originalUrl": "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/GettyImages-1487920406_cropt.2jpg_0.jpg?itok=72GwsRqT",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better?amp",
-      "publishedDateTime": "2024-02-12T20:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

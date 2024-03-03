@@ -298,15 +298,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 55
-  - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
-    excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
-    publishedDateTime: 2024-02-27T13:10:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-openai-microsoft-other-tech-titans-investing-in-humanoid-robot-startup"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 46
   - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Bezos and tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-02T00:00:00Z

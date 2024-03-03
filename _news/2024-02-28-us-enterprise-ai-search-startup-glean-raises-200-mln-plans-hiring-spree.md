@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup
 webUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 15
-  - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
-    excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
-    publishedDateTime: 2024-02-27T14:42:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree/108049287"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 14
 
 secured: "6PsaudEZnL/WKN83FBN66928EyaKc1KVXF3u+provFF2JN/TFQz/DWuQojeeB7ouDYhXZksmQFkP+KPBgd3f064hDNPEJY1C3KSkQxSlfRf6gkiiQLYHqqhMrkrwsF2uXe+LaXvEJ/mAc/Vm+gMo/GfnZxtW8OhvTWa61wBWq8tSpuwelvG8Hczvzs7TRh5XnCAmNHEUTx9TJNdc35DaSNwgQwKZJ8G9seKgk94yX8pYrzLu7J+q4CxJlWfHaB2P1dfCjPAZ0kJWTwSw0hq+ruodc47RxwXoFvLvovIwRuVZKKKaR9amhcymEqPC7/FS8UBGdl6c4+ZZP6IuVQBSHZDpatvvd7O7TPy/OLLbQYQ=;pXdSjG7drAvbdm/pCpqDzg=="
 ---

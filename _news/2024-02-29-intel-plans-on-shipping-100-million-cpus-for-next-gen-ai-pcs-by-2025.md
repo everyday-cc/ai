@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel’s new Intel vPro platform to power the next generation of AI PCs"
-    excerpt: "The company said the Intel Core combines both types of chip, splitting processing tasks across the CPU, GPU and a new neural processing unit to support much faster and more powerful AI workloads. Intel says the Arc GPU delivers twice the graphics ..."
-    publishedDateTime: 2024-02-27T17:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/27/intels-new-intel-vpro-platform-power-next-generation-ai-pcs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/image_2024-02-27_091615705.png"
-        width: 842
-        height: 428
-        isCached: true
   - title: "Intel Sets Sights on Dominating AI PC Market with Ambitious 100M Target, Partners with Microsoft"
     excerpt: "The tech giant plans to ship 40 million AI-enabled PCs this year and aims for 60 million the next, targeting over 20% of the global PC market in 2025. Intel’s approach emphasizes not just the performance of its chips but also the overall user ..."
     publishedDateTime: 2024-02-28T08:52:00Z

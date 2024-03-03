@@ -312,15 +312,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup"
-    excerpt: "What do Intel, LG, Nvidia, Microsoft, Samsung, and OpenAI currently have in common? They’re all taking big bets on Figure AI, a startup focused entirely on building and deploying humanoid robots. The California-based company has reportedly secured $675 million in funding, having attracted some of the most powerful entities within the tech industry."
-    publishedDateTime: 2024-02-27T13:10:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-openai-microsoft-other-tech-titans-investing-in-humanoid-robot-startup"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 46
   - title: "Dimensions Research GPT – evidence-based research insights for ChatGPT platform users"
     excerpt: "Users can get AI-generated answers to research related questions on the GPT platform informed by Dimensions’ huge database, making ChatGPT more research-specific for topic exploration. Available to users of both free and paid Dimensions Analytics web ..."
     publishedDateTime: 2024-02-28T05:30:00Z
