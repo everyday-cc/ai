@@ -40,20 +40,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Inside the rocky marriage of hedge funds and top AI talent"
-    excerpt: "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ..."
-    publishedDateTime: 2024-02-27T20:36:00Z
-    webUrl: "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/65dd05c16080194819fa500e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple Investors Grow Impatient on Artificial Intelligence"
     excerpt: "Photo illustration: David Fang Over and over again, Apple Chief Executive Tim Cook has been asked the same question: What is Apple doing about generative artificial intelligence? His answer: Stay tuned. Investors are getting impatient. “Apple really hasn ..."
     publishedDateTime: 2024-02-29T10:31:00Z

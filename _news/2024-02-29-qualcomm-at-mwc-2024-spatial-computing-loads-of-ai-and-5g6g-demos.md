@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-m
 webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-mwc-2024-spatial-computing-loads-of-ai-and-5g6g-demos/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,34 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
-    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
-    publishedDateTime: 2024-02-27T19:12:00Z
-    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png"
-        width: 1400
-        height: 788
-        isCached: true
-  - title: "12 things I learned about the Humane Ai Pin at MWC 2024"
-    excerpt: "One device I didn’t expect to see at MWC 2024 in Barcelona was the Humane Ai Pin that was announced a few months ago. After all, Humane’s AI-powered gadget will only launch in the US and will also require a subscription to the company’s own MVNO wireless service."
-    publishedDateTime: 2024-02-28T22:24:00Z
-    webUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-at-mwc-2024/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 41
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/humane-ai-pin-mwc-2024-eyes-on-8.jpg?quality=82&strip=all"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "Generative AI Advances Showcased at MWC 2024"
     excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
     publishedDateTime: 2024-02-28T16:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-sta
 webUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit"
-    excerpt: "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription."
-    publishedDateTime: 2024-02-27T20:40:00Z
-    webUrl: "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2024/02/27/multimedia/27openai-suit-blpk/27openai-suit-blpk-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "19du+IRTlKPrl6ykzlp6FLjr5ZNcAL7gbE1JQPJ1/WCHOvoa5PSgyTeQnsbPHAuJKtZ9KNjVjIXDbjFPAACZASBMdVwb7gSPG5XBEAXdn10y5xCdF9nDDm0j1TmpPR2prLQvZB5FYNtJ0KY4kmT3Lrvvv70Y1dbp1Q3jlXetQArU9o/KrboI4v2prDiFlD4C2nrG5uGBgWF+jkNNpeFJ5oqUdlY7c/RTemQiOqR4vppwUaXr5/+9CgCZlOHr4QH8VVpagJWptKEptyZQpzqy9fTlBlO4/5qnzC0Uib9hzjF4SWuXtvSrKUfpYXN4n5KmE1EyoQW7JNEl2F5KzOzLWTaFgvvaN9JSevOQ7BTmyo6cFLL8qPcJSzcIrWZbCinIROOeUk9aD0yy92Wz0bSuP5yqr8z7c4PaQnxPzRgDgerPjhWDtdpvnpAL2F7qR+G5vLLO5sl8784HPffU3waY8LqNZNETP8ghAd/IsKFOAYn2TXWGOLJo3VkMjffE+BQwtKLK5ky1u5Z0Ur6pbIHNmw==;VfTodJexiAS8ApsX1CSQLg=="
 ---

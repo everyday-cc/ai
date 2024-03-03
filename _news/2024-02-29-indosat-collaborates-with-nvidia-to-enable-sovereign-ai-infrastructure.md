@@ -94,6 +94,34 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "NVIDIA's next-gen B200 AI GPU uses 1000W of power per GPU, drops in 2025, confirmed by Dell"
+    excerpt: "NVIDIA has its beefed-up H200 AI GPU coming soon, while its next-gen B100 AI GPU should be revealed at GTC 2024 in less than two weeks time, but now it looks like we should expect a beefed-up B200 AI GPU in the future thanks to comments from Dell's Chief ..."
+    publishedDateTime: 2024-03-03T08:05:00Z
+    webUrl: "https://www.tweaktown.com/news/96591/nvidias-next-gen-b200-ai-gpu-uses-1000w-of-power-per-drops-in-2025-confirmed-by-dell/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96591_62_nvidias-next-gen-b200-ai-gpu-coming-in-2025-uses-up-to-1000w-of-power-confirmed-by-dell_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
+  - title: "Nvidia CEO Jensen Huang says AI could pass most human tests in 5 years"
+    excerpt: "The Nvidia CEO also addressed a question about how many more chip factories, called \"fabs\" in the industry, are needed to support the expansion of the AI industry. Media reports have indicated that OpenAI CEO Sam Altman thinks many more fabs will be needed ..."
+    publishedDateTime: 2024-03-03T14:45:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-ceo-jensen-huang-says-194455132.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/LoZQbsBT.fwcA7U5dRAXng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/8d4d891f1c89f79406513cf62f1c666d"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Best Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- No, It's Not Nvidia"
     excerpt: "Analysts at BMO Capital see Alphabet(NASDAQ: GOOGL)(NASDAQ: GOOG) as the company best positioned to benefit from the growing demand for generative artificial intelligence (AI). The firm reasons that Alphabet has a big head start on most peers because its ..."
     publishedDateTime: 2024-03-01T12:54:00Z

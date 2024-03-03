@@ -7,8 +7,8 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/53097853/hid-global-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Security
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Meets Mental Health: MoodCapture App Identifies Depression Early"
-    excerpt: "For the study, the researchers enlisted 177 participants for a 90-day trial designed to use their front-facing camera to capture facial images throughout their daily lives and while the participants answered a survey question with, “I have felt ..."
-    publishedDateTime: 2024-02-27T21:59:00Z
-    webUrl: "https://www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2"
-    ampWebUrl: "https://www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26744/facial-recognition-meets-mental-health-moodcapture-app-identifies-depression-2/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 33
   - title: "HID, CERTIFY Health and CTS align to elevate the patient experience powered by facial recognition"
     excerpt: "HID, the worldwide renowned company in trusted identity solutions has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ..."
     publishedDateTime: 2024-02-28T23:59:00Z

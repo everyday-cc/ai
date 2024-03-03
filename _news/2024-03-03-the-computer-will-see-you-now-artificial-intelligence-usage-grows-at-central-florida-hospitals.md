@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2024-03-artificial-intelligence-usage-ce
 ampWebUrl: "https://medicalxpress.com/news/2024-03-artificial-intelligence-usage-central-florida.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-artificial-intelligence-usage-central-florida.amp"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/hospital-ai.jpg"
@@ -57,6 +58,6 @@ related:
         height: 700
         isCached: true
 
-secured: "Tke6sIMN0r+UXbSRWYj5psB6wFTZi2n5jPf8F9grou+9zCSqD7KMEqAcs7UPyBv+VX9jGd/pLhjHDG0BYlKoMT4zZLFAodfbQfVmDz6uRRoW4MmaqOBpcxUSdSiuENDN6Uw8yi6Qf+4NkQJ0CopAGAeAimfctNZ7LoH/x+dC2U02j3RaVvEVLAP4Q/O6M8/afsFoRXEGQd6LlGVWaeR8q+J9/iANwZ8/13fmbHs872bFDsdYX3F25NO6e4LOBcFxePsJtA68dpfeMLsNbOmrC++8Hn0gohPxhpHrp8ocbPMBZ13S+31i90BZF69XXAJcH0GVUeAiaJpGHLJz6HA2j6tffA+yjcs9IQorclAWWK0=;39pEEFhjn4sDxjjunL883Q=="
+secured: "skevJ15dnDMNIcJ/UZ5NHFfjMWdRjVfvGCe522ogCoDcvoB4q8uOPIiRgK5Xy4LUzUEvcUIvmZm6GBT1qkaM208olG1UAp6ti2uOOkhtg40kRfO9+OTu+r7vkGclIDqeYl2MPl1BZvFzFFetCC7Gw4spyJWomGxktC9yMUiKdrWhQa/BCvUwYRnDqYmXScKMbzi5vzmGeIDZYaMUzlGqvPHIgk/dc+q7rQqPavfr/7JADkCyuAPYe44s2UbJ5jGbv4XvaT1VeBhi5cSMhrauw7r2+vLBr47wSTgw4VHBl8mdlq9eVZHTRlgM6dzQ2WlQX8OHm5XDqVN1XkkC42pyJmd/mYk6txMf/kV+jsgoUPYQjO00kfL085hM330tXlBwanJycOnqEbdLODDQUwbTA8cealWHpYOZC1KdBlabpAmbzI1sBU+GoVXPCFT/pJTsQKz49hjyXtVE/qJU1BjP4902aDM4U9grriMRCC47AFbOHyS/OeH5i5mJu9EKiRSgXTRgm8s8amcVd+IvaeRDfA==;auaVXmRkKJR4hp/5uz+lUA=="
 ---
 

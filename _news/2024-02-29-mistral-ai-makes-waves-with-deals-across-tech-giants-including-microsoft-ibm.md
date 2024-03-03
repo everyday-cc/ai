@@ -199,20 +199,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "You Can Now Replace Google Assistant With Microsoft’s Copilot AI"
-    excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
-    publishedDateTime: 2024-02-27T22:31:00Z
-    webUrl: "https://www.lifehacker.com.au/2024/02/you-can-now-replace-google-assistant-with-microsofts-copilot-ai/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 56
-    images:
-      - url: "https://www.lifehacker.com.au/wp-content/uploads/2024/02/hero-image_961bb2.jpg?quality=75&w=640&h=360&crop=1"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Cognizant and Microsoft deepen partnership with Azure-focused solution"
     excerpt: "Information technology services company Cognizant Technology Solutions Corp. today announced a dedicated version of Cognizant Skygrade for Microsoft Azure customers that helps cus"
     publishedDateTime: 2024-02-28T05:01:00Z
@@ -240,20 +226,6 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/02/28/GettyImages-2035610988.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Partners with Startup Mistral AI to Advance Next-Gen LLMs"
-    excerpt: "Microsoft has entered into a multi-year partnership with French AI startup Mistral AI to advance the development and deployment of next-gen LLMs. The collaboration marks a milestone on the road to bridging the gap between cutting-edge research and tangible,"
-    publishedDateTime: 2024-02-27T21:37:00Z
-    webUrl: "https://campustechnology.com/Articles/2024/02/27/Microsoft-Partners-with-Startup-Mistral-AI-to-Advance-Next-Gen-LLMs.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 54
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240227aipartners.jpg"
-        width: 644
-        height: 368
         isCached: true
   - title: "Microsoft's AI Fights Phone Scams, Puts You in Control"
     excerpt: "Cybercriminals trick you into sharing your sensitive data like bank details and credit card numbers to make unauthorised purchases or steal your money."

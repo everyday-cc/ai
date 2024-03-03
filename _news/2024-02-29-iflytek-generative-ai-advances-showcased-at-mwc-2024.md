@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61536928-ifly
 webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61536928-iflytek-generative-ai-advances-showcased-at-mwc-2024-008.htm"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "12 things I learned about the Humane Ai Pin at MWC 2024"
+    excerpt: "One device I didn’t expect to see at MWC 2024 in Barcelona was the Humane Ai Pin that was announced a few months ago. After all, Humane’s AI-powered gadget will only launch in the US and will also require a subscription to the company’s own MVNO wireless service."
+    publishedDateTime: 2024-02-28T22:24:00Z
+    webUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-at-mwc-2024/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/humane-ai-pin-mwc-2024-eyes-on-8.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Generative AI Showcased at the 2024 MWC, with iFLYTEK Unveiling Its Innovative SparkDash"
     excerpt: "iFLYTEK's SparkDash empowers businesses to quickly respond to market shifts with its immersive interactions and scenario-based design capabilities. The virtual assistant feature simplifies the process of querying business data, making it easier to undertake cross-departmental data comparisons and multi-metric analyses."
     publishedDateTime: 2024-02-28T18:12:00Z
@@ -36,20 +50,6 @@ related:
     quality: 30
     images:
       - url: "https://mma.prnewswire.com/media/2350384/image_1.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "iFLYTEK: More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
-    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
-    publishedDateTime: 2024-02-28T16:51:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61536675-iflytek-more-extensive-more-timely-more-professional-ai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
         width: 400
         height: 267
         isCached: true

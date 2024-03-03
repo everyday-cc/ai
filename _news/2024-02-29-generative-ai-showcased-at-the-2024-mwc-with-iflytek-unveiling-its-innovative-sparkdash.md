@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "12 things I learned about the Humane Ai Pin at MWC 2024"
+    excerpt: "One device I didn’t expect to see at MWC 2024 in Barcelona was the Humane Ai Pin that was announced a few months ago. After all, Humane’s AI-powered gadget will only launch in the US and will also require a subscription to the company’s own MVNO wireless service."
+    publishedDateTime: 2024-02-28T22:24:00Z
+    webUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-at-mwc-2024/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/humane-ai-pin-mwc-2024-eyes-on-8.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "iFLYTEK: Generative AI Advances Showcased at MWC 2024"
     excerpt: "a leading Chinese AI company known for its groundbreaking work in voice recognition and natural language processing. China has been an important spur for global economic growth, first powered by its manufacturing exports and more recently by its tech ..."
     publishedDateTime: 2024-02-28T16:27:00Z
@@ -36,20 +50,6 @@ related:
     quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "iFLYTEK: More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
-    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
-    publishedDateTime: 2024-02-28T16:51:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61536675-iflytek-more-extensive-more-timely-more-professional-ai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
         width: 400
         height: 267
         isCached: true

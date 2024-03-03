@@ -25,130 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Infor Nexus Is Taking An Interesting Approach To Generative AI"
-    excerpt: "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception."
-    publishedDateTime: 2024-02-27T20:21:00Z
-    webUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 396
-        height: 350
-        isCached: true
-  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
-    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
-    publishedDateTime: 2024-02-29T06:50:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen"
-    excerpt: "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 66
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
-    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
-    publishedDateTime: 2024-03-02T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
-        isCached: true
-  - title: "Tim Cook Reiterates Ground-Breaking Generative AI Features Will Arrive in 2024"
-    excerpt: "During its annual shareholders meeting, Tim Cook said Apple will \"break new ground\" in Generative AI in 2024. Shareholders also voted down the proposal asking Apple for an AI transparency and ethics report."
-    publishedDateTime: 2024-02-29T00:34:00Z
-    webUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/"
-    ampWebUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/02/Tim-Cook-Generative-AI-features.jpg"
-        width: 1250
-        height: 750
-        isCached: true
-  - title: "Why Citi is rolling out generative AI to all its developers"
-    excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
-    publishedDateTime: 2024-02-28T01:40:00Z
-    webUrl: "https://www.americanbanker.com/news/why-citi-is-rolling-out-generative-ai-to-all-its-developers"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7bbe3eb/2147483647/strip/true/crop/3000x1575+0+204/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F07%2F775653d8444aa9c315818244d643%2F402523218.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Apple to Unveil Ambitious Plan to Integrate Generative AI Later This Year"
-    excerpt: "Despite the defeat, the AFL-CIO's Brandon Rees expressed hope for improved disclosure practices by Apple on AI ethics and usage. The AFL-CIO had requested Apple to report on its AI applications in business operations and reveal any ethical standards ..."
-    publishedDateTime: 2024-02-29T04:37:00Z
-    webUrl: "https://www.gizbot.com/internet/news/apple-to-unveil-ambitious-plan-to-integrate-generative-ai-later-this-year-092117.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 38
-    images:
-      - url: "https://www.gizbot.com/img/2024/02/apple-11-1709180634.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How businesses are actually using generative AI"
-    excerpt: "Tools for lower-skilled workers could be more immediately useful. Some simple applications for things like customer service involve off-the-shelf AI. Most customers’ questions are simple and concern a small number of topics, making it easy for companies ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.economist.com/business/2024/02/29/how-businesses-are-actually-using-generative-ai"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
-  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
-    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
-    publishedDateTime: 2024-03-02T19:16:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
+  - title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
+    excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+    publishedDateTime: 2024-03-02T06:47:00Z
+    webUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966"
+    ampWebUrl: "https://www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/fact-check/news/meta-set-team-counter-disinformation-ai-abuse-eu-elections-3556966?amp"
     type: article
     provider:
       name: The Daily Star
       domain: thedailystar.net
-    quality: 6
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/07/meta_ai.jpg"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "vYart31weOrZcKJ0CxjomwHiq2/Es0cQRfN0l2rV6IRRI8WyYzuI9g+A5ChM5Jayk+mr3Sg/NgbkXdL0bQRyWpfCrUqBhFdIIyVVS4bT52cCASDMesQN9KuQyeOeHVrPEDQd2MJZwZ18fnTeMvsCih98MJgp7mID9HFRDfLXpbFXw0KkWC0FG1HBNIFZuc0VzoPWGZ4rAW8UY+elpqixBSi5knPdpVcl3n5ehM3k0e6wNBKQIYKKuSEMG91zfRMYWXK2fjpZ0dbY+zjKFx0rkw7HGFIfqhYHtBBYQMuMp/GYJ27ZLuiMtOyQ/tDCPzrCxAKTabcFuLeyAZA0WXo7W8oxwu0kl6kEB3kh9YrwPN0=;ETCk3UmgijYjtuh8F9LZ1g=="
 ---

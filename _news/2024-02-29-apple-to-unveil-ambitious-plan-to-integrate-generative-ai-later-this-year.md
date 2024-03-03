@@ -25,66 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Infor Nexus Is Taking An Interesting Approach To Generative AI"
-    excerpt: "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception."
-    publishedDateTime: 2024-02-27T20:21:00Z
-    webUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/"
+  - title: "Apple CEO Tim Cook set to unveil plans to expand generative AI use"
+    excerpt: "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,"
+    publishedDateTime: 2024-02-29T18:45:00Z
+    webUrl: "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html"
+    ampWebUrl: "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 396
-        height: 350
-        isCached: true
-  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
-    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
-    publishedDateTime: 2024-02-29T06:50:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/APPLE-LAWSUIT-COMPENSATION-0_1707356185453_1709190574096.JPG"
         width: 1600
-        height: 900
-        isCached: true
-  - title: "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen"
-    excerpt: "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 66
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
-    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
-    publishedDateTime: 2024-03-02T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
         height: 900
         isCached: true
   - title: "Tim Cook Reiterates Ground-Breaking Generative AI Features Will Arrive in 2024"
@@ -103,52 +57,61 @@ related:
         width: 1250
         height: 750
         isCached: true
-  - title: "Harnessing artificial intelligence for infectious disease prevention"
-    excerpt: "A new research review to be given at a pre-congress day for this year's European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024) will look at the many ways artificial intelligence can help prevent infectious disease outbreaks including ensuring staff wear personal protective equipment correctly and managing day-to-day hospital activities such as medication prescription and cleaning."
-    publishedDateTime: 2024-02-28T02:49:00Z
-    webUrl: "https://www.news-medical.net/news/20240227/Harnessing-artificial-intelligence-for-infectious-disease-prevention.aspx"
+  - title: "Apple CEO Tim Cook says company is 'investing significantly' in generative AI"
+    excerpt: "Tim Cook's remarks at Apple's annual shareholder meeting represent one of the strongest signals that Apple is embracing the generative AI craze."
+    publishedDateTime: 2024-02-28T16:40:00Z
+    webUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2024-ai-investments.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Why Citi is rolling out generative AI to all its developers"
-    excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
-    publishedDateTime: 2024-02-28T01:40:00Z
-    webUrl: "https://www.americanbanker.com/news/why-citi-is-rolling-out-generative-ai-to-all-its-developers"
+      name: CNBC
+      domain: cnbc.com
+    quality: 44
+  - title: "Apple CEO Tim Cook promises big AI push for 2024 — what we know"
+    excerpt: "AI carries its own share of potential pitfalls around ethics, inclusion, and risks. At Wednesday's Apple shareholder meeting, the AFL-CIO’s pension trust had issued a proposal that would have required Apple to issue a report on its ethical use of AI."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/apple-ceo-tim-cook-promises-big-ai-push-for-2024-what-we-know"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
+      name: Tom's Guide
+      domain: tomsguide.com
     quality: 39
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7bbe3eb/2147483647/strip/true/crop/3000x1575+0+204/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F07%2F775653d8444aa9c315818244d643%2F402523218.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/5bVodBq8ZhiUbswuQcQZNS-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "How businesses are actually using generative AI"
-    excerpt: "Tools for lower-skilled workers could be more immediately useful. Some simple applications for things like customer service involve off-the-shelf AI. Most customers’ questions are simple and concern a small number of topics, making it easy for companies ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.economist.com/business/2024/02/29/how-businesses-are-actually-using-generative-ai"
+  - title: "Apple will ‘break new ground’ in generative AI this year, Tim Cook teases"
+    excerpt: "Apple CEO Tim Cook has a message for Wall Street. He believes Apple “break new ground” on generative AI this year. Cook’s latest AI hype comments came today during Apple’s annual shareholders meeting. During the meeting, a shareholder proposal to release a report on AI and ethics was voted down as expected."
+    publishedDateTime: 2024-02-28T17:35:00Z
+    webUrl: "https://9to5mac.com/2024/02/28/apple-ai-break-new-ground/"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
-  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
-    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
-    publishedDateTime: 2024-03-02T19:16:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 38
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-18-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tim Cook says Apple will \"break new ground\" in generative AI this year, will disclose more details later"
+    excerpt: "Read our ethics statement. What just happened? At Apple's annual shareholder meeting this week, CEO Tim Cook told investors and market watchers that the company is investing heavily in generative AI to make life easier for its customers. He also claimed ..."
+    publishedDateTime: 2024-02-29T08:41:00Z
+    webUrl: "https://www.techspot.com/news/102075-tim-cook-apple-break-new-ground-generative-ai.html"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 6
+      name: TechSpot
+      domain: techspot.com
+    quality: 32
+  - title: "SEC sues ex-CEO AI startup for fraud"
+    excerpt: "Paul Pereira denies making false and misleading statements about the company's performance to boost its stock."
+    publishedDateTime: 2024-02-29T19:30:00Z
+    webUrl: "https://www.accountingtoday.com/news/sec-sues-ex-ceo-ai-startup-alfi-for-fraud"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
 
 secured: "SKeDBOr98ZxWCarsx/bBN20PgVRIbR9c8tgovHGwNTs0UL5Ndm9AjMs/LIZ2gxaZHubb0E71XTNr/TWZr3Hg54J0rIur2QIwUnvgkWeM2zsBQ5b/WRQqh2dFf2UmyRnRJwyyPLQbi2LCcaXq4CHouHRJCABFmOmBDzNco/5Swb3Oyx+kW6s871OaoYjKOsyutrqiFgl9AWCI0L9AOkNbIgLFw1fiw8EsOvBWVHEhw1/IAWe09DIL9X9ot5qPwnQsaUc0oED39JGYyNZmrbzPGGgdj8BiDsFZwIvDJDmYV4R/znc9FpVQ4u6goNzwJlF9xo8chRBvzyOakEzs7P6apCDUeaFQ0dBs6e7xUNhwq8s=;B5izYIwvpw87ndinbnM8hQ=="
 ---

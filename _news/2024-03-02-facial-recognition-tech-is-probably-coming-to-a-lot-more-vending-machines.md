@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2024/02/MixCollage-29-Feb-2024-05-35-PM-4699.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Your next Samsung Galaxy phone could have Face ID-beating facial recognition tech if Metalenz's claims hold up"
+    excerpt: "The future of ultra-secure facial recognition may finally be coming to Android phones thanks to Metalenz, a technology company that's focused on a quantum-level, bleeding-edge imaging technique."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.techradar.com/phones/your-next-samsung-galaxy-phone-could-have-face-id-beating-facial-recognition-tech-if-metalenzs-claims-hold-up"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/L4mk6HCQx2a9thARWotFqL-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Canada University To Remove Vending Machines Over Facial Recognition Tech"
     excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the use of facial recognition technology in secret. According to The Guardian, the controversy unfolded when a student captured a photo of ..."

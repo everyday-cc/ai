@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Blackhawks vs. Avalanche March 4 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Colorado Avalanche's Cale Makar and the Chicago Blackhawks' Jason Dickinson will be two of the best players to keep an eye on when these teams meet on Monday at 9:00 PM ET, at Ball Arena. Connor Bedard's 17 goals and ..."
+    publishedDateTime: 2024-03-03T22:00:00Z
+    webUrl: "https://www.wbay.com/sports/betting/2024/03/04/blackhawks-vs-avalanche-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WBAY
+      domain: wbay.com
+    quality: 22
+    images:
+      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/AVQVAHUD2ZIE3KK53EPFC2PNYA.jpg?auth=9639be19ed518e6117659fde6c8cd0101fae7e4c82d03608fceda8e0edd4c75a&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "UMKC vs. Omaha Summit Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 8 seed UMKC Kangaroos (12-19) take on the No. 9 seed Omaha Mavericks (7-22) in the Summit tournament Friday at Denny Sanford Premier Center, tipping off at 5:30 PM ET. Both teams will look to get one step closer ..."
     publishedDateTime: 2024-03-03T18:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/is
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202403/is-ai-more-creative-than-humans?amp"
 type: article
 quality: 57
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/law_AI_1709312715967_1709312719900.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "AI outperforms humans in creative potential tests: Study"
+    excerpt: "The study, conducted by researchers from the University of Arkansas, pitted ChatGPT-4, the natural language processing model (NLP) by OpenAI, against 151 human participants in three tests designed to measure divergent thinking, or the ability to provide ..."
+    publishedDateTime: 2024-03-03T21:40:00Z
+    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/ai-outperforms-humans-in-creative-potential-tests-study-1.6792998?clipId=64268"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 39
+    images:
+      - url: "https://www.ctvnews.ca/polopoly_fs/1.6793017.1709500945!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Artificial Intelligence Vs. Human Stupidity"
     excerpt: "Among the most widely discussed issues this year was artificial intelligence—especially generative AI (“GenAI.”) With the recent adoption of large language models (like the one powering ChatGPT), there is much hope—and hype—about what AI could do ..."

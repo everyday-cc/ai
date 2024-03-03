@@ -25,33 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning vs AI vs deep learning: The differences explained"
-    excerpt: "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/"
+  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
+    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
+    publishedDateTime: 2024-02-29T06:50:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 79
-  - title: "Healthcare companies outline AI plans during earnings calls"
-    excerpt: "Financial analysts hear details on how companies are using AI to improve operations, from streamlined customer service to more accurate diagnoses."
-    publishedDateTime: 2024-03-01T08:59:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/ge-healthcare-unitedhealth-hims-hers-ai-uses"
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "E& UAE partners with AWS to elevate customer experiences with custom Generative AI"
+    excerpt: "In line with the partnership, e& UAE will use Amazon Bedrock and Amazon SageMaker to seamlessly integrate a suite of GenAI use cases, personalising recommendations beyond traditional algorithms. Amazon Bedrock is a fully managed service that offers a ..."
+    publishedDateTime: 2024-02-29T07:01:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-  - title: "Dell Earnings: AI Growth Still Doesn’t Support Its High-Flying Share Price"
-    excerpt: "The firm has carved out a good position with GPU-powered enterprise servers that should fit into ... Due to the results, fiscal year guidance, an increased dividend, and AI-related momentum, Dell’s stock rose over 15% after hours. Even with our raised ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.morningstar.com/stocks/dell-earnings-ai-growth-still-doesnt-support-its-high-flying-share-price"
+      name: Zawya
+      domain: zawya.com
+    quality: 68
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
+        width: 605
+        height: 403
+        isCached: true
+  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
+    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
+    publishedDateTime: 2024-03-02T14:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
     type: article
     provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1201
+        height: 900
+        isCached: true
+  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
+    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Why Citi is rolling out generative AI to all its developers"
+    excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
+    publishedDateTime: 2024-02-28T01:40:00Z
+    webUrl: "https://www.americanbanker.com/news/why-citi-is-rolling-out-generative-ai-to-all-its-developers"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7bbe3eb/2147483647/strip/true/crop/3000x1575+0+204/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F07%2F775653d8444aa9c315818244d643%2F402523218.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ikjXGPh5JuZPftnKuTniybfxLmGdBDwBAqpzNsb4kvTAx4yic1JF0wNR8ZOTlXg7esVk9QhP3gfCXDIxm9d4Uu0QQ38jFrgMoCpRNweg1qhPf2QtGz5wICz0kfQa3QkbWnxyn7cYrhArgkC1v10spn9x+Sf4ZH5hPTp266fejgPWlHYe0/N447AU5TGEXM9EBLVeAhb2H/UIWAV7Pv7HwBB1REAK5qqCirx1gB76X6mv6Z/Q2fTXeKztxqkrYgyEHfi5yqSnEOQtm2bctKTmYDrknA6B6o1o87ARCXgvDMRDuWRlPRk2bZopNqB+dZIxXUitTaY1zI8U1891A59p07TQZVMLtYaOUUP0maxbCIE=;SV4IjyBt9ihNsy3ENiIzkw=="
 ---

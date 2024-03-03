@@ -7,7 +7,7 @@ originalUrl: "https://reason.com/?p=8267073"
 webUrl: "https://reason.com/?p=8267073"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple reportedly cancels electric car development to focus on AI"
-    excerpt: "Open AI’s ChatGPT start page. Image source: Jonathan S. Geller It really isn’t surprising to see Apple making a shift like this. While the company has been working on an electric vehicle for years, it doesn’t appear to have been any closer to ..."
-    publishedDateTime: 2024-02-27T19:37:00Z
-    webUrl: "https://bgr.com/tech/apple-reportedly-cancels-electric-car-development-to-focus-on-ai/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "nNQ0tX4EWprse0rmgBG76P3SzIKsF1gX4Z7eWuDTlXEPEIe2iXLFv+/vfpKHsKNxGvbY2Oxq1Zd0lVCi2gtAeoatFuv7K1eamQe40x5y2+HjKmpSghKA9GCEtKlyisb3arQ+5hNh7VuXeXWhGXdkPgLNq+LU6vy1VtIrVmM1lfWMbferv5PFoI/9myJ36WQYkvD1iJPx4J9WZ+AVMliJ+lm4N3Kvto8hNgi8DQTcytenYavTTiSqQzLK/DCYt5f4EPqOJoaHMKjeM0N4KVfil+PeRTI3S6h6MhfLfIWhvfaeRXTzh/+uGCF7ZtJUuManUYidYJ57igO6KyFlNaved04wI4MS/N0yK/PI4pvXlko=;h0G1hX7DNeEyRR2k5KOP5Q=="
 ---

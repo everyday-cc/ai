@@ -46,7 +46,7 @@ related:
     provider:
       name: The Gazette
       domain: gazette.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/b/9c/b9cc95fa-d825-11ee-8e75-b73da9c57223/65e2687fbb61b.image.png?crop=1912%2C1004%2C0%2C1&resize=1200%2C630&order=crop%2Cresize"
         width: 1200

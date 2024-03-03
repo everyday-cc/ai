@@ -35,20 +35,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Inside the rocky marriage of hedge funds and top AI talent"
-    excerpt: "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ..."
-    publishedDateTime: 2024-02-27T20:36:00Z
-    webUrl: "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/65dd05c16080194819fa500e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence: Preparing for the EU AI Act"
     excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
     publishedDateTime: 2024-02-28T23:59:00Z

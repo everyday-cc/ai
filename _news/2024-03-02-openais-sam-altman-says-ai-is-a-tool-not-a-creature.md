@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
 type: article
 quality: 87
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2718,w_4832,x_0,y_44/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709300246/2020-12-01T000000Z_1499439236_RC2IEK9HXXMC_RTRMADP_3_TESLA-MUSK-GERMANY_kj6zdo"
         width: 1480
         height: 833
-        isCached: true
-  - title: "New AI image generator is 8 times faster than OpenAI's best tool — and can run on cheap computers"
-    excerpt: "Scientists used \"knowledge distillation\" to condense Stable Diffusion XL into a much leaner, more efficient AI image generation model that can run on low-cost hardware."
-    publishedDateTime: 2024-02-27T21:20:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-koala-is-8-times-faster-than-openais-best-tool-and-can-run-on-cheap-computers"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cmLRharBJ78qYwgfNqYnKN-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "1ZJmx6Ua6KM9j4mwTWxK2jfpyAHI0JfPlgVklO29gD2ppLGrviCWLhEW+oxIIjD+1zA5mDXszaMLJ59UsdhElLKwc3tUV3ENvssULXtoWjdUJK7nTc1mUQGwh/183wJQfmCrks2q6AiMshsJBIHrh2pYVAKdHvn2/ricVbm5fjOMdg/2JvZKcv+jzq+yV1bwMbT7Fs8wg7h9nFLNcqnAg+kGOlmf3tg3qHncpBN6fTDQBlG2d0mGQVW7Dz20ych59HjX4jzK7DQY3GfPYeF05r0rCmqQnDsW+KATdpUK/AwUy45Okki9OBFLLDJxcCGBsomaDSpo6VdZsFoDc7BmUESpViWppfttrHex3epseD7nLv4FpinwmCee2EMn/A8reS7ZgAtqKXPd2ElkH/NyAUw+YZnaYld2zF/Lo33QPDxipD15UPQMg4FGISNuK+tCIGLxvRb4nyJglAdJQtJRvVonMg6JZ8HroGDgiUDjM/NXLOpxlCBFHxkTWVT/M/9wHOGFzdMkAWrppvcer/o+Fw==;i7ypg06Ua+5iGoxZ78ZZOg=="

@@ -95,20 +95,6 @@ related:
         width: 1480
         height: 833
         isCached: true
-  - title: "New AI image generator is 8 times faster than OpenAI's best tool — and can run on cheap computers"
-    excerpt: "Scientists used \"knowledge distillation\" to condense Stable Diffusion XL into a much leaner, more efficient AI image generation model that can run on low-cost hardware."
-    publishedDateTime: 2024-02-27T21:20:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/new-ai-image-generator-koala-is-8-times-faster-than-openais-best-tool-and-can-run-on-cheap-computers"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cmLRharBJ78qYwgfNqYnKN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "w47CgGIwdWScOPoUGdpAQavYTiosJafPq2XfyHkSpUTKi3B5Td4/N691IUE7WtnWKxvD1101zErslrSOg6XO0R49XzmyzsMhtmpz48kA/fLOS6YlOQtVT5r9hUNra4UOcaz5HbyKLaaRLv4aRVlcGRaoBjsIurGuyJhA4lwRZpO3eyfATookmaAbOfMr+IIOBbqjH54zGS67jxTTUXebobW45K0nWg8Hpbb5nHNB0U31fUt0Uw2Hpn2U2hxS0eOdXFkkl/nM1yUbJ+KANrhM6w6PZu2ElIA89CpaL1O6RK25hQbWF6L2gaUr49Cf9lpXeuvtK1/tanavNS+awiLkYxrGZpH46/Lkj18Lup4iQBl3fiIrEOiE2rGuB6t/CY+XuHaQK0nObeGoCxoM0zEy4NnrHlAGoUK9o8gfGrUHjgKTv0X74k+eg9rttH5wQan+M9PXy6d/7ifuykUu/srrABar/KJWfLEfUnQNfxUtJTghWww/00fSluvtQLV/041WaAhIVv+/ITstwqFeAwtlWQ==;piufFx3XWc8Q8izg5gp4bA=="
 ---

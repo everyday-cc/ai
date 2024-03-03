@@ -108,6 +108,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
+    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
+    publishedDateTime: 2024-02-29T23:14:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 83
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-01T14:57:00Z
@@ -344,20 +360,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
-    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
-    publishedDateTime: 2024-02-29T14:42:00Z
-    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Companies team up to put artificial intelligence systems in humanoid robots"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-01T01:31:00Z
@@ -385,6 +387,15 @@ related:
       name: ABC News
       domain: abcnews.go.com
     quality: 29
+  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
+    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
+    publishedDateTime: 2024-02-29T14:42:00Z
+    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 23
 
 secured: "JgZauf2WSRI2r2yflo8sE8xgOwH6upAr7hzyxEY76MkURFeWqfTSVdoyPLQX2TJM8jbVyaMlzeVma0L05ktaiJDdkk3B8s2VZi5hPJYEUbH+l7FVo8LsB64mPVKrMMDAbWkgmfmVjNaNn0UEfQduA6lzO5LXG5jJWy4YAWBdj5sNQSHitD7fBukZ10UkPjdkHXatNAXMUWHdVaJ147QDPE4QP3cyLL4XNXGpnumL+h6piniYV+6t8J/XqLai29LiZoSkOyyKavohDXvDpYeDq8Jkv1AYlMp7OW/HrORv4CdMPGZ+z9vOFBaN2XJy+mSmOrDAP1CzmxnEvodZf7Vsf6pzBLacqh5+HgtD9do1p7R7pa6RBHcBKcRv9MdQ1aUKfnYv6S7zIm1Xsa78g+XZ3MZd3ixP/abuD+ipj8R3ryP9q9FSIdjGOMJJfRxp4DAWIPz5w5sFW0pFQB5ZER6+Uf54AvkS94E6PXDe2U73N/hpTmALfZTjsm11AZdSYLmGFeYP9FkIRWVRjxX542e5Vw==;VYxK8mmWzIXm3cQrLEP9zg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-29T14:42:00Z
 originalUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
 webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83"
-    width: 1200
-    height: 801
-    isCached: true
 
 related:
   - title: "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker"
@@ -112,6 +106,22 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/8c70e7441196b7a02e364701b80a4efc"
         width: 800
         height: 533
+        isCached: true
+  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
+    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
+    publishedDateTime: 2024-02-29T23:14:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 83
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
@@ -386,6 +396,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "r/tWlmTdu+yx+ET6bOUYudSMv460FMOZqwLgz4eXiy9K4i7od+l4cx5Hjr+PG/D84KICGt2opj/4B84v3/lZbSM1yGYuwHnq5eKnTctRGlvf2X5zIOaOueoXT+cjQuRetFPsKczPQQGcFW0s3Ks+dFNAlvXPcCs827q/N42fGMKbCA3rZVYO1UTDtJYQZsfHXUuC3ACPJ+SW3oE41MSA5eyW/h8cylrbItX4vdAadPKpn0nOtd1qySVq6fmacILAeW7lVygpcJ0JoUeG1/vr13o+lK0jPtrwqY9fxhliOdFCduAMXj//Y7v4dBxBoUkZlJXRtQVIkR+QeuilAE96r+m2Yme1p16TfLCa1Efb/Cs=;69Ofus6y6cs7LEPcZXIUqQ=="
+secured: "QpEynt4JoA/f4rZg27HEwMuh2GXlM2I9GF/ZH6VG6obSqzSviPi6gPLCIRwshxL5QbH93iTctS6jWo0fJgdct7t9PguzFz44TsehXj1xIlXL8vjiLZyMIXziPQDYR6eu4FseGj191R/WMQddDzJ6KcMF+NPNOB7J6bRNJLjauq2zuOdV/Q/oh1Y51DuTgt8p5K0HmO6O3qwHbkLBXwjqG8sCwHLDKLfqRK7l/6Sdcu3xgaUP8m0xWh65uLOKBGOMbZ4+vo6yq5LnrzsEfAOR1IbCQ/hod/MJOqd3d/frsljgwALl72UWQSsy0QiEn/eb2IFdh9BSF9//n+rDb6vHYwcWR5b0x+1qhQmsns+nwgk=;HG+UKqsDDwLkmhi5ETAEaQ=="
 ---
 

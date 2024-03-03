@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Your next Samsung Galaxy phone could have Face ID-beating facial recognition tech if Metalenz's claims hold up"
+    excerpt: "The future of ultra-secure facial recognition may finally be coming to Android phones thanks to Metalenz, a technology company that's focused on a quantum-level, bleeding-edge imaging technique."
+    publishedDateTime: 2024-02-28T00:00:00Z
+    webUrl: "https://www.techradar.com/phones/your-next-samsung-galaxy-phone-could-have-face-id-beating-facial-recognition-tech-if-metalenzs-claims-hold-up"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/L4mk6HCQx2a9thARWotFqL-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Complaints filed with privacy commissioner over facial recognition vending machines"
     excerpt: "Two complaints have been filed with the Office of the Information and Privacy Commissioner of Ontario over facial recognition software in smart vending machines on ..."
     publishedDateTime: 2024-02-29T23:28:00Z

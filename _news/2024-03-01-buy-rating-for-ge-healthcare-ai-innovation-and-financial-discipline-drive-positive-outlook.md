@@ -52,20 +52,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "AMA Report Outlines Considerations for AI Integration in Healthcare"
-    excerpt: "The Emerging Landscape of Augmented Intelligence in Health Care” report provides an overview of risks and opportunities for clinicians looking to adopt AI."
-    publishedDateTime: 2024-02-27T21:22:00Z
-    webUrl: "https://healthitanalytics.com/news/ama-report-outlines-considerations-for-ai-integration-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
     excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
     publishedDateTime: 2024-02-28T10:31:00Z
@@ -75,29 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
-    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
-    publishedDateTime: 2024-02-28T14:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Where AI shines in healthcare"
-    excerpt: "Several major health systems have added AI-assisted colonoscopy devices, such as Iterative Health's Skout and Medtronic's GI Genius, in the last two years. Computer-assisted colonoscopy methods could lead to a 55% decrease in the miss rate of adenomas."
-    publishedDateTime: 2024-02-27T20:38:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/where-ai-shines-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 34
 
 secured: "icwufDMF5H0VJEMOIiItAQ3Mkft2ROUK+oF4k8duGp+b7EJ47EMeMweRYDbb0PWXvkss2HqybgYmA9FSrhoIMNCh8vHBWx+vlmCMdffV7y92M1599GvDT0XhU9As/1kmF2uZfYbxsUas9JRhF1uI1j9ijVDouQDEaCw+Ko1+3gKfGmw88CowXv4DtLr7X9YK1Pnp+gOliEB57IrkvR/ydIPKQROBnoIeiBreZra0KQxn170Nte2WVsm0xKuOjzXEa1WhA4JS0337HcfICwYyCpM0L7QjFF6KTRtscgpMurTwBvNOszohHmhz8Om4Sxc+qgWEO7cJKa4PZ1f5OkmnXBRtcsTy+8Y/cAQMiatEXAY=;bLc9M8VLTM8qCHx0j1mmcQ=="
 ---

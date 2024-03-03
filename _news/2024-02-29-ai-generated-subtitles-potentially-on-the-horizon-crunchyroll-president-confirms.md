@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/302157/20240228/ai-generated-
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302157/20240228/ai-generated-subtitles-potentially-horizon-crunchyroll-president-confirms.htm"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen"
+    excerpt: "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 66
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "v7cQlUc3nrpAU45gHZKvpyyAG7vsLZLi7FK1E+mTIn+xaHyDizW5dsh2c4iqSvi/RJcWdtYmxaFSMTpgclK/RmyymW3bBGq+mzSS66kKtbfMbEGKwiBFQrisT165wesd3vxIoNYxIS2X61WmWVrZf84hVinkP0TC/arMtVqNLAFQpvK52So6NEey75MnrefIMc0faWJB/XQpbibvxtNoxK3a6+ahrsUS3PrXYYMvfpEKs4TBXw6Xgjc6uQVpEnzJluFrUtkxqKaBRPglQ6KcDu9143MxIl86nkzEyFPfYDXsq9gfU0Z+2BNVHxa6xk7D7+mt6y4IfMjD1UPAjqs21amiLLZK/2ZIT4SWB3jO4WCQsvL5mcjDx9sr4hRyXOu7qAdWeYQTTVsubcC1jqovmVxju70aZIC7vGeo/OCwyTb/Z4XdOkTh0i/rbGa8UrQB7QUsBu//dji8zZMWkkDAz+j3AKUu5h3ku2uaU8u8/8bctvrLdAqCOjUOqlgEqGkEUKbLVL4uBLKmkoQm39rK8w==;Nei7/Bh44bnl30j9V+bCUA=="
 ---

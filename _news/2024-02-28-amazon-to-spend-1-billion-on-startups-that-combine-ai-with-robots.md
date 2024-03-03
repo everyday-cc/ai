@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
-excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
-publishedDateTime: 2024-02-28T06:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+excerpt: "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network."
+publishedDateTime: 2024-02-28T14:48:00Z
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
-quality: 64
-heat: 74
+quality: 84
+heat: 114
 published: true
 
 provider:
@@ -22,17 +22,51 @@ topics:
   - AI in Robotics
   - AI
 
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
+    width: 760
+    height: 380
+    isCached: true
+
 related:
-  - title: "Startup Ideogram Raises $80 Million for AI Image Generation"
-    excerpt: "Ideogram, a company developing artificial intelligence image generation technology, is raising $80 million from investors — a large round for a startup that’s less than two years old. The Toronto-based startup is set to announce its Series A funding ..."
-    publishedDateTime: 2024-02-28T16:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-28/startup-ideogram-raises-80-million-for-ai-image-generation"
+  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
+    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
+    publishedDateTime: 2024-02-28T14:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 47
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
+    excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
+    publishedDateTime: 2024-03-01T21:40:00Z
+    webUrl: "https://www.inc.com/sam-blum/elon-musk-wants-billions-to-fund-his-secretive-ai-startup-xai.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/elon-musk-inc-1948569318_538043_ndfgft.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "VeriSilicon NPU IP is Shipped in Over 100 Million AI-Enabled Chips Worldwide"
+    excerpt: "VeriSilicon (688521.SH) today announced that it has reached a milestone achievement with its Neural Network Processor (NPU) IP integrated into over 100 million AI-enabled chips across 10 major application sectors worldwide, including Internet of Things ..."
+    publishedDateTime: 2024-02-28T01:11:00Z
+    webUrl: "https://www.afp.com/en/news/1315/verisilicon-npu-ip-shipped-over-100-million-ai-enabled-chips-worldwide-202402283526521"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 31
 
-secured: "8R2oq1eUaO6l6y6RAqx82PWihTNbeoVTUmvVNsjDS12YTQo5+GybUA2k6f9QTw4aR/y5AgJwHYycL+b/AlWh5yRNUIWONAClV3b2jKmpJYWaiIWD4hvvVOT4dhKvTnU8DjC7K3E/t0BLr3XqMP6n+0PKLJtU4Kl7c6xw5iAMEy3r65fOhlh099ww5vbXFQsM7T1CReqPuUJJ/r9ApARNJ8+7Avyqf0xyEccsFNV+Z6CPuxeVfgpdDwSQszBTSj0oChwDbxAKwWPwXmHJCHUgpIGINi7QlVqlZcgV1i2m5pFCV3l1iU4LvQGOCzMtyBuUAjkSAmUOwW1U/16HZcMYDDQgejjcGBpwMNDxl5mRO0gJAzAtvlgaFIlynYvFpCu2y6WB3zLQdu4qgS/R+Mnj47twZKi4fJ7IKTbwpiX97WrYjxD1mw8VnKL+mOgdGmUsw3rFB/FkRRu3pQBLTSkU+OI8Rb70YIBwggKolYiSebfn2JhSvIGTzPYpI7EIEx75zwXpNpnr5PL23Oqru2s0Zw==;96NwJjPndGW1e1FoOZpTuQ=="
+secured: "EZ3HvGVFYUlXd3Z6zXW9XK+1ejcZacJ6qatpQfQ2bcl9pwYs+Oe9OyciMQDA0AA4W45LZIij2zL6ACdDXqCvMguUmNR/YAT8I0lMMka4D4AxEkseaseWaNAb5loxZQR8htdrZNMco+CIwNmga4nPllAMbgg7PGCWeVAI+iqrSlhnHfVKAh3g70vKoNooqNW44Y8pCZ03FZOWMXUzOT6XKcQnz+as8Y8AvdtyNOr7+zdCyv/3vSIR3qLAZPyAQNhtuukkIDhgdITKzSYdk9wm1EoQ+QFBAMkGQiCENLMx7S7qiE1eR1nziJVsqu37h+gWTWnuos8VKdJt7RM+WDOglCft/wbq6Scc4JwqDDpZ21w=;mj+P0VORGm1jbUlDHouMrQ=="
 ---
 

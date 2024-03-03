@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-02T12:30:00Z
 originalUrl: "https://gazette.com/news/local/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
 webUrl: "https://gazette.com/news/local/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/b/9c/b9cc95fa-d825-11ee-8e75-b73da9c57223/65e2687fbb61b.image.png?crop=1912%2C1004%2C0%2C1&resize=1200%2C630&order=crop%2Cresize"
@@ -53,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Oh+viBAGherDhMdXxbFTx4miMvJUv3pehljAxnrIuuiVwU+r3+XlVeMTI+v0ReTR7gA8O/pM18BXVcswZPKT7GiMZ75MHTb6AXI4LmPsfyh0yyYGNlzcSDmsTYmt3ZKXFJUYb+Jh5I+oNXw1FuuGoDjiq6tI5T6Hw4rRm+mF5qt/sdff9PnGxETlT2GV1vbsHGLg9d6SNDpnRO+ohJfdQvZAD6NFAascQFsC+keQXr9z+EkobSNTyZt/c/eeEkIpgVEBZkc5Qi3c0Ss/+Y0MiSVohGZsJdgQaj7hcRdArlc7WZuwCfrIShHjz6PkO4MDaiwg4i7AyXDVf1ddxGyxXMXXbG5tA4fCiV8Mhi0toGc=;BYfdSBEh1xK1mZHOsOrabQ=="
+secured: "4+PFNGrU/A7XsY8jPqLHrAcuVbEPpjexB8tS5SLgpiNDtP2w2ffnwrAQ4ztLCKg9cRtcjL4Q8rVQFV/CD+bXnGxfCs47H41XCRo8PBmvvnYsGqMT9W0gPRwXQh8DyY4jhMug8l3mx14G/RgIL45ZpNoR91lxOnWFBQlf/isgPWwHF6eIPcsxomPH765LVYcnJwkDZbi3oLrZA06YaXFHN3WxwnIdASew/khw010mZ76y+qZbYEN8GLjfJgecNkR9uIzKc4gdjFZC/E6hNMOU/JT9wV4amdb/N4ZG4Bt9W6JGhTj36/UJjETpz8pd8gUI0BEm/5Xw0RLz6+ydkzbRZjhg3iNeO3V/GEh7Tqfix/c3BPfUOhOxqHl3X6aeg/RQgJxNqCZ776SUL2X3mdUpSfOaH4L0XUf5SLD6GIXmDPubvxVrih1I4aFIPwowrVkYN5ekA7ttemUyG+ZP9nc/xdZBOcI8Q9E5kge4vRMf6d4mXrjJsP3AHjguylQdBb9ruueVZ3pzmaP6U/pYbeRrqA==;863HmLRIixOUAnwR5WV/KA=="
 ---
 

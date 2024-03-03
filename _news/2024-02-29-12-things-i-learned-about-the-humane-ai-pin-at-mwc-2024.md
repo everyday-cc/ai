@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-a
 webUrl: "https://bgr.com/tech/12-things-i-learned-about-the-humane-ai-pin-at-mwc-2024/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,42 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin"
-    excerpt: "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity."
-    publishedDateTime: 2024-02-27T19:12:00Z
-    webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
+  - title: "iFLYTEK: Generative AI Advances Showcased at MWC 2024"
+    excerpt: "a leading Chinese AI company known for its groundbreaking work in voice recognition and natural language processing. China has been an important spur for global economic growth, first powered by its manufacturing exports and more recently by its tech ..."
+    publishedDateTime: 2024-02-28T16:27:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61536928-iflytek-generative-ai-advances-showcased-at-mwc-2024-008.htm"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png"
-        width: 1400
-        height: 788
-        isCached: true
-  - title: "Qualcomm At MWC 2024: Spatial Computing, Loads Of AI And 5G/6G Demos"
-    excerpt: "Analyst Anshel Sag reviews the latest 5G, AI, spatial computing and automotive announcements from Qualcomm at Mobile World Congress Barcelona 2024."
-    publishedDateTime: 2024-02-29T12:57:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-mwc-2024-spatial-computing-loads-of-ai-and-5g6g-demos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
-    publishedDateTime: 2024-02-28T16:20:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/generative-ai-advances-showcased-at-mwc-2024-302074406.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg?p=facebook"
-        width: 1600
-        height: 838
+      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Generative AI Showcased at the 2024 MWC, with iFLYTEK Unveiling Its Innovative SparkDash"
+    excerpt: "iFLYTEK's SparkDash empowers businesses to quickly respond to market shifts with its immersive interactions and scenario-based design capabilities. The virtual assistant feature simplifies the process of querying business data, making it easier to undertake cross-departmental data comparisons and multi-metric analyses."
+    publishedDateTime: 2024-02-28T18:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9970069.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/2350384/image_1.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "ut2Rml50V5rH0MYsWgqndb5QGpd1g+lUMleME5AsSO8i1HBXRdAltbzVIpHnIo6LQztzTLTuJ/Dc5OeJlkcEsgB4RCaMJqvx/xnbyK12SsyJgrog2i4HJnmBypo9N9QOkLzm+S/TW41BBIK3HF+h2P0TWws0lvEzwaGeyigiCdyscAjAEWQ1Hqn3PmCZYSVxQP7bnfFxfkZFwQxhOfjrSck8Z53r30qdARelaqRSlyW1yJ621h53T5kTQhmJGzngi9eHmMKMsBJ4uPiIR7vapLlB720KvrgxSYsk7AkjpWmhvMU8CiRN770FO5iSZ6NqOg22AVcFB1r6yvMMckv7i6EqhUMNWGwFrkXAUDQAAJcq/1wes7IO8F9RmiBmMZHVcARImohKOn7UPiz1rPSgClt7wH2wDbxxAc0Og5ar3B1H0slK74ypIFcWvl+c9tvgktOwch32qydtQANAObWEAJA2k4j+bWOhlHKpDVKkCkJuXVYdljwwmQeCXZhBoHyxUUqWUqXkznSYt7ne3OAhBQ==;0hThZUAIt/kkPHlWPX9SYA=="

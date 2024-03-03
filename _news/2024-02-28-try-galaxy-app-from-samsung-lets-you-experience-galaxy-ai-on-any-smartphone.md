@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI"
-    excerpt: "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1."
-    publishedDateTime: 2024-02-27T22:45:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg"
-        width: 720
-        height: 540
-        isCached: true
   - title: "Will Samsung introduce Galaxy AI to budget phones?"
     excerpt: "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features."
     publishedDateTime: 2024-03-01T07:55:00Z

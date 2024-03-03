@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-part
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Zawya
@@ -27,21 +27,74 @@ images:
     isCached: true
 
 related:
-  - title: "du and AWS collaborate to accelerate cloud adoption in the UAE"
-    excerpt: "With a focus on data Internet of Things (IoT), artificial intelligence (AI), and machine learning (ML), du and AWS will provide industry-specific cloud solutions to enterprises and public sector organizations. Additionally, AWS will assist du in ..."
-    publishedDateTime: 2024-02-28T10:05:00Z
-    webUrl: "https://www.albawaba.com/business/pr/du-and-aws-collaborate-accelerate-cloud-adoption-uae-1555170"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-and-aws-collaborate-accelerate-cloud-adoption-uae-1555170"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-and-aws-collaborate-accelerate-cloud-adoption-uae-1555170"
+  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
+    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
+    publishedDateTime: 2024-02-29T06:50:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/du%20%26%20AWS%20-%20MWC%20Signing%20ceremony%202024.png?itok=yMaHDA3o"
-        width: 1005
-        height: 713
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
+    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
+    publishedDateTime: 2024-03-02T14:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1201
+        height: 900
+        isCached: true
+  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
+    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Why Citi is rolling out generative AI to all its developers"
+    excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
+    publishedDateTime: 2024-02-28T01:40:00Z
+    webUrl: "https://www.americanbanker.com/news/why-citi-is-rolling-out-generative-ai-to-all-its-developers"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/7bbe3eb/2147483647/strip/true/crop/3000x1575+0+204/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F07%2F775653d8444aa9c315818244d643%2F402523218.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Teachers learning ways to utilize artificial intelligence"
+    excerpt: "ROCHESTER, Minn. - Artificial intelligence is on the rise and an education forum held by the Southeast Service Cooperative aimed to help teachers navigate how to use AI in a"
+    publishedDateTime: 2024-02-29T01:15:00Z
+    webUrl: "https://www.kimt.com/news/teachers-learning-ways-to-utilize-artificial-intelligence/article_e4ef58c4-d6b0-11ee-b919-e3c02e2bbbef.html"
+    type: article
+    provider:
+      name: KIMT
+      domain: kimt.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/6/3d/63d76dd6-d6b9-11ee-a70f-c7d920fcfc59/65e00559ca8b8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "FqBffQGO8o/LkmE0J0O89QzFxso7WLxWFUdo6AgBgL9B9ciLldjLLLCAKIX8aFrmOSXe+OUQp9L9YB+/GgVFZnAZcH3FnmiaJbuo5YXyKpCXJa49rlOKcr65bs8DGeSyLhmCsbrwCNvhmPpud0XpuoEi5YGrxhqmGsij0w+qiyGDHz4AWvPUd8oWjmhV9+nZzSZ+dYmJ7Ph66jZTLc6PZwc4c/mqKKna3JSfKpGZdv75Idlvla9lbtJB837E5ZVGMHelgFOFVOdr0olUNtxUcud2Onw7ON3+T3BCC5emo13X7yeVeIVRq399UShDIxHUnih/W2zgG5vGji+2sZVC5ngWIYW0mgiG201UJH6wCflkUzWQ/Oxh0p8nq/YQzTLEO44hkeue2Vh/kLhkfHGGePiYHZDb4qxCCow7YCxmbGwHIZfy/b6KnORqLeNnjc+xwP+xQNc+OTgTGqM6doNRb6cllpTmrMnikaKvRpTeUgI0LB3ofiUPB5Nl8z8/UUpAce8XBadwgP9n/GVaRf95qA==;E22PIwUoq1haLvtuoTqCtg=="

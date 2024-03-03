@@ -103,6 +103,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
+    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
+    publishedDateTime: 2024-02-29T23:14:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 83
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-01T14:57:00Z
@@ -339,20 +355,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
-    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
-    publishedDateTime: 2024-02-29T14:42:00Z
-    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Bay Area robotics startup Figure AI quintuples funding with $675 million from OpenAI, Nvidia, Jeff Bezos"
     excerpt: "Initially bootstrapped by founder and CEO Brett Adcock, Figure AI now has major backers including OpenAI, Nvidia, Microsoft and Jeff Bezos. It also has a deal with BMW."
     publishedDateTime: 2024-02-29T15:48:00Z
@@ -389,6 +391,15 @@ related:
       name: ABC News
       domain: abcnews.go.com
     quality: 29
+  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
+    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
+    publishedDateTime: 2024-02-29T14:42:00Z
+    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 23
 
 secured: "jCEy5vaKFuKDY7r9xA//FepMOe7coqCfZUYXu58l6/QRsDXdgZ2XnSME7LuZ1bASXLhegDMXUkbZkxYe/LLo2EbhxH03PLc2Izuj/gvSdb1oj+9fV+R/nt8iLUyIJxPTS5AOkIZOJfY1z9ztBcfQqEYWlnO+CGdJw5zswuNhat3ajGgEFsnhwsh01sfPpbrFLtfcNR/Br6jDvkrHCuzoYCnkwYYmK0mWrfdri3q0RUed2HQFL0Kr7ZrDxQN1TZAispN33N1yckq64IEuc3AFygb9ZZrWuqUMmCudr7qV5U7xYtCi0t8dbnru0nlsGT82oEi0F9xH0EHQqXmR/4zqWuV//c2lw9zfN790r8WlJnUWLm6QIioYI8kp/CqE0hlbStx4/IizQlJOgivhCL8AClubmRxp9RjPWDVo6iVTD57tO2lClOZLx5df5Zic68erAXx697BNynrntl/Q+cS+bf2plY3CIzANguo1BPwKIaTicaAwHQd0lpIS3sD3FmxdlcEmLk/lZxlPfAB7Q9MLYQ==;nhhtRl6KVr9niNJ1eA2LgA=="
 ---

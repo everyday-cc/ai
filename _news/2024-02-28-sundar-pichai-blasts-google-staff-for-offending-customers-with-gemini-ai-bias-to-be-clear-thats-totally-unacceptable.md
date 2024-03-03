@@ -226,20 +226,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 26
-  - title: "Does Gemini completely replace Google Assistant?"
-    excerpt: "If Google is going to replace Assistant with Gemini, we’re in for a very long transition where Assistant on every form factor has to be painstakingly replicated while making sure feature parity is maintained. Even the entirely optional migration on phones is pretty rough, and that doesn’t make for a promising start."
-    publishedDateTime: 2024-02-27T21:59:00Z
-    webUrl: "https://9to5google.com/2024/02/27/google-assistant-gemini-replacement/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/the-gemini-era.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
     excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
     publishedDateTime: 2024-02-28T04:28:00Z
