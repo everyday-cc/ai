@@ -1,39 +1,40 @@
 ---
 category: news
-title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
-excerpt: "Artificial intelligence (AI) has emerged as the next big growth opportunity for investors. Bloomberg estimates that the generative AI market, which was worth $40 billion in 2022, could generate a whopping $1.3 trillion of annual revenue in 2032."
-publishedDateTime: 2024-03-02T10:07:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
-webUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
+title: "Driving with Artificial Intelligence (AI) to Survive"
+excerpt: "AI is set to penetrate into mobility with higher levels of autonomous driving technologies currently under development."
+publishedDateTime: 2024-03-03T03:58:00Z
+originalUrl: "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/"
+webUrl: "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/"
+ampWebUrl: "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/"
 type: article
-quality: 62
-heat: -1
-published: false
+quality: 72
+heat: 112
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI
 
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Wipro-AI.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
-  - title: "Driving with Artificial Intelligence (AI) to Survive"
-    excerpt: "AI is set to penetrate into mobility with higher levels of autonomous driving technologies currently under development."
-    publishedDateTime: 2024-03-03T03:58:00Z
-    webUrl: "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/"
-    ampWebUrl: "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/"
+  - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
+    excerpt: "Artificial intelligence (AI) has emerged as the next big growth opportunity for investors. Bloomberg estimates that the generative AI market, which was worth $40 billion in 2022, could generate a whopping $1.3 trillion of annual revenue in 2032."
+    publishedDateTime: 2024-03-02T10:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 72
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Wipro-AI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
   - title: "3 Artificial Intelligence (AI) Stocks With More Potential Than Any Cryptocurrency"
     excerpt: "While that growth is significant, it pales in comparison to the artificial intelligence (AI) market's CAGR of 37% for the rest of the decade and its value of $137 billion. Excitement over cryptocurrency faltered in recent years as volatility has caused ..."
     publishedDateTime: 2024-03-01T11:00:00Z
@@ -67,6 +68,6 @@ related:
       domain: theglobeandmail.com
     quality: 32
 
-secured: "OIkc4bbFkeOGwXvh6YABaVjVEYP/emEKKi+b06NpkG6QLbEI2I10K8imAH8Med06P3dVhRw/kikP+m7VajzYQz08rFKUTSrdttzq8tTWbb2OTa5/E3XOY30789IFveCIH1hCDnN2V9qRCAHljYKJwsrErkjEDu3JEVWnDK+yMzfcPSDX1O/qP8dgIV5Drv8uFG+wI91mn9slEHTIAlA652b0z9X01vrVLipzv+bHPH6isx/2Wb9+jnfRptN3yLEW8xg/GPPQuNa309dY2lJJ/z5XbD4Bu02MpYibtovVdwMwGulsOiLgYwxxPKVEftzwzk/yLTQpAJUBcnpj/YSwPt8vhp+ntHy1U1UjxYbDsJEYVmuhNHQ6XCfW0vdCnVIiJgr14qGDyA67iCPyjXwL8BGLRX+3tUVRH37BCRqxLwMyC7we8FxvdNZvsRW7zFcJekHcrFq/M/0lGAyr+8AOCZmrxkvhfjNR4pF+q5XEOF0rKR+gse5L9//IUmeQ+/JbL97Bfo0UJ+b1bXZI2sazbA==;sD0Mzkf5vC8c0rHu0MiThw=="
+secured: "hWSSZri71ekv8eq1YewexnHzB1C5BGUImFJVKMg+rdizP+2b/vddDkFiiCEI1SzNakQx2moh5X7JlDkFcqGaWA3I//kTnoCwwjnLR45S21HTiF97YOKmbAaGTX1YJ85ewnAyIOli4VUqVQUhPOddgFaZnvyieNwWQxzakf7nAS0H+5CbTIzVIDx8TrdH9OFNhIwMk4w2jOL2FvB8tYUvspEMUice6v0fa3Lx5uwff8xPD8cAdtareBOudANr2PR9pOg6chQfCz4sYhf8oQwmvJ2/CjZoXBX18FtWbIbc0/LKQRIx2P4jlGDAuXyt8Zwfm3UPXlLZa1RceKfbG8mbV77GCF4H893qAdDnVQP9MRk=;Qyx3gEX92V3uR0+6kjd9pg=="
 ---
 

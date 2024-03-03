@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2024-02-03-10-surgical-robotics-companies-to-follow-in-2024.md",
+      "title": "10 surgical robotics companies to follow in 2024",
+      "excerpt": "Here is a list of 10 surgical robotics companies that continue to attract attention from our editors and audience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "originalUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai.md",
       "title": "To benefit all, diverse voices must take part in leading the growth and regulation of AI",
       "excerpt": "As AI’s presence in our lives increases, so does the number of diverse founders leveraging it to develop positive, socially impactful services and products.",
@@ -1102,49 +1136,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-02T15:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-roboxchange-examines-real-world-operational-challenges-and-new-brains-for-robots.md",
-      "title": "RoboXchange examines real-world operational challenges and new brains for robots",
-      "excerpt": "At the first MassRobotics RoboXchange, Locus Robotics shared tips on warehouse challenges, and Opteran showed a new navigational approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
-      "originalUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/IMG_0053.jpg",
-          "width": 770,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T15:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",

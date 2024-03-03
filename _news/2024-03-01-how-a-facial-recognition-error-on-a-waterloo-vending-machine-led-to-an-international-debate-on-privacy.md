@@ -103,20 +103,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Big Candy Is Watching You: Facial Recognition In Vending Machines Upsets University"
-    excerpt: "The good news is that this probably doesn’t mean that facial recognition and similar personalized information is stored (or sent to the big vaporous mainframe) as this would violate the GDPR and similar data privacy laws, but there is precedence of ..."
-    publishedDateTime: 2024-02-27T04:30:00Z
-    webUrl: "https://hackaday.com/2024/02/27/big-candy-is-watching-you-facial-recognition-in-vending-machines-upsets-university/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 33
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2024/02/invenda_vending_machine_facial_recognition_error.jpg"
-        width: 1080
-        height: 611
-        isCached: true
   - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
     excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."
     publishedDateTime: 2024-02-28T00:04:00Z
@@ -130,20 +116,6 @@ related:
       - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2024/02/header-waterloo-shutterstock-sized-scaled-1.jpeg"
         width: 2560
         height: 1438
-        isCached: true
-  - title: "A Vending Machine in A Canada-based University Was Secretly Stealing Student’s Facial Recognition Data"
-    excerpt: "Students of the Canada-based University of Waterloo were outraged after they found that the vending machines in their university were secretly stealing their facial recognition data. The incident came to light when a student from the university ..."
-    publishedDateTime: 2024-02-27T03:27:00Z
-    webUrl: "https://techreport.com/news/a-vending-machine-in-a-canada-based-university-was-secretly-stealing-students-facial-recognition-data/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 23
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg?_t=1709033265"
-        width: 2048
-        height: 1366
         isCached: true
 
 secured: "hXAJ1F7yxTtmKxB6On7yaxArq3uxuphLIGOm3t41F0MmpRtZH02HAQ3LtPb9EwwsYmigkq0iHwmzYYmqHVHXxIvvNeIEauiUX5E2xTaniV+PpvmzcyngZT8kB/lxt/3wxT0UnW9XDcNjjEJpE4GQMLpMUzi9hiwiYRi+O/uz/fI/mqSVBIV/LhiRxBq1n1YKjNWqOAWcXWDI0fLzAuAsipAXQZ3G2eCBw3oFufgaaw/AnRK+ymELl1K0/oVU+HcMYrcUoT3SrZV/GOr31mIPnaj663+euosgH4rB3T23DK2w658ES3x3jlyFbVOU6cMuyIhZkKds6+zdSHLLuO1hOlud8pbUIx0aI+UtpRW62TIh3Ng6IVcfX+xEIIknPFTzfYpwn2NGh8FQrDwt8DQGs3bpvQ51nki1Yw2PjAQAvCcNZg79UdnrJIft9a3L4gVYcw6fD0SKqCQCjYI/ZYTSKWUf7bdH2wjsi3Q105C6nZbJzAZV7QRvoRcwoWM3YBM5o5IlPau5hAG1R2hsrKog3Q==;FU2HHtH45n8sqFEfndwqKg=="

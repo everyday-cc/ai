@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-12-03-tesla-showcases-advanced-self-driving-technology-in-ai-hiring-announcement.md",
+      "title": "Tesla showcases advanced self-driving technology in AI hiring announcement",
+      "excerpt": "Tesla is showcasing its Full Self-Driving (FSD) beta and recruiting for its AI team. The company is seeking AI Research Scientists to work on next-generation autonomy and end-to-end models using massive fleet data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/12697/Tesla-showcases-advanced-self-driving-technology-in-AI-hiring-announcement",
+      "originalUrl": "https://www.futurecar.com/12697/Tesla-showcases-advanced-self-driving-technology-in-AI-hiring-announcement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202312/03/l_656c8090d0abb.",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-03T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-03-turner-says-us-is-exercising-caution-in-sharing-intelligence-with-israel.md",
       "title": "Turner says US is exercising caution in sharing intelligence with Israel",
       "excerpt": "House Intelligence Committee Chair Mike Turner (R-Ohio) said Sunday the United States is helping Israel’s intelligence community track down Hamas leaders but is being selective about what ...",
@@ -1006,49 +1049,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations.md",
-      "title": "Unveiling AWS’ AI frontier: A deep dive into the three-layer stack and other innovations",
-      "excerpt": "Artificial intelligence is running at such a speed that companies not keeping pace are immediately left behind. Compared to other players, such as OpenAI Inc. and Microsoft Corp., there’s been a long-held notion that Amazon Web Services Inc. is behind the AI innovation curve.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "originalUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Bratin-clean.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

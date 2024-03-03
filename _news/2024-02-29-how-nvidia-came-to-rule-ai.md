@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/gadget-lab-podcast-634/"
 webUrl: "https://www.wired.com/story/gadget-lab-podcast-634/"
 type: article
 quality: 67
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
     quality: 61
     images:
       - url: "https://static.tweaktown.com/news/9/6/96505_6003_nvidia-ai-gpu-customers-offloading-chips-selling-hard-to-buy-excess-hardware_full.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "India’s digital public infra to lay basis for sovereign AI, says Nvidia senior VP"
-    excerpt: "Similar to DPI, Sovereign AI can help the government focus on real-life use cases in healthcare, agriculture, governance, language translation, etc. to maximise economic development. “From Nvidia’s perspective, what is important is the growth and ..."
-    publishedDateTime: 2024-02-27T04:32:00Z
-    webUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/"
-    ampWebUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 54
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
         width: 1200
         height: 675
         isCached: true

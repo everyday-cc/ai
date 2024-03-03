@@ -2,6 +2,40 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-12-06-adastra-launches-ai-innovation-centre-to-accelerate-ai-solution-development-and-adoption.md",
+      "title": "Adastra Launches AI Innovation Centre to Accelerate AI Solution Development and Adoption",
+      "excerpt": "With Adastra’s AI solution expertise, combined with Azure AI, Adastra strives to help organizations innovate and re-imagine business operations. With the power of Azure OpenAI Service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
+      "originalUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T07:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-half-of-university-students-are-scared-their-jobs-will-be-under-threat-from-ai.md",
       "title": "Half of university students are scared their jobs will be under threat from AI",
       "excerpt": "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned.",
@@ -1061,50 +1095,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024.md",
-      "title": "What ChatGPT got wrong about top 5 fintech trends of 2024",
-      "excerpt": "I’ve received dozens of 2024 fintech trends prediction pitches in my email inbox over the past month. And while many of them are insightful, I wanted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
-      "originalUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cuinsight.com/wp-content/uploads/2023/05/bigstock-System-Artificial-Intelligence-468970227.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CUInsight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

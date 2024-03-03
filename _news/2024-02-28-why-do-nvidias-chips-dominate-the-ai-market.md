@@ -76,22 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "India’s digital public infra to lay basis for sovereign AI, says Nvidia senior VP"
-    excerpt: "Similar to DPI, Sovereign AI can help the government focus on real-life use cases in healthcare, agriculture, governance, language translation, etc. to maximise economic development. “From Nvidia’s perspective, what is important is the growth and ..."
-    publishedDateTime: 2024-02-27T04:32:00Z
-    webUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/"
-    ampWebUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 54
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Wall Street hunts for more AI gold after Nvidia’s soaring rally"
     excerpt: "It has also spurred Wall Street to search for other AI-focused companies in hopes of catching outsized moves. Whether investors are looking at the broader chip industry or betting on firms elsewhere in the value chain, they agree on one thing: AI is here ..."
     publishedDateTime: 2024-03-01T00:00:00Z

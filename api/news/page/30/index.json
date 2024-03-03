@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2024-02-09-an-oscar-for-best-casting-is-set-for-2026-will-stunt-workers-and-voice-actors-be-next.md",
+      "title": "An Oscar for Best Casting Is Set for 2026 — Will Stunt Workers and Voice Actors Be Next?",
+      "excerpt": "Casting directors, often the unsung heroes of film production, rarely receive mainstream recognition. David Rubin ... But that hasn’t stopped people from pitching Oscars for best voice performances (despite worthy efforts by Eddie Murphy in “Shrek ...",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/#!",
+      "originalUrl": "https://variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://variety.com/wp-content/uploads/2024/02/Sarah-Finn-John-Wick-Her.jpg?w=1000&h=562&crop=1",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/amp/",
+      "publishedDateTime": "2024-02-08T21:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-baker-tillys-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error.md",
       "title": "Baker Tilly's Expertise in Forensic Investigation Using Data Science Helps Pharmacy Chain Uncover Pricing Error",
       "excerpt": "NORTHAMPTON, MA / ACCESSWIRE / February 8, 2024 / Baker TillyClient backgroundThe client is a regional pharmacy chain with 25 locations throughout three states.The business challengeAfter multiple mon",
@@ -1050,58 +1093,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile.md",
-      "title": "Google rebrands Bard to Gemini, now available for the first time in mobile",
-      "excerpt": "When Google Bard first launched almost a year ago, the AI-powered chatbot had some major flaws. Since then, it has grown significantly with two large language model (LLM) upgrades and several updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "originalUrl": "https://www.zdnet.com/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/167ca1b907ac7f8dce9a8ef2fbfafeaf1b98b2b8/2024/02/07/5374e91a-e8ae-4337-84ac-b9eb9c977453/screenshot-2024-02-07-at-5-08-13pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

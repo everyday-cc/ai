@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-16-openai-unveils-ai-that-instantly-generates-eye-popping-videos.md",
+      "title": "OpenAI Unveils A.I. That Instantly Generates Eye-Popping Videos",
+      "excerpt": "The start-up is sharing the new technology, called Sora, with a small group of early testers as it tries to understand the potential dangers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/15/autossell/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T18:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-hello-is-building-a-platform-toward-more-home-robots.md",
       "title": "Hello is building a platform toward more home robots",
       "excerpt": "Watching it cruise around a home in the demo videos brings to mind Nvidia’s line of reference ... But a one-to-one human to robot control scenario is not a sustainable one — particularly ...",
@@ -1080,40 +1132,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-derwent-investments-pte-ltd-derwent-investments-singapores-ai-fintech-sector-flourishes-amidst-shifting-investment-trends.md",
-      "title": "Derwent Investments Pte Ltd: Derwent Investments: Singapore's AI Fintech Sector Flourishes Amidst Shifting Investment Trends",
-      "excerpt": "SINGAPORE, SINGAPORE / ACCESSWIRE / February 15, 2024 / Derwent Investments, a leading Singapore-based Wealth Management firm, has released its analysis of the investment landscape in Singapore's fint",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61415666-derwent-investments-pte-ltd-derwent-investments-singapore-s-ai-fintech-sector-flourishes-amidst-shifting-investment-trends-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61415666-derwent-investments-pte-ltd-derwent-investments-singapore-s-ai-fintech-sector-flourishes-amidst-shifting-investment-trends-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T12:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

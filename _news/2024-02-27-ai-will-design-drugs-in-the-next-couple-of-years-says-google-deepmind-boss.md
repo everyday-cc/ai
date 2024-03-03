@@ -83,20 +83,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "DeepMind chief says Google’s bungled AI faces feature is returning soon"
-    excerpt: "Google plans to resume a paused artificial intelligence feature that generates images of people in the \"next couple of weeks,” according to the company’s top AI executive."
-    publishedDateTime: 2024-02-27T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/deepmind-chief-says-googles-bungled-ai-faces-feature-is-returning-soon"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2563892.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Google DeepMind’s new generative model makes Super Mario–like games from scratch"
     excerpt: "Genie learns how to control games by watching hours and hours of video. It could help train next-gen robots too."
     publishedDateTime: 2024-02-29T12:57:00Z

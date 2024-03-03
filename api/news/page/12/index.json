@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
+      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
+      "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
       "title": "A comprehensive list of 2023 & 2024 tech layoffs",
       "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
@@ -1215,49 +1268,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking.md",
-      "title": "Bugeja: Artificial intelligence poses many risks in public policymaking",
-      "excerpt": "For the past year the public has debated use of the artificial intelligence application ChatGPT composing student essays, passing law examinations and replacing jobs and professions. There are greater concerns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
-      "originalUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nwestiowa.com/content/tncms/assets/v3/editorial/5/f2/5f234756-df6d-11eb-9c27-9be52711bf84/62b9cd4a46974.image.jpg?resize=400%2C318",
-          "width": 400,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nwestiowa",
-        "domain": "nwestiowa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

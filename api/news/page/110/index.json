@@ -2,6 +2,40 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-11-29-fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics.md",
+      "title": "Fintech leading in AI adoption, need new AI legislation: Moody’s Analytics",
+      "excerpt": "As per the study, 18 per cent of fintech respondents are currently actively using AI, double than the 9 per cent respondents across all surveyed sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "publishedDateTime": "2023-11-29T14:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aerodyne-taps-aws-to-power-drone-platform.md",
       "title": "Aerodyne taps AWS to power drone platform",
       "excerpt": "“These are drones that have AI [artificial intelligence] at the edge that can ... to be escalated,” Muhamed said on the sidelines of AWS re:Invent 2023 in Las Vegas this week.",
@@ -1118,40 +1152,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-amazon-joins-the-artificial-intelligence-race-launches-q-ai-assistant.md",
-      "title": "Amazon Joins the Artificial Intelligence Race, Launches Q AI Assistant",
-      "excerpt": "Designed to streamline work, this AI chatbot offers tailored business solutions, automated coding assistance, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
-      "originalUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T06:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//beincrypto.com",
-        "domain": "beincrypto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/26/google-deepmind-genie-ai-creates-2d-playable-worlds_feature.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "DeepMind chief says Google’s bungled AI faces feature is returning soon"
-    excerpt: "Google plans to resume a paused artificial intelligence feature that generates images of people in the \"next couple of weeks,” according to the company’s top AI executive."
-    publishedDateTime: 2024-02-27T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/deepmind-chief-says-googles-bungled-ai-faces-feature-is-returning-soon"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2563892.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "AI will design drugs in the next couple of years, says Google Deepmind boss"
     excerpt: "The chief of Google DeepMind has said artificial intelligence (AI) could be designing drugs in clinics within the next couple of years. The chief executive of Google DeepMind has said artificial ..."

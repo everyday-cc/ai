@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-21-bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking.md",
+      "title": "Bugeja: Artificial intelligence poses many risks in public policymaking",
+      "excerpt": "For the past year the public has debated use of the artificial intelligence application ChatGPT composing student essays, passing law examinations and replacing jobs and professions. There are greater concerns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
+      "originalUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nwestiowa.com/content/tncms/assets/v3/editorial/5/f2/5f234756-df6d-11eb-9c27-9be52711bf84/62b9cd4a46974.image.jpg?resize=400%2C318",
+          "width": 400,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nwestiowa",
+        "domain": "nwestiowa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-how-this-ex-apple-guys-ai-glasses-invention-works.md",
       "title": "How this ex-Apple guy’s AI glasses invention works",
       "excerpt": "Here are some examples. Visual recognition: You can ask Frame glasses to identify any object, person or place that you see. For example, you can say, \"What is this?\" and Frame glasses will tell you what it is, how it works or where it comes from.",
@@ -1160,57 +1203,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-tokyo-startup-attuned-is-trying-to-use-ai-to-motivate-workers.md",
-      "title": "Tokyo startup Attuned is trying to use AI to motivate workers.",
-      "excerpt": "Over 27 million California residents are under flood watches. CNN meteorologist explains",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "originalUrl": "https://www.cnn.com/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/240221072734-exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2024/02/21/exp-attuned-ai-casey-wahl-intv-fst-022006pseg2-cnni-business.cnn",
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

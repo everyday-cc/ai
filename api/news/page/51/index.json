@@ -2,6 +2,40 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
+      "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
+      "excerpt": "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T14:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals.md",
       "title": "Google’s latest AI video generator renders implausible situations for cute animals",
       "excerpt": "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ...",
@@ -1096,49 +1130,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual-grammy-awards.md",
-      "title": "IBM Unveils AI Stories with watsonx to Enhance the Digital Fan Experience for 66th Annual GRAMMY Awards®",
-      "excerpt": "Using AI Stories, powered by IBM's AI and data platform watsonx, the Recording Academy editorial team will be able to expand its coverage of GRAMMY-nominated artists, ultimately creating a more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual/article_ea45f615-8634-5e49-b22c-8094befc0ee1.html",
-      "originalUrl": "https://www.victoriaadvocate.com/ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual/article_ea45f615-8634-5e49-b22c-8094befc0ee1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/3/30/330220a6-2ea5-5de8-9b4d-3b0537fda07c/65b1ee8a9c59d.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

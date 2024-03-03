@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2024-02-02-heres-what-vws-new-ai-company-will-focus-on.md",
+      "title": "Here’s What VW’s New AI Company Will Focus On",
+      "excerpt": "VW Group launches AI Lab that will identify new product ideas based on artificial intelligence that could be incorporated into cars. The new company will collaborate with the tech sector in Europe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/news/a46626200/volkswagen-artificial-intelligence-lab-incubator/",
+      "originalUrl": "https://www.autoweek.com/news/a46626200/volkswagen-artificial-intelligence-lab-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/newaicompany-65bd11e13a1f0.jpg?crop=1.00xw:0.893xh;0,0.0115xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-dynatrace-extends-unified-observability-to-generative-ai-apps.md",
       "title": "Dynatrace Extends Unified Observability To Generative AI Apps",
       "excerpt": "We need to make sure we look at AI functions to look at their provenance, observe their state and status, watch their behavior and scrutinize the validity of the decisions they take.",
@@ -1165,58 +1208,6 @@
       "type": "article",
       "ampWebUrl": "https://blog.google/technology/ai/google-imagen-2/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-imagen-2/amp/",
-      "publishedDateTime": "2024-02-01T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-try-imagefx-and-musicfx-our-newest-generative-ai-tools-in-labs.md",
-      "title": "Try ImageFX and MusicFX, our newest generative AI tools in Labs",
-      "excerpt": "ImageFX, MusicFX and TextFX help you bring your most creative ideas to life with Google’s latest AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/",
-      "originalUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_fx_hero_FLmAr3b.width-1300.png",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/amp/",
       "publishedDateTime": "2024-02-01T15:00:00Z",
       "updatedDateTime": null,
       "provider": {

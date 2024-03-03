@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "India’s digital public infra to lay basis for sovereign AI, says Nvidia senior VP"
-    excerpt: "Similar to DPI, Sovereign AI can help the government focus on real-life use cases in healthcare, agriculture, governance, language translation, etc. to maximise economic development. “From Nvidia’s perspective, what is important is the growth and ..."
-    publishedDateTime: 2024-02-27T04:32:00Z
-    webUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/"
-    ampWebUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 54
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why do Nvidia’s chips dominate the AI market?"
     excerpt: "But even building better hardware may not be enough. Nvidia dominates AI chipmaking because it offers the best chips, the best networking kit and the best software. Any competitor hoping to displace the semiconductor behemoth will need to beat it in all three areas. That will be a tall order. ■"
     publishedDateTime: 2024-02-27T16:07:00Z

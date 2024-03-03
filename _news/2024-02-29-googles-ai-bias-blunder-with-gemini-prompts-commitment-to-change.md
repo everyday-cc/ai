@@ -75,22 +75,6 @@ related:
         width: 7373
         height: 4918
         isCached: true
-  - title: "Google aims to relaunch Gemini AI image tool in a few weeks"
-    excerpt: "Bard was renamed Gemini earlier this month and Google rolled out paid subscription plans, which users could choose for better reasoning capabilities from the AI model."
-    publishedDateTime: 2024-02-27T04:27:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2024/02/Google-Gemini-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Android users, Google Gemini AI magic will soon be at your fingertips"
     excerpt: "Google has announced its intentions to integrate its advanced AI language models, dubbed Gemini, directly into Android smartphones starting in 2025."
     publishedDateTime: 2024-02-28T05:31:00Z

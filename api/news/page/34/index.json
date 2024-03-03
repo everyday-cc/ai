@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2024-02-06-kpmg-singapore-ai-fintech-funding-up-77-defies-global-slump-in-h2-2023.md",
+      "title": "KPMG: Singapore AI Fintech Funding Up 77%, Defies Global Slump in H2 2023",
+      "excerpt": "Despite the global downturn in fintech investments, Singapore's fintech sector had showed remarkable resilience.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/84690/funding/kpmg-singapore-ai-fintech-funding-up-77-defies-global-slump-in-h2-2023/",
+      "originalUrl": "https://fintechnews.sg/84690/funding/kpmg-singapore-ai-fintech-funding-up-77-defies-global-slump-in-h2-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechnews.sg/wp-content/uploads/2024/02/Singapore-Fintech-Weathers-Global-Downturn-Dominates-APAC-Fintech-Scene-.jpg",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T07:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-forget-nvidia-these-2-artificial-intelligence-ai-stocks-are-still-historically-cheap.md",
       "title": "Forget Nvidia: These 2 Artificial Intelligence (AI) Stocks Are Still Historically Cheap",
       "excerpt": "Artificial intelligence (AI) could add $15.7 trillion ... For now, Meta's social media sites are its bread and butter. Facebook, Instagram, WhatsApp, and Facebook Messenger are consistently ...",
@@ -1034,58 +1077,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-top-7-cyber-threat-hunting-tools-for-2024.md",
-      "title": "Top 7 Cyber Threat Hunting Tools for 2024",
-      "excerpt": "Leveraging unsupervised machine learning models, Carbon Black Endpoint can detect anomalies ... latest news and tips on the following topics and more, XaaS, AWS, Microsoft Azure, DevOps, virtualization, the hybrid cloud, and cloud security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/cyber-threat-hunting-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/cyber-threat-hunting-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_715754594.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

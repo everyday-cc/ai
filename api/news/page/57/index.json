@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2024-01-19-reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning.md",
+      "title": "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning",
+      "excerpt": "In this post, we demonstrate how to use neural architecture search (NAS) based structural pruning to compress a fine-tuned BERT model to improve model performance and reduce inference times. Pre-trained language models (PLMs) are undergoing rapid commercial and enterprise adoption in the areas of productivity",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/11/9-Comparison-Plot-1-803x630.png",
+          "width": 803,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T18:06:10Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-20-microsoft-releases-free-ai-choose-your-own-adventure-reading-coach.md",
       "title": "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach",
       "excerpt": "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things.",
@@ -1125,40 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-artificial-neural-network-ordinals.md",
-      "title": "Artificial Neural Network (Ordinals)",
-      "excerpt": "UK Inflation Rate Rises to 4.0% Dashing Hopes for BoE Rate Cut DiscussionsWed, 17 Jan 2024 07:26:19 GMT USD/JPY Forecast – US Dollar Looks Ready to Pull BackFri, 19 Jan 2024 15:11:22 GMT S&P 500 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
-      "originalUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T07:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXEmpire.com",
-        "domain": "fxempire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

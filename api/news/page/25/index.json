@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2024-02-13-cohere-for-ai-launches-open-source-llm-for-101-languages.md",
+      "title": "Cohere for AI launches open source LLM for 101 languages",
+      "excerpt": "Cohere For AI launched an open source LLM covering 101 languages — more than double the number covered by existing open source models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
+      "originalUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-21.26.49-A-creative-representation-of-a-large-language-model-that-covers-over-100-languages.-The-image-should-depict-a-futuristic-digital-brain-like-structure.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
       "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
       "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
@@ -1140,40 +1192,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops.md",
-      "title": "The Best Presidents' Day Roomba Deals at Amazon: Save Up to 50% on Robot Vacuums and Mops",
-      "excerpt": "Right now, highly-rated iRobot Roomba robot vacuums and Braava mops are up to 50% off at Amazon. There are even vacuum and mop bundles, including the Roomba i5 and the Roomba j7+, to tackle two chores at the same time. Some models have even been marked down to their lowest prices of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
-      "originalUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T23:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entertainment Tonight",
-        "domain": "etonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

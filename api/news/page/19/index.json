@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-16-supermicro-cooling-the-ai-boom.md",
+      "title": "Supermicro: Cooling The AI Boom",
+      "excerpt": "Supermicro’s stock has gone off the handle because anyone planning to run AI needs the sort of systems it produces to cool their country’s worth of electric space heaters down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf5c2b87d81eacee1f70c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/",
+      "publishedDateTime": "2024-02-16T14:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-this-company-says-conversational-ai-will-kill-apps-and-websites.md",
       "title": "This Company Says Conversational AI Will Kill Apps and Websites",
       "excerpt": "I might have inadvertently insulted Bret Taylor and Clay Bavor when I interviewed them about their new AI startup last week. Their new company, Sierra, is developing AI-powered agents to “elevate the customer experience” for big companies.",
@@ -1212,58 +1264,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-openai-unveils-ai-that-instantly-generates-eye-popping-videos.md",
-      "title": "OpenAI Unveils A.I. That Instantly Generates Eye-Popping Videos",
-      "excerpt": "The start-up is sharing the new technology, called Sora, with a small group of early testers as it tries to understand the potential dangers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/15/autossell/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T18:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

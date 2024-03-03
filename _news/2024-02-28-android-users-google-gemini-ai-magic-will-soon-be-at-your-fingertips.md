@@ -75,22 +75,6 @@ related:
         width: 7373
         height: 4918
         isCached: true
-  - title: "Google aims to relaunch Gemini AI image tool in a few weeks"
-    excerpt: "Bard was renamed Gemini earlier this month and Google rolled out paid subscription plans, which users could choose for better reasoning capabilities from the AI model."
-    publishedDateTime: 2024-02-27T04:27:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-aims-to-relaunch-gemini-ai-image-tool-in-a-few-weeks-9183083/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2024/02/Google-Gemini-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google CEO tells employees Gemini AI blunder ‘unacceptable'"
     excerpt: "The news follows Google changing the name of its chatbot from Bard to Gemini earlier this month. Pichai’s memo said the teams have been working around the clock to address the issues and that the company will instate a clear set of actions and structural ..."
     publishedDateTime: 2024-02-28T00:00:00Z

@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-11-24-ai-drives-chip-sector-recovery.md",
+      "title": "AI drives chip sector recovery",
+      "excerpt": "The growing demand for AI applications has made a visible impact on the semiconductor sectorGlobal semiconductor sector revenues have grown for two",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/ai-drives-chip-sector-recovery-49057/",
+      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/ai-drives-chip-sector-recovery-49057/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/total-semiconductor-revenue-omdia-17438.jpeg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/ai-drives-chip-sector-recovery-49057/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ai-drives-chip-sector-recovery-49057/amp/",
+      "publishedDateTime": "2023-11-24T14:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless.md",
       "title": "AI Wizard Sam Altman Shows What Real Leadership Is. His Bosses Were Clueless",
       "excerpt": "A lot happened to artificial intelligence pioneer wizard Sam Altman, recently. But for me mostly it demonstrated how his bosses knew little about leadership. First let’s recap the basics of what happened over the past few days. First, Altman was a cofounder of OpenAI, a leading company in the development of advanced artificial intelligence.",
@@ -1128,40 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-artificial-intelligence-are-ai-chips-different-from-traditional-processors.md",
-      "title": "Artificial Intelligence: Are AI chips different from traditional processors",
-      "excerpt": "AI chips executes numerous calculations parallelly, exhibiting remarkable speed and efficiency advantage over CPUs",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "originalUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "publishedDateTime": "2023-11-23T04:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

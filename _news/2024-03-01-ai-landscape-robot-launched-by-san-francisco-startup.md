@@ -7,8 +7,8 @@ originalUrl: "https://www.greenindustrypros.com/business-management/software/art
 webUrl: "https://www.greenindustrypros.com/business-management/software/article/22888659/electric-sheep-ai-landscape-robot-launched-by-san-francisco-startup"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Green Industry Pros
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo gets approval to expand self-driving taxi service on the San Francisco Peninsula"
+    excerpt: "Waymo's self-driving taxis, which are seen frequently in San Francisco, received the green light to operate on the Peninsula."
+    publishedDateTime: 2024-03-02T23:24:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 51
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/03/85024e22-1846-42fb-9ccc-13455d502369/thumbnail/1200x630g7/81b547ee10263baeb18cc4274bd3dfca/waymocar.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global fintech Airwallex expands Americas HQ, plans hiring in San Francisco"
     excerpt: "After arriving in San Francisco in 2021, Airwallex is moving from WeWork offices to more permanent space in the city for its Americas HQ."
     publishedDateTime: 2024-03-01T21:07:00Z

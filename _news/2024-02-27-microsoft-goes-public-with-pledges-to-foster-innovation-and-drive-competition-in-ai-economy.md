@@ -529,20 +529,6 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 51
-  - title: "Microsoft's next AI feature for Windows 11's Paint app could be a real stroke of genius"
-    excerpt: "There's an example on YouTube where the creator wants to draw the head of a green alien, so they start off with a green blob and a couple of black eyes. The AI doesn't get what they're driving at, so telling it with text that they want to create a 'green ..."
-    publishedDateTime: 2024-02-27T04:45:00Z
-    webUrl: "https://www.tweaktown.com/news/96489/microsofts-next-ai-feature-for-windows-11s-paint-app-could-be-real-stroke-of-genius/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96489_01_paint-app-could-soon-get-the-ability-to-generate-ai-art-in-real-time_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Microsoft-Mistral AI deal raises concerns, European telecom standardisation elections launched"
     excerpt: "The government completely lacks coherence.” – centrist Senator Catherine Morin-Desailly told Euractiv, commenting on the Mistral AI – Microsoft deal Story of the week: The announcement of Paris-based company Mistral AI’s first commercial distribution partnership with US Big Tech Microsoft drew reactions from politicians in Brussels and Paris."
     publishedDateTime: 2024-03-01T09:43:00Z
