@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240301050172"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240301050172"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 59
+published: false
 
 provider:
   name: The Korea Herald
@@ -25,40 +25,6 @@ images:
     width: 630
     height: 419
     isCached: true
-
-related:
-  - title: "Samsung presents Galaxy AI Vision at MWC 2024 with latest products and services"
-    excerpt: "Visitors to be offered powerful first-hand experiences across Galaxy S24 series, expanded product ecosystem and Samsung Connected Health, all powered by Galaxy AI"
-    publishedDateTime: 2024-02-27T07:51:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 55
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTFmN2FiNzctNzJlYS00/0/2024mwcgalaxyai_2-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Here’s why the Galaxy AI-powered Galaxy S24 Ultra is a game changer for flagship smartphones!"
-    excerpt: "Samsung introduced the cosmic evolution of smartphones with the Galaxy AI with its latest Galaxy S24 series smartphones. This is about weaving the power of AI as a seamless element underlying the user interface,"
-    publishedDateTime: 2024-02-27T07:49:00Z
-    webUrl: "https://www.digit.in/features/mobile-phones/heres-why-the-galaxy-ai-powered-galaxy-s24-ultra-is-a-game-changer-for-flagship-smartphones.html"
-    ampWebUrl: "https://www.digit.in/features/mobile-phones/heres-why-the-galaxy-ai-powered-galaxy-s24-ultra-is-a-game-changer-for-flagship-smartphones.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/features/mobile-phones/heres-why-the-galaxy-ai-powered-galaxy-s24-ultra-is-a-game-changer-for-flagship-smartphones.html/amp/"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 48
-    images:
-      - url: "https://static.digit.in/18977_Samsung_Series-banners_1280X720-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "WmiB2zMBl4B3FJoc3qy40F9hhmsgpVmec3vwQAhKLCuTUUtU1mf2CbBTlmbv+ZN9OB6hzcJGj52B0OT7op1LhC2Iz4sqICUbkGatfwlU++LzyMht3admHLbdiVnCpC5WvvaIragUWrRuFk2sY5Uba1Z4WJ1LDWhRUhIHbmzI1WZwLa3y0hxNwSUBCYHFpXPUKXxyzdw3mH/xJVKu2SLySe4G+fNRGDtiKj3sIJ4haDn3VGr0SVqXQjppwcDzuTNfxDi7vQvJ2vF6LgtSonAKqlUjyd33s6qSs2IGI7z5qc8WQVChJcBiTa1jxujJ3jFEAxEnN308P61SaQ0ORRgEQ/Tn2hqGAf38579veIZ+N1k=;SwlgBC1kgepgQIEo3FsqGQ=="
 ---

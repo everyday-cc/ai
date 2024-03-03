@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2024-02-20-recogni-raises-102m-to-develo-ai-inference-chip.md",
-      "title": "Recogni raises $102m to develo AI inference chip",
-      "excerpt": "AI startup Recogni has raised $102 million in a Series C funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/recogni-raises-102m-to-develop-ai-inference-chip/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/recogni-raises-102m-to-develop-ai-inference-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Recogni.2e16d0ba.fill-1200x630.jpg",
-          "width": 1190,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T15:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-20-how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions.md",
       "title": "How AI Helps Employers Screen Candidates, Manage Staff And Make Hiring And Firing Decisions",
       "excerpt": "Artificial intelligence is ubiquitous in the interviewing and hiring process, and managers can make better and more informed decisions about their staff and promotions.",
@@ -177,8 +134,8 @@
       "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
       "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1175,6 +1132,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-new-mission-to-set-standards-for-use-of-ai.md",
+      "title": "New mission to set standards for use of AI",
+      "excerpt": "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms",
+      "publishedDateTime": "2024-02-20T02:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

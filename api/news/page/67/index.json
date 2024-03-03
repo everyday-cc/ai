@@ -2,49 +2,6 @@
   "page": 67,
   "value": [
     {
-      "path": "_news/2024-01-11-neural-implant-can-read-deep-neural-activity-from-the-brain-surface.md",
-      "title": "Neural implant can read deep neural activity from the brain surface",
-      "excerpt": "This correlation enabled the researchers to use surface electrical signals to train neural networks to predict calcium activity – not only for large populations of neurons, but also individual neurons – at various depths. “The neural network model is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/nanotechnology-news3/id64387_1.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-11-top-10-best-machine-learning-software-in-2024.md",
       "title": "Top 10 Best Machine Learning Software in 2024",
       "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
@@ -1048,6 +1005,58 @@
       ],
       "topics": [
         "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-how-aws-responded-to-the-generative-ai-wave-of-2023-and-what-it-pros-should-expect-in-2024.md",
+      "title": "How AWS Responded to the Generative AI Wave of 2023 (and What IT Pros Should Expect in 2024)",
+      "excerpt": "When 2023 began, Rada Stanic, chief technologist for AWS in Australia and New Zealand, imagined the year would be dominated by helping customers build more modern data platforms in the cloud, with a bit of artificial intelligence and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/AdobeStock_458675015_Editorial_Use_Only.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

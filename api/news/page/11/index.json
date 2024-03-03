@@ -2,57 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2024-02-22-how-to-build-ai-capabilities-across-an-enterprise.md",
-      "title": "How To Build AI Capabilities Across An Enterprise",
-      "excerpt": "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1141,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
-      "publishedDateTime": "2024-02-22T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-ai-will-transform-finance-but-not-with-personalised-card-offers.md",
       "title": "AI Will Transform Finance, But Not With Personalised Card Offers",
       "excerpt": "Almost three-quarters of those surveyed identified AI as the most important factor in the development of fintech in the next five years (and almost half of them pointed to embedded finance, open banking and the digital economy as the second most important ...",
@@ -1189,6 +1138,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike.md",
+      "title": "Cybercriminals are using Meta's Llama 2 AI, according to CrowdStrike",
+      "excerpt": "Cybercrime outfits have taken fledgling steps to use generative AI to stage attacks, including Meta's Llama 2 large language model, according to cybersecurity firm CrowdStrike in its annual Global Threat Report, published Wednesday. The group Scattered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "originalUrl": "https://www.zdnet.com/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "publishedDateTime": "2024-02-21T22:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     }

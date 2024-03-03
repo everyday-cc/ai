@@ -2,58 +2,6 @@
   "page": 105,
   "value": [
     {
-      "path": "_news/2023-12-03-will-the-vision-pro-replace-the-mac-why-apple-will-have-to-tread-carefully.md",
-      "title": "Will the Vision Pro replace the Mac? Why Apple will have to tread carefully",
-      "excerpt": "There’s a chance the Vision Pro may replace the Mac for some users, yet Apple is trying hard to make sure that doesn’t happen -- and that you buy both products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/",
-      "originalUrl": "https://www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Apple-Vision-Pro-SDK-availability-developer-lifestyle.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/will-the-vision-pro-replace-the-mac/?amp",
-      "publishedDateTime": "2023-12-03T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-03-i-made-a-gpt-a-custom-version-of-openais-chatgpt-and-it-only-took-me-15-minutes-heres-how.md",
       "title": "I made a GPT, a custom version of OpenAI's ChatGPT, and it only took me 15 minutes. Here's how.",
       "excerpt": "You can now create your own version of OpenAI's ChatGPT — and it can take as little as 15 minutes. In early November, OpenAI unveiled a slate of updates to its ...",
@@ -1067,6 +1015,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-what-are-artificial-neural-networks.md",
+      "title": "What are artificial neural networks?",
+      "excerpt": "Artificial neural networks are inspired by the early models of sensory processing by the brain. An artificial neural network can be created by simulating a network of model neurons in a computer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/nbt1386",
+      "originalUrl": "https://www.nature.com/articles/nbt1386",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fnbt1386/MediaObjects/41587_2008_Article_BFnbt1386_Fig1_HTML.gif",
+          "width": 685,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T19:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

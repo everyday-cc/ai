@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2024-02-22-cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike.md",
-      "title": "Cybercriminals are using Meta's Llama 2 AI, according to CrowdStrike",
-      "excerpt": "Cybercrime outfits have taken fledgling steps to use generative AI to stage attacks, including Meta's Llama 2 large language model, according to cybersecurity firm CrowdStrike in its annual Global Threat Report, published Wednesday. The group Scattered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
-      "originalUrl": "https://www.zdnet.com/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
-      "publishedDateTime": "2024-02-21T22:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
       "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
       "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
@@ -582,8 +530,8 @@
       "title": "Global Neural Processor Market to Reach $0.7 Billion by 2030, Driven by AI Adoption and Machine Learning Acceptance",
       "excerpt": "DUBLIN, Feb. 21, 2024 /PRNewswire/ -- The \"Neural Processor Market Report: Trends, Forecast and Competitive Analysis to 2030\" report has been added to ResearchAndMarkets.com's offering.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-neural-processor-market-reach-07-billion-2030-/2024/02/21/9965783.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-neural-processor-market-reach-07-billion-2030-/2024/02/21/9965783.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/21/9965783.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/21/9965783.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1252,6 +1200,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-having-double-majors-could-make-you-less-vulnerable-to-layoffs-and-ai.md",
+      "title": "Having double majors could make you less vulnerable to layoffs and AI",
+      "excerpt": "Double majors are less likely to experience layoffs and pay cuts, per an NBER paper. This could position them well for the AI future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2",
+      "originalUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d4e3efa3bd891424f891ba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/having-double-majors-reduce-chance-ai-job-replacement-chatgpt-layoffs-2024-2?amp",
+      "publishedDateTime": "2024-02-21T11:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

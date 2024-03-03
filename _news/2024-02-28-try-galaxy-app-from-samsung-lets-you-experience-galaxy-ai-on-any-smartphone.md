@@ -49,6 +49,20 @@ related:
         width: 720
         height: 540
         isCached: true
+  - title: "Experiment Now to Find Out How AI Can Help Your Company"
+    excerpt: "That will allow for process improvements based on feedback and results. AI as a mindset Dolly Parton once said, \"If you don't like the road you're walking, start paving another one.\" There are a lot of folks who fear the potential of AI -- who avoid it ..."
+    publishedDateTime: 2024-03-03T00:00:00Z
+    webUrl: "https://www.inc.com/bernard-coleman/experiment-now-to-find-out-how-ai-can-help-your-company.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-2012746930_537922_plqm8r.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Oe8lN343GA83w3v7bFJGl5saPTkDdM2beatfwmzWs76t8j9cJHRQ9QN0VzUV4QsW6QQIE7iwhuwl7eTnSd4nvklg9Hd9nrrPdF+cd9k4XRoEfkiwsOFHh7o55mTu9C4DQPJUun3mcgTT5NvPZjN4/AdQ20n6/ITKiJr/CL6/AyGdMzhl+b8+4rwyTIHglZcxYZQvGo2DfJcBIK8yGGsmXRHday68mTgH0UI8FCDwQyqKYqHilshfpTNSS/vhjq8NeN9tH6/snJo/Fize5gDZfYhu9WYw9fRarQRWyIsc7VfgS7gLb7CdZYcJ42012a4zSlWPiJPOQVzzJ5DfIqui540Yfn0v0Dg47SGs9EjGiJpt+Wz3IEGrlAQ7elR3UiTpDEvVYUN1AXmaB3Qnj8ZXhKPQ3mQ35b0veExebipuPPh0Jy0Enpm36ODBCNuQroF0B0rubXPjFkujqDh0x70zkYch4DLaMlWCSCbgaN2oDiawcKD8E5yHODXHweyk911FWxNo1du1YrN/ALbn2ueLvg==;wxaIA4RR0zrmaSPOA5afUA=="
 ---

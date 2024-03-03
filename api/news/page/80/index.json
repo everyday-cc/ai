@@ -2,40 +2,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_news/2023-12-21-apples-ai-research-signals-ambition-to-catch-up-with-big-tech-rivals.md",
-      "title": "Apple’s AI research signals ambition to catch up with Big Tech rivals",
-      "excerpt": "While Microsoft and Google have largely focused on delivering chatbots and other generative AI services over the internet from their vast cloud computing platforms, Apple’s research suggests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027",
-      "originalUrl": "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-21-nasarawa-varsity-gets-approval-to-establish-robotics-ai-laboratory.md",
       "title": "Nasarawa varsity gets approval to establish robotics, AI laboratory",
       "excerpt": "The Phoenix University, Agwada, in the Kokona Local Government Area of Nasarawa State, said it has established a Robotics and Artificial Intelligence laboratory for its intending students in line ...",
@@ -1150,6 +1116,58 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-2023-at-google.md",
+      "title": "2023 at Google",
+      "excerpt": "Explore our collection looking back on some of our biggest moments and milestones from 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/google-2023-recaps-highlights/",
+      "originalUrl": "https://blog.google/inside-google/google-2023-recaps-highlights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero-GIF.gif",
+          "width": 2096,
+          "height": 874,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

@@ -24,17 +24,6 @@ images:
     height: 3378
     isCached: true
 
-related:
-  - title: "What the healthcare AI sector wants from Congress"
-    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
-    publishedDateTime: 2024-02-27T08:00:00Z
-    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-
 secured: "hZFN3P3kGufXQosd1BByU+7EvAHNvEOHRLlegew9mzCRlWeUiMSXHKYAkfj1m9E1bQpplgb+kmuqnRSfTz9sD+QzxQHLtUfJT90/hkBtD/cMvlMIolalSoNZAB9cEO9wjjQlj4qkKTU4nzNq6eMkKD9QN+jtVVDTSklmaaNfYMvDAVBwXy+QL2v6lOskGedCry+3+jXVRp27S09JQKgECvutLP3SsbQn/xvkSqwu4XR4EgUIg0Jr645Xr9YB+fhPgHWIjEqaVt+Gl4vens785xvWrBIawigjWVFOzSdxOv9W5uBl19NRQQWuQz97Cm++EpOZbmselMGs+4b1/xVGT30+ygV+Zzz9UlK/4ComxHg=;8pRBMiKTQ8GEqut3yTk9kw=="
 ---
 

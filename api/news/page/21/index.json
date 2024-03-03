@@ -2,48 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
-      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
-      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
-      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-15-google-opens-paris-research-hub-as-france-seeks-bigger-ai-role.md",
       "title": "Google Opens Paris Research Hub as France Seeks Bigger AI Role",
       "excerpt": "Alphabet Inc.’s Google opened a new Paris hub for its artificial intelligence research teams, as the French capital stakes its claim to be the European center of the emerging technology. The new ...",
@@ -1126,6 +1084,58 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-tesla-fsd-is-still-a-work-in-progress-amid-tech-challenges-lawsuits.md",
+      "title": "Tesla FSD is still a work in progress amid tech challenges, lawsuits",
+      "excerpt": "Entrepreneurs like Tesla CEO Elon Musk have said self-driving cars will make regular vehicles obsolete, but most Americans are wary. A recent survey found that three out of every four Americans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-fsd",
+      "originalUrl": "https://www.businessinsider.com/tesla-fsd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62f26cf8cc15bf00182f8eb8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-fsd?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd?amp",
+      "publishedDateTime": "2024-02-14T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

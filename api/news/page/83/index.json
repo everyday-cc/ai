@@ -2,49 +2,6 @@
   "page": 83,
   "value": [
     {
-      "path": "_news/2023-12-19-klika-tech-achieves-the-100-aws-certifications-distinction.md",
-      "title": "Klika Tech Achieves The 100 AWS Certifications Distinction",
-      "excerpt": "Klika Tech, a global technology solutions and consulting firm that specializes in delivering cutting-edge cloud computing, Internet of Things (IoT), artificial intelligence and machine learning (AI/ML),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T14:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-19-butterfly-network-to-bring-ultrasound-on-chip-tech-to-surgical-robotics.md",
       "title": "Butterfly Network to bring Ultrasound-on-Chip tech to surgical robotics",
       "excerpt": "Butterfly Network (NYSE:BFLY) announced today that it partnered with Mendaera to commercialize a new surgical robotic system.",
@@ -1170,6 +1127,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-self-driving-cars-face-reality-check.md",
+      "title": "Self-Driving Cars Face Reality Check",
+      "excerpt": "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

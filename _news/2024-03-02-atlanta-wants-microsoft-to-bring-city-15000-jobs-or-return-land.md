@@ -58,22 +58,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 90
-  - title: "Microsoft and Mistral AI forge partnership for AI advancement on Azure"
-    excerpt: "Microsoft and Mistral AI have unveiled a new multi-year partnership aimed at accelerating AI innovation and introducing the Mistral Large model first on the Azure platform."
-    publishedDateTime: 2024-02-27T07:44:00Z
-    webUrl: "https://www.fonearena.com/blog/417843/microsoft-mistral-ai-advancement-azure.html"
-    ampWebUrl: "https://www.fonearena.com/blog/417843/microsoft-mistral-ai-advancement-azure.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/417843/microsoft-mistral-ai-advancement-azure.html/amp"
-    type: article
-    provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 89
-    images:
-      - url: "https://images.fonearena.com/blog/wp-content/uploads/2024/02/Le-Chat-Mistral.png"
-        width: 650
-        height: 272
-        isCached: true
   - title: "Microsoft to offer more AI options on Azure with Mistral AI partnerhip"
     excerpt: "and the Azure Machine Learning model catalog. This move complements the existing array of OpenAI models, broadening the catalog with a versatile mix of open source and proprietary AI solutions, thereby enhancing the options available to Azure customers."
     publishedDateTime: 2024-02-27T10:36:00Z

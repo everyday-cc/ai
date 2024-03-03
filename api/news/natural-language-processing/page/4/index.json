@@ -2,60 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-23-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
-      "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
-      "excerpt": "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
-      "publishedDateTime": "2024-01-23T00:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-22-build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract.md",
       "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
       "excerpt": "Amazon Textract is a machine learning (ML) service that enables automatic extraction of text, handwriting, and data from scanned documents, surpassing traditional optical character recognition (OCR). It can identify, understand, and extract data from tables and forms with remarkable accuracy. Presently,",
@@ -1361,6 +1307,49 @@
       "provider": {
         "name": "The Georgia Straight",
         "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-duolingo-cuts-workers-as-it-relies-more-on-ai.md",
+      "title": "Duolingo cuts workers as it relies more on AI",
+      "excerpt": "Language-learning app Duolingo has been steadily firing contract writers and translators, replacing them with artificial intelligence, in one of the most high-profile instances yet of a company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWMSG5VKJ7GQNMVQUE7A6VV6NM.JPG&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-try-galaxy-app-experience
 webUrl: "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 37
+  - title: "Experiment Now to Find Out How AI Can Help Your Company"
+    excerpt: "That will allow for process improvements based on feedback and results. AI as a mindset Dolly Parton once said, \"If you don't like the road you're walking, start paving another one.\" There are a lot of folks who fear the potential of AI -- who avoid it ..."
+    publishedDateTime: 2024-03-03T00:00:00Z
+    webUrl: "https://www.inc.com/bernard-coleman/experiment-now-to-find-out-how-ai-can-help-your-company.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-2012746930_537922_plqm8r.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "SWo8WcuIdEgwh1KSxldFckdTCaHzgG99pgyayI95kzbBekZ0BKlyayfJCBiLOv+mE9qQI7LsQEl7/w/67ayTwTeMV9B4c1jL2kfqurep+gPmY/h5dCXyDm4uB4Rvbaj2/p1AHkaOX69g5zp8HZn+5qX4jEsR2J+8jS8WrfoNg9mzDtCW+1ne5Vq2FAL+k3rmresXk1yROfllbVGO0x+JLow5H3NiHnbaIKQs7591r1lE0DvzGtJs9JJ4klPDkqDibPmBFoc6iH5piNXnRXngFjPsfJc8aLoRrP6YAj7RZFHWhsfc2aAU+ImNigJhuhkKTpzO7d7Jgf7ocJZ1GIsRBz5fLwU3e+QA/FwkXx4RNBKpRspBfGY9vpS+9Wo8SJOtUgz9Mueu/QOQJhDJgmjCzdVae44aJmIcyG74lVA9ACfXO0yCRCHeXrEymI90dJCOuZp6nDpumx9y6y35QF9FbZbIhJCw+GJ/PFG5HLYy4B8FpGueYBGRIJtkMwy3ogz1rzTvsP8Cg7Qry9IywSQ0Lg==;n75DB2hk1XrYOQA3vblkPw=="
 ---

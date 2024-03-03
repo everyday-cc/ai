@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI to Design Drugs in the Near Future, Says Google DeepMind CEO"
-    excerpt: "Demis Hassabis, CEO of Google DeepMind, predicts that artificial intelligence (AI) could be designing drugs directly in clinics within the next few years."
-    publishedDateTime: 2024-02-27T08:22:00Z
-    webUrl: "https://bmmagazine.co.uk/tech/ai-to-design-drugs-in-the-near-future-says-google-deepmind-ceo/"
-    ampWebUrl: "https://bmmagazine.co.uk/tech/ai-to-design-drugs-in-the-near-future-says-google-deepmind-ceo/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/tech/ai-to-design-drugs-in-the-near-future-says-google-deepmind-ceo/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 74
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/02/shutterstock_331288130-scaled.jpg"
-        width: 850
-        height: 567
-        isCached: true
   - title: "Google DeepMind’s new generative model makes Super Mario–like games from scratch"
     excerpt: "Genie learns how to control games by watching hours and hours of video. It could help train next-gen robots too."
     publishedDateTime: 2024-02-29T12:57:00Z

@@ -2,41 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-12-16-microsoft-rolls-out-improved-voice-access-on-windows-11-following-removal-of-windows-speech-recognition.md",
-      "title": "Microsoft Rolls Out 'Improved' Voice Access on Windows 11 Following Removal of Windows Speech Recognition",
-      "excerpt": "With AI integration, Microsoft has the upper hand to improve Copilot and other AI-related features on Windows 11. This would also position Voice Access as a central component in the evolving Windows 11 interface, making it more useful to regular users and those with mobility disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/299786/20231215/microsoft-rolls-out-improved-voice-access-windows-11-following-removal.htm",
-      "originalUrl": "https://www.techtimes.com/articles/299786/20231215/microsoft-rolls-out-improved-voice-access-windows-11-following-removal.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T19:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-15-the-role-of-humanity-in-crafting-trustworthy-ai-content.md",
       "title": "The Role Of 'Humanity' In Crafting Trustworthy AI Content",
       "excerpt": "AI-generated content, while efficient, comes with its share of pitfalls and challenges with concerns about authenticity, creativity and quality control.",
@@ -1383,6 +1348,41 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu.md",
+      "title": "Natural Language Processing and Recognition Market Is Booming Worldwide With Microsoft, IBM, Baidu",
+      "excerpt": "The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth over the forecast period from 2023 to 2030. The Global Natural Language Processing and Recognition Market Size is estimated to register 30.8% growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "originalUrl": "https://www.cmswire.com/the-wire/natural-language-processing-and-recognition-market-is-booming-worldwide-with-microsoft-ibm-baidu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

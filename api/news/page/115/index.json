@@ -2,49 +2,6 @@
   "page": 115,
   "value": [
     {
-      "path": "_news/2023-11-27-ai-powered-robot-figures-out-how-to-make-oxygen-on-mars.md",
-      "title": "AI-Powered Robot Figures Out How to Make Oxygen on Mars",
-      "excerpt": "A new study recently published in Nature Synthesis details the steps taken for the aforementioned robot to come up with a process to make oxygen out of materials readily available on Mars. Using meteorites scientists think come from the Red Planet, the \"robotic chemist\" has able to create the primary element necessary for human life.",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
-      "originalUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/28/4b1b5e2a-4ba6-49e2-a0b8-b0b56dca730e/wendys-sign.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
-      "publishedDateTime": "2023-11-27T04:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-27-ai-hype-isnt-helping-anyone.md",
       "title": "AI hype isn’t helping anyone",
       "excerpt": "We've got real issues with AI, and security is top of the list. Prompt injecting allows hackers to trick your private LLM, and that's a serious problem.",
@@ -1180,6 +1137,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-25-amazon-has-millions-of-black-friday-deals-here-are-the-101-best.md",
+      "title": "Amazon Has Millions of Black Friday Deals — Here Are the 101 Best",
+      "excerpt": "Learn more. People / Tyler Roeland The discounts you’ve been waiting for are finally here. Amazon is celebrating Black Friday with millions of doorbuster deals, plus stackable coupons and Prime ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
+      "originalUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://people.com/thmb/S7_mdHiV3MtQIJCGtOoz2PZ4XUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-black-friday-101-best-amazon-deals-tout-94bef79afa624b60aabf41cd20ebb14b.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

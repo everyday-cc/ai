@@ -2,49 +2,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-all-the-info-you-need.md",
-      "title": "Google Bard is now Gemini: All the info you need",
-      "excerpt": "Google is going all-in on Gemini. Bard is getting rebranded to Gemini and a new Android app will replace Assistant on your phone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-08-google-rebrands-bard-ai-to-gemini-and-launches-a-new-app-and-subscription.md",
       "title": "Google rebrands Bard AI to Gemini and launches a new app and subscription",
       "excerpt": "Google on Thursday announced a major rebrand of Bard, its AI chatbot and assistant, including a fresh app rollout and new usage and subscription options. Bard, a chief competitor to OpenAI's ...",
@@ -1062,6 +1019,50 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-who-publishes-guidance-for-ethics-and-governance-of-ai-for-healthcare-sector.md",
+      "title": "WHO Publishes Guidance for Ethics and Governance of AI for Healthcare Sector",
+      "excerpt": "We collaborate with the world's leading lawyers to deliver news tailored for you. Sign Up to receive our free e-Newsbulletins Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "originalUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/healthcare%20insurance%20technology%20telemedicine%20medical%20chart%20doctor%20digital%20health.jpg?h=c0041bcf&itok=Oaxm9xAo",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

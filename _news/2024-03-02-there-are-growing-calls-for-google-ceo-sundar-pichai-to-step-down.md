@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
 type: article
 quality: 89
-heat: 131
+heat: 132
 published: true
 
 provider:

@@ -2,40 +2,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2024-02-07-worlds-biggest-ai-tech-companies-clash-with-uk-over-safety-tests.md",
-      "title": "World’s biggest AI tech companies clash with UK over safety tests",
-      "excerpt": "OpenAI, Google DeepMind, Microsoft and Meta are among the tech groups that signed voluntary commitments in November to open up their latest generative AI models for review by Britain’s new AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/105ef217-9cb2-4bd2-b843-823f79256a0e",
-      "originalUrl": "https://www.ft.com/content/105ef217-9cb2-4bd2-b843-823f79256a0e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-07-year-of-the-dragon-3-hot-chinese-stocks-for-prosperous-returns.md",
       "title": "Year of the Dragon: 3 Hot Chinese Stocks for Prosperous Returns",
       "excerpt": "The post Year of the Dragon: 3 Hot Chinese Stocks for Prosperous Returns appeared first on InvestorPlace.",
@@ -1081,6 +1047,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-enhances-stock-return-prediction.md",
+      "title": "Artificial Intelligence for the Financial Market: Machine Learning Enhances Stock Return Prediction",
+      "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news828219",
+      "originalUrl": "https://idw-online.de/de/news828219",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.idw-online.de/de/institutionlogo31018",
+          "width": 1431,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T09:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
