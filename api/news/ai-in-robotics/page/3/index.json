@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-sweet-robo-unveils-cutting-edge-robotic-vending-machines-for-treats.md",
+      "title": "Sweet Robo Unveils Cutting-Edge Robotic Vending Machines for Treats",
+      "excerpt": "BROOKLYN, NY / ACCESSWIRE / February 12, 2024 / Sweet Robo introduces innovative, automated vending machines that redefine the way users experience treats. The company specializes in crafting machines",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61384862-sweet-robo-unveils-cutting-edge-robotic-vending-machines-for-treats-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61384862-sweet-robo-unveils-cutting-edge-robotic-vending-machines-for-treats-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T19:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-automotive-industry-likely-to-continue-leading-robotics-growth-says-a3.md",
       "title": "Automotive industry likely to continue leading robotics growth, says A3",
       "excerpt": "The automotive industry will keep driving North American robotics adoption despite the current economic slowdown, according to A3.",
@@ -1263,59 +1297,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-elon-musk-says-neuralink-has-implanted-its-first-brain-chip-in-human.md",
-      "title": "Elon Musk says Neuralink has implanted its first brain chip in human",
-      "excerpt": "Patient recovering well with signs of ‘promising neuron spike detection’, says startup’s founder",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "originalUrl": "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/134671988bdcfa034f14722647af46810b4b6251/0_107_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=1a104797821783b786bff088d587f939",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "publishedDateTime": "2024-01-31T01:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

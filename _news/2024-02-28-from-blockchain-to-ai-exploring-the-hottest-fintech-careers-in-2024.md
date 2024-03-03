@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/from-blockchain-to-ai-exploring-the-hottes
 webUrl: "https://techbullion.com/from-blockchain-to-ai-exploring-the-hottest-fintech-careers-in-2024/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learn To Ride The AI And Blockchain Tech Tsunami"
-    excerpt: "Initiatives to prioritize skills and competencies over academic credentials have gained momentum. Girls in Tech, ETHDenver, and UETH have alternatives ways for education."
-    publishedDateTime: 2024-02-27T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dbccde02f7ed6305cd9c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Algoritmic Lab's Revolutionary New AI and Blockchain Ecosystem: Stalwart AI"
-    excerpt: "The foundation of the Blockchain Stalwart is the Cosmos SDK, known for its reliability and versatility in blockchain development. Stalwart seamlessly integrates all Cosmos blockchains through the IBC module. Algoritmic Lab's goal in creating Stalwart was to create a truly scalable solution for digital asset management."
-    publishedDateTime: 2024-02-27T10:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/algoritmic-labs-revolutionary-new-ai-and-blockchain-ecosystem-stalwart-ai-1033106456"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://images.newsfilecorp.com/files/8871/199218_press_release_1_550.jpg"
-        width: 550
-        height: 364
-        isCached: true
   - title: "HIVE Digital Technologies Tops 2024 TSX Venture 50 in Technology, Leading In Blockchain and AI Infrastructure"
     excerpt: "This news release constitutes a 'designated news release' for the purposes of the Company's amended and restated prospectus supplement dated"
     publishedDateTime: 2024-03-01T06:34:00Z

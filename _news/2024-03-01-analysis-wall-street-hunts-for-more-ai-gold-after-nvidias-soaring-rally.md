@@ -134,20 +134,6 @@ related:
         width: 1536
         height: 1024
         isCached: true
-  - title: "Nvidia is set to dominate AI — here's why"
-    excerpt: "Your AI assistant has already scanned the world’s breaking news, browsed events happening in your area, and accounted for the weather to propose an ideal schedule for your weekend. If Nvidia’s dreams come true,"
-    publishedDateTime: 2024-02-27T10:27:00Z
-    webUrl: "https://www.tomsguide.com/ai/nvidia-is-set-to-dominate-ai-heres-why"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/upUivk47vpZ7Cy4kRjUuWB-1200-80.jpg"
-        width: 1200
-        height: 665
-        isCached: true
   - title: "Indosat Collaborates with NVIDIA to Enable Sovereign AI Infrastructure"
     excerpt: "As part of the collaboration with NVIDIA, Lintasarta aims to provide GPU-as-a-Service (Deka GPU) and give customers access to the latest and most powerful artificial intelligence capabilities specifically tailored for high-demand computing tasks, including infrastructure, platform, and bare metal services."
     publishedDateTime: 2024-02-29T05:49:00Z

@@ -18,22 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "AI startup Glean lures Citigroup as investor at $2.2 billion valuation after revenue quadruples"
-    excerpt: "Glean is taking on Microsoft with software that can search through internal data and provide corporate users with quick answers to questions"
-    publishedDateTime: 2024-02-27T11:00:00Z
-    webUrl: "https://www.cnbc.com/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/27/glean-is-worth-2point2-billion-as-citigroup-databricks-workday-invest.html"
+  - title: "US enterprise AI search startup Glean raises $200 mln, plans hiring spree"
+    excerpt: "The Palo Alto, California-based startup said it has nearly quadrupled its annual recurring revenue in the past year, serving customers such as Sony Electronics and Databricks. \"Every CIO is trying to figure out the enterprise use cases of generative AI."
+    publishedDateTime: 2024-02-28T04:31:00Z
+    webUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107378657-1708993128008-Glean_Arvind.jpeg?v=1709056188"
-        width: 4032
-        height: 3024
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/53TKOLW2FVMNPG6EUUGMPCHD54.jpg"
+        width: 6026
+        height: 4017
         isCached: true
+  - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
+    excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
+    publishedDateTime: 2024-02-27T14:42:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree/108049287"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 14
 
 secured: "cccMm1w0TRICQiXWuag3Uh5AlzxzyotZxW4zm2JyutkMQ+YVcahdIuftFttfEVxTL0AN1UzJ5A4alfQHQ4bUkEIOgLLHFTX687hV998r8oj/NitdKsEYqBHiqUUTcyT5Tpwdv8/uKQmju8UXVCitwKe0vZVMWByMlao3Y4gTZh5K3loQM02e+29QqM1BbvD2KnWv47nHc3t9calGWwbA+A1OC63uJL5JZE4cZzkSIBwMlTOGyqs4ogwGqzzesCoo+TcypReDDZ4bRAkXIEY0ld2Qew8bLyD0M7EtjXm65FMzuKbNbAkwxMwwN9ixAc7g9BwgSmuZkOguv6diPfugHnbWacZ1oPlzzEVni0k7i24AeAJ9DJhKwFeur312AvqVupclfKOvraPa+cjn9Ba2fe2eJqzwUMvUqSDnALryyXv6iWVlankTF8q+DOUcPpEs7ey8IOMpjY7EBCgtFrP1RqjZfjp2+3r0CFIIiVQqMhuq7GDz52Nc8sWi2OsIGQzM/VYoE/XCUXPcssZ4aXM7hA==;ZKSr3HRJhsLy6HawbyIC2g=="
 ---

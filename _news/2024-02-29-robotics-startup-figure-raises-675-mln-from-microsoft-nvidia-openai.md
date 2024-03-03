@@ -280,9 +280,9 @@ related:
         height: 682
         isCached: true
   - title: "AI Startup Making Humanoid Robots Raises $675 Million With Bezos, Nvidia in Funding Round"
-    excerpt: "Jeff Bezos, Nvidia and Microsoft are betting a humanlike robot could be one of the hot new developments in artificial intelligence. They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure ..."
-    publishedDateTime: 2024-02-29T19:04:00Z
-    webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d?mod=world_whatsnews_pos4"
+    excerpt: "Illustration: John McColgan They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure, the startup said Thursday, valuing it at $2.6 ..."
+    publishedDateTime: 2024-02-29T18:06:00Z
+    webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d"
     type: article
     provider:
       name: Wall Street Journal

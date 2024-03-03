@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "'Existential Risks': AI Anxiety Fueling Stream of Shareholder Proposals"
-    excerpt: "“It could be anything regarding how the company intends to use AI, what kind of policies and procedures they have in place, whether they have ethics panels regarding the use of artificial intelligence,” Dumont said. “Shareholders have a lot on their ..."
-    publishedDateTime: 2024-02-27T10:19:00Z
-    webUrl: "https://www.law.com/corpcounsel/2024/02/27/existential-risks-ai-anxiety-fueling-stream-of-shareholder-proposals/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
 
 secured: "EIhi6mDUxX8ZT+Z9m5tXBzax1tpebVtLSUs/ps33h4B5XXQaT6TdJoe+7+ETQEU2IomfGPBtJvBCYF/VIUopDI+rjW2OaOxRfDcqVM7ZIaBAW+p/5Iq6rB8tQXJuKrdALZXz7oiA+XW5PtKNa67FOhduplrLnWdvdWRffIx7kDIUEc8neppaD4KyGkFs2GL3Eh3YNGZGtOcKEWKh5l29lvyYMghZziscGB8EQfnnCEkV8B465tsg2Fukf7FgooHqUld+PWXyg5GcqD7uzCbclgD9Mf0cN8GKlERMYLI0zEiVWrt4+sMzIU9ZJeq21Fi6Pjv3JgDGnE25IKg7l9ip6b8XvNyfkKfUUgLuibwDVIMxSL91GnI6qPokg1U0EhHIPHxSY5MaZkigcJ5fayJcNb7Xa9TUbBrqaq0rBR5kfici0YYrcr3ICAAJgTz/qe1O9vJeU3+VG0f7v1UJ50K2YDh67oTEFKX/fbtdjYoZrt03KZnFqn5AKBIB4mI3p40gXd9xafzcQ3yy3BLptpSNTA==;Ci1OxP7lrYzn49l1QEt/Wg=="
 ---

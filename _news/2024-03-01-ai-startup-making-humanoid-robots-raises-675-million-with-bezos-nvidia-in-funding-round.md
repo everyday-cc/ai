@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI Startup Making Humanoid Robots Raises $675 Million With Bezos, Nvidia in Funding Round"
-excerpt: "Jeff Bezos, Nvidia and Microsoft are betting a humanlike robot could be one of the hot new developments in artificial intelligence. They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure ..."
-publishedDateTime: 2024-02-29T19:04:00Z
-originalUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d?mod=world_whatsnews_pos4"
-webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d?mod=world_whatsnews_pos4"
+excerpt: "Illustration: John McColgan They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure, the startup said Thursday, valuing it at $2.6 ..."
+publishedDateTime: 2024-02-29T18:06:00Z
+originalUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d"
+webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d"
 type: article
 quality: 55
 heat: -1
@@ -393,6 +393,6 @@ related:
       domain: aol.com
     quality: 23
 
-secured: "vnSX/i7uRIIq19T9PmDZZzVOFvK80lMZK3W2ZCdXS6tABQ/4Ul16UtEr/oTiEQmuNSzKM7UBXIB4XUPpRngmIn7Rsli/D76cTlJGP10HZBhPfe3vYiRFZ7zckLdvXc1IB6+EW2FU/U/a8yfH7EIvvx107xagTRbnYg8Bwi7hTIUtjWCODhicxGkTAHxFHtyXRtUgHkK3oxSQ/7YFSfSMZxbYOB2m6+FoFwLqFYVCPzikuU/32sQrs4nwF1OVvhlmewXz88QEvLVgcOWztOa0B+n2JuzMVeqv1ID0cBLIo/+36B8v3mS9gj5QhWXC9gkRbjkDN6eqUq6EbFQsT6TVV6z8eeJZID3BFLI/HDLTa40Yc2of/FtR6XpGF+lS3FsBqme1hPTaZyyfsp7eSnIPJDTI+ed0wFMlTCFwentDcww9JoDSGS/SwP7PuPDZz3OQ2es6EpX1VRC3RJU7MXyvaGjtUl0t9kM8WLzpHvE6QYP3jHlbjB8Y2l/EAzNke2lbt+EMDwuk1gs0mmsJU9cbkg==;A1A9p+G693CeCsNH/gFAqg=="
+secured: "l2wZ+sHUciVI0IWGs0mlgyu3Rgu4mlN5541b2GTtZxtpZA5ri9TXi974IhYXaJMKN+lIgSNzaI4f608g7eDvWnv1x5gULAPe5BkXnUI54P/0wZjJte9DAMj7z+U7/HMtrf1Dtdcp7r71u6o6O5/6FARrd8F4kqnH41ge9c5mEhzQHcRHRzuUPNNrpSwiPhnpzi91BgrhLf9qrFSS0yQlMNn7k14jmWSdEr3gjEV5UGqCim6XpTXL98WnFs7Mi6PGJW08gyTtumjORetseXie+WPUun7Yd/ANaCb0WTyH8x/1f5Ct/pb+i1Sa6QLV76iVds3ckUITmlKu8vxQkt5weSX/ZysdHv3b4eUdLFpnm28=;pym6EpiiABMi77kRHPMBSA=="
 ---
 

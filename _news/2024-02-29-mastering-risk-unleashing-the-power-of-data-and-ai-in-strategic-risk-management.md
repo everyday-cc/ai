@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mast
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "'Existential Risks': AI Anxiety Fueling Stream of Shareholder Proposals"
-    excerpt: "“It could be anything regarding how the company intends to use AI, what kind of policies and procedures they have in place, whether they have ethics panels regarding the use of artificial intelligence,” Dumont said. “Shareholders have a lot on their ..."
-    publishedDateTime: 2024-02-27T10:19:00Z
-    webUrl: "https://www.law.com/corpcounsel/2024/02/27/existential-risks-ai-anxiety-fueling-stream-of-shareholder-proposals/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
   - title: "How synthetic data powers AI innovation – and creates new risks"
     excerpt: "According to a report from the Financial Times, Microsoft, OpenAI and AI startup Cohere have already begun testing synthetic data as a way to increase the performance of LLM production with fewer of these issues. “If you could get all the data that you ..."
     publishedDateTime: 2024-02-28T14:53:00Z

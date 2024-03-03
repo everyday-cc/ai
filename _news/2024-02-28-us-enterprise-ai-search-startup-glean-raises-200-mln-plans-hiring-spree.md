@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup
 webUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered enterprise search startup Glean raises $200M+ at $2.2B valuation"
+    excerpt: "Glean Technologies Inc., the developer of a conversational search platform for enterprises, has raised more than $200 million in a Series D round that values it at $2.2 billion."
+    publishedDateTime: 2024-02-27T19:17:00Z
+    webUrl: "https://siliconangle.com/2024/02/27/ai-powered-enterprise-search-startup-glean-raises-200m-2-2b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
   - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
     excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
     publishedDateTime: 2024-02-27T14:42:00Z

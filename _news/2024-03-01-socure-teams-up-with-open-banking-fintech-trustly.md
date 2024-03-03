@@ -74,6 +74,20 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "Gusto: Rise of Embedded Fintech to Drive Differentiation"
+    excerpt: "Gusto's Yi Liu discusses embedded fintech rise, data leverage, and partnerships driving differentiation in the competitive fintech landscape"
+    publishedDateTime: 2024-03-03T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/gusto-rise-of-embedded-fintech-to-drive-differentiation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/ef1e4716a2dc0428865ed5b493e9f9da:9900b484c85e2ba76348895615d663ae/embedded-headshots-yi-02.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "German delegation explores investment opportunities in Qatar's AI, HealthTech, FinTech, cybersecurity sectors"
     excerpt: "BVMW GCC Office in Doha has taken a significant step towards enhancing trade co-operation between Germany and Qatar by organising a"
     publishedDateTime: 2024-02-28T17:33:00Z

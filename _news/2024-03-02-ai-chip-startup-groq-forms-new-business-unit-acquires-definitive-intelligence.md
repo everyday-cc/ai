@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-bus
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/"
 type: article
 quality: 100
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Groq — the chip designed to run AI models really, really fast"
-    excerpt: "The chips, designed by Groq founder and CEO Jonathan Ross, who also led the development of Google's Tensor Processing Units (TPU) that were used to train and run Gemini, are designed for rapid scalability and for the efficient flow of data through the chip."
-    publishedDateTime: 2024-02-27T10:28:00Z
-    webUrl: "https://www.tomsguide.com/ai/meet-groq-the-chip-designed-to-run-ai-models-really-really-fast"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZmpTfjmunvsSme7NEC2Lqd-1200-80.jpg"
-        width: 1200
-        height: 686
-        isCached: true
   - title: "AI chip startup Groq acquires Definitive Intelligence to scale its cloud platform"
     excerpt: "The companies announced the transaction today. The deal will help Groq enhance the capabilities of its newest offering, a cloud platform called GroqCloud that provides on-demand access to its AI chips. Groq was founded in 2016 by Chief Executive Officer ..."
     publishedDateTime: 2024-03-01T21:44:00Z

@@ -80,6 +80,20 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "Gusto: Rise of Embedded Fintech to Drive Differentiation"
+    excerpt: "Gusto's Yi Liu discusses embedded fintech rise, data leverage, and partnerships driving differentiation in the competitive fintech landscape"
+    publishedDateTime: 2024-03-03T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/gusto-rise-of-embedded-fintech-to-drive-differentiation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/ef1e4716a2dc0428865ed5b493e9f9da:9900b484c85e2ba76348895615d663ae/embedded-headshots-yi-02.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Socure Teams Up with Open Banking Fintech Trustly"
     excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
     publishedDateTime: 2024-03-01T08:50:00Z

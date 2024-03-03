@@ -70,22 +70,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 90
-  - title: "Microsoft to offer more AI options on Azure with Mistral AI partnerhip"
-    excerpt: "and the Azure Machine Learning model catalog. This move complements the existing array of OpenAI models, broadening the catalog with a versatile mix of open source and proprietary AI solutions, thereby enhancing the options available to Azure customers."
-    publishedDateTime: 2024-02-27T10:36:00Z
-    webUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 89
-    images:
-      - url: "https://images.techhive.com/images/article/2015/10/microsoft-headquarters-100623370-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "E.U. Watchdog to Examine Microsoft’s Mistral AI Investment"
     excerpt: "M icrosoft Corp.’s Mistral AI investment is set to be analyzed by the European Union’s competition watchdog at the same time that its deep ties to OpenAI Inc come under regulatory scrutiny."
     publishedDateTime: 2024-02-27T15:34:00Z
@@ -127,38 +111,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/microsoft_france_hq-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Microsoft Partners With OpenAI's French Rival Mistral to Make Its AI Models Available on Azure"
-    excerpt: "The multi-year deal signals Microsoft's efforts to offer a variety of AI models beyond its biggest bet in OpenAI."
-    publishedDateTime: 2024-02-27T09:49:00Z
-    webUrl: "https://www.gadgets360.com/ai/news/microsoft-partners-openai-rival-mistral-ai-models-azure-cloud-platform-5136603"
-    ampWebUrl: "https://www.gadgets360.com/ai/news/microsoft-partners-openai-rival-mistral-ai-models-azure-cloud-platform-5136603/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/microsoft-partners-openai-rival-mistral-ai-models-azure-cloud-platform-5136603/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 77
-    images:
-      - url: "https://i.gadgets360cdn.com/large/microsoft_ai_reuters_1689769738584.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Invests in French Startup Mistral AI to Foster AI Innovation"
-    excerpt: "Microsoft entered a multi-year partnership with Mistral AI aimed at fostering innovation in the artificial intelligence AI industry."
-    publishedDateTime: 2024-02-27T09:43:00Z
-    webUrl: "https://www.coinspeaker.com/microsoft-invests-mistral-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/microsoft-invests-mistral-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-invests-mistral-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2024/02/microsoft-invests-mistral-ai.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Microsoft and Mistral partner on AI"
     excerpt: "in the Azure AI Studio and Azure Machine Learning model catalogue. Azure’s AI-optimised infrastructure and capabilities will offer Mistral AI additional opportunities to promote, sell and distribute its models to Microsoft customers worldwide."
@@ -638,15 +590,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Microsoft signs a partnership agreement with AI startup Mistral, a competitor of OpenAI"
-    excerpt: "Microsoft has announced a new multi-year partnership with Mistral, a French startup specializing in artificial intelligence. This startup is only 10 m"
-    publishedDateTime: 2024-02-27T09:10:00Z
-    webUrl: "https://itc.ua/en/news/microsoft-signs-a-partnership-agreement-with-ai-startup-mistral-a-competitor-of-openai/"
-    type: article
-    provider:
-      name: itc.ua
-      domain: itc.ua
-    quality: 26
   - title: "Microsoft Copilot Can Soon Be Your Digital Assistant On Android By Replacing Google Assistant Or Bixby"
     excerpt: "Copilot by Microsoft emerges as a contender in the digital assistant arena for Android devices, challenging Google Assistant and Bixby."
     publishedDateTime: 2024-02-28T09:55:00Z

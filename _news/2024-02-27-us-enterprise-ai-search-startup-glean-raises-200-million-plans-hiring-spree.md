@@ -32,6 +32,15 @@ related:
         width: 6026
         height: 4017
         isCached: true
+  - title: "AI-powered enterprise search startup Glean raises $200M+ at $2.2B valuation"
+    excerpt: "Glean Technologies Inc., the developer of a conversational search platform for enterprises, has raised more than $200 million in a Series D round that values it at $2.2 billion."
+    publishedDateTime: 2024-02-27T19:17:00Z
+    webUrl: "https://siliconangle.com/2024/02/27/ai-powered-enterprise-search-startup-glean-raises-200m-2-2b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "6YJRYbACvsryEouIfyMsNky32XkJgzqDHAkqDvNNpVZJz0wmA1eMAhZ+L6mBcQ29u5f2CPgUKLdZp1Iw7WBcYlOWTkjmTRKDrHTY70mxEvelJsaNp0a3U6W5s23KJjrEv0iogtlWXVX6CB0Wch/g5k1GreJQAFD8mK1O/0ZTFLO3HYTm+7FjMWchhkcrIHAjkMEzgF3041k1zRd/M9thH7nImx6H4T/mHkW+ryB4A3X+UMTC2/5p7v3DCBNH/GOCKi7SD5jYzvqpDnmNQAp3/UHIDvzJE3ffXGDtWkmDLfXB57pk1zQXm0ll3I/XRs8G6X5gmm5q3xX0X3Rwe38xAxE/+Jw1Q8p3iGrl0tbIZU2TW+9Rmixk7YOgfHzVLr9Wl5YpbctZp2LdWS20UQYUnEFPevQI5u4b9gjcP9cRthURbzMAN0oayOWZVc00OpTF5nhcvpaSkADFwFciPvEp4WtNf4qmbWWB+QYTPU6XbYZKKeGOV6SNX8sos+T22O/gdST+014U48sfzb7A3A1K3g==;JL7SXSdtTfCtEKHwXL5Kvg=="
 ---
