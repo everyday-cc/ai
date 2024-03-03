@@ -35,15 +35,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Retail Investors' AI Bet C3.ai's Shares Climb on Strong Results, Forecast"
-    excerpt: "Their average rating, according to LSEG data, is \"hold.\" D.A. Davidson has an equivalent rating on C3.ai but raised its target price to $30 from $28. Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%."
-    publishedDateTime: 2024-02-29T07:27:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-29/retail-investors-ai-bet-c3-ais-shares-climb-on-strong-results-forecast"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
 
 secured: "9l3uFGPfwwLBwye7uwXi2pkJ0L0xPPnEVO1JKNWHEbK9PAE+6DGo7nyExsexuqxmUvv1zFdWWTOTMws1FXVfhE1WGhxS8rG5erS9/fGb8LfdPaHwiiegkYm1i7mzOuk4wemRF4HiUtnAdqrNLPPg1g+I3b0GRGLE/QtUKjshWnqVATFyazH1mAC7V3gWaZhlwI0QPeE4qn49bP3iZvjKzPxSvUT2rgO6XLwo5G30PRHGGahPYLn1NxaQbJ27lRLPOhs677kItWoRM5ee9ZSsSh8Jvl8DEm8lmRs8HHfIaAkOtfKsiv5fHF+U7hPI+htjck8UHslBVHma71V0XlYO2qBVr61NaqmFSJgGLUwLg68=;3opABbSzMVeeWZfv9N1jpw=="
 ---

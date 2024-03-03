@@ -31,20 +31,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "AI app startup FlowGPT raises $10M in funding"
-    excerpt: "FlowGPT Inc., a startup with a consumer-focused platform for sharing artificial intelligence apps, today announced that it has raised $10 million in funding. Goodwater Capital led the investment, which is described as a pre-Series A round. Existing FlowGPT backer DCM participated as well."
-    publishedDateTime: 2024-02-26T23:04:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/ai-app-startup-flowgpt-raises-10m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/unsplash-4.png"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "PrCnCwl472T78yGFY56e3axCD6zjFurzNhCHU5mtdWgLwM+h76EtkE8fgT25a2Z38wjKjVqHhsKmY6QIljrjANlxq8dzAt7Xw7ucxZZycPBYlnDxe083TR3Xpy6Z7f80wGXAKNp6+NZojnOFyMeFxBcUmhKBfWXl6Ch8kwS38hszXbdSOqQw2wjTcqS64nJPrps3DFQL7yVVdvMpYkRxGt66qbguSxkyFdhlVeEIHJtU0M/I+HakbsFdJvJzc8d+bHwsdL9ZEeSPzyZueLmtXnisdfxSR08X5bq0R/4THzAymNAc8lM2Ki9g/OTHf4wg6BNJ5qoqBmjlbJ52Ng6Xfg02K0ddIY5yo7oABbQoK898U/etwa6eVSlwKDXEixkKm4z1aQzAmpUNfa0QOV3nGpLwMJU1PCaJ47NnjI2J84YCDZqTOI03MAFmTBaSkvXOK+ZuMCkVW7oQY8J/lO7PumMdNRtkfzh1rS5wua6MAZYG3z5QUPsxCBkOfQzhmFJst8pzwZxZg2qktBIItokGFA==;x6ijACrbwZ8AroaMlYZvEg=="
 ---

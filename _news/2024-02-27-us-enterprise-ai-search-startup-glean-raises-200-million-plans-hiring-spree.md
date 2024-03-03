@@ -32,15 +32,6 @@ related:
         width: 6026
         height: 4017
         isCached: true
-  - title: "AI enterprise search startup raises mega round at massive valuation"
-    excerpt: "The startup's announcement now places it as the second largest ... \"We are at the beginning of one of the biggest transformations in technology; generative AI is an incredibly powerful technology that will unleash productivity and new efficiencies, but ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/02/27/glean-raises-series-d-22b-valuation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "6YJRYbACvsryEouIfyMsNky32XkJgzqDHAkqDvNNpVZJz0wmA1eMAhZ+L6mBcQ29u5f2CPgUKLdZp1Iw7WBcYlOWTkjmTRKDrHTY70mxEvelJsaNp0a3U6W5s23KJjrEv0iogtlWXVX6CB0Wch/g5k1GreJQAFD8mK1O/0ZTFLO3HYTm+7FjMWchhkcrIHAjkMEzgF3041k1zRd/M9thH7nImx6H4T/mHkW+ryB4A3X+UMTC2/5p7v3DCBNH/GOCKi7SD5jYzvqpDnmNQAp3/UHIDvzJE3ffXGDtWkmDLfXB57pk1zQXm0ll3I/XRs8G6X5gmm5q3xX0X3Rwe38xAxE/+Jw1Q8p3iGrl0tbIZU2TW+9Rmixk7YOgfHzVLr9Wl5YpbctZp2LdWS20UQYUnEFPevQI5u4b9gjcP9cRthURbzMAN0oayOWZVc00OpTF5nhcvpaSkADFwFciPvEp4WtNf4qmbWWB+QYTPU6XbYZKKeGOV6SNX8sos+T22O/gdST+014U48sfzb7A3A1K3g==;JL7SXSdtTfCtEKHwXL5Kvg=="
 ---

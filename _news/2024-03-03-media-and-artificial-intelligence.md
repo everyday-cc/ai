@@ -24,115 +24,106 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils RTX 500 and 1000 laptop GPUs for AI-enhanced workflow"
-    excerpt: "The company has announced two new AI-enhanced graphics processing units (GPUs ... in performance and efficiency compared to Nvidia’s earlier professional GPU offerings. The RTX 500 will launch with 4GB of memory, while the RTX 1000 features a ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/"
+  - title: "The Rise Of AI Tutors"
+    excerpt: "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning."
+    publishedDateTime: 2024-03-01T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Nvidia-RTX-500-RTX-1000-GPU.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Inside the rocky marriage of hedge funds and top AI talent"
+    excerpt: "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ..."
+    publishedDateTime: 2024-02-27T20:36:00Z
+    webUrl: "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/65dd05c16080194819fa500e?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
-  - title: "How Nvidia Came to Rule AI"
-    excerpt: "This week we chart the rise of Nvidia, the company whose chips, servers, and data centers have fueled the growth of artificial intelligence."
-    publishedDateTime: 2024-02-29T13:00:00Z
-    webUrl: "https://www.wired.com/story/gadget-lab-podcast-634/"
+  - title: "Artificial Intelligence: Preparing for the EU AI Act"
+    excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-preparing-for-4927482/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 52
     images:
-      - url: "https://media.wired.com/photos/65dfba3e82529b73aa508215/191:100/w_1280,c_limit/Gadget-Lab-Jensen-Huang-Gear-GettyImages-1730512657.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Nvidia GeForce RTX 5090 could be up to 70% faster than the 4090, but its best chips might be reserved for AI"
-    excerpt: "There’s another prediction that the card will most likely not have a fully enabled die since Nvidia will almost certainly save its most powerful cards for the booming AI market, the same market that launched the tech giant into the trillion-dollar earnin ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.techradar.com/computing/gpu/nvidia-geforce-rtx-5090-could-be-up-to-70-faster-than-the-4090-but-its-best-chips-might-be-reserved-for-ai"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/om8KW6UwAaPC2LS6DGzDsC-1200-80.jpeg"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16204_3837.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "Nvidia AI GPU buyers are selling surplus hardware as supply constraints ease"
-    excerpt: "Late last year, Amazon rolled out shorter-term GPU rentals for clients that only need AI processing for a single job. Storing hardware is also costly, especially if it isn't being put to use. Rather than sit on it and wait around for it to become obsolete ..."
-    publishedDateTime: 2024-02-27T14:36:00Z
-    webUrl: "https://www.techspot.com/news/102049-nvidia-ai-gpu-buyers-selling-surplus-hardware-supply.html"
+  - title: "Apple Investors Grow Impatient on Artificial Intelligence"
+    excerpt: "Photo illustration: David Fang Over and over again, Apple Chief Executive Tim Cook has been asked the same question: What is Apple doing about generative artificial intelligence? His answer: Stay tuned. Investors are getting impatient. “Apple really hasn ..."
+    publishedDateTime: 2024-02-29T10:31:00Z
+    webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 63
-  - title: "India’s digital public infra to lay basis for sovereign AI, says Nvidia senior VP"
-    excerpt: "Similar to DPI, Sovereign AI can help the government focus on real-life use cases in healthcare, agriculture, governance, language translation, etc. to maximise economic development. “From Nvidia’s perspective, what is important is the growth and ..."
-    publishedDateTime: 2024-02-27T04:32:00Z
-    webUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/"
-    ampWebUrl: "https://www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/indias-digital-public-infra-to-lay-basis-for-sovereign-ai-says-nvidia-senior-vp-3406183/lite/"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Retail Investors' AI Bet C3.ai's Shares Climb on Strong Results, Forecast"
+    excerpt: "Their average rating, according to LSEG data, is \"hold.\" D.A. Davidson has an equivalent rating on C3.ai but raised its target price to $30 from $28. Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%."
+    publishedDateTime: 2024-02-29T07:27:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-29/retail-investors-ai-bet-c3-ais-shares-climb-on-strong-results-forecast"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 54
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-22T175543.891.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Wall Street hunts for more AI gold after Nvidia’s soaring rally"
-    excerpt: "It has also spurred Wall Street to search for other AI-focused companies in hopes of catching outsized moves. Whether investors are looking at the broader chip industry or betting on firms elsewhere in the value chain, they agree on one thing: AI is here ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.reuters.com/technology/wall-street-hunts-more-ai-gold-after-nvidias-soaring-rally-2024-03-01/"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
+  - title: "CT task force encourages use, regulation of artificial intelligence"
+    excerpt: "The task force says CT should explore the use of AI in government and the private sector while protecting consumers from potential harm."
+    publishedDateTime: 2024-02-28T21:24:00Z
+    webUrl: "https://ctmirror.org/2024/02/28/ct-ai-artificial-intelligence-task-force/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Nvidia is set to dominate AI — here's why"
-    excerpt: "Your AI assistant has already scanned the world’s breaking news, browsed events happening in your area, and accounted for the weather to propose an ideal schedule for your weekend. If Nvidia’s dreams come true,"
-    publishedDateTime: 2024-02-27T10:27:00Z
-    webUrl: "https://www.tomsguide.com/ai/nvidia-is-set-to-dominate-ai-heres-why"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
+      name: The Connecticut Mirror
+      domain: ctmirror.org
     quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/upUivk47vpZ7Cy4kRjUuWB-1200-80.jpg"
-        width: 1200
-        height: 665
+      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/06/20210609_LegislativeSession_Capitol_YK_309.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
-    excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
-    publishedDateTime: 2024-02-27T14:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
+  - title: "Dell says on-prem is the future of AI"
+    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
+    publishedDateTime: 2024-03-01T21:24:00Z
+    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
+  - title: "Nvidia: The mother of all artificial intelligence"
+    excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
+    publishedDateTime: 2024-03-01T20:47:00Z
+    webUrl: "https://www.thestar.com.my/business/insight/2024/03/02/nvidia-the-mother-of-all-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
     quality: 19
-  - title: "NVIDIA RTX 5090 GPU could have fuller core count than RTX 4090, but stock is a worry already"
-    excerpt: "NVIDIA certainly won't want to get too close to using all the cores, as the full die GB102 chips will be needed for AI graphics cards ... it would be one possible tactic for NVIDIA: Launching a GPU to dominate the benchmark charts, more than anything ..."
-    publishedDateTime: 2024-02-27T00:43:00Z
-    webUrl: "https://www.tweaktown.com/news/96485/nvidia-rtx-5090-gpu-could-have-fuller-core-count-than-4090-but-stock-is-worry-already/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 8
 
-secured: "CSP9ltvkB9uaNltoQ2HEHtTAYlujzkyt/pUUaEPoPxvL/g3HULq16KxjfxpZokND/3/obJYdvWRu/knF1LmAkrDl+eTq7/seV67+8D+4ufdP4wGir3+tsOGJf2XYjtCm0Pjeeg3FTofFRmxUk4KXO6e9i5KlhwK7NPMl4AND7bPD1NRMYTmV9rs4iLrmNLpxG/hPhYI5lFCcCxoUZ+rhaDZlmpgk8/WpR74diiufjpqwq3ofAOrkRDhFvvDfwx5XGVrmZ/vJvcZQCWJr/i5R5bw7zXpsiQzrTQNWI/GN3VfWzQdMV3G0oH76IqNPPjOC+HZucvBVjlWdv1qMvNVjYAoilIcFw+a6U+OVRaYOpcc=;OOmwD0vUWt3eCYI7WAXSKA=="
+secured: "Q0+vwdDYxKFUDonEnN+4ArWPho2qDUdqzHKhNgxbHDnaKRg7LvmC9j7cFxZaHRZIuxS35eljnsQN65eWZYe7E2100c6Zm/Fw2bA2pvz9p7K+TIPWddonqk0MtEDrSmeDohsUC91sK3rRn5gNaaFOdtg7c6p8z9elNFecgQM45HU7gd841MjKwp3lzxmTK/Jy7mDd6EPjnhH3Fbm+tWjplKCSQdQ1xesrVzXMOKy1mcc4gKt9fy5uZ5wshXbd+CrP9/ggT52DvIoYBCKSAmq5CwVAfsrftdVhQvnXkKstfpFN9vbUPwQ74fwrf/H/9ieTTiBLyPmlgaSXMeR2b77AHkSiYQG8WPRttGHKboMpq9Zoa4fd6YA+gCmn11d6vXoMgaPFkMKdKJfIkeQrdP2FTzHk7jJrGdldRDNH183ra4AMhdBHnO9GvnEYLpOcPHwvxSE18jD5Aij1D2Xakm9XfyO/8qAo2xhDM5t4MXH0VCAhvTyfwyNcbgedrLVFmjZeuiK2d/8CjoHyRkoD5GEtfQ==;Db6ft24VEW+9YKnTiAm0cw=="
 ---
 

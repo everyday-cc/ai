@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-w
 webUrl: "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker"
 type: article
 quality: 116
-heat: 418
+heat: 416
 published: true
 
 provider:

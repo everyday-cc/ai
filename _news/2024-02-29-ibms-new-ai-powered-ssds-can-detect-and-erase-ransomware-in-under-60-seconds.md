@@ -48,6 +48,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 38
+  - title: "HP’s AI-enhanced Spectre laptops set to transform user experiences"
+    excerpt: "HP recently launched its range of AI-enhanced Spectre x360 laptops, built with smart features that elevate performance, collaboration, and security. These AI PCs will change the role of a personal computer by simplifying tasks and enhancing usability for various aspects of life."
+    publishedDateTime: 2024-02-27T14:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/spotlight/hps-ai-enhanced-pcs-set-to-transform-user-experiences/articleshow/108008262.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "yjjirYkuEXQYG0OAvzyZt0JiailzrTQ12pW6MnnfaUN4OG71t5dXcYZNhQoaJoOLMtdDhjSZ/v9WcOjn2hIT+bNsI+c7+51x7yW/UQCcdIaKQOw99uQPYFIAitooJRqDyWcnY+qKmjexHJtVXGROTUwcF2c+WOj1bvjKWkXEPTjbk1Q9GPfoEFWpiXFantDNTijmq32YzPb11S2Mrp7+DPmDGX8A5MeFP5iaWmXnykPCpkPs1k1SUE93TQcoeJBIdg8cWtHSHJc9Wm45n3sARhJFwweH8oeMWECXZ8/s2MtsgmjTWhXMctWkEvDyLBvI9bW+fBJdJ7XUnXaeA5nGgSTAkL8Q9ljRc0ldrk9bRRY=;r1hoBqmNHybw6d+VXkyi8Q=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 822
         height: 822
         isCached: true
-  - title: "Klarna Says Its New AI Assistant Is Outperforming Customer Service Representatives"
-    excerpt: "Klarna has a new employee of the month: artificial intelligence. The Swedish fintech giant quietly launched an AI assistant around four weeks ago that has since handled 2.3 million conversations, accounting for roughly two-thirds of Klarna's customer ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.inc.com/ben-sherry/klarna-says-its-new-ai-assistant-is-outperforming-customer-service-representatives.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/klarna-ai-customer-service-inc-1211180744_537892_yunydw.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "1j42/KWlpW7SYz2U0lI0p71MVoEdtZ6w63TWnS8x0fo8xs2rYHiGkQbdnkNr0NU4yDpSfN2phczw+7gctChIVsmTQLl8xDqjbwZLl8koL9vFNRRb0lLOpIagGSxS1opENsi6fyNsBQsD6Q1FadhJRyWzdERqYg6kAurVB581h1ZshlyWIS4YlFt2uSWTrU/KiYME2LwZ9QmWFSMRN/QEjsT32csjmeVVE7LrZ+zUqfv2yMfua5HN3LomxsuStzYo7f1SBfeSlsFPGk76ifeXf/ZXHk/4kBj5dmUTgny83UA9gQT9VWlF0oHJxbOIXpNxN9aHZqkTD3RFzQzNG+wplxITWo3WgDYIhobRU4K6Uds=;gc48RSlAeiWUC3luWUNlDA=="
 ---

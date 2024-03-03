@@ -193,15 +193,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Apple Electric Car Project Cancelled After Billions Spent"
-    excerpt: "In August 2018, the BBC reported that Apple had 66 road-registered driverless cars, with 111 drivers registered ... instead shifting its efforts to generative artificial intelligence. BREAKING NEWS: Apple cancels the Apple Car project after a decade ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/apple-electric-car-project-cancelled-after-billions-spent.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 4
   - title: "Apple shelves major self-driving electric car project and lays of staff after multibillion dollar investment – report"
     excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
     publishedDateTime: 2024-02-28T04:13:00Z

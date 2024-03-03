@@ -5,8 +5,10 @@ excerpt: "You can almost toss away all the other trappings associated with Star 
 publishedDateTime: 2024-03-02T14:29:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
 type: article
-quality: 15
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
+    width: 1201
+    height: 900
+    isCached: true
 
 related:
   - title: "Infor Nexus Is Taking An Interesting Approach To Generative AI"
@@ -159,6 +168,6 @@ related:
       domain: thedailystar.net
     quality: 6
 
-secured: "G2jklonplU7exMW+WgM46kxB3Z18R5+9lGxH3YkxQcuE540R5Gbk6FwxXKqHsPk/welsfQwn5c8850Va85eWyAFGXVEpRcvoT3eXP7s/lYOvnx/Tp31RArd/5gIfPv1kdCQp/8AjDzxWIJrf83SXw6m8KUWmqJTrp/+UPm52C5G/+0G3Ze1E+aFB+M50ViSBgYWP/CZJ+qMs9vm4QYP4pVGS3vUnh0CfNqXBJwbmJCF4wLcJ/lDlM3EAw9zod+uU8J2hL5Ri7O6ic6JoQVNazus6TwUb0CWP7fFikhNj5DcQYzj62d7B35yRngvzV0MUMvvmJyChJnWA4yrG527zzZl4G6RgT+8k8euc6NshPuE=;Gy/FjeN1NhFdcf1srKT0Ow=="
+secured: "gYDoIfuCvX+svCGb0x2UcE69lEOtCIfwfyPEFHsN60RyUfjLSylP0BGv0VrmiMpnEwEyXNOv8rQt87LGMGg3YplGaRgJzQyoHsK7LJvoPy08Vw5chfbiM/S8/VxXkl4I9VxqQgHlopnmzoyL446X4oYVL3XULV4QjXuHWNaEOHExBTL7TP/SZGbp6UGRPQUfp59b6UEIEuXIjYuIx+gv5AsUeFNj1FMeqGhrQxLh/DHUpL2U3/u6z5cv6gwMZienMxriw2WJbuQBt8vbt8TukPtx8HrH3064w+YYJavzfhCvszEc2q9DpAOGvZ+T7X1TBGmj7Ki4PGI2mbWmpEMEHchdDZcGqvMnSqh6FdVKc5M=;h2c3Bcfz7wB5/8hbpIAgDw=="
 ---
 

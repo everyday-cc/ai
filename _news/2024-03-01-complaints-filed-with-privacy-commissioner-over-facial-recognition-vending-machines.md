@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition tech is probably coming to a lot more vending machines"
+    excerpt: "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common."
+    publishedDateTime: 2024-03-02T12:13:00Z
+    webUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "University to remove vending machines after student claimed they used facial recognition"
     excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the utilization of facial-recognition technology. The controversy unfolded when a vigilant student captured a photo of an M&M-branded vending ..."
     publishedDateTime: 2024-02-29T12:09:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://c.ndtvimg.com/2024-03/ie1611mo_vending-machine-generic_625x300_01_March_24.jpeg?ver-20240117.07"
         width: 1200
         height: 738
+        isCached: true
+  - title: "Ontario university to remove vending machines due to facial recognition technology concerns"
+    excerpt: "A southwestern Ontario university says it will be getting rid of more than two dozen vending machines after students raised concerns about facial recognition technology. The University of Waterloo says it began looking into the issue after seeing students ..."
+    publishedDateTime: 2024-02-27T16:19:00Z
+    webUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/"
+    ampWebUrl: "https://globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10321252/vending-machines-facial-recognition-technology-ontario-waterloo/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 49
+    images:
+      - url: "https://globalnews.ca/wp-content/uploads/2024/02/20240227150220-65de4451cf8eb72713cd07a5jpeg.jpg?quality=85&#038;strip=all"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Big Candy Is Watching You: Facial Recognition In Vending Machines Upsets University"
     excerpt: "The good news is that this probably doesn’t mean that facial recognition and similar personalized information is stored (or sent to the big vaporous mainframe) as this would violate the GDPR and similar data privacy laws, but there is precedence of ..."
@@ -98,6 +130,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2024/02/victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg?_t=1709033265"
         width: 2048
         height: 1366
+        isCached: true
+  - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
+    excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
+    publishedDateTime: 2024-03-01T11:00:00Z
+    webUrl: "https://www.therecord.com/news/waterloo-region/how-a-facial-recognition-error-on-a-waterloo-vending-machine-led-to-an-international-debate/article_db1ff12a-55e2-5aa9-a180-dfef6c575720.html"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/7/d3/7d352126-1ac4-554c-8445-b8a41bac8b87/65e0ff3713264.image.jpg?crop=1524%2C800%2C157%2C85&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "HEzpvMVWlGwIheinwTYNBixuHs1KjafcC383uqey7v0ptnaC4Mch4hhCk2Zdf1L23uOEFuJ2yP1TWGgJR6Zq+2jqYctU8cf3wkt+UA5I7FwLY/O1BQT7qpOfXO2zMwXH0lLCWz8Swq7MOMuOvvYruNFQsBo063NIuYlf7kcIi7D661QzKQ5aGzYTs0fPFZi8TYqazx37y7yD4gvVFtYKSeJKdZLs6x32bke485C7+MxVjciG+9Kliq5qql4q6/pbgsemFJ86rEflinHTR/wNkVWv6M6fRchrvInv1BmqRtjpmxyugyffBKSwMCBZjV5qjekRt9fbLCR16eDCWTETFVpvQQHaTIFOt6pn9F0+1sOc6E/aYucRRf2gxWV5btTi+njUUyiA13XyZ5PN7u479Z8ZYXy5GppxDERZX2Wan9ykNCWu4wPK9rqdHmnqaztDs/31i6MLvh008CEfqXcBWfjgOgw2FLGe9SaBJpmXgz1/MhkK5HAyXQA9XHJbgaiIdZy4wrsp4apeyKzrIm9/aA==;gqJcA+rG1JPMOYie5SkSjw=="

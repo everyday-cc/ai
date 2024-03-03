@@ -40,6 +40,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Jim Jordan, House Republicans demand Google explain if Biden administration influenced ‘woke’ Gemini AI"
+    excerpt: "Rep. Jim Jordan wrote a letter to Google's parent company on Saturday demanding the company provide information on whether the White House influenced Gemini AI's \"bias.\""
+    publishedDateTime: 2024-03-03T00:07:00Z
+    webUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 71
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd584d93-bee9-4c65-9365-84169b9b7b77/a50ecf78-d8cf-4b00-8be3-5233a7d92790/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Gemini product lead retreats from social media after troubled AI product launch led to harassment"
     excerpt: "Jack Krawczyk, Google's Gemini product lead, has gone dark on some of his social media profiles after facing online harassment."
     publishedDateTime: 2024-03-02T02:02:00Z
@@ -203,38 +219,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "MWC 2024: Google DeepMind CEO pledges Gemini will be back ‘in a few weeks’"
-    excerpt: "Google DeepMind CEO Demis Hassabis has unveiled plans to relaunch its artificial intelligence image generator as soon as the next “couple of weeks”. This follows the technology giant facing backlash after generating historically inaccurate and racially ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://mobilemarketingmagazine.com/google-gemini-mwc/"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 37
-    images:
-      - url: "https://mobilemarketingmagazine.com/wp-content/uploads/2024/02/MMM-Samsung.gif"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Google plans to integrate Gemini into Android phones by 2025"
-    excerpt: "The rebranding of Google’s Bard app to Gemini is one such example. This investment is in line with CEO Sundar Pichai’s vision of a unified AI agent capable of seamlessly assisting users across the Google ecosystem. The integration of advanced AI models ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/27/google-plans-to-integrate-gemini-into-android-phones-by-2025/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 34
-  - title: "Mistral AI startup launches LLM to take on ChatGPT, Gemini and Claude"
-    excerpt: "France-based startup Mistral AI has added a new proprietary large language model (LLM) to an increasingly crowded AI market — claiming its new Mistral Large can give several major competitors a run for their money. In a Feb. 26 post, the Paris-based firm ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/mistral-ai-startup-launches-llm-taking-on-chatgpt-gemini-claude"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
   - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
     excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
     publishedDateTime: 2024-03-01T17:47:00Z
@@ -258,20 +242,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 26
-  - title: "Google’s Gemini Decoded: Unveiling The Impact On SEO"
-    excerpt: "Gemini AI has already replaced Google’s Bard, so you can test it if you want. Spoiler: dialogs really seem quite natural and human-like. This is where the fun begins. SEO professionals are very intrigued by how search optimization will change when Gemini ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.searchenginejournal.com/googles-gemini-impact-on-seo/506610/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 24
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2024/02/untitled-design-84-65c213f8bae47-sej.png"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "Does Gemini completely replace Google Assistant?"
     excerpt: "If Google is going to replace Assistant with Gemini, we’re in for a very long transition where Assistant on every form factor has to be painstakingly replicated while making sure feature parity is maintained. Even the entirely optional migration on phones is pretty rough, and that doesn’t make for a promising start."
     publishedDateTime: 2024-02-27T21:59:00Z

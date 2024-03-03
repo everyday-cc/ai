@@ -18,52 +18,48 @@ topics:
   - AI
 
 related:
-  - title: "Recent Healthcare-Related Artificial Intelligence Developments"
-    excerpt: "AI is here to stay. The development and use of artificial intelligence (“AI”) is rapidly growing in the healthcare landscape with no signs of slowing down. From a governmental perspective, many federal agencies are embracing the possibilities of AI."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/"
+  - title: "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI"
+    excerpt: "Cook said \"we continue to spend a tremendous amount of time and effort\" on artificial intelligence but gave no specifics—as well as products like the Vision Pro virtual reality headset."
+    publishedDateTime: 2024-02-28T14:50:00Z
+    webUrl: "https://reason.com/?p=8267073"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
+      name: Reason
+      domain: reason.com
     quality: 54
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg"
-        width: 1200
-        height: 900
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/02/zumaamericasthirtyeight489622-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "CorroHealth's AI Solution, REVIVE, Targets Small and Zero Balance Accounts to Boost Healthcare Finances"
-    excerpt: "the next evolution in intelligent technology targeting a healthcare system's aged receivables (AR). Building on CorroHealth's previous AR platform, REVIVE is re-engineered with artificial intelligence and automation to effectively recover revenue on small ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20240227-corrohealths-ai-solution-revive-targets-small-and-zero-balance-accounts/"
+  - title: "Apple Abandons Plans for Driverless Electric Car, Shifts Team to AI"
+    excerpt: "While a disappointment to green-tech supporters, Apple's decision reflects the growing uncertainy in the E.V. market."
+    publishedDateTime: 2024-02-28T19:50:00Z
+    webUrl: "https://reason.com/2024/02/28/apple-abandons-plans-for-driverless-electric-car-shifts-team-to-ai/"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 38
+      name: Reason
+      domain: reason.com
+    quality: 54
     images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1709054015/press_release/assets/header_images/REVIVE_Press_Release_Graphic4_h5ypaj.jpg"
-        width: 2000
-        height: 933
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/02/zumaamericasthirtyeight489622-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "What the healthcare AI sector wants from Congress"
-    excerpt: "Healthcare interests clamoring for congressional action on artificial intelligence would also like lawmakers to remember the Hippocratic oath: First, do no harm. Second, they would like a little protection. Opinions about precisely which needs legislating ..."
-    publishedDateTime: 2024-02-27T08:00:00Z
-    webUrl: "https://www.modernhealthcare.com/politics-policy/healthcare-ai-congress-legislation-regulation"
+  - title: "Apple Shifts Gears: Abandons Electric Car Efforts After A Decade; Pivots To Artificial Intelligence"
+    excerpt: "Apple Inc has decided to pull the plug on its ambitious decade-long project to develop an electric car, codenamed Project Titan. The decision was disclosed internally on Tuesday, leaving nearly 2,000 employees associated with the project taken aback."
+    publishedDateTime: 2024-02-28T04:51:00Z
+    webUrl: "https://www.goodreturns.in/news/apple-shifts-gears-abandons-electric-car-efforts-after-a-decade-pivots-to-artificial-intelligence-1333199.html"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-  - title: "Do Patients Know When AI Is Assisting in Health Care?"
-    excerpt: "When you message your health care provider about an appointment, a prescription refill, or to answer a question, is artificial intelligence or a person actually answering? In some cases, it’s hard to tell."
-    publishedDateTime: 2024-02-27T19:59:00Z
-    webUrl: "https://www.webmd.com/a-to-z-guides/news/20240227/do-patients-know-when-ai-is-assisting-in-health-care"
-    type: article
-    provider:
-      name: WebMD
-      domain: webmd.com
-    quality: 19
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 25
+    images:
+      - url: "https://www.goodreturns.in/img/2024/02/apple-1709095814.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "nFJjnv7MWQ6lu/5+pUvXk4xJ4mTn+Dnunt2zjxrmUZ5c2NNJ8yQoTE1n8nXzveO3Auq8CY0/qVHosGW5HLpGkP+00/DpIxpExCzxX6A2iJ28QlbqQn1UxRW7gKHeFsTjwVB4RCTIswNx1AoJ5uiAWudHbo4mU7otoIrGOuAgSBYNEf3l/HlbGEE2W47gYctto5rRWXWZvscfdl4IvS5m8t5Yux7doAd7k5I1k8prsoaGzuXcsnBQCgNrBD9cFh1B9vgh3innYVnX06tMd/q8uaxmFI+XNKbZoNYADqzLfAXxjv0FkQjcXILdDi9ZyxuOfsPnyiRU1Aw3ODxCQSgmMAHcFoF8UyKxyDiPnmi+pT5KTdSiFFQo8pn08Hgv7KRc+VSNQf51PZunyPa6uOJ/h5EX95GYb3PfPLGxmhpbr0ps0MvF+r20Lgd+RNhoB4BNVM5BO5YUET58GscWraQM166WqaC4DvLN7MxqzZfK2Cq1LCgY3yoJWs4vtqocPxhNLyVgyAAn5Z1az+/zDl2LGA==;ac/zGIS3dvWky/FWurGiTw=="
 ---

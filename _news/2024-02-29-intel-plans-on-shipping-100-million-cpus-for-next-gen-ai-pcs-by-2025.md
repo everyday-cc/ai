@@ -67,20 +67,6 @@ related:
         width: 842
         height: 428
         isCached: true
-  - title: "Intel gets down to business with new vPro Core Ultra processors for the AI PC revolution"
-    excerpt: "Intel Core Ultra processors with vPro come with an NPU (Neural Processing Unit) built in to function as an AI accelerator. Conversely, Intel 14th gen with vPro will continue to rely on the CPU or GPU for AI tasks due to them being an older architecture."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/intel-announces-vpro-core-ultra"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2HExYsi7MsupWK4eEXEKFK-1200-80.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "PqzLtAC3FFrww2b91ad+/PmKkV5PjRyzgPnCvtQhnWPk3rsrAyjmIdpzuMcokkYnz6+8ny1OKjXFjMbEYFNSEJrsxy3Rl4+rDqOixr3eWqdHUWOMBnJI01sU6eiS+sCooUdvl7Sfi6x+b6NJy+11D8LvQ6sOvpPxOZNxbSYOVsWyGp5BtobZslrfsHYYTNAOb5Nz7YAoxA+EAAqMAeffcCaFYYPHB3v5oFNzRCJxvw3nb67D+iQOltYAoCz4hZ91gikJumSApaLVnEoh0ACS/63aNTUDbfnqAvvX4yiBebW5MEq0KicoJp7+Fp/z8K6gzUA7jfWqypIszk82I+oKqIhq3Y/HyURPddJL1K3Hv+38rrLj5fJzaaCUugFsPVnAQAGc4YMy3HbhHWL7++rj8NMRk7Sfx5DiUdBaKFB2lIvBmOi8VZ3JwPSwfFF6FmJ66FfdoeV/ymK8VeDIJ/nSIvyRbKq6Pz5JMvXcG74JiTqM0VxVfEetLvchAH0QRKzJCxthKEFqAd9LC3xIqsdHNA==;aiU7s1s4sMneO4gqVe5f2w=="
 ---

@@ -1,14 +1,16 @@
 ---
 category: news
 title: "Will AI translation make learning a new language pointless? Experts weight in as Google, Samsung, ChatGPT spur ‘giant strides’ in technology"
-excerpt: "With AI-powered language translation apps becoming evermore advanced, linguists give their opinions on whether it will ever make the act of learning a foreign language pointless."
-publishedDateTime: 2024-03-02T11:15:00Z
-originalUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=latest&pgtype=homepage"
-webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=latest&pgtype=homepage"
+excerpt: "When the protagonist in the British cult sci-fi novel The Hitchhiker’s Guide to the Galaxy sticks a creature called a Babel fish in his ear, it translates all alien speech for him. Can artificial intelligence (AI) give us something similar? Thanks to ..."
+publishedDateTime: 2024-03-02T11:18:00Z
+originalUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur"
+webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur"
+ampWebUrl: "https://amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: scmp.com
@@ -29,6 +31,6 @@ images:
     height: 630
     isCached: true
 
-secured: "JkD7H+Hf0CoPq2JJ6oxD66spOQPTHorVgod/fSlbE3Hz8gE9IYUywGm85JLqT+ZogInQRLH15la2b/GACc3MO2SRfKLvm+befxJC9EphwpLWehW9w2PvQWhQ0joRQkgPoyEnkS5747Go99loP805Ir15OGPgQniUDx3U09qnI9tUeImAYf/BMBF2QzKzvWoCZ9DRX7wEBTpwun6z4lPB3pOsEZwhxGnIBdgW3Vl9DMjv65Q/IoroAYwVzjhCUJFSZbOLgbpMdHnY7MfW6tTSIUwFSby6ZkOucWOng6wpN+yOJ0QuO0X51mCQTGgvz90oqXEOl9oUVCQTM0JHBw7PCfZKpnezm7EIRkb2rast5g5iWmGvdFm2jueW4o3Uma9BLbey1fuG9QM401mhcrBGfAE4UqkNB2jghWY5zQY7Z1Rrtq6eYZd4vIva/yMzAGqviuSWZSqcnDAa+u5I+ssKh9PGjzCDGCwxLmFPxtvGq1xk6YTEn4LkZ/3km5OXqO94Y+1vU2jGVE10FYVOg6gZAQ==;ZsV1leVnSVbzWX8NeGdL2Q=="
+secured: "QjF52ICilYPrAXv72FbzPF7VfpldRznbp7nlT6fX6IIA79upP5sX8a5USBHHULQufrSU7/pWDjrDxbmSErmxGGmzNGXkkKB1fnLqwtDgc6utGsZuxZBcr/ug1mNnTGAsm27d/N/KgUI7N304XHKJJolxXKL20Vc+yG7RAdLZpZ7f9uf9uyXLB6okeHVP3FlbqHUFk4YHXnJcPi/GM9P/938p2beGZKHOPf3nfX6bcLOyq6syBMG8AKbPvxh/Y0JEXAArdBDjlKaCTzY1+dLEyOj3CB5RvmdaQzqLbvwq7tLPtXjWP+blrf/6dPBQ+sJiW2MvK7LbEXxLgHEDGn8URZD7XZs1siNg/BZ1ZjEbOOw=;esyzlqJdp8BX0RmN+QKgXw=="
 ---
 

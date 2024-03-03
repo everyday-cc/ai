@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/102056-nvidia-allegedly-punishing-cu
 webUrl: "https://www.techspot.com/news/102056-nvidia-allegedly-punishing-customers-shipment-delays-leads-former.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TechSpot
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former AMD VP Likens Nvidia to a 'GPU Cartel'"
-    excerpt: "Along those lines, an Nvidia competitor named Groq was mentioned in the article as saying Nvidia is stifling competition by slowing down shipments of AI hardware if it thinks a company is looking elsewhere for its GPU needs due to the long wait times."
-    publishedDateTime: 2024-02-29T12:00:00Z
-    webUrl: "https://www.extremetech.com/gaming/former-amd-vp-likens-nvidia-to-a-gpu-cartel"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
   - title: "Former AMD boss brands NVIDIA \"the GPU cartel\": Rumors of delayed shipments and supply control listed as strongarm tactics"
     excerpt: "While giants like NVIDIA and AMD are often at the forefront of GPU-centric hardware, moves into self-made AI manufacturing are becoming more common as Microsoft recently partnered with Intel on its own Arm processors for AI and computing workloads."
     publishedDateTime: 2024-02-28T00:00:00Z

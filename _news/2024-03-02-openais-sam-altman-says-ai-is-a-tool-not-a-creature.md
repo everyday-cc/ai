@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
 type: article
 quality: 87
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
+  - title: "Altman Ups AI Arms Race"
+    excerpt: "Altman has been courting Middle Eastern sovereign wealth funds (SWFs), including Saudi Arabia’s Public Investment Fund (PIF) and Abu Dhabi’s Mubadala Investment Company, Abu Dhabi Investment Authority,"
+    publishedDateTime: 2024-03-02T23:35:00Z
+    webUrl: "https://gfmag.com/technology/openai-seeks-trillions-funding/"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 41
+    images:
+      - url: "https://s44650.pcdn.co/wp-content/uploads/2024/03/OpenAI.jpg"
+        width: 1400
+        height: 700
+        isCached: true
   - title: "Elon Musk sues OpenAI over AI threat"
     excerpt: "OpenAI is not so open now, Musk claims, following the closed source release of the company's artificial general intelligence technology under Microsoft."
     publishedDateTime: 2024-03-01T04:22:00Z

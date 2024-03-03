@@ -25,22 +25,6 @@ images:
     height: 1460
     isCached: true
 
-related:
-  - title: "Workday squeezes past the Street’s expectations and acquires AI talent recruitment startup"
-    excerpt: "More specifically, Workday said HiredScore will enable it to leverage responsible AI to solve recruiting challenges, so companies can match, hire and manage talent. It will also enable customers to manage talent lifecycles more efficiently, and elevate the experience for recruiters and hiring managers."
-    publishedDateTime: 2024-02-27T00:10:00Z
-    webUrl: "https://siliconangle.com/2024/02/26/workday-squeezes-past-streets-expectations-acquires-ai-talent-recruitment-startup/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/IMG_2052.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-
 secured: "f9yP7CNW5B01yEtxYeuLK1U8XnDjHKfZWNmT5pun66MZlCFo6c0h8Ju6qV8dUqBMV31KPu3+MRq7aAWQoglBhll61Z5M2xWLWpw3Sa1f0apVhUB6179nEwp/CVe5S6eB8MJg4i88azC7/3qkbUqIR61NPnDyGkFsSnc3f/dNvjyhuHiNmsRVJN10gAgVVXjCthcVdITdwEvfbCuuevmlLCOd5QYAOT5hO1fuMdxgXMle9wNt/USZjlrs0HyIglKrj9h0h0wIsdaUksRI8MEIPB4kezjV5ELSTwJZrrsq14UQ9fKrPhfaa7WEbJ4LPjmKw+DidRgn3mwfucH7r9iX4KND5AyTae+bgqrW2fj5PmQ=;IELB/2h5cYCf6lf8IgLoRA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deli
 webUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96529_04_intel-plans-on-shipping-100-million-cpus-for-next-gen-ai-pcs-in-2025_full.jpg"
         width: 1500
         height: 843
-        isCached: true
-  - title: "Intel gets down to business with new vPro Core Ultra processors for the AI PC revolution"
-    excerpt: "Intel Core Ultra processors with vPro come with an NPU (Neural Processing Unit) built in to function as an AI accelerator. Conversely, Intel 14th gen with vPro will continue to rely on the CPU or GPU for AI tasks due to them being an older architecture."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/intel-announces-vpro-core-ultra"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2HExYsi7MsupWK4eEXEKFK-1200-80.jpg"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "8K5pLHyypJcITAGNHy1WU9onG/BFjYf91bRiEyyhYyCclWHavIuDl4OlILyGWiPf5ichcaqm3wI6dXykuh8UTbBm7kiRjQNDg9/N+X1pA+haweP4s1mizZW00PbasA4UQ9gGfp9UJdlajNWtCRil7NlHa1bAbFNzS1ZNGYyLpilOHNz66OKFKO/eTpCfoTcWkLwXUHG7GbyH3+gSbyOpV8OZNCJimMXfv/qec60q+16kxbg/eJ8/5ko8mowvsOdW76CCTkfiGgTQ7RMHVsybQRBDxgpAJKmVgYNi66KSzTiyXVAKeOIoy39Nsb7h7K6s581DJjEwEzdvkKpUJCNyQaZPgEALKavcsz+Xp0F8wGc=;oKEJLHtVgtl9IJmLcCR4dA=="

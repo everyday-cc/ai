@@ -66,6 +66,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
+  - title: "Altman Ups AI Arms Race"
+    excerpt: "Altman has been courting Middle Eastern sovereign wealth funds (SWFs), including Saudi Arabia’s Public Investment Fund (PIF) and Abu Dhabi’s Mubadala Investment Company, Abu Dhabi Investment Authority,"
+    publishedDateTime: 2024-03-02T23:35:00Z
+    webUrl: "https://gfmag.com/technology/openai-seeks-trillions-funding/"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 41
+    images:
+      - url: "https://s44650.pcdn.co/wp-content/uploads/2024/03/OpenAI.jpg"
+        width: 1400
+        height: 700
+        isCached: true
   - title: "Elon Musk Sues OpenAI and Sam Altman for ‘Perverting’ Nonprofit AI Mission"
     excerpt: "The Tesla boss alleges that the lab was supposed to be working solely for the “benefit of humanity” instead of profit."
     publishedDateTime: 2024-03-01T17:04:00Z

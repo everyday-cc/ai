@@ -7,7 +7,7 @@ originalUrl: "https://www.pressherald.com/2024/02/28/apple-investors-reject-call
 webUrl: "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Apple Investors Grow Impatient on Artificial Intelligence"
-    excerpt: "Photo illustration: David Fang Over and over again, Apple Chief Executive Tim Cook has been asked the same question: What is Apple doing about generative artificial intelligence? His answer: Stay tuned. Investors are getting impatient. “Apple really hasn ..."
-    publishedDateTime: 2024-02-29T10:31:00Z
-    webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
 
 secured: "/bJnyTaL/QCp44Wus2S1gWktJBRUr15U/AG76ZCUb2r6nmEpuzDoT5UjB/h9V7KsVJbkn/hnDY1XXJRtk6VNyIn5kbZtCkCGof9DoRhLuyXb3KUG+raRl9XkfUXIUXdr6ArDOcR5jfRqT1zAAWT6ZPX3EpAKArTrb4etAW1AY8uP7rTctgnE+WVGMMULMPUaDHoN32jExkieBPbirimlqKt+p45LNJNSFc6XRyVI7e/M8GFWMker1ZyS9OC0Mzp/dcbB4uArQvZ8Mj0ZYzu7VSE2hMo48JsKZolxYkJUaD0pwl9qPMF/rFMqnJDzEPXgWA84MI4AdLzHFS0Hnyx9yGSELKiKQdpii3yeVBV5ZeA=;hwMLSlS7ffH6iFEIfEf9gA=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple reportedly cancels electric car development to focus on AI"
+    excerpt: "Open AI’s ChatGPT start page. Image source: Jonathan S. Geller It really isn’t surprising to see Apple making a shift like this. While the company has been working on an electric vehicle for years, it doesn’t appear to have been any closer to ..."
+    publishedDateTime: 2024-02-27T19:37:00Z
+    webUrl: "https://bgr.com/tech/apple-reportedly-cancels-electric-car-development-to-focus-on-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
 
 secured: "ao/4seHvAoVuXaMSaIllrNRewrxPCn4PuPZAR0uhQUFGp8PXB7+v/rqXlIsc+1/6EiyO+9fv4+7QOoIULZHF3UAnrlpLAbnRbrTv23sc0/Z8h/i/CdX6UYtSKdd2kkcKF9va7yIYpwQ6aRtCCLWwJ3lTsmIcrt+4du0C+rxJwTk4agmcJHK+JlPoTxJS1vaY8FPLkjDJPBnvtr9sUsbftJAq5IG0m1fLa66kQYIbPaGPJs9Wjz6AAq38EZGRYnExgVsxiVWSeOVIMgM791MYo1gMt4F/AsFQDqa/M+Nm77CO2GDyfRe6YID6MQ/4m7GbR91xyWw/GLG7ptb6L+Wd0BqLzdnkPWc3tRkK/ZumCtGi9uKh4I6RliRkoV0CXboCgYGnXhzhtshNUMKj9zzY1A/7kFoF9y8phH8JSVhpnj2uXFhxSeADH+q9NahNEJYEuhE24lgIviLpE6dxtnAczj9o/J+Hv279EGH9ppk5jDOtieO7PKnmI16o/2FMA8tFMJkwbaq3il07WeozP4SHFQ==;8YyKhBDbXrWfSl7gmijqQw=="
 ---

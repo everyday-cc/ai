@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Paradoxes Of Artificial Intelligence"
-    excerpt: "artificial intelligence, a survey from IBM’s Watson Group finds. 3. AI is expensive to implement. AI helps manage and reduce IT costs. For example, the rising practice of FinOps — which encourages intelligently controlling technology spending — may ..."
-    publishedDateTime: 2024-02-27T02:36:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "The Rise Of AI Tutors"
     excerpt: "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning."
     publishedDateTime: 2024-03-01T15:00:00Z
@@ -57,61 +41,89 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Q&A: Businesses need to be the boss of AI, or else"
-    excerpt: "The keynote speaker at FutureIT Los Angeles, Anat Baron, shares her thoughts on innovation and generative AI, guardrails, and preparing a workforce ready to use emerging technology."
-    publishedDateTime: 2024-02-27T00:18:00Z
-    webUrl: "https://www.cio.com/article/1309848/qa-businesses-need-to-be-the-boss-of-ai-or-else.html"
-    ampWebUrl: "https://www.cio.com/article/1309848/qa-businesses-need-to-be-the-boss-of-ai-or-else.html?amp=1"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1309848/qa-businesses-need-to-be-the-boss-of-ai-or-else.html?amp=1"
+  - title: "Inside the rocky marriage of hedge funds and top AI talent"
+    excerpt: "But it attracted top talent from tech giants like Microsoft and Uber. The AI research team operated in Seattle and was led by Li Deng, who was poached after spending 17 years at Microsoft, where he led AI research. The team won over stock-picking portfolio ..."
+    publishedDateTime: 2024-02-27T20:36:00Z
+    webUrl: "https://www.businessinsider.com/hedge-funds-artificial-intelligence-talent-culture-clash-citadel-2024-2"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2024/02/Anat-Baron.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 1024
+      - url: "https://i.insider.com/65dd05c16080194819fa500e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Perfect promises, imperfect realities of AI"
-    excerpt: "With the widespread adoption of AI comes worry regarding its ethics. Deepmind’s original charters for AI ethics over time have transformed into Google’s AI principles, which involve objectives including being socially beneficial, avoiding unfair biases ..."
-    publishedDateTime: 2024-02-27T05:16:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/perfect-promises-imperfect-realities-of-ai/article67891557.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-  - title: "Welcome to the era of mobile AI"
-    excerpt: "When integrated into phones, AI is, to put it simply ... Availability of the service varies by country and language. Accuracy of results is not guaranteed. 3 Live Translate requires a network connection and Samsung Account login. Live Translate is only ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://mg.co.za/partner-content/2024-02-27-welcome-to-the-era-of-mobile-ai/"
-    type: article
-    provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 39
-    images:
-      - url: "https://mg.co.za/wp-content/uploads/2024/02/image001-1.jpg"
-        width: 813
-        height: 508
-        isCached: true
-  - title: "Fears of AI threat to democratic elections"
-    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
+  - title: "Artificial Intelligence: Preparing for the EU AI Act"
+    excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
     publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-preparing-for-4927482/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 52
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16204_3837.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Apple Investors Grow Impatient on Artificial Intelligence"
+    excerpt: "Photo illustration: David Fang Over and over again, Apple Chief Executive Tim Cook has been asked the same question: What is Apple doing about generative artificial intelligence? His answer: Stay tuned. Investors are getting impatient. “Apple really hasn ..."
+    publishedDateTime: 2024-02-29T10:31:00Z
+    webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Retail Investors' AI Bet C3.ai's Shares Climb on Strong Results, Forecast"
+    excerpt: "Their average rating, according to LSEG data, is \"hold.\" D.A. Davidson has an equivalent rating on C3.ai but raised its target price to $30 from $28. Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%."
+    publishedDateTime: 2024-02-29T07:27:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-29/retail-investors-ai-bet-c3-ais-shares-climb-on-strong-results-forecast"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
+  - title: "CT task force encourages use, regulation of artificial intelligence"
+    excerpt: "The task force says CT should explore the use of AI in government and the private sector while protecting consumers from potential harm."
+    publishedDateTime: 2024-02-28T21:24:00Z
+    webUrl: "https://ctmirror.org/2024/02/28/ct-ai-artificial-intelligence-task-force/"
+    type: article
+    provider:
+      name: The Connecticut Mirror
+      domain: ctmirror.org
+    quality: 39
+    images:
+      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/06/20210609_LegislativeSession_Capitol_YK_309.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Media and Artificial Intelligence"
+    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
+    publishedDateTime: 2024-03-02T21:00:00Z
+    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
+    type: article
+    provider:
+      name: standardmedia.co.ke
+      domain: standardmedia.co.ke
     quality: 37
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
-        width: 700
-        height: 1047
+      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
+        width: 800
+        height: 500
         isCached: true
+  - title: "Nvidia: The mother of all artificial intelligence"
+    excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
+    publishedDateTime: 2024-03-01T20:47:00Z
+    webUrl: "https://www.thestar.com.my/business/insight/2024/03/02/nvidia-the-mother-of-all-artificial-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 19
 
 secured: "ZMSPFORM8ZjoJU4NOo+sjjUHY6giTQGqYlpgbbR01CqwnsYSNGu09Znx7RZv8ygTJsTF0YbILGNl550ZuKWYOjMPHqvk2c6PrSqbXksR5BTmUxq98Ar5YBjarEsn7Vn+4V2ws7vbbGQYtFZBu9AEmBox75tOecO5VBYVKpixtMSG/PEzK8f2+2gcK4WLoJuLhI/6P74uDGrtAATOTzIGYT2nSmBkAsngsChwAMBkDdNITbzd5aF3qPp0+8xl7F5kiRXXClHBo4ny0O0v5u6wA3iCR4V+om3HqR6OZ42ZY0GnTipHqXt5bdsln+Kd0jUqJfPpA6pL/Bf+8WcIa6r/qw2tJ44CQJW3XzbHpVrlniA=;wuurp0AtQmLIPd+/Qt8JyA=="
 ---

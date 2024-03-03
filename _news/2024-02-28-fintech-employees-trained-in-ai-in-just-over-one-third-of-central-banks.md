@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why do Nvidia’s chips dominate the AI market?"
-    excerpt: "A high-performance GPU can have more than a thousand cores, so it can handle thousands of calculations at the same time. Once Nvidia realised that its accelerators were highly efficient at training AI models, it focused on optimising them for that market."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2024/02/27/why-do-nvidias-chips-dominate-the-ai-market"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 54
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240302_BLP506.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI In MarTech: How AI Will Impact The MarTech Industry"
     excerpt: "The crucial part of AI-powered MarTech systems is to balance human creativity with the automation tasks that they are responsible for. Each year, I have seen new AI and tech startups spring to life. They claim to assist marketers in automating their routine tasks as it consumes almost a third of their time, according to HubSpot."
     publishedDateTime: 2024-02-28T12:30:00Z

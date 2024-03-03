@@ -43,22 +43,6 @@ related:
         width: 4727
         height: 3016
         isCached: true
-  - title: "Samsung becomes first to introduce 12-stack HBM3E amid high demand from AI"
-    excerpt: "All three are planning to increase their production output of HBM this year, with the downcycle of the memory chip market seemingly over, and to meet the high demand from the popularity of AI, which has increased demand for GPUs __ especially those made by ..."
-    publishedDateTime: 2024-02-27T02:23:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-becomes-first-to-introduce-12-stack-hbm3e-amid-high-demand-from-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6f7adb4d553815944a1149614dfcb6143622d884/2024/02/27/fe7919e2-c351-438f-bacb-65dc120d8ae4/hbm3e-12h.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "xO+ayvWr9QUlEOy90EyI2wNCz4iUK4gpCrufKMXZxJ5LUZqSzYYkAhFqef+zcma20WgWe1691/pADTYk+ZfHKII8q+9XAX60e/egn0g3sixEzRU/HHZYhVJ+BAbC1VdRYZHvrCFzBQXEvTl5DQOd+TYP+44A9J8h0kBZqJKKUteE/ThXF7fhTw7Uyz/lt1LYrj25wzFZfqO9GF+lKcKdahRzds2bvNtk6cNuDgLTOcKOFUs06MQ//jhMDbrNuYcieCwDV+4pqItCZD+UzqjcGC9rF+GPI74fm/sqDwK/73a2bCxHfFWLxTcGSHQ4gobLm+S10yCxti3fTcM01jZ5ihYpFuwjEHypDPoFnN9J9So=;Zybym1lUsF6wStCijXeO/Q=="
 ---

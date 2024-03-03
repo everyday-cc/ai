@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup
 webUrl: "https://www.reuters.com/technology/us-enterprise-ai-search-startup-glean-raises-200-million-plans-hiring-spree-2024-02-27/?ref=upstract.com"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI enterprise search startup raises mega round at massive valuation"
-    excerpt: "The startup's announcement now places it as the second largest ... \"We are at the beginning of one of the biggest transformations in technology; generative AI is an incredibly powerful technology that will unleash productivity and new efficiencies, but ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/02/27/glean-raises-series-d-22b-valuation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "US enterprise AI search startup Glean raises $200 million, plans hiring spree"
     excerpt: "Arvind Jain, cofounder and CEO of Glean, who also co-founded data management startup Rubrik, said he plans to use the funding to double the team to 700 people this year."
     publishedDateTime: 2024-02-27T14:42:00Z

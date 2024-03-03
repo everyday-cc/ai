@@ -98,22 +98,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft's $2 billion bet on this AI startup as it looks beyond ChatGPT"
-    excerpt: "Microsoft has invested $2.1 billion in Mistral AI to accelerate the development of large language models. Mistral AI's flagship commercial model, Mistral Large, will be available on Azure AI and offers versatile language processing capabilities."
-    publishedDateTime: 2024-02-27T02:57:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/articleshow/108026849.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/amp_articleshow/108026849.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-invests-21-billion-in-mistral-ai-to-accelerate-development-of-large-language-models/amp_articleshow/108026849.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 88
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-108026849,width-1280,height-720,resizemode-4/108026849.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mistral AI makes waves with deals across tech giants including Microsoft, IBM"
     excerpt: "Paris-based startup Mistral AI has cemented itself as a rising star in the artificial intelligence world, landing major partnerships with IBM, Microsoft, and others just one year after its founding. The fledgling company is moving fast to commercialize ..."
     publishedDateTime: 2024-02-29T12:45:00Z
@@ -185,22 +169,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/microsoft_ai_reuters_1689769738584.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "EU To Examine Microsoft, French AI Mistral Partnership"
-    excerpt: "Microsoft said Monday it sealed a \"multi-year partnership\" that would allow Mistral to use its platforms including Azure AI, which enables businesses to build apps using AI. A Microsoft spokesperson said the company was pouring 15-million-euros ($16 ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.barrons.com/news/eu-to-examine-microsoft-french-ai-mistral-partnership-55daebb4"
-    ampWebUrl: "https://www.barrons.com/amp/news/eu-to-examine-microsoft-french-ai-mistral-partnership-55daebb4"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/eu-to-examine-microsoft-french-ai-mistral-partnership-55daebb4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
         isCached: true
   - title: "Microsoft Invests in French Startup Mistral AI to Foster AI Innovation"
     excerpt: "Microsoft entered a multi-year partnership with Mistral AI aimed at fostering innovation in the artificial intelligence AI industry."
@@ -414,20 +382,6 @@ related:
         width: 1536
         height: 1152
         isCached: true
-  - title: "You Can Now Replace Google Assistant With Microsoft's Copilot AI"
-    excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 56
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HQNWQRY1922DNZ6SX0GTXXWM/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "You Can Now Replace Google Assistant With Microsoft’s Copilot AI"
     excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
     publishedDateTime: 2024-02-27T22:31:00Z
@@ -441,34 +395,6 @@ related:
       - url: "https://www.lifehacker.com.au/wp-content/uploads/2024/02/hero-image_961bb2.jpg?quality=75&w=640&h=360&crop=1"
         width: 640
         height: 360
-        isCached: true
-  - title: "Microsoft collaborates with French start-up Mistral AI"
-    excerpt: "(MENAFN) On Monday, the US-based multinational technology company Microsoft revealed its collaboration with French start-up Mistral AI in a multi-year partnership aimed at expediting advancements in artificial intelligence (AI). \"The AI industry is ..."
-    publishedDateTime: 2024-02-27T02:41:00Z
-    webUrl: "https://menafn.com/1107903847/Microsoft-collaborates-with-French-start-up-Mistral-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_BusinessFinance_305.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
-  - title: "Microsoft Partners with OpenAI Rival Mistral"
-    excerpt: "It was then accessible through Azure AI Studio and Azure Machine Learning. \"This latest addition of Mistral AI’s premium models into Models as a Service (MaaS) within Azure AI Studio and Azure Machine Learning provides Microsoft customers with a diverse ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://redmondmag.com/Articles/2024/02/27/Microsoft-Partners-with-OpenAI-Rival-Mistral.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_DecMaker.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Cognizant and Microsoft deepen partnership with Azure-focused solution"
     excerpt: "Information technology services company Cognizant Technology Solutions Corp. today announced a dedicated version of Cognizant Skygrade for Microsoft Azure customers that helps cus"
@@ -604,20 +530,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96489_01_paint-app-could-soon-get-the-ability-to-generate-ai-art-in-real-time_full.jpg"
         width: 1500
         height: 843
-        isCached: true
-  - title: "Microsoft and Mistral AI Announce New Partnership to Accelerate AI Innovation and Introduce Mistral Large 1st on Azure"
-    excerpt: "This partnership with Microsoft enables Mistral AI with access to Azure’s cutting-edge AI infrastructure, to accelerate the development and deployment of their next generation large language models (LLMs) and represents an opportunity for Mistral AI to ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-1st-on-azure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 45
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
         isCached: true
   - title: "Microsoft goes public with pledges to foster innovation and drive competition in AI economy"
     excerpt: "From a competitive standpoint, the company said it is committed to ensuring customers that are using Azure for AI workloads can easily switch to a new provider and export their data to them with ease, and is investing in AI skills initiatives to lower the ..."

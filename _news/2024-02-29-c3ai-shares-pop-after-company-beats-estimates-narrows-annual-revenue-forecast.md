@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-be
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Retail Investors' AI Bet C3.ai's Shares Climb on Strong Results, Forecast"
-    excerpt: "Their average rating, according to LSEG data, is \"hold.\" D.A. Davidson has an equivalent rating on C3.ai but raised its target price to $30 from $28. Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%."
-    publishedDateTime: 2024-02-29T07:27:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-29/retail-investors-ai-bet-c3-ais-shares-climb-on-strong-results-forecast"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
   - title: "Pure Storage Earnings Top Estimates. Why They're Another AI Play."
     excerpt: "Pure Storage posted better-than-expected financial results for its fiscal fourth quarter ended Feb. 4, and provided an upbeat outlook for the 2025 fiscal year. Pure, which provides systems based on flash memory technology to enterprise customers,"
     publishedDateTime: 2024-02-28T21:05:00Z

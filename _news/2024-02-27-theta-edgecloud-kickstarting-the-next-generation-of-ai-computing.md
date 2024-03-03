@@ -25,17 +25,6 @@ images:
     height: 462
     isCached: true
 
-related:
-  - title: "Crafting Cutting-Edge AI Assistants with Ubuntu"
-    excerpt: "With the environment set up, developers can start coding their AI assistant. This includes writing scripts for natural language processing, integrating APIs for added functionalities, and implementing algorithms that allow the assistant to learn from ..."
-    publishedDateTime: 2024-02-27T00:00:00Z
-    webUrl: "https://www.linuxjournal.com/content/crafting-cutting-edge-ai-assistants-ubuntu"
-    type: article
-    provider:
-      name: Linux Journal
-      domain: linuxjournal.com
-    quality: 19
-
 secured: "bsjebqB2eZymejEvi+GjnuXUmS02TorFQWkEmiMpVSHwai6XDeNbKhruR2/4MGQ2yqq5QmUjE3XgvBb3ntKGMIQrbJ1TOliaA/Sf2NitR42Czy2sllhZ1IvYQhV1vmkIeU858FvnfLlIBV6tYUHs8nDbEiSaDGd5rGhymMDLXlGmGIpWr0jRXjbCgIOOYiMfnRftRorV+tfrtCcxSpZfXN8aKSrNGSXzHxBk/yYqU/z1yPKMg2PBQ6jtjK9b3ADNIkXBAN1R3npi/+V4TTV4CwQMolxIt2yVHsxaL2+5Xv9Or0cwBgTjNWUne6VPtFMRNS++OuiBBGuSF3ivgAU8yqiOhIeTVH8XQPer90p26t3FG+RyTP94SEPpXM0Kf+ccpDGSSCqfX706CiKwyOhutqIyBaCQIBbjW5MLUjp4i1h+Skly08Dr/BBoWQTkSL+BWAmlQQ1sLNiU1nbzJc3ZNnZEbyP3JGyQ8OBDlogtHCVj95j13TnXZEeriEuVXW3B/4+ZnQCWst8m2SAz9w7FuA==;Rd4apyYUXb1wfd04ZcYiQw=="
 ---
 
