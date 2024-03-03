@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/software-development/pa-self-driving-shuttle-
 webUrl: "https://technical.ly/software-development/pa-self-driving-shuttle-av-electric-philadelphia-navy-yard/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Self-driving, zero-emission van to shuttle people around Philadelphia Navy Yard"
-    excerpt: "The zero-emissions van has been undergoing testing for the past year. The nine-seat, electric-powered van will run from 10 a.m. until 2 p.m. on weekdays."
-    publishedDateTime: 2024-02-27T12:53:00Z
-    webUrl: "https://6abc.com/navy-yard-self-driving-van-driverless-bus-zero-emissions-vehicles-philly-transit/14472492/"
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 0
 
 secured: "GMWDlrdfMgtaNZFEXDd657uWytJslAdHfxniuFNpb3oUfjLmOO0Jx4q0V+s3Pnlpa0Y288ZlfOKXac9ekYQ9yRbwBOtJn7PHd/+QgR5W7k5KFnl3EczuzOqIyrjK/cvi+QZyzWuTXwq/ZQwBz404hb55G2rIYG7XH+BqDe9W17wZTvXHQZvM8tmAOrl5iLGKFldWEjiI56h8I6U7OsnixSfCvIAg01OYGYS2Z87FEqilLZL8wcoVt3f/FymrDGYfWO8hQJ2vj2tFPSwKjkDXHoPfVucfMgMEEaGm44Ym8ktCuW2X1uJeBmNnrbO9R1s3K6cwOPXpvBIbf+ykBjSKa+qVvRgRRfgAJLRTaLpUgcnjbA4cYlQPoJF8ezh/I7aCdHg+ueOsUm/z53fFzuumU3XuVKwxvqGHMpa+6+GXQUpkUE6eov248LnFkJElxzTC9+coZbZLKzqpn1jNfjxkztWd3YnoS3r+n/G8cfhlSAkgy69VBjBGlS8fJ4kJNn3ZR0mBL4nROVNibgbL4T/VvA==;ZtId2XqX6U1/vg6EIV1z3w=="
 ---

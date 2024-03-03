@@ -71,6 +71,20 @@ related:
         width: 1000
         height: 819
         isCached: true
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 41
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Navigating the impact of AI in our daily lives"
     excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
     publishedDateTime: 2024-02-27T17:20:00Z

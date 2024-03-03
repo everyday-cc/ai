@@ -352,6 +352,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
+    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
+    publishedDateTime: 2024-02-29T14:42:00Z
+    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 43
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Bay Area robotics startup Figure AI quintuples funding with $675 million from OpenAI, Nvidia, Jeff Bezos"
     excerpt: "Initially bootstrapped by founder and CEO Brett Adcock, Figure AI now has major backers including OpenAI, Nvidia, Microsoft and Jeff Bezos. It also has a deal with BMW."
     publishedDateTime: 2024-02-29T15:48:00Z
@@ -379,15 +393,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
-  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
-    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
-    publishedDateTime: 2024-02-29T14:42:00Z
-    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 23
 
 secured: "CdEyqQrL8JuUjWR4ci8iQBFyKvlIAW8aZrNLasyViSZtpDojwWCzBxp7V9iIaAYLHMYfF+nFxH7EU0emRGdNvVTjzuSkxlZueJTqsY6aC/Mu8jdsw47DmZi6ih8GF60ZLVLyLdVf6nFGMyh6r9AK4UFEfxHO2BjhkbVKK40pX2rG8CLNAx6iOykk78yOVrDve3nkEbBgExqLoAXtIxM0DqWW3fl7lHGX2Zebk0aQtE+PBzZkc8yXFY2s5c/sZAk7JTewBygrC1AS1uKwgc7SIz/ZCkvWjMBEYatdm9hB5YH/SUo4b7ExCyp98zqOitjSNrngEVm78/to8BVWJvswlDORXXhFKcx2UAY6iGhzM8J8fbYSZQYiZtAqIkYaOWpeGga32RmvAskLDEG9uzY39iDhgXC3Hu2YDp/Ds4YiULH0P0Nk0/S4dnOuFhaLT8eN0B8Vx96h/MeuTSRgnBqUJXSIuy5Lrku1tuo20ZvpoNtLLCeuKO4nUzrs06daKwwtDAz60rHVKOBI/3SFuZZRpQ==;qSxrmUkfTEl3vrSrQ4KNjA=="
 ---

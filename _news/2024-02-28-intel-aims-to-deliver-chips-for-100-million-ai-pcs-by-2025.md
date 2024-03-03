@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deli
 webUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Intel Sets Sights on Dominating AI PC Market with Ambitious 100M Target, Partners with Microsoft"
+    excerpt: "The tech giant plans to ship 40 million AI-enabled PCs this year and aims for 60 million the next, targeting over 20% of the global PC market in 2025. Intel’s approach emphasizes not just the performance of its chips but also the overall user ..."
+    publishedDateTime: 2024-02-28T08:52:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37363100/intel-sets-sights-on-dominating-ai-pc-market-with-ambitious-100m-target-partners-with-microsoft"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "8K5pLHyypJcITAGNHy1WU9onG/BFjYf91bRiEyyhYyCclWHavIuDl4OlILyGWiPf5ichcaqm3wI6dXykuh8UTbBm7kiRjQNDg9/N+X1pA+haweP4s1mizZW00PbasA4UQ9gGfp9UJdlajNWtCRil7NlHa1bAbFNzS1ZNGYyLpilOHNz66OKFKO/eTpCfoTcWkLwXUHG7GbyH3+gSbyOpV8OZNCJimMXfv/qec60q+16kxbg/eJ8/5ko8mowvsOdW76CCTkfiGgTQ7RMHVsybQRBDxgpAJKmVgYNi66KSzTiyXVAKeOIoy39Nsb7h7K6s581DJjEwEzdvkKpUJCNyQaZPgEALKavcsz+Xp0F8wGc=;oKEJLHtVgtl9IJmLcCR4dA=="
 ---

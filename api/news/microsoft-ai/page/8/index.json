@@ -2,6 +2,85 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-11-googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning.md",
+      "title": "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning",
+      "excerpt": "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
+      "originalUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T03:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-10-microsoft-integrates-copilot-with-azure-quantum-elements-for-advancing-scientific-research.md",
+      "title": "Microsoft Integrates Copilot with Azure Quantum Elements for Advancing Scientific Research",
+      "excerpt": "At the recent Ignite conference, Microsoft demonstrated the advantages of combining AI and Azure Quantum Elements, a suite of services and tools for quantum chemistry and materials science. With the integration of Copilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/12/azure-quantum-elements/",
+      "originalUrl": "https://www.infoq.com/news/2023/12/azure-quantum-elements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/12/azure-quantum-elements/en/headerimage/generatedHeaderImage-1700642167523.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-i-pitted-google-bard-with-gemini-pro-vs-chatgpt-heres-the-winner.md",
       "title": "I pitted Google Bard with Gemini Pro vs ChatGPT — here’s the winner",
       "excerpt": "Google has incorporated its new AI large language model, Gemini Pro, into its popular chatbot, Bard. With this comes the promise that it will perform at least as well, if not better, than OpenAI's ...",
@@ -1279,111 +1358,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-i-made-a-gpt-a-custom-version-of-openais-chatgpt-and-it-only-took-me-15-minutes-heres-how.md",
-      "title": "I made a GPT, a custom version of OpenAI's ChatGPT, and it only took me 15 minutes. Here's how.",
-      "excerpt": "You can now create your own version of OpenAI's ChatGPT — and it can take as little as 15 minutes. In early November, OpenAI unveiled a slate of updates to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12",
-      "originalUrl": "https://www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6568c7ea86933e8fdb2e6e20?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12?amp",
-      "publishedDateTime": "2023-12-03T12:33:04Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-10-best-predictive-analytics-tools-and-software-of-2023.md",
-      "title": "10 Best Predictive Analytics Tools and Software of 2023",
-      "excerpt": "Tableau, TIBCO Data Science and Sisense are among the best software for predictive analytics. Compare their features, pricing, pros and cons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/AdobeStock_616977240.jpeg",
-          "width": 1400,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-02T08:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

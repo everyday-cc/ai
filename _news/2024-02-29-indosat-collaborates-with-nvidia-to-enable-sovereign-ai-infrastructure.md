@@ -117,34 +117,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "NVIDIA is the 'GPU cartel', will delay shipments if AI GPU customers talk to AI GPU competitors"
-    excerpt: "NVIDIA is reportedly delaying AI GPU shipments if it finds out its customer is talking to AI GPU competitors like AMD or Intel, according to a new report from The Wall Street Journal. Jonathan Ross, CEO of rival chip startup Groq, told The Wall Street ..."
-    publishedDateTime: 2024-02-27T12:37:00Z
-    webUrl: "https://www.tweaktown.com/news/96503/nvidia-is-the-gpu-cartel-will-delay-shipments-if-ai-customers-talk-to-competitors/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96503_5002_nvidia-ai-gpu-customers-are-scared-to-talk-other-chipmakers-would-delay-shipments_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "AI Revolution Sparks Nvidia's Historic Market Cap Achievement"
-    excerpt: "NVIDIA's annual profits increased by 769% due to the growing enthusiasm surrounding AI, leading to a surge in its market cap. The demand for advanced chips, driven by the AI boom, could outpace supply if investment doesn't keep up. Bitcoin ETFs have ..."
-    publishedDateTime: 2024-02-27T12:01:00Z
-    webUrl: "https://seekingalpha.com/article/4673698-ai-revolution-sparks-nvidia-historic-market-cap-achievement"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1517344698/image_1517344698.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
   - title: "The Best Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- No, It's Not Nvidia"
     excerpt: "Analysts at BMO Capital see Alphabet(NASDAQ: GOOGL)(NASDAQ: GOOG) as the company best positioned to benefit from the growing demand for generative artificial intelligence (AI). The firm reasons that Alphabet has a big head start on most peers because its ..."
     publishedDateTime: 2024-03-01T12:54:00Z

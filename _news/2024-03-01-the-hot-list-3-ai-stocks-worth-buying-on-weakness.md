@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Sell AMD Stock Before the AI Hype Crashes and Burns"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying that Advanced Micro Devices (NASDAQ:AMD) is a massive"
-    publishedDateTime: 2024-02-27T11:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2024/02/amd-projected-revenue-vs-gpu-industry-1024x643.jpg"
-        width: 1024
-        height: 643
-        isCached: true
   - title: "MSFT Stock: Why This AI Early-Mover Will Stay in the Fast Lane"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Microsoft (NASDAQ:MSFT) clearly capitalized on the generative AI growth trend"
     publishedDateTime: 2024-02-28T11:35:00Z
@@ -46,15 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "PayPal’s AI Surprise: Why It’s More Than Just a Fintech Stock"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some traders panic-sold their PayPal (NASDAQ:PYPL) shares after the"
-    publishedDateTime: 2024-02-29T11:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/paypals-ai-surprise-why-its-more-than-just-a-fintech-stock-1033117634"
+  - title: "What 6 Wall Street commentators say AI will do for stocks and the economy"
+    excerpt: "The S&P 500 could soar as high as 5,800 by the end of the year, thanks to AI's magnifying effect on productivity. That implies the benchmark index notching a 22% gain for the year, according to Sanctuary Wealth's chief investment strategist Mary Ann Bartels."
+    publishedDateTime: 2024-03-02T13:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-stock-market-outlook-artificial-intelligence-economy-worker-shortage-2024-2"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
+    quality: 48
 
 secured: "h9+kjfhLLX5l9ojn/9f5xolefDfyBl2+Cu/VxFh8qlALzA0nV+jLGSs2/UgkpbI88g6Jo8oaJY6rI4lJyJjW0KejqgvWwYE9QWvrGgGvzQSn7EN7c+8lv6GCs2BB4l7k5KSgrdKG1XLBjoN+04LvZcbDrqDe6axVuhOUQ3suWACtJeymx+dVlh/unm+aMh/oa5RN3hjWH9Sh4+521eyl/VpHc76zToEkm54/pNG1bqstd42rI5hTjjT4sp9KvMLB/EladxgzsIemUM1l/1ysXODGRvsBov7DjHt6XPZZE/Yq+p3Le/Fl59BFzHyWnFB495ZshxOCGY4s4Rot9kggLn36fQpE55FY8jPYaGUlCiM=;kYMu0b6w1mLmwK2MYMcwig=="
 ---

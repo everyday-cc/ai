@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/bernard-coleman/experiment-now-to-find-out-how
 webUrl: "https://www.inc.com/bernard-coleman/experiment-now-to-find-out-how-ai-can-help-your-company.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,45 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "You can now try Galaxy AI on any Android phone to see just how good it is"
-    excerpt: "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!"
-    publishedDateTime: 2024-02-27T12:35:00Z
-    webUrl: "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/"
+  - title: "How to Reduce Prejudice When Using AI to Find Talent"
+    excerpt: "To reduce bias in decision-making, begin by training AI systems on inclusive and varied datasets that span a wide range of backgrounds and demographics. 2. Frequent Audits of Algorithms:"
+    publishedDateTime: 2024-02-28T14:53:00Z
+    webUrl: "https://www.onrec.com/news/news-archive/how-to-reduce-prejudice-when-using-ai-to-find-talent"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 68
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Just-Circle-It-lying-on-chair.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI"
-    excerpt: "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1."
-    publishedDateTime: 2024-02-27T22:45:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 65
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg"
-        width: 720
-        height: 540
-        isCached: true
-  - title: "Try Galaxy app from Samsung lets you experience Galaxy AI on any smartphone"
-    excerpt: "The Try Galaxy is a progressive web application that simulates Samsung OneUI 6.1 interface and provides users with tutorials and interactive features"
-    publishedDateTime: 2024-02-28T06:22:00Z
-    webUrl: "https://www.business-standard.com/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/apps/try-galaxy-app-from-samsung-lets-you-experience-galaxy-ai-on-any-smartphone-124022800327_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
+      name: Online Recruitment
+      domain: onrec.com
+    quality: 19
 
 secured: "od6n7Nq9CE9cPtPdt8mSvpTClV1hMqO4Z7LpZDV/I16H0gio0EmUj2aFQQ7EAxeXgSSm7uzbyCEBBfhAC5269torJJv0/OnxQ1FlFKqEfdPVIveIazTPI++HWvK4j19/XiYVISvGOrpSF11POjYsZA7H+Cj4F9AXRGyzPdPpzBYZcuImKjT9x/imsmiMtOKdwKzato6Oo4uZ0zOntA7JdCoxCUjCNYQn8a7QYRiZZQJO9jZyNibtfesy5x9+LVGr+SukBk4mMhmVKEd7FxYmfggworESvCrAYG17kPTqVPSb5Yew5JMi8zRD7ax9Qeb32aWWTNEsPRATkMuLbvr5kbDsFy8/kb0Gj1lJTLfoyYNumfl1RYkujSRncXAlP1SPEYSUnKybXYSzPlaOo+xlOR+f/kOExfyel8U8GUpY46vqWK6XhZxHnYM8DHWcbgn36sv57LhXrX4l4v5WjyH8WBp9CggDbqjdP/PCe5HJMK9S7qItXaEr4antJrxZCSfNBHHFpKf38Ooai5ln5cXANA==;D0c6duFwXNYRSiOb0ej2Gg=="
 ---

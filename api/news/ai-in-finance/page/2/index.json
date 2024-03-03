@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-klarnas-ceo-embraced-ai-by-telling-openais-sam-altman-i-want-klarna-to-be-your-favorite-guinea-pig.md",
+      "title": "Klarna’s CEO embraced AI by telling OpenAI’s Sam Altman, “I want Klarna to be your favorite guinea pig”",
+      "excerpt": "And in this current downturn, fintech has been hit especially hard—funding in the ... Second, “Many people have tried to apply AI and failed, or it didn’t work out and they’ll say ‘that was a fun thing, but it didn’t really make a difference ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/?ref=thisweekinfintech.com",
+      "originalUrl": "https://fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/?ref=thisweekinfintech.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1239737322-e1707787900384.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/amp/",
+      "publishedDateTime": "2024-02-13T12:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-how-to-use-ai-to-help-your-business.md",
       "title": "How To Use AI To Help Your Business",
       "excerpt": "From the financial sector to the automotive industry to healthcare to language models like ChatGPT and beyond, it seems that everywhere you look, you can see evidence of AI advancements. The business world is no exception.",
@@ -1319,58 +1371,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-gen-z-investing-app-alinea-raises-34m-plans-to-launch-an-ai-copilot.md",
-      "title": "Gen Z investing app Alinea raises $3.4M, plans to launch an ‘AI copilot’",
-      "excerpt": "Alinea Invest, a fintech app offering AI-powered wealth management aimed at Gen Z women, has $3.4 million in seed funding ahead of the launch of a virtual",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/",
-      "originalUrl": "https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Alinea-post-1.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/amp/",
-      "publishedDateTime": "2024-01-24T20:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

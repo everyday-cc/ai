@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-apple-may-soon-be-feeling-the-heat-from-investors-over-its-slow-rollout-of-buzzy-ai-products.md",
+      "title": "Apple may soon be feeling the heat from investors over its slow rollout of buzzy AI products",
+      "excerpt": "Tim Cook attempted to reassure shareholders that the company is committed to AI innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "originalUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e07870ce7f1785b2e4d75d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "publishedDateTime": "2024-03-01T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-the-ai-megatrend-3-global-x-etfs-to-capitalize-on-the-artificial-intelligence-frenzy.md",
       "title": "The AI Megatrend: 3 Global X ETFs to Capitalize on the Artificial Intelligence Frenzy",
       "excerpt": "Thanks to companies like Nvidia (NASDAQ:NVDA), artificial intelligence ETFs have become in high demand by investors seeking to ride the tech industry’s most significant trend of 2024. Like most thematic ETFs, just because AI appears in the name of the ...",
@@ -346,6 +398,59 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai.md",
+      "title": "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI",
+      "excerpt": "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
+      "originalUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 347,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Modern_art_of_the_Microsoft_Excel_spreadsheet_f04aba4b-e5b4-42c2-a3a3-d49749990db4-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-tech-advances-as-ai-craze-resumes-tech-roundup.md",
       "title": "Tech Advances as AI Craze Resumes -- Tech Roundup",
       "excerpt": "Nvidia shares rallied, testing all-time highs, as investors continued to pile into the high-performance chip maker on AI growth hopes. Other major AI players, including Amazon.com and Microsoft rose, too. The Securities and Exchange Commission is ...",
@@ -394,6 +499,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-googles-deal-with-stack-overflow-is-the-latest-proof-that-ai-giants-will-pay-for-data.md",
+      "title": "Google’s Deal With Stack Overflow Is the Latest Proof That AI Giants Will Pay for Data",
+      "excerpt": "Stack Overflow’s programming community will power a version of Google’s Gemini chatbot. It’s part of a new breed of AI data licensing deals with websites seeking a cut of the generative AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/",
+      "originalUrl": "https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65dfe32682529b73aa50823d/191:100/w_1280,c_limit/Stack-Overflow-Google-Cloud-Partnership-Business-1435756741.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T22:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1084,160 +1240,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement.md",
-      "title": "Groundbreaking Chinese Ruling Finds AI Company Committed Copyright Infringement",
-      "excerpt": "Chinese media reported the Guangzhou Internet Court ruled an AI company committed copyright infringement in its provision of AI-generated text-to-image",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0b061adf152ee77fb0400/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1404,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
-      "publishedDateTime": "2024-02-29T15:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-wordpress-wants-to-turn-my-old-blog-into-an-ai-zombie-and-it-breaks-my-heart.md",
-      "title": "Wordpress Wants to Turn My Old Blog Into an AI Zombie, and It Breaks My Heart",
-      "excerpt": "As Tumblr and WordPress prepare to serve their content up as training material for AI, it feels like the spirit of the blog-era internet is dying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-my-old-blog-into-an-ai-zombie",
-      "originalUrl": "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-my-old-blog-into-an-ai-zombie",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07FiLG3RGH4zm683ybnpYyJ-2.fit_lim.size_1200x630.v1709212939.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T15:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-xpeng-continues-to-challenge-tesla-fsd-with-xngp-self-driving-now-available-throughout-china.md",
-      "title": "XPeng continues to challenge Tesla FSD with XNGP self-driving, now available throughout China",
-      "excerpt": "XPeng Motors announced a massive milestone for its XPeng navigation guided pilot (XNGP) ADAS feature that enables self-driving in",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
-      "originalUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/XPeng-self-driving-XNGP.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

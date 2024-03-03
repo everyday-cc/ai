@@ -38,20 +38,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Navigating the future of banking, fintech and AI"
-    excerpt: "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technology advances and not get left behind? We invited two long-time experts on finance and technology -- Luis Valdich, managing ..."
-    publishedDateTime: 2024-02-27T12:42:00Z
-    webUrl: "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7c08039/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F1e%2Fd4%2F2668ce2b403e82ecb39505b3aeac%2Fnavigating-the-future-of-banking-fintech-and-ai-1280x720-suni-harford.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech employees trained in AI in just over one-third of central banks"
     excerpt: "The majority of central banks do not train staff in artificial intelligence (AI), the Fintech Benchmarks 2024 finds. Only 13 (37.1%) of 35 central banks say they offer such training. Seventeen (48.6%) jurisdictions say they do not. However, five (14.3%) central banks say they have such plans in the works."
     publishedDateTime: 2024-02-28T10:11:00Z

@@ -2,6 +2,341 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-24-robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again.md",
+      "title": "Robotaxis by GM's Cruise are getting ready to hit the streets again",
+      "excerpt": "Unlike its previous operations prior to October 2023, the vehicles will not be entirely autonomous, and will have safety drivers ready to take the wheel if necessary.  The report also said that Cruise is in talks with local officials to ensure a positive reception when it hits the streets to test its cars.",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "originalUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjAyMzQ5OTcyOTE2NTQ0NTI0/cruise-a-driverless-robot-taxi-in-san-francisco.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "publishedDateTime": "2024-02-23T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-tyler-perry-halts-630m-film-studio-build-over-ai-fears.md",
+      "title": "Tyler Perry halts £630m film studio build over AI fears",
+      "excerpt": "US film and TV giant Tyler Perry says he's putting a $800m (£630m) expansion of his studio on hold after becoming concerned over new AI technology. He was due to add 12 sound stages to his Atlanta complex, but says he has been put off by the release of OpenAI's video generator Sora.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6038/production/_132723642_gettyimages-2014322799.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-68384657.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp",
+      "publishedDateTime": "2024-02-23T15:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-jim-cramer-says-mcdonalds-embracing-ai-at-drive-thrus-is-good-news-for-nvidia.md",
+      "title": "Jim Cramer says McDonald's embracing AI at drive-thrus is good news for Nvidia",
+      "excerpt": "McDonald's use of artificial intelligence in drive-thru lanes is a sign adoption of the technology is growing across the U.S., CNBC's Jim Cramer said Friday. And that bodes well for the leading maker of AI chips: Nvidia .",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107369894-1707254880350-gettyimages-1990954248-js2_0388_myhjvme3.jpeg?v=1707254934&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-humanoid-robotics-the-next-step-for-artificial-intelligence.md",
+      "title": "Humanoid Robotics: The Next Step For Artificial Intelligence",
+      "excerpt": "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
+      "originalUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cybersecurityintelligence.com/files/upload/htmleditor/andy-kelly-0E_vhMVqL9g-unsplash%20free%20human%20&%20Robot.jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cybersecurityintelligence.com",
+        "domain": "cybersecurityintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-new-orleans-magician-says-he-made-ai-biden-robocall-for-aide-to-challenger.md",
+      "title": "New Orleans magician says he made AI Biden robocall for aide to challenger",
+      "excerpt": "Paul David Carpenter says he was paid by consultant for Democrat Dean Phillips to mimic Biden’s voice during New Hampshire primary",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news",
+      "originalUrl": "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/85b9bcd7e3ff51ae576931202a82643999beb84a/0_117_3513_2108/master/3513.jpg?width=620&quality=85&auto=format&fit=max&s=ffd921ab2e83d531bc5e26f5eda61f30",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans",
+      "publishedDateTime": "2024-02-23T13:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-ai-chip-sales-are-driving-stock-markets-to-new-records.md",
+      "title": "AI chip sales are driving stock markets to new records",
+      "excerpt": "Nvidia's unprecedented leap in revenue from higher chip sales for AI and cloud use speaks volumes about the future of the technology and its impact on the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
+      "originalUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_2154798885-100961547-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.amp.html",
+      "publishedDateTime": "2024-02-23T13:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-the-ai-seo-tango-when-robots-write-like-hemingway.md",
+      "title": "The AI-SEO Tango: When Robots Write Like Hemingway",
+      "excerpt": "As artificial intelligence (AI) reshapes content creation, its capacity to mimic human writing accelerates, transforming what once seemed like science fiction into reality. Yet, this technological leap prompts a critical inquiry: What are the bounds of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/amp/",
+      "publishedDateTime": "2024-02-23T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
       "title": "Serco ordered to stop using facial recognition technology to monitor staff",
       "excerpt": "Serco has been ordered to stop using facial recognition technology to monitor its staff for \"prioritising business interests over its employees' privacy\". The Information Commissioner's Office ...",
@@ -855,328 +1190,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-healthcare-startup-abridge-raises-150-mln-for-ai-model-for-clinicians.md",
-      "title": "Healthcare startup Abridge raises $150 mln for AI model for clinicians",
-      "excerpt": "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "originalUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-jeff-bezos-and-nvidia-are-throwing-serious-cash-at-a-human-like-robot-startup.md",
-      "title": "Jeff Bezos and Nvidia are throwing serious cash at a human-like robot startup",
-      "excerpt": "A startup that wants to put humanoid robots in warehouses around the world has an increasingly elite slate of big-name backers with deep pockets. Figure AI Inc. is raising about $675 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
-      "originalUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d9547490413ab8e1d6a186?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-neuralink-brain-chip-advance-sparks-safety-and-secrecy-concerns.md",
-      "title": "Neuralink brain chip: advance sparks safety and secrecy concerns",
-      "excerpt": "Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-024-00550-6",
-      "originalUrl": "https://www.nature.com/articles/d41586-024-00550-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot.md",
-      "title": "Razorpay surpasses $150 bn in TPV, unveils new payment gateway & AI chatbot",
-      "excerpt": "Bengaluru, Feb 23 (IANS) Fintech major Razorpay on Friday announced it has achieved an annualised total payment volume (TPV) of $150 billion, and unveiled several new features including an AI chatbot. The company also launched ‘Payment Gateway 3.0 ...",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot",
-      "originalUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-kawasaki-robotics-partners-with-olis-robotics-to-offer-remote-monitoring-and-control-of-its-industrial-robots-robotics-automation-news.md",
-      "title": "Kawasaki Robotics Partners With Olis Robotics To Offer Remote Monitoring And Control Of Its Industrial Robots Robotics & Automation News",
-      "excerpt": "(MENAFN- Robotics & Automation News) Olis Robotics , a provider of remote error recovery systems for industrial robots, has agreed a new partnership with Kawasaki ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
-      "originalUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2024-02/22/R&AN_50b7eimage_story.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T23:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do.md",
-      "title": "AI Is Already Helping Deliver Packages and Diagnose Patients. Here’s What Else It Can Do.",
-      "excerpt": "Artificial intelligence is everywhere. It's helping discover new planets and detect cancer faster. And it's working in a bunch of places you likely didn't realize, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "originalUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-928820/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "publishedDateTime": "2024-02-22T22:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
-      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
-      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1049,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "publishedDateTime": "2024-02-22T22:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

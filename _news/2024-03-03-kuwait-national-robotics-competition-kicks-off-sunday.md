@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Kuwait National Robotics competition kicks off Sunday"
-excerpt: "KUWAIT, March 3 (KUNA) -- The Kuwait National Robotics Competition kicked off on Sunday at ... people were taking an interest in information technology, software and artificial intelligence, especially during the current time. Dr. Al-Harbi reaffirmed ..."
-publishedDateTime: 2024-03-03T10:43:00Z
-originalUrl: "https://www.kuna.net.kw/ArticleDetails.aspx?id=3140371&language=en"
-webUrl: "https://www.kuna.net.kw/ArticleDetails.aspx?id=3140371&language=en"
+title: "Kuwait National Robotics Competition Kicks Off Sunday"
+excerpt: "The Kuwait National Robotics Competition kicked off on Sunday at Sabah Al-Salem University City -- organized by the depar"
+publishedDateTime: 2024-03-03T12:47:00Z
+originalUrl: "https://menafn.com/1107927790/Kuwait-National-Robotics-Competition-Kicks-Off-Sunday"
+webUrl: "https://menafn.com/1107927790/Kuwait-National-Robotics-Competition-Kicks-Off-Sunday"
 type: article
 quality: 69
 heat: 79
 published: true
 
 provider:
-  name: KUNA
-  domain: kuna.net.kw
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.kuna.net.kw/images/GovWork.jpg"
-    width: 390
-    height: 516
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?939920"
+    width: 312
+    height: 250
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 771
         isCached: true
 
-secured: "Ulkt/4QI8iLZ6aD33bIBsSL76BHumiik3ZkmddqCZ6zQCwCd6zEuwRsFcXV7QS+aUru7hX7RdYp/RopDBf38GPR7OOL3MzdurJj050UtzBMaK5THGaV7jSNdAlPMz67KbJuNI/QccXyf/H/8qlqxeVZFqcfI6VjQVcbztxKEZ1vhXalsga5ZvCjZkbNZYwbiBgDUsqqzK9xy4H4oksZsPznPLXmgDARyRHgPBm2/lbNw+62N3tdRDmM4Lph6Id1UZfg/KslG5ZtBgJwWbmJHn5p2GHO3XzXPyF7faEr2Ep4zLbhkl8zuPiBgLMfzYFeDITUhD33hDh3L42XtYXx5xE9Jxvk6lzF9iKJv9SevQK4=;wZvZEBLgpeBQ9MGJ30Nhfg=="
+secured: "pXJS1ROhaWRYjg4Vic3/cNDB9ju/i6JoP3RGYJQH19PkumXrE3VmYHVjsqyItqlWvztNdm0Pm+2Tu0sSdB/q3kgPQKmsZJ2mkvSYwfkKYvJ4S7JxjYGBG4TddJcQ1l3OeFYkbdTykpSMmFgvhZKHf4kEktj2El7sXBmhWMSnVzgcBTtyZtdi33mMMPp7qUI8zjXxlXYYUnVR/5XbT58pEbZ5nWgP7ZgOpUH3CvqULHsvgmxBQoHC0ftRRzVJrHRKIZiwmnWMlec/aoE8cZlZV4LLkk4Tmqf0IjqI7WWVUHO7yTyHgdKBzEnoQ/fNjvYmT5w1RvoI9pt//rt2SlW37P+dL4tcvd6k8cIZl8cOKEw=;FN817S5jRz9Bi8UGrF6Aow=="
 ---
 

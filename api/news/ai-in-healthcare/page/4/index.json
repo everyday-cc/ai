@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-13-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
+      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
+      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
+      "originalUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/2/69/26994866-02ca-5fa5-b0df-e47730d34ef6/65a24a7597ea5.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T17:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami County Republic",
+        "domain": "republic-online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-laboratory-automation-leverages-artificial-intelligence.md",
       "title": "Laboratory Automation Leverages Artificial Intelligence",
       "excerpt": "From liquid handling to image analysis, laboratory tasks are being performed more easily and accurately with the help of artificial intelligence–driven platforms.",
@@ -1275,49 +1318,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-physicians-enthusiastic-but-cautious-about-healthcare-ai.md",
-      "title": "Physicians Enthusiastic but Cautious About Healthcare AI",
-      "excerpt": "A recent survey by the AMA showed that practicing physicians are equally excited and concerned about the increased use of AI in health care, with enthusiasm for technologies that reduce administrative burden and enhance diagnostic ability and concern for patient privacy,",
-      "sourceUrl": null,
-      "webUrl": "https://medtechintelligence.com/news_article/physicians-enthusiastic-but-cautious-about-healthcare-ai/",
-      "originalUrl": "https://medtechintelligence.com/news_article/physicians-enthusiastic-but-cautious-about-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medtechintelligence.com/wp-content/uploads/2022/11/ama-logo-web.jpg",
-          "width": 380,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medtechintelligence.com/news_article/physicians-enthusiastic-but-cautious-about-healthcare-ai/amp/",
-      "cdnAmpWebUrl": "https://medtechintelligence-com.cdn.ampproject.org/c/s/medtechintelligence.com/news_article/physicians-enthusiastic-but-cautious-about-healthcare-ai/amp/",
-      "publishedDateTime": "2023-12-20T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "medtechintelligence",
-        "domain": "medtechintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

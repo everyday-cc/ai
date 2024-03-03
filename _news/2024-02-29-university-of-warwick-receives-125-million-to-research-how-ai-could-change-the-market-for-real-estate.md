@@ -7,7 +7,7 @@ originalUrl: "https://workplaceinsight.net/university-of-warwick-receives-1-25-m
 webUrl: "https://workplaceinsight.net/university-of-warwick-receives-1-25-million-to-revolutionise-ai-and-real-estate/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 1000
     isCached: true
-
-related:
-  - title: "University of Warwick receives £1.25 million to set up FutureFinance.AI Research Group"
-    excerpt: "The University of Warwick has received a £1.25 million donation to launch the FutureFinance.AI Research Group that could transform the way the world purchases, sells, rents and handles real estate over the next five years."
-    publishedDateTime: 2024-02-27T12:50:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99796/university-of-warwick-receives-125-million-to-set-up-futurefinanceai-research-group"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 46
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "o9vp+dBqtlyX3wsXjm3bwhU33m9/pCjWGwLJKQMgFKddhUVgxZ4mSAX+ODuZHY1ARmTI6O6h9zJxgfxG38N93xgdLLywC20nFntJ84Me5oZ0BEU2O2wsZV+krCWsdi3+kvdiEBPwprOIbYKABPmCgAIqqUZSV3l5g8wDei8OinL/vz9FqJNycGZ69sOOKRDOEpAkTzi+IstGcLKnW0Z1pNpT7380ZIe7FCBeuXssPE967rGmrgylkU1n6h35OgCCLWEGGl4whGjWR8jSuEsfHcLTAFhjKJAbXwURZTuG6k0ffFvy6qfM1ciktn5TvBsE/x+IoVKlCsVUDfWq4Td/z+AKMqoZRW/7AET/b+cEOCL9kBlZ/JuirUjJyLPQW2IUyLwGDbgs0oi7IdJR68TRVqIS9T+2SLfEU7+/SE1hyuCgwz3gp29HwWt/d45Fy5uiQUHH99zSxc2Ra0ON61G7N4/Gvxze268uiMMaGw0dVBcnuPZTjrNDDLM0N6oX8EBdXjQISc1J8nKrgsmEE4wCUg==;1t0Vxaw9vSzJ38NjGF6sSw=="
 ---

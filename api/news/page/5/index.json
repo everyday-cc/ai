@@ -2,6 +2,264 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-28-toyota-llama-a-revision-a-381000-camionetas-tacoma-por-fallas.md",
+      "title": "Toyota llama a revisión a 381.000 camionetas Tacoma por fallas",
+      "excerpt": "En Estados Unidos, Toyota llamó a revisión a unas 381.000 camionetas Tacoma porque los pernos del eje trasero podrían aflojarse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
+      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/240228170211-tacoma-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-samsungs-try-galaxy-app-now-lets-any-android-and-ios-user-experience-galaxy-ai.md",
+      "title": "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI",
+      "excerpt": "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg",
+          "width": 720,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather.md",
+      "title": "Wendy’s plans AI-powered menu to change food prices based on demand, weather",
+      "excerpt": "American fast food chain Wendy's is planning to test dynamic pricing and AI menu features in 2025, reports Nation's Restaurant News and Food & Wine. This means that prices for food items will automatically change throughout the day depending on demand,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/wendys_restaurant-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T21:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-openai-seeks-to-dismiss-parts-of-the-new-york-timess-lawsuit.md",
+      "title": "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit",
+      "excerpt": "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27openai-suit-blpk/27openai-suit-blpk-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-infor-nexus-is-taking-an-interesting-approach-to-generative-ai.md",
+      "title": "Infor Nexus Is Taking An Interesting Approach To Generative AI",
+      "excerpt": "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 396,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
+      "publishedDateTime": "2024-02-27T20:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-mwc-barcelona-2024-humane-demonstrates-its-wearable-ai-pin.md",
       "title": "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin",
       "excerpt": "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity.",
@@ -210,7 +468,7 @@
       "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -253,7 +511,7 @@
       "originalUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1001,248 +1259,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-amazon-bedrock-a-solid-generative-ai-foundation.md",
-      "title": "Amazon Bedrock: A solid generative AI foundation",
-      "excerpt": "Amazon Bedrock complements the almost 30 other Amazon machine learning services available, including Amazon Q, the AWS generative AI assistant. One major competitor to Amazon Bedrock is Azure AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
-      "originalUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_2024657870-100961571-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
-      "publishedDateTime": "2024-02-27T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.md",
-      "title": "Samsung unveils new memory chip with 'highest-capacity to date' for AI",
-      "excerpt": "The South Korean chip giant claimed the HBM3E 12H \"raises both performance and capacity by more than 50%.\" \"The industry's AI service providers are increasingly requiring HBM with higher capacity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107092512-1658451020614-gettyimages-1241746860-AFP_32DY37A.jpeg?v=1658451030",
-          "width": 4727,
-          "height": 3016,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
-      "publishedDateTime": "2024-02-27T05:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
-      "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
-      "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "publishedDateTime": "2024-02-27T05:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-digital-digits-airoboticsenergy-converge-reshaping-our-world.md",
-      "title": "Digital Digits: AI+Robotics+Energy Converge, Reshaping Our World",
-      "excerpt": "The robots reshaping our world are tackling a wide spectrum of tasks, from factory to warehouse, urban and the field to space exploration and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/",
-      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dd78a3f632cbf05a50aa74/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/amp/",
-      "publishedDateTime": "2024-02-27T05:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-7-paradoxes-of-artificial-intelligence.md",
-      "title": "7 Paradoxes Of Artificial Intelligence",
-      "excerpt": "artificial intelligence, a survey from IBM’s Watson Group finds. 3. AI is expensive to implement. AI helps manage and reduce IT costs. For example, the rising practice of FinOps — which encourages intelligently controlling technology spending — may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2024-02-27T02:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

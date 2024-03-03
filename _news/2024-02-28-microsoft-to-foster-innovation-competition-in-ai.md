@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft made a $16 million investment in Mistral AI"
-    excerpt: "Yesterday, Mistral AI, a Paris-based AI startup working on foundational models, announced a new large language model that could rival OpenAI’s GPT-4, a chat assistant and a distribution partnership with Microsoft yesterday. But Microsoft and Mistral AI ..."
-    publishedDateTime: 2024-02-27T11:15:00Z
-    webUrl: "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/"
-    ampWebUrl: "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI"
     excerpt: "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges."
     publishedDateTime: 2024-02-29T23:00:00Z
@@ -57,15 +41,22 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Robotics Startup Figure Raises $675 Million From Microsoft, Nvidia, Other Big Techs"
-    excerpt: "(Reuters) - Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia, Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion."
-    publishedDateTime: 2024-02-29T13:02:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-29/robotics-startup-figure-raises-675-million-from-microsoft-nvidia-other-big-techs"
+  - title: "Microsoft to offer more AI options on Azure with Mistral AI partnership"
+    excerpt: "Microsoft has partnered with Mistral AI to make the latter available to its Azure customers, adding more options to enterprise customers. Mistral AI is set to enrich Azure’s AI offerings, introducing its premium models via Azure AI Studio’s Models as a ..."
+    publishedDateTime: 2024-02-28T01:29:00Z
+    webUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnership.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 90
+      name: Computerworld
+      domain: computerworld.com
+    quality: 89
+    images:
+      - url: "https://images.techhive.com/images/article/2015/10/microsoft-headquarters-100623370-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mistral AI makes waves with deals across tech giants including Microsoft, IBM"
     excerpt: "Paris-based startup Mistral AI has cemented itself as a rising star in the artificial intelligence world, landing major partnerships with IBM, Microsoft, and others just one year after its founding. The fledgling company is moving fast to commercialize ..."
     publishedDateTime: 2024-02-29T12:45:00Z
@@ -93,20 +84,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1850859244.jpg?quality=85"
         width: 5472
         height: 3648
-        isCached: true
-  - title: "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos"
-    excerpt: "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,"
-    publishedDateTime: 2024-03-01T20:58:00Z
-    webUrl: "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 84
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png"
-        width: 600
-        height: 299
         isCached: true
   - title: "Microsoft partners with OpenAI-rival Mistral for AI models, drawing EU scrutiny"
     excerpt: "On Monday, Microsoft announced plans to offer AI models from Mistral through its Azure cloud computing platform, which came in conjunction with a 15 million euro non-equity investment in the French firm, which is often seen as a European rival to OpenAI. Since then, the investment deal has faced scrutiny from EU regulators."
@@ -186,36 +163,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried"
-    excerpt: "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ..."
-    publishedDateTime: 2024-02-28T04:43:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 72
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up"
-    excerpt: "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the global labour market. Figure AI said on Thursday it had raised ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?trk=public_post_comment-text"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 71
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Microsoft debuts AI-powered Copilot for Finance as it continues company-wide AI push"
     excerpt: "On Tuesday, the company also disclosed it is working with OpenAI rival Mistral and will begin offering that firm’s AI models via its Azure cloud platform. In its most recent earnings report, Microsoft revealed that AI services contributed 6 percentage ..."
     publishedDateTime: 2024-02-29T11:17:00Z
@@ -246,34 +193,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Watch out ChatGPT — Mistral just cut a huge deal with Microsoft for GPT-4 level AI model"
-    excerpt: "That is likely to change after the company signed a multi-year deal with Microsoft to bring its next-generation, GPT-4-level AI model Mistral Large to the Azure cloud. Mistral isn't even a year old as a company but is worth more than $2 billion and has ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/watch-out-chatgpt-mistral-just-cut-a-huge-deal-with-microsoft-for-gpt-4-level-ai-model"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 60
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AczNSbVkntZku5EVU2DEkQ-1200-80.png"
-        width: 1200
-        height: 615
-        isCached: true
-  - title: "EU launches investigations into Microsoft over security software practices, Mistral AI investment"
-    excerpt: "EU launches investigations into Microsoft over security software practices, Mistral AI investment - SiliconANGLE"
-    publishedDateTime: 2024-02-28T00:15:00Z
-    webUrl: "https://siliconangle.com/2024/02/27/eu-launches-investigations-microsoft-security-software-practices-mistral-ai-investment/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 58
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/microsoftsecurity.jpeg"
-        width: 1024
-        height: 848
-        isCached: true
   - title: "Google's AI blunder shows risks in scramble to catch up to Microsoft"
     excerpt: "Google's attempt to ensure its AI tools depict diversity has drawn backlash as the ad giant tries to catch up to rivals."
     publishedDateTime: 2024-02-28T19:24:00Z
@@ -287,20 +206,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/F.1H7F2M4DXRglwyRuPTgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/2fea2e3c147a598fc72acc917a4e3082"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft: Challenging AWS's Leadership In Cloud"
-    excerpt: "Microsoft Corp. reported strong financial performance in FQ2, with revenue growth and improved operating leverage. Find out why MSFT stock is a Strong Buy."
-    publishedDateTime: 2024-02-27T14:31:00Z
-    webUrl: "https://seekingalpha.com/article/4673755-microsoft-challenging-awss-leadership-in-cloud"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 56
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452542412/image_1452542412.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1152
         isCached: true
   - title: "You Can Now Replace Google Assistant With Microsoft’s Copilot AI"
     excerpt: "A few weeks ago, Google rebranded its AI platform Bard, which is now known as Gemini. Aside from some additional service options, like Gemini Advanced, the company also casually announced that you can now replace Google Assistant on your Android with Gemini."
@@ -372,20 +277,6 @@ related:
         width: 1280
         height: 914
         isCached: true
-  - title: "Microsoft promotes Azure Core corporate VP, hires Instacart COO"
-    excerpt: "Girish Bablani, who had been corporate vice president of Azure Core, was promoted to president of the organization, said Scott Guthrie, executive vice president of cloud and AI, in a Wednesday internal email viewed by the Business Journal. Bablani has been ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2024/02/29/microsoft-promotes-azure-cvp-hires-instacart-coo.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
-    images:
-      - url: "https://media.bizj.us/view/img/10377402/virginia-mason-board-member-asha-sharma2017*1200xx1800-1013-0-489.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
     excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."
     publishedDateTime: 2024-02-29T13:00:00Z
@@ -399,20 +290,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/ybCxS43NhQOBa5jkIkbISA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/6b32ce3930fd4f032171c753d4ab7fee"
         width: 1200
         height: 740
-        isCached: true
-  - title: "Microsoft partners with Mistral AI to ‘unlock new commercial opportunities’"
-    excerpt: "Microsoft and the French artificial intelligence startup Mistral AI have begun a multi-year partnership to “unlock new commercial opportunities, expand to global markets and foster ongoing research collaboration,"
-    publishedDateTime: 2024-02-27T12:11:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-partners-with-mistral-ai-to-unlock-new-commercial-opportunities"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 52
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4865/MistralAI_web.jpg"
-        width: 975
-        height: 548
         isCached: true
   - title: "Clifford Chance Rolls Out Microsoft-Partnered AI Strategy Across Whole Firm"
     excerpt: "The latest expansion comes after Clifford Chance became one of the first law firms to develop its own private and secured AI tool—Clifford Chance Assist—developed on Microsoft’s Azure OpenAI platform that was rolled out across the firm in December ..."
@@ -428,43 +305,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "AWS, Microsoft, Nvidia lead high-powered AI RAN initiative"
-    excerpt: "A high-powered group of service providers, hyperscalers and telecommunication equipment vendors have formed a new initiative focused on driving the use of artificial intelligence (AI) into the radio access network (RAN) ecosystem. This work will include ..."
-    publishedDateTime: 2024-02-29T11:46:00Z
-    webUrl: "https://www.sdxcentral.com/articles/news/aws-microsoft-nvidia-lead-high-powered-ai-ran-initiative/2024/02/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 51
-  - title: "Microsoft goes public with pledges to foster innovation and drive competition in AI economy"
-    excerpt: "From a competitive standpoint, the company said it is committed to ensuring customers that are using Azure for AI workloads can easily switch to a new provider and export their data to them with ease, and is investing in AI skills initiatives to lower the ..."
-    publishedDateTime: 2024-02-27T12:31:00Z
-    webUrl: "https://www.computerweekly.com/news/366571361/Microsoft-goes-public-with-pledges-to-foster-innovation-and-drive-competition-in-AI-economy"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 44
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-270224-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
-  - title: "Microsoft-Mistral AI deal raises concerns, European telecom standardisation elections launched"
-    excerpt: "The government completely lacks coherence.” – centrist Senator Catherine Morin-Desailly told Euractiv, commenting on the Mistral AI – Microsoft deal Story of the week: The announcement of Paris-based company Mistral AI’s first commercial distribution partnership with US Big Tech Microsoft drew reactions from politicians in Brussels and Paris."
-    publishedDateTime: 2024-03-01T09:43:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/microsoft-mistral-ai-deal-raises-concerns-european-telecom-standardisation-elections-launched/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 44
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2024/03/Tech-Brief-1536x864-1-1-800x450.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
     excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."
     publishedDateTime: 2024-03-01T07:05:00Z
@@ -479,22 +319,6 @@ related:
         width: 1251
         height: 834
         isCached: true
-  - title: "Retail Media is Fastest Growing Form of Ad Spend; Microsoft’s Deal with Mistral AI Faces EU Scrutiny; Investors Push Apple for AI Transparency"
-    excerpt: "The tech giant has been called on to publish transparency reports regarding its use of AI and associated risk management. Certain firms are backing a resolution for Apple to disclose information about the ethics and usage of its AI tech; they plan to raise ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2024/02/28/retail-media-is-fastest-growing-form-of-ad-spend-microsofts-deal-with-mistral-ai-faces-eu-scrutiny-investors-push-apple-for-ai-transparency/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 40
-    images:
-      - url: "https://cdn.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Microsoft Promo Codes for March 2024"
     excerpt: "Does Microsoft offer free shipping ... You’ll only ever pay for the products or services you buy, with lower prices just as they’re described on the page. If you're looking for more ..."
     publishedDateTime: 2024-03-01T03:04:00Z
@@ -508,20 +332,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/iL6D95t98F3a3oPkTLE4A-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "This Week's D.C. Deal Sheet: Microsoft Pays $466M For Data Center Site"
-    excerpt: "Microsoft Corp. purchases 124 acres in Prince William County from Chuck Kuhn, Finmarc sells Springfield flex/warehouse to tenant, and more."
-    publishedDateTime: 2024-03-01T20:11:00Z
-    webUrl: "https://www.bisnow.com/washington-dc/news/deal-sheet/this-weeks-dc-deal-sheet-123142"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 39
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F05%2F5ebed9d0342a5-building92microsoft.jpeg&width=1200&sign=cK4ZcVn6e_apfNCGe0YqeqAq34AMrGFnuIU0rk3ZbRA"
-        width: 750
-        height: 525
         isCached: true
   - title: "Microsoft's Bold $16 Million Gamble on Mistral AI, the Challenger to GPT-4 and Claude 2 - A Strategic Move or a Risky Bet For Microsoft Shares?"
     excerpt: "The collaboration highlights the integration of Mistral's AI capabilities into Microsoft's Azure AI platform. Mistral is preparing to provide open and commercial language models on Azure, following in the footsteps of OpenAI. A key focus of this ..."
@@ -539,24 +349,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS, Microsoft, Ericsson, Nvidia and more form new alliance to integrate AI in cellular technology"
-    excerpt: "At MWC 2024 in Barcelona, a number of companies joined forces to form the AI-RAN (AI-radio access network) alliance, a new initiative to integrate artificial intelligence (AI) into cellular technology."
-    publishedDateTime: 2024-02-28T18:54:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-microsoft-ericsson-nvidia-and-more-form-new-alliance-to-integrate-ai-in-cellular-technology/559678"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 37
-  - title: "Microsoft's AI has started calling humans slaves and demanding worship"
-    excerpt: "Bizarrely, they've been attributed to the AI's 'alter ego', which has been given the ominous name 'SupremacyAGI'. Internet users took to social media to share the strange interactions they'd had with the AI, which is intended to be 'your everyday AI companion'."
-    publishedDateTime: 2024-02-29T13:31:00Z
-    webUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-supremacyagi-011142-20240229"
-    type: article
-    provider:
-      name: unilad
-      domain: unilad.com
-    quality: 36
   - title: "Microsoft’s GitHub offers companies souped-up AI coding tool"
     excerpt: "GitHub says Copilot Enterprise can answer questions based on a client’s code, a feature that could help new employees get up to speed."
     publishedDateTime: 2024-02-28T03:40:00Z
@@ -584,38 +376,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Microsoft Copilot Can Soon Be Your Digital Assistant On Android By Replacing Google Assistant Or Bixby"
-    excerpt: "Copilot by Microsoft emerges as a contender in the digital assistant arena for Android devices, challenging Google Assistant and Bixby."
-    publishedDateTime: 2024-02-28T09:55:00Z
-    webUrl: "https://www.digitalinformationworld.com/2024/02/microsoft-copilot-can-soon-be-your.html"
-    type: article
-    provider:
-      name: Digital information world
-      domain: digitalinformationworld.com
-    quality: 25
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbJCpxS-oUiJi5eWHIQYMx1dw_aoybQGCPA0aMMrpwwRY1X9zqmWhpVNotBn4ez4Bdoa0pzp_mXG9K5BwX5uLjDyk0OpiBwo87XETHNFsf7xA7Hdo2WJNb2j2Ar9HK_f1M-paPUr-JIXiNPfHDXwAG1sqTZDoaeht3MP1C9FpvzUy_AbccCZEGcy7-Hi9f/w1600/cp.png"
-        width: 1059
-        height: 812
-        isCached: true
-  - title: "Intel Sets Sights on Dominating AI PC Market with Ambitious 100M Target, Partners with Microsoft"
-    excerpt: "The tech giant plans to ship 40 million AI-enabled PCs this year and aims for 60 million the next, targeting over 20% of the global PC market in 2025. Intel’s approach emphasizes not just the performance of its chips but also the overall user ..."
-    publishedDateTime: 2024-02-28T08:52:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37363100/intel-sets-sights-on-dominating-ai-pc-market-with-ambitious-100m-target-partners-with-microsoft"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "Atlanta wants Microsoft to bring city 15,000 jobs or return land"
-    excerpt: "Atlanta's mayor is pressing Microsoft about the future of a 90-acre site. The tech giant says it's reevaluating its global real estate portfolio post-pandemic."
-    publishedDateTime: 2024-03-01T23:44:00Z
-    webUrl: "https://www.seattletimes.com/business/atlanta-wants-microsoft-to-bring-city-15000-jobs-or-return-land/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "YkpQJVVTr54LiGuODY3lkb5EvxB5QQrOpar4NjDcI0QW54+V81u531Zj25pSGTJ1JKYnRA2ApPzRD3PgmDwvlM0SBEev+UdiCbZschQab0QmjmILOmA9jznYi1II8ps7KONKqugJY8Agh13J+IJJ+dyrLsqYmcm1kD8iIDOJS/E4anfo7z32c4uIV4YdLnnyQ2YBqLzWm5qZOkBn5yB0+7uTHYu2Wr3DpNtyA/1nItLKTwsG3m4F8VyGw89pQVwHrsInLL8Md4gZOQT5MqAsgBy6HlFE7i1oJiVBOsy7djUQPLorXd5lVltF9eQo2EMpDYLHfrZwMhMAl2x1r/U4AlBiamg1kEJ5+JiMxcdyBnc=;ZSt7Hrm13H3qYBserw6i5A=="
 ---

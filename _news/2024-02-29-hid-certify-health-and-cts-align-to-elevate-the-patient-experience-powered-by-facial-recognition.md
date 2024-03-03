@@ -46,15 +46,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 33
-  - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
-    excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
-    publishedDateTime: 2024-02-27T12:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968480.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
 
 secured: "GR8/gqlke57yxdj3tur4/7C55kYmSjD3VlOnwfeYpUn2U17++KmpuOA3yo6Qf+bEqbffONxI9nfmwDDeqwkqkQeVqMYdHYIrR7M0NqK9EiJxnLIDH+JC+mFAQz45CsNG2h1+D/BNfuUB0tThFPks39Rrz0HrEDiIQtnpHDYtYZ35FtYLlfDCnYU9/JKbkArUVy6sKRAzMqH0Bt4k/B7w+mlDb9KdvrWKlsizBIbPEmHwpiHkeV88C4vBP4VkdSiK4emVyuAHg6h0CM7L/zSkZCUmpQhw3qEUxV0SKX1nU1RKBmm/nRCyp5NGB0O2J3Uz9+LcdvDp1hBtBcgPM0z+2D6SHVBi5gKkHr+UiJbcsX2M0TRpGgSckFLJP+oLoccGYs4N+GZsgMGQ8YEWmlDSuSCVybdxXvEbCmgP5iWUL+wZNGmQkTHsym+5teXqSJB1cr9dQw04CYIR93AAeHpGX7euPIfY1uMGql20oxJTyOElaDmouJqOFXHo62PNKkG522GlOImsBUV1/5FjPXn3Cw==;GUzNrqs9VoFgr/d7suoFcw=="
 ---

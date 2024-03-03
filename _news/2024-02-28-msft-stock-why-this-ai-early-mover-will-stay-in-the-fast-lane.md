@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-why-thi
 webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-why-this-ai-early-mover-will-stay-in-the-fast-lane-1033112036"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,29 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Sell AMD Stock Before the AI Hype Crashes and Burns"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying that Advanced Micro Devices (NASDAQ:AMD) is a massive"
-    publishedDateTime: 2024-02-27T11:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2024/02/amd-projected-revenue-vs-gpu-industry-1024x643.jpg"
-        width: 1024
-        height: 643
-        isCached: true
-  - title: "PayPal’s AI Surprise: Why It’s More Than Just a Fintech Stock"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some traders panic-sold their PayPal (NASDAQ:PYPL) shares after the"
-    publishedDateTime: 2024-02-29T11:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/paypals-ai-surprise-why-its-more-than-just-a-fintech-stock-1033117634"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The Hot List: 3 AI Stocks Worth Buying on Weakness"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Wall Street has correctly recognized that artificial intelligence (AI) is a"
     publishedDateTime: 2024-03-01T12:29:00Z
@@ -55,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "What 6 Wall Street commentators say AI will do for stocks and the economy"
+    excerpt: "The S&P 500 could soar as high as 5,800 by the end of the year, thanks to AI's magnifying effect on productivity. That implies the benchmark index notching a 22% gain for the year, according to Sanctuary Wealth's chief investment strategist Mary Ann Bartels."
+    publishedDateTime: 2024-03-02T13:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-stock-market-outlook-artificial-intelligence-economy-worker-shortage-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "Tcz3W8I+heYJ7kUjt3Sa9Qs4oraS2ETJHQlWu3ww7FSGjpNkb7cvDwjnI3+mc+9RN4rhacg/SOL5m6a/45hsXh5ZGkag+wnb9duetyXNiPh7G8waLg8Ad1PZgJKTybjLZSUM/AEEhiqR7UPc09qLpw4n967ch4i15wyf4ZBAL6dSp/7M54rrIcMXh52u/U4RHwOOFXYTIxcAnZQz/SmftFysjhYuQSziLaA33UMjj30jhUCKJimS+NpRSYjopOHmJKWh1TeVG3a+oVkRtzPyQewfxGw8rK4pN2yvQt38m1YKSC9J1S2PfWybxhhlxIiPUYP6gV/5SoWSZeDHUIpP/eT3kqmM6GrOFqqMBpcyDVU=;VmxGboJB7oPnIfoM1ikpAQ=="
 ---

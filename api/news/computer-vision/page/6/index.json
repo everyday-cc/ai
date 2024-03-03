@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-28-orbital-angular-momentum-encoded-diffractive-networks-for-object-classification-tasks.md",
+      "title": "Orbital-angular-momentum-encoded diffractive networks for object classification tasks",
+      "excerpt": "Diffractive deep neural networks (D 2 NN) utilize various properties of light waves to perform tasks like image and object recognition. Such networks consist of two-dimensional pixel arrays as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1009252",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1009252",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T19:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024.md",
       "title": "AI-Powered Robotics: Exploring the Latest Innovations and Applications in 2024",
       "excerpt": "Introduction: In the fast-paced landscape of technology, artificial intelligence (AI) continues to revolutionize industries, and the field of robotics is no exception. Furthermore, as we delve into the year 2024,",

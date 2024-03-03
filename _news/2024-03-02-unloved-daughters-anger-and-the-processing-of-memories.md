@@ -26,6 +26,24 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Unloved Daughters, Anger, and the Processing of Memories"
+    excerpt: "Make sure you are cool processing your memories. The brain’s propensity to deliver the bad experiences in living color, alas, has a downside, which is to put you back in the moment that whatever happened with startling intensity. That was the case for Caitlyn, now 46:"
+    publishedDateTime: 2024-03-02T21:17:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/tech-support/202403/unloved-daughters-anger-and-the-processing-of-memories"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/tech-support/202403/unloved-daughters-anger-and-the-processing-of-memories?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/tech-support/202403/unloved-daughters-anger-and-the-processing-of-memories?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/blake-cheek-hQesFe5DZoM-unsplash.jpg?itok=l-Fagrlq"
+        width: 1528
+        height: 800
+        isCached: true
+
 secured: "2IyLs/sEg1XAJhlZFc7YPZOOJ6jXs1HcfvkarMJyaajaQmbhAZIBFl093iwYD5eCRvtalUVUhjUzOgWsBEkioOpX65LGf/L3aisz8fb61ysvK0Cyb+EufCS8ZkVfZYaT/8gPbZbcmtaXkFexNZjlnfCoVO2KpBp3o0KIRghFni4kJbHI64U0gJCJD7ov8MQGBWa7/lKJnYD54ZeRCgZf2Zgn21bdWqeukxtkXfX1/NsVM6WKef7WakH//5JrN+8e+KRShDZ7VY3AC3081WlE8V+20erGAe5LWiIYz39e+c5kfM2Os2Zz1zX/NOBKIxMu6T0KEqgX525IniMBqoH68/hCMW86B/ae2E53IRV7jyVsDJ6qNoJUxiG7YmfLJuNV2wONr8Xs2hSpIoAk2dJj0YWhT3KQHYE5HAMvSwIGyAO5PSDaLtvXzNC2236qWEWeSH5hRZnCTMIwnj4rr+r/Q3BrKscSkgMnYgsqbuKxJZdRDrtctdeApeZ7GDvSnakzA0RWDYJDgDJnE9W68zQhFQ==;GJInhRRtuiRZz+L/U0bHtw=="
 ---
 

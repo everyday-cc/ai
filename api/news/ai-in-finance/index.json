@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -105,6 +105,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai.md",
+      "title": "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI",
+      "excerpt": "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
+      "originalUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 347,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Modern_art_of_the_Microsoft_Excel_spreadsheet_f04aba4b-e5b4-42c2-a3a3-d49749990db4-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
       ]
     },
     {
@@ -1345,58 +1398,6 @@
         "name": "datanami.com",
         "domain": "datanami.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-klarnas-ceo-embraced-ai-by-telling-openais-sam-altman-i-want-klarna-to-be-your-favorite-guinea-pig.md",
-      "title": "Klarna’s CEO embraced AI by telling OpenAI’s Sam Altman, “I want Klarna to be your favorite guinea pig”",
-      "excerpt": "And in this current downturn, fintech has been hit especially hard—funding in the ... Second, “Many people have tried to apply AI and failed, or it didn’t work out and they’ll say ‘that was a fun thing, but it didn’t really make a difference ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/?ref=thisweekinfintech.com",
-      "originalUrl": "https://fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/?ref=thisweekinfintech.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1239737322-e1707787900384.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/13/klarna-ceo-sebastian-siemiatkowski-embracing-ai-ipo/amp/",
-      "publishedDateTime": "2024-02-13T12:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

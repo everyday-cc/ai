@@ -25,35 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI Market Structure In The Future: Few Engines, Many Applications"
-    excerpt: "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs."
-    publishedDateTime: 2024-02-27T12:31:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/"
-    ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/"
+  - title: "K-State Social Media Week to feature events in artificial intelligence, content creation"
+    excerpt: "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ..."
+    publishedDateTime: 2024-02-27T17:21:00Z
+    webUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/"
+    ampWebUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: WIBW
+      domain: wibw.com
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/657ca9e7bc7dbcfed2d9bd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
+      - url: "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true"
+        width: 800
+        height: 450
         isCached: true
-  - title: "The future of artificial intelligence in trucking"
-    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
+    publishedDateTime: 2024-02-28T15:56:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/more-extensive-more-timely-more-professionalai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-302074386.html"
     type: article
     provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 10
     images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg?p=facebook"
+        width: 1600
+        height: 838
+        isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
+    publishedDateTime: 2024-02-28T17:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "whchRnrORnTfN/NhPB6TCdfcURQ1fef9RInrw26yC92iT3HYtdWVLzIKOkeyNWqO6PvEICLvwUlK4YunfqMks1TaRbCvYJhf7zRzR2VGNXi8XJv1dqzzReJjLB5syOWjT/gCuJ8zB0cTIWGMSke8FFzFVprjUBRUOy2BA/q2TcYxWt1NQoq6VQPzCR8B+v85avS+wHOVJrjadP/3YHD4sjhWEldeQvxfRbK7jCe5ENOjrfsJ+hxoPfySaSwJx/yKYaYsv1cJUdVbZz2ydjQ4ujOFA5578aykfrzb8RfGE+zpebWTks5KerLzN1TyKt4Dk9aVSZ2PQoreX9uhu7P+P3W6Fp8y6rBFUyUTropVK30=;ztYI2qzcjPwbBSDHk7YRgw=="

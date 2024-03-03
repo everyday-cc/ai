@@ -7,7 +7,7 @@ originalUrl: "https://www.onrec.com/news/news-archive/how-to-reduce-prejudice-wh
 webUrl: "https://www.onrec.com/news/news-archive/how-to-reduce-prejudice-when-using-ai-to-find-talent"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Experiment Now to Find Out How AI Can Help Your Company"
+    excerpt: "That will allow for process improvements based on feedback and results. AI as a mindset Dolly Parton once said, \"If you don't like the road you're walking, start paving another one.\" There are a lot of folks who fear the potential of AI -- who avoid it ..."
+    publishedDateTime: 2024-03-03T00:00:00Z
+    webUrl: "https://www.inc.com/bernard-coleman/experiment-now-to-find-out-how-ai-can-help-your-company.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-2012746930_537922_plqm8r.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "IsNgRgfnDxhFvB8kZzWe/gTGhJFCVeUgCOQZ/qjT+oCYMr+OYWf8J0QEoW5UmH4u53/wF4QrM9Dza5MNfSil+5GzcRAOb/yab9hR7AfNGSaZVuqUh9gHEoxJ9CuhAtnY23IYppaiVsPAJR1Mvpd36FJgOjvm5q0SVYYmMwplKoenU13MxN1x/kYplZzXZUac6iYs6dTRCR5Uf5j1wMX/CbMx7XzpPYN32hPhEhaX+U1nbaPiq2nTkAtHyrqd9Zw7MxWL/Ge9IiZd3pGl0WcH9lMruHnIkOCahpqBjLzvhd29YQZSwdlSaJrB2ZGu+gK4CxokYZ+74qLSwuxa0U6qSNbNpRiueJosXyOccpJba8C1QFVV59MLjRfT2PA5wtmI7OudqudWjhoXAak8eU0n/gl4cRbHsK2e3n9F7H0b0/7wcoQW9neaA4fH8WmRTRu8H1Byrg5L3kbrQzxmZsj/Xn1ooMWdDYlEHqazqfP6pMU9gygPHMSiUKUubJdQ7FQmiov9ZvUrP5uZ029jP//5WQ==;QbtkI06fef137fhuOzg8Gw=="
 ---

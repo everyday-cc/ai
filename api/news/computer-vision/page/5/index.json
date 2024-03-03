@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-14-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device.md",
+      "title": "Parliament security system to be reviewed; image will be captured by facial recognition device",
+      "excerpt": "Following a major security breach in Parliament, the security protocols were overhauled with strict measures to reduce any contact between MPs and visitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device",
+      "originalUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_12_2023_18_13_26_9504778.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/politics/2745136-parliament-security-system-to-be-reviewed-image-will-be-captured-by-facial-recognition-device?amp",
+      "publishedDateTime": "2023-12-13T18:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office.md",
       "title": "Hays County approves AI facial recognition technology for sheriff’s office",
       "excerpt": "HAYS COUNTY, Texas (KXAN) — A facial recognition software could come to the Hays County Sheriff’s Office in the future. County commissioners recently approved for the sheriff’s office to ...",
@@ -1292,40 +1336,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-orbital-angular-momentum-encoded-diffractive-networks-for-object-classification-tasks.md",
-      "title": "Orbital-angular-momentum-encoded diffractive networks for object classification tasks",
-      "excerpt": "Diffractive deep neural networks (D 2 NN) utilize various properties of light waves to perform tasks like image and object recognition. Such networks consist of two-dimensional pixel arrays as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1009252",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1009252",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T19:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

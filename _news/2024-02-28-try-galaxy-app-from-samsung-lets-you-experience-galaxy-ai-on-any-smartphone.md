@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "You can now try Galaxy AI on any Android phone to see just how good it is"
-    excerpt: "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!"
-    publishedDateTime: 2024-02-27T12:35:00Z
-    webUrl: "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 68
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Just-Circle-It-lying-on-chair.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI"
     excerpt: "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1."
     publishedDateTime: 2024-02-27T22:45:00Z
@@ -49,19 +35,21 @@ related:
         width: 720
         height: 540
         isCached: true
-  - title: "Experiment Now to Find Out How AI Can Help Your Company"
-    excerpt: "That will allow for process improvements based on feedback and results. AI as a mindset Dolly Parton once said, \"If you don't like the road you're walking, start paving another one.\" There are a lot of folks who fear the potential of AI -- who avoid it ..."
-    publishedDateTime: 2024-03-03T00:00:00Z
-    webUrl: "https://www.inc.com/bernard-coleman/experiment-now-to-find-out-how-ai-can-help-your-company.html"
+  - title: "Will Samsung introduce Galaxy AI to budget phones?"
+    excerpt: "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features."
+    publishedDateTime: 2024-03-01T07:55:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20240301050172"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240301050172"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240301050172"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 59
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-2012746930_537922_plqm8r.jpg"
-        width: 1024
-        height: 576
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F01%2F20240301050138_0.jpg"
+        width: 630
+        height: 419
         isCached: true
 
 secured: "Oe8lN343GA83w3v7bFJGl5saPTkDdM2beatfwmzWs76t8j9cJHRQ9QN0VzUV4QsW6QQIE7iwhuwl7eTnSd4nvklg9Hd9nrrPdF+cd9k4XRoEfkiwsOFHh7o55mTu9C4DQPJUun3mcgTT5NvPZjN4/AdQ20n6/ITKiJr/CL6/AyGdMzhl+b8+4rwyTIHglZcxYZQvGo2DfJcBIK8yGGsmXRHday68mTgH0UI8FCDwQyqKYqHilshfpTNSS/vhjq8NeN9tH6/snJo/Fize5gDZfYhu9WYw9fRarQRWyIsc7VfgS7gLb7CdZYcJ42012a4zSlWPiJPOQVzzJ5DfIqui540Yfn0v0Dg47SGs9EjGiJpt+Wz3IEGrlAQ7elR3UiTpDEvVYUN1AXmaB3Qnj8ZXhKPQ3mQ35b0veExebipuPPh0Jy0Enpm36ODBCNuQroF0B0rubXPjFkujqDh0x70zkYch4DLaMlWCSCbgaN2oDiawcKD8E5yHODXHweyk911FWxNo1du1YrN/ALbn2ueLvg==;wxaIA4RR0zrmaSPOA5afUA=="

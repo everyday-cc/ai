@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-16-do-you-hear-an-echo-probably-and-it-could-be-the-answer-for-improving-ai-speech-recognition.md",
+      "title": "Do you hear an echo? Probably, and it could be the answer for improving AI speech recognition",
+      "excerpt": "The team from Zhejiang University said the discovery could pave the way for improving automatic speech recognition for machines to produce more accurate transcripts from recordings. “An intense ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/15/c5a52972-96cf-42e4-a162-c15abf165ccc_ff565909.jpg?itok=C8FistIM&v=1707989272",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "publishedDateTime": "2024-02-16T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-lex-friedman-weighs-in-on-the-future-of-ai-language-and-existential-self-reflection.md",
       "title": "Lex Friedman Weighs In On The Future Of AI, Language … And Existential Self-Reflection",
       "excerpt": "At the top of Lex's comments, he talked about disruption – predicting that two new trillion-dollar companies will emerge out of the AI era, and suggesting that Google, Meta and Microsoft will likely not be able to pivot quickly enough to maintain their dominance.",
@@ -1327,49 +1379,6 @@
       "provider": {
         "name": "Rock Paper Shotgun",
         "domain": "rockpapershotgun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-successfully-implementing-natural-language-processing-and-genai-with-knowledge-management.md",
-      "title": "Successfully implementing natural language processing and GenAI with knowledge management",
-      "excerpt": "Experts from Datavid joined KMWorld's webinar, Integrating LLMs With a Private Knowledge Platform, to discuss the benefits, latest advancements, and best practices for integrating AI/LLMs into private knowledge platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=162456",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=162456",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T17:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
         "images": null,
         "publishers": null,
         "authors": null

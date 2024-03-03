@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/paypals-ai-surpris
 webUrl: "https://markets.businessinsider.com/news/stocks/paypals-ai-surprise-why-its-more-than-just-a-fintech-stock-1033117634"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,33 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "Sell AMD Stock Before the AI Hype Crashes and Burns"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying that Advanced Micro Devices (NASDAQ:AMD) is a massive"
-    publishedDateTime: 2024-02-27T11:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sell-amd-stock-before-the-ai-hype-crashes-and-burns-1033106719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2024/02/amd-projected-revenue-vs-gpu-industry-1024x643.jpg"
-        width: 1024
-        height: 643
-        isCached: true
-  - title: "MSFT Stock: Why This AI Early-Mover Will Stay in the Fast Lane"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Microsoft (NASDAQ:MSFT) clearly capitalized on the generative AI growth trend"
-    publishedDateTime: 2024-02-28T11:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-stock-why-this-ai-early-mover-will-stay-in-the-fast-lane-1033112036"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "The Hot List: 3 AI Stocks Worth Buying on Weakness"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Wall Street has correctly recognized that artificial intelligence (AI) is a"
-    publishedDateTime: 2024-03-01T12:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-hot-list-3-ai-stocks-worth-buying-on-weakness-1033123124"
+  - title: "Fintech’s New Guard: 3 Cryptos Transforming Finance"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The decline in digital asset investment from 2022 to early 2023 gave way to an"
+    publishedDateTime: 2024-02-29T22:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintechs-new-guard-3-cryptos-transforming-finance-1033120823"
     type: article
     provider:
       name: Business Insider

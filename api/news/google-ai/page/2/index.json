@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-09-google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model.md",
+      "title": "Google Rebrands Bard AI To Gemini, Introduces New App And Subscription Model",
+      "excerpt": "Google revealed a significant redesign of Bard, their AI chatbot and assistant, on Thursday. The new look includes a new app and subscription choices. Now known as Gemini, the chatbot’s AI model suite shares the same name as Bard, the main rival of OpenAI’s ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
+      "originalUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Orland Park Prairie",
+        "domain": "opprairie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-google-ditches-assistant-with-bard-branding-for-gemini.md",
       "title": "Google ditches ‘Assistant with Bard’ branding for Gemini",
       "excerpt": "Google is replacing its \"Assistant with Bard\" name for Android AI Assistant with Gemini. Learn more about it here.",
@@ -1319,58 +1353,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-google-bard-finally-gets-a-free-ai-image-generator-heres-how-to-try-it.md",
-      "title": "Google Bard finally gets a free AI image generator – here’s how to try it",
-      "excerpt": "Considering how popular image generating is right now, Google Bard’s recent update that adds AI image generation seems all but inevitable. According to the official Google Bard update page ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bard-finally-gets-a-free-ai-image-generator-heres-how-to-try-it",
-      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bard-finally-gets-a-free-ai-image-generator-heres-how-to-try-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/M45wF2YrAKDwdearegmHC5-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

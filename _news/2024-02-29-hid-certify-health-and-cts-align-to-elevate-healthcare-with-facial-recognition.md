@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/53097853/hid-global-hid-certify-health-and-cts-align-to-elevate-healthcare-with-facial-recognition"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 33
-  - title: "Azalea Health Unveils Artificial Intelligence Strategy to Enhance Healthcare Workflows"
-    excerpt: "Azalea Health, a leading provider of fully-integrated cloud-based healthcare IT solutions and services, today announced its revolutionary approach to artificial intelligence (AI) designed to enhance the efficiency,"
-    publishedDateTime: 2024-02-27T12:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/27/9968480.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
   - title: "HID, CERTIFY Health and CTS align to elevate the patient experience powered by facial recognition"
     excerpt: "HID, the worldwide renowned company in trusted identity solutions has announced a collaborative self-service patient engagement and facial recognition offering designed to enhance healthcare operations and administer an improved patient service at every ..."
     publishedDateTime: 2024-02-28T23:59:00Z

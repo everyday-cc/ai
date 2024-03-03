@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-29T14:42:00Z
 originalUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
 webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
 type: article
-quality: 23
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker"
@@ -389,6 +395,6 @@ related:
       domain: abcnews.go.com
     quality: 29
 
-secured: "xSlaVsEfFgf+0XcXpZM3UFBuVrIVhD4/KzUaKIBxALBIjGd8LPfDlUwRSRAUEF0tDzQZ66MMANoLBjt+F7fkneOOFN0KONEmneNCRGckWZB1/77WsGmGA8qmjiLCN3VTUQxECFtVmNm2SnJm+6eQ01VyZ+HS/9+1fqOSAMKtpWHRRBTC/lebhTjRQRa7K6UbYq/47V5HNdKOqm2ZZIPkkXje/ILVl0IHJy0eKEZAemnlKFBMBlZIgL2YRR3VkQsIryYx2xsHijTDEAA1rg6Vizxr6N4CROJpPYQI7pbaLdq1ogfIvMS4Pf7pkCBLk56mnoD9LdnXWQuYjTrutjjEkZMsAh6B/JRI4d1ldWjotAY=;7UHeJz2mnxFHEvfTuMyI1w=="
+secured: "Rl6vc35O8Cuon9E9+QginyWnsmR5EkqkQ8yZDhwWsCK9Se7MlN+NQ+8Q2SGJheBMJyuoyP6DNTQwJabzJc9k7AbjbyEOLjp0wjinxIseXEzKYYI4DhQZYsikrV3u3T3kss4Y5w/N4zhncXenapXE5YHFjeJF78ZbBOfS+5gYkEK6qLHsD5FhMN6Km3ir0MYUKzfA3GxZDAcSHYAl9+KTPIoGf1QHAxoN4C2hgKIqHMcMBlOkhu4E2ju/iAtQQoQAWP2LS61nk7yymx5RDBq5e7sHz+TsTP7KSvHyp3KDZtVrJ/+GjtNa3uTWa1lNkt62sKXAbXusZBOcM2vBC50tm0y2FQQmVb0XMOp3/x9p3yk=;5ncbxPK7hyEiZrkJ/dFkhg=="
 ---
 
