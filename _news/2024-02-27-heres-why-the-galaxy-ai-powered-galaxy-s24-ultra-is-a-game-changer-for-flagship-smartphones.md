@@ -43,6 +43,22 @@ related:
         width: 630
         height: 419
         isCached: true
+  - title: "Samsung presents Galaxy AI Vision at MWC 2024 with latest products and services"
+    excerpt: "Visitors to be offered powerful first-hand experiences across Galaxy S24 series, expanded product ecosystem and Samsung Connected Health, all powered by Galaxy AI"
+    publishedDateTime: 2024-02-27T07:51:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/samsung-presents-galaxy-ai-vision-at-mwc-2024-with-latest-products-and-services-bjleswyp?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 55
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTFmN2FiNzctNzJlYS00/0/2024mwcgalaxyai_2-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "oQkEEHb9moTHFVUZagr3q/1MjthiEz7RKyuquJv0GaB8hNe8/wldaFDmTPpKsw94/kn8kPlJjJj9x+iIHBcbFxeiLLJ/o2TDoqIDkYIA70GrQvgrDF7Al0xS/AmUQrnPIiI6Si8XzjmBWBNwS8OoRSXtQQdxHy5quKgVZxaTTp4t1JxooQVW5SpAu66Fvd7RajPcP/6fTdHQjxi1S0Y448UeW2O3PuyT5L6MiV73wHAFdRQ/+WslpmFmgNpHs55D4vMMd7EUtGcX0GfTI22uOlYmFHVX5FOwF4CApG2UH99M28aeaI42oAqct6+0Lsjk8+yLJanrzMSR7AVAVEUqi23t09h0S3QYjxEGp//PmYo=;tSW9+SD3aC2u0QwA+FNIRA=="
 ---

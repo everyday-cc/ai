@@ -359,58 +359,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-28-amazon-coupon-codes-for-february-2024.md",
-      "title": "Amazon Coupon Codes for February 2024",
-      "excerpt": "Amazon Prime is Amazon’s membership service which offers free delivery on millions of eligible items. Certain products are eligible for free one-day delivery to select postcodes in Sydney and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/coupons/amazon-au",
-      "originalUrl": "https://www.techradar.com/coupons/amazon-au",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QZRQci2tJrQzHG6UqLQDyX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T08:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
       "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
       "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
@@ -1389,6 +1337,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
+      "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
+      "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/02/self-checkout-1243x630.png",
+          "width": 1243,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T17:44:51Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AWS AI"
       ]

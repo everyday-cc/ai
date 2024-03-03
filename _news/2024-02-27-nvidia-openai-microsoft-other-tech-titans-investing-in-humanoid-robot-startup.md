@@ -293,6 +293,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 55
+  - title: "Humanoid robot-maker Figure partners with OpenAI"
+    excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
+    publishedDateTime: 2024-02-29T22:30:00Z
+    webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
+    type: article
+    provider:
+      name: The Roanoke Times
+      domain: roanoke.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Bezos and tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-02T00:00:00Z
@@ -347,15 +361,6 @@ related:
     provider:
       name: The York Dispatch
       domain: yorkdispatch.com
-    quality: 34
-  - title: "Humanoid robot-maker Figure partners with OpenAI"
-    excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
-    publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
-    type: article
-    provider:
-      name: wacotrib
-      domain: wacotrib.com
     quality: 34
   - title: "Daily Digest: Chime dinged for customer service; AI robotics firm rakes in $675M, inks new OpenAI partnership"
     excerpt: "Airwallex, a global payments and financial startup, announced the expansion of its global leadership ... Figure and OpenAI have entered into a collaboration agreement to develop next generation AI models for humanoid robots, combining OpenAI's research ..."

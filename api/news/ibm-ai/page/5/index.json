@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-09-ais-growing-influence-in-e-commerce-the-future-of-online-retail.md",
+      "title": "AI's Growing Influence in E-Commerce: The Future of Online Retail",
+      "excerpt": "AI, ranging from ChatGPT to IIoT, significantly transforms e-commerce, enriches business strategies, and tailors customer experiences worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "originalUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2024/Jan/robot-holding-shopping-cart-with-cardboard-boxes-og.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T09:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-5-best-ai-chatbots-in-2024.md",
       "title": "5 Best AI Chatbots in 2024",
       "excerpt": "IBM has long been developing artificial intelligence, including Deep Blue, the computer that beat the reigning world chess champion, and Watson, its supercomputer that won the game show Jeopardy ...",
@@ -1327,49 +1370,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-five-open-source-ai-tools-to-know.md",
-      "title": "Five open-source AI tools to know",
-      "excerpt": "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/",
-      "originalUrl": "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T17:24:27Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

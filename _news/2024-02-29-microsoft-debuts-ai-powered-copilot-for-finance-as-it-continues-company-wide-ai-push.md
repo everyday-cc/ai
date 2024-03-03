@@ -295,20 +295,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Microsoft president commits to Azure open platform for AI"
-    excerpt: "Brad Smith sets out Microsoft’s ambitions to make Azure the best platform to host foundational AI models, and train and run AI applications."
-    publishedDateTime: 2024-02-27T06:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366571512/Microsoft-president-commits-to-Azure-open-platform-for-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineImages/AI-artificial-intelligence-button-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Apple's Launching A Futuristic Siri And Apple-Based Artificial Intelligence As It Looks To Take On Microsoft's AI Dominance"
     excerpt: "In a bold move toward integrating artificial intelligence (AI) into its ecosystem, Apple is setting the stage to unveil a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June."
     publishedDateTime: 2024-03-01T15:04:00Z
@@ -636,15 +622,6 @@ related:
       name: unilad
       domain: unilad.com
     quality: 36
-  - title: "Microsoft partners with French start-up in artificial intelligence"
-    excerpt: "Partnership provides Mistral AI access to Microsoft's cloud computing platform Azure's AI infrastructure - Anadolu Ajansı"
-    publishedDateTime: 2024-02-27T05:58:00Z
-    webUrl: "https://www.aa.com.tr/en/economy/microsoft-partners-with-french-start-up-in-artificial-intelligence/3148611"
-    type: article
-    provider:
-      name: Anadolu Ajansi
-      domain: aa.com.tr
-    quality: 34
   - title: "Microsoft’s GitHub offers companies souped-up AI coding tool"
     excerpt: "GitHub says Copilot Enterprise can answer questions based on a client’s code, a feature that could help new employees get up to speed."
     publishedDateTime: 2024-02-28T03:40:00Z

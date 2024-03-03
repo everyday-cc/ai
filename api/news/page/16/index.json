@@ -2,6 +2,83 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-20-new-mission-to-set-standards-for-use-of-ai.md",
+      "title": "New mission to set standards for use of AI",
+      "excerpt": "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms",
+      "publishedDateTime": "2024-02-20T02:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ai-chip-race-fears-grow-of-huge-financial-bubble.md",
+      "title": "AI chip race: Fears grow of huge financial bubble",
+      "excerpt": "Domingos said Altman would likely settle for around $700 billion in backing, which is still a far cry from the value of the entire AI chip sector. Canadian-Indian analytics firm Precedence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dw.com/en/ai-chip-race-fears-grow-of-huge-financial-bubble/a-68272265",
+      "originalUrl": "https://www.dw.com/en/ai-chip-race-fears-grow-of-huge-financial-bubble/a-68272265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dw",
+        "domain": "dw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-as-regulators-play-catch-up-with-ai-tech-startups-say-uncertainty-is-slowing-them-down.md",
       "title": "As regulators play catch up with AI, tech startups say uncertainty is slowing them down",
       "excerpt": "The federal government’s plan to boost its oversight of the use of artificial intelligence tools in health care drew censure from startups arguing that overregulation stifles new ideas.",
@@ -1099,103 +1176,6 @@
         "AI",
         "AI Ethics",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-microsoft-backed-openai-valued-at-80bn-after-company-completes-deal.md",
-      "title": "Microsoft-backed OpenAI valued at $80bn after company completes deal",
-      "excerpt": "Company to sell existing shares in ‘tender offer’ led by venture firm Thrive Capital, in similar deal as early last year Microsoft-backed OpenAI has completed a deal that values the artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "originalUrl": "https://www.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/31d22fd8fcc34bb0ab7a9da447f294d8138108f9/0_142_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=cf647d3966eb3d26240a50524fea27e7",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/16/microsoft-openai-valuation-artificial-intelligence",
-      "publishedDateTime": "2024-02-19T10:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
-      "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
-      "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
-      "originalUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/wp-content/uploads/2023/03/spyware.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
-      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/",
-      "publishedDateTime": "2024-02-19T10:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecurityWeek",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

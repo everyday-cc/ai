@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-17-how-to-install-setup-wordpress-on-microsoft-azure.md",
+      "title": "How to install & setup WordPress on Microsoft Azure",
+      "excerpt": "Step 2: Login to your Azure panel, open the virtual machine, we created in the first ... based software and gadgets and is currently learning JAVA. He loves to develop new software for Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure",
+      "originalUrl": "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-17T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-google-microsoft-openai-make-ai-pledges-ahead-of-munich-security-conference.md",
       "title": "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference",
       "excerpt": "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI.",
@@ -1351,41 +1385,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
-      "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
-      "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
-      "originalUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T12:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

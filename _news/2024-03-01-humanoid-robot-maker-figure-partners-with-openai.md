@@ -3,20 +3,26 @@ category: news
 title: "Humanoid robot-maker Figure partners with OpenAI"
 excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
 publishedDateTime: 2024-02-29T22:30:00Z
-originalUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
-webUrl: "https://wacotrib.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_6f4165a2-aaf3-519e-8386-e4b92a995101.html"
+originalUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
+webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: wacotrib
-  domain: wacotrib.com
+  name: The Roanoke Times
+  domain: roanoke.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker"
@@ -384,6 +390,6 @@ related:
       domain: aol.com
     quality: 23
 
-secured: "cKBFVgFfOyy2DwWd/ROgT5nkp+0giy2bmgghvfbRz0AcUzyPci25MI2WaMRqlS/WkNjKYzx04iegYqAfoWV25Y1hoyM+Ez2R1MRC7NIdqKntn3EwWZ6hnSryJY8tWsVaY0+7vWmAFlinUFUl7oUPcTL6t0JuwuafiLm+cNDKwt3gUT/fN36OmEBew9ybUrnSof2/0QLrxeRYgtA7JlieCEj56RrPE9uJ54IfqSVeip0dhdXWQPRgkfJOu1Zc/txHt0jrrE9he81R2jkteYR6kLGJXDLELlH7pCzbLRAzF9yh/eDiZ2qOjUqB4p2k4tKUIWCxklfwLBrv1etb+PAbElntm7AV9pEnYrqDVFVhJMYP/JT+kwksAG5ui2G28UxaRkyM6z3qGQbzooegq6l7okARploE82HZmE6NZkSDLdbrsGU/2s4nfYlue9fE4/pyQXtbQ/BYGDfbH6yYzGXPTPxbpDz8tR7xbbhGXUDQMSYV+XTroip6nQS9yyh7Rke25An+/kkRDmOziXW/htkscw==;RHoFl49oP4D8S5BxgR23Sg=="
+secured: "aMBN/I9bXvgrwxbGWqSLGiMeCCKhTFHg8KlS4V/NUQvABmClSEmtsMx1dCfiqzMW3+J6s9YJC41w5+2rR116Pfewl+BC7sRL2UxTsVdp6gsViapIEBzExt6znMoEGHDxzRQxo7TJIA7OOowsmNHAmwD2LMtY1KmLGptWN4IILQq9SSyYv34QL++XU+xZCi08TLL2GM47ETpkUTKrMM7L9gIj03inTX9EM9MC98v9JAcjR5IYOSps8tkDZnhZZkRouZlfhbX2lyNIQmFaokyHpbnos1iylXuDfsS64xTDM0TEf/hJ7z7ayaPrEsOrJ3rv44osc71+NRP2UbUbhTgIRuKcKr+uvtMR+wywHj3dWoM=;9bXcG7WBfudBKCJcqRiHYQ=="
 ---
 

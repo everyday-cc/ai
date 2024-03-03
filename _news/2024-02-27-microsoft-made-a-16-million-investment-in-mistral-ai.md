@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-invest
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/"
 type: article
 quality: 104
-heat: 614
+heat: 594
 published: true
 
 provider:
@@ -283,20 +283,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
         width: 700
         height: 394
-        isCached: true
-  - title: "Microsoft president commits to Azure open platform for AI"
-    excerpt: "Brad Smith sets out Microsoft’s ambitions to make Azure the best platform to host foundational AI models, and train and run AI applications."
-    publishedDateTime: 2024-02-27T06:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366571512/Microsoft-president-commits-to-Azure-open-platform-for-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineImages/AI-artificial-intelligence-button-adobe.jpg"
-        width: 1200
-        height: 400
         isCached: true
   - title: "Microsoft debuts AI-powered Copilot for Finance as it continues company-wide AI push"
     excerpt: "On Tuesday, the company also disclosed it is working with OpenAI rival Mistral and will begin offering that firm’s AI models via its Azure cloud platform. In its most recent earnings report, Microsoft revealed that AI services contributed 6 percentage ..."
@@ -639,15 +625,6 @@ related:
       name: unilad
       domain: unilad.com
     quality: 36
-  - title: "Microsoft partners with French start-up in artificial intelligence"
-    excerpt: "Partnership provides Mistral AI access to Microsoft's cloud computing platform Azure's AI infrastructure - Anadolu Ajansı"
-    publishedDateTime: 2024-02-27T05:58:00Z
-    webUrl: "https://www.aa.com.tr/en/economy/microsoft-partners-with-french-start-up-in-artificial-intelligence/3148611"
-    type: article
-    provider:
-      name: Anadolu Ajansi
-      domain: aa.com.tr
-    quality: 34
   - title: "Microsoft’s GitHub offers companies souped-up AI coding tool"
     excerpt: "GitHub says Copilot Enterprise can answer questions based on a client’s code, a feature that could help new employees get up to speed."
     publishedDateTime: 2024-02-28T03:40:00Z

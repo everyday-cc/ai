@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 webUrl: "https://www.techrepublic.com/article/mwc-2024-trends-roundup/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
-    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
-    publishedDateTime: 2024-02-27T05:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 56
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Qualcomm At MWC 2024: Spatial Computing, Loads Of AI And 5G/6G Demos"
     excerpt: "Analyst Anshel Sag reviews the latest 5G, AI, spatial computing and automotive announcements from Qualcomm at Mobile World Congress Barcelona 2024."
     publishedDateTime: 2024-02-29T12:57:00Z

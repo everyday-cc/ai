@@ -752,6 +752,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-lee-healths-healthpark-medical-center-named-among-the-top-50-hospitals-for-heart-care-in-the-us-for-the-11th-time.md",
+      "title": "Lee Health’s HealthPark Medical Center Named Among the Top 50 Hospitals for Heart Care in the U.S. for the 11th Time",
+      "excerpt": "This marks the 11th year that HealthPark Medical Center has won the award. Formerly known as the IBM Watson award, the PINC AI™ 50 Top Cardiovascular Hospitals™ represent the highest standard of cardiovascular care in the United States. Premier Inc ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lee-health-s-healthpark-medical-center-named-among-the-top-50-hospitals-for-heart-care-in-the-u-s-for-the-11th-time-1033084697",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lee-health-s-healthpark-medical-center-named-among-the-top-50-hospitals-for-heart-care-in-the-u-s-for-the-11th-time-1033084697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-streamlining-supply-chain-management-strategies-for-the-future.md",
       "title": "Streamlining supply chain management: Strategies for the future",
       "excerpt": "Here’s how companies are using different strategies to address supply chain management and meet their business goals.\nThe post Streamlining supply chain management: Strategies for the future appeared first on IBM Blog.\n",
@@ -1251,48 +1294,6 @@
       "sourceUrl": null,
       "webUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
       "originalUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
-      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
-      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
-      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,

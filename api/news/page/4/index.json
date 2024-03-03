@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-29-ibms-ai-enhanced-storage-platform-can-identify-ransomware-in-under-a-minute.md",
+      "title": "IBM's AI-enhanced storage platform can identify ransomware in under a minute",
+      "excerpt": "Read our ethics statement. Forward-looking ... without impacting performance. The new AI-enhanced FlashCore Module 4 is even more advanced, continuously monitoring stats gathered from every single I/O to look for anomalies like ransomware starting to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
+      "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-28.jpg",
+          "width": 3747,
+          "height": 2087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts.md",
+      "title": "Tech in Healthcare to Alleviate Pain, Make Treatment Affordable: Experts",
+      "excerpt": "Hyderabad: In days to come, surgeries will go the minimally invasive way. There will be use of real-time data for added precision. Robotic surgeries will be mainstream. These are the views of",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "originalUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanchronicle.com/h-upload/2024/02/28/1077530-pav6976.jpg",
+          "width": 3680,
+          "height": 2456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "publishedDateTime": "2024-02-28T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-4-smart-technologies-modernizing-sourcing-strategy.md",
       "title": "4 smart technologies modernizing sourcing strategy",
       "excerpt": "Organizations with strategic sourcing mindsets look beyond price and cost savings-centered supplier selection initiatives.\nThe post 4 smart technologies modernizing sourcing strategy appeared first on IBM Blog.\n",
@@ -291,7 +386,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_VO1RavpYLA9NyC8VPMRLxLSCmRcwZxtQD8bLNxkYV6PHFEWLFX4hxgbXflccaEtQ-UpZC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -589,58 +684,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-amazon-coupon-codes-for-february-2024.md",
-      "title": "Amazon Coupon Codes for February 2024",
-      "excerpt": "Amazon Prime is Amazon’s membership service which offers free delivery on millions of eligible items. Certain products are eligible for free one-day delivery to select postcodes in Sydney and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/coupons/amazon-au",
-      "originalUrl": "https://www.techradar.com/coupons/amazon-au",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QZRQci2tJrQzHG6UqLQDyX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T08:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1145,7 +1188,7 @@
       "originalUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1186,58 +1229,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-humanes-wearable-ai-pin-hints-at-a-phone-free-future.md",
-      "title": "Humane's Wearable AI Pin Hints At A Phone-Free Future",
-      "excerpt": "Humane announced the AI Pin back in November of 2023, and it's currently available for pre-order in the US for $699 (as well as increasingly with a number of operator partners around the world). On top of this, there's a $24 monthly subscription fee to pay that covers connectivity, secure data storage and access to Humane's AI service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/4a3937be74c328af2fbc0e3ca6d855c741648feb/hub/2024/02/27/f3cc8097-dd93-4174-bf53-42d027d8f9f3/humane-ai-pin-mwc-2024-04.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T18:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

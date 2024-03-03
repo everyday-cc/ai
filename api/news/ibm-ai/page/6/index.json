@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-15-five-open-source-ai-tools-to-know.md",
+      "title": "Five open-source AI tools to know",
+      "excerpt": "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/",
+      "originalUrl": "https://www.ibm.com/blog/five-open-source-ai-tools-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T17:24:27Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think.md",
       "title": "Tying environmental outcomes to real business value may be simpler than you think",
       "excerpt": "There has been a lot of recent discussion around the business value of environmental, social and governance (ESG) reporting and financials.\nThe post Tying environmental outcomes to real business value may be simpler than you think appeared first on IBM Blog.\n",
@@ -1231,50 +1274,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-how-artificial-intelligence-could-transform-health-care.md",
-      "title": "How Artificial Intelligence Could Transform Health Care",
-      "excerpt": "Bob Wachter comments on the potential of new generative artificial intelligence tools to transform the health care environment in a way previous technologies could not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
-      "originalUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/news/wachter_digital.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T00:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UC San Francisco",
-        "domain": "ucsf.edu",
         "images": null,
         "publishers": null,
         "authors": null

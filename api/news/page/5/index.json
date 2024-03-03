@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-28-humanes-wearable-ai-pin-hints-at-a-phone-free-future.md",
+      "title": "Humane's Wearable AI Pin Hints At A Phone-Free Future",
+      "excerpt": "Humane announced the AI Pin back in November of 2023, and it's currently available for pre-order in the US for $699 (as well as increasingly with a number of operator partners around the world). On top of this, there's a $24 monthly subscription fee to pay that covers connectivity, secure data storage and access to Humane's AI service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/4a3937be74c328af2fbc0e3ca6d855c741648feb/hub/2024/02/27/f3cc8097-dd93-4174-bf53-42d027d8f9f3/humane-ai-pin-mwc-2024-04.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T18:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university.md",
       "title": "B-Tech in robotics, AI among new courses at Noida's Gautam Buddha University",
       "excerpt": "BTech in robotics and artificial intelligence are among the 16 new courses along with 139 existing ones at the state-run Gautam Buddha University here for which admissions opened on Tuesday, officials said.",
@@ -652,7 +704,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 614,
+      "heat": 594,
       "tags": null,
       "images": [
         {
@@ -1183,58 +1235,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb.md",
-      "title": "Qualcomm FastConnect 7900 Brings AI-Fueled WiFi-7 With Integrated Bluetooth And UWB",
-      "excerpt": "Qualcomm took the wraps off its FastConnect 7900 integrated WiFi solution, and it's not just AI-enhanced but also highly integrated with a number of industry firsts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dd1694c7e968eaf4100aa6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/amp/",
-      "publishedDateTime": "2024-02-26T23:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

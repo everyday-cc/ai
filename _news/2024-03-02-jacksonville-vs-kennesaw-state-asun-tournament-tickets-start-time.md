@@ -52,6 +52,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Wild vs. Sharks March 3 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. When the Minnesota Wild meet the San Jose Sharks at Xcel Energy Center on Sunday (starting at 7:00 PM ET), Joel Eriksson Ek and Tomas Hertl will be two of the most exciting players to watch. Kirill Kaprizov is one of ..."
+    publishedDateTime: 2024-03-03T06:20:00Z
+    webUrl: "https://www.valleynewslive.com/sports/betting/2024/03/03/wild-vs-sharks-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: Valley News Live
+      domain: valleynewslive.com
+    quality: 22
+    images:
+      - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/v2/FJF7XUVLHZJ6XOQQW543YPJMOE.jpg?auth=c9b173427c9f1df9b8872539b4b696eedb06c7f752613cc83c4a1034cd350f57&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Northern Kentucky vs. Oakland Horizon Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 8 seed Oakland Golden Grizzlies (12-16 ... Western Michigan March 6 Women's Basketball Tickets & Start Time Akron vs. Ohio March 6 Women's Basketball Tickets & Start Time Miami (OH) vs. Ohio March 9 Women's ..."
+    publishedDateTime: 2024-03-03T06:20:00Z
+    webUrl: "https://www.fox19.com/sports/betting/2024/03/05/northern-kentucky-vs-oakland-buy-horizon-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 13
+    images:
+      - url: "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/v2/X4KTVRTHTRI7FFZMV6ZLZEB5SU.jpg?auth=349051a7b310fc9f1463360381045417627edcf6bdd8a7b02f7208bb168c8aff&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kennesaw State vs. Jacksonville ASUN Tournament Tickets & Start Time"
     excerpt: "Preview the ASUN Tournament Kennesaw State Owls vs. Jacksonville Dolphins game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-03-02T14:50:00Z

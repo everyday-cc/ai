@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-10-duolingo-cuts-workers-as-it-relies-more-on-ai.md",
+      "title": "Duolingo cuts workers as it relies more on AI",
+      "excerpt": "Language-learning app Duolingo has been steadily firing contract writers and translators, replacing them with artificial intelligence, in one of the most high-profile instances yet of a company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWMSG5VKJ7GQNMVQUE7A6VV6NM.JPG&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-raz-memory-cell-phone-allows-people-with-impaired-speech-to-speak-and-be-understood-using-their-own-voice.md",
       "title": "RAZ Memory Cell Phone Allows People with Impaired Speech to Speak and be Understood Using their Own Voice",
       "excerpt": "CABIN JOHN, Md.--(BUSINESS WIRE)--RAZ Mobility (www.razmobility.com), is integrating speech recognition technology for non-standard speech into its RAZ Memory Cell Phone. For the first time ...",
@@ -1362,41 +1405,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-microsoft-rolls-out-improved-voice-access-on-windows-11-following-removal-of-windows-speech-recognition.md",
-      "title": "Microsoft Rolls Out 'Improved' Voice Access on Windows 11 Following Removal of Windows Speech Recognition",
-      "excerpt": "With AI integration, Microsoft has the upper hand to improve Copilot and other AI-related features on Windows 11. This would also position Voice Access as a central component in the evolving Windows 11 interface, making it more useful to regular users and those with mobility disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/299786/20231215/microsoft-rolls-out-improved-voice-access-windows-11-following-removal.htm",
-      "originalUrl": "https://www.techtimes.com/articles/299786/20231215/microsoft-rolls-out-improved-voice-access-windows-11-following-removal.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T19:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

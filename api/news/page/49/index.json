@@ -2,6 +2,101 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2024-01-26-tech-companies-are-slashing-thousands-of-jobs-as-they-pivot-toward-ai.md",
+      "title": "Tech companies are slashing thousands of jobs as they pivot toward AI",
+      "excerpt": "Technology companies are investing heavily in artificial intelligence, and some workers are already paying the price. SAP is the latest big tech player to cut jobs as it pours money into AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "originalUrl": "https://www.cbsnews.com/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/24/b4c8acc6-c388-4fd5-83a1-3ddda0cfd7bd/thumbnail/1200x630/9c701ffb876eb0e4aff6783dcb64f4d0/gettyimages-1759446379.jpg?v=82ad4e2325e43ceb15c3334435d40e92",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "publishedDateTime": "2024-01-25T17:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-apple-is-quietly-stockpiling-startups-and-hunting-for-talent-as-it-fights-for-a-slice-of-the-ai-boom.md",
+      "title": "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom",
+      "excerpt": "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
+      "originalUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
+      "publishedDateTime": "2024-01-25T16:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-mro-spare-parts-optimization.md",
       "title": "MRO spare parts optimization",
       "excerpt": "MRO processes increase service levels, function safely and sustainably, operate efficiently and reduce unplanned and costly downtime.\nThe post MRO spare parts optimization appeared first on IBM Blog.\n",
@@ -1099,74 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights.md",
-      "title": "IBM Jazzes Up GRAMMYs - Watsonx Unleashes AI Magic for Nominee Highlights",
-      "excerpt": "IBM unveils generative AI solution co-created alongside Recording Academy to generate editorial content around GRAMMY nominees. Fans will be able to engage with the AI-generated content during ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/24/01/36775486/ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights",
-      "originalUrl": "https://www.benzinga.com/news/earnings/24/01/36775486/ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033.md",
-      "title": "Artificial Intelligence in Telecommunication Market Demonstrates Robust Growth, Forecasted to Reach US$ 14,496 Million by 2033",
-      "excerpt": "The global artificial intelligence in telecommunications market is anticipated to be valued at US$ 918.6 million in 2022 and US$ 10,399.9 million by 2032, with a CAGR of 27.5% from 2022 to 2032. The acceptance of artificial intelligence in telecommunications is growing as telecom organisations use AI in various aspects of their operations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2024/01/25/artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033/",
-      "originalUrl": "https://www.fmiblog.com/2024/01/25/artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T02:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
+      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
+      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-one-year-after-gpt-4-what-generative-ai-means-to-lawyers.md",
       "title": "One Year After GPT-4: What Generative AI Means to Lawyers",
       "excerpt": "Dr. Lingfei Wu is a distinguished engineer and entrepreneur known for his contributions in artificial intelligence, machine learning, and natural language processing. He is the Co-founder and CEO of Anytime.AI, a generative AI startup that aims to boost efficiency and effectiveness in the legal field.",
@@ -1267,57 +1309,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-01T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-should-large-enterprises-self-host-their-authoritative-dns.md",
-      "title": "Should large enterprises self-host their authoritative DNS?",
-      "excerpt": "There are several reasons why a large enterprise would want to build and host an authoritative DNS service on its own.\nThe post Should large enterprises self-host their authoritative DNS? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/should-large-enterprises-self-host-their-authoritative-dns/",
-      "originalUrl": "https://www.ibm.com/blog/should-large-enterprises-self-host-their-authoritative-dns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/091a0057.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

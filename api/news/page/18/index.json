@@ -2,6 +2,109 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-18-reddit-is-licensing-content-to-an-unnamed-ai-company.md",
+      "title": "Reddit Is Licensing Content to an Unnamed AI Company",
+      "excerpt": "The moves comes after Reddit irked developers by charging for access to its API, in part because large language models were scraping its content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company",
+      "originalUrl": "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03Hyh2PyimAsnt28T5jQSB3-1.fit_lim.size_1200x630.v1708196194.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-17T18:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-british-business-needs-ai-workers-and-fintechs-are-no-different.md",
+      "title": "British Business Needs AI Workers And Fintechs Are No Different",
+      "excerpt": "Scott Galloway said \"you are not going to lose your job to AI, you are going to lose your job to someone who uses AI better than you do\" and this is true in fintech too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d0e9645eedf8898b975311/0x0.jpg?format=jpg&crop=2911,1636,x31,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
+      "publishedDateTime": "2024-02-17T17:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip.md",
       "title": "A robot sommelier spilled wine on my pants. Then it asked for a tip",
       "excerpt": "But, given the times in which we live, this particular inducement felt entirely irresistible: \"Wine Tasting With Robot Sommelier.\" Also: Worried about AI gobbling up your job? Start doing these 3 things now That's what the sign on the street said and it ...",
@@ -1060,110 +1163,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-do-you-hear-an-echo-probably-and-it-could-be-the-answer-for-improving-ai-speech-recognition.md",
-      "title": "Do you hear an echo? Probably, and it could be the answer for improving AI speech recognition",
-      "excerpt": "The team from Zhejiang University said the discovery could pave the way for improving automatic speech recognition for machines to produce more accurate transcripts from recordings. “An intense ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/15/c5a52972-96cf-42e4-a162-c15abf165ccc_ff565909.jpg?itok=C8FistIM&v=1707989272",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
-      "publishedDateTime": "2024-02-16T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-lex-friedman-weighs-in-on-the-future-of-ai-language-and-existential-self-reflection.md",
-      "title": "Lex Friedman Weighs In On The Future Of AI, Language … And Existential Self-Reflection",
-      "excerpt": "At the top of Lex's comments, he talked about disruption – predicting that two new trillion-dollar companies will emerge out of the AI era, and suggesting that Google, Meta and Microsoft will likely not be able to pivot quickly enough to maintain their dominance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf86014c1349603be73537/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1333,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/",
-      "publishedDateTime": "2024-02-16T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

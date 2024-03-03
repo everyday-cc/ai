@@ -2,6 +2,92 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-11-25-amazon-has-millions-of-black-friday-deals-here-are-the-101-best.md",
+      "title": "Amazon Has Millions of Black Friday Deals — Here Are the 101 Best",
+      "excerpt": "Learn more. People / Tyler Roeland The discounts you’ve been waiting for are finally here. Amazon is celebrating Black Friday with millions of doorbuster deals, plus stackable coupons and Prime ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
+      "originalUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://people.com/thmb/S7_mdHiV3MtQIJCGtOoz2PZ4XUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-black-friday-101-best-amazon-deals-tout-94bef79afa624b60aabf41cd20ebb14b.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-25-tesla-preparing-to-launch-full-self-driving-beta-in-china.md",
+      "title": "Tesla Preparing To Launch “Full Self-Driving” Beta In China",
+      "excerpt": "A new report suggests that Tesla will launch the FSD Beta in China with the release of version 12 of the software",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
+      "originalUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/11/Tesla-China.jpg",
+          "width": 2250,
+          "height": 1265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
+      "publishedDateTime": "2023-11-24T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-ai-drives-chip-sector-recovery.md",
       "title": "AI drives chip sector recovery",
       "excerpt": "The growing demand for AI applications has made a visible impact on the semiconductor sectorGlobal semiconductor sector revenues have grown for two",
@@ -1076,102 +1162,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-the-top-7-media-people-in-ai.md",
-      "title": "The top 7 media people in AI",
-      "excerpt": "Joy Buolamwini, Algorithmic Justice League Dr. Buolamwini's research found that major tech companies' AI-driven facial recognition tools ... largely due to information they saw on sites like Facebook, Carlton was inspired to study technology and society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11",
-      "originalUrl": "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/655d34449c7d23cb3b9e85ad?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp",
-      "publishedDateTime": "2023-11-23T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-gms-cruise-imploded-but-risked-more-than-waymo-or-tesla-says-ark-analyst-musk-promises-fsd-that-will-far-exceed-human-safety.md",
-      "title": "GM's Cruise 'Imploded' But Risked More Than Waymo Or Tesla, Says Ark Analyst — Musk Promises FSD That Will 'Far Exceed Human Safety'",
-      "excerpt": "“Waymo still looks better than the average ... Elon Musk (@elonmusk) November 23, 2023 Early in July, at the 2023 World Artificial Intelligence Conference, Musk said that Tesla is \"very close ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35929043/gms-cruise-imploded-but-risked-more-than-waymo-or-tesla-says-ark-analyst-musk-promi",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35929043/gms-cruise-imploded-but-risked-more-than-waymo-or-tesla-says-ark-analyst-musk-promi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Cockpit-Of-Autonomous-Car--Self-Driving-.jpeg?width=1200&height=800&fit=crop",
-          "width": 902,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35929043",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35929043",
-      "publishedDateTime": "2023-11-23T09:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -52,7 +52,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -91,7 +91,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -549,6 +550,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence.md",
+      "title": "AI chip startup Groq forms new business unit, acquires Definitive Intelligence",
+      "excerpt": "Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise — and public sector. Today, Groq announced that it’s forming a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "originalUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341418748.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "publishedDateTime": "2024-03-01T17:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1157,21 +1210,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
-      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
-      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
+      "path": "_news/2024-03-01-will-samsung-introduce-galaxy-ai-to-budget-phones.md",
+      "title": "Will Samsung introduce Galaxy AI to budget phones?",
+      "excerpt": "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20240301050172",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20240301050172",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F01%2F20240301050138_0.jpg",
+          "width": 630,
+          "height": 419,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1179,65 +1232,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "publishedDateTime": "2024-03-01T07:21:00Z",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20240301050172",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240301050172",
+      "publishedDateTime": "2024-03-01T07:55:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps.md",
-      "title": "e& UAE to Deploy AWS Amazon Bedrock and SageMaker GenAI Apps",
-      "excerpt": "UAE yesterday announced a partnership with Amazon Web Services (AWS) to deploy advanced generative artificial intelligence (GenAI) technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/d4e68f72b2c8a639e4dacdec9c9f9f84.jpg?t=20240301_070414",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T07:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1247,7 +1248,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Natural Language Processing",
         "AI"
       ]
     }

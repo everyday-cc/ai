@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-27-qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb.md",
+      "title": "Qualcomm FastConnect 7900 Brings AI-Fueled WiFi-7 With Integrated Bluetooth And UWB",
+      "excerpt": "Qualcomm took the wraps off its FastConnect 7900 integrated WiFi solution, and it's not just AI-enhanced but also highly integrated with a number of industry firsts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dd1694c7e968eaf4100aa6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/amp/",
+      "publishedDateTime": "2024-02-26T23:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-can-we-handle-ubertechnology-yann-lecun-and-others-on-controlling-ai.md",
       "title": "Can We Handle Ubertechnology? Yann LeCun And Others On Controlling AI",
       "excerpt": "“Human intelligence is very specialized,” LeCun said. Instead of AGI, he added, we should be talking about “human-level AI” and, he suggested, we’re not anywhere near there yet. The process, he said, would be to get machines learning as efficiently as humans and animals.",
@@ -1152,58 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators.md",
-      "title": "Modernizing and monetizing telecom networks with AI-powered Azure for Operators",
-      "excerpt": "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

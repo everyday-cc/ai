@@ -2,6 +2,100 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-12-29-ambient-ai-is-here-and-we-are-blissfully-unaware-of-it.md",
+      "title": "Ambient AI Is Here, And We Are Blissfully Unaware Of It",
+      "excerpt": "AI will evolve to become an undercover operating system for professionals, particularly when it comes to using the technology for research and idea generation.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658e328bd7fe6f0a3f7ff7c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1335,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/amp/",
+      "publishedDateTime": "2023-12-29T06:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars.md",
+      "title": "Elon Musk says Tesla in race against time to wheel out fully self-driving cars",
+      "excerpt": "Tech billionaire Elon Musk disclosed that electric vehicle manufacturer Tesla is working on artificial general intelligence (AGI) for its Full Self-Driving (FSD) vehicles in a major step towards obtaining completely autonomous driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenews.com.pk/latest/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "originalUrl": "https://www.thenews.com.pk/latest/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-12-29/l_1142856_044635_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "publishedDateTime": "2023-12-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News International",
+        "domain": "thenews.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-manufacturers-grapple-with-ai-and-robotics.md",
       "title": "Manufacturers Grapple with AI and Robotics",
       "excerpt": "In findings that are perhaps surprising, the manufacturing industry has been slow to implement artificial intelligence. PwC finds that 60 ... VP of innovation and strategy at Universal Robots, to get his view on several issues facing manufacturers ...",
@@ -1132,109 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage.md",
-      "title": "Personal AI: The Technology Has Hit Its ‘High-Tech High-Touch’ Stage",
-      "excerpt": "Technology doesn’t really take off until it reaches its ‘high-tech high-touch” stage — that is, it becomes accessible, friendly, and yes, fun, to users in a big way. That concept, spun by late author and futurist John Naisbitt in his seminal work Megatrends back in the 1980s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658c502c7675026abb56f36a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/amp/",
-      "publishedDateTime": "2023-12-27T16:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-the-new-york-times-is-suing-openai-alleging-it-trained-chatgpt-off-its-content.md",
-      "title": "The New York Times is suing OpenAI — alleging it trained ChatGPT off its content",
-      "excerpt": "The Times is also suing Microsoft. The newspaper seeks to end the practice of using published material to train chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "originalUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/658c4651ab6f2ebb11f71246?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "publishedDateTime": "2023-12-27T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

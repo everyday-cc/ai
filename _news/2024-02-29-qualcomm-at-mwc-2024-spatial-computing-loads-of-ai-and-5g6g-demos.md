@@ -36,20 +36,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "MWC 2024: Smartphone makers bet on AI to revive sales"
-    excerpt: "South Korean giant Samsung’s stand at the MWC prominently plugged its new premium AI-powered Galaxy S24 range, which allow users to make or receive a call in a language they don’t speak and then receive a live translation of the call both audibly and ..."
-    publishedDateTime: 2024-02-27T05:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/27/mwc-2024-smartphone-makers-bet-on-ai-to-revive-sales"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 56
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/27/2564047.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Generative AI Advances Showcased at MWC 2024"
     excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
     publishedDateTime: 2024-02-28T16:20:00Z

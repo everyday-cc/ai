@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -63,31 +63,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google DeepMind's Open Endedness Team has created Genie, an AI that generates 2D playable platformer"
-    excerpt: "Tim Rocktaschel states that Genie is a 'foundation world model' that has been trained by watching 200,000 hours of 2D platformers."
-    publishedDateTime: 2024-02-27T05:45:00Z
-    webUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world"
-    ampWebUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/26/google-deepmind-genie-ai-creates-2d-playable-worlds_feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI will design drugs in the next couple of years, says Google Deepmind boss"
-    excerpt: "The chief of Google DeepMind has said artificial intelligence (AI) could be designing drugs in clinics within the next couple of years. The chief executive of Google DeepMind has said artificial ..."
-    publishedDateTime: 2024-02-27T06:00:00Z
-    webUrl: "https://www.cityam.com/ai-will-design-drugs-in-the-next-couple-of-years-says-google-deepmind-boss/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 32
   - title: "Google DeepMind’s new generative model makes Super Mario–like games from scratch"
     excerpt: "Genie learns how to control games by watching hours and hours of video. It could help train next-gen robots too."
     publishedDateTime: 2024-02-29T12:57:00Z

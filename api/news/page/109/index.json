@@ -2,6 +2,101 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-11-30-new-amazon-sagemaker-hyperpod-can-train-ai-models-across-thousands-of-chips.md",
+      "title": "New Amazon SageMaker HyperPod can train AI models across thousands of chips",
+      "excerpt": "Amazon Web Services Inc. today launched Amazon SageMaker HyperPod, a new offering that enables developers to train foundation models across thousands of chips.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/11/29/new-amazon-sagemaker-hyperpod-can-train-ai-models-across-thousands-chips/",
+      "originalUrl": "https://siliconangle.com/2023/11/29/new-amazon-sagemaker-hyperpod-can-train-ai-models-across-thousands-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/AWS-1.png",
+          "width": 849,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T00:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-aws-aims-to-reinvent-contact-centers-with-gen-ai.md",
+      "title": "AWS Aims to Reinvent Contact Centers with Gen AI",
+      "excerpt": "Expanded Partnership with Salesforce Brings Greater Intelligence Across the Customer Journey AWS also announced that it was expanding its partnership with Salesforce. AWS will start offering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/aws-looks-to-reinvent-contact-centers-with-genai-and-thin-clients/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/aws-looks-to-reinvent-contact-centers-with-genai-and-thin-clients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/11/ew_20231130-aws-looks-to-reinvent-contact-centers-with-genai-and-thin-clients-1024x658.png",
+          "width": 1024,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-data-and-algorithms-the-building-blocks-of-artificial-intelligence.md",
       "title": "Data and Algorithms: The Building Blocks of Artificial Intelligence",
       "excerpt": "At its core, Artificial Intelligence (AI) is the product of two components –the first is data and the second is algorithms. Diverse types of algorithms exist, each potentially displaying a level of complexity. Among these, neural networks stand out as ...",
@@ -999,83 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-health-care-policy-stakeholders-testify-on-the-use-of-artificial-intelligence-in-health-care.md",
-      "title": "Health Care Policy Stakeholders Testify on the Use of Artificial Intelligence in Health Care",
-      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "originalUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-google-bard-lead-debunks-natural-fear-of-ais-development-computers-do-things-with-you.md",
-      "title": "Google Bard lead debunks ‘natural fear’ of AI's development: 'Computers do things with you’",
-      "excerpt": "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. The emergence of artificial intelligence has sparked a fear of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
-      "originalUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b44ce7d5-cfbe-4b86-bdc0-5bd5d6ded0a0/b5cacac1-0706-41cb-bf48-d1d5f0bfb8b5/1280x720/match/image.jpg?pubId=854081161001",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
-      "publishedDateTime": "2023-11-29T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

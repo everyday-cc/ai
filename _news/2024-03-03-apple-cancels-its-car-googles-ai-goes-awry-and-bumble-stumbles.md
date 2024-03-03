@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes
 ampWebUrl: "https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2024/02/apple-ghost-logo.jpg?resize=1200,675"

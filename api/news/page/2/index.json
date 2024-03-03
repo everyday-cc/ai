@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
+      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
+      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "publishedDateTime": "2024-03-01T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps.md",
+      "title": "e& UAE to Deploy AWS Amazon Bedrock and SageMaker GenAI Apps",
+      "excerpt": "UAE yesterday announced a partnership with Amazon Web Services (AWS) to deploy advanced generative artificial intelligence (GenAI) technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/d4e68f72b2c8a639e4dacdec9c9f9f84.jpg?t=20240301_070414",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T07:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-googles-ai-first-strategy-brings-vector-support-to-cloud-databases.md",
       "title": "Google's AI-First Strategy Brings Vector Support To Cloud Databases",
       "excerpt": "Google’s move towards native support for vector storage in existing databases simplifies building enterprise GenAI applications relying on data stored in the cloud.",
@@ -1152,99 +1247,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-empowering-the-digital-first-business-professional-in-the-foundation-model-era.md",
-      "title": "Empowering the digital-first business professional in the foundation model era ",
-      "excerpt": "With rapid technological changes such as cloud computing and AI, learn how to thrive in the foundation model era.\nThe post Empowering the digital-first business professional in the foundation model era  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/empowering-the-digital-first-business-professional-in-the-foundation-model-era/",
-      "originalUrl": "https://www.ibm.com/blog/empowering-the-digital-first-business-professional-in-the-foundation-model-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-how-nvidia-came-to-rule-ai.md",
-      "title": "How Nvidia Came to Rule AI",
-      "excerpt": "This week we chart the rise of Nvidia, the company whose chips, servers, and data centers have fueled the growth of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-634/",
-      "originalUrl": "https://www.wired.com/story/gadget-lab-podcast-634/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65dfba3e82529b73aa508215/191:100/w_1280,c_limit/Gadget-Lab-Jensen-Huang-Gear-GettyImages-1730512657.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

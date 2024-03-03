@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2024-02-21-the-top-three-reasons-smb-owners-need-ai-assistant-in-acrobat.md",
+      "title": "The Top Three Reasons SMB Owners Need AI Assistant in Acrobat",
+      "excerpt": "Instead of struggling to recall all the details of a 50-page brand guide or distill key takeaways from a dense research document, I now plug the document text into Acrobat and AI Assistant gives me the power to get to the information I need, fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/the-top-three-reasons-smb-owners-need-ai-assistant-in/469873",
+      "originalUrl": "https://www.entrepreneur.com/business-news/the-top-three-reasons-smb-owners-need-ai-assistant-in/469873",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1708452261-Adobe-E-Hero.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-tokyo-startup-attuned-is-trying-to-use-ai-to-motivate-workers.md",
       "title": "Tokyo startup Attuned is trying to use AI to motivate workers.",
       "excerpt": "Over 27 million California residents are under flood watches. CNN meteorologist explains",
@@ -240,49 +292,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-facial-recognition-software-of-all-things-played-a-role-in-this-guys-latest-arrest.md",
-      "title": "Facial recognition software, of all things, played a role in this guy's latest arrest",
-      "excerpt": "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders at the store with pictures from his driver’s license.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "originalUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abcnews4.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "cdnAmpWebUrl": "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "publishedDateTime": "2024-02-20T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abcnews4",
-        "domain": "abcnews4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -916,6 +925,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-21-facial-recognition-software-of-all-things-played-a-role-in-this-guys-latest-arrest.md",
+      "title": "Facial recognition software, of all things, played a role in this guy's latest arrest",
+      "excerpt": "A man who's no stranger to a booking photographer's camera is back behind bars after he was allegedly caught stealing a chainsaw from a Lowe's store.",
+      "sourceUrl": null,
+      "webUrl": "https://foxbaltimore.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "originalUrl": "https://foxbaltimore.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://foxbaltimore.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://foxbaltimore.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "cdnAmpWebUrl": "https://foxbaltimore-com.cdn.ampproject.org/c/s/foxbaltimore.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
+      "publishedDateTime": "2024-02-20T17:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "foxbaltimore",
+        "domain": "foxbaltimore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-streamline-workflows-with-devops-solutions-from-github-and-azure.md",
       "title": "Streamline workflows with DevOps solutions from GitHub and Azure",
       "excerpt": "The joint solution of GitHub and Azure, combined with the power of Visual Studio, can create order for previously staggered workflows and delayed deployments.\nThe post Streamline workflows with DevOps solutions from GitHub and Azure appeared first on Microsoft Azure Blog.\n",
@@ -1164,49 +1216,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-recogni-raises-102m-to-develo-ai-inference-chip.md",
-      "title": "Recogni raises $102m to develo AI inference chip",
-      "excerpt": "AI startup Recogni has raised $102 million in a Series C funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/recogni-raises-102m-to-develop-ai-inference-chip/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/recogni-raises-102m-to-develop-ai-inference-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Recogni.2e16d0ba.fill-1200x630.jpg",
-          "width": 1190,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T15:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

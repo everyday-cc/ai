@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
-      "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
-      "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/02/self-checkout-1243x630.png",
-          "width": 1243,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T17:44:51Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-13-why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026.md",
       "title": "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026",
       "excerpt": "Microsoft says customers are using Generative AI in their products. “We now have 53,000 Azure AI customers,” Nadella told analysts on the company’s earnings call. CFO CFO Amy Hood ...",
@@ -1303,6 +1251,58 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth.md",
+      "title": "AWS sees another record year for Amazon as AI push drives cloud growth",
+      "excerpt": "The division’s growth matched what analysts had expected, and is largely attributable to the increasing interest in artificial intelligence. Revenue driven by AWS was slightly under that of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
+      "originalUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qc7sXoqRTmM6d94LT6WPhm-1200-80.jpg",
+          "width": 971,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

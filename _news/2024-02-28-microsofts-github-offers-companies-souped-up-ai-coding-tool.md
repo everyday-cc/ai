@@ -288,20 +288,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Microsoft president commits to Azure open platform for AI"
-    excerpt: "Brad Smith sets out Microsoft’s ambitions to make Azure the best platform to host foundational AI models, and train and run AI applications."
-    publishedDateTime: 2024-02-27T06:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366571512/Microsoft-president-commits-to-Azure-open-platform-for-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineImages/AI-artificial-intelligence-button-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Microsoft debuts AI-powered Copilot for Finance as it continues company-wide AI push"
     excerpt: "On Tuesday, the company also disclosed it is working with OpenAI rival Mistral and will begin offering that firm’s AI models via its Azure cloud platform. In its most recent earnings report, Microsoft revealed that AI services contributed 6 percentage ..."
     publishedDateTime: 2024-02-29T11:17:00Z
@@ -643,15 +629,6 @@ related:
       name: unilad
       domain: unilad.com
     quality: 36
-  - title: "Microsoft partners with French start-up in artificial intelligence"
-    excerpt: "Partnership provides Mistral AI access to Microsoft's cloud computing platform Azure's AI infrastructure - Anadolu Ajansı"
-    publishedDateTime: 2024-02-27T05:58:00Z
-    webUrl: "https://www.aa.com.tr/en/economy/microsoft-partners-with-french-start-up-in-artificial-intelligence/3148611"
-    type: article
-    provider:
-      name: Anadolu Ajansi
-      domain: aa.com.tr
-    quality: 34
   - title: "EXL collaborates with Microsoft to drive innovation using generative AI"
     excerpt: "EXLS], a leading data analytics and digital operations and solutions company, announced a new collaboration with Microsoft to co-develop and accelerate generative AI solutions for businesses. EXL is using the Microsoft Azure OpenAI Service to augment its extensive data and analytics expertise and create faster value for clients across industries,"
     publishedDateTime: 2024-02-28T19:17:00Z

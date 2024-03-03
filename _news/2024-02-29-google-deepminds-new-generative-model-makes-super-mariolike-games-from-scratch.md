@@ -67,31 +67,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google DeepMind's Open Endedness Team has created Genie, an AI that generates 2D playable platformer"
-    excerpt: "Tim Rocktaschel states that Genie is a 'foundation world model' that has been trained by watching 200,000 hours of 2D platformers."
-    publishedDateTime: 2024-02-27T05:45:00Z
-    webUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world"
-    ampWebUrl: "https://www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138891/google-deepmind-genie-ai-creates-2d-playable-world?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/26/google-deepmind-genie-ai-creates-2d-playable-worlds_feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI will design drugs in the next couple of years, says Google Deepmind boss"
-    excerpt: "The chief of Google DeepMind has said artificial intelligence (AI) could be designing drugs in clinics within the next couple of years. The chief executive of Google DeepMind has said artificial ..."
-    publishedDateTime: 2024-02-27T06:00:00Z
-    webUrl: "https://www.cityam.com/ai-will-design-drugs-in-the-next-couple-of-years-says-google-deepmind-boss/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 32
 
 secured: "O++zvpPNC7PEYANDbVUSWyFi+np4OXYJOW1rw7jgSABTjo4qcPCWsN1Tonja48/B5PO7FXezrl+cbbl5vOGYi/xrs2lL5qP8NNE6CmlhFY5+Q5194Xg8C5WtehmS7s7942U96sNFumhPAgM25mmv02P4X/unN8PiErTFvTNutDe3jM8MH4gTmwLoUwpFTFLX1mXLj56YTYFjavHv/MS6GpW/J6EutiAyJ6S0KlKHXebFajxpMvqXRJ+tH66NYL8dI2eg9sxRVItNRCoDZbVh1Mxa30ob0eXrdMhbgx68kjhlIubehBGuLMzF04IYKpWODqCdw34REt13OJwEAfEUO0V8OrhIOh6ytaNTvIoS2qCENRe2LCKzGhVuxl7FJ20diryyZS+I+KEKIfBVGq03dNCd9fjTTAkGgytPULC7Q4E3XyOCIu2D72PR7SE54ALICduHKx9/QMawzgMPaIE9z7fUXJvPcl06WNkldw4wrLRgEJvuIqE5d/Cp2NJr9h4ywxVG3InfmQ8xwJiMd1QkfQ==;7tXl8/SEiar/56CtjCVZbA=="
 ---

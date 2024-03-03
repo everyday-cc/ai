@@ -2,6 +2,100 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2023-11-27-ai-powered-robot-figures-out-how-to-make-oxygen-on-mars.md",
+      "title": "AI-Powered Robot Figures Out How to Make Oxygen on Mars",
+      "excerpt": "A new study recently published in Nature Synthesis details the steps taken for the aforementioned robot to come up with a process to make oxygen out of materials readily available on Mars. Using meteorites scientists think come from the Red Planet, the \"robotic chemist\" has able to create the primary element necessary for human life.",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "originalUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/02/28/4b1b5e2a-4ba6-49e2-a0b8-b0b56dca730e/wendys-sign.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "publishedDateTime": "2023-11-27T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-hype-isnt-helping-anyone.md",
+      "title": "AI hype isn’t helping anyone",
+      "excerpt": "We've got real issues with AI, and security is top of the list. Prompt injecting allows hackers to trick your private LLM, and that's a serious problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.html",
+      "originalUrl": "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/11/14/22/istock-1344939844-2-100948536-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.amp.html",
+      "publishedDateTime": "2023-11-27T02:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-ten-women-ai-leaders-that-openai-should-consider-for-their-board.md",
       "title": "Ten Women AI Leaders That OpenAI Should Consider For Their Board",
       "excerpt": "After the recent whirlwind of changes at OpenAI, their board is suddenly composed solely of men. These are ten board director recommendations for OpenAI to consider.",
@@ -1086,92 +1180,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-amazon-has-millions-of-black-friday-deals-here-are-the-101-best.md",
-      "title": "Amazon Has Millions of Black Friday Deals — Here Are the 101 Best",
-      "excerpt": "Learn more. People / Tyler Roeland The discounts you’ve been waiting for are finally here. Amazon is celebrating Black Friday with millions of doorbuster deals, plus stackable coupons and Prime ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
-      "originalUrl": "https://people.com/amazon-best-101-black-friday-deals-2023-8391181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://people.com/thmb/S7_mdHiV3MtQIJCGtOoz2PZ4XUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(2999x0:3001x2)/peo-black-friday-101-best-amazon-deals-tout-94bef79afa624b60aabf41cd20ebb14b.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-tesla-preparing-to-launch-full-self-driving-beta-in-china.md",
-      "title": "Tesla Preparing To Launch “Full Self-Driving” Beta In China",
-      "excerpt": "A new report suggests that Tesla will launch the FSD Beta in China with the release of version 12 of the software",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
-      "originalUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/11/Tesla-China.jpg",
-          "width": 2250,
-          "height": 1265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
-      "publishedDateTime": "2023-11-24T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

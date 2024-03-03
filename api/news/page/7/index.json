@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-26-modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators.md",
+      "title": "Modernizing and monetizing telecom networks with AI-powered Azure for Operators",
+      "excerpt": "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning.md",
       "title": "Master AI with no tech skills? Why complex systems demand diverse learning",
       "excerpt": "Still, high-level courses such as those offered by universities may help tech professionals better understand the depth of AI's impact on their businesses. \"Don't narrow yourself to just deep learning,\" Blumofe advises. \"Study the full breadth of AI and the foundational technology that underpins it.\"",
@@ -1196,58 +1248,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
-      "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
-      "excerpt": "in-depth research, investing resources, and more. Learn More Nvidia isn't the only artificial intelligence stock to put on your radar. Artificial intelligence (AI) is an exciting investment trend ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/24/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/24/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766347/gaming-2022.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }
