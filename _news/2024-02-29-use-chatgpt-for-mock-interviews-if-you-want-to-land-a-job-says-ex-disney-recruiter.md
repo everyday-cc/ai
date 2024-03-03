@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Are You Smarter Than ChatGPT?"
+    excerpt: "The ethics of abortion can also be viewed through a human rights ... so broad or bland that it lacks the nuance that an issue like abortion receives from an AI response. Another person mentioned that ChatGPT is impressive at condensing all of the ..."
+    publishedDateTime: 2024-02-28T00:12:00Z
+    webUrl: "https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/are-you-smarter-than-chatgpt/"
+    type: article
+    provider:
+      name: Santa Clara University
+      domain: scu.edu
+    quality: 41
+    images:
+      - url: "https://www.scu.edu/media/ethics-center/technology-ethics/Are-you-Smarter-Than-ChatGPT-Recording-360x225.png"
+        width: 360
+        height: 225
+        isCached: true
 
 secured: "Tm4JhhZEI64/RWhaVljIX3J4VxBoDe9FwKN0nmiyYUpFYKdDYPPft1YauDtDC2dLhs4ITqa9UsOSU5YyX1sNwnEfc5C4lqQDA+/MFGdD80yu9kkiXJy625OMEa2tr5NG4ytFH4bMc7+2ROXadv1tPEdA0agxiRNWIjgcFkRNLoJMMrX9q+lkwwV/kQxzqK9EnkP/BorQ7KxlSuUp2ghmKQ85GPsyqKw6swIbMzRVNcsrl0xgcpLmVwQsi9s+Ukaenh67tswTapdIVRtp5LUkHV9+aJdfEQG6InO0fMRrbmy3P8162jeFYcXIDxQ8ftopUZmg5LP6Jtv5mLHNr97G6La+VlIMMmQPbOVnYh0Xxw3enqvFjy+2Q26k2H33AmUl5Z1fey3zgsA3LwXQU0Fe+6UhNjkKLMSk8FrEWU8brTdUad5t4oZsRdK8oOL4vdnwiQhsMIxqMoadiWfrOI1mp4J/TTCSP8iBY5SvjR8olDtvYx/hYhyoZjxvkVCIwVkIFwWkoaC9EzY7K/PTtjeApQ==;8IkjyZP74/BcyssL8i3szQ=="
 ---

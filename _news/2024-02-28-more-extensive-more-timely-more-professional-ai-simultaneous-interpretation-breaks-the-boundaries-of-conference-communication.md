@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "K-State Social Media Week to feature events in artificial intelligence, content creation"
-    excerpt: "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ..."
-    publishedDateTime: 2024-02-27T17:21:00Z
-    webUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/"
-    ampWebUrl: "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp"
+  - title: "DBRANLU: National Conference On Artificial Intelligence And Its Legal Implications And Challenges"
+    excerpt: "A seminal National Conference on Artificial Intelligence (AI) and its Legal Implications and Challenges recently convened, drawing together eminent experts from diverse spheres across"
+    publishedDateTime: 2024-02-29T22:30:00Z
+    webUrl: "https://www.livelaw.in/lawschool/seminars/dbranlu-national-conference-artificial-intelligence-legal-implications-and-challenges-law-commission-of-india-meit-250893"
+    ampWebUrl: "https://www.livelaw.in/amp/lawschool/seminars/dbranlu-national-conference-artificial-intelligence-legal-implications-and-challenges-law-commission-of-india-meit-250893"
+    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/lawschool/seminars/dbranlu-national-conference-artificial-intelligence-legal-implications-and-challenges-law-commission-of-india-meit-250893"
     type: article
     provider:
-      name: WIBW
-      domain: wibw.com
-    quality: 50
+      name: Live Law
+      domain: livelaw.in
+    quality: 44
     images:
-      - url: "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true"
-        width: 800
-        height: 450
+      - url: "https://www.livelaw.in/h-upload/2024/02/28/524988-br-ambedkar.jpg"
+        width: 1135
+        height: 757
+        isCached: true
+  - title: "Fujitsu Launches Advanced AI Applications to Simplify 5G+ Network Challenges"
+    excerpt: "Fujitsu Network Communications introduced Virtuora® IA, a collection of network applications powered by artificial intelligence (AI) that use network-focused machine learning (ML) models and inherent telecommunications expertise to significantly improve mobile network operators’ (MNOs) network performance with drastically simplified operations."
+    publishedDateTime: 2024-02-29T06:37:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/35201-fujitsu-launches-advanced-ai-applications-to-simplify-5g-network-challenges"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 36
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/6fa3051e35d2d545e02058b29430a6e8.jpg?t=20240229_054934"
+        width: 752
+        height: 408
         isCached: true
   - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
     excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."

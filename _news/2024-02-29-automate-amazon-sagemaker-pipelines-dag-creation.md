@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: AWS
@@ -29,19 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "How Axfood enables accelerated machine learning throughout the organization using Amazon SageMaker"
-    excerpt: "This is a guest post written by Axfood AB.&nbsp; In this post, we share how Axfood, a large Swedish food retailer, improved operations and scalability of their existing artificial intelligence (AI) and machine learning (ML) operations by prototyping in close collaboration with AWS experts and using Amazon"
-    publishedDateTime: 2024-02-27T17:51:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/"
+  - title: "Supercharge your AI team with Amazon SageMaker Studio: A comprehensive view of Deutsche Bahn’s AI platform transformation"
+    excerpt: "AI’s growing influence in large organizations brings crucial challenges in managing AI platforms. These include developing a scalable and operationally efficient platform that adheres to organizational compliance and security standards. Amazon SageMaker Studio offers a comprehensive set of capabilities"
+    publishedDateTime: 2024-02-29T15:54:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 92
+    quality: 79
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/16/ML-15027-model-build-pipeline-2.jpg"
-        width: 1253
-        height: 599
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/bahn-ai-transformation-1121x630.jpg"
+        width: 1121
+        height: 630
+        isCached: true
+  - title: "e& UAE to Deploy AWS Amazon Bedrock and SageMaker GenAI Apps"
+    excerpt: "UAE yesterday announced a partnership with Amazon Web Services (AWS) to deploy advanced generative artificial intelligence (GenAI) technologies."
+    publishedDateTime: 2024-03-01T07:11:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 69
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/d4e68f72b2c8a639e4dacdec9c9f9f84.jpg?t=20240301_070414"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "nh5ESP1nOO2lKpFNtjR/zxLX3tDO12j+MG1H02RG4yyq0Y76AWJyC6y2YTAbvu9F4y1uKFUvtjtEkHV5Ss4Jgg2zwkJiFWf6bw2pxaootAeyWdahWSrKDbmeVjRuMITkBrVMW5rLXznqD6VGhUwUBQ4lxk5mZ5ouLcCTfx3cetIdHcK0RL3nfkil5yOMYFHe+eUmIA/ld/XPR0oW0fPFVXCXDK3v29XLKG4HAsWcq8FBxKUCNlxrue+yuVU2kJchbzjBanilfHG5WPaM/DTM3whfKnffFEk0MdOdKd5PMjbxzVQOy5n3C4ESIkFR4m9a6cdDgxlVVQY8JZTJ7RdqurVzYKG09YF0oXz8SwYZI60=;02sMBcuJmwxmWPVbfcOEyQ=="

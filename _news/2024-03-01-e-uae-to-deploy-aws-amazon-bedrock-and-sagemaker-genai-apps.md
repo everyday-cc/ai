@@ -7,8 +7,8 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-de
 webUrl: "https://www.thefastmode.com/technology-solutions/35216-e-uae-to-deploy-aws-amazon-bedrock-and-sagemaker-genai-apps"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Deep
@@ -25,33 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "E& UAE partners with AWS to elevate customer experiences with custom Generative AI"
-    excerpt: "In line with the partnership, e& UAE will use Amazon Bedrock and Amazon SageMaker to seamlessly integrate a suite of GenAI use cases, personalising recommendations beyond traditional algorithms. Amazon Bedrock is a fully managed service that offers a ..."
-    publishedDateTime: 2024-02-29T07:01:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
+  - title: "Automate Amazon SageMaker Pipelines DAG creation"
+    excerpt: "Creating scalable and efficient machine learning (ML) pipelines is crucial for streamlining the development, deployment, and management of ML models. In this post, we present a framework for automating the creation of a directed acyclic graph (DAG) for Amazon SageMaker Pipelines based on simple configuration"
+    publishedDateTime: 2024-02-29T16:13:08Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 68
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
-        width: 605
-        height: 403
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/21/DBSBLOG-ML-15437-01-1072x630.png"
+        width: 1072
+        height: 630
         isCached: true
-  - title: "GenAI can be a useful tool for BPOs, AWS says"
-    excerpt: "PHILIPPINE business process outsourcing (BPO) firms can use generative artificial intelligence (GenAI) technology to improve customer service and increase productivity, Amazon Web Services (AWS) said. “I think, specifically to the Philippines ..."
-    publishedDateTime: 2024-02-28T10:51:00Z
-    webUrl: "https://www.bworldonline.com/technology/2024/02/29/578424/genai-can-be-a-useful-tool-for-bpos-aws-says/"
-    ampWebUrl: "https://www.bworldonline.com/technology/2024/02/29/578424/genai-can-be-a-useful-tool-for-bpos-aws-says/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/technology/2024/02/29/578424/genai-can-be-a-useful-tool-for-bpos-aws-says/?amp"
+  - title: "Supercharge your AI team with Amazon SageMaker Studio: A comprehensive view of Deutsche Bahn’s AI platform transformation"
+    excerpt: "AI’s growing influence in large organizations brings crucial challenges in managing AI platforms. These include developing a scalable and operationally efficient platform that adheres to organizational compliance and security standards. Amazon SageMaker Studio offers a comprehensive set of capabilities"
+    publishedDateTime: 2024-02-29T15:54:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 54
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/bahn-ai-transformation-1121x630.jpg"
+        width: 1121
+        height: 630
+        isCached: true
 
 secured: "nNThrvuO84Ucj8GlEgbXXvVxV1ae5CFYFhPjLRqStsCithPz85mz3ae2Qi56SEng8ftXzGc10Ue59xvmSEINTICY6W+Z4t7l0XgbfF6gsZJdIulVJ1lkkb48EM/mtWCQeiubjBalAGXD6b9eWrrmx/Hl8N530K6gpdVKU4uF+5OMsgTA2cMDN1Wr5fkSuvHSD+Wr3reS2GAvK0rhJ59kHYINY30KOBuH90J/riB9mmXi0fjLWabmbk07j/VBqYvvgmtow+e4lr8HNWGF9DFrjUiNriI+1pxicWj+p5F1GQ1BoH6bXIR4AsL9WhF4/nPPQVmk3UWayPo8fxWadP5y8hBuVwzT+hfsZP1QBrQ+KWeW/c+qh3iJo/d0r6CXd4zWVFi0N4cJXz66OrNmpB7dlnKDb8XtuQuqdhKRMdaz8MIAKuQZ/ZQAXv5nJtGd6NYdTt4KHp2uJ8n6l/4xdXxKnqlxJVCqiAnDogNdfdvmXnrhi+T+ut9fav5KBxQSlvkGH8GesUUwzM2l2I3t0jT6CA==;lOplMFEK9VmOgCMQC2EgHA=="
 ---

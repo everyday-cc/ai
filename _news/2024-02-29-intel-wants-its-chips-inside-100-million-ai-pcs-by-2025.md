@@ -7,8 +7,8 @@ originalUrl: "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-
 webUrl: "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Tom's Guide
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel aims to deliver chips for 100 million AI PCs by 2025"
-    excerpt: "Intel Vice President of Client Computing Group David Feng said his company expects to deliver 40 million AI PCs this year and 60 million next year -- more than 20% of the projected total global PC market in 2025."
-    publishedDateTime: 2024-02-27T17:31:00Z
-    webUrl: "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Intel plans on shipping 100 million CPUs for next-gen AI PCs by 2025"
     excerpt: "Intel plans on shipping over 100 million processors for AI PCs by 2025, where it's working with Microsoft to try and 'define' the value of an AI PC."
     publishedDateTime: 2024-02-28T23:13:00Z

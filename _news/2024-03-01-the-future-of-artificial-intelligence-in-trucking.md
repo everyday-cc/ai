@@ -72,34 +72,6 @@ related:
         width: 1000
         height: 819
         isCached: true
-  - title: "Harnessing the Potential of Artificial Intelligence"
-    excerpt: "Key Findings From FinXTech's Artificial Intelligence: A Real-World Approach: Banks and credit unions are adopting AI as solutions become more flexible and widely available. Customer service and fraud detection/prevention are the top two use cases financial institutions are exploring, according to Bank Director's 2023 Technology Survey."
-    publishedDateTime: 2024-02-27T17:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-harnessing-potential-artificial-intelligence-/2024/02/27/9969051.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Navigating the impact of AI in our daily lives"
-    excerpt: "In an era defined by technological breakthroughs, Artificial Intelligence (AI) has been seamlessly woven into our everyday existence, reshaping our routines, interactions and perspectives. We have AI virtual assistants guiding our tasks to tailored recommendations shaping our choices as AI’s influence reverberates globally,"
-    publishedDateTime: 2024-02-27T17:20:00Z
-    webUrl: "https://manilastandard.net/spotlight/314420667/navigating-the-impact-of-ai-in-our-daily-lives.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 39
-    images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/10/steve-johnson-_0iV9LmPDn0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "The murky world of AI training"
     excerpt: "AI companies have also inadvertently hired children and teenagers to perform these roles, reported Wired, because tasks are \"often outsourced to gig workers, via online crowdsourcing platforms\". Ethics demands aside, the creators of AI models are concerned ..."
     publishedDateTime: 2024-02-28T00:00:00Z

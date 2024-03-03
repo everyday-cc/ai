@@ -2,6 +2,117 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-11-29-amazon-q-is-an-ai-chatbot-for-businesses-and-aussies-can-test-it-now.md",
+      "title": "Amazon Q is an AI chatbot for businesses, and Aussies can test it now",
+      "excerpt": "AWS’s business intelligence platform. Amazon Q is also integrated with Amazon Connect, aiming to bolster customer service capabilities. It can be customised through proprietary data and tailored ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
+      "originalUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-facebook-researchers-test-ais-intelligence-and-find-it-is-unfortunately-quite-stupid.md",
+      "title": "Facebook Researchers Test AI's Intelligence and Find It Is Unfortunately Quite Stupid",
+      "excerpt": "A team of researchers at ... the research demonstrates that we're likely still a long way away from reaching artificial general intelligence (AGI), the state at which AI algorithms can outperform ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/facebook-researchers-test-ai-intelligence-stupid",
+      "originalUrl": "https://futurism.com/the-byte/facebook-researchers-test-ai-intelligence-stupid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/11/facebook-researchers-test-ai-intelligence-stupid.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-gms-self-driving-cruise-origin-indefinitely-delayed-amid-major-setbacks.md",
+      "title": "GM's Self-Driving Cruise Origin Indefinitely Delayed Amid Major Setbacks",
+      "excerpt": "But a series of mishaps for Cruise's fleet of self-driving Chevrolet Bolt EV prototypes have not only prevented the start of Origin production, but have also set back the company's entire ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.caranddriver.com/news/a45989501/gm-self-driving-cruise-origin-delayed/",
+      "originalUrl": "https://www.caranddriver.com/news/a45989501/gm-self-driving-cruise-origin-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-google-ai-and-robots-join-forces-to-build-new-materials.md",
       "title": "Google AI and robots join forces to build new materials",
       "excerpt": "Google DeepMind tool predicts nearly 400,000 stable substances, and an autonomous system learns to make them in the lab.",
@@ -1006,151 +1117,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-can-the-eu-complete-its-ai-act.md",
-      "title": "Can The EU Complete Its AI Act?",
-      "excerpt": "The EU AI act, the pillars of which had been set out and confirmed by the EU parliament this summer had run aground in recent weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/11/28/can-the-eu-complete-its-ai-act/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/11/28/can-the-eu-complete-its-ai-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1195,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/11/28/can-the-eu-complete-its-ai-act/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/11/28/can-the-eu-complete-its-ai-act/amp/",
-      "publishedDateTime": "2023-11-28T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-artificial-neural-network-market-to-reach-14-billion-by-2032-at-199-cagr-allied-market-research.md",
-      "title": "Artificial Neural Network Market to Reach $1.4 Billion by 2032 at 19.9% CAGR: Allied Market Research",
-      "excerpt": "The growing demand for AI-based solutions and the rising need for intelligent business processes are expected to drive the global artificial neural network market growth. NEW CASTLE, Del.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60781421-artificial-neural-network-market-to-reach-dollar-1-4-billion-by-2032-at-19-9-cagr-allied-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60781421-artificial-neural-network-market-to-reach-dollar-1-4-billion-by-2032-at-19-9-cagr-allied-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T16:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-us-cybersecurity-official-urges-safeguards-against-artificial-intelligence-threats-moving-too-fast.md",
-      "title": "US cybersecurity official urges safeguards against artificial intelligence threats: 'Moving too fast'",
-      "excerpt": "The potential threat posed by the rapid development of artificial intelligence (AI) means safeguards need to be built in to systems from the start rather than tacked on later, a top U.S. official said on Monday. \"We've normalized a world where technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast",
-      "originalUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/367176d7-5269-4f16-bc88-2c715ae4fb4b/65b136b9-c40d-47d4-b08f-8fff5f5d6578/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp",
-      "publishedDateTime": "2023-11-28T16:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
+    excerpt: "According to David Bernstein, software developer and president of The Passionate Programmer, the software industry will be among the first industries to transform with the help of AI. While software can take years to perfect, with the help of AI that process can be cut more than in half."
+    publishedDateTime: 2024-03-02T12:30:00Z
+    webUrl: "https://gazette.com/news/local/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/b/9c/b9cc95fa-d825-11ee-8e75-b73da9c57223/65e2687fbb61b.image.png?crop=1912%2C1004%2C0%2C1&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "M1Baolf8LqVyzZJOK1FtdGPvwWW/wVtfd6P3U/PEIqxs4FP8JtbyN+2Q7wnC1KcM69PJSHvOnlFICBwQmKqrEoA2MmnZdQ4bHqfslWr1XCm2MHykKsI0D/0iy913E0VtnPZqPR5VxLVlXOFb8zKPgIuPkYKdotLk1oTLhlGDsTfB8oulab7IGEG/4zdvV39vr3RAcuOCBycIdKmCVlHYyBDNEmbcWdqcGpMhIspMtuS4Hj9+LHpxfGD7JMzoFS1MvPGw4/6D3Sppt5dIlRSMWQ8GyEjLvKlKJYIt7K92RUWryf6JvkLZzYVaraO4aneCSrLyhOYS2ebW6ZuDgYAshVinkacP2ZB0XuFrfUTUeHo=;8FRE7knlRjf4Zbb6I922RQ=="
 ---

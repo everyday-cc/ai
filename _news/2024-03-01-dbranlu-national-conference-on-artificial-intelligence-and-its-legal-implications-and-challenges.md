@@ -40,6 +40,34 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
+    publishedDateTime: 2024-02-28T15:56:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/more-extensive-more-timely-more-professionalai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-302074386.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg?p=facebook"
+        width: 1600
+        height: 838
+        isCached: true
+  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
+    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
+    publishedDateTime: 2024-02-28T17:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "hZr8A3cYdh8vgc6KC8Y9bXD6X8OrblBTu3gv53aXXRTMZNZxTRdmfBZuRs/Nf6KNygiIYDHYHfjvu4XeLFwx/Jag8XDBMNdBXrcP+VzKqUz8glw/bj/MpOA8jqMTGOpBi+xrjSLpTCX4M23I1xGHaXc9y4CPFfdrehGZ1RwCQ8zMBwScPAHZTJ/V42C6dMggS+rXvi6hIk/oSXJXmQkWcY/t/hshLw0FVpsU6cK9yqCUGzdNAoZHWkCdRWulJk446q8rWQn+sHsrq4/rIUNp/8EDtzxuZJZvVwfR+7R8YacLS4IVrZrRKWrbHbpdH+ZEiuEQ2wsShGGpw4ViHduIKIvuE4mBI0bIguqNej7AIHE=;XKPXK7fh2B7bhCiMq6C5rQ=="
 ---

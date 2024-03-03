@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The computer will see you now: Artificial Intelligence usage grows at Central Florida hospitals"
+    excerpt: "Central Florida's two major health systems, Orlando Health and AdventHealth Central Florida, are widely using Artificial Intelligence for administrative work and, increasingly, to sound early alarms about potential illnesses, including deadly pancreatic ..."
+    publishedDateTime: 2024-03-03T00:00:00Z
+    webUrl: "https://medicalxpress.com/news/2024-03-artificial-intelligence-usage-central-florida.html"
+    ampWebUrl: "https://medicalxpress.com/news/2024-03-artificial-intelligence-usage-central-florida.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-artificial-intelligence-usage-central-florida.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 45
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/hospital-ai.jpg"
+        width: 1344
+        height: 768
+        isCached: true
   - title: "University of Florida's AI Research Stymied by State Law"
     excerpt: "Hundreds of UF professors have petitioned university leaders to undo restrictions from a state law that effectively blocks universities from recruiting researchers from seven countries “of concern.\""
     publishedDateTime: 2024-02-29T21:37:00Z

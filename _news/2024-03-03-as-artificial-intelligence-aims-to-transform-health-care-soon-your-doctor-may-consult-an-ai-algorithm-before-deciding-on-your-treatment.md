@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-03T13:00:00Z
 originalUrl: "https://www.columbian.com/news/2024/mar/03/as-artificial-intelligence-aims-to-transform-health-care-soon-your-doctor-may-consult-an-ai-algorithm-before-deciding-on-your-treatment/"
 webUrl: "https://www.columbian.com/news/2024/mar/03/as-artificial-intelligence-aims-to-transform-health-care-soon-your-doctor-may-consult-an-ai-algorithm-before-deciding-on-your-treatment/"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://pcdn.columbian.com/wp-content/uploads/2024/03/Europe_Artificial_Intelligence_31958-822f9.jpg"
