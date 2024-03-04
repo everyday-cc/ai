@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-inn
 webUrl: "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 514
     isCached: true
+
+related:
+  - title: "AI/ML Innovations Inc. Welcomes Esmat Naikyar as Interim Chief Product Officer to Drive Healthcare Innovation"
+    excerpt: "contributing to the ongoing evolution of Artificial Intelligence and Machine Learning applications in healthcare. Simultaneously, AI/ML Innovations Inc. bids farewell to Bruce Matichuk, who served as the Chief Technology Officer (CTO) for the Company and ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/ai-ml-innovations-inc-welcomes-esmat-naikyar-as-interim-chief-product-officer-to"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 32
 
 secured: "/OcBrwLp4BevaqxhyivLQybfjtOU27DHGRY60mZ63zm6ri1flsOfoFfHzmk5lb5igkK7jrv5inyfFiE7DxJt8xIUnbPacuhva6GM2DePGq9aKXN4uH7HuV3zjeHgdq/EwUIMxC8F5oPp2pG4vHblr5ztYzWOq4r9DLPUqGtP1aZDb47q9C76AtQuqaV+6cVhK5sTdTf7cNqOG9cS2L86QU7QpTef0OrhDsKNJ+0hw9p6oUKBTI0aDRA0pOjvM/DZRQqkZ8y7WgDJZDvF4U1VxeqzLdfIjkEdRxOz+wuHuA47UsBxHtaM7Yy8sQHorLxO6JJxjKcuuYjP3nMnRXsUPXw8IiarBFdsPdZqotMO6dw=;nS7VkAIFHI713xWgM7p64Q=="
 ---

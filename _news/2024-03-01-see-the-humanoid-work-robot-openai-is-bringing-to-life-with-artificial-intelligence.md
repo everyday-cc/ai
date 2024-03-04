@@ -193,20 +193,6 @@ related:
         width: 2221
         height: 1403
         isCached: true
-  - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
-    excerpt: "According to Bloomberg, Figure AI has raised $675 million, $95 million of which came from Microsoft, $50 million from NVIDIA and $100 million from Jeff Bezos. But it’s definitely not the only company in the AI and robotics space garnering attention in the market."
-    publishedDateTime: 2024-03-04T18:14:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 67
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/3c3946a66dd57fc4dfaae2c29ce0c3e9/3d-robot-hand-background-ai-technology-side-view.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Figure 01 humanoid robot developer raises $675M as Bezos, NVIDIA & OpenAI join funding"
     excerpt: "Figure AI is a tech startup looking to create humanoid robots for dangerous and difficult jobs and it just got a massive boost in investment from a latest round of funding. OpenAI, NVIDIA, and even Jeff Bezos, former CEO of Amazon were among the investors ..."
     publishedDateTime: 2024-02-29T13:06:00Z
@@ -312,6 +298,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
+    excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
+    publishedDateTime: 2024-03-04T18:14:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 47
   - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Bezos and tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-02T00:00:00Z

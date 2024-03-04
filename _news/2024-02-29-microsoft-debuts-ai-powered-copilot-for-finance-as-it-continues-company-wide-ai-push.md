@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft partners with OpenAI-rival Mistral for AI models, drawing EU scrutiny"
-    excerpt: "On Monday, Microsoft announced plans to offer AI models from Mistral through its Azure cloud computing platform, which came in conjunction with a 15 million euro non-equity investment in the French firm, which is often seen as a European rival to OpenAI. Since then, the investment deal has faced scrutiny from EU regulators."
-    publishedDateTime: 2024-02-28T20:48:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/microsoft-faces-scrutiny-from-eu-after-partnership-with-openai-rival-mistral/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 80
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/microsoft_france_hq-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Microsoft Invests in Mistral, Shaking Up the AI Landscape"
     excerpt: "Microsoft and Mistral AI have partnered to offer the French startup's AI models to the masses via Microsoft's Azure cloud computing platform. While Microsoft has a strong partnership with OpenAI, it's expanding its AI investments by collaborating with ..."
     publishedDateTime: 2024-02-29T09:23:00Z
@@ -131,20 +117,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2024/ai-artificial-world-shutter_4.jpeg?width=1200&height=800&fit=crop"
         width: 830
         height: 553
-        isCached: true
-  - title: "Google's AI blunder shows risks in scramble to catch up to Microsoft"
-    excerpt: "Google's attempt to ensure its AI tools depict diversity has drawn backlash as the ad giant tries to catch up to rivals."
-    publishedDateTime: 2024-02-28T19:24:00Z
-    webUrl: "https://www.aol.com/finance/googles-ai-blunder-shows-risks-192344842.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 58
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/F.1H7F2M4DXRglwyRuPTgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/2fea2e3c147a598fc72acc917a4e3082"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
     excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."
@@ -220,24 +192,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "EXL collaborates with Microsoft to drive innovation using generative AI"
-    excerpt: "EXLS], a leading data analytics and digital operations and solutions company, announced a new collaboration with Microsoft to co-develop and accelerate generative AI solutions for businesses. EXL is using the Microsoft Azure OpenAI Service to augment its extensive data and analytics expertise and create faster value for clients across industries,"
-    publishedDateTime: 2024-02-28T19:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9970088.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Microsoft Showcases Data, AI Solutions At Web Summit Qatar"
-    excerpt: "Doha, Qatar: Microsoft showcased its latest solutions in Data and Artificial Intelligence (AI) at Web Summit Qatar 2024, yesterday."
-    publishedDateTime: 2024-02-28T20:30:00Z
-    webUrl: "https://menafn.com/1107913369/Microsoft-Showcases-Data-AI-Solutions-At-Web-Summit-Qatar"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "7cmHmMGza8zqZLX5uh3nLr3VHkmRHCQR/G8wtCVPQQtkNAwLm1InjWNfV6Gnn8lV6qarfT4MT74hUeHmyexE1sUyggPjUZDuLorXZXQMBswbNnGq6dQHQc0c6JRvByUB/VWHdWjqytUpPzXb+vOKwwlMR0gX0jLdD1mGK3lMsdO/417JfOqsfNd4xbIoviN6eH8hCT1C0eWDWf1V2hHOxSNfJPU2LLDl97D8yYONb/PWWyCwiMt0etE4OfyNa8s2EV5VW6SSZf3yo7gLRqtqmtXsehMXT5zIUuRDibTyU+gWxYYXoGyPTx52d1/3nxhw0rPYWkR0ufyaqxbJVmV+zKziwSQUSusjkFxGx7OgFttMGFcsLRmACitWfTHQ6pPXgx7xUT/6RVUtfQ5Yyu5Z1f7IihDLO1GgxQtNlOudkQTy22mqB0iub3JdpDdVgfjiwzH/uwctTh8pwxeF5xn6CCsNizhxud3boWkHjnlJ+7dt9GeYAL8BrUni5qptfICSshaDkcCLdXStKpI9a8NuGA==;2Vi2gUuStL+NUrgWOamboA=="
 ---

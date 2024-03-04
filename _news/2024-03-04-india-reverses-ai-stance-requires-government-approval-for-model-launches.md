@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/"
 type: article
 quality: 86
-heat: 111
+heat: 112
 published: true
 
 provider:

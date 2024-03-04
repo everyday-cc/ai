@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
+    excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
+    publishedDateTime: 2024-03-01T05:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
   - title: "Artificial Intelligence in Healthcare: New Avenues for Liability"
     excerpt: "Artificial Intelligence (AI), specifically generative AI technologies, hold significant promise for improving the healthcare industry by streamlining clinical operations, freeing service providers from mundane tasks, and diagnosing life-threatening diseases."
     publishedDateTime: 2024-03-04T00:00:00Z

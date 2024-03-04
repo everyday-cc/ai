@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
-    excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
-    publishedDateTime: 2024-02-28T19:14:00Z
-    webUrl: "https://www.kpbs.org/news/science-technology/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 19
 
 secured: "StouWDZZ+vDSbHONrk8CnfqpXpSqvFX2f0wBD+8hmI6jMgxh7bJtf1pKq5t8JsC1ATba7DCfAMPkIJCR5efMiFewK7kO6C27JWdZttqJ/VrTYFeC3fP/0uhrgGdKvKDWNPNo6e9Wh3K8AGj78+gd/OSautgxDJ/TOI2VkUVB2vxDgOkOIQdEWpoRhXaQVlcspaTunDO86u+M6HV6eD3SzGeuZMw79ZkE/bZ/xDGYEzS6shKqbmyefIAWtVgtMZPdUQARGawp6MheeE8jUNV3APfko7GhHu9BW6I47l68GN6mYGxJjEdOZNm20T7zjL510rfo+OHvqxw8IYhK+/9IsMcd0Xw8jBESvtRG5iiI/ko=;ER9vV/sk/8fBjw6DUPtd0w=="
 ---

@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "As AI agents spread, so do the risks, scholars say"
+    excerpt: "Also: The safety of OpenAI's GPT-4 gets lost in translation Once the mechanics ... Also: What to know about Mistral AI: The company behind the latest GPT-4 rival \"These MLLM [multi-modal large language model] agents are being integrated into robots or ..."
+    publishedDateTime: 2024-03-04T19:03:00Z
+    webUrl: "https://www.zdnet.com/article/as-ai-agents-spread-so-do-the-risks-scholars-say/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
     excerpt: "Making instant videos is the next wave of generative artificial intelligence, much like chatbots and image-generators before it"
     publishedDateTime: 2024-03-04T15:18:00Z
@@ -115,20 +124,6 @@ related:
       - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "CT task force encourages use, regulation of artificial intelligence"
-    excerpt: "The task force says CT should explore the use of AI in government and the private sector while protecting consumers from potential harm."
-    publishedDateTime: 2024-02-28T21:24:00Z
-    webUrl: "https://ctmirror.org/2024/02/28/ct-ai-artificial-intelligence-task-force/"
-    type: article
-    provider:
-      name: The Connecticut Mirror
-      domain: ctmirror.org
-    quality: 39
-    images:
-      - url: "https://ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/06/20210609_LegislativeSession_Capitol_YK_309.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Dell says on-prem is the future of AI"
     excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
@@ -181,6 +176,24 @@ related:
       name: The Star
       domain: thestar.com.my
     quality: 19
+  - title: "Electoral Battles In The Age Of Artificial Intelligence"
+    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
+    publishedDateTime: 2024-03-04T20:44:00Z
+    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+  - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
+    excerpt: "That's not stopping some well-heeled tech companies from trying to keep outdoing each other in showing off higher-quality AI video generation at longer durations. Requiring written descriptions to make an image was just the start. Google recently ..."
+    publishedDateTime: 2024-03-04T19:36:00Z
+    webUrl: "https://www.wftv.com/entertainment/do-ai-video/BQZDMKF65VOHIKJBDR6SWAR7AU/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 8
 
 secured: "7TVRZ+FgQlXtqs5zSVoF5xVz9bolxMs+DdhOdw3EvuMtTviY1LUVLRvbT/9YKaDhLQPj8WZ+wgfsPD1VjaLqcVDlPn8QDoTC76Y3JGrFr0nNKeB7KFSfnPuuk0psxDvh5smxFtGeGEqC4rqYUEGyRwfiJcTZ8V9QOlHe9j2xBKGvaKh1ggi/TX6x11fJ3wgcbYyzl+wiO7k7TKkjpVcdGTcL9JWT8f19A5EXChpsMHr+99nLipx2ye2D9X8CCXdd7R26MqVvjss4TOrHyBXF74vFteQmMlNbYfSMsNjYpNymr+e/hmytUGyI0skpos92va8qGLyBTDPKzKYoloaddi6+GhjoUQbg2QuL9FMKxXYWRkQuPXG+uxWJGG76ETbkCjVBFfN8wFkcYrmuvYsWLrCbrEzxDoUlJCz3FjlhCc9VO+p4Se/Wq6HICD4TZPkCZtdbvRnqf9QWwnSERoNpP8dUJEr6aIVoUkOfE0MqcmNk7dCRYxoxqz4JtL8EGeLArsEKK8UAYtch3FcKENhwdQ==;bVtom8HUvFoZKUgfOP6OKg=="
 ---

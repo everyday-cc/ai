@@ -106,21 +106,7 @@ related:
         width: 800
         height: 421
         isCached: true
-  - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
-    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
-    publishedDateTime: 2024-02-28T21:20:00Z
-    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/update-generative-ai-and-ai-tools-bbc"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 23
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "E1n6phVbaZhijt2jzO8SuUtZ+dJghAviRZoVlY5lUmdRyVT8bPNw+WoHrC1uiZc1pDGrj8FYLVLw39GiqIdAonR9r0ngEjslGh5tYn7579q0VXFgTwUS6P9CklyhtmfjaIvUc1W867BjLaM2PYryBgMpYDZJWxiKMYfd4M6yRjmSSkrEoBaN04C1HWy/HLrBDBWkJA1RXV/66h9fe1/At52hgNPVXEv9PRFt1DRS4so6W5Ygsr/U5eZewfVHSwjwWBzVQ9zEKRLIBXXVkbQxjQ+wtKL/R0yOPU4pfRbgvNbatgzKYU/IGkGsaa7F76+II08RJdWRBQXwtFFaHi2JqLKujV/FHap7TO2L8EsazGg=;v/fUm8b8e0KvNsMj8pzlqQ=="
+secured: "p7RvA6frqw6Cc7dGSOS7ctYu1snkWob2ELT97woDlQvtMNFdy9r6VNIIILEy0nHVStc9aJOwnLG7qaJlLFSICcS8qlbnY7F6keaPrhF8R3dnFbD/ypwqA2FxniRZ8jUJH6vDGVQj9CAyDD1ngytgW6+TyRZKS4NorhSBmRg5iS5eX/3h4uKRZZP10Obd0r7YExbDRJNriQod1duXpJcMQ1Iohri8u7I6sRS72iLMqcrrhwIaHCeOT/seaOPAZwdJq5mSNVwxOLOPLogqYLZOBAiWkIWieAaZmvMsaUt00j7OBli7Z9ktEP+YtWUlEIZZqIrbIYz17D83sLfgbVa2zYoEDHe1/3W1HE3eEEflemg=;U0NtX/78Up5usqqB4oxLVA=="
 ---
 

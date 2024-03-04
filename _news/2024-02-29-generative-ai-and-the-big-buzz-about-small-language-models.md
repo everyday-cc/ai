@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-sm
 webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -109,20 +109,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Victor_Botev_2_bnw.2e16d0ba.fill-1200x630.jpg"
         width: 800
         height: 421
-        isCached: true
-  - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
-    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
-    publishedDateTime: 2024-02-28T21:20:00Z
-    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/update-generative-ai-and-ai-tools-bbc"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 23
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "1ZpHsxRSNRRZJtUV7jQ5PK+dDVrnIE6PPU1c5IuYhBlJKfTtP67uyZhcx5JorguJN8efMBM8dEoeDKWP6mIO2vgPhID7RpbtVVX+WLe+9GdQ9i/8fVJrrEswR/GKz+Q0Fu7ygUJI4LCJRy4SmcJNWbj/sNLIEoAXVNna22s95GCGqqQGjKWPTlfqWeEP6KRAv8cH3n4ZICOZgnNwgdFuOGaRh0wgDwzzRQqc6Y0tG6xefMjKyAh1ueJ0372HDxZTI1D3S70joD4MxPDsLvPNf5zP70I1gmTawqqLsIBwMsiXRVjBgCW4Rx1EgdAeDjOLmmFYWV93ZcgYafGwyrJcOnLjObPqy9fqDHzsaJ8lq+s=;KWlRjA2H/Frz6onzlnQqeg=="

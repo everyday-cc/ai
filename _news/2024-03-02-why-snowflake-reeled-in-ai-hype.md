@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

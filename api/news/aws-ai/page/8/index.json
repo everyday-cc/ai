@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-28-amazon-introduces-q-an-ai-chatbot-for-companies.md",
+      "title": "Amazon Introduces Q, an A.I. Chatbot for Companies",
+      "excerpt": "Amazon has been racing to shake off the perception that it is lagging in the push to take advantage of artificial intelligence. By Karen Weise Reporting from Seattle OpenAI has ChatGPT. Google has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
+      "originalUrl": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/28/business/28AMAZON-Q-VIDEOCOVER/28AMAZON-Q-VIDEOCOVER-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
       "title": "AWS Announces Amazon Q to Reimagine the Future of Work",
       "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be t ...",

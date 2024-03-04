@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -30,20 +30,24 @@ images:
     isCached: true
 
 related:
-  - title: "Klarna’s AI chatbot does the work of 700 full-time staff"
-    excerpt: "The buy now, pay later group Klarna is using an AI-powered chatbot to handle two thirds of its customer service inquiries, doing the equivalent work of 700 full-time agents. The Swedish fintech, which has 150 million customers worldwide, collaborated with ..."
-    publishedDateTime: 2024-02-28T22:49:00Z
-    webUrl: "https://www.thetimes.co.uk/article/klarnas-ai-chatbot-does-the-work-of-700-full-time-staff-nbmd2qwnp?trk=public_post_comment-text"
+  - title: "Security researchers prove they can exploit chatbot systems to spread AI-powered worms"
+    excerpt: "What makes matters worse is that generative AI (GenAI) systems, even large language models (LLMs) like Bard and the others, require massive amounts of processing, so"
+    publishedDateTime: 2024-03-04T21:11:00Z
+    webUrl: "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F273585e7-2058-488d-9f18-fe10010ac386.jpg?crop=5000%2C2812%2C0%2C344&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
+  - title: "AI Chatbots Are Better at Math When They Pretend to Be Star Trek Characters"
+    excerpt: "Rick Battle and Teja Gollapudi from WMWare’s Natural Language Processing Lab set out to test the effects of framing their questions with “positive thinking.” The study looked at three AI tools, including two versions of Meta’s Llama 2 and a model ..."
+    publishedDateTime: 2024-03-04T20:00:00Z
+    webUrl: "https://gizmodo.com.au/2024/03/ai-chatbots-are-better-at-math-when-they-pretend-to-be-star-trek-characters/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 34
 
 secured: "qeD4GFyvKbDycbv8AeYGcCEeW71QPB9HjEJoooLx5wJbSFwrRDEtFKqK9Qp4XS/XrTAgqMUmHjZfViwXb7o/7A3tgKvkokxrVCLZ/8NGgm4A6D89Q22Vl0/Ajp24E1vMMzUII13Fjh2GI6EJ4yANSNrSvMDLoRuzGVzNupM7FDJwCDBIepAQtOcO/Ec2h/fOWn//HASFKX5a/CWAYxjA5kNO3wG9aKglMJiY1vQbtWg4GVHtCCcVdhPGCjFTNvVSXQyWYBW72wrSBewKBK5yD5WLxxC2nNzC0guAb5HOgYUVtPOB0TpKBcEbrGLmf4GPkp46QDJ0PmXq1GcV7OkOrfJ1Zs3Q1o+WH2SmSspDWG/48pK9JyPAVJ/Rgz/1V3nIjSpQKnTj3gXYQv/LjuUa7gKdwFs4MP/Kyz0ocCFrmT6PgAzYrhWbcAC6o+PyKEzGSYYXpYq1CuZgTXFjHTZ5F49aVEs7gpxYwPGE+OL6yCpRoQfxnzm6/AKNpMAdcw/EiRWs60KqmAXJD+smypOXww==;CmIj+Exl0Edu/xPX3SrvjA=="
 ---

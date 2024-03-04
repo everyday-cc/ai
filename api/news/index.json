@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-05-security-researchers-prove-they-can-exploit-chatbot-systems-to-spread-ai-powered-worms.md",
+      "title": "Security researchers prove they can exploit chatbot systems to spread AI-powered worms",
+      "excerpt": "What makes matters worse is that generative AI (GenAI) systems, even large language models (LLMs) like Bard and the others, require massive amounts of processing, so",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
+      "originalUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T21:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region.md",
       "title": "AWS to invest more than $5.3 billion in Saudi Arabia; launch new infrastructure Region",
       "excerpt": "AWS has committed to investing in the Kingdom of Saudi Arabia by upskilling local students, developers, technical and non-technical professionals and future IT leaders. The cloud major will achieve this goal through various initiatives such as AWS Academy, AWS Educate, AWS re/Start, and AWS Skill Builder.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -190,6 +234,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-04-unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together.md",
+      "title": "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together",
+      "excerpt": "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T14:52:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-customers-expect-more-todayhow-ai-can-help-brands-deliver.md",
       "title": "Customers Expect More Today—How AI Can Help Brands Deliver",
       "excerpt": "Meeting today’s customer expectations has been an ongoing challenge for contact center leaders, and they are well aware of the constraints of their legacy technologies for providing digital experiences. The first step toward modernization is cloud adoption, which usually entails deploying some form of CCaaS (contact-center-as-a-service).",
@@ -340,6 +427,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk.md",
+      "title": "A CISO’s guide to AI: Embracing innovation while mitigating risk",
+      "excerpt": "5. Invest in security research — Support research into robust security solutions for AI. Contribute to industry initiatives and collaborate with academic institutions to accelerate the development of effective safeguards. Remember, it’s not AI vs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
+      "originalUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/AdobeStock_718847427.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T09:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     },
@@ -552,7 +691,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1040,161 +1179,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
       "publishedDateTime": "2024-03-02T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-will-ai-translation-make-learning-a-new-language-pointless-experts-weight-in-as-google-samsung-chatgpt-spur-giant-strides-in-technology.md",
-      "title": "Will AI translation make learning a new language pointless? Experts weight in as Google, Samsung, ChatGPT spur ‘giant strides’ in technology",
-      "excerpt": "When the protagonist in the British cult sci-fi novel The Hitchhiker’s Guide to the Galaxy sticks a creature called a Babel fish in his ear, it translates all alien speech for him. Can artificial intelligence (AI) give us something similar? Thanks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "originalUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/01/01858272-8262-4613-866c-c0d687f2be01_1a777b83.jpg?itok=a_pmWP6-&v=1709289565",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "publishedDateTime": "2024-03-02T11:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-openais-sam-altman-says-ai-is-a-tool-not-a-creature.md",
-      "title": "OpenAI's Sam Altman says AI is a tool, not a 'creature'",
-      "excerpt": "There are \"risks\" to artificial intelligence, but calling AI a \"creature\" is the stuff of sci-fi movies, Sam Altman told The Advocate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3",
-      "originalUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e286bc90413ab8e1d899f6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp",
-      "publishedDateTime": "2024-03-02T05:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-apple-loop-iphone-17-details-leak-apples-ai-promise-ios-fixes-iphone-15-problems.md",
-      "title": "Apple Loop: iPhone 17 Details Leak, Apple’s AI Promise, iOS Fixes iPhone 15 Problems",
-      "excerpt": "This week’s Apple headlines; leaked iPhone 17 details, iPhone 15 features fixed, Apple’s AI promise, iOS long-term support, MacBook Pro repair details, Apple Arcade’s future, a potential iRing, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65173674770347df44065c12/0x0.jpg?format=jpg&crop=931,524,x130,y83,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
-      "publishedDateTime": "2024-03-01T22:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -2,6 +2,144 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-20-softbanks-son-reportedly-seeks-100b-for-ai-chip-venture.md",
+      "title": "Softbank’s Son reportedly seeks $100B for AI chip venture",
+      "excerpt": "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "originalUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "publishedDateTime": "2024-02-19T16:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep.md",
+      "title": "Should You Stay Awake In A Self-Driving Car Or Can You Sleep?",
+      "excerpt": "Drivers have been dreaming of self-driving cars for decades. A way for them to get to their destinations without having to spend time and energy focused on the road (or other drivers). Maybe even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
+      "originalUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep/l-intro-1707915398.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
+      "title": "How real estate listings and potentially jobs are shifting to AI",
+      "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
+      "originalUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643",
+          "width": 1024,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
+      "publishedDateTime": "2024-02-19T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-now-that-artificial-intelligence-can-clone-voices-video-game-actors-must-weigh-their-options.md",
       "title": "Now that artificial intelligence can clone voices, video game actors must weigh their options",
       "excerpt": "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness.",
@@ -152,8 +290,8 @@
       "title": "Employing your cloud data warehouse to scale up AI/ML",
       "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
-      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
+      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
+      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1044,143 +1182,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/amp/",
       "publishedDateTime": "2024-02-18T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-artificial-intelligence-a-catalyst-for-progressive-future.md",
-      "title": "Artificial Intelligence, a catalyst for progressive future",
-      "excerpt": "In an age of unprecedented technological growth, Artificial Intelligence (AI) stands at the vanguard, promising to reshape industries from finance to healthcare. AI stems from a field of computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-star.co.ke/business/kenya/2024-02-18-artificial-intelligence-a-catalyst-for-progressive-future/",
-      "originalUrl": "https://www.the-star.co.ke/business/kenya/2024-02-18-artificial-intelligence-a-catalyst-for-progressive-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/LxGDxqsXbUKsEaqMdbOIbF7SiLcnI_5ridMz6WS6XRTFW7wOWpmQi5F-vuhfFkzSqJg9SLs38O-jvAKA0IMD7jrq6MRlJEvlqaeERatyFA=s1000",
-          "width": 750,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T16:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "the-star.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-driverless-vehicles-could-soon-be-used-to-deliver-aid-in-conflict-zones.md",
-      "title": "Driverless vehicles could soon be used to deliver aid in conflict zones",
-      "excerpt": "Driverless vehicles, also known as robo-cars, could soon be used to deliver aid to the world’s most dangerous conflict zones. Unveiling the car at the Munich Security Conference at the weekend ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2024/02/18/unmanned-vehicles-deliver-aid-conflict-zones-food/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2024/02/18/unmanned-vehicles-deliver-aid-conflict-zones-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2024/02/18/TELEMMGLPICT000367056268_17082721397570_trans_NvBQzQNjv4Bqf3p5FP_qh2wbV9o5j03qoTJ3qoPQbaAddECjwhYxymk.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T16:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-ethiopias-250-million-tech-expansion-in-bitcoin-and-ai.md",
-      "title": "Ethiopia's $250 Million Tech Expansion In Bitcoin And AI",
-      "excerpt": "Aiming to become a global digital economy leader, Ethiopia is leveraging its renewable energy sources to power the advancement of bitcoin mining and AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d2341d5d5e9962346adb36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
-      "publishedDateTime": "2024-02-18T15:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

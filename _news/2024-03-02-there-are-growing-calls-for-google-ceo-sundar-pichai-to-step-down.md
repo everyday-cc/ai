@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
 type: article
 quality: 89
-heat: 112
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
-    excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
-    publishedDateTime: 2024-02-28T19:14:00Z
-    webUrl: "https://www.kpbs.org/news/science-technology/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 19
 
 secured: "os9e1fjim8gRMjtmygs3hdKgLxzcyFYNf8BlHWKhl6OCZ/o35VrtNiBVJeAqqdBdDj6djgCotfHRZBjtJEwQ5dq3Qj24kCUgHpDq/+G8XOkDiHVWsYEkme8uYBd21DpR6ZHnoqfnppjwG3kHQff8lD+SPsviVVWuwybIEdOzM1LfugNdvY60SWjIsQLm46uTLtbNluyQlyQWkKjiYiamIfiqN+eZjkDyZl6vidreIsV3uyoLd8Fjia4F+cDXI5hkPhnDk8Fj2MKBCuvQMQsULetJF+fR5kD6+rzoM8wV/8m1z4yCqyQsG46z11yo7F0WI/Fb1iCprHvY3ftuB/syw6Sm8NG/U3wg4LzQXaF9z5Kb1gadJSK7BQe3JngJAbN5htEx63VCe9l5ouDPARFW9YABYG2uVvupE7igSjiSNOnL5TFHAyn/cl7TvzsKd8Bsr8cgvb/7cqIECF2yk+Lhh/XvWRVE5Prs63lVuM0rbxYwT5/hjIFPqOgLHu68zsWIONtZw1Mot+7URMAqh29HfA==;OrW+PeWgti+RPN0GFjgFhA=="
 ---

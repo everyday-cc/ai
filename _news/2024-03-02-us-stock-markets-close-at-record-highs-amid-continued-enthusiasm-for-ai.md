@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stoc
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Guardian
@@ -47,6 +47,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AMD’s stock continues its march higher as AI cheers build"
+    excerpt: "AMD projects it will generate upwards of $3.5 billion in revenue this year from data-center GPUs. Barclays is feeling even more upbeat."
+    publishedDateTime: 2024-03-04T19:43:00Z
+    webUrl: "https://www.marketwatch.com/story/amds-stock-continues-its-march-higher-as-ai-cheers-build-a4328779"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "a/c8MFIO8fKeYlzSSkObhmuhyYrSCBJ+ABznljvmIW18kbXUPWHPxHp7RJkyHC2OC2+6eXG+6kzBkPpvbvRil+H07hIa/QWW1scP8VBl+yaT9vD69OWm9GGULk1QK/JODvUn33NNbqn9soI3iR3GzQHHq1R2qEQiYVNZ769gfKur2YjSocwBdEUb7lVxNM0dWLgXzwS9mqqhM9w/NtbkisKXb6kv5DJKhbqe9gEqifpQa83WM5/zrhxkOqZ8pucYZqKoPfAgWkg8tTxBNBAjKowwvv1OUgAcl3906Yqr/8J6hZedYnk3TjCr3u9ixymOoA7hmVrCvVhrSo6j9A0yk0d1R/c+ILvPyqAvu9SwH70ngI+m1u62HArI5vx0Lc4PKUpTdFYX1a5LJj8gGJaKMJNA7VfsDqIF5kMxTt29+sy3wRpHvANwPzRk3drOQIAb88/74U4gdS1n+9UaorRAFjowjnQ0+CyMvamNupy7dKtlMlNnKf9SzoNRBfPaUpSxNjqF4qbthK8U/X1dOXQgcA==;PCJ1GM8ibRLLfhHXGi2/8w=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: AWS
@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "InnovationRx: Exploring The Future Of Healthcare AI"
-    excerpt: "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal."
-    publishedDateTime: 2024-02-28T22:19:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
     excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
     publishedDateTime: 2024-02-29T23:37:00Z
@@ -51,24 +37,36 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
-    excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
-    publishedDateTime: 2024-03-01T05:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
+  - title: "Anthropic gives its flagship generative AI models a facelift"
+    excerpt: "One of the hottest startups in the generative AI (genAI) market, Anthropic, has updated its flagship models to a new 3.0 standard, bringing improvements across a range of common tasks and faster processing speeds. The improvements in Claude 3 are broad ..."
+    publishedDateTime: 2024-03-04T21:28:00Z
+    webUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-  - title: "AI/ML Innovations Inc. Welcomes Esmat Naikyar as Interim Chief Product Officer to Drive Healthcare Innovation"
-    excerpt: "contributing to the ongoing evolution of Artificial Intelligence and Machine Learning applications in healthcare. Simultaneously, AI/ML Innovations Inc. bids farewell to Bruce Matichuk, who served as the Chief Technology Officer (CTO) for the Company and ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/ai-ml-innovations-inc-welcomes-esmat-naikyar-as-interim-chief-product-officer-to"
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The National Science Foundation wide-and-far on artificial intelligence"
+    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
+    publishedDateTime: 2024-02-29T20:29:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 32
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
 
 secured: "ruDp9z89aR+6MnpUXtXGU5tOWpLbtIaAjzuOcEY3q79Xrl4nOWKijFxx0IfvBxOLlswsRIRomRhL3dMNABZHDBerND1LPovlnoBQxk1+iF6zKXgoMPh4EqJekc7R3KqCE2Iiybhgzhq8y7IKJ/IAW7mB0R/CP4AfsPmw22VIxmrQ/Ohw9tkbSsWcUuR1ksyBzNux88bbL4BdPRe6MjBjkhpf+xgKdFUBc1fnSW/CqNbDuIP54u4Txr9cOnJuHh1OQ5/C7g2AsQfxAM1w3zK8hF84S85Gmc7FvW2QqlvrANjSTg4+A8IjKU74zI3EAYG5uzbbi2h0CGMiDXfrE6TdCJAnMF3a1bIUlNZobDXKHOg=;zS7oi54GCltdT6jyW3HDmw=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence"
+    excerpt: "There are plenty of differences between Nvidia and Tesla, from the products they make to the personalities of the men that run the companies. But the parallels are striking."
+    publishedDateTime: 2024-03-04T22:06:00Z
+    webUrl: "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/"
+    ampWebUrl: "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 60
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Nvidia surge brings memories of Tesla rally, as investors move from chasing electric vehicles to artificial intelligence"
     excerpt: "While Nvidia’s shares have added 66 per cent this year after more than tripling in 2023, Tesla shares are down more than half from their 2021 peak."
     publishedDateTime: 2024-03-04T02:25:00Z
@@ -171,6 +187,6 @@ related:
       domain: hothardware.com
     quality: 19
 
-secured: "NZfv3KWIvoAqFBkIJe2K1/QqAQOI4f7Bqo0kPpYsz7yWXSphCepMN1UpU5+N5dJ1LhcnMu/U/2SYJOVvhIBhARFweihD4291cZwefKZC81kDuYt+92VpnpsKllxjViAhg5h7TNZLRjrvfuuEedq0ZMcTZheOtkiU6lVgAdSmH1AbdxVLkZjP6YHERFAIwPvkAitAsaNyfmZ9KwJEZ3KhfD24zlGZGQs73B16gVMTVR7ZgQtvdjPUe/RhTWEFA8JWTmGfCe6DtPsWYttEPgDD5XQL/I2zFBKls/l94g7wDTCj0UdNT5NW39g7pYP8W+CAZyg+izMtNzBsa6VyvtzTVqKPB/sj1zyo4+upnIp7/2o=;ImZiqsPysTkJV29BhN4fsg=="
+secured: "hvW1cd224MNKqhtL6+XmcFQjN+o39oHpLTrkOOVJvfMvCEvWmwUwsyk6u7jhZsyqXgnp/11RrtwkGQSY7P3OiyRN0JbAVNqsTMyCJJdEx2R6hYcGh7dD397yg2AuPeZz5zR1s5qWypLBFY3ZT0ex18VTGhROLqEtGIJRzAA0q/126PLa/jHXvHDI8SB+nTWSLfn7p47Whp6xvh7xcnKoWPzuyxn1VWoIM4DMBlYNkxejCeSjt0awbTHStccKATMaQwEjga6RDxBTFJj7Hgps1ri5piLZPS6U1aYX3llKX5PZtiCAxZF4JCxNKAbuOWnIfYKLOfgz+3u8piQH0Gp3+lc9knpI4Q5oL/onZQHMCc8T+sKvfjyrCrIlvKiRr6i6bnMlW9nWMO5gO2F2wb0Z1da5Rc/ezWtpSXwYs7g3bKGp2wZefGuDqhVpPZDWoLT4UyJYpzUSRJ0Efi+5SNEVJjhe0GmM+2FlUnr2cIOBf+l6bB2GwKVk8A//P4diuhOMBp8xn+l054XCIBBlc220mg==;SIHPZtsDGjJiiP23m10X/A=="
 ---
 

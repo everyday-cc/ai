@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
-excerpt: "According to Bloomberg, Figure AI has raised $675 million, $95 million of which came from Microsoft, $50 million from NVIDIA and $100 million from Jeff Bezos. But it’s definitely not the only company in the AI and robotics space garnering attention in the market."
+excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
 publishedDateTime: 2024-03-04T18:14:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ topics:
   - AI in Robotics
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/3c3946a66dd57fc4dfaae2c29ce0c3e9/3d-robot-hand-background-ai-technology-side-view.jpg"
-    width: 1000
-    height: 667
-    isCached: true
 
 related:
   - title: "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker"
@@ -378,6 +372,6 @@ related:
       domain: aol.com
     quality: 23
 
-secured: "i9rqxHKBvQA+ZybsivnZ24jAkmYecoFp3vQHLVl2foFDFYYXqfAiZGtc18srK8XQXRxePm2j1/ms6t8e7d/hUz3EEwBFfS8GKcgN71X8yIIuEhkiQ1x2aP3OjpvbsA2vloF8XxgmMfTJ6bLUVWARYl+1tfG4ZYRQUs45hfUiW3uItTZBKwMOxWBOVrYpwGDXnguQT5bfKWB0bnC9sCfNwEyDCv36QKCwRn7xEdXA0rBn4AKXOXfPlaN+te/+KEalDDxqEcKbT6uhxTKr1wqxfBjpQOYo2PyECIwNwHLsWptEQ5SIeGrg6Rtvaw2Gz9sbC+5FDWM+wTkgS7++mHdnVFOJr+aEt8dow7OGELoyksY=;bMFdYSW6l+yvk744eU48bg=="
+secured: "IH5jDGmzksjrH4ug6I14k/EKD1bdJOmlJwpKKIhqUTeyvGVi6D5otc+Zl8//u07R1iEO4dzDEsg+jifiX6cih9BMo4xQwNu8telNYd+sL0zDKF6D/7WVfBDP/3Tk3/I7gUTwJO6gQpLUIHrWIlI+BH/hQ6ddfxJc5F4nxC9a2UrCbR+5YPbts/M/M7vaxmFC3x+LxuwCAkBgSGmeNPMtctktyhPCJnVS6ui/VJnCVpsb6/uiQ1IlPKDiAoI7F1VqMEU2lzGSRl0y13q8/F1bgyHUtdbsc1ZG8gnikDiIdBvloXKtXqXzpPoqQnJcJVRFHe99LwHLfeoOggMQOvfkER8fetZeiQC/KcLER7OZKvGyWeD725ghxNyWUgAj57OfUTcbslzeYqkql2g7uZljLUHkPV7sPRLhwMPvuRKw/LF77i0M8lJAglaiuGaGjq374pJpCrLFGQ0/UFmcFFBjQITdjce2lFVZMEq8FjQRTEaa4kQpoMNkoXDEhXOm03kU9YZkIgg7n7hipVuoC0ZjFQ==;xzhpVKoMjyLdvG4FhpBJYg=="
 ---
 

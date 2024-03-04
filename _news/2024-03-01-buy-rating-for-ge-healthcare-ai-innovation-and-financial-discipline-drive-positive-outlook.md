@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -24,52 +24,34 @@ topics:
   - Meta AI
 
 related:
-  - title: "InnovationRx: Exploring The Future Of Healthcare AI"
-    excerpt: "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal."
-    publishedDateTime: 2024-02-28T22:19:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
+  - title: "Artificial Intelligence in Healthcare: New Avenues for Liability"
+    excerpt: "Artificial Intelligence (AI), specifically generative AI technologies, hold significant promise for improving the healthcare industry by streamlining clinical operations, freeing service providers from mundane tasks, and diagnosing life-threatening diseases."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
+        width: 1200
         height: 900
         isCached: true
-  - title: "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together"
-    excerpt: "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking"
-    publishedDateTime: 2024-03-04T14:52:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
+  - title: "Bridging the equity gap towards inclusive artificial intelligence in healthcare diagnostics"
+    excerpt: "Rapid advances in artificial intelligence (AI) are paving the way for innovations in how healthcare is delivered. AI technologies have shown remarkable potential in outperforming humans in diagnosing a range of clinical conditions including cancer,"
+    publishedDateTime: 2024-02-29T15:48:00Z
+    webUrl: "https://www.bmj.com/content/384/bmj.q490"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
-    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
-    publishedDateTime: 2024-02-29T23:37:00Z
-    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 65
+      name: BMJ
+      domain: bmj.com
+    quality: 44
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
-        width: 770
-        height: 500
+      - url: "https://www.bmj.com/sites/default/files/highwire/bmj/384/8418.cover-source.jpg"
+        width: 2480
+        height: 3378
         isCached: true
-  - title: "AI/ML Innovations Inc. Welcomes Esmat Naikyar as Interim Chief Product Officer to Drive Healthcare Innovation"
-    excerpt: "contributing to the ongoing evolution of Artificial Intelligence and Machine Learning applications in healthcare. Simultaneously, AI/ML Innovations Inc. bids farewell to Bruce Matichuk, who served as the Chief Technology Officer (CTO) for the Company and ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/ai-ml-innovations-inc-welcomes-esmat-naikyar-as-interim-chief-product-officer-to"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 32
 
 secured: "icwufDMF5H0VJEMOIiItAQ3Mkft2ROUK+oF4k8duGp+b7EJ47EMeMweRYDbb0PWXvkss2HqybgYmA9FSrhoIMNCh8vHBWx+vlmCMdffV7y92M1599GvDT0XhU9As/1kmF2uZfYbxsUas9JRhF1uI1j9ijVDouQDEaCw+Ko1+3gKfGmw88CowXv4DtLr7X9YK1Pnp+gOliEB57IrkvR/ydIPKQROBnoIeiBreZra0KQxn170Nte2WVsm0xKuOjzXEa1WhA4JS0337HcfICwYyCpM0L7QjFF6KTRtscgpMurTwBvNOszohHmhz8Om4Sxc+qgWEO7cJKa4PZ1f5OkmnXBRtcsTy+8Y/cAQMiatEXAY=;bLc9M8VLTM8qCHx0j1mmcQ=="
 ---

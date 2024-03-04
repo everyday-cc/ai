@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-14-akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp.md",
+      "title": "Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",
+      "excerpt": "Akamai today announced the launch of its Gecko \"Generalized Edge Compute\" platform. This new initiative will increase the company's cloud-computing",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/",
+      "originalUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1202322660-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/amp/",
+      "publishedDateTime": "2024-02-13T21:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
       "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
       "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
@@ -1259,50 +1312,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-aiml-leadership.md",
-      "title": "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership",
-      "excerpt": "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

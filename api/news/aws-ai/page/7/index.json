@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-30-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence.md",
+      "title": "Amazon launches Q, a business chatbot powered by generative artificial intelligence",
+      "excerpt": "The tech giant said Tuesday it will launch Q — a business chatbot powered by generative artificial intelligence ... the company hosts for its AWS cloud computing service, represents Amazon ...",
+      "sourceUrl": null,
+      "webUrl": "https://komonews.com/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
+      "originalUrl": "https://komonews.com/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://komonews.com/resources/media/4def6a03-0509-4b78-8c35-fdb99b80460d-large16x9_AP23202786388880.jpg",
+          "width": 986,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://komonews.com/amp/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
+      "cdnAmpWebUrl": "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
+      "publishedDateTime": "2023-11-29T21:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "komonews",
+        "domain": "komonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
       "title": "AWS CEO bats for responsible AI, says need to unlock GenAI's full potential while mitigating risks",
       "excerpt": "He affirmed that AWS is ready to help businesses reinvent ... training and generative artificial intelligence (AI) applications. The top honcho of Amazon's cloud computing unit said Generative ...",
@@ -1245,58 +1288,6 @@
         "name": "devdiscourse",
         "domain": "devdiscourse.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-amazon-introduces-q-an-ai-chatbot-for-companies.md",
-      "title": "Amazon Introduces Q, an A.I. Chatbot for Companies",
-      "excerpt": "Amazon has been racing to shake off the perception that it is lagging in the push to take advantage of artificial intelligence. By Karen Weise Reporting from Seattle OpenAI has ChatGPT. Google has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
-      "originalUrl": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/11/28/business/28AMAZON-Q-VIDEOCOVER/28AMAZON-Q-VIDEOCOVER-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

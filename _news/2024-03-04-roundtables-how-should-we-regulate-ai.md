@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2024/03/04/1088979/roundtables-ho
 webUrl: "https://www.technologyreview.com/2024/03/04/1088979/roundtables-how-should-we-regulate-ai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Roundtables-Ondemand_1200x628.jpg?resize=1200,600"
         width: 1200

@@ -2,6 +2,145 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2023-11-20-microsoft-at-its-annual-microsoft-ignite-conference-announced-maia-100-its-first-homegrown-artificial-intelligence-ai-chip.md",
+      "title": "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip.",
+      "excerpt": "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/11/microsoft-maia-chip-edited.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
+      "publishedDateTime": "2023-11-20T06:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-get-hit-by-a-self-driving-car-for-science.md",
+      "title": "Get Hit By A Self-Driving Car For Science",
+      "excerpt": "It’s called How (Not) To Get Hit By A Self-Driving Car, and the game is simple: Cross a mocked-up crosswalk without being detected by a person-sensing camera. The idea being that if you can ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/get-hit-by-a-self-driving-car-for-science-1851032553",
+      "originalUrl": "https://jalopnik.com/get-hit-by-a-self-driving-car-for-science-1851032553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a5e047c0a5513abbed241cac2a2fdee4.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-lost-time-for-no-reason-how-driverless-taxis-are-stressing-cities.md",
+      "title": "‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities",
+      "excerpt": "In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees. By Yiwen Lu Reporting from San Francisco Around 2 a.m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
+      "originalUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/02/multimedia/DRIVERLESS-CITY-kjgm/DRIVERLESS-CITY-kjgm-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
       "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
       "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",

@@ -50,6 +50,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence"
+    excerpt: "There are plenty of differences between Nvidia and Tesla, from the products they make to the personalities of the men that run the companies. But the parallels are striking."
+    publishedDateTime: 2024-03-04T22:06:00Z
+    webUrl: "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/"
+    ampWebUrl: "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 60
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Nvidia surge brings memories of Tesla rally, as investors move from chasing electric vehicles to artificial intelligence"
     excerpt: "While Nvidia’s shares have added 66 per cent this year after more than tripling in 2023, Tesla shares are down more than half from their 2021 peak."
     publishedDateTime: 2024-03-04T02:25:00Z

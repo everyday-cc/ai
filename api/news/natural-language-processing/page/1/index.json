@@ -117,7 +117,7 @@
       "originalUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -141,58 +141,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-crunchyrolls-hope-for-ai-generated-subtitles-is-a-disaster-waiting-to-happen.md",
-      "title": "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen",
-      "excerpt": "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
-      "originalUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1535,6 +1483,40 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-comcast-must-face-speech-recognition-patent-case-us-appeals-court-says.md",
+      "title": "Comcast must face speech-recognition patent case, US appeals court says",
+      "excerpt": "Feb 16 (Reuters) - A U.S. appeals court on Friday revived a patent lawsuit against Comcast CMCSA.O over voice-recognition technology for television systems. The U.S. Court of Appeals for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says",
+      "originalUrl": "https://www.nasdaq.com/articles/comcast-must-face-speech-recognition-patent-case-us-appeals-court-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T18:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

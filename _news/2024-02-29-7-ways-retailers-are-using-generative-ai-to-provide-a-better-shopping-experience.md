@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
 type: article
 quality: 82
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
         width: 605
         height: 403
+        isCached: true
+  - title: "Black Trump Supporters Are Being AI-Generated"
+    excerpt: "Donald Trump supporters are creating and sharing AI-generated images of the former president with Black voters. The photos appear to be an attempt to inflate Trump’s popularity with the Black community, which may be irreparably harmed by his ties to white supremacist groups, but the photos are nothing but fakes."
+    publishedDateTime: 2024-03-04T19:50:00Z
+    webUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7164473c7dd88067b9705a942e612292.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
     excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."

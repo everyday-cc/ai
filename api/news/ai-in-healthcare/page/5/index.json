@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-21-florida-lawmakers-could-look-at-regulations-for-artificial-intelligence-use.md",
+      "title": "Florida lawmakers could look at regulations for artificial intelligence use",
+      "excerpt": "Among the bills filed ahead of session: requiring a disclaimer on political ads that use AI-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/",
+      "originalUrl": "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/_gX9Wb5jIYkcOcbEosJkK2XdOOs=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/7R4G3W4FFX2GUDXETZO6XJPTEI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp",
+      "publishedDateTime": "2023-12-20T22:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-physicians-enthusiastic-but-cautious-about-healthcare-ai.md",
       "title": "Physicians Enthusiastic but Cautious About Healthcare AI",
       "excerpt": "A recent survey by the AMA showed that practicing physicians are equally excited and concerned about the increased use of AI in health care, with enthusiasm for technologies that reduce administrative burden and enhance diagnostic ability and concern for patient privacy,",
@@ -1316,49 +1360,6 @@
       "provider": {
         "name": "GEN",
         "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-artificial-intelligence-for-aging-research-in-cancer-drug-development.md",
-      "title": "Artificial intelligence for aging research in cancer drug development",
-      "excerpt": "A new editorial paper was published in <a href=\" entitled, “<a href=\" intelligence for aging research in cancer drug development.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1010424",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1010424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6d35b3c1-02af-46d9-b8b8-1f42671d43f2/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

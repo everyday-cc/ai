@@ -2,6 +2,151 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-24-robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again.md",
+      "title": "Robotaxis by GM's Cruise are getting ready to hit the streets again",
+      "excerpt": "Unlike its previous operations prior to October 2023, the vehicles will not be entirely autonomous, and will have safety drivers ready to take the wheel if necessary.  The report also said that Cruise is in talks with local officials to ensure a positive reception when it hits the streets to test its cars.",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "originalUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjAyMzQ5OTcyOTE2NTQ0NTI0/cruise-a-driverless-robot-taxi-in-san-francisco.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "publishedDateTime": "2024-02-23T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-tyler-perry-halts-630m-film-studio-build-over-ai-fears.md",
+      "title": "Tyler Perry halts £630m film studio build over AI fears",
+      "excerpt": "US film and TV giant Tyler Perry says he's putting a $800m (£630m) expansion of his studio on hold after becoming concerned over new AI technology. He was due to add 12 sound stages to his Atlanta complex, but says he has been put off by the release of OpenAI's video generator Sora.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6038/production/_132723642_gettyimages-2014322799.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-68384657.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp",
+      "publishedDateTime": "2024-02-23T15:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-jim-cramer-says-mcdonalds-embracing-ai-at-drive-thrus-is-good-news-for-nvidia.md",
+      "title": "Jim Cramer says McDonald's embracing AI at drive-thrus is good news for Nvidia",
+      "excerpt": "McDonald's use of artificial intelligence in drive-thru lanes is a sign adoption of the technology is growing across the U.S., CNBC's Jim Cramer said Friday. And that bodes well for the leading maker of AI chips: Nvidia .",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107369894-1707254880350-gettyimages-1990954248-js2_0388_myhjvme3.jpeg?v=1707254934&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-humanoid-robotics-the-next-step-for-artificial-intelligence.md",
       "title": "Humanoid Robotics: The Next Step For Artificial Intelligence",
       "excerpt": "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do.",
@@ -1045,136 +1190,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-healthcare-startup-abridge-raises-150-mln-for-ai-model-for-clinicians.md",
-      "title": "Healthcare startup Abridge raises $150 mln for AI model for clinicians",
-      "excerpt": "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "originalUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-jeff-bezos-and-nvidia-are-throwing-serious-cash-at-a-human-like-robot-startup.md",
-      "title": "Jeff Bezos and Nvidia are throwing serious cash at a human-like robot startup",
-      "excerpt": "A startup that wants to put humanoid robots in warehouses around the world has an increasingly elite slate of big-name backers with deep pockets. Figure AI Inc. is raising about $675 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
-      "originalUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d9547490413ab8e1d6a186?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-neuralink-brain-chip-advance-sparks-safety-and-secrecy-concerns.md",
-      "title": "Neuralink brain chip: advance sparks safety and secrecy concerns",
-      "excerpt": "Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-024-00550-6",
-      "originalUrl": "https://www.nature.com/articles/d41586-024-00550-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

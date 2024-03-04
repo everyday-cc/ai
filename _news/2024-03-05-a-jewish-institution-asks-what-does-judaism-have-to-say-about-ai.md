@@ -24,6 +24,17 @@ images:
     height: 1138
     isCached: true
 
-secured: "oqcu0fqQOzWLk2tXjVBo04br4tmSDU+TgCssdo8ODjG5T9GtV3AIFNiSLILuuYQgyiKzddscjFyL3h3mBAMfuTk6/dwJDeF3OZjqU2hsOQQk2bpwZleo6NPe9vOZocOea96z8DbQ06IoTO/wUayNwEYEFv25t+EjVyfLKZO8XOFQhb8L0gw3KnUiTlMw3zjhDYNF7YPtRsogfI0dwScV2qK27koampBzt6f6gd6GTAsfWaUQWUoeTmqkuqa8MK8q1V5oS7xyz6zXA28GJwUpfKdZC/UFX8PlCRYpTnsfBqFUbu5jpQswHBqjNbjGWmbTEv8NGTpSYeZxbZs05yuaN1SslzjHX7GGil3UcbkBxbA=;htZblXGjYwTED1uuEH8KNg=="
+related:
+  - title: "What’s It All About, AI?"
+    excerpt: "Google developed the first transformer in 2016-2017. Transformers started with natural language processing (NLP) and have become the backbone of the large language models (LLMs) in use by most AI applications such as Chat-GPT, Google Gemini (used to be ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/what-s-it-all-about-ai-4630616/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
+
+secured: "v3Bq8hDW5loJSWYCp0Ao7YqpxCYyrhQz3l9u6U+62TRVu9t266Hcp/RtuAMFgSGRlWtE/DptUPR+vZSFKPLo2dE35245iBw+zeHiXVMYopai1FqFHZlkAVDrXrd7wIjveqarl0dpnEvzRklxgFnJ9xDOBZtQwdNoe55NG127pUNns9NkzLr0eKJU4nyUFiTjS36CcoG4LtbG6zNVtgSg72DxH4pJd+SzQEIJE3eFUygZxzsBMk8U1ZNfE5Y6Jt32vBNgEaSArpg6+u4aZyOOBnZJlIKpyMa1IJFZUJfNop9UY378PhEksS7krQv4PA5xWbljC8e6Lyv8fq1/tRdQ+ZvioSYhAW4XXZyutoayc3cOonkV9Yx/oisJrEhNnIaSUEbDeZtbTpoMYh2W5kZ7ERsiLsS0QrI1p8qP9Uquxei4rFKRG6Aw2Kk0shKQTF7YeqiMpT7SHAqwMDJXZC33z6Puwb9CwhyMn7H19nSXLmZaLb6eq6MEMeMxOU0c3YpiW2YdZhko1QCwbD8pf+AH8g==;Sj5tODubORKtLxU8AzzK2w=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "Advancing AI innovation with cutting-edge solutions"
+    excerpt: "Power your business transformation with proven AI services and infrastructure. Provided byMicrosoft Azure and NVIDIA AI is helping organizations in nearly every industry increase productivity, engage customers, realize operational efficiencies, and gain a ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/"
+    ampWebUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/Vu6Wq8lLUN0/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
     excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
     publishedDateTime: 2024-03-01T14:49:00Z

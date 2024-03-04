@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healt
 webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
+    excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
+    publishedDateTime: 2024-03-01T05:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
   - title: "Bridging the equity gap towards inclusive artificial intelligence in healthcare diagnostics"
     excerpt: "Rapid advances in artificial intelligence (AI) are paving the way for innovations in how healthcare is delivered. AI technologies have shown remarkable potential in outperforming humans in diagnosing a range of clinical conditions including cancer,"
     publishedDateTime: 2024-02-29T15:48:00Z

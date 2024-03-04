@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2848697-aws-to-inves
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "AWS to Invest $5 Billion in Mexican Cloud Infrastructure"
-    excerpt: "Amazon Web Services (AWS) is investing over US$5 billion in Mexican cloud infrastructure to meet the growing demand for digital transformation services, fueled by companies relocating from China. The money will be invested over the next 15 years."
-    publishedDateTime: 2024-02-28T19:22:00Z
-    webUrl: "https://nearshoreamericas.com/aws-to-invest-5-billion-in-mexican-cloud-infrastructure/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 19
   - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
     excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
     publishedDateTime: 2024-03-04T13:44:00Z
@@ -74,6 +65,6 @@ related:
       domain: zawya.com
     quality: 19
 
-secured: "7cWyFEZlUf1v8m2p5YahwaJ1dQAxtYsyJWvOkXitQxwdEbpXyQavo09saC6+g5458jaIWJHGKC2euSOq+OrOWxztW761YhFpM7rU/GLqFu53/t4+5p2CB391LTcSF5vTkhnjVmssdsBw+UliA+VLWS3zOxi8wVGg8FH24F5/M4VqwF0A2LM2ZNG+uWmcKGVQt2vzbDL56tZmFF90Ewl4YgdWTnq/DO/ngSWx/3HHZ7xXjaTOu3yOqD+FyU/NRP10LTEjZuyeTftUwVj+3bLkXSrao3dvE9xU3Cqlt25RPyaBWoTxsj+eMQy+MDR8r666O8+4mhBzjArDS6ewuVqd85qkXZ2cwUkJXwQl0z4zCxw=;l3PRzfxlVaONVw4p7Mimeg=="
+secured: "zBjeWcOw9WRqpoBEMyKJXUpfDSNOpMhGQDeiS8bKn0udEk+790sOzGblaRkqSAvUK/wTRmwJ8T8649TkjNDQVa+v1aZLuMEbzfTlhkpZloEj9yZhmY+ic4meU50loIf25Z4nUuKvB4orTgdtCO9VsyF1ckHJlo4bK14/LwmvvsIlX9spKhiZvM90b2WWXj1uhAUYBdIKBMTMFSM01mFnSY+GQ4mUV+wuWG9HOH7XriN1pxJdwm00ca9v+GQIWfO8YHndHHoHGyE8T95nBpdCh3FTGMPcI72xdljqmY58kSNrk9LZD/8JzzLkykg8v9csVce2RxwvrduA/HG7PCE1q4sh+F0HD6o9HE33lviLcRp70Eq2CiMncyc1BdjxX+J8W8FyRuWv6htp0XMgqL+1ehUCpac9IdWhkK+DsbVPjGYJYhpt6mJk+Qg9SEa+oeCx0xbPx1gyZ47ZhMsrzs9zaHTJFboZW6k0mTHAM+iT0S+5Cq0wxS10pDBsCJ9CHI4elROKtcuBe29LHSXGT2vMog==;6hzOPTbiCYR67AyhAdKRxw=="
 ---
 

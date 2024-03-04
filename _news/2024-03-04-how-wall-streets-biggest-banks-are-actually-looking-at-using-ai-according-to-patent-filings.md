@@ -61,6 +61,20 @@ related:
         width: 605
         height: 403
         isCached: true
+  - title: "Black Trump Supporters Are Being AI-Generated"
+    excerpt: "Donald Trump supporters are creating and sharing AI-generated images of the former president with Black voters. The photos appear to be an attempt to inflate Trump’s popularity with the Black community, which may be irreparably harmed by his ties to white supremacist groups, but the photos are nothing but fakes."
+    publishedDateTime: 2024-03-04T19:50:00Z
+    webUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7164473c7dd88067b9705a942e612292.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
     excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
     publishedDateTime: 2024-03-02T14:29:00Z
