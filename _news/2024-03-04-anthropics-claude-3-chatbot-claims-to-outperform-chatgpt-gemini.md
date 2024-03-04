@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -97,6 +97,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Anthropic Launches Chatbot To Rival ChatGPT and Google Bard"
+    excerpt: "Artificial Intelligence startup Anthropic has launched its most powerful generative AI as a major competitor to ChatGPT and Google Bard"
+    publishedDateTime: 2024-03-04T18:23:00Z
+    webUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/"
+    ampWebUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 41
   - title: "Anthropic releases more powerful Claude 3 AI as tech race continues"
     excerpt: "Anthropic, a startup backed by Google and Amazon.com, on Monday revealed a suite of artificial intelligence models known as Claude 3, the latest salvo in Silicon Valley's near incessant contest to market still-more powerful technology."
     publishedDateTime: 2024-03-04T16:06:00Z

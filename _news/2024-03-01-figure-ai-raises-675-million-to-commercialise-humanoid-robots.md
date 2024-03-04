@@ -80,15 +80,6 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 51
-  - title: "AWS, Microsoft, Ericsson, Nvidia and more form new alliance to integrate AI in cellular technology"
-    excerpt: "At MWC 2024 in Barcelona, a number of companies joined forces to form the AI-RAN (AI-radio access network) alliance, a new initiative to integrate artificial intelligence (AI) into cellular technology."
-    publishedDateTime: 2024-02-28T18:54:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-microsoft-ericsson-nvidia-and-more-form-new-alliance-to-integrate-ai-in-cellular-technology/559678"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 37
 
 secured: "VG1XctP7wd/c2N6WwoXBtJkPaUFLQPAVN/8n8IilgPk1F3lu7a3VbASeN4uqpv/pj3Elh60n8A5gpPGDTk58yBm5zJniZe6F6gOT7ihvmTOSEmRnJCPctmJYZfNQZdCHf2GZbSh7udwPYePOWptJuRGs9HSNHnFkgPeON6vG7zwc/LAYQMbUUXbem4Qa1MD9dXyE1SNC9JoAdqILYZ9rfLinyXTAPrHDXCJkCXjspy/tC5O8uxGuVLxWDvyhn5FQLYOgai2eFMVEk9psQZosbbt2ZEJ1DDJULN2n8li+BeXSzOwETKZVs/Ur/Bp+itkY4i9yp7yXYvagJsn8PZ/KReC2NPRv9bUFSVf7ONvluS2mW5tvEzXwJYKgAB8bjlPDhywxRJrGeUALWYDIEBa8Cl144jww0R2AM2o9oRYgNf1XWaXjkD/Tx4uRBxkNq51/npzZWUmiZ3nnfGzk9jmUapGd+hDJAGeMEyWaKFh9ROO/1IYI1su/hcEVm8ICEr6rnVC0I3CpD8NTTruhQjI8uw==;TAQl7zmaWaGxUOHjBTOGiA=="
 ---

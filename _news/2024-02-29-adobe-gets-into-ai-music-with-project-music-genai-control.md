@@ -24,6 +24,22 @@ images:
     height: 1067
     isCached: true
 
+related:
+  - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
+    excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
+    publishedDateTime: 2024-02-29T17:20:00Z
+    webUrl: "https://www.inc.com/kit-eaton/adobes-music-tool-fills-major-gap-in-ai-content-generating-circle.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "++gA5VYQc5nm0CM8fucwjYgbybnmyqVKadarUyBoqmyuNKsKW3FimRSsBHU3qSmHXT00LsegwuNMhsrohLJIfAVf9eVNiom1J32L8xXva98zrlebvwtTztnhfZhXvv+PkCy6RXHQEdupfBDru6hJt2p7APd+ZVEbRQmcavgAw2pWNrc8f96a9WQc5Wp7znp87a4R7opB6N8KxHd8Z3TiYh76PScMoSqYAOKVy5oBwGR+h1pA5l84OWTAq55T1awf/H/u+wGhc3f2U35Fvm9alXsHkncPZDvdLoJjGOJAcSgy1MkdOWw4bVb5v822AF+c/JKXBCGRUgSv/hKTpOpwIPI0VCif9HqWFMQX5R6f+i0=;is0YFbScsbKioOAXY5Yj3g=="
 ---
 

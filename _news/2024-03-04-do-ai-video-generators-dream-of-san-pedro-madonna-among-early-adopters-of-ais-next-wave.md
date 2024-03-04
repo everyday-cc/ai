@@ -158,6 +158,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "The President’s Inbox Recap: Governance of Artificial Intelligence"
+    excerpt: "Lindsay to discuss the capacity of the U.S. government to lead in creating a framework for regulating artificial intelligence (AI). 1.) How governments will regulate AI matters. AI is a potentially transformative technology. It is also a tool that can ..."
+    publishedDateTime: 2024-03-04T17:46:00Z
+    webUrl: "https://www.cfr.org/blog/presidents-inbox-recap-governance-artificial-intelligence"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 37
+    images:
+      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2024/03/Biden%20AI%20Photo%20.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia: The mother of all artificial intelligence"
     excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
     publishedDateTime: 2024-03-01T20:47:00Z
@@ -168,6 +182,6 @@ related:
       domain: thestar.com.my
     quality: 19
 
-secured: "DvxI8CnVg2ht8Kr5GkWv+am9hsUhZRbutbLqblJi+mcI3QiIYBiw+nu9y/7+Y0TnZQ3xg0lBow7z6xX7ydHFJtVy+trfI3loKbdGXoXftwVI3x0p0rzX5Dvm4X3o+tj6KhZw/1oQ50d4ctUfV87wxzwTc+dspnLLIqe1PPEvaYVI5QQAz07Z1isyCWBPedt7AcAqzwzGMCc23Q//b61BJRUqERsq++wSwVSLkOPBFp2YWqyLfvQvG0XAw2Opz5XTJP3Q9lWXY16YMdShrfZof+JfRcK88Uh6FGl5nLRvlZAxxSC23AEyxt2UKAMavGtK684WWvEH0YOJ9sw8qvE6UJBe88+Nu7zxebV5eGvH7A0=;w+CJoxhfaq9Zx2VQPL40rA=="
+secured: "mm4f9AOnHZ9tFidd+CvC01NbqHuJvgMOrpQJ0QBy5vCX2Nz2tmVApwLTz2Gjjm7PgGv9eEqKVVK12KBntqm2bmJmtQUV5QiBPc+qURWBgL8ghHyjAmsHZYRSdifFjlyiL08eqiBZfDOOwaYtXQyYpsc3KwZ4w3om9GzdILKJeGJJZscmyNqWJai1ADWMcXGwmyA7OL3fZNe3UUS4haWEFaKfLPOK1ZFOmf/gOB4x+9DmSZDimPe34Pzp86tEa9g/tXF/vJVz4uttJ2cjILYR2P2OHnWT1mn0nkNYW9NLIEp8rajW00yCMgHJ9URH+plkvaGSXXR2Cv5TK4srbGh5rveuBYrBkwkokxbnm4H98ng=;qFy+NIDmfqGnt936CjVcxQ=="
 ---
 

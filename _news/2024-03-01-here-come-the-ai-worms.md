@@ -162,6 +162,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "The President’s Inbox Recap: Governance of Artificial Intelligence"
+    excerpt: "Lindsay to discuss the capacity of the U.S. government to lead in creating a framework for regulating artificial intelligence (AI). 1.) How governments will regulate AI matters. AI is a potentially transformative technology. It is also a tool that can ..."
+    publishedDateTime: 2024-03-04T17:46:00Z
+    webUrl: "https://www.cfr.org/blog/presidents-inbox-recap-governance-artificial-intelligence"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 37
+    images:
+      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2024/03/Biden%20AI%20Photo%20.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia: The mother of all artificial intelligence"
     excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
     publishedDateTime: 2024-03-01T20:47:00Z

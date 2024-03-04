@@ -39,6 +39,17 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Tech Coalition Issues Open Letter to Commit to Ethical AI Use"
+    excerpt: "Tech giants unite in an open letter to advocate for AI's responsible use to enhance human life and ensure a sustainable future for all."
+    publishedDateTime: 2024-03-04T18:19:00Z
+    webUrl: "https://coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/"
+    ampWebUrl: "https://coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 54
   - title: "How AI could reshape medicine"
     excerpt: "On a recent international trip, I found myself running late to the airport. Not being fluent in the local language, I used a translation app"
     publishedDateTime: 2024-03-02T15:20:00Z

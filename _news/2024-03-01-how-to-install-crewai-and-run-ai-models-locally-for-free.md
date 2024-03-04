@@ -55,6 +55,15 @@ related:
         width: 1048
         height: 675
         isCached: true
+  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
+    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
+    publishedDateTime: 2024-03-01T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Meta Set to Unleash Llama 3 an AI-Language Model"
     excerpt: "Meta, the parent company of Facebook, is gearing up to launch its latest AI language model, Llama 3, in July, as reported by The Information. This new"
     publishedDateTime: 2024-03-02T18:40:00Z

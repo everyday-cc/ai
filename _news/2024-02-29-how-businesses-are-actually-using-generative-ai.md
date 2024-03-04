@@ -35,6 +35,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Generative AI in Litigation"
+    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
 
 secured: "0HFCpJZwE7diX+6G1o9gFVG0h0XKNiYq9XKeASgGtBZ7UEj1R/q+2po7Ca3a5W9PTpfVaroZHpHdnxUSZIFT+ynJ0PzUcqrtos7pZznWmsTEm4mF7A28lfNOzYyfy9fbHV3vjMdvwRCjseT8T/Mnse2Mp8MM2idere8tX1xywyPtZTGRiM2oIw4MFq17oyQEpovNcLxivybTkBMLGR+ToBJ+5swU4qIodVjTZkAr6Lb5Nc2OgrCI2Sl6SA2ucBKKarUfGOnYlK/HGfZY0wrMSdbIwY9ay+I2OQV9vqdPcsAEZwwxL2TQPDjj744oKOmhO5Ge6a41gjwbxXaQ7iIasH8EEaQ1GPPg0xTVzWl0eT0=;tA0xWjVIJdsgF81kHMn9SQ=="
 ---

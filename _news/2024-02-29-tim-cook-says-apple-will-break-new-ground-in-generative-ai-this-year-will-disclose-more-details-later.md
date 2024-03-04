@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple will ‘break new ground’ in generative AI this year, Tim Cook teases"
-    excerpt: "Apple CEO Tim Cook has a message for Wall Street. He believes Apple “break new ground” on generative AI this year. Cook’s latest AI hype comments came today during Apple’s annual shareholders meeting. During the meeting, a shareholder proposal to release a report on AI and ethics was voted down as expected."
-    publishedDateTime: 2024-02-28T17:35:00Z
-    webUrl: "https://9to5mac.com/2024/02/28/apple-ai-break-new-ground/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 38
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-18-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SEC sues ex-CEO AI startup for fraud"
     excerpt: "Paul Pereira denies making false and misleading statements about the company's performance to boost its stock."
     publishedDateTime: 2024-02-29T19:30:00Z

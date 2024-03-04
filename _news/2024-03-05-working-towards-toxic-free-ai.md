@@ -7,7 +7,7 @@ originalUrl: "https://today.ucsd.edu/story/working-towards-toxic-free-ai"
 webUrl: "https://today.ucsd.edu/story/working-towards-toxic-free-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Bridging the equity gap towards inclusive artificial intelligence in healthcare diagnostics"
-    excerpt: "Rapid advances in artificial intelligence (AI) are paving the way for innovations in how healthcare is delivered. AI technologies have shown remarkable potential in outperforming humans in diagnosing a range of clinical conditions including cancer,"
-    publishedDateTime: 2024-02-29T15:48:00Z
-    webUrl: "https://www.bmj.com/content/384/bmj.q490"
-    type: article
-    provider:
-      name: BMJ
-      domain: bmj.com
-    quality: 44
-    images:
-      - url: "https://www.bmj.com/sites/default/files/highwire/bmj/384/8418.cover-source.jpg"
-        width: 2480
-        height: 3378
-        isCached: true
-
-secured: "BOuUuEUofZpDTwVaUUsqDZX5S7SSr1vh/WBmuJeyae4PRSmbrvQQIc9hbrGaPp5Vu4G5utwkdcrplGQ3B1pgO0sYG9lPb6Ath2TYSvJuM8F4oRhH7PKPkLNeGCMt6XpGKKe6YJnTj9uhzgphbi+6wtSxndPptl7McN9gc6vvnotXTY8IcQRv32ZghDh45lGqjIfyqQXfkagGO6pYNiLCHxp/bdPyk+aWvffU+aFEFItdOT36M8NqHrpbJ29v4DwpCtRLnp2fHomrHRrOx26hdb5wrSGpUKRBRZQOQkaqDbhb4k33sh0gScaDbq1oHSyTvE+k/EBzyDtXI2kNO+DKQjeKl6cQGBeBeALnZrFLCSo=;PwjD97+I8MvPwbfaWpGfvA=="
+secured: "ijfPOevbT0CqHRmOYH9BfsCW8KJ2y5jl2CN7yptN5PeWMBVmmgT9S6rhvBi0ocTJyYTQxi2csTBp6NLYit4TwlOh8/U/dEvZXyKyvSlolhFNXfRaKNJ98/BmeNwLRIUwU1uVACmYLiJbv9gbgKHmV0n6nuqYZ95In/blJKBmhVT1vSTRa4Q+Es/vM8NuuMW+rb89NACcwVEqw4Nzdftz6mDI/x/Mm/ov7/PTuIIUQ0a2Sq57NbjFmyq48qmp/7Z9GBY9M7m4UXYLfGzV6NRn5Iw58+NzKpDvenYPkxcLlCQKnlHU+H03NOs0VafmmHTzrO4m7c3taGT4YDhoQ4s1Ht1dTrDGq6zTlc8b+aLIJZpGRiY43u6gYcwr4VD0NWawrRAupqTJwKhKjVx4VQF3w1aleL1pkhg1P6q0UFgSZ+mvBxCtGDmjyhYP8KE4Zt4V1v5wFJjkeMn6pU3xkjcageWUS6pLBdDmrm2C8WRoK8Pdj9SE8myhavtnpUoSxcAVFUS8sxfuKnmooc66vYuvpQ==;tXFPs7cVcBDRJC9JYs390Q=="
 ---
 

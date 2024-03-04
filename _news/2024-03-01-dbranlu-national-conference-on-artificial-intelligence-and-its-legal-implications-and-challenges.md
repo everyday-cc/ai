@@ -40,19 +40,19 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
-    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
-    publishedDateTime: 2024-02-28T17:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
+  - title: "Conference on AI application in Qatar's supervision, financial sectors kicks off"
+    excerpt: "A conference on Artificial Intelligence (AI) applications in the supervision and ... its prospects, risks, standards, ethics, and how to benefit from it in supervision work. In his opening remarks, Assistant President for Performance and Compliance Control ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://www.gulf-times.com/article/678368/business/conference-on-ai-application-in-qatars-supervision-financial-sectors-kicks-off"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/03/04/thumbs/300x300/149093.jpg"
+        width: 300
+        height: 224
         isCached: true
 
 secured: "hZr8A3cYdh8vgc6KC8Y9bXD6X8OrblBTu3gv53aXXRTMZNZxTRdmfBZuRs/Nf6KNygiIYDHYHfjvu4XeLFwx/Jag8XDBMNdBXrcP+VzKqUz8glw/bj/MpOA8jqMTGOpBi+xrjSLpTCX4M23I1xGHaXc9y4CPFfdrehGZ1RwCQ8zMBwScPAHZTJ/V42C6dMggS+rXvi6hIk/oSXJXmQkWcY/t/hshLw0FVpsU6cK9yqCUGzdNAoZHWkCdRWulJk446q8rWQn+sHsrq4/rIUNp/8EDtzxuZJZvVwfR+7R8YacLS4IVrZrRKWrbHbpdH+ZEiuEQ2wsShGGpw4ViHduIKIvuE4mBI0bIguqNej7AIHE=;XKPXK7fh2B7bhCiMq6C5rQ=="

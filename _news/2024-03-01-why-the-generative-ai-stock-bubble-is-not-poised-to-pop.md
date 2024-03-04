@@ -22,106 +22,106 @@ topics:
   - AI
 
 related:
-  - title: "Building trust in the government with responsible generative AI implementation"
-    excerpt: "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-28T17:47:29Z
-    webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
+  - title: "Generative AI and the big buzz about small language models"
+    excerpt: "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ..."
+    publishedDateTime: 2024-02-29T14:23:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
-  - title: "Three Custom AI Solutions To Implement To Increase Efficiency In 2024"
-    excerpt: "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts."
-    publishedDateTime: 2024-03-01T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6435b467d9420e08b2b0e670/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_580417436_Preview.jpeg?w=1200&strip=all"
+        width: 1000
+        height: 571
         isCached: true
-  - title: "Generative AI in Litigation"
-    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
+  - title: "Understanding Large Language Models (LLMs) Powering AI Chatbots"
+    excerpt: "This is what we call generative AI. The Large Language Model ... they perform well in language understanding tasks such as sentiment analysis, language translation, and dense text summarization. LLMs interact with users in conversational situations ..."
+    publishedDateTime: 2024-02-29T09:28:00Z
+    webUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    ampWebUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/RuopIl34Fzta68477w2k.jpg"
+        width: 1048
+        height: 675
+        isCached: true
+  - title: "How to install CrewAI and run AI models locally for free"
+    excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."
     publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
+    webUrl: "https://www.geeky-gadgets.com/install-crew-ai-locally/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "What Comes Next For Banks With Generative AI"
-    excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
-    publishedDateTime: 2024-03-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/michaelabbott/2024/03/04/what-comes-next-for-banks-with-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How Should Government Guide the Use of Generative AI?"
-    excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
-    publishedDateTime: 2024-03-01T17:52:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-should-government-guide-the-use-of-generative-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/afe4518/2147483647/strip/true/crop/840x408+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2Ffd%2F29f76a70498c85452948c62c3322%2Fweb-art-ai-policy-1.jpg"
-        width: 1440
-        height: 700
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Installing-AI-models-locally-with-CrewAI.jpg"
+        width: 1280
+        height: 713
         isCached: true
-  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
-    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
-    publishedDateTime: 2024-03-04T03:30:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+  - title: "Meta Set to Unleash Llama 3 an AI-Language Model"
+    excerpt: "Meta, the parent company of Facebook, is gearing up to launch its latest AI language model, Llama 3, in July, as reported by The Information. This new"
+    publishedDateTime: 2024-03-02T18:40:00Z
+    webUrl: "https://www.arabtimesonline.com/news/meta-set-to-unleash-llama-3-a-ai-language-model/"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
+      name: Arab Times
+      domain: arabtimesonline.com
     quality: 39
-  - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
-    excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
-    publishedDateTime: 2024-02-29T17:20:00Z
-    webUrl: "https://www.inc.com/kit-eaton/adobes-music-tool-fills-major-gap-in-ai-content-generating-circle.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i0.wp.com/www.arabtimesonline.com/news/wp-content/uploads/2024/03/pexels-photo-17614476.jpeg"
+        width: 1880
+        height: 1253
         isCached: true
-  - title: "Keysight Introduces Leading Benchmarking Solution to Fast-Track Deployment of Artificial Intelligence Infrastructure"
-    excerpt: "The Keysight platform enables large scale validation and experimentation with fabric design in a realistic and cost-effective way. This solution complements testing AI / ML workloads using GPUs, providing AI operators with a more scalable, robust, and integrated AI test platform."
-    publishedDateTime: 2024-02-28T17:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-keysight-introduces-leading-benchmarking-solution-fast-track-deployment-/2024/02/28/9969997.htm"
+  - title: "Meta plans launch of new AI language model Llama 3 in July, The Information reports"
+    excerpt: "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ..."
+    publishedDateTime: 2024-02-29T00:31:00Z
+    webUrl: "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
-    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
-    publishedDateTime: 2024-03-01T14:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "The limits of large language models"
+    excerpt: "A recent paper from Google AI researchers raises questions about their creative outputs, shedding light on potential limitations beyond their training data. While these models have demonstrated exceptional fluency in language processing, translation ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/the-limits-of-large-language-models/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Victor_Botev_2_bnw.2e16d0ba.fill-1200x630.jpg"
+        width: 800
+        height: 421
+        isCached: true
+  - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
+    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
+    publishedDateTime: 2024-02-28T21:20:00Z
+    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/update-generative-ai-and-ai-tools-bbc"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 23
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ptf8YWCMZgDF0WiEx8DRKd4ZEYzcGU/PcLT2NByWyNMbVjJ8KQb6yxKjwwCDi8EM+bAb1kjHomtmIHC2CMuXaxV6lNilizTjiuSILyFTHYac0ImjjXyStp9taNAgFKScVL4ri+klFDm2czBk5xbUXSA9kS7w6Yw1IxXjk0iGbjb6ep4jmhXe0nHcpfP7THyne/2aUejnxx1CKa+3QBt6gXUCDCW01cuObRUeILhGwQ1M8Dj+ZnWbqtPlDRn7Tt5z1d9sKk9WMWcq976dFeq01BBapN6NIjdRSPV21kymugmKLk3R+b8RYVasB3qHDxeLYx+lOtIEKS9fv8dqdMke7ECOtJ38fv0UBr6GND3+MKiU1jq/4LFFIRnlvaFPwY2Ms+f8JR8wgbtSkEIAxnWmONjB2Q2pXxXD83odsKYWbkzRzR7uvRYz8vKXWkBdvOtoOXIE9tEiEHgLBPWjGlc/QO5SL1Fr6b7sJNL9IApiFf9x3THBDpSWpfGS1rFTN99vlK+mGnXPirL6VrB6DL3ONg==;XeVRat1cvfuDr/AoLOI8VA=="
 ---

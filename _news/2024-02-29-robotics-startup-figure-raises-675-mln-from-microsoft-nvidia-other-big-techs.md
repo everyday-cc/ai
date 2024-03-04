@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-
 webUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/"
 type: article
 quality: 92
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 51
-  - title: "AWS, Microsoft, Ericsson, Nvidia and more form new alliance to integrate AI in cellular technology"
-    excerpt: "At MWC 2024 in Barcelona, a number of companies joined forces to form the AI-RAN (AI-radio access network) alliance, a new initiative to integrate artificial intelligence (AI) into cellular technology."
-    publishedDateTime: 2024-02-28T18:54:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-microsoft-ericsson-nvidia-and-more-form-new-alliance-to-integrate-ai-in-cellular-technology/559678"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 37
 
 secured: "BeCFkZ1+bRCF88Pa00xpSflDdKTA57PkP0/qVrtOrnX1+ut1MHIdBQz1RGcVjNKr24G+2rcpsWyQrXRG/dPScQTkBvr4SIfrGuEPn9llFSw9ae63Ws3Gdvv1Q52vzva/2TUiZCbXPujoHNVrCwUt1MxIZlcFcktdsgYiMPtRigoNivV+tolEPjRzbUuAMmUWSSmex/jnMzCqfkMIP0gYxnsxTqtLBaODeQUbGo4IE/K9rPsclGYbTmBEp9h4bcbQEP/kycX7cb2ok9Amq3qqtbiuafyAdK6q7OlsEax/V7/VtxHdBHJrtDtmPr2W5ADC9nLTjvQy+vuzwnW8lFdENMv0rve1Y6ensvmbUEDxp9eUY4iOMr9IWzkCSrxM69sINi7eHeSWxNaZmBOGuuMBrF0PW8g23nX/VIK54CEICUvGMIx4O9y89ahbFkfpebiBw/HsSVfxkL+QXB7IWf29eQZd1Qqm9Yj3IaBWr4EWEC4+WISmmTbFLFeHX3i7n1TFfteLJsJQEUATMSTRxom92Q==;Vqc90BH2ne8dQn4ng4jt6Q=="
 ---

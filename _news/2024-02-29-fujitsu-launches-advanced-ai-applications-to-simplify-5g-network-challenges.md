@@ -41,19 +41,19 @@ related:
         width: 1135
         height: 757
         isCached: true
-  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
-    excerpt: "For far too long, cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation."
-    publishedDateTime: 2024-02-28T17:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969981.htm"
+  - title: "Conference on AI application in Qatar's supervision, financial sectors kicks off"
+    excerpt: "A conference on Artificial Intelligence (AI) applications in the supervision and ... its prospects, risks, standards, ethics, and how to benefit from it in supervision work. In his opening remarks, Assistant President for Performance and Compliance Control ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://www.gulf-times.com/article/678368/business/conference-on-ai-application-in-qatars-supervision-financial-sectors-kicks-off"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/03/04/thumbs/300x300/149093.jpg"
+        width: 300
+        height: 224
         isCached: true
 
 secured: "cynPoRB9rtJmODG09FMbKzfG8Vn+XPtJrNFBl3hwL3lIboxrDVkVWzTGJQTRroX6tCAu1HHBd7zJ1ImzsKUexV5PHepuFvX86+4x3U3tE2RK2A+Ug9uWI4tpxL+cA8hfDn7LKgsRFObn1ttySihKjuA1kprBfhxt0kmt3mBNbI0ZlDagerlTi2h2go7dznsrntBgchS/ghrUClfRZgBKeJPtZVB23E8tiGg/MJjwwbtUcPTqKgRCWTgFHMlzxaPi9Hkl+mZbHSNAfJ1qoOmjDumgNlB4Au5MMBhhq9Mn6csjbd7o5gHFICPPiKBzAiILk5MnNlE02ibOAts81TOrp5mhjAY05B4t2guAibm6S/adI8wjleP0nyi4/5y7zKt4OHU/Qd2fh/eUNSDPxsOiQ30K/sd8LDnklbhtQnw9ep3VE9DjoCyc7ej1p/WerIrBT8cuOWtXIc0CojSpeptBjA9y0uFOs9PgJt7X4e/UsoXDt1Mdx3TBJJYw/bppbDXFcTq8lA+MzRBp4MEJ98uSyw==;RuCMlNZvUkZ447/YuQ6p1A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -161,6 +161,20 @@ related:
       - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "The President’s Inbox Recap: Governance of Artificial Intelligence"
+    excerpt: "Lindsay to discuss the capacity of the U.S. government to lead in creating a framework for regulating artificial intelligence (AI). 1.) How governments will regulate AI matters. AI is a potentially transformative technology. It is also a tool that can ..."
+    publishedDateTime: 2024-03-04T17:46:00Z
+    webUrl: "https://www.cfr.org/blog/presidents-inbox-recap-governance-artificial-intelligence"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 37
+    images:
+      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2024/03/Biden%20AI%20Photo%20.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Nvidia: The mother of all artificial intelligence"
     excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."

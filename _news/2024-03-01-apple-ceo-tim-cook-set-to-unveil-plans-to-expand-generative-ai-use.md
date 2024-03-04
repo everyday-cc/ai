@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-t
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.gizbot.com/img/2024/02/apple-11-1709180634.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Apple will ‘break new ground’ in generative AI this year, Tim Cook teases"
-    excerpt: "Apple CEO Tim Cook has a message for Wall Street. He believes Apple “break new ground” on generative AI this year. Cook’s latest AI hype comments came today during Apple’s annual shareholders meeting. During the meeting, a shareholder proposal to release a report on AI and ethics was voted down as expected."
-    publishedDateTime: 2024-02-28T17:35:00Z
-    webUrl: "https://9to5mac.com/2024/02/28/apple-ai-break-new-ground/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 38
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-18-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tim Cook says Apple will \"break new ground\" in generative AI this year, will disclose more details later"
     excerpt: "Read our ethics statement. What just happened? At Apple's annual shareholder meeting this week, CEO Tim Cook told investors and market watchers that the company is investing heavily in generative AI to make life easier for its customers. He also claimed ..."

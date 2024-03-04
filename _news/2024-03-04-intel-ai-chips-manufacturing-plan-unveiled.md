@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/intel-ai-chips/"
 webUrl: "https://www.geeky-gadgets.com/intel-ai-chips/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel wants its chips inside 100 million 'AI PCs' by 2025"
-    excerpt: "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money."
-    publishedDateTime: 2024-02-28T17:33:00Z
-    webUrl: "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel plans on shipping 100 million CPUs for next-gen AI PCs by 2025"
     excerpt: "Intel plans on shipping over 100 million processors for AI PCs by 2025, where it's working with Microsoft to try and 'define' the value of an AI PC."
     publishedDateTime: 2024-02-28T23:13:00Z

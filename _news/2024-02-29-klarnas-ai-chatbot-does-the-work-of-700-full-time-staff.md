@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Study: AI Chatbots May Cause Problems During Elections"
-    excerpt: "In a year when more than 50 countries are holding national elections, a new study shows the risks posed by the rise of artificial intelligence chatbots in disseminating harmful information to voters."
-    publishedDateTime: 2024-02-28T18:40:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/study-ai-chatbots-may-cause-problems-during-elections"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/aed2476/2147483647/strip/true/crop/940x457+0+87/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F39%2F30%2F39f6bdf361c3c6d991ccb20a8241%2Fchatbots.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "vZgLHorW7njKxe50AaO5BvPj4wmn5ipQPUKePFa4iq3uGnbmdgeKrwxmfE/dpDz1y4KWHn0bjJSqH5QJL9FjtXSI4ideKmCISy1h1P2cYuxmIV4ewYJrOgDAhsJT8Ef/dOXeV/14RoxKEN7hR4txepcUc+sm0fjqbe9eI2YDiydM+TeNWSPH5CCHGJbOtLfkYkiE5Kz/KVpiALcbyoNF9LBhDJb4IALgWtqo4qXcAz3Hg/v0/6NK0pMe/pCe1zkMr2CD+F/PHS+PpXwTBrJ5RgKEDDI6DoDMZm5ktafJOvv0/V58mu6CBwgLiXOffTaacPPQv17agijro4oq106ntraQKSfMHhdytj9poO6e/KM=;/AbHvrDUtbiTGvHyaexh1A=="
 ---

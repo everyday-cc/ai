@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS to invest more than $5.3 billion in Saudi Arabia; launch new infrastructure Region"
+    excerpt: "AWS has committed to investing in the Kingdom of Saudi Arabia by upskilling local students, developers, technical and non-technical professionals and future IT leaders. The cloud major will achieve this goal through various initiatives such as AWS Academy, AWS Educate, AWS re/Start, and AWS Skill Builder."
+    publishedDateTime: 2024-03-04T17:18:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 51
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2019_17_54_20_6413942.jpg?width=1280"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "AWS to launch an infrastructure region in the Kingdom of Saudi Arabia"
     excerpt: "AWS Region will enable customers to run workloads and securely store customer content in the Kingdom of Saudi Arabia while serving end users with even lower latency. Amazon Web Services (AWS), an Amazon."
     publishedDateTime: 2024-03-04T11:13:00Z
@@ -57,15 +73,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 19
-  - title: "Saudi Aramco introduces first artificial intelligence model in the industrial sector"
-    excerpt: "RIYADH — Saudi Aramco unveiled its inaugural artificial intelligence model in the industrial sector, dubbed \"LPU\" (language processing units), at the LEAP conference on Monday in Riyadh. The third edition of \"LEAP 2024\" commenced under the theme \"New Horizons,"
-    publishedDateTime: 2024-03-04T14:36:00Z
-    webUrl: "https://www.zawya.com/en/business/energy/saudi-aramco-introduces-first-artificial-intelligence-model-in-the-industrial-sector-bn08isy7"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 10
 
 secured: "3+iFMDe/l8zOwAuCqtE1BmngWbyy/1NZCMgdWQzQQgJd6wMcgzaxiamR7kXbVq/D+1vu/6Kn4RieiiN1qkUb86NZWn3G2BXgnICon6MNnBs9A0wJpqMrvdFI2Q2n0g0vBtt50LHzymGmyMJdYBlE5+xv46/CnubUMNJ5EJsq2j4RlPHZCkYy2W0aEiAq7f3ZoGDPMrmVeY566fqgAsWXrLLbTIpzi+diGXCbvw0srrQtIuq2n+uEhDTaa16gXqw0YTrXgJXNng036lxwFlQnuP0k+xOLcfBX79hgujUA4mFdFV/wjRgVrWrskMgD2vbS6FBNuko2bNAF/Gb1spAnLTu/DokpFlEmiHSYP0WKKIviwFnDbOrQ6K/OcQQ8/M1HrBIT2FvAEP9F70pSJjoH//TdiZ7Kd54cII0ssxTkwa49+QJFEH0Qog8Vw0AfQEsvEJ+R9udnGD08S9rVsOOnyX+F3Hsu4vxUs6bEN7cdQTKIiQHfBx/SeztGV4gbkGyh5HYY/6Jzu7mjZ2x53M06Ng==;c8Y+1ClLe9gfOCBmD0wkAw=="
 ---

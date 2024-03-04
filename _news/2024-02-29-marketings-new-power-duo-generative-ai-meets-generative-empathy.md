@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/gillianoakenfull/2024/02/29/marketing
 webUrl: "https://www.forbes.com/sites/gillianoakenfull/2024/02/29/marketings-new-power-duo-generative-ai-meets-generative-empathy/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AI in Marketing
+
+related:
+  - title: "What Comes Next For Banks With Generative AI"
+    excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
+    publishedDateTime: 2024-03-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/michaelabbott/2024/03/04/what-comes-next-for-banks-with-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "9FcV0QEwemhkMcGljAk6pi4ImVNIqgWDDNQbNeEpw9hVfpcwOJixTSDvkOD4ojvl8fvy23g9G9Tow495sXnHPR5lpY+BgPBzxrxCyfKnAz2EuWqURwy8Q/LXMRJSf/vCu8/wmLKR3d1u3+JRRM/ygvMiQTE5pwMrcvUeae3cmJPfNFGspTExJhy9LI6u0Dfq/z8h4jhOJ3o/gU4lwHSh3R890EHK2UUz6Ng0Y0Y5pzHBdnEsqdevEaKHd2oCtqTuOzGBVEFxh0ZEWXmiLgP4mGHZFPLOc/t7XzUByGSCq4z8KVYxj4+scbP0oNJtnyqeDh9BkPulN6RqYNf0evj0MK79rZHjkmNfDqURO+Ztm7s12DlVVlY2RdgJZL0M9fnfoNeOcHx6/3L9p7WGLMmMUU9vSBpTBf0d92SNgc6oG4VmKSIErHbSeDPr8G2kirN4mvDnpL3ry9HsYP517U6zDSIMjnjW4uQJ+InebbT1LTSaZGPDMwP/f5LV8wCOZwEJrlMwBPYHkWzOFIGkS/auBw==;r2CY6dV2xIDWnAoMkLiDpg=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel wants its chips inside 100 million 'AI PCs' by 2025"
-    excerpt: "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money."
-    publishedDateTime: 2024-02-28T17:33:00Z
-    webUrl: "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel AI Chips manufacturing plan unveiled"
     excerpt: "To make this a reality Intel, a giant in the semiconductor industry, has laid out a detailed plan to take the lead in the AI chip market. This move is set to transform the way chips are made and used across the globe. ChatGPT creators OpenAI are also ..."
     publishedDateTime: 2024-03-04T00:00:00Z

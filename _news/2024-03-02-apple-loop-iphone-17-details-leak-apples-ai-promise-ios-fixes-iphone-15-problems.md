@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
         width: 1600
         height: 885
+        isCached: true
+  - title: "iOS 18 is all about iPhone AI, and Apple’s M3 MacBook Air announcement is proof"
+    excerpt: "Enhancing an image with AI using Photomator’s Super Resolution feature is up to 40 percent faster than the 13-inch model with the M1 chip, and up to 15x faster for customers who haven’t upgraded to a Mac with Apple silicon.1 Later, Apple calls the M3 ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://bgr.com/tech/ios-18-is-all-about-iphone-ai-and-apples-m3-macbook-air-announcement-is-proof/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 35
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/08/macbook-air-2023-7.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1406
         isCached: true
 
 secured: "2q9qeZEJPf7F1dFWUuR+oLcGisNI5tzKhbr5swySKhTem88ZMh+0JH7ZlKqlRw3n8J7oGXZuexRs5SFnEHkrhEsvrRlaeskdQ5DLJIPeQvbpmsNWUUAev8l9RYfUGgfK2ROfg67cnwjGr7JZZcuyGQ2TTeW7KnzpCKYofs4qebDY0mC6reMrlvcLGR/bH01iLiq6itsCtBbMBSKkOawGQe4LOGBAQzSFf/e/RunnkcxwApDQ4l35jmXViO5YtNF8A8hL1KjnhFJOEmUBv13r+g+MXaZ3vg8dVUOOzQ1ipYhgX87xUuVRxzxg8K0AvJ95/OLsVfn5WEo7IcNJDRkxx7c2Bv0JH791fFRKMz9Yikr5IYPEVKKGrMNMT8Ns4xnAzA5HPkowCU1BFc10qkep/5MRQt2p6oYXbLKrJT7cRTjgopIEMuIOCEUoEQ0zOeVhOlpya+mVP1LD1ljN90lyJ6wbpwhWZ5cTMN22dvvgHrVhIPeUrjkhqo962S1CcGzGDGMNOG/Xr9u5HFKCpOrPiw==;exdO0Xzg11jJCNgdGegGjg=="

@@ -55,6 +55,15 @@ related:
         width: 1048
         height: 675
         isCached: true
+  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
+    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
+    publishedDateTime: 2024-03-01T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How to install CrewAI and run AI models locally for free"
     excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."
     publishedDateTime: 2024-03-01T00:00:00Z
@@ -112,6 +121,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "YdltU9qRbfwpB5aeyPac0wT/pkQTHxvU/ue0R8NaiOsoNyVQxbAFPr/oJLuc2Wyfc2EMyJ+jWAcO2VhGnGue9yvRUbWX3RtXlkYM2qGSC1+9HyRzvwly3M/dIQfsMD7gKzb7+ZY7cD7LjAoRdKoHw2phXsAq65xfMEcg4JYLS4rOGhgNLs941VvdJXBPMMem7NSfokKGi+bsTtEfG6T2FGWqJtNtvxcksxAdPVnVEpe0a/56//qAAVtZGT//Jf/bzpxgfkJ/bZAWebaL0NsrMzTSaqdM0Sbb8oE8TkqoYULAcNNvVKN8ZWn34NjRUYIwiCTKzYhpCvLdGauzzqBJVMCHpnkgHqwnTeuM/K3FjLM=;XxJrndx4QGea+04z+ItV+w=="
+secured: "E1n6phVbaZhijt2jzO8SuUtZ+dJghAviRZoVlY5lUmdRyVT8bPNw+WoHrC1uiZc1pDGrj8FYLVLw39GiqIdAonR9r0ngEjslGh5tYn7579q0VXFgTwUS6P9CklyhtmfjaIvUc1W867BjLaM2PYryBgMpYDZJWxiKMYfd4M6yRjmSSkrEoBaN04C1HWy/HLrBDBWkJA1RXV/66h9fe1/At52hgNPVXEv9PRFt1DRS4so6W5Ygsr/U5eZewfVHSwjwWBzVQ9zEKRLIBXXVkbQxjQ+wtKL/R0yOPU4pfRbgvNbatgzKYU/IGkGsaa7F76+II08RJdWRBQXwtFFaHi2JqLKujV/FHap7TO2L8EsazGg=;v/fUm8b8e0KvNsMj8pzlqQ=="
 ---
 

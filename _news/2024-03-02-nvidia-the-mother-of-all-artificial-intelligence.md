@@ -167,6 +167,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "The President’s Inbox Recap: Governance of Artificial Intelligence"
+    excerpt: "Lindsay to discuss the capacity of the U.S. government to lead in creating a framework for regulating artificial intelligence (AI). 1.) How governments will regulate AI matters. AI is a potentially transformative technology. It is also a tool that can ..."
+    publishedDateTime: 2024-03-04T17:46:00Z
+    webUrl: "https://www.cfr.org/blog/presidents-inbox-recap-governance-artificial-intelligence"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 37
+    images:
+      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2024/03/Biden%20AI%20Photo%20.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "vHvmGH68NbatncwJijCPpCKodL7lGchIxv+n3XPI9+A/vd4nhQWKXJWppggXW3Uf51Wlk7xXDB/tyau3Wa8kl1M4pCK16KtXBut2V6O6RYNFr3tte0dZ7aPp4AoTCeJv1ggP0H5GGw2DoeXC6eTLaYukQcsOIMde04Af9NlOSM5SmmgzIGFJdxnLXbyroR5bKbKQJZqc/x5BhwrjInSRdFehImiCxrPSTfFfAtcpa6BwsR+aE9y6IUINAp/kEfL50Bj1MdhGKO8FxfY7Q485eNOEYLipwdKx92rz7TS/SwTZafdzp7PWBEc5Or3NBr1+EcVqXLRYa3r5JFl1WK7Rh7I/XBQDAE/N083Yf/l+xPb+4VOhLx+030fgG2MILBTly/52Y/FBRbzvQCp9hRy1m3VBTz5UrNv69xwz1jUUJ+7MYyPumjLzpP9r77CQMGGLtF8340WTyuJodGnv2luIrsI39EhM69WV9RXELDYATeN1GPv4nDJIvaJRPmyEyQX1gN8KLllzQu2vdVr6HlV06w==;V5yDUYeY6ezmrTJF6lTttg=="
 ---

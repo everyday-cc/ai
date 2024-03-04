@@ -80,15 +80,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AWS, Microsoft, Ericsson, Nvidia and more form new alliance to integrate AI in cellular technology"
-    excerpt: "At MWC 2024 in Barcelona, a number of companies joined forces to form the AI-RAN (AI-radio access network) alliance, a new initiative to integrate artificial intelligence (AI) into cellular technology."
-    publishedDateTime: 2024-02-28T18:54:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-microsoft-ericsson-nvidia-and-more-form-new-alliance-to-integrate-ai-in-cellular-technology/559678"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 37
 
 secured: "U3QBx86v1hZeVVJBgDg2xUzQMuGwpoxf3puy5Xt8BOi32jCkB41GhVSrtI9PNQ/TDDtLCzaVNp1dKT3XiesQ6LS7O729ZHdqmWxJASs5+Bjf4iK2pLyrPPOESQQMoq3T1kJoOtI0JD96HWxBP87gjYWw8N8jJcQI8AjhF4XFP54ZMUTte/r3hjs+3VgbR0skVz25XPGWRZglIbpVADpMSxQtYcxqi5S0wkK4KwnHa3zVK+8xEvxABkh/4JF59QjB/rwnsCJeGdVfXLgaXEpUAIfTnNXdTp8JSTF1sIBWyaIupnjLpQGCGz56c7p3revHaDqS0q05FYS4EKoqOCdQElOUo9HfJYQAh9j6XyPEtaM=;Vo0GFt9UTRGFS2OYLCYYSw=="
 ---
