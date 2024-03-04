@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Facial recognition tech is probably coming to a lot more vending machines"
-excerpt: "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common."
-publishedDateTime: 2024-03-02T12:13:00Z
-originalUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3"
-webUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3"
-ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
+title: "When it Comes to Facial Recognition, There is No Such Thing as a Magic Number"
+excerpt: "BKC Affiliate Marissa Gerchick and Matt Cagle argue that facial recognition test scores mislead communities about the technology's harms."
+publishedDateTime: 2024-03-04T03:10:00Z
+originalUrl: "https://cyber.harvard.edu/story/2024-02/when-it-comes-facial-recognition-there-no-such-thing-magic-number"
+webUrl: "https://cyber.harvard.edu/story/2024-02/when-it-comes-facial-recognition-there-no-such-thing-magic-number"
 type: article
-quality: 88
-heat: 138
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Harvard Medical School
+  domain: harvard.edu
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+    width: 1000
+    height: 500
     isCached: true
 
 related:
+  - title: "Facial recognition tech is probably coming to a lot more vending machines"
+    excerpt: "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common."
+    publishedDateTime: 2024-03-02T12:13:00Z
+    webUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "University to remove vending machines after student claimed they used facial recognition"
     excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the utilization of facial-recognition technology. The controversy unfolded when a vigilant student captured a photo of an M&M-branded vending ..."
     publishedDateTime: 2024-02-29T12:09:00Z
@@ -77,20 +87,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "When it Comes to Facial Recognition, There is No Such Thing as a Magic Number"
-    excerpt: "BKC Affiliate Marissa Gerchick and Matt Cagle argue that facial recognition test scores mislead communities about the technology's harms."
-    publishedDateTime: 2024-03-04T03:10:00Z
-    webUrl: "https://cyber.harvard.edu/story/2024-02/when-it-comes-facial-recognition-there-no-such-thing-magic-number"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 36
-    images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
     excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
     publishedDateTime: 2024-03-01T11:00:00Z
@@ -106,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nlQed5Z9RpqUrH2EOzL9dp7+17cFBIqr1WLYQ40sZhzpgm1uF8NygpfM/POgYt+NuEiVa7jWYHTVj8g9xbFMZNqFB5hJ44zbaD94v290x/RNil3cH0ZtmbpVJE25yWfDAhr67suiSWrYXRe2+Yyk3oZuiUHIF16yTVLC3uQ52CiQ69UiVpg4hO3+Lu1MlC+Tn7RphxiNgVTkX7RRNpRqCWyWOl4M097K66yVlKEq/Ay9m9EpDppxYeLR59luuDECiz18M7H7DWsEPukcb++jf1bg8obj7+LjfrIWq5UxMmwAAKqi/cm/IZtwIWsv0LxVEeZoFILBRUbvja+Kp6eQ2B3oHUH4hFlfDDchK1x/YkoZMOWEr4yeER/qRVwliyb76CAQwLtYJvG57XR3inyAVygKf25Pam3Wm7zWwq1U6f5R6LQZtdwQpzxZn63Aw2tn2AQkfWoWrZqygc+Tr/M1nJV0WffKpNbVRwgvSTAoEpHO+SIeClqCkH6qVrFKU1/o5Pq4nvIs3iC3FE8XKbOHig==;J0BQCvkYtSaa5p8vNyz66A=="
+secured: "5D5FRJxTvBvFNuC3/RW9Tz0QAF9pO1NtVkRBOZUrIeuqIbVNgwzMkwDRG6UmegsIj/8i6+EtC/Nh+S99VA5IcGF+q1Z5tonIxx+L0LqUNdXFF7StC82+6rZbkbGD1pWqWe6/wAQ9Rkg7N6xycbXpNV+KZdeB5CtYD/t0InpUKEouYvBITVqYUVA4yy5KDL+k2CRmU42VIx5uelvx0jyWq1oVvV/9x5gHbCoTMCq+ngC9T6PBfoziX9gqyXraL2oYE4ohxyJsdx0jktwr/XJ4m/U1N1wKs6hU0zhKKk/0hE/zAMSGK6WIS0Ru4aJ75vxAROSZr2H60i0yAdXSTR58bAZnWfU15n30Zs3+eD8LqOk=;odfDeQZomQ8o4Yq0o5SOkg=="
 ---
 

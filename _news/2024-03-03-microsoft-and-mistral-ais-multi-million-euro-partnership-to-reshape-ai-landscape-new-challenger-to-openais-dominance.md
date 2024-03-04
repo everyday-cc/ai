@@ -161,20 +161,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cognizant and Microsoft deepen partnership with Azure-focused solution"
-    excerpt: "Information technology services company Cognizant Technology Solutions Corp. today announced a dedicated version of Cognizant Skygrade for Microsoft Azure customers that helps cus"
-    publishedDateTime: 2024-02-28T05:01:00Z
-    webUrl: "https://siliconangle.com/2024/02/28/cognizant-microsoft-deepen-partnership-azure-focused-solution/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/3985731615_60d24dfb82_c.jpg"
-        width: 800
-        height: 536
-        isCached: true
   - title: "EU balks at Microsoft’s deal with French AI startup"
     excerpt: "Mistral’s AI pact with U.S. tech giant Microsoft comes after bitter lobbying over how Europe can push into the next tech wave."
     publishedDateTime: 2024-02-28T11:37:00Z
@@ -275,15 +261,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft’s GitHub offers companies souped-up AI coding tool"
-    excerpt: "GitHub says Copilot Enterprise can answer questions based on a client’s code, a feature that could help new employees get up to speed."
-    publishedDateTime: 2024-02-28T03:40:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsofts-github-offers-companies-souped-up-ai-coding-tool/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
   - title: "EXL collaborates with Microsoft to drive innovation using generative AI"
     excerpt: "EXLS], a leading data analytics and digital operations and solutions company, announced a new collaboration with Microsoft to co-develop and accelerate generative AI solutions for businesses. EXL is using the Microsoft Azure OpenAI Service to augment its extensive data and analytics expertise and create faster value for clients across industries,"
     publishedDateTime: 2024-02-28T19:17:00Z
@@ -303,6 +280,6 @@ related:
       domain: menafn.com
     quality: 34
 
-secured: "89FtT+gHdqNi157zRAm+/rQE6LroIPbPtuHg2LPPyvof7EjiEsahFuNUIf3mbIEXWo33qYRKc8g2H1I/O0cgrg+1p7lu63prEokCy2lRTQK1s66FHyCh/2MSHQtXbatZw2eODEFHaPbZN6nlKLGDvUQtlGOBXIOSttBuCwStch324zqo6tPZrzTTfS+UuLDES1gExZEhZEoGYvT6aGBnFauqNgnJgrUZOuhpGT/gx2sRsY1H7eXgJc0BuK/qfJLNfl/ekllsQdA0U4pedtj3CRk1IJ3OwGZOr/2b6iw31gkVW0tZjerKr/QWHQMYdGX+rd3C1Qt7D5yzITWPlsHsv/Is7rJdOA5ABmpoh9urZNo=;WoDWGs2+L9TwPilTIBWlPA=="
+secured: "BIhlQZSg1XV6rDiOlZ3Lng2yzgz1w+om6CP7Ne1AHr7SL92WbVKcnT+VCHrUgAMKzeYIg8i4Zb5qpNPTd1NlJHQP5hdZeQGW+Rk3Elk8kxZHdHq51ml2F8jtjYN4rOkK36c/X31dEonIkjGNKsghl48+v3dvb/hn93uJfweqfYUQj95msoTMP564NzGktTf6wPQLNNJG99SGmm9wKJp7kc3zmLMMg6Qldil5dcaAA4GDKGdnPq5boVF/Jf0B8KvhE0pffz2phQNX95JlCi8JfX7f2PSK+svshJ09RCdRR+oSTD1zaBJIN5369Q15h+O2t/XsYx9IHjDZAdm64O4OILHzt+6BMBWoSXCTN7XraA4AtQSUThRcdOPSmtiUMWFLbAFAFCVxOW4Mk4puP50HFcvhRWeY582iI4OfqyWjkPl5Xkyw8ZxWURazorqjBOSKgGuI8RxxAOhweT/5aNNrxfWWPxPkgRBex72x2auzrSXA5Hbt2JFA/yX014aC09TaufCbW5aBto09F8dh0WsCdw==;S/9xZFvUosrT17rbnirIzA=="
 ---
 

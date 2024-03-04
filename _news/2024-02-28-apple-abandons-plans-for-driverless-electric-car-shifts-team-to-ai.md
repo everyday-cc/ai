@@ -7,8 +7,8 @@ originalUrl: "https://reason.com/?p=8267073"
 webUrl: "https://reason.com/?p=8267073"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Reason
@@ -38,20 +38,6 @@ related:
       - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/02/zumaamericasthirtyeight489622-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Apple Shifts Gears: Abandons Electric Car Efforts After A Decade; Pivots To Artificial Intelligence"
-    excerpt: "Apple Inc has decided to pull the plug on its ambitious decade-long project to develop an electric car, codenamed Project Titan. The decision was disclosed internally on Tuesday, leaving nearly 2,000 employees associated with the project taken aback."
-    publishedDateTime: 2024-02-28T04:51:00Z
-    webUrl: "https://www.goodreturns.in/news/apple-shifts-gears-abandons-electric-car-efforts-after-a-decade-pivots-to-artificial-intelligence-1333199.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 25
-    images:
-      - url: "https://www.goodreturns.in/img/2024/02/apple-1709095814.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "nNQ0tX4EWprse0rmgBG76P3SzIKsF1gX4Z7eWuDTlXEPEIe2iXLFv+/vfpKHsKNxGvbY2Oxq1Zd0lVCi2gtAeoatFuv7K1eamQe40x5y2+HjKmpSghKA9GCEtKlyisb3arQ+5hNh7VuXeXWhGXdkPgLNq+LU6vy1VtIrVmM1lfWMbferv5PFoI/9myJ36WQYkvD1iJPx4J9WZ+AVMliJ+lm4N3Kvto8hNgi8DQTcytenYavTTiSqQzLK/DCYt5f4EPqOJoaHMKjeM0N4KVfil+PeRTI3S6h6MhfLfIWhvfaeRXTzh/+uGCF7ZtJUuManUYidYJ57igO6KyFlNaved04wI4MS/N0yK/PI4pvXlko=;h0G1hX7DNeEyRR2k5KOP5Q=="

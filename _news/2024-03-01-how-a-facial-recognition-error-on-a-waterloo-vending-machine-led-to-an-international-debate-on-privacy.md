@@ -87,6 +87,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "When it Comes to Facial Recognition, There is No Such Thing as a Magic Number"
+    excerpt: "BKC Affiliate Marissa Gerchick and Matt Cagle argue that facial recognition test scores mislead communities about the technology's harms."
+    publishedDateTime: 2024-03-04T03:10:00Z
+    webUrl: "https://cyber.harvard.edu/story/2024-02/when-it-comes-facial-recognition-there-no-such-thing-magic-number"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 36
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "hXAJ1F7yxTtmKxB6On7yaxArq3uxuphLIGOm3t41F0MmpRtZH02HAQ3LtPb9EwwsYmigkq0iHwmzYYmqHVHXxIvvNeIEauiUX5E2xTaniV+PpvmzcyngZT8kB/lxt/3wxT0UnW9XDcNjjEJpE4GQMLpMUzi9hiwiYRi+O/uz/fI/mqSVBIV/LhiRxBq1n1YKjNWqOAWcXWDI0fLzAuAsipAXQZ3G2eCBw3oFufgaaw/AnRK+ymELl1K0/oVU+HcMYrcUoT3SrZV/GOr31mIPnaj663+euosgH4rB3T23DK2w658ES3x3jlyFbVOU6cMuyIhZkKds6+zdSHLLuO1hOlud8pbUIx0aI+UtpRW62TIh3Ng6IVcfX+xEIIknPFTzfYpwn2NGh8FQrDwt8DQGs3bpvQ51nki1Yw2PjAQAvCcNZg79UdnrJIft9a3L4gVYcw6fD0SKqCQCjYI/ZYTSKWUf7bdH2wjsi3Q105C6nZbJzAZV7QRvoRcwoWM3YBM5o5IlPau5hAG1R2hsrKog3Q==;FU2HHtH45n8sqFEfndwqKg=="
 ---

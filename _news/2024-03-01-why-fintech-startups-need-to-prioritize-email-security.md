@@ -103,6 +103,20 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 19
+  - title: "Investment in fintech anticipated to have a soft start in 2024, finds KPMG’s Pulse of Fintech report"
+    excerpt: "Global fintech investment witnessed a slowdown as investors worldwide chose to preserve their funds. Pulse of Fintech H2’23, K"
+    publishedDateTime: 2024-02-29T01:09:00Z
+    webUrl: "https://menafn.com/1107911434/Investment-in-fintech-anticipated-to-have-a-soft-start-in-2024-finds-KPMGs-Pulse-of-Fintech-report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/28/pr_56_535629dd_image_story.jpg"
+        width: 1024
+        height: 1536
+        isCached: true
 
 secured: "toF6JGDT3n0W+rHruvPfhYudcwJxR3thIOVN+I3k3TWInVDGyp5nBRTcsgZAgs3bez0IEaJZN9QpGO8vl7tASmu1+HO6Xp9CohiDwm9Q8oNju/+wqHX9K3C30Bd4D2wkmpuz9nSvXKUwdNNv5DdSIj5Ds9JGCzFyQkm3BvL1VRKgeYKyckwiYQyo/1QH6P31bdXIurYPhCGc2rhjvNmzPtclmdb472ztq/XbbV2P6TTrr7PJJnOSg61p7gRxSRsd0Yh6F1/4TPs7TKhF3E/TqeVac7HAWV2L9sJHtpOiBhwJYf94c+eE9eCbQiJs+ZGokoZ6esthTtIQVjfXRMdsSJWqtNzyzhch0bdOnSCiDc8=;mXWUCItkAL5jfsPsHAxIhw=="
 ---

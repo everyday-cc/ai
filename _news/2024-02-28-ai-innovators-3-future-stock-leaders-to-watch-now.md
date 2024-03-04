@@ -60,6 +60,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
+  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
+    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
+    publishedDateTime: 2024-02-28T14:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 47
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "m9hAyUO6ZMvstMeqFB/jT5NIDsDQxlcwQMEkEDRUSB8Hlk9QjilIeoNuXwq2Arlzfo8VOPsxVfM5MQVeRgKGQQo5od+HvvoMi99hqRlzUZ37WcsIEBUXBrujf8Z8nlGO7u5ChxmWr75zqCCD1fTS/0myKVGzZt2vl2wqoU39KRGVYeFo2k5WTnZls3L8nIg3h7LAfxPklZnuo9lk5DSugWJK6LjSy3oXr/X1KN7UPTN51tPb879N809HtRKG0VKhX6dy6sluw1v2jKNMuslpU471tcr5i+JW0tB+spEdZbh0yB+tPjVBfjTHtWbjHiK2eyASwoNxzPnJEPbLhxHS2pWE2qwdm/FkRcl1ds2kNWqYPfoW3yuXCj1UlvzVi6XG0WN3UpCQek4IFETuk91LSMBJkAeByEDeTozGxHj9htUf9elQKjFnRaqzFfCqbQfJnO0e3+bJAbjdgLcJCO28AETWRIBDZbFra30dlV/wkrtU61AROkZ7dtlZhu25USuBlOfvac/rl71p9hPBUztSpA==;6iUAeZvJjAI7eWG2bsrvjA=="
 ---

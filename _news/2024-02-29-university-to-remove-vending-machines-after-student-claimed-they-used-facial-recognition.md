@@ -73,6 +73,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "When it Comes to Facial Recognition, There is No Such Thing as a Magic Number"
+    excerpt: "BKC Affiliate Marissa Gerchick and Matt Cagle argue that facial recognition test scores mislead communities about the technology's harms."
+    publishedDateTime: 2024-03-04T03:10:00Z
+    webUrl: "https://cyber.harvard.edu/story/2024-02/when-it-comes-facial-recognition-there-no-such-thing-magic-number"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 36
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
     excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
     publishedDateTime: 2024-03-01T11:00:00Z

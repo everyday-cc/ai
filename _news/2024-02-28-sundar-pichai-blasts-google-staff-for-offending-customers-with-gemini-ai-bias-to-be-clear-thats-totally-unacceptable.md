@@ -196,15 +196,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 26
-  - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
-    excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
-    publishedDateTime: 2024-02-28T04:28:00Z
-    webUrl: "https://techreport.com/news/amidst-backlash-google-introduces-gemini-ai-to-messages/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 19
   - title: "Google can’t guarantee its Gemini genAI tool won’t be biased"
     excerpt: "Google's new text-to-image generator displayed glaring biases after only three weeks online. After taking the tool offline last week, the company said it will never be 100% sure the same issues won't resurface."
     publishedDateTime: 2024-02-29T15:00:00Z

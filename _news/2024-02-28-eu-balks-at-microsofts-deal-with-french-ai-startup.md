@@ -159,20 +159,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cognizant and Microsoft deepen partnership with Azure-focused solution"
-    excerpt: "Information technology services company Cognizant Technology Solutions Corp. today announced a dedicated version of Cognizant Skygrade for Microsoft Azure customers that helps cus"
-    publishedDateTime: 2024-02-28T05:01:00Z
-    webUrl: "https://siliconangle.com/2024/02/28/cognizant-microsoft-deepen-partnership-azure-focused-solution/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/3985731615_60d24dfb82_c.jpg"
-        width: 800
-        height: 536
-        isCached: true
   - title: "Microsoft's AI Fights Phone Scams, Puts You in Control"
     excerpt: "Cybercriminals trick you into sharing your sensitive data like bank details and credit card numbers to make unauthorised purchases or steal your money."
     publishedDateTime: 2024-02-28T05:57:00Z
@@ -275,15 +261,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft’s GitHub offers companies souped-up AI coding tool"
-    excerpt: "GitHub says Copilot Enterprise can answer questions based on a client’s code, a feature that could help new employees get up to speed."
-    publishedDateTime: 2024-02-28T03:40:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/microsofts-github-offers-companies-souped-up-ai-coding-tool/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
   - title: "EXL collaborates with Microsoft to drive innovation using generative AI"
     excerpt: "EXLS], a leading data analytics and digital operations and solutions company, announced a new collaboration with Microsoft to co-develop and accelerate generative AI solutions for businesses. EXL is using the Microsoft Azure OpenAI Service to augment its extensive data and analytics expertise and create faster value for clients across industries,"
     publishedDateTime: 2024-02-28T19:17:00Z

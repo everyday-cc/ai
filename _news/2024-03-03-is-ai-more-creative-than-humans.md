@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/is
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202403/is-ai-more-creative-than-humans?amp"
 type: article
 quality: 57
-heat: 91
+heat: 92
 published: true
 
 provider:

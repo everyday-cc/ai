@@ -1,28 +1,24 @@
 ---
 category: news
-title: "AI: balancing innovation and regulation"
-excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
-publishedDateTime: 2024-02-28T12:18:00Z
-originalUrl: "https://www.business-reporter.co.uk/management/ai-balancing-innovation-and-regulation"
-webUrl: "https://www.business-reporter.co.uk/management/ai-balancing-innovation-and-regulation"
+title: "Harnessing an inclusive future with generative AI in Southeast Asia"
+excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
+publishedDateTime: 2024-03-04T03:30:00Z
+originalUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: business-reporter.co.uk
-  domain: business-reporter.co.uk
+  name: The Edge Singapore
+  domain: theedgesingapore.com
 
 topics:
-  - AI Ethics
+  - Meta AI
   - AI
-
-images:
-  - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/042/AI_laws_and_regulations.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Building trust in the government with responsible generative AI implementation"
@@ -77,6 +73,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI: balancing innovation and regulation"
+    excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
+    publishedDateTime: 2024-02-28T12:18:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-balancing-innovation-and-regulation"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/042/AI_laws_and_regulations.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Should Government Guide the Use of Generative AI?"
     excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
     publishedDateTime: 2024-03-01T17:52:00Z
@@ -91,17 +101,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
-    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
-    publishedDateTime: 2024-03-04T03:30:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
   - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
     excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
     publishedDateTime: 2024-02-29T17:20:00Z
@@ -158,6 +157,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "OcnRJsRUwvFMA0lEw/m6Z+BO5VbWB9fRUq6F32gYmanyENT3OvikZeSjkezbUMpLYI1JL8hxK+jOOut6uiATVDMB6ZCN5GPq+nL5FK0+PYG9MPuRFArqdo0FAN42S9DRs+b/E/oFYFfD9rxreIXvnSsZJrOQGzCDJXWqBI9T6ALMMUarq3T3xAj5ezXliv0qP+WhBwBOXaSPhvh72m8+djerxbvfhksEixMca5dd/FI2PxIzvKw4Ue1bnihlbG9yvTVjDK/LNgwZst7GfH9eLOT3yCXSLxluxjTcPYwtTaS+fpWfER41T2tnyTroTW4gJgRscRQpxFB/AWNkw3Nb3wQFuSzRfsT9HO1YpyGERc8=;Ey9+TBZ0BRz0SMs+uchmtw=="
+secured: "g87qbP33MlJHX7ma+IIboxRimfnWM41W/uBnYMjF8UzJI7Szb8sV/HikfHA/g9Jdyd+ZGi98LRJ+G04nmwq1EDDHmQ93b786orLyBEbJz/pVA6a41PP6NiLyMN0AA/KZQbz4Z6uG1IcoDDIjrEGhTVA+O1REmBQcCXjUjHlaAA12xaS7LJ21F68TetgCEWkINrUkIFyrQ3LU2mXeC1OMPWyZmVCJI5Xoh4MAcA7b9qTRFLpY/m91K1XbAA6sDK4DEkFwIfErCiDcSQgpxydnENTgzRhH5PDSA3fTr6oH5SUV0GAFwj5/kYymAp29FsTxkIaWI2FvEOh+Oyj7DkiS1NgOIp8MMlbgNYkJbbJc948=;jZhJmi3+25Srljn4Bky2Tw=="
 ---
 

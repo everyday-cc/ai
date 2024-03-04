@@ -191,15 +191,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 26
-  - title: "Amidst Backlash, Google Introduces Gemini AI To Messages"
-    excerpt: "every Gemini user across our supported countries and languages has access to Google’s best family of AI models. To better reflect this commitment, we’ve renamed Bard to Gemini.Google Blog Google certainly has big plans for Gemini. The app is currently ..."
-    publishedDateTime: 2024-02-28T04:28:00Z
-    webUrl: "https://techreport.com/news/amidst-backlash-google-introduces-gemini-ai-to-messages/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 19
   - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
     excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
     publishedDateTime: 2024-02-28T19:14:00Z
