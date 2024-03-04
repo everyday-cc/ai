@@ -35,6 +35,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "How AI Could Reshape Medicine"
+    excerpt: "Not being fluent in the local language, I used a translation app that enabled me to convey the urgency ... With recent studies showing that AI models can now identify early signs of health complications such as sepsis, these technologies are poised to ..."
+    publishedDateTime: 2024-03-03T23:27:00Z
+    webUrl: "https://menafn.com/1107929168/How-AI-Could-Reshape-Medicine"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?776993"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "VezXIX25NfzhEw4mavYCCex2HYCyCzavnQHX05lmkPYLmLFOTh4ikH5RJyFDSTB5F9xuRTlDWvWG39t9bOCmLfFnp6plVqc8uVrm/3Bhd8WPlPByjZDGPZVCRSOa5hO+5SmNTa3zH6U2fheaf2zD8Z/v56FoTKaCrI076ZsxZswGBw4duhPKbNOfRf3PAo/efbgF2f7tHyB2ti7wniZUt3O0A8880DjIEQn+W2ZZl5dQw7LWTdHUhkjj9OoOPruFNkuxrBNvP0aWVb49c/X2CPa24wuoI3pms82oOIUUGtN6chU57TqzPUQMRIotSjSl3KY64/S8Ydj7let5kj269TFO+OuG1R3lFsD39NRGTII=;7oIdaA57yuJ70CSOBg3ivg=="
 ---

@@ -329,15 +329,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dimensions Research GPT – evidence-based research insights for ChatGPT platform users"
-    excerpt: "Users can get AI-generated answers to research related questions on the GPT platform informed by Dimensions’ huge database, making ChatGPT more research-specific for topic exploration. Available to users of both free and paid Dimensions Analytics web ..."
-    publishedDateTime: 2024-02-28T05:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dimensions-research-gpt-evidence-based-research-insights-for-chatgpt-platform-users-1033111830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Jeff Bezos, tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-01T00:00:00Z

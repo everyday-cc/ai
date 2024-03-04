@@ -22,33 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Amazon to spend $1 billion on startups that combine AI with robots"
-    excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
-    publishedDateTime: 2024-02-28T06:48:00Z
-    webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+  - title: "Text within AI-generated images: Startup Ideogram gets it right every time"
+    excerpt: "A lesser-known AI startup called Ideogram has seemingly become the leader in generating images with crisp, clear text – a key challenge plaguing even the most advanced AI image generators. This week,"
+    publishedDateTime: 2024-02-29T12:31:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/startup-ideogram-leads-text-ai-image-generator-9188461/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/startup-ideogram-leads-text-ai-image-generator-9188461/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/startup-ideogram-leads-text-ai-image-generator-9188461/lite/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 55
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
-    excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
-    publishedDateTime: 2024-03-01T21:40:00Z
-    webUrl: "https://www.inc.com/sam-blum/elon-musk-wants-billions-to-fund-his-secretive-ai-startup-xai.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/elon-musk-inc-1948569318_538043_ndfgft.jpg"
-        width: 1024
-        height: 576
+      - url: "https://images.indianexpress.com/2024/02/ideogram-featured.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "uNLXAN4Dl7LypT2ELSC4RyWhqaLc/y7f89aXGHCk73HCp/RK6uxuIg0f0MD6LQ0mVxjXKspcMJeZPGRNirbHHd2Kko4K7+f2XWIusToemdBOb6zet7mVd/oAbCiengWpf9kaTJG5sYu+1VYsiS82348etzh6yA9EBBrrZ3G/czYXKJkv1/t/56hfLYVee/ABc0PY626Qlbj8YgXN4wqzT2xV8ngPbRk77lxKztCq9H3mxVLkHZoRNvJRJlmu4kzMIRznk4pLoZwSrosbOJ/cqbxeeikfCZwFaH4JqgsCcpu4/LCYDT9tqqQYKm1ad1W48dsY2vHMQMkSeoYcwuhEJ3dJ5zqfOB/c9gfngNWCqjnXLIQ/o5XO6Kb9pCqn2G7RlplgGwuf7Hki+WcryW5UN0/VdSQBGOeLgG9aN97uhuY02avOoGC7sHbAJhcUWXSojiQ5EgMgzOtk1aLce6MJq1W/Fje2lEpzAAsUxLdX8NmAuDdljtpSIHKQxD691OW6i2hfnjizs331sngtCS6OWA==;g8tSH3d5ioZLbt9ch32bnA=="

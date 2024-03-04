@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AI Startup Cohere Opens New York Office in Expansion"
-excerpt: "The startup, which develops foundation models that compete with ... Cohere said the new office will help it tap into the talent pool in New York, and support its work with enterprise AI adoptions with customers like McKinsey. \"New York is a critical ..."
-publishedDateTime: 2024-03-01T08:07:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
-webUrl: "https://money.usnews.com/investing/news/articles/2024-03-01/ai-startup-cohere-opens-new-york-office-in-expansion"
+title: "AI startup Cohere opens New York office in expansion"
+excerpt: "The startup, which develops foundation models that compete with OpenAI and focuses on serving enterprise customers, will house about 30 employees in its office in the Meatpacking District, home to major tech companies such as Google."
+publishedDateTime: 2024-03-01T15:07:00Z
+originalUrl: "https://www.aol.com/news/ai-startup-cohere-opens-york-130736511.html"
+webUrl: "https://www.aol.com/news/ai-startup-cohere-opens-york-130736511.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
 
-secured: "19du+IRTlKPrl6ykzlp6FLjr5ZNcAL7gbE1JQPJ1/WCHOvoa5PSgyTeQnsbPHAuJKtZ9KNjVjIXDbjFPAACZASBMdVwb7gSPG5XBEAXdn10y5xCdF9nDDm0j1TmpPR2prLQvZB5FYNtJ0KY4kmT3Lrvvv70Y1dbp1Q3jlXetQArU9o/KrboI4v2prDiFlD4C2nrG5uGBgWF+jkNNpeFJ5oqUdlY7c/RTemQiOqR4vppwUaXr5/+9CgCZlOHr4QH8VVpagJWptKEptyZQpzqy9fTlBlO4/5qnzC0Uib9hzjF4SWuXtvSrKUfpYXN4n5KmE1EyoQW7JNEl2F5KzOzLWTaFgvvaN9JSevOQ7BTmyo6cFLL8qPcJSzcIrWZbCinIROOeUk9aD0yy92Wz0bSuP5yqr8z7c4PaQnxPzRgDgerPjhWDtdpvnpAL2F7qR+G5vLLO5sl8784HPffU3waY8LqNZNETP8ghAd/IsKFOAYn2TXWGOLJo3VkMjffE+BQwtKLK5ky1u5Z0Ur6pbIHNmw==;VfTodJexiAS8ApsX1CSQLg=="
+images:
+  - url: "https://media.zenfs.com/en/aol_reuters_29/5e26b55f5894d7238b6d943584d27d8f"
+    width: 800
+    height: 522
+    isCached: true
+
+secured: "/CoJPulGFJf/wZy59fKV361vdJKB7eydqPxY3dpEA9sPulSVLwwDQZJOtcUszTKiV86oWgT0H2k3Oifk3GFsai1lULSkXNtfRHrgNCH4uJN4/Zh9SFVaEkZFM0TkEIc5ppJ5F8FN+UL9tdELaFg+PO4KvQw0BfSHoxAfJsi0PproTADt1pEOSGmN1V0vBkOlmDzDUyIbeztF337At+oZshO5P9EFmN6tRWEVHQHCOxIOS6LVBKzXubVzfhS22HnSedF2iR2+JDjgsjx1QuN74+vJLHI0iX58WExMfeyFcfv/Q098bOoafLIGFYhPEFWqd/zlr8fHPLar2PQG2B5YWHybpNyhNed9RVvbkRTbe6E=;nfYYZx+iUTz202b3G9A+aQ=="
 ---
 

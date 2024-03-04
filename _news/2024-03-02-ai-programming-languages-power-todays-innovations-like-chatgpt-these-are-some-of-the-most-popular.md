@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 type: article
 quality: 72
-heat: 102
+heat: 106
 published: true
 
 provider:

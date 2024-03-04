@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "5RPrkg4Nphs1MKJpp5o6YSglErWbSery3MleSFUWuNgkGxhxFbsmritpQLRVZHl2wgHwK0V+ygdGzLWdXidWr7RKdetOTO7DsNAV3+FnCIPAr5TujW/Wvljl3gB0pqVH5GjkO4GzEKfX/FozSNEEn4RIGcKOXHtcNzN4z6zP44DtfvcYxSqkzzvYcoDmV2J5dkVdaqtlEodZKsE/hbihiyRs7wi/ewvp89Q5VcNg+1UzxkY+WWqiH7j8zEz6+x9dTBJC0fBb7CQsy0djCbXj2Fes6fLW2ywK+xOv45TcpCqXliEnVMbhDEWe7kdugOHiyFf722CmX5r8nrq/yql4iQxVLYJh1nGE68w0SyBeehE=;cm350SraN91Z7oIFnYPqzA=="
+secured: "AN2CNkJJFlF/cXX6gKD5hQKzn135vpVxB5CHnzlRgbEn5Owy+Bf4ApiG/ZFK2HGrgfVYjLVm0X9CTBBkXItIxSEQQVT/Ed5rQmrv6KYMidVQA3R/wsWM9IijQPKFBIurn8fRvry2Bwo3pHPcNawiFGMKkEVidMABXXMu+3c/NG/B9kmYWJWAs9fOj7BTchQFAzAWW/8sqRuMSGVr3nqbCr5YjUcK8ejS4oSK5OUIzd0ZtFAhUCjFZj68oxvq12HIARC600GIwJVUo42YkCIiHTnXhWv7ENEq90vIXKPxuy7adHw/q89LShmFpUXIc0zwooiX35jFAq+Qgt+Z5fyF97jRd/I3kZSEbYr+ZUhU9KgXqRUGIJTJNEPx9AcPoWzxfgmGD7zDF9eHzdQ+83DAaROnSnG7r8iO4Bi4D4bFc6xOyKHp4silxuz6FQIYyWzkXuo1Ge/eqKgRDQlXBgN19lH4bw9EeOk4cljG9qlG3F6XtIlkkD4HDKfvxyM8hJ2DZ7Bgrb5XG0dH/rNVsdxyyQ==;4B0oQm4XnLkQ+hBeIp016A=="
 ---
 

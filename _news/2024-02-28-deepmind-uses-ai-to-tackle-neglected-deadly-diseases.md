@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind's Genie AI Model to Revolutionize Gaming by Turning Any Image Into Playable Video Games"
-    excerpt: "Google DeepMind's Genie AI model aims to make waves in the gaming industry by introducing a groundbreaking technology that transforms images into playable video games. \"The last few years have ..."
-    publishedDateTime: 2024-02-28T07:01:00Z
-    webUrl: "https://www.techtimes.com/articles/302124/20240228/google-deepmind-genie-ai-model-revolutionize-gaming-image-playable-video-games.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302124/20240228/google-deepmind-genie-ai-model-revolutionize-gaming-image-playable-video-games.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302124/20240228/google-deepmind-genie-ai-model-revolutionize-gaming-image-playable-video-games.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 58
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444184/google-deepminds-genie-ai-model-to-revolutionize-gaming-by-turning-any-image-into-playable-video-games.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Google DeepMind’s new generative model makes Super Mario–like games from scratch"
     excerpt: "Genie learns how to control games by watching hours and hours of video. It could help train next-gen robots too."
     publishedDateTime: 2024-02-29T12:57:00Z

@@ -173,20 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's AI Fights Phone Scams, Puts You in Control"
-    excerpt: "Cybercriminals trick you into sharing your sensitive data like bank details and credit card numbers to make unauthorised purchases or steal your money."
-    publishedDateTime: 2024-02-28T05:57:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsofts-ai-fights-phone-scams-puts-you-control-1723713"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1722534/microsoft.jpg"
-        width: 1280
-        height: 914
-        isCached: true
   - title: "Clifford Chance Rolls Out Microsoft-Partnered AI Strategy Across Whole Firm"
     excerpt: "The latest expansion comes after Clifford Chance became one of the first law firms to develop its own private and secured AI tool—Clifford Chance Assist—developed on Microsoft’s Azure OpenAI platform that was rolled out across the firm in December ..."
     publishedDateTime: 2024-02-28T12:15:00Z

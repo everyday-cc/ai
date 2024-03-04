@@ -1,29 +1,29 @@
 ---
 category: news
-title: "India conducted clinical trials for ‘haemophilia A’ gene therapy: Science and Technology minister"
-excerpt: "India has conducted the first human clinical trial of gene therapy for ‘haemophilia A’ at Christian Medical College – Vellore, Union Science and Technology Minister Jitendra Singh said on Wednesday. Singh said the trials involved deploying a novel technology of using a lentiviral vector to express a FVIII transgene in"
-publishedDateTime: 2024-02-28T15:30:00Z
-originalUrl: "https://theprint.in/india/india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister/1982529/"
-webUrl: "https://theprint.in/india/india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister/1982529/"
-ampWebUrl: "https://theprint.in/india/india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister/1982529/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister/1982529/?amp"
+title: "India conducted clinical trials for 'haemophilia A' gene therapy: Science and Technology minister"
+excerpt: "We are not only on the same page but, in some ways, even ahead of others, he said and added that scientists are also using human interface at different levels to enhance the effectiveness of artificial intelligence."
+publishedDateTime: 2024-02-28T15:33:00Z
+originalUrl: "https://www.devdiscourse.com/article/education/2843488-india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister"
+webUrl: "https://www.devdiscourse.com/article/education/2843488-india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister"
+ampWebUrl: "https://www.devdiscourse.com/article/education/2843488-india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2843488-india-conducted-clinical-trials-for-haemophilia-a-gene-therapy-science-and-technology-minister?amp"
 type: article
 quality: 46
 heat: 46
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_26_6465234.png?width=1280"
+    width: 1280
+    height: 723
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ooBl1MJ3HO4WKLpE84eiyXDMakrr8J+FbvT5AeTK4r4cHdM2HxhAv2+XE0uMRsTeDOX/r/bFCF7ptjuhLrYfixOp9Qy8VYH15EXqYy8dMUosMri4S44q42TvmsFYInvrMalJ74HK6SRzeLec1qa7V/+V3IjLhpe3tkpgbkwmOlX4I1dKwmIHNFDgv2vpQlXEQSvXOMquuCPHGfV7R7FinIuUpJeSf5bahiB0jB+5S3sRGeHHpGbE/4GMEHbDTyHc1VALkReBDUs0pKDKdzcUtodSXAB/hDzC8AbZP+CHk+uDXx2lmUBxXbNxMwIWKFcpmDRPWKFjkHR9tHrL7hQzrTJxRXZOzcBV/Cvetl4bLy8=;m8VA4YBvIw/vVjot2otJkw=="
+secured: "EvcBBGNVCXpKhUkIGCTG1PlIWuSD9c28ory41BCZ/U5ggORk0DFAOhd9lXcz8D1mRIXu+04zptIBOMlAETqSZUkwb+INee6FDBxW0wF8VW5J1AjhmsRUTENimzwxKs4lIsW/30S4TpGkZ6V+HQ8+IWxvqlR3S+E43Q7g7//EG+ZFojgV2IEEljuVJduoesrNyu6skjztoig0aS+DEVrOoEQyGnBRNg5djt98BGYkghEzDgtvLhv9yGpf9oYENaUzeR1S45nMkJhmfRylFqR355qat3EU5xqIg95CXmoc3duUwstW9fsaxMgYBC0kRdkxv86qBrFgQLY1rVIHGZByoK0FcDizqxhyahQt2Xk04gw=;fWknLAUGnvf8Rh62LSFtXA=="
 ---
 

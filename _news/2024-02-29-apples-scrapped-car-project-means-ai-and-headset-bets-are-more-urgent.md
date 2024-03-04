@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/"
 webUrl: "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       name: Deccan Herald
       domain: deccanherald.com
     quality: 4
+  - title: "Apple shelves major self-driving electric car project and lays off staff after multibillion dollar investment – report"
+    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
+    publishedDateTime: 2024-02-28T18:29:00Z
+    webUrl: "https://www.aol.com/apple-shelves-major-self-driving-041325998.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
+        width: 1200
+        height: 836
+        isCached: true
 
 secured: "mfCQ8d4IrXn3OQSP3/e32FO+ab0NtOvKL0uMXeSqleDeWEQ8uRW+pLrEhzxE/NKJjBBOMnLNeGTNgmSSjLK6EK3Vsrrp4qTfLTTQ3OxNiGHiOOhHvF/ZxEe85iHfjayhhrzvCHwJzYzVthu1oLgP2hB4Mgl1Aoe0Y3yuO8LlD8fA7IkR7zlREFj9vqG/IHGZPyjp43nH39p4x3ejbYWyogAB8zNW4MvaDCSzW/WfBZJNxLoIU21/tk66jLgTAoERA6ahAYlRUwJMQbVt15vKuBFT25vnL8Plgx3ep4xwmb4y5JqR7IsOwEWc9mjXDwY13Dju9qywp8YnKJK7s6QCCKD3gnnG1DDsK2dPTR30joo=;FPFivWUnKmg2rirJhlumyw=="
 ---

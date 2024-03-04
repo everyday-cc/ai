@@ -7,8 +7,8 @@ originalUrl: "https://theconversation.com/ai-could-transform-ethics-committees-2
 webUrl: "https://theconversation.com/ai-could-transform-ethics-committees-224424"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Conversation
@@ -36,6 +36,20 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 39
+  - title: "How AI Could Reshape Medicine"
+    excerpt: "Not being fluent in the local language, I used a translation app that enabled me to convey the urgency ... With recent studies showing that AI models can now identify early signs of health complications such as sepsis, these technologies are poised to ..."
+    publishedDateTime: 2024-03-03T23:27:00Z
+    webUrl: "https://menafn.com/1107929168/How-AI-Could-Reshape-Medicine"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?776993"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "KPKtQFWdjjNqnDmR/AwzADQlspAvoRqgvDQodcRccdEi7MJowMNLZkGcK7LmPmnmRxLFryxxCIZWMSiFf0meLuiJ26A17NXMAvFWdHeH1TiuygDsOxzMCyobqgQAOU/rAYdAu0JPxT4G1FrL+mBWNX/jfBydFt5eUfFS7KchGo7X4zGad9KnC8mg1yXHDTMRZsOitUV40C0mOtn1rI8rl8erpT5bOficWhWt5JczTsp0rsxCapJJAd1oGhCNoj2frKMFekUV3tAbBZn9HcqQH1FZMJCeNhhbCm4Wiv9ROsglDaAcNc+LgROvJhpf7aXnR8LYBsg81qwmewZLqFjKJ+Y5jWabr96VyV8b7fyCq0FE+0POrKNzONHuAl67oF8BZ6fG9S7kU79/aKrECeRyD/V1/SKmWyhyBT/Bo73H/gCPr+nxlpiN2HkEKLRQbe0+5xGGbFCrF7hxA7UuQI9UdvPJGZFaAtMy1w03dpFUb+VXU5dBNVCGlrWsjm5xUeSq85ipMJPtdGJAhGNZ4GZzPg==;wJLobiE9OyLj+13MwB5rDA=="
 ---

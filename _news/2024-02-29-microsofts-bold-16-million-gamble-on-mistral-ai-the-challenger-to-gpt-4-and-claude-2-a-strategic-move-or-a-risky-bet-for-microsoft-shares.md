@@ -175,20 +175,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's AI Fights Phone Scams, Puts You in Control"
-    excerpt: "Cybercriminals trick you into sharing your sensitive data like bank details and credit card numbers to make unauthorised purchases or steal your money."
-    publishedDateTime: 2024-02-28T05:57:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsofts-ai-fights-phone-scams-puts-you-control-1723713"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1722534/microsoft.jpg"
-        width: 1280
-        height: 914
-        isCached: true
   - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
     excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."
     publishedDateTime: 2024-02-29T13:00:00Z

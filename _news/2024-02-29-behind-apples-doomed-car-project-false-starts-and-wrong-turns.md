@@ -61,6 +61,20 @@ related:
       name: Deccan Herald
       domain: deccanherald.com
     quality: 4
+  - title: "Apple shelves major self-driving electric car project and lays off staff after multibillion dollar investment – report"
+    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
+    publishedDateTime: 2024-02-28T18:29:00Z
+    webUrl: "https://www.aol.com/apple-shelves-major-self-driving-041325998.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
+        width: 1200
+        height: 836
+        isCached: true
 
 secured: "mi+c3e+2zDGNoBQT6fVrXxl7/U8kV7u3VgvpvXQBqGCETM1n7TGfU9j43+RQT5GOnusz2Pb43UKBXVwwmg24H4e8Pf/NN1PedtLjkkvHPsDFihnePUrD5qPucTbv7hRQMzBbVPQ491a6bRQHppHHhPsQCxSDplyZ5Ir2cbnwaXGhnrZLBPvESfVdOjNLRKu+QXT/7t5Vt6WD14ARihOEkMMnWRuulZPmE7aWMkcYouo6qOG9EHb0Mk21xAZUm9z4qeyQaopj3/lj04G857akaFmF1dXgezK3fK0mrHAyALuFdHLbevbSyiq5Iyw9NYvozAP0dmlvQq8lbN9WspSYFhs4g97u3CXby/GJ1qtyBQlQUQ3CW43eGm4RdWUVD3Bvut5rOBEnCQ8ZNrsoK9oZgahNNC3dpHGD+HLlTgpcTCQQltGNzc4c/IBKtSenmvgeYhmsLQIpqt3QgGYm2d8y5UJZSTOjMTX3lnwn2qNL4CkmFblAiwg2yxZT01zYojC8BGzUTAooAYLvnpn8wQJe7Q==;bXrKdJ4ocE9vWi4svA3dkQ=="
 ---

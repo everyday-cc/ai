@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/29/google-latest-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107374413-1708024437471-gettyimages-1992338676-AA_10022024_1525083.jpeg?v=1709322946"
         width: 7373
         height: 4918
-        isCached: true
-  - title: "Android users, Google Gemini AI magic will soon be at your fingertips"
-    excerpt: "Google has announced its intentions to integrate its advanced AI language models, dubbed Gemini, directly into Android smartphones starting in 2025."
-    publishedDateTime: 2024-02-28T05:31:00Z
-    webUrl: "https://www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html"
-    ampWebUrl: "https://www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html/amp/"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/Gemini-3.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Google's AI Bias Blunder with Gemini Prompts Commitment to Change"
     excerpt: "\"We cannot be certain that there is no inherent bias within the AI models since it is often latent until some use case exposes it,\" Joseph Regensburger, VP of Research, Immuta, told Tech Times in an interview. He explained that, for the most part ..."

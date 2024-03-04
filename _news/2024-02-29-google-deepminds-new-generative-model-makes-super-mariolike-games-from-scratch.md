@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google DeepMind's Genie AI Model to Revolutionize Gaming by Turning Any Image Into Playable Video Games"
-    excerpt: "Google DeepMind's Genie AI model aims to make waves in the gaming industry by introducing a groundbreaking technology that transforms images into playable video games. \"The last few years have ..."
-    publishedDateTime: 2024-02-28T07:01:00Z
-    webUrl: "https://www.techtimes.com/articles/302124/20240228/google-deepmind-genie-ai-model-revolutionize-gaming-image-playable-video-games.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302124/20240228/google-deepmind-genie-ai-model-revolutionize-gaming-image-playable-video-games.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302124/20240228/google-deepmind-genie-ai-model-revolutionize-gaming-image-playable-video-games.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 58
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444184/google-deepminds-genie-ai-model-to-revolutionize-gaming-by-turning-any-image-into-playable-video-games.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "O++zvpPNC7PEYANDbVUSWyFi+np4OXYJOW1rw7jgSABTjo4qcPCWsN1Tonja48/B5PO7FXezrl+cbbl5vOGYi/xrs2lL5qP8NNE6CmlhFY5+Q5194Xg8C5WtehmS7s7942U96sNFumhPAgM25mmv02P4X/unN8PiErTFvTNutDe3jM8MH4gTmwLoUwpFTFLX1mXLj56YTYFjavHv/MS6GpW/J6EutiAyJ6S0KlKHXebFajxpMvqXRJ+tH66NYL8dI2eg9sxRVItNRCoDZbVh1Mxa30ob0eXrdMhbgx68kjhlIubehBGuLMzF04IYKpWODqCdw34REt13OJwEAfEUO0V8OrhIOh6ytaNTvIoS2qCENRe2LCKzGhVuxl7FJ20diryyZS+I+KEKIfBVGq03dNCd9fjTTAkGgytPULC7Q4E3XyOCIu2D72PR7SE54ALICduHKx9/QMawzgMPaIE9z7fUXJvPcl06WNkldw4wrLRgEJvuIqE5d/Cp2NJr9h4ywxVG3InfmQ8xwJiMd1QkfQ==;7tXl8/SEiar/56CtjCVZbA=="
 ---

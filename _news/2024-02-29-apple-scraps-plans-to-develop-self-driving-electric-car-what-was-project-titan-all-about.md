@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple unplugs self-driving electric car project, reports say"
-    excerpt: "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people."
-    publishedDateTime: 2024-02-28T06:50:00Z
-    webUrl: "https://www.bbc.com/news/business-68420817"
-    ampWebUrl: "https://www.bbc.com/news/business-68420817.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Apple's failed 'Project Titan' was a Full Self Driving gamble"
     excerpt: "Apple's recently-abandoned \"car project\" shifted gears several times over the past decade, but ultimately the challenge of FSD proved insurmountable — and continues to elude the industry as a whole."
     publishedDateTime: 2024-03-03T15:39:00Z
@@ -74,94 +58,6 @@ related:
       - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/02/shutterstock_231155773-scaled.jpg"
         width: 850
         height: 567
-        isCached: true
-  - title: "Apple Ends Secret Self-Driving Car Project, Shifts to AI"
-    excerpt: "Apple halts its decade-long Project Titan, shifting focus from electric vehicles to AI, underlining greater potential in powering products with Siri and search."
-    publishedDateTime: 2024-02-28T06:20:00Z
-    webUrl: "https://www.cryptotimes.io/2024/02/28/apple-ends-secret-self-driving-car-project-shifts-to-ai/"
-    type: article
-    provider:
-      name: cryptotimes
-      domain: cryptotimes.io
-    quality: 39
-    images:
-      - url: "https://www.cryptotimes.io/wp-content/uploads/2024/02/Apple-Ends-Secret-Self-Driving-Car-Project-Shifts-to-AI.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Report: Apple Abandons Self-Driving Electric Vehicle Initiative, Plans Workforce Reductions"
-    excerpt: "Apple has reportedly terminated its self-driving electric car project permanently, leading to impending layoffs of 'hundreds of employees' within the division. The decision marks a significant shift for the tech giant,"
-    publishedDateTime: 2024-02-28T05:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/articleshow/108061356.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/auto/cars/report-apple-abandons-self-driving-electric-vehicle-initiative-plans-workforce-reductions/amp_articleshow/108061356.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-108061317,width-1280,height-720,resizemode-4/108061317.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Apple unplugs its decade-long dream to build self-driving electric cars, company executives announce"
-    excerpt: "Several employees associated with project will reportedly be shifted to company’s generative AI projects while others will be given time to find reassignment to other roles in company"
-    publishedDateTime: 2024-02-29T05:38:00Z
-    webUrl: "https://www.telegraphindia.com/business/apple-drops-ev-project/cid/2003706"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/apple-drops-ev-project/cid/2003706"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/apple-drops-ev-project/cid/2003706"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 29
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2024/Feb/1709170062_apple.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Apple Cancels its Plan to Build Self-Driving Cars, Reports Say"
-    excerpt: "Apple has reportedly canceled all its plans to build and launch self-driving electric vehicles (EVs) exactly after a decade it was rumored to be working on the project. However, the company never publicly acknowledged the project that involved around 2k people."
-    publishedDateTime: 2024-02-28T06:15:00Z
-    webUrl: "https://www.opprairie.com/news/apple-cancels-its-plan-to-build-self-driving-cars-reports-say/108814/"
-    type: article
-    provider:
-      name: The Orland Park Prairie
-      domain: opprairie.com
-    quality: 24
-    images:
-      - url: "https://www.opprairie.com/wp-content/uploads/2024/02/Apple-Car.png"
-        width: 748
-        height: 366
-        isCached: true
-  - title: "Apple's self-driving EV car is not coming; project canceled, layoff likely: Report"
-    excerpt: "The Apple car project, at its peak, had a workforce of around 1,400 employees. Some of these employees will be reassigned to Apple's generative AI (GenAI) projects, as the company continues to explore the potential of artificial intelligence."
-    publishedDateTime: 2024-02-28T10:29:00Z
-    webUrl: "https://www.ibtimes.co.in/apples-self-driving-ev-car-not-coming-project-canceled-layoff-likely-report-866425"
-    type: article
-    provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 18
-    images:
-      - url: "https://data1.ibtimes.co.in/en/full/598822/apple-logo-seen-inside-apple-store-palo-alto.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple shelves major self-driving electric car project and lays off staff after multibillion dollar investment – report"
-    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
-    publishedDateTime: 2024-02-28T18:29:00Z
-    webUrl: "https://www.aol.com/apple-shelves-major-self-driving-041325998.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
-        width: 1200
-        height: 836
         isCached: true
 
 secured: "CfU2zCXN6TAN77BhQIgR73mOw8Jb32A9lpNUXxm9l2mXMir6ksU7N8qxwtiLRDhWs9qHAe4fKoANrn0mEwh6aHxgJfq/sLADOcbieQtJ73n5M3oItxMFz+HU85axchjiVEytVwniGizq9J1Ydfzus9yQT0PN7EtXObNqn5kEggP55P1Y+jixHA6xTnDz5c0/zJTh0B+5nAODp/9h+f55HOJUF3LG0TnHuKC6XuoSNQ1LXy15COmWbYWKsvn+S/XiHxYmW+LUbJEw3XZc4gvTac9F1x2U8XDRF4/gsEb6nqz7z/YNhJM+EgcP1+QLS7N/vxkIssRissZQB6IzpXfc9+FGULJmjrbepO8GPzC4u9XAXnu96R2z/lTVZUMvHMDxTIyYRT29yHXHICGBgJ0JT73CLpStklj+Xdxza05GYBwD2mr3fzqjwzE+eTKqphvQWWsKOIrpkaucxAh8SyuYb+/xQB9rbTrT9aXlpPMzBdF9/SmG0dlo8MHWnnKBUZVDLWJoAjRAtkaelnBgeDXS3A==;lkJP0Uq1pDXniK4J2eBDag=="

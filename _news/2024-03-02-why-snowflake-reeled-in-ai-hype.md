@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/"
 type: article
 quality: 87
-heat: 110
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Buy Rating Affirmed for Snowflake: AI Tailwinds and Strong Q4 Deals Signal Upward Potential"
-    excerpt: "Analyst Mark Murphy of J.P. Morgan maintained a Buy rating on Snowflake (SNOW – Research Report), with a price target ... including Snowflake’s potential to benefit from artificial intelligence as a growing tailwind and the closure of significant ..."
-    publishedDateTime: 2024-02-28T05:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-snowflake-ai-tailwinds-and-strong-q4-deals-signal-upward-potential-1033113237"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "The Focus Is On AI for Snowflake's Earnings"
     excerpt: "Snowflake stock has been on a tear, driven by hopes the cloud-based data warehouse software company will benefit from the generative artificial intelligence trend, and that the pace of corporate spending on cloud computing will pick up."
     publishedDateTime: 2024-02-28T08:15:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
-excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
-publishedDateTime: 2024-02-28T06:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+excerpt: "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network."
+publishedDateTime: 2024-02-28T14:48:00Z
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 quality: 84
 heat: 104
@@ -29,15 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Ideogram Raises $80 Million for AI Image Generation"
-    excerpt: "Ideogram, a company developing artificial intelligence image generation technology, is raising $80 million from investors — a large round for a startup that’s less than two years old. The Toronto-based startup is set to announce its Series A funding ..."
-    publishedDateTime: 2024-02-28T16:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-28/startup-ideogram-raises-80-million-for-ai-image-generation"
+  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
+    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
+    publishedDateTime: 2024-02-28T14:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 47
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
     excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
     publishedDateTime: 2024-03-01T21:40:00Z
@@ -53,6 +58,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Z8v6AVLBKIZVLtJQBAHJraf/AmEdS/YDkMp8szcNica7kN4ih1SbPZC/ianyTcTzs1r2t4apQ4voXHsZYgLgTptFwuUVCyWAATSsGfAF8LWBAhGRw4GuAb4PExdPHLNSl18YDohwQMAjrOSp9CStltek25dU2N/7MhqrxlS/Mv/nMcp3Xc5rOagGYmHF07hL2Z/Zar8hQ0TK6ceOFDClJ+OcYoeiu/3mooeFkLK3RsrBa2wtQejnoGAlseR/9ENRy4XYnc7eqFwaldUWxrL/r7mDJICIPrrm2xEHDD3ev3HiJ1GyBkfInCz8gwMCh6mWS0BRe+5LvWTKGlmgoTNUaojM9zhM6djZcmP6PRwzOqc=;d3haRsNeFhKnr6k1OcUBxA=="
+secured: "aPI0x1dQpeYRgf7Xm27JZ/eXGvNUTyAimile0E7yp++z1mpRyKpYad7nedotb+3thq0iLpCo+CHyzrML2j5zF4EIwyCpqzJ1N6U+cdEPmeaUAjvtBk/1Wm9hCFK6boyafSyYf0WI7ClNxfKkxfwgPN8+CQT0MkGlY5wrAxud/bMDbqUDivJdmQlCLEuwt0unpcVtKDBJz9KsessYZHQng/fUI3hmu5HfWG+aZbSJ7feNlfyLWUYxLHN/8IgM+uZfAYNkN/ND/t63OVrw4chDQ0MzVMGDaVuMblHaiajSY8xtX9RLOk4WvC1+YYD3kd4B1u6UITPvDkSQh26cE4mrqo4PlBhLHdBZiFPcRWTPH5k=;uerByXU5dEIwOCfNy2KK6w=="
 ---
 

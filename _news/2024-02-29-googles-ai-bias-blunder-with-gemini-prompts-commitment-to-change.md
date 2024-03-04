@@ -75,22 +75,6 @@ related:
         width: 7373
         height: 4918
         isCached: true
-  - title: "Android users, Google Gemini AI magic will soon be at your fingertips"
-    excerpt: "Google has announced its intentions to integrate its advanced AI language models, dubbed Gemini, directly into Android smartphones starting in 2025."
-    publishedDateTime: 2024-02-28T05:31:00Z
-    webUrl: "https://www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html"
-    ampWebUrl: "https://www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/android-users-google-gemini-ai-magic-will-soon-be-at-your-fingertips.html/amp/"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/Gemini-3.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google’s AI Struggles: Gemini isn’t too woke. It’s too rushed"
     excerpt: "It shut the feature down, and then made the problem worse by firing two of its leading AI ethics researchers. These were the people whose job was to make sure that Google’s technology was fair in how it depicted women and minorities. Not overly diverse ..."
     publishedDateTime: 2024-02-29T06:17:00Z

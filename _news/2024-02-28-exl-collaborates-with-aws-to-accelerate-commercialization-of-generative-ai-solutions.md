@@ -25,52 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "InnovationRx: Exploring The Future Of Healthcare AI"
-    excerpt: "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal."
-    publishedDateTime: 2024-02-28T22:19:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
+  - title: "Amazon to spend $1 billion on startups that combine AI with robots"
+    excerpt: "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network."
+    publishedDateTime: 2024-02-28T14:48:00Z
+    webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
-    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
-    publishedDateTime: 2024-02-29T23:37:00Z
-    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
+  - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
+    excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
+    publishedDateTime: 2024-03-01T21:40:00Z
+    webUrl: "https://www.inc.com/sam-blum/elon-musk-wants-billions-to-fund-his-secretive-ai-startup-xai.html"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 65
+      name: Inc
+      domain: inc.com
+    quality: 39
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
-        width: 770
-        height: 500
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/elon-musk-inc-1948569318_538043_ndfgft.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
-    excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
-    publishedDateTime: 2024-03-01T05:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-  - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
-    excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
-    publishedDateTime: 2024-02-28T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-innovators-3-future-stock-leaders-to-watch-now-1033114109"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "FH8bGBNOMQdJM4O0r9liZSDArjg6c6T/WvD99CjLPhlFygrBPKl0N/LdcP82zPKsuLrzBK3wYkdFkg/2MhdSOTzNM62p/2YdrWx7XSMXsNagQfRFKN9KQUF6DctUH0o/BQLm8hYqUldScbScb+NjB97CanEbe/ApIuJWkByduunu+lWpSDiSxfyzAgWQl1E+9aW1rRHCaUlQjsl1nLre+7gv+JZkuO6QTs64N5ySEHXdl7OYacFTD/SiZTXvSab6281CsMA1HVJKIs33t0RyDUygjjGov7IMW//IDn4GlgoCiJpj7kZaIlBwrgoXz43aKL12tqmeuyINZ+vOqIp0aOBoPzvGv9a02NTlTlG46zM=;m/JDTKfLe7C7uMg0W4sqAw=="
 ---

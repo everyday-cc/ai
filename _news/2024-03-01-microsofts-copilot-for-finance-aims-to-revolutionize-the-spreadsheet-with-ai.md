@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-
 webUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/"
 type: article
 quality: 97
-heat: 277
+heat: 267
 published: true
 
 provider:
@@ -163,20 +163,6 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/02/28/GettyImages-2035610988.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft's AI Fights Phone Scams, Puts You in Control"
-    excerpt: "Cybercriminals trick you into sharing your sensitive data like bank details and credit card numbers to make unauthorised purchases or steal your money."
-    publishedDateTime: 2024-02-28T05:57:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsofts-ai-fights-phone-scams-puts-you-control-1723713"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 54
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1722534/microsoft.jpg"
-        width: 1280
-        height: 914
         isCached: true
   - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
     excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."

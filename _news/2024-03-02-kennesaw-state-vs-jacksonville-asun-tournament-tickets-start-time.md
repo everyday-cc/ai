@@ -102,6 +102,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Auburn vs. Arkansas SEC Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 10 seed Arkansas Razorbacks (18-13) will play in the SEC tournament against the No. 7 seed Auburn Tigers (19-10) on Thursday at Bon Secours Wellness Arena, beginning at 6:00 PM ET. Watch college basketball ..."
+    publishedDateTime: 2024-03-04T06:21:00Z
+    webUrl: "https://www.wtvm.com/sports/betting/2024/03/07/auburn-vs-arkansas-buy-sec-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WTVM
+      domain: wtvm.com
+    quality: 20
+    images:
+      - url: "https://gray-wtvm-prod.cdn.arcpublishing.com/resizer/v2/EE7GUJEFNVLWZPVRG25U6JVY7I.jpg?auth=5fbedb548f30f203187fb13f2847be103e1ca90d2aad80d940e939d093018f2f&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Texas A&M vs. Mississippi State SEC Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 8 seed Mississippi State Bulldogs ... Florida International March 7 Women's Basketball Tickets & Start Time Texas Southern vs. Prairie View A&M March 9 Women's Basketball Tickets & Start Time UT Rio Grande ..."
+    publishedDateTime: 2024-03-04T06:22:00Z
+    webUrl: "https://www.ktre.com/sports/betting/2024/03/07/texas-a-m-vs-mississippi-state-buy-sec-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KTRE
+      domain: ktre.com
+    quality: 14
+    images:
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/4R5HGBK3ZNMZNB4M67CYKFZDWQ.jpg?auth=8f51a503e36ed1f2c8c35e595af5c12548e6984ddac67576d64aee9c14372944&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Northern Kentucky vs. Oakland Horizon Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 8 seed Oakland Golden Grizzlies (12-16 ... Western Michigan March 6 Women's Basketball Tickets & Start Time Akron vs. Ohio March 6 Women's Basketball Tickets & Start Time Miami (OH) vs. Ohio March 9 Women's ..."
     publishedDateTime: 2024-03-03T06:20:00Z
