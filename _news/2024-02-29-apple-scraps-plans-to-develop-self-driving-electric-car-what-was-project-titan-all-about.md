@@ -43,22 +43,6 @@ related:
         width: 890
         height: 496
         isCached: true
-  - title: "Apple pull the plug on self-driving electric car project"
-    excerpt: "Apple has reportedly decided to cancel its plans to develop electric vehicles (EVs), a project that has been in the works for around a decade."
-    publishedDateTime: 2024-02-28T09:35:00Z
-    webUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/"
-    ampWebUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 44
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/02/shutterstock_231155773-scaled.jpg"
-        width: 850
-        height: 567
-        isCached: true
 
 secured: "CfU2zCXN6TAN77BhQIgR73mOw8Jb32A9lpNUXxm9l2mXMir6ksU7N8qxwtiLRDhWs9qHAe4fKoANrn0mEwh6aHxgJfq/sLADOcbieQtJ73n5M3oItxMFz+HU85axchjiVEytVwniGizq9J1Ydfzus9yQT0PN7EtXObNqn5kEggP55P1Y+jixHA6xTnDz5c0/zJTh0B+5nAODp/9h+f55HOJUF3LG0TnHuKC6XuoSNQ1LXy15COmWbYWKsvn+S/XiHxYmW+LUbJEw3XZc4gvTac9F1x2U8XDRF4/gsEb6nqz7z/YNhJM+EgcP1+QLS7N/vxkIssRissZQB6IzpXfc9+FGULJmjrbepO8GPzC4u9XAXnu96R2z/lTVZUMvHMDxTIyYRT29yHXHICGBgJ0JT73CLpStklj+Xdxza05GYBwD2mr3fzqjwzE+eTKqphvQWWsKOIrpkaucxAh8SyuYb+/xQB9rbTrT9aXlpPMzBdF9/SmG0dlo8MHWnnKBUZVDLWJoAjRAtkaelnBgeDXS3A==;lkJP0Uq1pDXniK4J2eBDag=="
 ---

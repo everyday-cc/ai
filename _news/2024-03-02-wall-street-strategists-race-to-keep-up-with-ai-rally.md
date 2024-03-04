@@ -22,6 +22,22 @@ topics:
   - AI
   - Meta AI
 
+related:
+  - title: "Federal regulators, scrambling to keep up with AI in health care, team up with industry to set standards"
+    excerpt: "Federal regulators, scrambling to keep up with AI in health care, are teaming up with industry group Coalition for Health AI to set standards."
+    publishedDateTime: 2024-03-04T09:30:00Z
+    webUrl: "https://www.statnews.com/2024/03/04/regulating-ai-health-care-chai-fda/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 22
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2024/03/AdobeStock_317687329-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "dpo4skgJUKeupYvaiQ6KfxlYLjtKSia1/Vmccilzu5kZAQoIb1LcHGmh7OVmhiIopKaUW9KhCPRACw394b2/PabCvXlO38BSJF6jlbLW7Htc8dP6BWqcJTT++jNVt25+vbuXtqFCvDpIdFl+kcoLAE3KfnM6kvhpa2jkIYWbY4oLVGGc8YKJGHbKoMkUp9nVGNZPz3IdqEzt8zH/Qw0Yux4DCs0dRG9rFzeKiR80JuJiP+CUP37Lvz7aPOCOvMaxwAnJQBH5lMET2wEI2raowl3cVpy1ytr3n0geg67tfgKrcKdI4us8Yll1yp0vk40g2nw32iugZqKN3240gpOhJs+gkugQL1qaGNReuHTl9mq4hekhFk9INjgvLxRq7cC4pP/oWxTq0yVsgoEFDMWPXIZGFso+pqgs1/Bd8HfYLCPXYWFdmfwTOnQlw+CcKpTARGeLL5r7T1FTFKxi6trOPq+KJi2F50QfmBdBy85hPNfvsFlvkGgKfTa/daxpg+iOuxunZ6YtUd8S+OUgkfPJaw==;QYM4o3LNwJcF7fabi8p9Nw=="
 ---
 

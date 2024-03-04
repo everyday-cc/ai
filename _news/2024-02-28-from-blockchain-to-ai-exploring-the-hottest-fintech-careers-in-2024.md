@@ -35,6 +35,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "Interview With Piyush Rohella: A Leader In Payments And Fintech"
+    excerpt: "Thank you, Piyush, for sharing your valuable insights and experiences in the payments and fintech industry. Your innovative contributions and leadership have undoubtedly made a significant impact, shaping the landscape of financial services and inspiring others to pursue excellence in their work."
+    publishedDateTime: 2024-03-04T10:42:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/interview-with-piyush-rohella-a-leader-in-payments-and-fintech"
+    ampWebUrl: "https://www.outlookindia.com/amp/story/business-spotlight/interview-with-piyush-rohella-a-leader-in-payments-and-fintech"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/amp/story/business-spotlight/interview-with-piyush-rohella-a-leader-in-payments-and-fintech"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 24
 
 secured: "9qC+zNtkHoSyKfhbDIZjRcSbmHfBzGeS9pRPyEjK4KLJTMncleJ0vO07vifjC8jkupjMfiMbGmhiekv96IWwMD5gvvGqp+B7oEFGhW+kmJuTJRiyWC4O3sM8TyXysc8rFPFFYkqRuKQM9FJraokPUuPPVUSlxECBZykO4CVQhbNhH5Uz8AcNQlZp5/My0eR05JSl/BZ1zqphjUZbem8Ozi8U6O7ZQtifpij3QNKU1afU14ChzwTrwkKPDNo9+Xj79C6GrVuDq6GQePKlRq2axZzLXZAOg1vLYTx3rGR+D+zWm+VNK70LtS2jAOt+hO8mbM8dkmMAraIxTD0sXAtI1LBW7j20ZtlcUDKWZ65yqppXAXdRkvaVRgu5t07HbxpBcvjk0qvFpykkZ+H/J1DFKByHiCv3xApVByJPqy0i88GnJFHUmKMjqxKKlj3BM8xpvSNlN5T5JbrSKohld/Hq9wALV8+6+MUQNFahbPGnxODN8fZiBDc9KoNqexnfrtdyzNgi6TJuRBtdBZ6o6keogQ==;bywwmcgSxDMmYMmGo2e7cg=="
 ---

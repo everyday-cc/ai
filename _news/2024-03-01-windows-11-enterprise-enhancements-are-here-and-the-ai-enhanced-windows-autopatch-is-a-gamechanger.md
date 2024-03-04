@@ -37,7 +37,7 @@ related:
     provider:
       name: Israel21c
       domain: israel21c.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://static.israel21c.org/www/uploads/2024/02/techsomed_pic004.jpg"
         width: 1600

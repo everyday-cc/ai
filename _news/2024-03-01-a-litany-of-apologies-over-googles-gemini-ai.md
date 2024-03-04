@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down"
+    excerpt: "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ..."
+    publishedDateTime: 2024-03-04T10:40:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/eb501fa7b639781afa61e6952318ef6629691191/2024/03/01/d9070712-3fd3-42bb-8871-19d5474295c4/gemini-versus-chatgpt-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Latest Debacle Has Paused Gemini AI Model"
     excerpt: "Google just paused its newest AI tool called Gemini, formerly Bard, that creates images of people. This is another big mistake, as Google is striving to get on par with new rivals from OpenAI and Microsoft in using generative AI. Since OpenAI officially ..."
     publishedDateTime: 2024-02-29T09:36:00Z
@@ -87,38 +103,24 @@ related:
         width: 1024
         height: 664
         isCached: true
-  - title: "Google’s AI Struggles: Gemini isn’t too woke. It’s too rushed"
-    excerpt: "It shut the feature down, and then made the problem worse by firing two of its leading AI ethics researchers. These were the people whose job was to make sure that Google’s technology was fair in how it depicted women and minorities. Not overly diverse ..."
-    publishedDateTime: 2024-02-29T06:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html/amp"
+  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
+    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
+    publishedDateTime: 2024-03-01T13:54:00Z
+    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/gemini-ai-bbo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Google's Gemini opens our eyes to who we really are: Guinea pigs for gen AI"
-    excerpt: "Google's new chatbot is not too woke, but too rushed. Rather than waiting for regulation to catch up with constantly evolving technology, it is for tech firms to invest in AI safety and quality."
-    publishedDateTime: 2024-03-01T08:28:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai-11709207534655.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
+  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
+    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
+    publishedDateTime: 2024-03-03T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/Gemini-1-0--since-its-release-in-December--is-avai_1708940818688_1709239719726.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google CEO acknowledges bias in Gemini AI, vows swift action"
     excerpt: "Users express concern while Google takes swift action to address issues with its AI model–Gemini, pledging structural changes."
     publishedDateTime: 2024-02-28T23:22:00Z
@@ -133,34 +135,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Gemini tips and tricks: Put Google's most capable AI model to good use"
-    excerpt: "Google's AI specializes in language translation. You can ask Gemini to translate a saying or copy a document into another language. It also considers context and tone for improved translations (ones that sound more natural). Gemini seems to be more consistent with translation than other LLM-based AIs."
-    publishedDateTime: 2024-02-28T17:39:00Z
-    webUrl: "https://www.androidpolice.com/googe-gemini-tips-tricks/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 38
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-omelette-samsung-galaxy-s24-plus-1.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
-    excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
-    publishedDateTime: 2024-03-01T17:47:00Z
-    webUrl: "https://www.thedrum.com/news/2024/03/01/weekly-ai-recap-musk-sues-openai-google-sorta-apologizes-gemini-controversy"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 33
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/adobestock_588907775_editorial_use_only.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Move over Gemini and ChatGPT — Meta is releasing 'more responsive' Llama 3 AI model in July"
     excerpt: "Meta is launching its next generation artificial intelligence model Llama 3 this July. It will be a fully open source alternative to the dominance of OpenAI’s GPT-4 and Google’s Gemini. First reported by The Information, the new version of the popular ..."
     publishedDateTime: 2024-02-28T23:59:00Z
@@ -170,6 +144,20 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 26
+  - title: "Meta To Release Llama 3 in July, Outperforms GPT-4 and Gemini"
+    excerpt: "Meta is planning to release Llama 3 in July, reported The Information, citing sources familiar with the matter."
+    publishedDateTime: 2024-02-29T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/meta-to-release-llama-3-in-july-outperforms-gpt-4-and-gemini/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/meta-llama-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google can’t guarantee its Gemini genAI tool won’t be biased"
     excerpt: "Google's new text-to-image generator displayed glaring biases after only three weeks online. After taking the tool offline last week, the company said it will never be 100% sure the same issues won't resurface."
     publishedDateTime: 2024-02-29T15:00:00Z
@@ -179,52 +167,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
-  - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
-    excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
-    publishedDateTime: 2024-02-28T19:14:00Z
-    webUrl: "https://www.kpbs.org/news/science-technology/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 19
-  - title: "Meta Wants Llama 3 to Handle Contentious Questions as Google Grapples With Gemini Backlash"
-    excerpt: "As Google grapples with the backlash over the historically inaccurate responses on its Gemini chatbot, Meta Platforms is dealing with a related issue. As part of its work on the forthcoming version of its large language model,"
-    publishedDateTime: 2024-02-28T14:31:00Z
-    webUrl: "https://www.theinformation.com/articles/meta-wants-llama-3-to-handle-contentious-questions-as-google-grapples-with-gemini-backlash"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 14
-    images:
-      - url: "https://tii.imgix.net/production/articles/12353/16bd3521-2ac6-4b94-a143-8b1825e0fc6d.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sundar Pichai blasts Google staff for offending customers with Gemini AI bias: ‘To be clear, that’s totally unacceptable’"
-    excerpt: "The debate around misinformation and its more malicious cousin, disinformation, has now shifted from the news media to AI companies. Meanwhile, the head start Google held after acquiring DeepMind a decade ago has seemingly evaporated as OpenAI continues to ..."
-    publishedDateTime: 2024-02-28T09:33:00Z
-    webUrl: "https://www.aol.com/finance/sundar-pichai-blasts-google-staff-143344480.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 12
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Qw5r_oNnhk3cwY9aKzV9vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/056467c82946b6273ab96e38c16f65bf"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Google CEO Sundar Pichai calls Gemini AI photo diversity scandal ‘unacceptable’; full statement here"
-    excerpt: "Google CEO Sundar Pichai(Reuters file photo ... to address the recent issues with problematic text and image responses in the Gemini app (formerly Bard). I know that some of its responses have offended our users and shown bias — to be clear, that ..."
-    publishedDateTime: 2024-02-28T14:48:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/us-news/google-ceo-sundar-pichai-calls-gemini-ai-photo-diversity-scandal-unacceptable-full-statement-here-101709130168773.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 4
 
 secured: "ALsxKS9jXTN5a4HCPrN+Q5jfYqyZ0LXbRlHUvQR4FE+G+cTCa5m36kEFGfj1R788Mw7PKOyk9V5vdHVNnwiHuI2o1i32UaffxpaHe2X3W6A7GViiPpyP9ojmoTw8kP1A2LigQMscPsUryBHmXNKxeY/5/inPlsob5bglqzpDZSZy2H0tSIS63uc1X8PmDNs62be65Y9R0ngzJqeApwvK8vhXwjp8xkrZfA3iJL12bEocm+k5LRjwn/HcHctqyP28wCfUfzqHOlorou4z+MSc3Tfr1JlKExVUDXX0U0XlH3+H2tHJ/Dohlb+O8eXKiaVFIac/S9VZDHI5o6FPxRja8OUidQNGKNzbsMgBi9KMNFC2R69UbstlqXoScxzupBODz2kAW7SZklvE8G/7e2olmGlonSHC2ya4A3bIU9oqmljbL3i5NdmUAxaWanDmPsHGZS10j5tA5KqBLJkhGHNzqj/viOLvECf51JRCH5BmQvSYcJvfPkPuE19XgdY4TAGXd2m/9Q/enUJ6551Ksmn4rw==;GU1DDvBFIBHhFoPvjdeFCw=="
 ---

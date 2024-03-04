@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
-    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
-    publishedDateTime: 2024-03-01T13:54:00Z
-    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
 
 secured: "+KrPMGNCtN1lHflX8Tw8xA1j0GA5DSy97jhQask578NiIm+qDM5KK2QS8nwcz4eXWSQX7rH4hu5Q3yVdrd3cU2SA/gaO6zAKayM/PoiwWPSL/6+p2T5bIzTpOZqmSbIwrOqupmpXwRmG6QF75g8dY1QPLiMxTDz/QHgEe7qASQHt0MaBLrGs3u2XjOnmqoa9eUHD2PlDLlOgalT3g7A0oeeu+4qJjfQ/Edu90YGXlqboNVv663G0xXqSmJofeykBeMAabVacQHfsYxYuVlSLLZ7z7zUoZ5WrPe0rZ3h/jz/gi8Mw1EmniUoJV9tK5HiwGEU5JQQ0f7CoUfe8MPaC2MzKqTMfUF2bZ2n3GMx1brw=;ij+8ulVHpGgnH80sZS3X5g=="
 ---

@@ -34,15 +34,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "Zuckerberg meets LG, Samsung chiefs in Seoul as Meta ramps up AI ambitions"
-    excerpt: "Meta CEO Mark Zuckerberg has discussed cooperation on extended reality devices with LG Electronics executives as part of his visit to South Korea that highlights Meta’s ambitions in artificial intelligence."
-    publishedDateTime: 2024-02-28T10:05:00Z
-    webUrl: "https://www.seattletimes.com/business/zuckerberg-meets-lg-and-samsung-chiefs-as-he-visits-south-korea-as-part-of-a-3-nation-asian-tour/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 15
 
 secured: "czZDTDHbBgOaZbTT92RWasWjgOAQkcEQJLIk945lwDP875KZoP6PKtoyaGK8dQHtKqPtLED5HDXZEpdirfq/nX+YVLNUg6F2M/vnOu2pcUx2zYJ23mPnrQWX4yzPUF43K+FwAhrFlzPLjOsbSXA2kCgmCqyzbs6q97UkVdNK3bURS/C5Q3qBVu7ykO5wOA6dvq+hSHkGGkEBWP5vAwS31oVNjcJSFjG1qKY/NtRuxyw1QOEglaoWk/1s1jmWgf7dbghrnjFXcurGbDZZnksvYlg2G5pvxxIfv4+L2iqfMv+ayH1tAmaXNV0IlAvaNblEr/X1XgUxrDWTVVbgDbCROvHlQXnbAASjg2dRpM2DirgkmBDZwwKpwxCvYy7/DJBltuBlo+25ME2ZRDDUNwiyyNvqZFO9LkTmz9TPFKxxvQdUrjyfMHNDhNIvm05iq2OGFU5oELrPAU3Kl1ZzkAUVz8qEZkuensmt+13Flss2WrKHf52PJjY5vkThIulb0qPNM4vjPCoIFgu31eT8tXEXCg==;mN/BouPnlXEFfiXDMIimEA=="
 ---

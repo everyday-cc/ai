@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -34,58 +34,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-google-latest-debacle-has-paused-gemini-ai-model.md",
-      "title": "Google Latest Debacle Has Paused Gemini AI Model",
-      "excerpt": "Google just paused its newest AI tool called Gemini, formerly Bard, that creates images of people. This is another big mistake, as Google is striving to get on par with new rivals from OpenAI and Microsoft in using generative AI. Since OpenAI officially ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e04ca43cc128c151a34cf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/amp/",
-      "publishedDateTime": "2024-02-29T09:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1476,6 +1424,40 @@
       "provider": {
         "name": "datanami.com",
         "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model.md",
+      "title": "Google Rebrands Bard AI To Gemini, Introduces New App And Subscription Model",
+      "excerpt": "Google revealed a significant redesign of Bard, their AI chatbot and assistant, on Thursday. The new look includes a new app and subscription choices. Now known as Gemini, the chatbot’s AI model suite shares the same name as Bard, the main rival of OpenAI’s ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
+      "originalUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Orland Park Prairie",
+        "domain": "opprairie.com",
         "images": null,
         "publishers": null,
         "authors": null

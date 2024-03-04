@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx
 webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
-  - title: "AI Innovators: 3 Future Stock Leaders to Watch Now"
-    excerpt: "Recently, more and more companies are offering AI-powered solutions and products every day to ride the wave of AI stocks. Yet for investors, this can be confusing, as just because a company claims to incorporate AI, doesn’t necessarily mean profitability."
-    publishedDateTime: 2024-02-28T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-innovators-3-future-stock-leaders-to-watch-now-1033114109"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "F6ISamBafPcC5JsB9w1vixaRjGGTdNV5oxs+DQ8aU8rtsS+X/fDnmhp74v0+jVtqLbYc9zHUbHj5txqtxtnmSItN7ZoUB8M+EWTkaH2SD1O4etwEq5W+ZJrXhWiVaWXw+qqkHYYIBmvnlQLGuqMoR02vIlXgB2hKVZ42SsmSjqIr5PekoCRb2vH78FXaOj2f0RIMYS8vr81+4J+hegokIbDFuLo8K80TivDI6/QtpZ9koU50a0hsCZzzCByXLFgJNe0d0Y1AFGXJQx4Vg+LSl3syPg6GpWC2b5yk7ndycXx6I0ulMw5Cx0L+Hh1aiFLqjyV45OFnParNylccogIgBGooIxW9Mb9jGsZPSbDYJFyVG32cpjTRc2M83JLtPTNJTqaSCOp/gJK32WDBQk8gjydDsUGBCM+xKk3liF671LNKvPH3G08nbHToyva3P1J1Rfd4/doDOc3afq6qeaxyr9yjMxaWsCXhlHLidzTyO/Npk3QIZE3dNjTWmxhHBxizeUyD1YOVzOTGlDkqKIpczA==;E/qU2CGEtnvw+5R17ybeXA=="
 ---

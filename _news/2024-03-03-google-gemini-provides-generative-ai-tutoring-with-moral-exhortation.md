@@ -22,143 +22,150 @@ topics:
   - AI
 
 related:
-  - title: "Building trust in the government with responsible generative AI implementation"
-    excerpt: "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-28T17:47:29Z
-    webUrl: "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/"
+  - title: "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down"
+    excerpt: "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ..."
+    publishedDateTime: 2024-03-04T10:40:00Z
+    webUrl: "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
-  - title: "Three Custom AI Solutions To Implement To Increase Efficiency In 2024"
-    excerpt: "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts."
-    publishedDateTime: 2024-03-01T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/eb501fa7b639781afa61e6952318ef6629691191/2024/03/01/d9070712-3fd3-42bb-8871-19d5474295c4/gemini-versus-chatgpt-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Latest Debacle Has Paused Gemini AI Model"
+    excerpt: "Google just paused its newest AI tool called Gemini, formerly Bard, that creates images of people. This is another big mistake, as Google is striving to get on par with new rivals from OpenAI and Microsoft in using generative AI. Since OpenAI officially ..."
+    publishedDateTime: 2024-02-29T09:36:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/29/google-latest-debacle-has-paused-gemini-ai-model/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6435b467d9420e08b2b0e670/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e04ca43cc128c151a34cf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
         height: 900
         isCached: true
-  - title: "Generative AI in Litigation"
-    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
+  - title: "Jim Jordan, House Republicans demand Google explain if Biden administration influenced ‘woke’ Gemini AI"
+    excerpt: "Rep. Jim Jordan wrote a letter to Google's parent company on Saturday demanding the company provide information on whether the White House influenced Gemini AI's \"bias.\""
+    publishedDateTime: 2024-03-03T00:07:00Z
+    webUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
-    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
-    publishedDateTime: 2024-03-01T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
+      name: Fox News
+      domain: foxnews.com
+    quality: 71
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd584d93-bee9-4c65-9365-84169b9b7b77/a50ecf78-d8cf-4b00-8be3-5233a7d92790/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Gemini product lead retreats from social media after troubled AI product launch led to harassment"
+    excerpt: "Jack Krawczyk, Google's Gemini product lead, has gone dark on some of his social media profiles after facing online harassment."
+    publishedDateTime: 2024-03-02T02:02:00Z
+    webUrl: "https://www.cnbc.com/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107374413-1708024437471-gettyimages-1992338676-AA_10022024_1525083.jpeg?v=1709322946"
+        width: 7373
+        height: 4918
+        isCached: true
+  - title: "Google's AI Bias Blunder with Gemini Prompts Commitment to Change"
+    excerpt: "\"We cannot be certain that there is no inherent bias within the AI models since it is often latent until some use case exposes it,\" Joseph Regensburger, VP of Research, Immuta, told Tech Times in an interview. He explained that, for the most part ..."
+    publishedDateTime: 2024-02-29T11:02:00Z
+    webUrl: "https://www.techtimes.com/articles/302178/20240229/googles-ai-bias-blunder-gemini-prompts-commitment-change.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302178/20240229/googles-ai-bias-blunder-gemini-prompts-commitment-change.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302178/20240229/googles-ai-bias-blunder-gemini-prompts-commitment-change.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444258/google-has-faced-an-embarrassing-setback-with-its-gemini-ai-exhibiting-bias.jpg"
+        width: 1024
+        height: 664
+        isCached: true
+  - title: "A Litany Of Apologies Over Google’s Gemini AI"
+    excerpt: "Alorica, which uses technology to transform customer experience, has a new AI implementation hitting markets today: Real-time Voice Language Translation (ReVoLT). This platform can do real-time audio and voice translation in 75 languages, making it ..."
+    publishedDateTime: 2024-02-29T19:48:00Z
+    webUrl: "https://www.forbes.com/sites/cio/2024/02/29/a-litany-of-apologies-over-googles-gemini-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "AI: balancing innovation and regulation"
-    excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
-    publishedDateTime: 2024-02-28T12:18:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-balancing-innovation-and-regulation"
+    quality: 49
+  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
+    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
+    publishedDateTime: 2024-03-01T13:54:00Z
+    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
     type: article
     provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
+  - title: "Google CEO acknowledges bias in Gemini AI, vows swift action"
+    excerpt: "Users express concern while Google takes swift action to address issues with its AI model–Gemini, pledging structural changes."
+    publishedDateTime: 2024-02-28T23:22:00Z
+    webUrl: "https://interestingengineering.com/science/google-ceo-admits-bias-in-ai-tool-and-promises-remedy"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 39
     images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/042/AI_laws_and_regulations.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/Screenshot-2024-02-28-171031-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "How Should Government Guide the Use of Generative AI?"
-    excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
-    publishedDateTime: 2024-03-01T17:52:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-should-government-guide-the-use-of-generative-ai"
+  - title: "Move over Gemini and ChatGPT — Meta is releasing 'more responsive' Llama 3 AI model in July"
+    excerpt: "Meta is launching its next generation artificial intelligence model Llama 3 this July. It will be a fully open source alternative to the dominance of OpenAI’s GPT-4 and Google’s Gemini. First reported by The Information, the new version of the popular ..."
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.tomsguide.com/ai/move-over-gemini-and-chatgpt-meta-is-releasing-more-responsive-llama-3-ai-model-in-july"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 26
+  - title: "Meta To Release Llama 3 in July, Outperforms GPT-4 and Gemini"
+    excerpt: "Meta is planning to release Llama 3 in July, reported The Information, citing sources familiar with the matter."
+    publishedDateTime: 2024-02-29T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/meta-to-release-llama-3-in-july-outperforms-gpt-4-and-gemini/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/afe4518/2147483647/strip/true/crop/840x408+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2Ffd%2F29f76a70498c85452948c62c3322%2Fweb-art-ai-policy-1.jpg"
-        width: 1440
-        height: 700
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/meta-llama-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
-    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
-    publishedDateTime: 2024-03-04T03:30:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+  - title: "Google can’t guarantee its Gemini genAI tool won’t be biased"
+    excerpt: "Google's new text-to-image generator displayed glaring biases after only three weeks online. After taking the tool offline last week, the company said it will never be 100% sure the same issues won't resurface."
+    publishedDateTime: 2024-02-29T15:00:00Z
+    webUrl: "https://www.computerworld.com/article/3713165/google-can-t-guarantee-its-gemini-genai-won-t-be-biased.html"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
-  - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
-    excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
-    publishedDateTime: 2024-02-29T17:20:00Z
-    webUrl: "https://www.inc.com/kit-eaton/adobes-music-tool-fills-major-gap-in-ai-content-generating-circle.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "A Regulation To Promote Responsible AI In Health Care"
-    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
-    publishedDateTime: 2024-02-28T14:18:00Z
-    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
-    type: article
-    provider:
-      name: Health Affairs
-      domain: healthaffairs.org
+      name: Computerworld
+      domain: computerworld.com
     quality: 19
-  - title: "H2O.ai Inaugurates GenAI World for Public Sector to Spur Growth and Innovation of Generative AI for Government Departments and Agencies"
-    excerpt: "H2O.ai, an open source leader in Generative AI and machine learning, continues its world tour of bringing GenAI"
-    publishedDateTime: 2024-02-28T16:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/h2o-ai-inaugurates-genai-world-for-public-sector-to-spur-growth-and-innovation-of-generative-ai-for-government-departments-and-agencies/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 7
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/01/h2o-dot-ai-300x276.png"
-        width: 300
-        height: 276
-        isCached: true
-  - title: "Keysight Introduces Leading Benchmarking Solution to Fast-Track Deployment of Artificial Intelligence Infrastructure"
-    excerpt: "The Keysight platform enables large scale validation and experimentation with fabric design in a realistic and cost-effective way. This solution complements testing AI / ML workloads using GPUs, providing AI operators with a more scalable, robust, and integrated AI test platform."
-    publishedDateTime: 2024-02-28T17:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-keysight-introduces-leading-benchmarking-solution-fast-track-deployment-/2024/02/28/9969997.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
-    excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
-    publishedDateTime: 2024-03-01T14:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/01/9971357.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "fh1VKOZSk8yhjfrOHlGiq5Xgrpf1jYtXCWaM30spNzToPIwY3jH/z9X6bx+R1gEyvkIT6uT5IPlvKAuGiAxAep9DCBwO2fiLw+nudeA9haTWmw4pgUEpr61wCowDgyxZHKPS26KJYmXmnL/cTeTTrd0eghNBqvO3CkNCUSe7eXPOpnAHS0d5tY/WxPra6404sXofksdOtdF7RP/mfZBVt2ezDlq8CsxA4uYwZsy9SGkPw5/M/aAPV0StKlIEJFRkBmyGvx+gw6ig0JMY5uaMTp+ig75XurfywUPUiciJXba5jZQlL89F72g7T3pkfrBanVHS/asHUzr2c8LNsTVKkepahQn0Rzpb9AogNOHyjIT/2OcTXI3uAfSdFaaOoHX9/4Y3yYmJKeeq/0sscwzdlxsH14K5Q9NoJO75GHsNIQHUW62ZjjSV3qXC1Hrj5BNnMKN40RRtwlcXgmMZGzOHOPGMmsMmAPV2lz/ec63u9cZxLJtXVpwOCu0faJoMR/ceXPn24UgE15qxxt+mGrlziw==;4Tg1NEy1wKF9eUAeVuj09g=="
 ---

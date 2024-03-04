@@ -39,15 +39,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Baidu feels benefit from AI, Q4 revenue rises 6%"
-    excerpt: "Feb 28 (Reuters) - China's Baidu (9888.HK), opens new tab, said fourth-quarter revenue rose 6%, helped by gains from its generative AI applications as it ramps up efforts to make money from its ..."
-    publishedDateTime: 2024-02-28T09:10:00Z
-    webUrl: "https://www.reuters.com/technology/chinas-baidu-quarterly-revenue-misses-estimates-2024-02-28/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Baidu Buy Rating Affirmed on Strong Financials and AI Growth Potential"
     excerpt: "Baidu (BIDU – Research Report), the Communication Services sector company ... with a significant contribution from Gen-AI technology—which now accounts for 5% of Baidu’s total revenues—bolsters confidence in the company’s future earnings before ..."
     publishedDateTime: 2024-03-01T00:26:00Z

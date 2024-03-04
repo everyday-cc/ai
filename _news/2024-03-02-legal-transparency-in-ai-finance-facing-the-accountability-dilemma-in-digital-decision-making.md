@@ -39,6 +39,20 @@ related:
         width: 1354
         height: 900
         isCached: true
+  - title: "CeADAR shares open-source AI tools for financial services"
+    excerpt: "CeADAR says its open-source tools are tailored to help the financial services sector incorporate the benefits of generative AI."
+    publishedDateTime: 2024-03-04T09:47:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ceadar-open-source-generative-ai-financial-services"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/Dr._Arsalan_Shahid_of_CeADAR.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "M6KjE8k0ZagsbTAhD1vY3AaIINYGlNAXtY52QmS4vAHT4wuDb+IXgdiDeRs+rvNQ9g7ymZherA1DSSgkpPz433jk22ztI+1AkecS2dOmCQTlu4fs8Ye5IzXF1nXyBniczxCsExmgBSWgGJk/6cIALcV6DTBbObFOQZt8SiGjp8BaopAPmGgOv+m1TIRP6I4T50To4kQhuPFARIk/br/+NXLjKhFGqS0PZEfC/biskT5U+NSZPiblxRPB1LT5EY3qloZgkGj2k8bRfZqHAlVIm/mGVf1HYy6/uoSBH5oNxev+k/cIR5hQwg99rqD47jF/tMYnbra4KtrwDRBH13IVRMMstFJ7vlpQrX47P5hplQ9TB1q8SVpykaUKuR/a11+CH5DafIfwFfiut1mr31pzidaMnZQ9kCv/Lki2u0oYznJpWYlS8/OpbzddmeCYjLMIEvbnXnOyEGl8OWoaeHFZnhXoj9yoMgBr0l4meengQuaxbk35ZL0GHC6ws0C1629/nxHIsxivgx1eHe+lbNbdhg==;yJ9FA+dlHiL7BnRO/4iUGw=="
 ---

@@ -2,6 +2,136 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2024-02-09-ai-driving-acceleration-for-big-3-cloud-stocks.md",
+      "title": "AI Driving Acceleration For Big 3 Cloud Stocks",
+      "excerpt": "Alphabet’s Google Cloud, Microsoft’s Azure, and Amazon’s AWS shined as generative AI products drove an acceleration in cloud revenue growth in the Q4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c5077ec8cf125f217b25fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/",
+      "publishedDateTime": "2024-02-08T23:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres.md",
+      "title": "Uruguay Llama A Consultas A Su Embajador En Venezuela Por Hechos \"Que Harían Inviable\" Elecciones Libres",
+      "excerpt": "El gobierno de Uruguay llamó a consultas a su embajador en Venezuela para que informe de manera urgente sobre hechos que según las autoridades uruguayas \"harían inviable\" la celebración de elecciones libres en el país caribeño.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
+      "originalUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T22:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-apple-vision-pro-review-answers-the-question-of-how-much-computer-is-apples-spatial-computer.md",
+      "title": "Apple Vision Pro review answers the question of ‘how much computer is Apple’s spatial computer?’",
+      "excerpt": "The first Apple Vision Pro reviews arrived last week on January 30 ahead of the February 2 product launch. A week and change later, tech journalists have had even more time to spend with Apple Vision Pro. My new favorite review is from Raymond Wong at Inverse. He spares no words when evaluating Apple Vision Pro, including as a spatial computer.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2024/02/08/whats-a-spatial-computer/",
+      "originalUrl": "https://9to5mac.com/2024/02/08/whats-a-spatial-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/Apple-Vision-Pro-Recovery-Downgrade-Firmware.jpeg?quality=82&strip=all&w=1333",
+          "width": 1333,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T21:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-an-oscar-for-best-casting-is-set-for-2026-will-stunt-workers-and-voice-actors-be-next.md",
       "title": "An Oscar for Best Casting Is Set for 2026 — Will Stunt Workers and Voice Actors Be Next?",
       "excerpt": "Casting directors, often the unsung heroes of film production, rarely receive mainstream recognition. David Rubin ... But that hasn’t stopped people from pitching Oscars for best voice performances (despite worthy efforts by Eddie Murphy in “Shrek ...",
@@ -962,153 +1092,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-next-chapter-of-our-gemini-era.md",
-      "title": "The next chapter of our Gemini era",
-      "excerpt": "We're bringing Gemini to more Google products.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
-      "originalUrl": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Social_-_1920x1080.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/amp/",
-      "publishedDateTime": "2024-02-08T13:00:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-all-the-info-you-need.md",
-      "title": "Google Bard is now Gemini: All the info you need",
-      "excerpt": "Google is going all-in on Gemini. Bard is getting rebranded to Gemini and a new Android app will replace Assistant on your phone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-ai-to-gemini-and-launches-a-new-app-and-subscription.md",
-      "title": "Google rebrands Bard AI to Gemini and launches a new app and subscription",
-      "excerpt": "Google on Thursday announced a major rebrand of Bard, its AI chatbot and assistant, including a fresh app rollout and new usage and subscription options. Bard, a chief competitor to OpenAI's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107344639-1701966994127-gettyimages-1829227396-porzycki-googlege231206_npI8C.jpeg?v=1701967024",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

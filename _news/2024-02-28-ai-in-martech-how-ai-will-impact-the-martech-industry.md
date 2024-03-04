@@ -38,20 +38,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Fintech employees trained in AI in just over one-third of central banks"
-    excerpt: "The majority of central banks do not train staff in artificial intelligence (AI), the Fintech Benchmarks 2024 finds. Only 13 (37.1%) of 35 central banks say they offer such training. Seventeen (48.6%) jurisdictions say they do not. However, five (14.3%) central banks say they have such plans in the works."
-    publishedDateTime: 2024-02-28T10:11:00Z
-    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7960900/fintech-employees-trained-in-ai-in-just-over-one-third-of-central-banks"
-    type: article
-    provider:
-      name: Central Banking
-      domain: centralbanking.com
-    quality: 54
-    images:
-      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-08/benchmark-banner-FINTECH-2024.jpg?itok=tZCXaiT6"
-        width: 1200
-        height: 743
-        isCached: true
   - title: "How AI and Machine Learning Are Shaping Fintech"
     excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
     publishedDateTime: 2024-02-28T14:57:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/"
 type: article
 quality: 86
-heat: 100
+heat: 101
 published: true
 
 provider:
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates Praises India’s Unique AI Capabilities"
-    excerpt: "He spoke about the company’s strategic focus on harnessing the country's talent for advancements in this space."
-    publishedDateTime: 2024-02-28T09:58:00Z
-    webUrl: "https://analyticsindiamag.com/bill-gates-praises-indias-unique-ai-capabilities/"
+  - title: "Start-Ups Red-Flag Prior Govt Approval For AI Deployment Dub Move Anti-Innovation"
+    excerpt: "(MENAFN- KNN India) New Delhi, Mar 4 (KNN) The government's directive mandating“explicit permission of the government” for the deployment of artificial intelligence (AI) and large language models (LLMs) on the Indian internet has stirred significant ..."
+    publishedDateTime: 2024-03-04T04:18:00Z
+    webUrl: "https://menafn.com/1107930143/Start-Ups-Red-Flag-Prior-Govt-Approval-For-AI-Deployment-Dub-Move-Anti-Innovation"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Microsoft-co-founder-Bill-Gates-at-Microsoft-India-Development-Center-IDC-Hyderabad-with-IDC-Managing-Director-Rajiv-Kumar-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?53442"
+        width: 333
+        height: 250
         isCached: true
 
-secured: "AN2CNkJJFlF/cXX6gKD5hQKzn135vpVxB5CHnzlRgbEn5Owy+Bf4ApiG/ZFK2HGrgfVYjLVm0X9CTBBkXItIxSEQQVT/Ed5rQmrv6KYMidVQA3R/wsWM9IijQPKFBIurn8fRvry2Bwo3pHPcNawiFGMKkEVidMABXXMu+3c/NG/B9kmYWJWAs9fOj7BTchQFAzAWW/8sqRuMSGVr3nqbCr5YjUcK8ejS4oSK5OUIzd0ZtFAhUCjFZj68oxvq12HIARC600GIwJVUo42YkCIiHTnXhWv7ENEq90vIXKPxuy7adHw/q89LShmFpUXIc0zwooiX35jFAq+Qgt+Z5fyF97jRd/I3kZSEbYr+ZUhU9KgXqRUGIJTJNEPx9AcPoWzxfgmGD7zDF9eHzdQ+83DAaROnSnG7r8iO4Bi4D4bFc6xOyKHp4silxuz6FQIYyWzkXuo1Ge/eqKgRDQlXBgN19lH4bw9EeOk4cljG9qlG3F6XtIlkkD4HDKfvxyM8hJ2DZ7Bgrb5XG0dH/rNVsdxyyQ==;4B0oQm4XnLkQ+hBeIp016A=="
+secured: "tstvFTIoQQSI0FsbY5KuJcTJkIowMsNyHobfB/c/6JojkUVGbeO38UMUjphPlsnT4Lr6JgRRnXEowQA1KN/n0cQvWpQ4PBZPV8NHb5QTBbDk9MgnRDpe3gRBwFwScZIpzB3nFHro1XgGkcdE0Ir/Mc6ICeIdTEm0rXYCWYoT1wvO+Ze+cZngP9e2m4wbYrzGI78hzioYrgoXWCZVo7zeX4VglADnJrB9LD4PqgZeSlHoOr19KjP0uvDY99DB/Txqo3/ObU6bowW1iIEt6sJtVKeplzGrAW+nAYOANXLE2zmoDm5DU/9QsH1f3qyqPf8cU00ZQnLpv1LVVnLsRoVJtF3LpCpRuwKeu1Wb4v2nt9T1WFyUMTdjurrHma3XBR8FC/nT5qyJncIxPNwirDyk+9moKM5Gx6zi9qQIZ6/TOzpjBxVGro0r7O2OVpA+z6qxJVmSZ7XKqK2TmgGkbK92wMQauQBd5TBbarrRzbzbmgfq8jpqRoVbiH/lZ8YBbjunNegHTYPMZf3zVvZ/g4BhsQ==;vJFCGRhEwkNITtzICpUZvw=="
 ---
 

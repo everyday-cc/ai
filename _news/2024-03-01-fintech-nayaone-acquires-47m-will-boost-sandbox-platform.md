@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2024/02/222053-fintech-nayaone-ac
 webUrl: "https://www.crowdfundinsider.com/2024/02/222053-fintech-nayaone-acquires-4-7m-will-boost-sandbox-platform/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 680
     isCached: true
-
-related:
-  - title: "Bank-to-fintech matchmaker NayaOne raises $4.7 million"
-    excerpt: "NayaOne, a Sandbox-as-a-Service platform that helps to match financial institutions with fintechs, has raised $4.7 million."
-    publishedDateTime: 2024-02-28T10:20:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43767/bank-to-fintech-matchmaker-nayaone-raises-47-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/p12-e1569593647184.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "xhuS+mBbEq9bthohayiXiMCy5yCgl5w9WAHoP6QOk8C/g78s/uDA3CG1dizaHdODaZ9ikdPsWGH26IFQf+9M3Pe7S8uRlsDaWVr/f7N2Yq1df1o0ykPKLKbczDGHG7LZClX1+2eQUlRC6qVTBaY6QfR2WWaPt6WbhKbthMDTE80ZradV2DA8jf77DDo5UtkR7HQWMzD3mQqLKpHHKJSTsEtawnqN6jbTAfxSi1uhccKjKZQDZXZqTfgnjXI0PLE59xX3Og59HbfHSLIJvrvl4gqgcLFUzre/l3Fpqs+4QrmrgmMn7XrFgsxzptWwTpqrAW73XdR9tPz+N7NBQFyF2+Arcn5Ah4hDI4mqmV/D0v/JMsHvp7SGWK0lZM15t/jgqA2VveqC1MuBj0p/RCBZSqN6jkQtCx2HEm9773w8Lhcq+KIG1zHyEmrgKbCHRduDkdJLdrRlqlaiDIEGMvnHnAv0jhM6gCJjVJuPrL9Xlm5BfsNmAPOy6N4U2zPhbxF0O7csHcud/6JTurYaQqlb7g==;6nTyLj9OzHVvyFOKIuE3bA=="
 ---

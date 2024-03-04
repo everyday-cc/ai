@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-04T06:57:00Z
 originalUrl: "https://www.israel21c.org/ai-guided-technique-will-be-gamechanger-for-liver-cancer/"
 webUrl: "https://www.israel21c.org/ai-guided-technique-will-be-gamechanger-for-liver-cancer/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.israel21c.org/www/uploads/2024/02/techsomed_pic004.jpg"

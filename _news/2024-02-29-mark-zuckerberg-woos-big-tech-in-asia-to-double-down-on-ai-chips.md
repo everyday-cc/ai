@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2024/02/29/metas-zuckerberg-woos-big-tech-i
 webUrl: "https://techcrunch.com/2024/02/29/metas-zuckerberg-woos-big-tech-in-asia-to-double-down-on-ai-chips/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Zuckerberg meets LG, Samsung chiefs in Seoul as Meta ramps up AI ambitions"
-    excerpt: "Meta CEO Mark Zuckerberg has discussed cooperation on extended reality devices with LG Electronics executives as part of his visit to South Korea that highlights Meta’s ambitions in artificial intelligence."
-    publishedDateTime: 2024-02-28T10:05:00Z
-    webUrl: "https://www.seattletimes.com/business/zuckerberg-meets-lg-and-samsung-chiefs-as-he-visits-south-korea-as-part-of-a-3-nation-asian-tour/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 15
 
 secured: "H7M1BZvNh+NXPDF9KmSZ/TYdXW1ZqtvrWNMZCgmKqrknTjQUJAYv1Y73RrvigYQXZ0Ce1tLIABtkSNBN0lSgEoFjB0MgKcEcgP5sqLYigxvR8fIFUtn39VhudJuLjmyZmm7U2ZlDFQubqLSdurQfu9klo7yqyNFdrQKLMrVUOPe3Q9Xhpnt+LqUIygecpjZZfvS76vBG7J/9ajH2KLeNYKZuO7tApzFmZgsH4+ycugfHIUpNQHo3s6ZbI24zFOFP7izCQgNBD82W7NSW5OwIZbVC7AfEBd0Cgm+KPKOTxiXZaIp1pgh1tky5A2jcVTGjwna4NmFlWvtJExEr/Q+nJvY9ulUSf+a0U6SgCTxEURA=;gV8qTtFiaMAp5YgUx8H6Gg=="
 ---

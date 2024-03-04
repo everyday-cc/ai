@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-fina
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 52
+  - title: "CeADAR shares open-source AI tools for financial services"
+    excerpt: "CeADAR says its open-source tools are tailored to help the financial services sector incorporate the benefits of generative AI."
+    publishedDateTime: 2024-03-04T09:47:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ceadar-open-source-generative-ai-financial-services"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/Dr._Arsalan_Shahid_of_CeADAR.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "cU26nwPfO+uUqjRng7NH48QWcrvcHfm8UIY040tqsY0Ll1EB/lAiGPIENDgNdCk+renopclxKB06tm2G201Kbou6KDIV9x/gj9s6NZkjrDD764rrbJFEOAekDm+8yqRAJJ6Q4HSzgyQvxBdUnyUO3bOd3l09L74fnswg154H+GEgEiOHxv8DhV+xt/T2Nar87TQBsKBeLu5fS51+danDbNGeGQHqu/u4EB3+eVNEUxu2dErnX+XZU4xg1E+tl82/yMeD0d0/i3Ez9CAytjCpVDw79vQq/L90YLhBgWlHSNSiMk4D4TlsPjCVeItYFYj5+zTWrPJRh67EZTFN0+XNgrFWgQZ8SRAk66zgWo3arqaHqWqDdbLBDIMiN8KgdiEFN5+nusk1ltXkrup7/t+MPs22Cr10dM7khD9hB9fKUMTfAyWUTHUV79NneQujnBR4ecVSP6vuNJcusm+DR8XqH1rRBOJ3TQAzqDt3aTIZ6Vq7zNfbxoYH0/awsFNWbJ/fauJet0a5RSGipbjIlIqjwA==;5B8V9F/9w7CXBUgbmRG6jg=="
 ---

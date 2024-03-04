@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
-    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
-    publishedDateTime: 2024-03-01T13:54:00Z
-    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
 
 secured: "5I1by/3jDpnmHAMaKf5JUR67HvZcwsQ+xK9FVWI+LNouszTZhmizPHi+/AT1UY7+N4A+ohv7P+1C1rQp1HfMQJTxWZgPCrQCBwaObC72fWZx6VrFD0WFjATh6+4MouO6CS4c/r0zhT2dFMMu/wfzhU9b8wULwvweaWBmtWSdJEuzP4xBMiPXC7TYA2PrdrJPcLeXS1k4qCkU7uuLZb2yn8MM9jCXjbGycc92e+TfyPUt0kjF05IsYX1V0aBi30fwQ+a6yMrxePKyhpfcaNUpACk89P+R0jYN6t5dFktYGcZd0VAUrO1aJsqVp1rd7dqhcV7wDSg3iRLqsGfbXrjYS9OgHEuOQ4a3TSxRkhT9aK15Fq+oEcjQzRaJcw4RgWxIS+xEa88leigPCVdYffZR4utaypnuhVxNk7VNH61z6ysME9AH0FwwT+y3fNNQJ56ERkIqivEEe8/bFG6xFDXKS7R0+1NEsiDR2qAFAIciXbywvxbSzkHw347pul3OsBNdtWFR9TDTgh8O0kA9fFZDIw==;kO7vgDsvrkZIjLiSAWnWzw=="
 ---

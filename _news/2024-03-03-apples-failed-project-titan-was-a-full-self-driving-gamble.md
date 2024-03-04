@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/24/03/03/apples-failed-project-tit
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple pull the plug on self-driving electric car project"
-    excerpt: "Apple has reportedly decided to cancel its plans to develop electric vehicles (EVs), a project that has been in the works for around a decade."
-    publishedDateTime: 2024-02-28T09:35:00Z
-    webUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/"
-    ampWebUrl: "https://bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/apple-pull-the-plug-on-self-driving-electric-car-project/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 44
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/02/shutterstock_231155773-scaled.jpg"
-        width: 850
-        height: 567
-        isCached: true
   - title: "Apple scraps plans to develop self-driving electric car | What was ‘Project Titan’ all about?"
     excerpt: "After working on it for 10 years, Apple has decided to cancel its plans to build electric vehicles (EV) just when China’s Xiaomi showcased its Su7 at the mobile world congress in Barcelona. What was reportedly known as the Special Projects Group as part of its chief executive Tim Cook's Project Titan,"
     publishedDateTime: 2024-02-29T07:27:00Z

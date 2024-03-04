@@ -100,6 +100,20 @@ related:
         width: 822
         height: 822
         isCached: true
+  - title: "Fears of AI threat to democratic elections"
+    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
+    publishedDateTime: 2024-02-28T23:59:00Z
+    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
+        width: 700
+        height: 1047
+        isCached: true
   - title: "Nvidia: The mother of all artificial intelligence"
     excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
     publishedDateTime: 2024-03-01T20:47:00Z

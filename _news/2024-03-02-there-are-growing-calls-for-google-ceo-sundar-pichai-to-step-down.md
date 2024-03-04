@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,22 +47,24 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "'We got it wrong': Google CEO Sundar Pichai says 'Gemini AI responses show bias'"
-    excerpt: "Google CEO Sundar Pichai has addressed the ongoing issues with the company's Gemini AI chatbot (previously called Bard), calling some of the responses by the AI chatbot as ‘problematic’ and showing bias. Notably, Google had recently paused the text-to ..."
-    publishedDateTime: 2024-02-28T10:08:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias-11709118937108.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/we-got-it-wrong-google-ceo-sundar-pichai-says-gemini-ai-responses-show-bias/amp-11709118937108.html"
+  - title: "Google CEO Pichai says Gemini's AI image results \"offended our users\""
+    excerpt: "In attempting to avoid a public relations crisis about gender and race, Google managed to run headlong into another controversy over accuracy and history. Gemini, which was previously named Bard, is also an AI chatbot, similar to OpenAI's hit service ChatGPT."
+    publishedDateTime: 2024-02-28T19:14:00Z
+    webUrl: "https://www.kpbs.org/news/science-technology/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/28/1600x900/GERMANY-MSC-104_1709122364632_1709122410471.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: KPBS
+      domain: kpbs.org
+    quality: 19
+  - title: "Google CEO Sundar Pichai calls Gemini AI photo diversity scandal ‘unacceptable’; full statement here"
+    excerpt: "Google CEO Sundar Pichai(Reuters file photo ... to address the recent issues with problematic text and image responses in the Gemini app (formerly Bard). I know that some of its responses have offended our users and shown bias — to be clear, that ..."
+    publishedDateTime: 2024-02-28T14:48:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/us-news/google-ceo-sundar-pichai-calls-gemini-ai-photo-diversity-scandal-unacceptable-full-statement-here-101709130168773.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 4
 
 secured: "os9e1fjim8gRMjtmygs3hdKgLxzcyFYNf8BlHWKhl6OCZ/o35VrtNiBVJeAqqdBdDj6djgCotfHRZBjtJEwQ5dq3Qj24kCUgHpDq/+G8XOkDiHVWsYEkme8uYBd21DpR6ZHnoqfnppjwG3kHQff8lD+SPsviVVWuwybIEdOzM1LfugNdvY60SWjIsQLm46uTLtbNluyQlyQWkKjiYiamIfiqN+eZjkDyZl6vidreIsV3uyoLd8Fjia4F+cDXI5hkPhnDk8Fj2MKBCuvQMQsULetJF+fR5kD6+rzoM8wV/8m1z4yCqyQsG46z11yo7F0WI/Fb1iCprHvY3ftuB/syw6Sm8NG/U3wg4LzQXaF9z5Kb1gadJSK7BQe3JngJAbN5htEx63VCe9l5ouDPARFW9YABYG2uVvupE7igSjiSNOnL5TFHAyn/cl7TvzsKd8Bsr8cgvb/7cqIECF2yk+Lhh/XvWRVE5Prs63lVuM0rbxYwT5/hjIFPqOgLHu68zsWIONtZw1Mot+7URMAqh29HfA==;OrW+PeWgti+RPN0GFjgFhA=="
 ---

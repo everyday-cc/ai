@@ -24,51 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Will Spur The Democratization Of Technology In 2024"
-    excerpt: "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead."
-    publishedDateTime: 2024-02-28T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65299ef3b71b98caddf7c4c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1478
-        height: 900
-        isCached: true
-  - title: "Start-up Street: Can India be at the forefront of AI technology?"
-    excerpt: "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field"
-    publishedDateTime: 2024-02-29T04:02:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
-  - title: "Fears of AI threat to democratic elections"
-    excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"
+  - title: "AI and the creative process, part one – a personal introduction"
+    excerpt: "In little over a year, generative AI has become not just commonplace ... [Nearly six percent of total economic activity in the creative sectors alone, says my research.] The application of the law to LLM processes is complex, but the principles remain ..."
     publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.ft.com/content/65464e5b-2f14-4eab-b79a-bab22ae12010"
+    webUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-introduction"
+    ampWebUrl: "https://diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-and-creative-process-part-one-personal-introduction?amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b999ca0-23f5-4cd0-a19d-36a382376032.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
-        width: 700
-        height: 1047
+      - url: "https://diginomica.com/sites/default/files/images/2024-02/IMG_2072.jpeg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "CI7tToQHuSJTAkGnmnQ+ApDAUyVe7FCjnw78P1It5m4tfiaKLfnwM3E4sRrcXbbRCu4DoBGHfHstsQbCWag/73jrhfKrgRK41ME7hOfIdAISVhLMdOo8edsFRgb6n6qaIPWsfiB7nr3NClXt75IIDmJjMrbt+WPrDfv+CLPBfQGyzxbS0FHAAn1sRCa7JMJrlunSHvNcEn/hg34SviN0qbvwdFOuGlj9KpUhRrUArGXXBtcVce2tM/yr+7Zrn2d7io2Z9DqBR81mylEkxU5vVGlNlmXuG0QwS6fi63BemObv+glV9eHxQoMB84SSxdraYC9GGVfrgGYFYxZRDRa5pdne00/kFVHS86yEJ/pF4Ys=;RtMTgHX7FU/1xumIh0GlAA=="
