@@ -41,15 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How AI and Machine Learning Are Shaping Fintech"
-    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
-    publishedDateTime: 2024-02-28T14:57:00Z
-    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
   - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
     publishedDateTime: 2024-02-29T16:59:00Z
@@ -81,20 +72,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
         width: 1200
         height: 631
-        isCached: true
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "AEbYmCPGfBbSxXfWJs90KJTxYc/bd5QHLANTI5ErWLaSSrp4IgIQrLWmvDvu5d1/X9PKJn5Lp5dd4qE9lfmB63qKB/chE+hpJiIGhSX6WF7M+RV9cgXQvf2njt3I08NwkQfq0L9xkXqGtmMooFVai7Ue52xiq49mclhcJ3OGnmBg+tG0k8ni2D+Nl82fPXGPmSo75VCZBhpOzvB9rMq4fU29bT73bq4ZQ+c7vd9MR1m7AsHzwfQrLroiiPxkDWYL/R6rT2onp80SlzJNSRatueCGJ6dXnFbO6NX2APJJL873VW/dhX0iatF20GVdfB7UwjeQyqx5un8oTKtYg6Tgz97UIFkTNGqZQNkRBscwDEg5AspRtDZnnaT40TO6HiII2EyjPK2fuM/xmXe4rqd6J8fLojH40avOEBzv8iAFEOiJ47XMcFZHzclzSOFS2mF5CA3bg7j3NbcMp0kzZGlLKuB4UX8hW4+TnukFO5FQESSVtY1//nHEug2iCn6DFujbadcqvy4jjskNzXh9gmmN2A==;Io6xs7NHT6Zpnn75OSBWrg=="

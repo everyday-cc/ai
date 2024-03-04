@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Analyst Expectations For SoundHound AI's Future"
+    excerpt: "SoundHound AI (NASDAQ:SOUN) has been analyzed by 6 analysts in the last ... Analysts attend company conference calls and meetings, research company financial statements, and communicate with insiders to publish their ratings on stocks."
+    publishedDateTime: 2024-03-04T10:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-expectations-for-soundhound-ai-s-future-1033129116"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_2.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Dell, SoundHound AI And 3 Stocks To Watch Heading Into Friday"
     excerpt: "With U.S. stock futures trading higher this morning on Friday, some of the stocks that may grab investor focus today are as follows:"
     publishedDateTime: 2024-03-01T07:10:00Z

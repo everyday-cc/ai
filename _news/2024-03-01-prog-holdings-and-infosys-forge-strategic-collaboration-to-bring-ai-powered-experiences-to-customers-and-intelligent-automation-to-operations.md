@@ -62,6 +62,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "What Comes Next For Banks With Generative AI"
+    excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
+    publishedDateTime: 2024-03-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/michaelabbott/2024/03/04/what-comes-next-for-banks-with-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Should Government Guide the Use of Generative AI?"
     excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
     publishedDateTime: 2024-03-01T17:52:00Z
@@ -100,29 +109,6 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "A Regulation To Promote Responsible AI In Health Care"
-    excerpt: "While we are artificial intelligence (AI) optimists, we also recognize the potential for negative impacts from AI. A primary goal of the HTI-1 final rule is to address these concerns by promoting the development and use of AI in health care that is fair,"
-    publishedDateTime: 2024-02-28T14:18:00Z
-    webUrl: "https://www.healthaffairs.org/content/forefront/regulation-promote-responsible-ai-health-care"
-    type: article
-    provider:
-      name: Health Affairs
-      domain: healthaffairs.org
-    quality: 19
-  - title: "H2O.ai Inaugurates GenAI World for Public Sector to Spur Growth and Innovation of Generative AI for Government Departments and Agencies"
-    excerpt: "H2O.ai, an open source leader in Generative AI and machine learning, continues its world tour of bringing GenAI"
-    publishedDateTime: 2024-02-28T16:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/h2o-ai-inaugurates-genai-world-for-public-sector-to-spur-growth-and-innovation-of-generative-ai-for-government-departments-and-agencies/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 7
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/01/h2o-dot-ai-300x276.png"
-        width: 300
-        height: 276
         isCached: true
   - title: "Keysight Introduces Leading Benchmarking Solution to Fast-Track Deployment of Artificial Intelligence Infrastructure"
     excerpt: "The Keysight platform enables large scale validation and experimentation with fabric design in a realistic and cost-effective way. This solution complements testing AI / ML workloads using GPUs, providing AI operators with a more scalable, robust, and integrated AI test platform."

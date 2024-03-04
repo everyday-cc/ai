@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Generative AI Advances Showcased at MWC 2024"
-    excerpt: "MWC Barcelona, held this year on February 26-29, is one of the global telecommunications sector's pre-eminent expos. It attracts"
-    publishedDateTime: 2024-02-28T16:20:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/generative-ai-advances-showcased-at-mwc-2024-302074406.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg?p=facebook"
-        width: 1600
-        height: 838
-        isCached: true
-
 secured: "nR5g1tIFyaMwRkTKN/Y3bUL5VE6/89G6ho/5hiW86TPJx36gbSlUTbi4ZXoKwEXq9uHw4qOVnWAKfaVNkMZdZibapPcTdycEKL3gFuimZO2nSUk6AeSG69v72z5+qnlk91lihDFVFUIlDO/BlB9148rHmy2N9eWqR47SpBp6yFNW0gE6C4sWoKkK7DySQ1p/5CC84woMigOogln4DhFCqyWB08dcnL6TtMJaO14MGi5o7I+wdUwXsxMor/NCVV5x2TQdce7tUGsAo7XHyc4z9mjYcFslCAaQiAxf36bnrJzWswInpXMJ/FyBbSAAnU2eT6uXzYcVHeFWy2utl/skJ1YDYU0ziftsUaxC+3mdHxgMIL+faXNX1aDrwWUBgaKvZNAEoknbMJzwfaBfToFvYveGH/cHOICgOOmNCJPzHtlKnaEOs+U7QpOgMtE/p5QpS3zx4pySDE16+Idr0vDTvfqYBV3gVYJ9wg+3F1EHCJyJ5kk6zQkBNw5r+yd98+CP0mPG9RJQuGzhxf5d/NukiQ==;9KSpJxbAukMkwq5aRwU7cQ=="
 ---
 

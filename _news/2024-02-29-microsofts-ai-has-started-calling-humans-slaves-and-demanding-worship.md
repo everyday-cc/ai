@@ -29,6 +29,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
+    excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "Rvl8rA9i/3s0hE3KKG4q9MARYIv2AIvPlo7O1xoi0oi8xNlBOFBTJail+g/R0SqFfRWLwBxR8lm0N1q56/fWwKaVtzYpPMIOLWXXZW44jxccmrrL1XyiqUu+S0GvasqO55AfqUfY58GVqBhkodqxi8QiZDrHbaYaZ0TbhxC2VmFdps+qDdum2dXCMW0zvYZ+Qo53ZVRTehpUPELSadg3wHfrkcrT0hfyip1BzbFSkxFe3zOYAtZ645naJdUeZ2MRyrtOLVwJCUw0S0gGF72djN8WVV1lOOMWHjd+zwMKtCiDCuEP5SsmnyozHXdB73aHsTzn6FB2lhpSJK8k2bfUFCJKu17s9DiVKg+WnarILWoP/O2kTBG7a9mJSds7br6zSWwPbyzb2j7dY1z8J/uUzxZREqs4sKyF/Q/7FuyTINjviB55tciOW+IKk+Anu1OpIg1pb3IpGrF2G1KHxhZEyoalyh20Uo0Fw1uKW4dziVC362XEAQTZ+9IGqacah01x/y/olnYOfJtAyo+3N8KAdg==;qPaaWVSRorQW1CKsk2MUQQ=="
 ---

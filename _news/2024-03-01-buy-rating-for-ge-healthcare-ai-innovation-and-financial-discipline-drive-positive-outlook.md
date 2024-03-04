@@ -38,6 +38,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together"
+    excerpt: "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking"
+    publishedDateTime: 2024-03-04T14:52:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
   - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
     excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
     publishedDateTime: 2024-02-29T23:37:00Z
@@ -52,20 +61,15 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
-    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
-    publishedDateTime: 2024-02-28T14:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
+  - title: "AI/ML Innovations Inc. Welcomes Esmat Naikyar as Interim Chief Product Officer to Drive Healthcare Innovation"
+    excerpt: "contributing to the ongoing evolution of Artificial Intelligence and Machine Learning applications in healthcare. Simultaneously, AI/ML Innovations Inc. bids farewell to Bruce Matichuk, who served as the Chief Technology Officer (CTO) for the Company and ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/ai-ml-innovations-inc-welcomes-esmat-naikyar-as-interim-chief-product-officer-to"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 32
 
 secured: "icwufDMF5H0VJEMOIiItAQ3Mkft2ROUK+oF4k8duGp+b7EJ47EMeMweRYDbb0PWXvkss2HqybgYmA9FSrhoIMNCh8vHBWx+vlmCMdffV7y92M1599GvDT0XhU9As/1kmF2uZfYbxsUas9JRhF1uI1j9ijVDouQDEaCw+Ko1+3gKfGmw88CowXv4DtLr7X9YK1Pnp+gOliEB57IrkvR/ydIPKQROBnoIeiBreZra0KQxn170Nte2WVsm0xKuOjzXEa1WhA4JS0337HcfICwYyCpM0L7QjFF6KTRtscgpMurTwBvNOszohHmhz8Om4Sxc+qgWEO7cJKa4PZ1f5OkmnXBRtcsTy+8Y/cAQMiatEXAY=;bLc9M8VLTM8qCHx0j1mmcQ=="
 ---

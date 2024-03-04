@@ -39,6 +39,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together"
+    excerpt: "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking"
+    publishedDateTime: 2024-03-04T14:52:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
   - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
     excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
     publishedDateTime: 2024-03-01T05:25:00Z
@@ -48,20 +57,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
-  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
-    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
-    publishedDateTime: 2024-02-28T14:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
+  - title: "AI/ML Innovations Inc. Welcomes Esmat Naikyar as Interim Chief Product Officer to Drive Healthcare Innovation"
+    excerpt: "contributing to the ongoing evolution of Artificial Intelligence and Machine Learning applications in healthcare. Simultaneously, AI/ML Innovations Inc. bids farewell to Bruce Matichuk, who served as the Chief Technology Officer (CTO) for the Company and ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/ai-ml-innovations-inc-welcomes-esmat-naikyar-as-interim-chief-product-officer-to"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 32
 
 secured: "+tsF26MRtRnq7LxpilXVkTDBXydtYcPzSbwQBvw8GT5yJLse8LsNQjUHZOxvJsJ7N41fSo5bmVGeUTV4I8kvi28oyOuQtToJydNYaM0QR5Ru1fJ0OVw6F0x3xTcsc/BBcIOnC3TEdYnWqOm0zAcJ6DlSyAdO1YrFufcLfLrolPCozDdCn43b4YHbk7N0vcApwA65E1PjLV5kKaPSBrBrVKfqDTy38s55gtwsrULfeF8M2aeBfGIpqSHsGSgnA1er0YvwJoc3L+JJRuBDPFVQNh3c8WdZwVJmqg/b2dQb1rqjIQFIcphUUmdZEBdMwYCcEyCzIlxMlLlw7prsuDzal4HTkF8mML3NLI+a6JewjuU=;tuW1V7x12LtESbhOhtXWNA=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How AI and Machine Learning Are Shaping Fintech"
-    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
-    publishedDateTime: 2024-02-28T14:57:00Z
-    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
   - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
     publishedDateTime: 2024-02-29T16:59:00Z
@@ -81,20 +72,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/QZXAnJ2zSc4VmkpPx0Gcp6fNcRE=/1200x630/filters:format(jpg):quality(70):focal(1774x763:1784x773)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JP5IUYRLE5A4NGXZFOHAPRI6MU.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "9QkNCvAIaFr9bBEPehT57+wsFKj0DVLB7tyobX3SopTtDtX98KBrVTj80GBxyXGh5CRv9xw0GkF75492qgSK5Ja9dTvZOpVhAMwtQ/w/gSTp2aSTwbmXsdUmKRksJKkS3kOEWoP6IMaPseCN31toaZ2rHBKVgwSwu/IT9hfC0lxsjFUBxEEroBbq5sAt1CPxIWDztjRwI7WkWnZdFSXn/bvSsoLKIdg/rEo/meHYkr/AcWHbHlBR1e877yr+PEYiDeL55RVNGy2UrS+vbCjUWLt2F6AE6WNrWSLlJjFjV+c5yWsdYZrPkmk5wNkvrs4MFQ7awGmTWim+hliE7xArRHK1tl0XM/Q2j/5f+Yq0z+CLioU3viubW3bAcit4vnn3d1xR+BWg70o52urXDf8bVRm8pFdNDV+4hTEVhNbZ8kRuQBL3J6Q4Spn2eNZvEeH07w3nFWoykpThayP47FH57IdNajZXo956OK1y624MYQgDHXfPQmC2N2Aehx6egglQMLAw+W7Ijsm8RNxZgQveKA==;UhLWS1RaNfkUiGvsrOxq+g=="

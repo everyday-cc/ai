@@ -57,15 +57,6 @@ related:
         width: 1250
         height: 750
         isCached: true
-  - title: "Apple CEO Tim Cook says company is 'investing significantly' in generative AI"
-    excerpt: "Tim Cook's remarks at Apple's annual shareholder meeting represent one of the strongest signals that Apple is embracing the generative AI craze."
-    publishedDateTime: 2024-02-28T16:40:00Z
-    webUrl: "https://www.cnbc.com/2024/02/28/apple-annual-shareholder-meeting-2024-ai-investments.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 44
   - title: "Apple will ‘break new ground’ in generative AI this year, Tim Cook teases"
     excerpt: "Apple CEO Tim Cook has a message for Wall Street. He believes Apple “break new ground” on generative AI this year. Cook’s latest AI hype comments came today during Apple’s annual shareholders meeting. During the meeting, a shareholder proposal to release a report on AI and ethics was voted down as expected."
     publishedDateTime: 2024-02-28T17:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/is
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202403/is-ai-more-creative-than-humans?amp"
 type: article
 quality: 57
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Is AI Alive? Thoughts From a Human"
+    excerpt: "Now, with the advent of artificial-intelligence systems capable of learning and evolving faster than humans—and with some (human) thinkers such as former AI pioneer Eliezer Yudkowsky predicting AI will grow into a living,"
+    publishedDateTime: 2024-03-04T12:58:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/shut-up-and-listen/202402/is-ai-alive-thoughts-from-a-human"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "B4IqAOM5C3oGG0ELn4mxf/1MCbboVS67oVZkCCWi6om9f1sJ8UxWCyoMdGlrPNWPpCMxIIQwCythBpRFfyToTCz+AFmW8e2JMZIwkyZrNbf4eDYZN/Hz3/p3d6CODj5e+8kmIWNKjd4kpjkthWlq2aLZt3uqJsFLopnaTYMYgfizC8laXB/PYAVWEaIJWeOYsKgzd8VzP2wAq1lfSFKqD2EJhyWD6FksyRGcSKut6nh8hRv/JUCr2dUwav/D5cwONCTvOdD/ob+HL8PuEzKmuAYtZPzYmMNiLK5Rsz5kHTD9SkpWwuEOpaehATOiiaBsVV0LZX13FGgFTt+VBfBub8vrixDUSHYS1at010aufY8H++DtxUbEGQjtVlPcjB+4/N2dkhZcQwPG1sjYF2fGxy3ceUHqaSvIdRQUczDok9FeX9BfgE1SAU6+vg8b8sPDrCGkdoIEaHAiciccrKp8Xu9m1Ls9wYGXPpxeIz1Ffuo2Zmamz5Z1JaquKcKknsIdfTNhHa79Ug7nr+HONIDqBQ==;syROnZ7DrcDqK9V4kEE69g=="
 ---

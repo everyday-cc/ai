@@ -34,6 +34,15 @@ related:
       name: Radio World
       domain: radioworld.com
     quality: 17
+  - title: "The women still falling prey to Facebook dating scams with Danish doctor’s face"
+    excerpt: "Deep in rural Missouri, Lauren McEwen thought little of it when she received a Facebook friend request from an attractive ... to this kind of fraud in the first six months of last year. Research shows that 60 per cent of all reported “authorised push ..."
+    publishedDateTime: 2024-03-01T18:50:00Z
+    webUrl: "https://www.thetimes.co.uk/article/7e8196b8-b1e5-498e-894b-0844ee4d527a?shareToken=4ccfea5d3ac13e07764237b098a802a9"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 0
 
 secured: "eeNvRfuggHdXN9HX7apDMy6WRsOjxSZQTJ1QaYRmJj9FUIwjMC3jxXCqTKGcgASTd/PyxrinGjz+KuibSEL/T1lID9DfqnLyuT7GhJ+aqn6d9uR0c8yhVSISxzS6Kt2YmhPmyauFTMtbI6SevoCHnLw0V9Du67XXt/70a48CWw+9VUVl1zcIqW7TkDRwb6k0olUxdJQA15WnHAM4JnNj5x+P5rh7qz9wuZrDZlD4q4+aWtkWaGWWdK0O024M44yhJHVIWuZaF76igt4ziSpblE8bxAnPgL/8mepxrWD4GVjWpYGcDKCOn53eTtGPfIiR+7XdfkGYDB3GcBLTVk3JFSeOHP2VmSZv+zGzES2zZ44kKl44axEMmwx6hRbyJ2jIBjHTU/ggIrpJ7dgHSU1Wn9KoyKzkT99bGnnZr7aSmTRaHg/4L6ZKmlRmMoyR/NeF0UP/w5ANj2+4D2BNX1BvXynXskcIXw4h9FjKPWlJi40ldIu5829P35PBRobg4AtSRUFEIx6i7M51tvcBgMxSYg==;k7Gkp4EuaebE1OEfhC1cQw=="
 ---

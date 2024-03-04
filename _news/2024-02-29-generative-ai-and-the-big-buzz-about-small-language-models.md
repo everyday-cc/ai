@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-sm
 webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/RuopIl34Fzta68477w2k.jpg"
         width: 1048
         height: 675
-        isCached: true
-  - title: "The Vulnerabilities and Security Threats Facing Large Language Models"
-    excerpt: "Explore the vulnerabilities of large language models like GPT-3 and ChatGPT, and discover strategies to protect against adversarial attacks, data poisoning, model theft, and infrastructure vulnerabilities,"
-    publishedDateTime: 2024-02-28T16:44:00Z
-    webUrl: "https://www.unite.ai/the-vulnerabilities-and-security-threats-facing-large-language-models/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2022/10/data-poisoning-feature-400x240.jpg"
-        width: 400
-        height: 240
         isCached: true
   - title: "How to install CrewAI and run AI models locally for free"
     excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."

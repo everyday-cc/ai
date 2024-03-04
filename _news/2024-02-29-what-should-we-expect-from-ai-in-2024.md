@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1190
     height: 793
     isCached: true
-
-related:
-  - title: "Nvidia Stock: Is It Still A Top AI Stock In 2024?"
-    excerpt: "Those applications require specialized hardware and software, such as high-powered processors, memory chips, solid-state drives and robust AI development platforms. The table below shows how these stocks have performed year to date and over the last three ..."
-    publishedDateTime: 2024-02-28T16:38:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/nvidia-stock-still-top-ai-stock/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65df4e1cf4fc67b4ae4c124e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "BTXCBqrjrSvz7b6gowSOW9R8x1XfBPpfdQlcpi7LXkna81C7qkz8lOfRbK9MBJem0JIgn+nO5NtgitxuiZP1qNNG1E1Kb/EzuJYg9xggm38v5y9MnvQSjhQMANIqrRXvZ45Lq8EmaofpOhEFPnmNlXd2BimM0SEnBpUS6/k0TkypUVMIUt3gn/Zw1ASsMce9tE53F9fpIi94KtT7bXeLz0TtgvSpX3cxcNTwULoMWndfq09OXYxV/sm7MWt6GE1c3voVKvO4mhYRqOMbEGAHGK1ILj8nAbkJGkJcpIpG9xUugJ/K8L+j60Aoy73HMemV9Q0mXd9/afn0OCLKIhytF+Hp+vuxhQqj2tG3UmooJ+9/W+BVFtN8U2qDzxVKvPyxrUroDjTQWzU4WV6Ug/IxMgsccxLepErC5mlTFt3IWuAsvTaXaPOMMeuRhtBWIrkz2bU1aswrQ7ame9XIPty/yAyCDnUb18ROeIenMLHDq4DwfB9TrXSR168uJA15xGQBmfK5+COC/B6llKBiBzAoQg==;TvsnwW5qA2mC6+hFPIL/Pw=="
 ---

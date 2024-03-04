@@ -51,6 +51,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "GSI engages AI and machine learning in mineral exploration"
+    excerpt: "Furthermore, a series of lectures and presentations were delivered by distinguished geologists and subject matter experts, elucidating topics such as mineral prospectivity analysis utilizing Machine Learning and emerging technologies in geoscience ..."
+    publishedDateTime: 2024-03-04T15:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/articleshow/108212560.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/amp_articleshow/108212560.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/amp_articleshow/108212560.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108212561,width-1280,height-720,resizemode-4/108212561.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jim Jordan, House Republicans demand Google explain if Biden administration influenced ‘woke’ Gemini AI"
     excerpt: "Rep. Jim Jordan wrote a letter to Google's parent company on Saturday demanding the company provide information on whether the White House influenced Gemini AI's \"bias.\""
     publishedDateTime: 2024-03-03T00:07:00Z
@@ -121,15 +137,6 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
-    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
-    publishedDateTime: 2024-03-01T13:54:00Z
-    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
     quality: 49
   - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
     excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."

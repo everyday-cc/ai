@@ -227,22 +227,6 @@ related:
         height: 720
         isCached: true
   - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos and tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ..."
-    publishedDateTime: 2024-02-28T15:19:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/humanoid-robot-maker-figure-partners-openai-gets-backing-107697258"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/humanoid-robot-maker-figure-partners-openai-gets-backing-107697258"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/humanoid-robot-maker-figure-partners-openai-gets-backing-107697258"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 61
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_02ee0bf87ec46021c84646a882133c9a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos and tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-02-29T13:10:00Z
     webUrl: "https://fox5sandiego.com/news/business/ap-business/ap-humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
@@ -372,15 +356,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 30
-  - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ..."
-    publishedDateTime: 2024-02-28T15:19:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/humanoid-robot-maker-figure-partners-openai-gets-backing-107673380"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 29
   - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
     excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
     publishedDateTime: 2024-02-29T14:42:00Z

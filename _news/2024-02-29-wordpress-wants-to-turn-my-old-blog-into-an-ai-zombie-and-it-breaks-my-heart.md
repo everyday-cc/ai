@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-m
 webUrl: "https://www.pcmag.com/opinions/wordpress-and-tumblr-want-to-turn-my-old-blog-into-an-ai-zombie"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: PC Magazine
@@ -26,17 +26,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "Tumblr and WordPress data exploited for AI model training"
-    excerpt: "Automattic is working on a business deal with Midjourney and OpenAI and has already prepared an initial batch of content to feed their models. An unnamed"
-    publishedDateTime: 2024-02-28T15:26:00Z
-    webUrl: "https://www.techspot.com/news/102057-tumblr-wordpress-data-exploited-ai-model-training.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
 
 secured: "NIgdVWr4Sq5iav0Qb0P41H7GX8IDQ3kJRzau7WdROIUja/78mToY9Abv09nNH83qvhl5ZA+EQcYNpPP244rSwCExq5XT28mA+MR5XPoLEyD0DahmBNfPYj7EukHbDm7jJrdmhNm6B0mJ83LBqTLDf/P/c2KWSvltDsvUhEjLdAChkWidpZMvX1nXzbURlE/NBlZ7YZ0VS/DZIW8ZdqL5zYcT7JMNXOJnnVfDSpcly+yE76wrfxZvXkSY5lpEV+nZ4ISl5+/YOzVw65JVAVbHBzHMPmBSrM32yKQmOeMh+lOfz4oWBPLjepTiilnTlZB7aQUDsLmIDdTaecx1bYHCyDDylcUidHD5p87Pnxoi1ayd2/XT3P0jLDMWCqp+8OL1omm+Jp+GYr45+OR0Jn4rtYVECV9ssxRVz6t3eX7TObA6t/wjHB5EdbxpdpxMoyJ28PZkYD4Z7MLaTHEVtQ25NL8PUZoDUuzoRM+oLVhO6CVRQQPxKoTVvZ5g9nAp+F2yI8kp2qp2R/vFlEYbvobbAQ==;Dd8mvKjTZEgGyA+Yx6+Kog=="
 ---

@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Is AI Alive? Thoughts From a Human"
+    excerpt: "Now, with the advent of artificial-intelligence systems capable of learning and evolving faster than humans—and with some (human) thinkers such as former AI pioneer Eliezer Yudkowsky predicting AI will grow into a living,"
+    publishedDateTime: 2024-03-04T12:58:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/shut-up-and-listen/202402/is-ai-alive-thoughts-from-a-human"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "DGbZsD6P7H8JlX4v2x46NwrlbJvMsOT+JSmTqTzIxDQhqse3fyL69tyaoZlolBy/nlx5Qp+bQjwKfgr+CcDH2sDR+KZ1qR9+3tqc+DuGQ8FVNZTIx1eZzskfW/jO+cUWc0o9IBVTTlWSyVUrVFo7P7JQvh9WoBsS0MuORTFnRA8SULWQlb7gdBHbOBR1qzOStY7lssAId1cUFbGMl6QLVkp2JmBxET17rqKihVLxHDudOocNebPwyndVliG0MiR0f2eewsKK/Nd4OYg0MRE+PYskjJvUskg7NnY8SgZ/DhnquiFpD1Z8expgC9tPAN5lueLZW/kjF5RVXvMuKImzoKgzhVmcbIJzSrOi3SafYqg=;X0mzL78C8DdrFsXHnbS3pw=="
 ---

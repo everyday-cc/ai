@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "iFLYTEK: Generative AI Advances Showcased at MWC 2024"
-    excerpt: "a leading Chinese AI company known for its groundbreaking work in voice recognition and natural language processing. China has been an important spur for global economic growth, first powered by its manufacturing exports and more recently by its tech ..."
-    publishedDateTime: 2024-02-28T16:27:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61536928-iflytek-generative-ai-advances-showcased-at-mwc-2024-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "HdCvhTnbuSsGx7Mglco1z+RMaLlZHIVvoa1n6PQuqOAp1rvIc+hqqWAZZaDudWaePfCBW8WPGux8eYQKqJwkqqXv8hn2ELKW4hqVVmHde94yDOxE2himq9cd1fgDMvxb+8FJFyZ7GIpAjHDR2XkU0+vTxRR3KnbYQ1ODfEyRDrVOdj9u1Hmb9nXxhGznu6VFS4MJ2N2prDvge52EZB4WoKjZBmfFughFInNjCUJb3I4REDmNFPSuqWaMnD31k+XcKUcLYsCom7Nckl/UXy+HepsSneJbpR/jgLrQ0L0brzG5/2vvB5D99h+RfseffeEZ/5GQD27+q25j1YWGJDz+O24adQF3/++tEmmINNQNIq4=;/GzALCCuTl/PIhoa665EDA=="
 ---

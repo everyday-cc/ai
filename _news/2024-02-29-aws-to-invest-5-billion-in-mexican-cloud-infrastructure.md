@@ -47,6 +47,24 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
+    excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
+    publishedDateTime: 2024-03-04T13:44:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-launch-an-infrastructure-region-in-saudi-arabia-hp9msn74"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 19
+  - title: "Saudi Aramco introduces first artificial intelligence model in the industrial sector"
+    excerpt: "RIYADH — Saudi Aramco unveiled its inaugural artificial intelligence model in the industrial sector, dubbed \"LPU\" (language processing units), at the LEAP conference on Monday in Riyadh. The third edition of \"LEAP 2024\" commenced under the theme \"New Horizons,"
+    publishedDateTime: 2024-03-04T14:36:00Z
+    webUrl: "https://www.zawya.com/en/business/energy/saudi-aramco-introduces-first-artificial-intelligence-model-in-the-industrial-sector-bn08isy7"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 10
 
 secured: "lJqbwBoSd0kNqKgFYxgNmsPOJX77jUj44k4crh3pMmOzJSwi5+zdeRpPLKB7EBD/MtCr/ovCBNUCvgKuWVaDjnEgDi/5/qbVcLzt4qiVoxRRwfsmGI2ERauxfKfErKi1aMtDsNUMVry0Wojz3gQRAxhoNjKsXdQM4HEUk2MCJll7babA9cT2I/p5hrDi8ixreSqXCUAciFK6tO87mRvz3oH72V+47BU7HYiFDQWkNWw75RI24i/mmilYpuLZ+yRxCkUrc7WphnFLcxuJ1ApLyNgz23R0g9OxeIgR35KtyritI3TWmk8hFPERIfURntnkuESAFpAiOytxrcO/KSza2vANiHti2lzvChLMRJGFuTU0WyOuFiiBg/gSUsEIq4SrULdY9WaHJj+tqpPtaPuI7Oia7XV40b8PCfByz3pf7fWX9kL9JNVhnR4GOUdhgX7Tp/eAW0/5dBvvMQVQH7ABzwHPhCrDE6Y0OIr1h9TA9bEGXOMZTyj0p0zICUTbWyM4fGE9U9CmUpCUlj+KEXBw7A==;j6N7wnQkoDR2lC9nsXAr/Q=="
 ---

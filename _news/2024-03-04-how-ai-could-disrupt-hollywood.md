@@ -23,6 +23,26 @@ images:
     height: 720
     isCached: true
 
-secured: "mZ41jCZCGPl2UtFaBekF5pssmV+roh1dOrjKfqSwnFg0NUWcuZ7aXKKGCY7tp/Jw6FczX7V/5dAQqz3OmplS25WFaYMcciKNij7NMjbHAv3dx3ybcfBPCprYoUeC3fX7QQgVgWiR8iwNWpYJJwm2jjxjhyNEaMPqd/7n7a2XPWINZPZUk0wnRCFuz05W2sZTkxgH/Tw3oRag2QEK4Cf3uxHl+WFgxFPS9DmX/xSsAkwf9UHAO629ISEOyCHJJO4Bf/3y64kZAYWpUNf+Iq1OB0IMPd1Z8IpRYuUUby3r80jUfLN2CdfIHlC8FnXzuI/3XeTUCRgK1Ol0Dfb0yPiPbQotGoP2U2KW/p5w/8jIX/c=;KiIejBzpafEK3NhSxC4ICQ=="
+related:
+  - title: "Artificial intelligence: How AI could be used to recreate old smells"
+    excerpt: "Artificial intelligence is used in lots of different types of research. Last year it was used to find energy efficient homes, digitally unwrap an ancient scroll, and even search for aliens! Now scientists from the Norwegian University of Science and Technology are trying to use it to recreate different scents."
+    publishedDateTime: 2024-03-04T13:54:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/68469258"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 32
+  - title: "Koobrik CEO Orlando Wood on using AI to database Hollywood scripts"
+    excerpt: "Film tech startup Koobrik believes AI can make it easier for Hollywood executives to find hidden gems buried under the never-ending pile of script submissions, its CEO Orlando Wood tells Axios. Why it matters: Koobrik was one of the 13 companies in the inaugural cohort for Warner Bros."
+    publishedDateTime: 2024-03-04T15:31:00Z
+    webUrl: "https://www.axios.com/pro/media-deals/2024/03/04/koobrik-ceo-orlando-wood-database-hollywood-scripts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
+
+secured: "TR9zKnmnFfKkHGf+70f81nsJ6sOOxRDZ561FyhgLjTj553a01nNwdUOO+Tm+Te8HKGBSbVw0698NcGgbhWfhFbb/3KNa1Q9LYJ0pdvbmHxz/tJiogiDbFW/5l3uJXKuhsjV5IbSsCJs664U3CszlcIfhftnNfCtBvM+UYu90UWBwyYPlCIwAChDOxpzx8M0zWaxAnGQBQUdJH9rKsIDUkfctMMqJ+HpVvqQwoEcjNntFpInp429SbMOCPOJCukmQB1Ydv9zUqnJ/udUQuLNnLNIOH4GgnGZYCvlYVJbqYgiKEDqcb02HNmSdIr6l2nwOaFn0Dt88Z//vu1SyUNI66vrfCfl1D+c1qWy9QK342prSQBaKelQBE6XVu+o2vWjFwSB1ZVb8Ev3nTsrXOqCutrcCY+7fm2y+So2DWvk63Ugd5RKxUlrFGZEX+oncRAY2ehUd7dEossLaTaI3v7C0cvVr2cykkF1yGK2iel5p7znbSec8DGRKQx55W2LSu4cCSyR4m50FhDE5kcUvRDQBcQ==;B/Xult3Wy54QhANEopqYXQ=="
 ---
 

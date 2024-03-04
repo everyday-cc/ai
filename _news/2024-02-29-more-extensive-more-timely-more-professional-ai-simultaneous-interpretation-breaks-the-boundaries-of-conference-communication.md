@@ -55,20 +55,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "More Extensive, More Timely, More Professional--AI Simultaneous Interpretation Breaks the Boundaries of Conference Communication."
-    excerpt: "cross-language communication has relied heavily on laborious manual simultaneous interpretation. However, we are currently witnessing a groundbreaking revolution in intelligent translation. With the support of AI technology, intelligent translation has ..."
-    publishedDateTime: 2024-02-28T15:56:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/more-extensive-more-timely-more-professionalai-simultaneous-interpretation-breaks-the-boundaries-of-conference-communication-302074386.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 10
-    images:
-      - url: "https://mma.prnewswire.com/media/2349920/WechatIMG744.jpg?p=facebook"
-        width: 1600
-        height: 838
-        isCached: true
 
 secured: "ANfQr9ZKDBz2ZhbosfNuEcjnCrdypnAVQ2cKP78NMtQOzsz91yoM5wmrpWDUv19oNU1t8iCp8YjyexCdVLmXAYz66gEKClgBSCqnvZD90Q2AEG9hGkdm7SQbZ1zkWemtptzvUtwaN1pGIXFBizXYmYghHxOexymOhpvkxMnCmlKmGYe0OPrhH9b/k413eRTrCwD7tu39pzQHdMRPFPbaajRHyoLq4FtW3A/gWi1K9Q2JeOaEGLzH1WqII25BdeWDN+j0cb2PPiZxhkVWr6od7V74L7juodTb2FbJcHUmcwpyMqnpe7E/n7GPmxSjo5mYyd1RPlgHf69JsxFlDqK5wyor0sG272l8ND/0CyVfyd8BiROYwa+jdB4Uf3ncvWOJnjXkgfwBjObBVO0rTWRIQ/+fCPrUNtdNYihHpcpcCo7tnv7PrBswORLEkoGvoTaCBFUhJoam2+a8iB+TevO53nIHRJmVrzxeB8yilBt7qabSQSZ4z7KwN2Am/9qwRVYt/6AnXYMmfpfNAvQm2If18g==;/hLwBBWcs1F8enXx04eP4g=="
 ---

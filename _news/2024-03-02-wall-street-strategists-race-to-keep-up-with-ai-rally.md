@@ -23,6 +23,15 @@ topics:
   - Meta AI
 
 related:
+  - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
+    excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
+    publishedDateTime: 2024-03-04T08:41:00Z
+    webUrl: "https://www.techspot.com/news/102118-dell-capitalization-growing-amid-wall-street-love-affair.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Federal regulators, scrambling to keep up with AI in health care, team up with industry to set standards"
     excerpt: "Federal regulators, scrambling to keep up with AI in health care, are teaming up with industry group Coalition for Health AI to set standards."
     publishedDateTime: 2024-03-04T09:30:00Z

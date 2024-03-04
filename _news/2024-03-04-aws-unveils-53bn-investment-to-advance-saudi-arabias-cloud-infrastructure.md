@@ -48,7 +48,25 @@ related:
       name: Nearshore Americas
       domain: nearshoreamericas.com
     quality: 19
+  - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
+    excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
+    publishedDateTime: 2024-03-04T13:44:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-launch-an-infrastructure-region-in-saudi-arabia-hp9msn74"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 19
+  - title: "Saudi Aramco introduces first artificial intelligence model in the industrial sector"
+    excerpt: "RIYADH — Saudi Aramco unveiled its inaugural artificial intelligence model in the industrial sector, dubbed \"LPU\" (language processing units), at the LEAP conference on Monday in Riyadh. The third edition of \"LEAP 2024\" commenced under the theme \"New Horizons,"
+    publishedDateTime: 2024-03-04T14:36:00Z
+    webUrl: "https://www.zawya.com/en/business/energy/saudi-aramco-introduces-first-artificial-intelligence-model-in-the-industrial-sector-bn08isy7"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 10
 
-secured: "SomR5u7LOzsTb5PEsp3FVhZwiHx72XqklW6rsxLrr3JkR8Xzflh3oYFyl+1WFtUJ+nDyyspM1EGgnKJiE7NOXZy+mxGnQRjKhCeBGF9+pS+PAMtU19fzGDZxxbwa7oGB3vE3axQe+aFNOFv5POFd/Ap8nH8P8D7Xr34UAxaCwyekORb61h8oPMkgHw8Bq0gUUhQbhFRCU+TmIUe5eQYfKvxkU181ZQJYY7UmrzNU9/hofFIyRVDZ++7sbJ5YjiPt6R8C6I5ehHElpdX13RpitfvD51j9xb3woxcE8P3V8r3hXblZWLfFUqqydUvzNtebfWBZBt95dUoo8bm6e+ygGtelfZEQFll5zxSExNOmJKw=;dL7hH1oZfQw5bsUWpOtV3Q=="
+secured: "3+iFMDe/l8zOwAuCqtE1BmngWbyy/1NZCMgdWQzQQgJd6wMcgzaxiamR7kXbVq/D+1vu/6Kn4RieiiN1qkUb86NZWn3G2BXgnICon6MNnBs9A0wJpqMrvdFI2Q2n0g0vBtt50LHzymGmyMJdYBlE5+xv46/CnubUMNJ5EJsq2j4RlPHZCkYy2W0aEiAq7f3ZoGDPMrmVeY566fqgAsWXrLLbTIpzi+diGXCbvw0srrQtIuq2n+uEhDTaa16gXqw0YTrXgJXNng036lxwFlQnuP0k+xOLcfBX79hgujUA4mFdFV/wjRgVrWrskMgD2vbS6FBNuko2bNAF/Gb1spAnLTu/DokpFlEmiHSYP0WKKIviwFnDbOrQ6K/OcQQ8/M1HrBIT2FvAEP9F70pSJjoH//TdiZ7Kd54cII0ssxTkwa49+QJFEH0Qog8Vw0AfQEsvEJ+R9udnGD08S9rVsOOnyX+F3Hsu4vxUs6bEN7cdQTKIiQHfBx/SeztGV4gbkGyh5HYY/6Jzu7mjZ2x53M06Ng==;c8Y+1ClLe9gfOCBmD0wkAw=="
 ---
 

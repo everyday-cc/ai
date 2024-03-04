@@ -55,22 +55,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Exploring the impact of Artificial Intelligence"
-    excerpt: "Visitors can dive into the realms of artificial intelligence at the Muscat Book Fair, where the evolution of this groundbreaking technology"
-    publishedDateTime: 2024-02-28T16:08:00Z
-    webUrl: "https://www.omanobserver.om/article/1150321/oman/exploring-the-impact-of-artificial-intelligence"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150321"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150321"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 59
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/28/2594140.jpg"
-        width: 1000
-        height: 819
-        isCached: true
   - title: "Artificial Intelligence: Preparing for the EU AI Act"
     excerpt: "On February 2, 2024, EU member states approved the final text of the EU's Artificial Intelligence Act, providing an official framework for the use of AI. According to the European Parliament, its priority is to \"make sure that AI systems used in the EU are ..."
     publishedDateTime: 2024-02-28T23:59:00Z
@@ -84,6 +68,22 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16204_3837.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
+    excerpt: "Making instant videos is the next wave of generative artificial intelligence, much like chatbots and image-generators before it"
+    publishedDateTime: 2024-03-04T15:18:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-video-generators-dream-san-pedro-madonna-early-107773515"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-video-generators-dream-san-pedro-madonna-early-107773515"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-video-generators-dream-san-pedro-madonna-early-107773515"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_4e21021b9db8a45a9897d9285f394687_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Apple Investors Grow Impatient on Artificial Intelligence"
     excerpt: "Photo illustration: David Fang Over and over again, Apple Chief Executive Tim Cook has been asked the same question: What is Apple doing about generative artificial intelligence? His answer: Stay tuned. Investors are getting impatient. “Apple really hasn ..."
@@ -103,6 +103,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 46
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 41
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CT task force encourages use, regulation of artificial intelligence"
     excerpt: "The task force says CT should explore the use of AI in government and the private sector while protecting consumers from potential harm."
     publishedDateTime: 2024-02-28T21:24:00Z

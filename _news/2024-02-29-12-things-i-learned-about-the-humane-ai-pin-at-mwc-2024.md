@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "iFLYTEK: Generative AI Advances Showcased at MWC 2024"
-    excerpt: "a leading Chinese AI company known for its groundbreaking work in voice recognition and natural language processing. China has been an important spur for global economic growth, first powered by its manufacturing exports and more recently by its tech ..."
-    publishedDateTime: 2024-02-28T16:27:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61536928-iflytek-generative-ai-advances-showcased-at-mwc-2024-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2350224/iFLYTEK_MWC.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Generative AI Showcased at the 2024 MWC, with iFLYTEK Unveiling Its Innovative SparkDash"
     excerpt: "iFLYTEK's SparkDash empowers businesses to quickly respond to market shifts with its immersive interactions and scenario-based design capabilities. The virtual assistant feature simplifies the process of querying business data, making it easier to undertake cross-departmental data comparisons and multi-metric analyses."
     publishedDateTime: 2024-02-28T18:12:00Z

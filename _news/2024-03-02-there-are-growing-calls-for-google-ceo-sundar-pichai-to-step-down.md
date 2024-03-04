@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: KPBS
       domain: kpbs.org
     quality: 19
-  - title: "Google CEO Sundar Pichai calls Gemini AI photo diversity scandal ‘unacceptable’; full statement here"
-    excerpt: "Google CEO Sundar Pichai(Reuters file photo ... to address the recent issues with problematic text and image responses in the Gemini app (formerly Bard). I know that some of its responses have offended our users and shown bias — to be clear, that ..."
-    publishedDateTime: 2024-02-28T14:48:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/us-news/google-ceo-sundar-pichai-calls-gemini-ai-photo-diversity-scandal-unacceptable-full-statement-here-101709130168773.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 4
 
 secured: "os9e1fjim8gRMjtmygs3hdKgLxzcyFYNf8BlHWKhl6OCZ/o35VrtNiBVJeAqqdBdDj6djgCotfHRZBjtJEwQ5dq3Qj24kCUgHpDq/+G8XOkDiHVWsYEkme8uYBd21DpR6ZHnoqfnppjwG3kHQff8lD+SPsviVVWuwybIEdOzM1LfugNdvY60SWjIsQLm46uTLtbNluyQlyQWkKjiYiamIfiqN+eZjkDyZl6vidreIsV3uyoLd8Fjia4F+cDXI5hkPhnDk8Fj2MKBCuvQMQsULetJF+fR5kD6+rzoM8wV/8m1z4yCqyQsG46z11yo7F0WI/Fb1iCprHvY3ftuB/syw6Sm8NG/U3wg4LzQXaF9z5Kb1gadJSK7BQe3JngJAbN5htEx63VCe9l5ouDPARFW9YABYG2uVvupE7igSjiSNOnL5TFHAyn/cl7TvzsKd8Bsr8cgvb/7cqIECF2yk+Lhh/XvWRVE5Prs63lVuM0rbxYwT5/hjIFPqOgLHu68zsWIONtZw1Mot+7URMAqh29HfA==;OrW+PeWgti+RPN0GFjgFhA=="
 ---

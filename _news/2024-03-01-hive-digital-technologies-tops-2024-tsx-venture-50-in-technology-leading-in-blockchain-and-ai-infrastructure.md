@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/hive-digital-techn
 webUrl: "https://markets.businessinsider.com/news/stocks/hive-digital-technologies-tops-2024-tsx-venture-50-in-technology-leading-in-blockchain-and-ai-infrastructure-1033121757"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,31 +24,15 @@ topics:
   - Meta AI
 
 related:
-  - title: "From Blockchain to AI: Exploring the Hottest Fintech Careers in 2024"
-    excerpt: "Are you ready to dive into the exciting world of fintech and explore the hottest careers that will shape the industry in 2024? From blockchain to AI, these technologies are revolutionizing how we manage our finances."
-    publishedDateTime: 2024-02-28T15:04:00Z
-    webUrl: "https://techbullion.com/from-blockchain-to-ai-exploring-the-hottest-fintech-careers-in-2024/"
+  - title: "IBM investing in AI training to address technology skills gap"
+    excerpt: "IBM SkillsBuild also includes coursework on AI ethics. All the courses are designed to be interactive Upon course completion, learners earn IBM-branded digital credentials that are recognised by potential employers. Pinto said AI was poised to drive ..."
+    publishedDateTime: 2024-02-29T14:29:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/ibm-investing-in-ai-training-to-address-technology-skills-gap-2024-02-29"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Fintech-Careers-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Interview With Piyush Rohella: A Leader In Payments And Fintech"
-    excerpt: "Thank you, Piyush, for sharing your valuable insights and experiences in the payments and fintech industry. Your innovative contributions and leadership have undoubtedly made a significant impact, shaping the landscape of financial services and inspiring others to pursue excellence in their work."
-    publishedDateTime: 2024-03-04T10:42:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/interview-with-piyush-rohella-a-leader-in-payments-and-fintech"
-    ampWebUrl: "https://www.outlookindia.com/amp/story/business-spotlight/interview-with-piyush-rohella-a-leader-in-payments-and-fintech"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/amp/story/business-spotlight/interview-with-piyush-rohella-a-leader-in-payments-and-fintech"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 24
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 19
 
 secured: "cewQD8EGkFcJEIbmaOgYt859OKR5LnfBB+Vc8csVhL9I3PqacxigzvDlBgw1zEJEPYkG0EtjEakEIEDC5X0VI3trHDA/zjyiCfeMReKYrnMnPh+g4STl7zY3fcsYM+35C+s6Th4mftz2S8sYI0ZiFtnY1HZ17Q2q28Ei0xb0+55DEqTofghcsL8YvvwN1zS2NwlIQ3mib7pz1Ra52Ku7zS7fGDYSBwtNZL2JqOgDL3x3WN6hQra8ZuxK+W4javRPYaJxdNYRzrAgcV+WPzD/2JFZtItUBj+h4pLBc0hor69q9JWS7fa9HQOZdWf4Ip2XnIxr/SuJTy2CD+CrEAbIn7JdnoS+8lYs15RNAxaFhcg=;A7OqYNpv4o/6ke/PoEcLfA=="
 ---

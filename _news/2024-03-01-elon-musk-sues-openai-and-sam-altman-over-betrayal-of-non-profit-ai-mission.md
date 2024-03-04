@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Sam Altman-backed startup Humane in talks with Indian telcos to launch AI Pin"
-    excerpt: "Sam Altman-backed startup Humane has started talks with Indian telecom operators to prepare for the launch of its Humane AI Pin device. “We are starting early conversations with India telcos and hoping to be able to make announcements in some year."
-    publishedDateTime: 2024-02-28T16:13:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/sam-altman-backed-startup-humane-in-talks-with-indian-telcos-to-launch-ai-pin-12373131.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Humane-601x435.jpg"
-        width: 601
-        height: 435
-        isCached: true
   - title: "Altman Ups AI Arms Race"
     excerpt: "Altman has been courting Middle Eastern sovereign wealth funds (SWFs), including Saudi Arabia’s Public Investment Fund (PIF) and Abu Dhabi’s Mubadala Investment Company, Abu Dhabi Investment Authority,"
     publishedDateTime: 2024-03-02T23:35:00Z

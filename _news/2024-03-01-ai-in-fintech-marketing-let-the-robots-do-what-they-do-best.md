@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 168
+heat: 148
 published: true
 
 provider:
@@ -33,15 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and Machine Learning Are Shaping Fintech"
-    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
-    publishedDateTime: 2024-02-28T14:57:00Z
-    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
   - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
     publishedDateTime: 2024-02-29T16:59:00Z
@@ -87,20 +78,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/QZXAnJ2zSc4VmkpPx0Gcp6fNcRE=/1200x630/filters:format(jpg):quality(70):focal(1774x763:1784x773)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JP5IUYRLE5A4NGXZFOHAPRI6MU.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "b1IYalWbSxJYbjxgwXa15jHjN0gDDR+/kH6Qn7iOAH+sqW0Bx+AL5FfTFG3+3a5POWPnZajt2Gzvrl9yTFwVx8sXS0jZG2DooZQmBdTLfoWGdfryqOL7c+7mSt+g75J5ehCgVU4B2PL55zHaAGIrbseK43e6fSt6sN31nNG/r5Q2wk1073X9mcHEKJRVi9sdy7ZcH6PKK2cnbHcaRKvNKGGKoBWLTRTdJGH1w+BhUHQ7W0k5iOS4POzkN9bkzE2gDxApQLmfsXWqyUtmVFZXc0EMSzT985VBlNO32COdCldCyj/2NjDG8X72LQEUfrpkQIg1Jh44Jdf2zUoF9vEpnS91vJ7wEwDEAPf0dhRo/t0CGKWmNT1/9B84rg6fImP6k8WWb7/+xPq+oM2fYjpc2k/UewZYxr9prKEQefM/YiEmyF1ufi0Foy7pFhlGjfsQl6t2qTM+tn+eW8B3vYlRCPlSAj2YLUZMMhY4HyYOUpfabsKasvmaA1aGXA7BO9QG/oEfoELKCA9adWqpr98Auw==;ARNfQ6dm4QI4+Ptc3Cd7UA=="

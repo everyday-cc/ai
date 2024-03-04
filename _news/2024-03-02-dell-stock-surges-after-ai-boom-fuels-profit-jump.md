@@ -31,6 +31,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Demand for computer chips fuelled by AI could reshape global politics and security"
+    excerpt: "Of course, the demand for chips to fuel AI’s growth is not the only way that artificial intelligence will make major impact on geopolitics and global security. The growth of disinformation and misinformation online has transformed politics in recent years by inflating prejudices on both sides of debates."
+    publishedDateTime: 2024-03-04T13:42:00Z
+    webUrl: "https://theconversation.com/demand-for-computer-chips-fuelled-by-ai-could-reshape-global-politics-and-security-224438"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 45
 
 secured: "Dalzjc8CwYLIFx/33N0YBc6G100UZ5+Os4bmitEk+Tx10U/n5odwKTAKYA5ncAcgg3WEuX+tnBGWoOh3NqaoKJT4+ixnznoccCFmtw4PnXSlDOM4G/TZGHKEE1nQ254NjkUgZ3j+Ld5f8wIZmmz+mImql1W5K5svSxHAp9zox3DtVzxWXdPezTFxPlxlINJ/NNTD4AcajU3T+S9oQn13OOZmYhusLJ0NPjwHYDVsgOWqvVk2v1ojioYrS/tXB+pEaua20/HeSozt62279BfjZEUD946E69SvaoQUdfazkyoWirdFEKr0yBRSRivM5BhAEg5lGjkckbEHn1ntIiEJEg74LagCI/AX3eMrqKhWBQ19KfXP2j7+/nAuDB659GYRoyHXdySPK10QS71gXJT+1O7VDas/3fYJiTorl3gIpeUI3/c14CCt1DDr6hS5q1BbiE+if/R0StoEbbAiGElXNT/b4f2x6+LEfp+Gst5dG3qyLGWqf1iGmKPFKEpkOjoaeyrOQsqJkSPgVOEala2lBw==;gXzWIazC2MCEoDPRZivB5A=="
 ---

@@ -75,15 +75,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
-  - title: "3 AI Stocks for Your March Must-Buy List (Hint: None Are Nvidia)"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is still the hottest trend in 2024. After"
-    publishedDateTime: 2024-02-28T15:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-for-your-march-must-buy-list-hint-none-are-nvidia-1033113810"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "NVIDIA's next-gen B200 AI GPU uses 1000W of power per GPU, drops in 2025, confirmed by Dell"
     excerpt: "NVIDIA has its beefed-up H200 AI GPU coming soon, while its next-gen B100 AI GPU should be revealed at GTC 2024 in less than two weeks time, but now it looks like we should expect a beefed-up B200 AI GPU in the future thanks to comments from Dell's Chief ..."
     publishedDateTime: 2024-03-03T08:05:00Z
@@ -126,6 +117,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia becomes Tesla’s successor as market flips from EV to AI"
+    excerpt: "The Santa Clara, California-based company has delivered blow-out results for four consecutive quarters, fueled by what appears to be insatiable demand for its chips used to train large language models that power AI applications like OpenAI’s ChatGPT."
+    publishedDateTime: 2024-03-04T15:22:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/72838243007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 36
   - title: "The Best Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- No, It's Not Nvidia"
     excerpt: "Analysts at BMO Capital see Alphabet(NASDAQ: GOOGL)(NASDAQ: GOOG) as the company best positioned to benefit from the growing demand for generative artificial intelligence (AI). The firm reasons that Alphabet has a big head start on most peers because its ..."
     publishedDateTime: 2024-03-01T12:54:00Z

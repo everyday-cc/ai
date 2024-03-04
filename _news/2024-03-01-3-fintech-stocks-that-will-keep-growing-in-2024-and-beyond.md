@@ -39,15 +39,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How AI and Machine Learning Are Shaping Fintech"
-    excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
-    publishedDateTime: 2024-02-28T14:57:00Z
-    webUrl: "https://www.finextra.com/blogposting/25809/how-ai-and-machine-learning-are-shaping-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
   - title: "Managing The Convergence Of Regulatory Tech And Fintech"
     excerpt: "Technological advancements in fintech are starting to help create a more secure financial ecosystem, where movements of funds are transparent and bad actors are more easily identified and stopped. AI and machine learning are poised to become even more crucial in helping to understand consumer behavior and patterns."
     publishedDateTime: 2024-03-01T14:30:00Z
@@ -84,20 +75,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/QZXAnJ2zSc4VmkpPx0Gcp6fNcRE=/1200x630/filters:format(jpg):quality(70):focal(1774x763:1784x773)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JP5IUYRLE5A4NGXZFOHAPRI6MU.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "From Innovation to Investment: The Rise of Top Fintech Startups in Today’s Market"
-    excerpt: "In a world where technology is constantly evolving, the financial industry is no exception. Fintech startups are revolutionizing the way we think about finance, from banking to investing. Join us as we explore the rise of these innovative companies and how they are attracting significant investment in today’s market."
-    publishedDateTime: 2024-02-28T16:05:00Z
-    webUrl: "https://techbullion.com/from-innovation-to-investment-the-rise-of-top-fintech-startups-in-todays-market/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/FinTech-Startup.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "DiF1Wo+MbXcYz6NlYosfpzaVP1YI+xxoPhoee3UAAR6qfabOYcpyReA/Y4ayloX4Q2V+TdBbdNggcLkD4e8FTVLcULt/Oxfb8AFIY07nClXtWjihEHJKsIKDPfrvqdc1nyUSLNcjD3A1AeymMoXe9LUIorwF9NtsAOnhjeUFR8W3uSbceat7IgARYdCwGTySnUL2ERVhqyiyj1TdDNa6cn9hQTcsQyWCZ+7yZLwuYcokkW42pMdYH+pyibfpB68qfkCIRGXJYvNXz6FndRATmEEs2My0vvfFbmfNpGteelChSi8G6zxJ7B3hu9d7vQaHKmeDNYrkOJJsZIR17EhUvNmmqv8D4Kk0ieQgARvgrqIRUCBsAWkJR6ydN2MkyGec9QgN4D94P1t2DM66I4RsB+Ak2tjewsJRcaZJcfbNfGoaBdJLNNPR4hE7gH3BEMCsSdQmW0aC9XgD9uqzp5wUheQytUKsuXHIm9i3bcbKY1BRebVc/8xAuscO1VTEyJZ8rtS8mHzzYVQcHrUPu0ToGQ==;0ScGZ+TxcFEZNMc1qT1Qjw=="

@@ -55,20 +55,6 @@ related:
         width: 1048
         height: 675
         isCached: true
-  - title: "The Vulnerabilities and Security Threats Facing Large Language Models"
-    excerpt: "Explore the vulnerabilities of large language models like GPT-3 and ChatGPT, and discover strategies to protect against adversarial attacks, data poisoning, model theft, and infrastructure vulnerabilities,"
-    publishedDateTime: 2024-02-28T16:44:00Z
-    webUrl: "https://www.unite.ai/the-vulnerabilities-and-security-threats-facing-large-language-models/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2022/10/data-poisoning-feature-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "Meta Set to Unleash Llama 3 an AI-Language Model"
     excerpt: "Meta, the parent company of Facebook, is gearing up to launch its latest AI language model, Llama 3, in July, as reported by The Information. This new"
     publishedDateTime: 2024-03-02T18:40:00Z
