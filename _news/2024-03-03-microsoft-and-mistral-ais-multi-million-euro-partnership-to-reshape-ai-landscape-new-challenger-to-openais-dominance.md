@@ -161,20 +161,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "EU balks at Microsoft’s deal with French AI startup"
-    excerpt: "Mistral’s AI pact with U.S. tech giant Microsoft comes after bitter lobbying over how Europe can push into the next tech wave."
-    publishedDateTime: 2024-02-28T11:37:00Z
-    webUrl: "https://www.politico.eu/article/policymakers-tech-react-to-splashy-microsft-mistral-ai-french-startup-deal/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 54
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/02/28/GettyImages-2035610988.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
     excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."
     publishedDateTime: 2024-02-29T13:00:00Z
@@ -188,20 +174,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/ybCxS43NhQOBa5jkIkbISA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/6b32ce3930fd4f032171c753d4ab7fee"
         width: 1200
         height: 740
-        isCached: true
-  - title: "Clifford Chance Rolls Out Microsoft-Partnered AI Strategy Across Whole Firm"
-    excerpt: "The latest expansion comes after Clifford Chance became one of the first law firms to develop its own private and secured AI tool—Clifford Chance Assist—developed on Microsoft’s Azure OpenAI platform that was rolled out across the firm in December ..."
-    publishedDateTime: 2024-02-28T12:15:00Z
-    webUrl: "https://www.law.com/americanlawyer/2024/02/28/clifford-chance-rolls-out-microsoft-partnered-ai-strategy-across-whole-firm-405-137130/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 52
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/405/2024/02/Microsoft-sign-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
     excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."

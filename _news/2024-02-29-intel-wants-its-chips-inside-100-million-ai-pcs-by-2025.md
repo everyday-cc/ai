@@ -7,8 +7,8 @@ originalUrl: "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-
 webUrl: "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Tom's Guide
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel AI Chips manufacturing plan unveiled"
+    excerpt: "To make this a reality Intel, a giant in the semiconductor industry, has laid out a detailed plan to take the lead in the AI chip market. This move is set to transform the way chips are made and used across the globe. ChatGPT creators OpenAI are also ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-ai-chips/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Intel-planning-to-manufacture-AI-chips.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Intel plans on shipping 100 million CPUs for next-gen AI PCs by 2025"
     excerpt: "Intel plans on shipping over 100 million processors for AI PCs by 2025, where it's working with Microsoft to try and 'define' the value of an AI PC."
     publishedDateTime: 2024-02-28T23:13:00Z

@@ -26,51 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Rethinking AI In The Context Of Sustainability"
-    excerpt: "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ..."
-    publishedDateTime: 2024-02-28T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/"
+  - title: "The Evolution Of Rugby: A Journey Into The Future With AI"
+    excerpt: "Imagine where tradition meets cutting-edge technology, where the raw physicality and strategic depth of rugby are enhanced by the power of AI. Well, it's already here."
+    publishedDateTime: 2024-02-28T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1501
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b89953d60c1b6c85f3c6ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 900
         height: 900
         isCached: true
-  - title: "Here Come the AI Worms"
-    excerpt: "Security researchers created an AI worm in a test environment that can automatically spread between generative AI agents—potentially stealing data and sending spam emails along the way."
-    publishedDateTime: 2024-03-01T08:59:00Z
-    webUrl: "https://www.wired.com/story/here-come-the-ai-worms/"
+  - title: "12Th Global Festival Of Journalism Hosts Seminar On The Future Of Journalism With Artificial Intelligence"
+    excerpt: "(MENAFN- ForPressRelease) Noida: The 12th Global Festival of Journalism held a groundbreaking seminar on the future of journalism in the age of Artificial Intelligence (AI). The event, which took place at Marwah Studios brought together esteemed ..."
+    publishedDateTime: 2024-03-04T01:03:00Z
+    webUrl: "https://menafn.com/1107929511/12Th-Global-Festival-Of-Journalism-Hosts-Seminar-On-The-Future-Of-Journalism-With-Artificial-Intelligence"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
     images:
-      - url: "https://media.wired.com/photos/65e0e13fef1050f96f06c160/191:100/w_1280,c_limit/security_ai_worm_email_spam.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Exploring the impact of Artificial Intelligence"
-    excerpt: "Visitors can dive into the realms of artificial intelligence at the Muscat Book Fair, where the evolution of this groundbreaking technology"
-    publishedDateTime: 2024-02-28T16:08:00Z
-    webUrl: "https://www.omanobserver.om/article/1150321/oman/exploring-the-impact-of-artificial-intelligence"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150321"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150321"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 59
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/28/2594140.jpg"
-        width: 1000
-        height: 819
+      - url: "https://menafn.com/updates/pr/2024-03/04/F_0b1d0image_story.jpg"
+        width: 800
+        height: 717
         isCached: true
 
 secured: "zALsf1UshsGXm/3kitYEJBTcEXXR0Ql1nUwllXls0g6qq0SoxVs6BSPWXs5dofFotjwjYxbIbUsSUS056pX4JVyhdOzKX1z5b2iMuji/4J/fVyPLwhaRXKkTY4OPlBVMF6hkB26WBlBj7g9/8cyzE2o1hwmiMFFU2pixQ+8ysREd8Mi2LVndkDcWRy02blXa3e5tw7wrjRNEKX1whdr2m3QTiHbb79ZHcsG6gYb2ED64+jW5GyodyFr9534gWSa3/sjybpGGkJF0RMurX2bVAAU4R6QuLWpLKgrnLybNPo7JuQdPU+h2vvGX7UPo9uqTEIwuNwVqQOPNrLQcNOF345GGUPx4yZWiKj03l2I5XUE=;MNll1nAbVaadSLD71HvnfQ=="

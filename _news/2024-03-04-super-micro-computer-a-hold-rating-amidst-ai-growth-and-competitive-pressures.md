@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "Baidu Buy Rating Affirmed on Strong Financials and AI Growth Potential"
+    excerpt: "Baidu (BIDU – Research Report), the Communication Services sector company ... with a significant contribution from Gen-AI technology—which now accounts for 5% of Baidu’s total revenues—bolsters confidence in the company’s future earnings before ..."
+    publishedDateTime: 2024-03-01T00:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-buy-rating-affirmed-on-strong-financials-and-ai-growth-potential-1033122456"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "GxakvPkciOhDAgRxUX8yV4bYC1Zzo2ruNLEuqaNMBeT1FVXemJPQJfxHhKCZFup2m5WToeA+g6spI9LIqzpiuhjIuGDpshnPV+xAMlgYP3ezJcr4nTH+nk9RuCsjWJIv0Jgq28VeaHVYfVkIXFN378NSwbMqjeqH1bZelWeXUDOIkP0eOlxJhNFX5QxTlOhF7BbVrU9ImSFuT9UUDQIRpSN3WF3hwqd8a48GE/PyVyD0EaZP+KnSDnK72JhAbO+/wTcUlCCdrrmD0z2I4+wjW0CFxJC4wLCRHKKDQ/rzhJ3NgH6Of+A2zxIMpObqoRZEWQ+VJNvgDOEWnt7fpxheukNitACJ5tcomQSmLxQpRx0=;Nm41hu+9r6ORa4Dr05xBCA=="
 ---

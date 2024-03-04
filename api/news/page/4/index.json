@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-29-start-up-street-can-india-be-at-the-forefront-of-ai-technology.md",
+      "title": "Start-up Street: Can India be at the forefront of AI technology?",
+      "excerpt": "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
+      "publishedDateTime": "2024-02-29T04:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-abb-eyes-ai-robotics-integration-to-push-growth-in-various-businesses.md",
+      "title": "ABB eyes AI-robotics integration to push growth in various businesses",
+      "excerpt": "ABB Ltd will integrate artificial intelligence with robotics across various sectors in China to sustain robust growth, senior executives of the Swiss-Swedish technology and engineering group said, as AI continues to evolve at an unprecedented pace, transforming numerous industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202402/29/WS65dfdce5a31082fc043b9b69.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202402/29/WS65dfdce5a31082fc043b9b69.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202402/29/65dfdce5a31082fc2b69544d.jpeg",
+          "width": 992,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T01:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-kirin-sinha-shares-how-generative-ai-has-fueled-augmented-reality.md",
       "title": "Kirin Sinha Shares How Generative AI Has Fueled Augmented Reality",
       "excerpt": "Kirin Sinha, of Illumix, shares the advancements in artificial intelligence that have allowed augmented reality to become much more accessible to everyday consumers.",
@@ -294,7 +379,7 @@
       "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -492,7 +577,7 @@
       "originalUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": null,
       "content": "",
@@ -523,6 +608,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-intel-wants-its-chips-inside-100-million-ai-pcs-by-2025.md",
+      "title": "Intel wants its chips inside 100 million 'AI PCs' by 2025",
+      "excerpt": "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
+      "originalUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -776,7 +904,7 @@
       "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -815,58 +943,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots.md",
-      "title": "Amazon to spend $1 billion on startups that combine AI with robots",
-      "excerpt": "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
-      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1116,108 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-how-ai-will-spur-the-democratization-of-technology-in-2024.md",
-      "title": "How AI Will Spur The Democratization Of Technology In 2024",
-      "excerpt": "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65299ef3b71b98caddf7c4c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1478,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/",
-      "publishedDateTime": "2024-02-28T10:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-ai-takes-over-davos-the-promise-the-risk-and-the-way-forward.md",
-      "title": "AI Takes Over Davos: The Promise, The Risk And The Way Forward",
-      "excerpt": "As the AI conversation shifts focus from its potential to perceived risks, what does the way forward look like, and will regulation stifle innovation or stimulate it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de07c5838ea55f72854821/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
-      "publishedDateTime": "2024-02-28T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

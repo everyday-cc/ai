@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3713340/the-roi-in-ai-and-how-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713340/the-roi-in-ai-and-how-to-find-it.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1199
     height: 608
     isCached: true
+
+related:
+  - title: "Why AI Struggles with Basic Math (and How That’s Changing)"
+    excerpt: "Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI) demonstrating remarkable capabilities in language generation, translation, and reasoning. Yet, LLMs often stumble over basic math problems, posing a problem for their ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/why-ai-struggles-with-basic-math-and-how-thats-changing/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 36
 
 secured: "KQlSz6jRoq2tJG3klCwLxA4E98j0a/SUppgr9sg2eGQcYoDndbxZntc9zL2wlr3x9fiTosvGJj1T+NEUxaAYOjbJHhe0k5xZFrBiA3rUyMytQ0ezi/7c2Qi0uslQ/QdjW7HiPDoufKm4gmrn/lOeCTO2Qj3BiXxHh4gIGuwZp0bGHfewLn1zkrGQpIfEiIUjfZtkWULHRJZ41IQ/3Nr3jwytnDRcQ1WzlpPP3SIyN78ql3+atQF+aZCbfcP+kplct3iST7Cl8A2kHgW71Jjovnp3xClx1fVbH8wgAlnJE8+XY3rOFMyOk8aI2RDgAVcaW4IAK1Vu8zA2qiCKqP6eoZiJ0YEGrQy/KqpM913oMa4=;OkDmVPYOET9XWwQvN20FrQ=="
 ---

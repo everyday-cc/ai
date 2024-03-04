@@ -2,6 +2,144 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2024-01-23-afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region.md",
+      "title": "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region",
+      "excerpt": "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2",
+          "width": 829,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1",
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-dentsu-mines-amazon-ai-hits-bedrock-sagemaker-too.md",
+      "title": "Dentsu Mines Amazon AI, Hits Bedrock (SageMaker, Too)",
+      "excerpt": "Bedrock and SageMaker (see explainer videos above and below, respectively) -- for the next generation of AI across Dentsu. While the holding company is continuing its own bespoke AI development efforts, it said it is embracing third-party and open-source ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/23/screenshot-2024-01-23-at-102728-am_o0nq7eE.png",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is.md",
+      "title": "Human workers still have one crucial advantage over AI - but you might not be happy to hear what it is",
+      "excerpt": "According to a new study conducted by researchers are the Massachusetts Institute of Technology (MIT) (via SiliconAngle), increasing concern that AI could replace human workers imminently is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
+      "originalUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZCE7nTe3udASYn64aitQem-1200-80.jpg",
+          "width": 1024,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy.md",
       "title": "Inhibrx, Sanofi ratify $2.2B deal for AATD therapy",
       "excerpt": "Inhibrx Inc. and Sanofi SA have agreed to a deal worth up to $2.2 billion, whereby the latter’s Aventis Inc. subsidiary will acquire INBRX-101, an optimized, recombinant alpha-1 antitrypsin (AAT) augmentation therapy undergoing a registrational trial for ...",
@@ -994,145 +1132,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-openai-plans-to-set-up-chip-factories-worth-100-billion-report.md",
-      "title": "OpenAI plans to set up chip factories worth $100 billion: Report",
-      "excerpt": "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
-      "originalUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
-      "publishedDateTime": "2024-01-22T12:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-chatgpt-ceo-altman-wants-to-raise-billions-of-dollars-to-build-ai-chip-factories-sources-say.md",
-      "title": "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say",
-      "excerpt": "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-cops-used-dna-to-predict-a-suspects-faceand-tried-to-run-facial-recognition-on-it.md",
-      "title": "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It",
-      "excerpt": "Leaked records reveal what appears to be the first known instance of a police department attempting to use facial recognition on a face generated from crime-scene DNA. It likely won’t be the last.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
-      "originalUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65a983aeccf1dfc50354872a/191:100/w_1280,c_limit/security_police_DNA_facial_recognition.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

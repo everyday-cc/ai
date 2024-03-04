@@ -44,6 +44,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gemini Row: MoS IT Slams Google; Startups Raise Concern Over MeitY Advisory On AI"
+    excerpt: "“The AI data is coming out straight from the lab onto the public ... The Rule 3(1)(b) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 mandates digital intermediaries to not host content that is defamatory ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://inc42.com/buzz/gemini-row-mos-it-slams-google-startups-raise-concern-over-meity-advisory-on-ai/"
+    ampWebUrl: "https://inc42.com/buzz/gemini-row-mos-it-slams-google-startups-raise-concern-over-meity-advisory-on-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/gemini-row-mos-it-slams-google-startups-raise-concern-over-meity-advisory-on-ai/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 34
 
 secured: "dClWcr2/RVyCEa+piLzrkw1q43whZO+TU2e4Q6G/lL674pRHOScC6yLONAwcVVfwcn+DI/Z2Vue01iXdWvrDLYG7+nDrdzZAR9ymyMQ3b4XUT/msVDlWt1LlbSXItk2o4YOCEIYdmIgEG5KEODBaXGmiSWrCyjJgghphxCULzkgbn2gi2pwWvdNc0rYwmsnqoAubUZpas8TRnZh3gpg4+z76DJ8zWu0O9iGJ7ixfNYei8rAIErZ96DLIsT8kDoepy666Gk/t9pJQpATVK2A1tKpte0A246mLEfofrjUpegHuyNQCWCujpet2LHn419l+EFz+mgO3qSL0DId+Bc0MZ0fLB12H3bUStBQV6GRQBRpZqpkQUkcWFq9T+fk+cemBjFqA3jouBzvF6i23g5RP+PA4mKszZ94kxeL4XU5shA72CDORQyX7MsWN18zkvVMNRliYSZ11Pe9a2bAVQu9O2s43O8ExTezlS33360VMYMmSb9cQ4GjCdYerAis0sUJ61uuh1Pth/o86WszEoJMNjQ==;t+E62v2T7zsT18wD0BgrUQ=="
 ---

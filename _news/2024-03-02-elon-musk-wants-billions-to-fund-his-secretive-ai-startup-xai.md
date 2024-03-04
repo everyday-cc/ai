@@ -25,34 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon to spend $1 billion on startups that combine AI with robots"
-    excerpt: "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network."
-    publishedDateTime: 2024-02-28T14:48:00Z
-    webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+  - title: "Elon Musk: AI will run out of electricity and transformers in 2025"
+    excerpt: "\"I've never seen any technology advance faster than this.\" The chip shortage may be behind us, but AI and EVs are expanding at such a rapacious rate that the world will face supply crunches in electricity and transformers next year, says Elon Musk."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://newatlas.com/technology/elon-musk-ai"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://assets.newatlas.com/dims4/default/27ca86b/2147483647/strip/true/crop/1136x757+121+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F5e%2F2a832fc94918a562a5ccdef4b0a3%2F6.jpg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "EXL collaborates with AWS to accelerate commercialization of generative AI solutions"
-    excerpt: "EXL currently has more than 50 AI-based accelerators deployed in the market, in addition to core solutions designed to empower enterprises across insurance, healthcare, banking, media, and retail to scale their AI capabilities more rapidly while also putting privacy and security at the forefront. Specific solutions now available on AWS include:"
-    publishedDateTime: 2024-02-28T14:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969722.htm"
+  - title: "How Elon Musk Is Using His AI Startup to Help Turn Around X"
+    excerpt: "When Elon Musk created his artificial-intelligence startup xAI last year ... joining forces with his social-media company X. The AI company, for example, says it has an advantage of having ..."
+    publishedDateTime: 2024-03-01T14:33:00Z
+    webUrl: "https://www.wsj.com/tech/ai/elon-musks-x-leans-on-his-ai-startup-9038380d"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 47
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "iKmx/cMm1jWezlS6Y5YosaZ1EegWFy5zBtKJCiCTTLlT3+QbsQzj2BAP2xz+zx6H/+W+SnyC8muwEAuMBitwrOFNJ78cCyLAgkLCacliSVFJHdwSsSG6qhwJPFQWAEDLsiHrRnDp70FK0iBWf15JT+FWZ6vbxNlcpUQGhDAKPs+cg3nqpQJSfX9hZ6fcJ6nS/6W1+JDmzXJ8V9a40L5hmod4aRHDt1cSzOQWTYKK8rrcC2uQx1fOcdZJUGqDCHJLB9OJDF+9ZJAcQeoOBIsRqWr460O8/l3P/d8ufUWsYtDzdGq+YBH3NKBoDocPiWsEckElOhqXuAgmUDY+no6Z8iEDaUZhUWYx4/fPlG+pOdLynx+P5FbwCbHefpvZhFeg2Kwt58qLnl4bLn9SYGNJTEEyxpTiRa9Ua9cZiSRb+7YkJ/GCZy+KUpdMh7xpWJBr5dH2d+ghJo6INITcpFFT+yXOcQXj29EtzA+oGvgYfjS0asF6hH5XjXqsnwZE0FztCIvWcY1NykxNB4RclMhXVw==;3kKc7ghlrajCpAXI/dNnkA=="
 ---

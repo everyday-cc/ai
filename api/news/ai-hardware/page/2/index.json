@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-24-can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse.md",
+      "title": "Can AMD Dethrone Nvidia as the Artificial Intelligence (AI) Powerhouse?",
+      "excerpt": "Therefore, I believe AMD will carve out a high-growth niche in the AI market in the same way it expanded into the gaming GPU and data center GPU markets. But I don't think it will replace Nvidia as the AI kingpin. When our analyst team has a stock tip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24304415/can-amd-dethrone-nvidia-as-the-artificial-intelligence-ai-powerhouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/3e1f5bb4b863195ee11d3a05ccd4a572/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766178%252fblue-semiconductor.jpg%26amp%3Bw%3D700",
+          "width": 2270,
+          "height": 1320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T16:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai-chip-sales-are-driving-stock-markets-to-new-records.md",
       "title": "AI chip sales are driving stock markets to new records",
       "excerpt": "Nvidia's unprecedented leap in revenue from higher chip sales for AI and cloud use speaks volumes about the future of the technology and its impact on the economy.",
@@ -1417,49 +1460,6 @@
       "provider": {
         "name": "Datacenter Dynamics",
         "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing.md",
-      "title": "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing",
-      "excerpt": "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
-      "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37218987",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987",
-      "publishedDateTime": "2024-02-20T13:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

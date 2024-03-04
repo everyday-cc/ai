@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The future of artificial intelligence in trucking"
+    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 41
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "12Th Global Festival Of Journalism Hosts Seminar On The Future Of Journalism With Artificial Intelligence"
     excerpt: "(MENAFN- ForPressRelease) Noida: The 12th Global Festival of Journalism held a groundbreaking seminar on the future of journalism in the age of Artificial Intelligence (AI). The event, which took place at Marwah Studios brought together esteemed ..."
     publishedDateTime: 2024-03-04T01:03:00Z

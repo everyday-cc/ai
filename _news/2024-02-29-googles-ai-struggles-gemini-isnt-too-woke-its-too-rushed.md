@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemin
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: moneycontrol.com
@@ -43,6 +43,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Gemini Row: MoS IT Slams Google; Startups Raise Concern Over MeitY Advisory On AI"
+    excerpt: "“The AI data is coming out straight from the lab onto the public ... The Rule 3(1)(b) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 mandates digital intermediaries to not host content that is defamatory ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://inc42.com/buzz/gemini-row-mos-it-slams-google-startups-raise-concern-over-meity-advisory-on-ai/"
+    ampWebUrl: "https://inc42.com/buzz/gemini-row-mos-it-slams-google-startups-raise-concern-over-meity-advisory-on-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/gemini-row-mos-it-slams-google-startups-raise-concern-over-meity-advisory-on-ai/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 34
 
 secured: "IroL+kvxgnJ0nXlTK6R/3ZxEMIPuFUlfCWRKm0XxmlOpPTpJm8PpaS327QwYduHfFGq4r0k6pXL5v93et8y7l3ToSP05iyYdBihNSzN049JWTnmssgNMZ1OsaQo0i3ico/aUDxMYMtmzU+lGkZFYusaH7SCfaN8jXYxDrmc/cBx9kz/UgiwQodrHy++d/4y7dffms1UWe6YjnffK2JevOT7ExmxIGw3SI7Yu8h6XetA7469pCHP6N6oV8oH9Ygc74lTEUUdGwiccQTwzQl9GDvY8xgKW521K2D3zbuSI2nT0mCYcvHnSxOg9z1AwM25H59bFYfJZewsMyeMy5TeZBp6lmeoWQtEeCvAFJ5jPdWo=;cBT7PS3Aq6uOCnV0e68pFw=="
 ---

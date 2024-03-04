@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
         width: 605
         height: 403
+        isCached: true
+  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
+    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
+    publishedDateTime: 2024-03-04T10:58:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
     excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."

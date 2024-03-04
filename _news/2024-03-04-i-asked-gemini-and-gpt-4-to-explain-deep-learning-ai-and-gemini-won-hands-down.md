@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
 type: article
 quality: 100
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107374413-1708024437471-gettyimages-1992338676-AA_10022024_1525083.jpeg?v=1709322946"
         width: 7373
         height: 4918
+        isCached: true
+  - title: "Move over Gemini, open-source AI has video tricks of its own"
+    excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."
+    publishedDateTime: 2024-03-04T11:38:00Z
+    webUrl: "https://www.zdnet.com/article/move-over-gemini-open-source-ai-has-video-tricks-of-its-own/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/818ce3563f39d3b39aa350a457278e8286cd694c/2023/12/06/aa9adc0c-ec53-4778-9a97-d5b072ee5a5a/geminiera.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google's AI Bias Blunder with Gemini Prompts Commitment to Change"
     excerpt: "\"We cannot be certain that there is no inherent bias within the AI models since it is often latent until some use case exposes it,\" Joseph Regensburger, VP of Research, Immuta, told Tech Times in an interview. He explained that, for the most part ..."
@@ -169,6 +183,6 @@ related:
       domain: computerworld.com
     quality: 19
 
-secured: "Uk1Zx6NRGMSy1XE9q9M3GefcLgr6QmHJ4WS/jRvhEDTb5ScvZoO0BdC+wP8jn2LI2hhqW+YP5yG0B/w59gFJGtlfqmp/bgd+FzNdiTe/ALbxHM3gdU7id6Fo9+CPHYYSlRnYLc/b7B9utsRkDrQ8dI9/XEeTIpXlB/BgGeolV+5/sKyen9lKidtsyf/L82ft+NVdKy8v5vcahkhMERM6HZ6n0EUt3/CX2f5/ko6x+hCXVOw0N6PxpwP7fJwJjanbdq/XqrjS5Ab47jN/nFp2+2kY1XPqE4l/elMS5isRCzp4j0YWy+RdwDrkMWY6nVR3R5PCtGwlxsf+teYhzE1HaA0AojOBcsCOXTYqa7qHdyQ=;9s2Y0hjJy0d6tZcE4vwn5A=="
+secured: "XFEslSVFDnmZBaxEp8NuQrcqwRPVUF6HSw+G15a9I1KXhaBONVBBdQaqRngQF6vUSDbOavWE9duk6wWi/6OvgvTtajr6crlaw7stAZaXx2sW7TskEqmJwMjc9A2Rbf+r7Tv6llwnkmhSDWbpjRtmtfUNsLEdNTkFWQhGDUu5kq/axDoz4iQyvgABNqMwhoD6Kz8inPvLbJQWNtBwEfO0PJGRcNe/UqW0V3uDjDmEIysNrClbO7mQOPdJ2ap7oZtPSn2zrIO7GiZ970ZK51yH9eHeK4s6EOHp0e8QhJ+yWURfbhA64wxUudXOEEJzEHw4iNZyAeaVjVL1aN09UNnouy5Nm1dfBYqE4VVSLLbuISV6LIICTj2GylPS1H/08HyJDErpxdRXnNC3jkb+jOlvga9byoLIZJFsRpXwWgfgIcKB2hYo75WLUKk5WHj2ZcGrT6Fn2on7GOZeohP8xtMhL6qIQxnTmjYZzwbUXl0iFWM+sv4kp12Xgh9n+H7XV3euXulu7jG3+H3rP4QGQJ6/4g==;Gnf8krQ1U21yWmEq0JSHGw=="
 ---
 

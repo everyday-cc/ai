@@ -2,6 +2,161 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-01-30-inferenceai-matches-ai-workloads-with-cloud-gpu-compute.md",
+      "title": "Inference.ai matches AI workloads with cloud GPU compute",
+      "excerpt": "Inference.ai, a startup building a platform that matches AI workloads with available GPU compute, has raised new venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/",
+      "originalUrl": "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1318623693.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/amp/",
+      "publishedDateTime": "2024-01-30T13:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-how-ai-can-enhance-your-resume-in-2024.md",
+      "title": "How AI Can Enhance Your Résumé In 2024",
+      "excerpt": "Clarissa Windham-Bradstock is CEO/Chief People Officer of Any Lab Test Now, a leading national retail healthcare and lab testing franchise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7cd1c8231c891e67c960b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1355,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
+      "publishedDateTime": "2024-01-30T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing.md",
+      "title": "AI And EI: Balancing Empathy And Artificial Intelligence In Marketing",
+      "excerpt": "2. Ensure that you have a seasoned team that knows how to be judicious and scrutinize when and how much to use your AI tools and when to balance that with human intelligence, forethought and empathy. Integrating AI effectively can and should be a means to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 855,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/",
+      "publishedDateTime": "2024-01-30T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-koreai-a-startup-building-conversational-ai-for-enterprises-raises-150m.md",
       "title": "Kore.ai, a startup building conversational AI for enterprises, raises $150M",
       "excerpt": "Vendors like Google Cloud, Azure and AWS offer robust scaling solutions for conversational AI and GenAI apps, and Kore.ai isn’t the only platform to let customers deploy models in a range of local and cloud compute environments. But — whether on the ...",
@@ -1059,143 +1214,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes.md",
-      "title": "Nala Robotics incorporates generative AI into restaurant robot recipes",
-      "excerpt": "Nala Robotics said it is looking at how AI can help robots create recipes with the ingredients at hand, reducing food waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
-      "originalUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/nala_robotics_inc_cover.jpeg",
-          "width": 770,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T18:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech.md",
-      "title": "ACLU and ACLU of NJ File Friend-of-the-Court Brief in Challenge to Wrongful Arrest due to Face Recognition Tech",
-      "excerpt": "NEWARK – Today, the American Civil Liberties Union of New Jersey and the ACLU filed an amicus brief in support of Nijeer Parks – who was wrongfully arrested in 2019 following police reliance on a false match by face recognition technology. The ACLU’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
-      "originalUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/wp-content/themes/aclu-wp/img/issues/press-release.jpg",
-          "width": 526,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aclu.org",
-        "domain": "aclu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-ai-companies-will-be-required-to-report-safety-tests-to-us-government.md",
-      "title": "AI Companies Will Be Required to Report Safety Tests to U.S. Government",
-      "excerpt": "(WASHINGTON) — The Biden Administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
-      "originalUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1754343700.jpg?quality=85",
-          "width": 5921,
-          "height": 3947,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T17:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

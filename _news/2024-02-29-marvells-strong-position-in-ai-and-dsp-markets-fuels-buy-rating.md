@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Baidu’s Strong Earnings and AI-Driven Growth Outlook Prompt Buy Rating"
+    excerpt: "CMB International Securities analyst Saiyi HE maintained a Buy rating on Baidu (BIDU – Research Report) yesterday and set a ... financial performance and strategic focus on generative AI to drive future growth. Baidu’s fourth-quarter results for ..."
+    publishedDateTime: 2024-03-01T00:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-strong-earnings-and-ai-driven-growth-outlook-prompt-buy-rating-1033122457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Dell Technologies Surpasses Earnings Estimates with Strong ISG Performance and AI Server Growth; Receives Buy Rating"
     excerpt: "Goldman Sachs analyst Mike Ng maintained a Buy rating on Dell Technologies (DELL – Research Report) yesterday and set a price ... Additionally, the analyst was impressed by Dell’s AI server backlog, which at the end of the fiscal year 2024 stood ..."
     publishedDateTime: 2024-03-01T04:06:00Z

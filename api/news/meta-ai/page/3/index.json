@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-09-uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres.md",
+      "title": "Uruguay Llama A Consultas A Su Embajador En Venezuela Por Hechos \"Que Harían Inviable\" Elecciones Libres",
+      "excerpt": "El gobierno de Uruguay llamó a consultas a su embajador en Venezuela para que informe de manera urgente sobre hechos que según las autoridades uruguayas \"harían inviable\" la celebración de elecciones libres en el país caribeño.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
+      "originalUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T22:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-research-shows-that-offering-tips-to-chatgpt-improves-responses.md",
       "title": "Research Shows That Offering Tips To ChatGPT Improves Responses",
       "excerpt": "A research paper titled, Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4,” details an in-depth exploration into optimizing Large Language Model prompts. The ...",
@@ -1334,58 +1368,6 @@
         "AI in Finance",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-meta-used-copyright-to-protect-its-ai-model-but-argues-against-the-law-for-everyone-else.md",
-      "title": "Meta used copyright to protect its AI model, but argues against the law for everyone else",
-      "excerpt": "Meta thinks effectively that everything available on the internet falls under \"fair use,\" because AI models like Llama do not exploit or reproduce copyrighted works. (Although they, in fact, very often, do). However, a few months before pushing this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
-      "originalUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65b8546743bb77284ba18d1a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
-      "publishedDateTime": "2024-01-30T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

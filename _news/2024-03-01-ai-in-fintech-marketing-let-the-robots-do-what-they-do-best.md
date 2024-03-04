@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -33,15 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In MarTech: How AI Will Impact The MarTech Industry"
-    excerpt: "The crucial part of AI-powered MarTech systems is to balance human creativity with the automation tasks that they are responsible for. Each year, I have seen new AI and tech startups spring to life. They claim to assist marketers in automating their routine tasks as it consumes almost a third of their time, according to HubSpot."
-    publishedDateTime: 2024-02-28T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-in-martech-how-ai-will-impact-the-martech-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How AI and Machine Learning Are Shaping Fintech"
     excerpt: "Fintech has evolved radically in the last few years, thanks in no small part to artificial intelligence (AI) and machine learning (ML). Influencing everything from core operations to how we make critical decisions, AI and ML have found their way into ..."
     publishedDateTime: 2024-02-28T14:57:00Z

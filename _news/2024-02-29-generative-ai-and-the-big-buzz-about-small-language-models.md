@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-sm
 webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
 type: article
 quality: 69
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 713
         isCached: true
+  - title: "Meta Set to Unleash Llama 3 an AI-Language Model"
+    excerpt: "Meta, the parent company of Facebook, is gearing up to launch its latest AI language model, Llama 3, in July, as reported by The Information. This new"
+    publishedDateTime: 2024-03-02T18:40:00Z
+    webUrl: "https://www.arabtimesonline.com/news/meta-set-to-unleash-llama-3-a-ai-language-model/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.arabtimesonline.com/news/wp-content/uploads/2024/03/pexels-photo-17614476.jpeg"
+        width: 1880
+        height: 1253
+        isCached: true
   - title: "Meta plans launch of new AI language model Llama 3 in July, The Information reports"
     excerpt: "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ..."
     publishedDateTime: 2024-02-29T00:31:00Z
@@ -86,6 +100,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y"
         width: 1200
         height: 676
+        isCached: true
+  - title: "The limits of large language models"
+    excerpt: "A recent paper from Google AI researchers raises questions about their creative outputs, shedding light on potential limitations beyond their training data. While these models have demonstrated exceptional fluency in language processing, translation ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/the-limits-of-large-language-models/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Victor_Botev_2_bnw.2e16d0ba.fill-1200x630.jpg"
+        width: 800
+        height: 421
         isCached: true
   - title: "An update on the BBC’s plans for Generative AI (Gen AI) and how we plan to use AI tools responsibly"
     excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. He's responsible for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"

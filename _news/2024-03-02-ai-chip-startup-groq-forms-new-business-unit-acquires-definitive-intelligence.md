@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-bus
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/"
 type: article
 quality: 100
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -45,6 +45,29 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AI chip business Groq acquires Definitive Intelligence to bolster GroqCloud unit"
+    excerpt: "AI chip startup Groq has acquired Definitive Intelligence for an undisclosed sum. The acquisition will support the company’s newly formed GroqCloud unit, which will be led by Definitive Intelligence co-founder and CEO Sunny Madra. GroqCloud is a cloud ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-business-groq-acquires-definitive-intelligence-to-bolster-groqcloud-unit/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 49
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/groq_chip.width-358.png"
+        width: 315
+        height: 290
+        isCached: true
+  - title: "AI chip startup Groq has established a new business unit and expanded its operations by acquiring Definitive Intelligence."
+    excerpt: "In a bold move that underscores the rapidly evolving landscape of artificial intelligence (AI) technology, Groq, a pioneering startup in the chip"
+    publishedDateTime: 2024-03-04T06:53:00Z
+    webUrl: "https://digitalmarketreports.com/news/11133/ai-chip-startup-groq-has-established-a-new-business-unit-and-expanded-its-operations-by-acquiring-definitive-intelligence/"
+    type: article
+    provider:
+      name: digitalmarketreports
+      domain: digitalmarketreports.com
+    quality: 8
 
 secured: "LOR0E+9qynoyXiBa+QXXnWQzAjD9V2TTze6IhsDX466Im6uscpQHFjT38McnrAr55XC4PaOsGPDn4IwQ92A6ziuQ1wOSS+kjvTw3s7r299cXlMrv3s07+L+wXlmW1BcHp48C7+jS0f7RntGBFO1bairVmzFn/D7sHaqBtA91GN7czcCQJIm00DwXPimv6DnKdb3gNpby7VM68BgYA7X72NpqOIlE8JNqpvLWAmr1lJKEjw2Uw6r8+hv0qCkACj0bUjTFtR3vX2D4+VMRF1+AL59Ng5xm56ntI7k2Lt9FhoprebBTFJ34lGTHuUehvELJ8pFqrU8tFu0M3FnCbTZ8+EvjQXszZheGs1FCCR3HyNA=;s6NceKi9fjUVEZ069PPGkw=="
 ---

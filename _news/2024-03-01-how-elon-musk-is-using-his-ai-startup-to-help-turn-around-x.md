@@ -36,6 +36,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
+    excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
+    publishedDateTime: 2024-03-01T21:40:00Z
+    webUrl: "https://www.inc.com/sam-blum/elon-musk-wants-billions-to-fund-his-secretive-ai-startup-xai.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/elon-musk-inc-1948569318_538043_ndfgft.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "EE1N1HJW83qc3M6XnsyVrqG4MBgUU2cL4TIzGyj4PeBrPvZnTakC3O7daHOxZQXI7woeXM2Fm3ozNWf89MuQsxdG/hu1XOu0iy/HstbCEz0tURsx/p7v9/LmMvkZ0oBGExlYC5E9pXCy1byFkUH0IFp6jkj3h3TXEtyNCjz5ikPEJMT/+cR3VcNM7ly5h3Xf3PndLxDjjHQwTd+1hc71RGaDfV3RZFqRoSFR5f92n2F6nNGGEjOhcVjPhCtV4b30rYTV9Nbwipd/xGcoKKJV+oqb/RavERqg2iDpdONi+Yo387M3i25kf0AcyQGmj2ETuim7Q7DUBlAMrTiwG51wWLxSLH+dXfS90Gtvhap42kY=;trEyqKjWcMhYBj2iHMCfRw=="
 ---

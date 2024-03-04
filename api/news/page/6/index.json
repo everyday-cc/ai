@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-27-alibaba-leads-record-deal-to-mint-25-billion-china-ai-firm.md",
+      "title": "Alibaba Leads Record Deal to Mint $2.5 Billion China AI Firm",
+      "excerpt": "Alibaba previously joined a $300 million-plus round for Zhipu in 2023 alongside longtime rival Tencent. The company is trying to revive the cloud business and integrate AI and its inhouse model — Tongyi Qianwen — across a sprawling business that also spans entertainment.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6835581/alibaba-moonshot-ai-investment/",
+      "originalUrl": "https://time.com/6835581/alibaba-moonshot-ai-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1885112615.jpg?quality=85",
+          "width": 5160,
+          "height": 3360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T15:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-elon-musk-unveils-new-footage-of-teslas-optimus-robot-showing-improved-mobility-and-speed.md",
+      "title": "Elon Musk unveils new footage of Tesla's Optimus robot showing improved mobility and speed",
+      "excerpt": "Tesla announced the latest version of Optimus, Gen 2, last December (below). The robot has come a long way since the original Bumblebee model from September",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
+      "originalUrl": "https://www.techspot.com/news/102044-elon-musk-unveils-new-footage-tesla-optimus-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-27-image-11.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-how-to-mitigate-the-risks-of-diy-authoritative-dns.md",
+      "title": "How to mitigate the risks of DIY authoritative DNS",
+      "excerpt": "While everyone has their reasons for adopting a DIY system for authoritative DNS, there are some distinct disadvantages to consider. \nThe post How to mitigate the risks of DIY authoritative DNS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-you-can-now-try-galaxy-ai-on-any-android-phone-to-see-just-how-good-it-is.md",
       "title": "You can now try Galaxy AI on any Android phone to see just how good it is",
       "excerpt": "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!",
@@ -1058,153 +1204,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-us-military-utilizes-ai-in-middle-east-operations-weve-been-using-computer-vision.md",
-      "title": "US Military Utilizes AI In Middle East Operations: 'We've Been Using Computer Vision'",
-      "excerpt": "Military confirms use of AI in airstrikes in Middle East, highlighting its growing role in combat operations & future of warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/us-military-utilizes-ai-in-middle-east-operations-we-ve-been-using-computer-vision-1033104022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/battlefield-ai.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-techniques-and-approaches-for-monitoring-large-language-models-on-aws.md",
-      "title": "Techniques and approaches for monitoring large language models on AWS",
-      "excerpt": "Large Language Models (LLMs) have revolutionized the field of natural language processing (NLP), improving tasks such as language translation, text summarization, and sentiment analysis. However, as these models continue to grow in size and complexity, monitoring their performance and behavior has become",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/26/monitoring-llm-1119x630.jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T17:59:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-apple-can-only-resist-ai-transparency-for-so-long.md",
-      "title": "Apple can only resist AI transparency for so long",
-      "excerpt": "The idea that decisions of huge consequential impact could be made by machines on the basis of principles and ethics that are not transparently shared or open to examination cannot stand. The shareholder proposal warns against AI being used to undermine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
-      "originalUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/02/11/apple-keynote-craig-federighi-100941727-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
-      "publishedDateTime": "2024-02-26T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -82,6 +82,20 @@ related:
         width: 1280
         height: 713
         isCached: true
+  - title: "Meta Set to Unleash Llama 3 an AI-Language Model"
+    excerpt: "Meta, the parent company of Facebook, is gearing up to launch its latest AI language model, Llama 3, in July, as reported by The Information. This new"
+    publishedDateTime: 2024-03-02T18:40:00Z
+    webUrl: "https://www.arabtimesonline.com/news/meta-set-to-unleash-llama-3-a-ai-language-model/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.arabtimesonline.com/news/wp-content/uploads/2024/03/pexels-photo-17614476.jpeg"
+        width: 1880
+        height: 1253
+        isCached: true
   - title: "Meta plans launch of new AI language model Llama 3 in July, The Information reports"
     excerpt: "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ..."
     publishedDateTime: 2024-02-29T00:31:00Z
@@ -95,6 +109,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y"
         width: 1200
         height: 676
+        isCached: true
+  - title: "The limits of large language models"
+    excerpt: "A recent paper from Google AI researchers raises questions about their creative outputs, shedding light on potential limitations beyond their training data. While these models have demonstrated exceptional fluency in language processing, translation ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/the-limits-of-large-language-models/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Victor_Botev_2_bnw.2e16d0ba.fill-1200x630.jpg"
+        width: 800
+        height: 421
         isCached: true
 
 secured: "GuFY3BLxFe5NaUl7b71zqCylNAKYzRentKQ5hsmiYaP+oyX2DFUYLhhRAQ2eu84jA3BHLzPjh4zpAnuOfmhmqQXvCTVJvsA8aGmFda7sNS+Rl4Si1ZPn5XUGpEd9RP1aYh1Go/lSjjwLgXG5NNvGU4HQoa+Z2Jm71j3Wc0VIiXFWM+eaTABSa9uC/vTbn9041mWPmeMVz7WambX9LDjx798z8BzP4TYXr9uiXGlceo0nrxcvi/9/mqGY6Rw7x8tIANnbQZ6B97RhcpnamY6izXWMU0CMF7/C8O9vO3uqM67L7BjNflYb8IcAIod9Qj/U0fxxqBYGAO9GkF0LO0ciOjRTVsimlCRrvM5viUnzTI8C2bTRfp5Xe8zQu8411F1QrZT741vt/hv7438gP1jYlpAGKbJQaASA/EtDxuMZV5dYbKQe1BGK/rcLVAkh0L2DeL5YKc2zxWtExjRSjgnC5jpLCdB8QFxevk4oRcWH+ZmQ2LpiBy+L9ZJatZPQHrA1usvgMBbCh7OMHVLsVSpG1A==;SZV9WMWbhau5JVDZJmJszw=="

@@ -2,6 +2,126 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2024-02-09-deep-learning-for-real-time-molecular-imaging.md",
+      "title": "Deep learning for real-time molecular imaging",
+      "excerpt": "(Nanowerk News) National University of Singapore (NUS) researchers have demonstrated that deep learning allows them to observe the dynamics of single molecules more precisely and with less data than traditional evaluation methods. They used convolutional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-identity-and-access-management-products.md",
+      "title": "Identity and access management products",
+      "excerpt": "The FBI has confirmed it is using Amazon’s Rekognition image and video analysis software, but Amazon says it is ‘false’ to suggest this violates the company’s self-imposed moratorium on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/resources/Identity-and-access-management-products",
+      "originalUrl": "https://www.computerweekly.com/resources/Identity-and-access-management-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
+          "width": 500,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-stossel-artificial-intelligence-may-be-coming-for-your-job.md",
+      "title": "STOSSEL: Artificial Intelligence may be coming for your job",
+      "excerpt": "The media warn that “Artificial Intelligence will replace ... They don’t drink or get distracted. Self-driving cars will replace many delivery driver jobs, taxi jobs, Uber jobs and truck ...",
+      "sourceUrl": null,
+      "webUrl": "https://torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job",
+      "originalUrl": "https://torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/02/1953487965-e1707321516682.jpg",
+          "width": 867,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/",
+      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/",
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Sun",
+        "domain": "torontosun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-ai-driving-acceleration-for-big-3-cloud-stocks.md",
       "title": "AI Driving Acceleration For Big 3 Cloud Stocks",
       "excerpt": "Alphabet’s Google Cloud, Microsoft’s Azure, and Amazon’s AWS shined as generative AI products drove an acceleration in cloud revenue growth in the Q4.",
@@ -972,126 +1092,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-as-gemini-launches-new-model-mobile-app.md",
-      "title": "Google Rebrands Bard As Gemini, Launches New Model & Mobile App",
-      "excerpt": "Google rebrands Bard as Gemini, upgrades it with Ultra 1.0 model, and launches mobile app for iOS and Android.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/google-rebrands-bard-as-gemini-launches-new-model-mobile-app/507549/",
-      "originalUrl": "https://www.searchenginejournal.com/google-rebrands-bard-as-gemini-launches-new-model-mobile-app/507549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/img_2024-02-08-073646-65c4caf5e74f1-sej.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-clearview-ai-is-still-collecting-photos-of-australians-for-its-facial-recognition-database.md",
-      "title": "Clearview AI is still collecting photos of Australians for its facial recognition database",
-      "excerpt": "Clearview AI said it can't stop using Australians' data for its facial recognition software because it can't tell who's Australian. Clearview AI has continued to collect millions of images of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crikey.com.au/2024/02/08/clearview-ai-australia-facial-recognition-data/",
-      "originalUrl": "https://www.crikey.com.au/2024/02/08/clearview-ai-australia-facial-recognition-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crikey.com.au/wp-content/uploads/2024/02/AdobeStock_455113640_Editorial_Use_Only-copy.jpg",
-          "width": 1480,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crikey",
-        "domain": "crikey.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-global-bot-services-market-thrives-with-us-12-billion-in-2021-poised-for-18-growth-by-2032.md",
-      "title": "Global Bot Services Market Thrives with US$ 1.2 Billion in 2021, Poised for 18% Growth by 2032",
-      "excerpt": "The global bot services market stands at US$ 1.6 Bn at present and is expected to reach US$ 18 Bn by the year 2032 at a whopping CAGR of 27.1% between 2022 and 2032. The e-Commerce and BFSI sectors are more into usage of chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2024/02/08/bot-services-market-outlook/",
-      "originalUrl": "https://www.fmiblog.com/2024/02/08/bot-services-market-outlook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T13:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

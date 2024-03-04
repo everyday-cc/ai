@@ -57,6 +57,20 @@ related:
         width: 605
         height: 403
         isCached: true
+  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
+    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
+    publishedDateTime: 2024-03-04T10:58:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
     excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
     publishedDateTime: 2024-03-02T14:29:00Z

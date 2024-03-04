@@ -36,15 +36,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI In MarTech: How AI Will Impact The MarTech Industry"
-    excerpt: "The crucial part of AI-powered MarTech systems is to balance human creativity with the automation tasks that they are responsible for. Each year, I have seen new AI and tech startups spring to life. They claim to assist marketers in automating their routine tasks as it consumes almost a third of their time, according to HubSpot."
-    publishedDateTime: 2024-02-28T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-in-martech-how-ai-will-impact-the-martech-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
     publishedDateTime: 2024-02-29T16:59:00Z

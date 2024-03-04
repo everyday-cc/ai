@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirme
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-powerschool-amid-strong-ai-growth-prospects-in-k-12-education-1033127172"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -24,6 +24,15 @@ topics:
   - AI in Education
 
 related:
+  - title: "Baidu Buy Rating Affirmed on Strong Financials and AI Growth Potential"
+    excerpt: "Baidu (BIDU – Research Report), the Communication Services sector company ... with a significant contribution from Gen-AI technology—which now accounts for 5% of Baidu’s total revenues—bolsters confidence in the company’s future earnings before ..."
+    publishedDateTime: 2024-03-01T00:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-buy-rating-affirmed-on-strong-financials-and-ai-growth-potential-1033122456"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Super Micro Computer: A Hold Rating Amidst AI Growth and Competitive Pressures"
     excerpt: "These relationships have significantly aided the company’s transformation and enabled it to gain a solid customer base, including major GPU-specialized cloud-service providers investing heavily in AI infrastructure. The company’s recent revenue and ..."
     publishedDateTime: 2024-03-04T05:25:00Z

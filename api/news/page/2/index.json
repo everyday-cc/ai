@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-soundhound-ai-shares-tumble-19-on-4q-miss.md",
+      "title": "SoundHound AI Shares Tumble 19% on 4Q Miss",
+      "excerpt": "Analysts polled by FactSet expected a per-share loss of 6 cents. Shares of SoundHound AI have shot up since chip giant Nvidia reported an ownership stake in the company. The stake was first reported in a filing in February. The company said with the fourth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "publishedDateTime": "2024-03-01T12:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-ai-in-fintech-marketing-let-the-robots-do-what-they-do-best.md",
       "title": "AI In Fintech Marketing: Let The Robots Do What They Do Best",
       "excerpt": "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -521,7 +573,7 @@
       "originalUrl": "https://newatlas.com/technology/elon-musk-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -676,7 +728,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1198,49 +1250,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use.md",
-      "title": "Apple CEO Tim Cook set to unveil plans to expand generative AI use",
-      "excerpt": "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
-      "originalUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/APPLE-LAWSUIT-COMPENSATION-0_1707356185453_1709190574096.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
-      "publishedDateTime": "2024-02-29T18:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

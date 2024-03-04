@@ -57,20 +57,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI: balancing innovation and regulation"
-    excerpt: "By embracing responsible AI practices and leveraging the power of AI strategically, organisations can thrive in the new regulatory environment"
-    publishedDateTime: 2024-02-28T12:18:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-balancing-innovation-and-regulation"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/042/AI_laws_and_regulations.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Should Government Guide the Use of Generative AI?"
     excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
     publishedDateTime: 2024-03-01T17:52:00Z

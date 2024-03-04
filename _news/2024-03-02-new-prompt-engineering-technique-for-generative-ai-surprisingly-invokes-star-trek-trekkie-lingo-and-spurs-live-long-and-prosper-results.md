@@ -63,6 +63,20 @@ related:
         width: 605
         height: 403
         isCached: true
+  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
+    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
+    publishedDateTime: 2024-03-04T10:58:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
     excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
     publishedDateTime: 2024-03-01T14:30:00Z
