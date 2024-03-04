@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Your next Samsung Galaxy phone could have Face ID-beating facial recognition tech if Metalenz's claims hold up"
-    excerpt: "The future of ultra-secure facial recognition may finally be coming to Android phones thanks to Metalenz, a technology company that's focused on a quantum-level, bleeding-edge imaging technique."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.techradar.com/phones/your-next-samsung-galaxy-phone-could-have-face-id-beating-facial-recognition-tech-if-metalenzs-claims-hold-up"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/L4mk6HCQx2a9thARWotFqL-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Canada University To Remove Vending Machines Over Facial Recognition Tech"
     excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the use of facial recognition technology in secret. According to The Guardian, the controversy unfolded when a student captured a photo of ..."
     publishedDateTime: 2024-03-01T04:05:00Z
@@ -86,20 +72,6 @@ related:
       - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
         width: 1020
         height: 574
-        isCached: true
-  - title: "University of Waterloo unplugs 29 vending machines amid facial recognition concerns"
-    excerpt: "These vending machines, unbeknown to students, had been using facial recognition to track the age and gender of patrons, as shared by CTV News. However, according to Invenda, the machines use facial analysis and not facial recognition to understand when a ..."
-    publishedDateTime: 2024-02-28T00:04:00Z
-    webUrl: "https://mobilesyrup.com/2024/02/27/university-of-waterloo-vending-machine-facial-recognition/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 33
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2024/02/header-waterloo-shutterstock-sized-scaled-1.jpeg"
-        width: 2560
-        height: 1438
         isCached: true
   - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
     excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamika
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 829
     height: 674
     isCached: true
-
-related:
-  - title: "I Was Poisoned by a Russian Agent"
-    excerpt: "My patients and I began to have a dialogue of authenticity as we relinquished talk of self and object in favor of self-other ... the beauty of my vulnerabilities and met myself. This recognition catalyzed my shift into a higher state of enhanced love ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/202402/i-was-poisoned-by-a-russian-agent"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/202402/i-was-poisoned-by-a-russian-agent?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/202402/i-was-poisoned-by-a-russian-agent?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/Paint3_LUMEZIAShutterstock_1048705850_0.jpeg.jpg?itok=Tw4cFxSY"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "LyA9f+8f2czvGEmyykhN7AUz8P0zGykcRweJBWSRKbIvD9VZlfsnH3OSs8+b0v3TrLMHBy+znylCrWjJTpi5sPNCnBE300J4FLKN2ddSwvtHhzkUG0pqzP/r4fbYsBABW+GoPjZkUJ0AopSoizPVB5PDvMMM+yOaQoJ4kPbfwdlf0ybuDm6GNnRtTvjGAysa58JFWhpuogmLecmjoRBkhgjIfvKU7XuSWLTeGZc8GN93WlRvId0CwFa2O9dBLYw2HhWeEYkjEPoECxbdkFTutHR4wzvnlyWJs+tpUo1EoykjVAmmpkfHoEqt6bLLs00f9nuVZPH1V8522FNESgBl9xvKdVzHAc0vuFrzA8SN732wmy3qjuApmE8rLD+wyxHJAsMCOfx+XFHkSkOUNxTOSt/0HOZ5dFV8rxd7sG/FNn5Uh8G4w0nkVsL5Yz4DT8NQXwTRo6fwYfxLcDV3XQVcSf4DK4+HOje9xMf1fsFqXCFAU1uUMkd7JGzHOq5UamdBVKR+ClCItrgYqMrhwMPqxQ==;b//1FCtJ4YanWjK+yPeWeA=="
 ---

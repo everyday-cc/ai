@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 type: article
 quality: 72
-heat: 115
+heat: 102
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/29/801310fd-57fb-490a-9530-adc17c143291/thumbnail/1200x630/6871c01287dba54a5e9048f394f57988/gen-z-bible.png?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Is ChatGPT making scientists hyper-productive? The highs and lows of using AI"
-    excerpt: "About 55% of the respondents to the Nature survey felt that a major benefit of generative AI is its ability to edit and translate writing for researchers whose first language is not English. Similarly, in a poll by the European Research Council (ERC ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-024-00592-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 53
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00592-w/d41586-024-00592-w_26794632.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
     excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -83,22 +83,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
-    excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
-    publishedDateTime: 2024-02-27T23:19:00Z
-    webUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 25
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fintech at its Finest: Adding Value with Innovation"
     excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
     publishedDateTime: 2024-02-29T10:26:00Z

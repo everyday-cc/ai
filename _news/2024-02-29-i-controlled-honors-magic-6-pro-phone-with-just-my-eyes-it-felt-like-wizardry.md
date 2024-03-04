@@ -46,20 +46,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Humane AI Pin — could this wearable replace your phone?"
-    excerpt: "and something that made me see it like a Star Trek communicator is its ability to live translate between 50 languages. You could go into a local cafe and order a meal without having to learn the language. On the surface the Humane AI Pin might seem like ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/humane-ai-pin-could-this-wearable-replace-your-phone"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Xq4DLQede4eLeyT5uT3KTM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Bum/DggY76laq78Q7+6JGJRqyNzD0kYBsASnHYNxMc1FyV5naO4FWwLEXs3FJNct71vWHaCKIEPaESVTIe2/zOxK/enV3chnoj+1+XEoAJg1PWdBpYns1vAhHZKolKrY3mKtJlOBcWCAa/SEezK5pXhpxA3fBiVmyLGKtvhYNpd4ad3dFieF2VNSKwrTXyhUtyVKZ5Ts0ARKysSimsUl6CvDEUY3mwLLdZxojKxUssKsbB1GWY8XFKX9hQTVDLui+Xzg/spdhxZvXJ+B/gUuttIOCwrg8Ns5PoYy65/7j/CTnqBOs3lL7g2/Va2QcsAyVCiIAd66ZTd4XEC+prWb6ImWXG7YEbh0K5DbyT0VZhVZbRlkE+QujYD1crfALs4dvI/vAhMDxkpywiuQHr/qB7aFdNMj7yR7gvXw6wslEJNNbc1UTvnaXWOGmXOTXt3SuoThW9zTkBNWyavgcYaotvusSHi6pg5Q5DyO6rQ97UoUH6QQFU+9VlP5SO3bOduRAUZLLzHjuH2A4/GkFy8s2A==;/tJMv7FAg+9AfdJSp5+uEA=="
 ---

@@ -1382,17 +1382,26 @@
       "title": "AI chip race: Fears grow of huge financial bubble",
       "excerpt": "Domingos said Altman would likely settle for around $700 billion in backing, which is still a far cry from the value of the entire AI chip sector. Canadian-Indian analytics firm Precedence ...",
       "sourceUrl": null,
-      "webUrl": "https://www.dw.com/en/ai-chip-race-fears-grow-of-huge-financial-bubble/a-68272265",
-      "originalUrl": "https://www.dw.com/en/ai-chip-race-fears-grow-of-huge-financial-bubble/a-68272265",
+      "webUrl": "https://www.dw.com/en/fears-grow-of-huge-bubble-as-ai-chip-race-advances/a-68272265",
+      "originalUrl": "https://www.dw.com/en/fears-grow-of-huge-bubble-as-ai-chip-race-advances/a-68272265",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.dw.com/image/68278415_6.jpg",
+          "width": 940,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.dw.com/en/ai-chip-race-fears-grow-of-huge-financial-bubble/a-68272265",
+      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/ai-chip-race-fears-grow-of-huge-financial-bubble/a-68272265",
       "publishedDateTime": "2024-02-20T00:00:00Z",
       "updatedDateTime": null,
       "provider": {

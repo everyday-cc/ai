@@ -33,22 +33,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
-  - title: "Amazon’s Billion-Dollar Investment Arm Targets Generative AI in Robotics"
-    excerpt: "He's curious about pretty much everything, but especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/"
-    ampWebUrl: "https://singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 88
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2024/02/digit-amazon.jpeg"
-        width: 1132
-        height: 637
-        isCached: true
   - title: "Three Custom AI Solutions To Implement To Increase Efficiency In 2024"
     excerpt: "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts."
     publishedDateTime: 2024-03-01T11:15:00Z

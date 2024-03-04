@@ -75,22 +75,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Microsoft and Mistral partner on AI"
-    excerpt: "in the Azure AI Studio and Azure Machine Learning model catalogue. Azure’s AI-optimised infrastructure and capabilities will offer Mistral AI additional opportunities to promote, sell and distribute its models to Microsoft customers worldwide."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.research-live.com/article/news/microsoft_and_mistral_partner_on_ai/id/5123113"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5123113&name=microsoft-and-mistral-partner-on-ai"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 74
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "Microsoft to foster innovation, competition in AI"
     excerpt: "Microsoft will also not use non-public information or data from the building and deployment of developers' AI models in Microsoft Azure to compete with those models, and also allow Microsoft Azure customers to easily export and transfer their data to ..."
     publishedDateTime: 2024-02-28T02:41:00Z

@@ -84,20 +84,6 @@ related:
         width: 700
         height: 1047
         isCached: true
-  - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
-    excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.tomsguide.com/phones/best-of-mwc-2024"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Kps6jkiXFHhVXoPwVL5dDc-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "CI7tToQHuSJTAkGnmnQ+ApDAUyVe7FCjnw78P1It5m4tfiaKLfnwM3E4sRrcXbbRCu4DoBGHfHstsQbCWag/73jrhfKrgRK41ME7hOfIdAISVhLMdOo8edsFRgb6n6qaIPWsfiB7nr3NClXt75IIDmJjMrbt+WPrDfv+CLPBfQGyzxbS0FHAAn1sRCa7JMJrlunSHvNcEn/hg34SviN0qbvwdFOuGlj9KpUhRrUArGXXBtcVce2tM/yr+7Zrn2d7io2Z9DqBR81mylEkxU5vVGlNlmXuG0QwS6fi63BemObv+glV9eHxQoMB84SSxdraYC9GGVfrgGYFYxZRDRa5pdne00/kFVHS86yEJ/pF4Ys=;RtMTgHX7FU/1xumIh0GlAA=="
 ---

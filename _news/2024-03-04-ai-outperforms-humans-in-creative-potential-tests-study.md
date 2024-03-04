@@ -1,10 +1,10 @@
 ---
 category: news
-title: "AI outperforms humans in creative potential tests: Study"
+title: "AI outperforms humans in creative potential tests: study"
 excerpt: "The study, conducted by researchers from the University of Arkansas, pitted ChatGPT-4, the natural language processing model (NLP) by OpenAI, against 151 human participants in three tests designed to measure divergent thinking, or the ability to provide ..."
-publishedDateTime: 2024-03-03T21:40:00Z
-originalUrl: "https://www.ctvnews.ca/mobile/sci-tech/ai-outperforms-humans-in-creative-potential-tests-study-1.6792998?clipId=64268"
-webUrl: "https://www.ctvnews.ca/mobile/sci-tech/ai-outperforms-humans-in-creative-potential-tests-study-1.6792998?clipId=64268"
+publishedDateTime: 2024-03-03T21:49:00Z
+originalUrl: "https://www.ctvnews.ca/mobile/sci-tech/ai-outperforms-humans-in-creative-potential-tests-study-1.6792998?clipId=89578"
+webUrl: "https://www.ctvnews.ca/mobile/sci-tech/ai-outperforms-humans-in-creative-potential-tests-study-1.6792998?clipId=89578"
 type: article
 quality: 39
 heat: -1
@@ -72,6 +72,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "AgbkhB5cG3rs1tqgS0peePOQlHODosr8pTT6XfQVMI4jHQDbstz4Gbw5X7lYttBLanX+NPf5q10x50Ph1U5h1FH2SGaPe4lR8WEcYVIzv2GudoB0GhTXHS8bhcUs8cVrsxlfegfZ04/LbJgr402PepJl8Xi6ZDPm5iQ+ZMlPV55fj0ZXRFIhtn8JBxRYrGEBKDEWTxc0H9kRstHfE32ypU4nErTF86cUt278gqAWPe9/M40Q5evAh0G6Un4UTEgL2SkwwQqID0NP93tuhC8+2pZwDEBp+q3c4Ya0+3sP+X0+vjW2iekKX9fpBWNUKBXdqayZTdBz1HJxL4Ff2uZtawSCDOGaY1WVUwbl72gIeTM=;05UnfckkY4bBwdxyutlDPA=="
+secured: "DGbZsD6P7H8JlX4v2x46NwrlbJvMsOT+JSmTqTzIxDQhqse3fyL69tyaoZlolBy/nlx5Qp+bQjwKfgr+CcDH2sDR+KZ1qR9+3tqc+DuGQ8FVNZTIx1eZzskfW/jO+cUWc0o9IBVTTlWSyVUrVFo7P7JQvh9WoBsS0MuORTFnRA8SULWQlb7gdBHbOBR1qzOStY7lssAId1cUFbGMl6QLVkp2JmBxET17rqKihVLxHDudOocNebPwyndVliG0MiR0f2eewsKK/Nd4OYg0MRE+PYskjJvUskg7NnY8SgZ/DhnquiFpD1Z8expgC9tPAN5lueLZW/kjF5RVXvMuKImzoKgzhVmcbIJzSrOi3SafYqg=;X0mzL78C8DdrFsXHnbS3pw=="
 ---
 

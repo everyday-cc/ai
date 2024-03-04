@@ -25,17 +25,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Toronto AI company Cohere to indemnify customers who are sued for any copyright violations"
-    excerpt: "AI companies have argued that building models does not violate ... “What needs to be paramount are the ethics. Is it ethical that an entire industry is being built on the backs of rights holders, without even their consent?” In December, the New ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-cohere-generative-ai-customers-copyright-violations/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 9
-
 secured: "nWAOnSSWg4a5jtpcTAEnquq/AoaCmAs9zkdFRRGMSG8fhTpM0OwHy4JFSGYHTuj5SA6L/tUvTAky8TRSEcAxnUyx94U9i4YQI/G2Lxc1cjAJMV9mNF3pElJ35UGc/BkECkwZ/5gYreG9VH+k2y/o/rrJ1yLPAmcjFKd94WR0LPA8SJkbigLQTt7wuZ4tMDk64BceHVd7ZVwqOc8VjtDiNsuAVxh0CWN99HeDIvD9sBQFhNnHEKdKD2coA5IXq5de80KlIMUj+Zgz5zAkB1t055kf2mxCeNCZxCfkU/I+UqZ7IkIRd+MuTHB6Q6GHQp/8Z7X4rliEBJ0YC23Cs+B7vdt7IOlTFWLV6KyQ70Y5mw4=;56IIQ6pRcGbiSD97bAs8Dg=="
 ---
 

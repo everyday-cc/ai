@@ -43,6 +43,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "How To Unlock Your Device Using Face Recognition? Check Out These Easy Steps"
+    excerpt: "Learn how face recognition works, and how to set it up on your smartphone. (Image: Abhijay Singh Rawat/india.com) New Delhi: Facial recognition, or face recognition technology, is a biometric ..."
+    publishedDateTime: 2024-03-02T02:00:00Z
+    webUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/"
+    ampWebUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 56
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2024/03/IDC-Story.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "cU2DuvhDkVmQhcKWfQoDcEoU58stxlBc6CyZo/yyavWVUdKbuUX7akfZ01U5qWVy9z8ShLtk7f8z7nicPEmxqKTgLbawUJ/+Vcn3FWr5F52Yb4FWQw5UqfISTLsw2Yi7MHr2/vWJOl7l5TmzQmU6iPZpY5G4FPbQMDhg5H3cY/Ql5/xFNsXl+VNzE6bUwIE3s7DQlCWF3mz8niCgyP8Q9J670fYUw0ldJwGW8JziKsQdFANjqaCqgMVgkcWES7iGaz3LK/Quu8gl5EDnBW4lQy0T85zwaCOikllcy7N/QImeopOsB53V/RLbb4VyPGGr8RPtc0ZQdTwIuhYg5VIVRyjly1UQ1HDAwF2vbQz3AzI=;iTfALrKKlB3CQZ98sdilqA=="
 ---

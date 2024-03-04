@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nissan plans self-driving taxi service"
-    excerpt: "Nissan is planning to launch a self-driving taxi service in Japan in the financial year starting April 2027, the auto giant said Wednesday. The company said it would begin trials of the commercial service in the upcoming financial year from April ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://punchng.com/nissan-plans-self-driving-taxi-service/"
-    ampWebUrl: "https://punchng.com/nissan-plans-self-driving-taxi-service/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/nissan-plans-self-driving-taxi-service/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 44
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2016/07/27112354/NISSAN-e1479810727172.jpg"
-        width: 576
-        height: 363
-        isCached: true
   - title: "Nissan plans self-driving taxi service in Japan"
     excerpt: "TOKYO: Nissan is planning to launch a self-driving taxi service in Japan in the financial year starting April 2027, the auto giant said on Wednesday (Feb 28). The company said it will begin trials of the commercial service in the upcoming financial year ..."
     publishedDateTime: 2024-02-28T09:06:00Z

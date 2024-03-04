@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Are You Smarter Than ChatGPT?"
-    excerpt: "The ethics of abortion can also be viewed through a human rights ... so broad or bland that it lacks the nuance that an issue like abortion receives from an AI response. Another person mentioned that ChatGPT is impressive at condensing all of the ..."
-    publishedDateTime: 2024-02-28T00:12:00Z
-    webUrl: "https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/are-you-smarter-than-chatgpt/"
-    type: article
-    provider:
-      name: Santa Clara University
-      domain: scu.edu
-    quality: 41
-    images:
-      - url: "https://www.scu.edu/media/ethics-center/technology-ethics/Are-you-Smarter-Than-ChatGPT-Recording-360x225.png"
-        width: 360
-        height: 225
-        isCached: true
 
 secured: "HdkYzxb9wWsJs+2hHzP1BJcLNwgee0J25Ldd9udXjeF44k/7e3kjvbvWuyadOh9RQh/RC/DTdqFz5xLO8Par1gMzBf3q/NMjTUuGToYfgxIjaBWiYEBfRb2QFYK4KZTu/o/MaHwKRjFOgtcZk4lRoFWtydFyqieT2uAL96yv/Seb2Cz3hZStqWipzC3FLWMffUOfcxBmaGv2Pm4+li0M3aLYQ2lkWbZ6rLOYLXAfFKaP8QRp++1mVUfw/PzqewOEK3ykSUU3f8HY+AFXdNrXx+xy/HB7Gr1mUcpREH4GgDlZ/3QS6YGmnlukXcbFwoVLz96OVJcH7wU+zFWtO4M4o9ig/nWlxWeLjZQBCjlkQWCZEbc5TRx48MHggWkOyDWI9ElI+uC80RW0iZeJQ5AnufjSK5STrjy2OFoFXQSNqLC5jrhXXPOhdqvdZRrqz2m1qf3VqVuDvf1YaJ6Fo6969F2epUtIMPFqy/ePLAAI6+GwOy/Kfai5m0GW5Fp7jwD9lGKljy83i+u3FDoqAkgaKA==;m00D4GSO86Tzp9SeScIgsQ=="
 ---

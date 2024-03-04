@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96498/amd-confirms-ultra-fast-hbm3e
 webUrl: "https://www.tweaktown.com/news/96498/amd-confirms-ultra-fast-hbm3e-memory-is-coming-to-instinct-mi300-refresh-ai-gpu/index.html"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1494
     height: 1080
     isCached: true
-
-related:
-  - title: "AMD Mulls Upgrading Its MI300 AI Accelerators to HBM3e Memory"
-    excerpt: "AMD officially launched its MI300 family of accelerators in November 2023, and in a nod to the breakneck pace of the AI industry, is already talking ... company's fastest Arm-based CPU with its H100 GPU. It's also upgrading the H100 to HBM3e and renaming ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.extremetech.com/computing/amd-mulls-upgrading-its-mi300-ai-accelerators-to-hbm3e-memory"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "j/WPWapkKLsYGJkqikiyjBXCPfB9hUiEkqLYp1iOAtPoZidyZyUPJ9JaWYVW2RC/mMk3b6sTHAp61FjCPa/4zq4tqYeOU7qurS0ByWSN3CTyUrB2URt8rbwJz7MMYj6Bq2U8D3/EmgT21LldBr/ouYOjf2JywaWNXCYw6AoydnIEcjjG6xAcCh3pH1sFRXWDKtpDH7/veSoFRbP7rlww2tbrv84dIJFLnuJmMCMQAvZNrMZ0cEGHvr1KFeWiBu94v7pgewLhBnBxu8CGsxHx7Nv/EfCjjowXkIx1gLxvg4neYCCDPHkeBRs4gcvBo7YRg6QQSPvwfAFn5SPOGICVFlpr8MVJjYZHtIX1KmRCskJ48F2PnKC1wtA2rAxmhJqADzHtFJ9ylRR7AXyLotqs0ETaSaXNAi7fjlj5y5vmhzttb5/O+JmlS4meeRXejxzvNTCXcg66yEdB1CqImxn3W/VGnFiUMAWTcw4YtGWdEM2RV/koVSeMb4uTRYZ0JrZJAwtJGFMOFXFwarOU7njA2A==;YSb2k3pCV7g2cG5qAaAapQ=="
 ---

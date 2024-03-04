@@ -135,17 +135,6 @@ related:
         width: 748
         height: 366
         isCached: true
-  - title: "Apple cancels self-driving EV project, to lay off workers: Report"
-    excerpt: "The tech giant also scaled back its vision for the self-driving electric vehicle. Initially, the iPhone maker intended to create an automobile with no steering wheel or pedals, allowing passengers to sit facing one another in a limousine-style vehicle."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report"
-    ampWebUrl: "https://glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/apple-cancels-self-driving-ev-project-to-lay-off-workers-report?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 24
   - title: "Apple's self-driving EV car is not coming; project canceled, layoff likely: Report"
     excerpt: "The Apple car project, at its peak, had a workforce of around 1,400 employees. Some of these employees will be reassigned to Apple's generative AI (GenAI) projects, as the company continues to explore the potential of artificial intelligence."
     publishedDateTime: 2024-02-28T10:29:00Z
@@ -159,20 +148,6 @@ related:
       - url: "https://data1.ibtimes.co.in/en/full/598822/apple-logo-seen-inside-apple-store-palo-alto.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The Apple car is dead: tech giant’s plans ‘Project Titan’ self-driving EV hit the buffers"
-    excerpt: "The 2,000-strong team that was working on the car codenamed Project Titan, which was widely rumoured to be a self-driving electric model, will reportedly be repurposed to work on AI, following some layoffs. It’s not known how many of the Apple car staff ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.autoexpress.co.uk/news/362435/apple-car-dead-tech-giants-plans-project-titan-self-driving-ev-hit-buffers"
-    type: article
-    provider:
-      name: AutoExpress
-      domain: autoexpress.co.uk
-    quality: 15
-    images:
-      - url: "https://media.autoexpress.co.uk/image/private/s--CZGnmfuq--/f_auto,t_primary-image-mobile@1/v1706194981/drivingelectric/2024-01/Apple%20Car_w2kvu7.jpg"
-        width: 375
-        height: 210
         isCached: true
   - title: "Apple shelves major self-driving electric car project and lays of staff after multibillion dollar investment – report"
     excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
@@ -189,6 +164,6 @@ related:
         height: 836
         isCached: true
 
-secured: "2rAetybJVy+4pi2FKtXn42ELHHGnV5I4dfry7cVhGF8U+lQduDjalMqBRmksAQosj6sOWh+2pmkeIi5Q+stgVY8vYFbP8RBeX87ZwB/CFHAJKUBta8099hiihB1fFwx69X+UnSM7n0sQOwM02L1A3kOZaYl9iCn8givHL9Rcy8XyvChl+vOLMDi5Zhky/zJKQNInBHvMMdk4i+aoN5OdnW6tp4qwh2jMHEnwen7ZG+sH0nxsTEtHviWf0+mixaZytkVgwRyuBHydiHS+FMN/K34XRIiRMhK0Rh4UM5m3yn1MioZg0uiOCunA9X/4einhBHtnZF/uhkq99cHYMOW7o2qsvsBfP1TJL+fyE7cl3r0=;QuCJCMRNMio2SdfAjmlDhw=="
+secured: "diBnxi/EEkB5XaojMktWSmdJ66ADnyO7xLHpinBUti9ju3idkjwxAb4+toeJTfhPM70L6lfuCtMCfEHk0/m+yJVhLtoCbQBWxtG+frPbxd1eOpyy86uBxK1EyVGkLS77lfrSs7fBUAoKPoGsytQBZknjnjlT86vdcfFSnKdrtFJYl9Rzo1oPG8XeNbBqoJp0m8aGsMvyIIlB+bPwlHwqYrOBNpIwvF3e/47LtMJqbPolCJlArY587yTL5SK6ordrLEUtBPq0z/Xnbq3Pd1JgpK7Fr7CnY43LkPa53TYDNzPBTur2o04167GZZxgscqRauVUQIQ8A54PAFC1Mpy+hhtEMPa/+2juTUkYSTjj+tTDAaQieSCuNUyBFDxTkaPBW5hUbsWR3XfxgJqcKFHfCF/Q6RB7UQ9RUH7Mwx3NWTZrXpe3ivxEQPBuY7Sv364Mld63UuWOAK+UniFMJSu+t7I9z35IAfotFqOMQndDsU1z6V3zAfBLRT7ph8ujw3sdq/zJywL578Cllhp7Ofi07xQ==;4TZzQoVC3yzv5VYUqXilnw=="
 ---
 

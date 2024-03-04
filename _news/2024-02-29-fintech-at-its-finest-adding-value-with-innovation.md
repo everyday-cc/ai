@@ -91,22 +91,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Where will fintechs go? With India’s growth prospects, the fintech sector can grow if it follows regulations"
-    excerpt: "Consider 2021—the world is emerging out of the Covid-19 shock, digital technologies are changing the way customers interact with institutions, and data and AI are changing how ... Skip to two years down, and fintech funding has seen significant reduction."
-    publishedDateTime: 2024-02-27T23:19:00Z
-    webUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/where-will-fintechs-go-with-indias-growth-prospects-the-fintech-sector-can-grow-if-it-follows-regulations/3407171/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 25
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "My Wedding Whizz: Irish firm using AI and fintech to streamline wedding planning and digital gifting"
     excerpt: "It’s an all-in-one digital management tool that pulls everything together in one place for the couple, and also incorporates a fintech element to facilitate the stress-free handling of deposits, payments and cash gifts,” Downes says. [ ‘Only gamble I ..."
     publishedDateTime: 2024-02-29T05:45:00Z

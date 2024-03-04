@@ -9,7 +9,7 @@ ampWebUrl: "https://www.omanobserver.om/ampArticle/1150414"
 cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150414"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "AI could transform ethics committees"
+    excerpt: "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ..."
+    publishedDateTime: 2024-02-29T17:37:00Z
+    webUrl: "https://theconversation.com/ai-could-transform-ethics-committees-224424"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 54
+    images:
+      - url: "https://images.theconversation.com/files/578337/original/file-20240227-22-9isx52.jpg?ixlib=rb-1.1.0&rect=0%2C168%2C4881%2C2440&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "VezXIX25NfzhEw4mavYCCex2HYCyCzavnQHX05lmkPYLmLFOTh4ikH5RJyFDSTB5F9xuRTlDWvWG39t9bOCmLfFnp6plVqc8uVrm/3Bhd8WPlPByjZDGPZVCRSOa5hO+5SmNTa3zH6U2fheaf2zD8Z/v56FoTKaCrI076ZsxZswGBw4duhPKbNOfRf3PAo/efbgF2f7tHyB2ti7wniZUt3O0A8880DjIEQn+W2ZZl5dQw7LWTdHUhkjj9OoOPruFNkuxrBNvP0aWVb49c/X2CPa24wuoI3pms82oOIUUGtN6chU57TqzPUQMRIotSjSl3KY64/S8Ydj7let5kj269TFO+OuG1R3lFsD39NRGTII=;7oIdaA57yuJ70CSOBg3ivg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mast
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/mastering-risk-unleashing-the-power-of-data-and-ai-in-strategic-risk-management/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging Risk Management Frameworks for AI Solutions in Health Care"
-    excerpt: "As recently described by The New England Journal of Medicine, the liability risks associated with using artificial intelligence (AI) in a health care setting are substantial and have caused consternation among sector participants. To illustrate that point ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/leveraging-risk-management-frameworks-5396076/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How synthetic data powers AI innovation – and creates new risks"
     excerpt: "According to a report from the Financial Times, Microsoft, OpenAI and AI startup Cohere have already begun testing synthetic data as a way to increase the performance of LLM production with fewer of these issues. “If you could get all the data that you ..."
     publishedDateTime: 2024-02-28T14:53:00Z

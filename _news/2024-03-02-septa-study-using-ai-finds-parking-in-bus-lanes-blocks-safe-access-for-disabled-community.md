@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "UW and Wyoming Community Navigator Program to Discuss Using Artificial Intelligence March 6"
-    excerpt: "Small-business owners will have an opportunity to learn how to use artificial intelligence (AI) to boost social media strategy for their businesses Wednesday, March 6. Alex Gunter will present a Wyoming Community Navigator Program (CNP) webinar titled ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.uwyo.edu/news/2024/02/uw-and-wyoming-community-navigator-program-to-discuss-using-artificial-intelligence-march-6.html"
-    type: article
-    provider:
-      name: University of Wyoming
-      domain: uwyo.edu
-    quality: 31
-    images:
-      - url: "https://www.uwyo.edu/_resources/images/og-images/news.jpg"
-        width: 622
-        height: 426
-        isCached: true
-
 secured: "ovaezJL1ej4fSA0vgmu5heEv3AXaSKg8yqIRY9pl5MAH/6T5NmkWzVTrE83OH7lR/hfDP2K8neXryuDGzhWoLrHxOIZjJUKWe/vno6cmDaj3/bd6/KFXBfS5lx1q9k2BSeNmQfMWvH66Urelq7dfKA4dEpp8u9o0eOuckpvCogP0hGicIyo0/vSvqsvCUFMGK0pR3H68NTtzTIvdrdaRdEsTEYE6dx9HlXhAv/QsOAy1tMFpIpWin/VOq815bHFHdHMD7z4wW8JRnJRuwDwFprLNEr1uFz6O8qq4/LOwlCsiB5x9FkR38NbM/5U4c/Er3MRXvEDZnNWhdo8dj9L1OGY/Rk9rnpoAIMK5G5DZ7mUBctHMgTLyq+KJvISSX4DBiO5tFSNpuXMANxDCrJR1/kVbNKFL8vnAvgSMzR2B1szmtCK536vQEIXQzpyjvSMVmpuX4igj6fQ5UxqXItpqu/tmYmxbhlGXMYMX+YpN0sy5EXfZ76A13vEhJjnNEcKpL1lMSR92izH2cWbpYwNndQ==;IojQ1ir98k37CZRdGBlC8w=="
 ---
 

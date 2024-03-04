@@ -66,20 +66,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 44
-  - title: "Apple CEO Tim Cook promises big AI push for 2024 — what we know"
-    excerpt: "AI carries its own share of potential pitfalls around ethics, inclusion, and risks. At Wednesday's Apple shareholder meeting, the AFL-CIO’s pension trust had issued a proposal that would have required Apple to issue a report on its ethical use of AI."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/apple-ceo-tim-cook-promises-big-ai-push-for-2024-what-we-know"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5bVodBq8ZhiUbswuQcQZNS-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple will ‘break new ground’ in generative AI this year, Tim Cook teases"
     excerpt: "Apple CEO Tim Cook has a message for Wall Street. He believes Apple “break new ground” on generative AI this year. Cook’s latest AI hype comments came today during Apple’s annual shareholders meeting. During the meeting, a shareholder proposal to release a report on AI and ethics was voted down as expected."
     publishedDateTime: 2024-02-28T17:35:00Z

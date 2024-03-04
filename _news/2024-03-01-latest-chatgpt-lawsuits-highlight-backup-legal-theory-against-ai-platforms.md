@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is ChatGPT making scientists hyper-productive? The highs and lows of using AI"
-    excerpt: "About 55% of the respondents to the Nature survey felt that a major benefit of generative AI is its ability to edit and translate writing for researchers whose first language is not English. Similarly, in a poll by the European Research Council (ERC ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-024-00592-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 53
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00592-w/d41586-024-00592-w_26794632.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
     excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
     publishedDateTime: 2024-03-01T13:54:00Z

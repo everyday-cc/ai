@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The murky world of AI training"
-    excerpt: "AI companies have also inadvertently hired children and teenagers to perform these roles, reported Wired, because tasks are \"often outsourced to gig workers, via online crowdsourcing platforms\". Ethics demands aside, the creators of AI models are concerned ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://theweek.com/tech/ai-training-reddit"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rByL7C22c2VbJFdbWypPTV-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "cYKUbmw4skewTqNBKxVO9nlRMV2oiRJGajJW3xddGr9dz6RUPWPEKLmT+oBFu2nkBoqbVkPYC2gxUrZU5KUCGdZJ8WLfC57dVIvWEGrngRsON5xjnlmy8mhBbquhkLTYG6CbOB5JwR9/i1DuWpl51COq3g20p8bEqlpLZYy5RRvrCam4E9VRXx9yubFMtke5+tA4m8xnhyhJuZJ9ZpUb2kY51dUayYi+PcDKdtjMgK0nVylz/ye5rlZ4BQSat9eaNcxy2MLiJ4n4WUF+Ek3Ig+TkZtmyvwbSRkOT3QyD+Xw5m2vEZSVl4YaM36OSW7gzyEqq6Wuh4svrTLtZBAUXCF+TOutJPxQ9ndtEBN3yJ1Q=;255N78H3pVAB5OvWsLWjsg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your
 webUrl: "https://www.cnet.com/tech/mobile/ai-could-replace-the-apps-on-your-phone-ive-seen-it-with-my-own-eyes/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Humane AI Pin — could this wearable replace your phone?"
-    excerpt: "and something that made me see it like a Star Trek communicator is its ability to live translate between 50 languages. You could go into a local cafe and order a meal without having to learn the language. On the surface the Humane AI Pin might seem like ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/humane-ai-pin-could-this-wearable-replace-your-phone"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Xq4DLQede4eLeyT5uT3KTM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "I Controlled Honor's Magic 6 Pro Phone With Just My Eyes. It Felt Like Wizardry"
     excerpt: "You can also find her writing about tech for good, ethics and human rights, the climate crisis, robots, travel and digital culture ... I never did get a spoon to bend or glass of water to fall over with my mind, but I didn't totally lose faith."
     publishedDateTime: 2024-02-28T20:33:00Z

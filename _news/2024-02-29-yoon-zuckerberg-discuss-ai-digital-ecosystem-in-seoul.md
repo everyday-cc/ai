@@ -34,20 +34,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "Meta's Zuckerberg in South Korea, expected to discuss AI"
-    excerpt: "Meta CEO Mark Zuckerberg arrived in South Korea late on Tuesday, where he is expected to hold talks on artificial intelligence and have meetings with President Yoon Suk Yeol and the heads of some of the country's tech powerhouses."
-    publishedDateTime: 2024-02-27T23:44:00Z
-    webUrl: "https://www.aol.com/news/metas-zuckerberg-south-korea-expected-214401300.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta's Zuckerberg discusses mixed reality devices, AI with LG leaders in South Korea"
     excerpt: "It has also been intensifying AI efforts this year including plans for a custom chip and adding AI functions to products. Zuckerberg is on his first known visit to South Korea in about 10 years. It comes as part of a tour of Asian countries that includes ..."
     publishedDateTime: 2024-02-28T02:18:00Z

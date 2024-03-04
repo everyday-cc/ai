@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
         width: 2560
         height: 1708
-        isCached: true
-  - title: "Best of MWC 2024 — best phones and biggest innovations from the show"
-    excerpt: "The on-board AI assistant is designed to be a true companion too, with Chat GPT-powered conversation, object recognition, real-time translation and on-glasses navigation. And that’s all without ever having to link to your phone. If this is a taste of ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.tomsguide.com/phones/best-of-mwc-2024"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Kps6jkiXFHhVXoPwVL5dDc-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "Rbp6y8UKoC6bsPcWBcyTd2Riq4Dwb7RzlVLA38NXyu52EzzjO7dX2bg7XVEz55LrnW+nlX5H61Q2mnosrfse+UaT8em/pLsFRuPYtv2u6j6l0v2i5y/CLLsqq4vSgqHk5qi3POV1y1A3EZlcRUe1wJIgCuv3L2zICwjoEHX1vb2S+UpiUKvcV/dVphjyK7JG55j2FvQkld8wcQ2fZxv0bsRcWqwloxLKNBCGjHRKB6aHG7vX9EV/FJARoFjLA5+TQ8gbW8AiwHXEje79QGNR16jgJlKFADXJzPpQwtJwdUV4nP78W0ymKOZFCh2HKLrzasGjdV0m2D/RxTPzNsulOg4Ac9tLuaPiSgEHj6UXQv4=;TIt0z7PZun5FZWOWWiGt9A=="

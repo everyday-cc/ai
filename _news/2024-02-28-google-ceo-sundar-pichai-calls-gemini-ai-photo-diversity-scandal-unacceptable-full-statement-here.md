@@ -83,22 +83,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google CEO tells employees Gemini AI blunder ‘unacceptable'"
-    excerpt: "The news follows Google changing the name of its chatbot from Bard to Gemini earlier this month. Pichai’s memo said the teams have been working around the clock to address the issues and that the company will instate a clear set of actions and structural ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/google-ceo-tells-employees-gemini-ai-blunder-unacceptable/3473609/"
-    ampWebUrl: "https://www.nbcdfw.com/news/business/money-report/google-ceo-tells-employees-gemini-ai-blunder-unacceptable/3473609/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/business/money-report/google-ceo-tells-employees-gemini-ai-blunder-unacceptable/3473609/?amp=1"
-    type: article
-    provider:
-      name: NBC DFW
-      domain: nbcdfw.com
-    quality: 59
-    images:
-      - url: "https://media.nbcdfw.com/2024/02/107377217-1708642941932-gettyimages-1797445840-js1_3016_huqg3fej_f9bb06.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google's AI Bias Blunder with Gemini Prompts Commitment to Change"
     excerpt: "\"We cannot be certain that there is no inherent bias within the AI models since it is often latent until some use case exposes it,\" Joseph Regensburger, VP of Research, Immuta, told Tech Times in an interview. He explained that, for the most part ..."
     publishedDateTime: 2024-02-29T11:02:00Z
@@ -156,20 +140,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Google CEO Calls Some Gemini AI Output 'Completely Unacceptable'"
-    excerpt: "Since the launch of Microsoft-backed OpenAI's ChatGPT in November 2022, Alphabet-owned Google has been racing to create a rival AI software. It released the generative AI chatbot Bard a year ago. Earlier this month Google renamed it Gemini and rolled out ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.inc.com/reuters/google-ceo-calls-some-gemini-ai-output-completely-unacceptable.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1080986288_tqjyet.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google CEO acknowledges bias in Gemini AI, vows swift action"
     excerpt: "Users express concern while Google takes swift action to address issues with its AI model–Gemini, pledging structural changes."
     publishedDateTime: 2024-02-28T23:22:00Z
@@ -248,24 +218,6 @@ related:
       name: KPBS
       domain: kpbs.org
     quality: 19
-  - title: "What the Gemini Image Generation Fiasco Tells Us About Google’s Approach to AI"
-    excerpt: "Following the Gemini image generation fiasco, Google has been accused of anti-white bias. We take a closer look at the underlying issues."
-    publishedDateTime: 2024-02-27T23:42:00Z
-    webUrl: "https://beebom.com/gemini-image-generation-fiasco-google-approach-ai-culture-woes/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 15
-  - title: "Is Google’s Gemini biased? Here’s what to consider when discussing AI in politics"
-    excerpt: "He had also accused Gemini’s previous iteration, Google Bard, of being biased. This was in response to Bard calling the website OpIndia as well as the social media accounts of Prime Minister Narendra Modi “biased and unreliable.” The discussion ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.medianama.com/2024/02/223-mos-it-google-gemini-bias-ai-politics/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 14
   - title: "Meta Wants Llama 3 to Handle Contentious Questions as Google Grapples With Gemini Backlash"
     excerpt: "As Google grapples with the backlash over the historically inaccurate responses on its Gemini chatbot, Meta Platforms is dealing with a related issue. As part of its work on the forthcoming version of its large language model,"
     publishedDateTime: 2024-02-28T14:31:00Z

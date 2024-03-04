@@ -32,20 +32,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Leveraging Risk Management Frameworks for AI Solutions in Health Care"
-    excerpt: "As recently described by The New England Journal of Medicine, the liability risks associated with using artificial intelligence (AI) in a health care setting are substantial and have caused consternation among sector participants. To illustrate that point ..."
-    publishedDateTime: 2024-02-28T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/leveraging-risk-management-frameworks-5396076/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14205_4720.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "EIhi6mDUxX8ZT+Z9m5tXBzax1tpebVtLSUs/ps33h4B5XXQaT6TdJoe+7+ETQEU2IomfGPBtJvBCYF/VIUopDI+rjW2OaOxRfDcqVM7ZIaBAW+p/5Iq6rB8tQXJuKrdALZXz7oiA+XW5PtKNa67FOhduplrLnWdvdWRffIx7kDIUEc8neppaD4KyGkFs2GL3Eh3YNGZGtOcKEWKh5l29lvyYMghZziscGB8EQfnnCEkV8B465tsg2Fukf7FgooHqUld+PWXyg5GcqD7uzCbclgD9Mf0cN8GKlERMYLI0zEiVWrt4+sMzIU9ZJeq21Fi6Pjv3JgDGnE25IKg7l9ip6b8XvNyfkKfUUgLuibwDVIMxSL91GnI6qPokg1U0EhHIPHxSY5MaZkigcJ5fayJcNb7Xa9TUbBrqaq0rBR5kfici0YYrcr3ICAAJgTz/qe1O9vJeU3+VG0f7v1UJ50K2YDh67oTEFKX/fbtdjYoZrt03KZnFqn5AKBIB4mI3p40gXd9xafzcQ3yy3BLptpSNTA==;Ci1OxP7lrYzn49l1QEt/Wg=="
 ---
