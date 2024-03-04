@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "VeriSilicon NPU IP is Shipped in Over 100 Million AI-Enabled Chips Worldwide"
-    excerpt: "VeriSilicon (688521.SH) today announced that it has reached a milestone achievement with its Neural Network Processor (NPU) IP integrated into over 100 million AI-enabled chips across 10 major application sectors worldwide, including Internet of Things ..."
-    publishedDateTime: 2024-02-28T01:11:00Z
-    webUrl: "https://www.afp.com/en/news/1315/verisilicon-npu-ip-shipped-over-100-million-ai-enabled-chips-worldwide-202402283526521"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 31
 
 secured: "iKmx/cMm1jWezlS6Y5YosaZ1EegWFy5zBtKJCiCTTLlT3+QbsQzj2BAP2xz+zx6H/+W+SnyC8muwEAuMBitwrOFNJ78cCyLAgkLCacliSVFJHdwSsSG6qhwJPFQWAEDLsiHrRnDp70FK0iBWf15JT+FWZ6vbxNlcpUQGhDAKPs+cg3nqpQJSfX9hZ6fcJ6nS/6W1+JDmzXJ8V9a40L5hmod4aRHDt1cSzOQWTYKK8rrcC2uQx1fOcdZJUGqDCHJLB9OJDF+9ZJAcQeoOBIsRqWr460O8/l3P/d8ufUWsYtDzdGq+YBH3NKBoDocPiWsEckElOhqXuAgmUDY+no6Z8iEDaUZhUWYx4/fPlG+pOdLynx+P5FbwCbHefpvZhFeg2Kwt58qLnl4bLn9SYGNJTEEyxpTiRa9Ua9cZiSRb+7YkJ/GCZy+KUpdMh7xpWJBr5dH2d+ghJo6INITcpFFT+yXOcQXj29EtzA+oGvgYfjS0asF6hH5XjXqsnwZE0FztCIvWcY1NykxNB4RclMhXVw==;3kKc7ghlrajCpAXI/dNnkA=="
 ---

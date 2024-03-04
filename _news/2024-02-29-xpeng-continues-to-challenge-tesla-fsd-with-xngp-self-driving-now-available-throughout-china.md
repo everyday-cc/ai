@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-a
 webUrl: "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

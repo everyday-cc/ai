@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-st
 webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "VeriSilicon NPU IP is Shipped in Over 100 Million AI-Enabled Chips Worldwide"
-    excerpt: "VeriSilicon (688521.SH) today announced that it has reached a milestone achievement with its Neural Network Processor (NPU) IP integrated into over 100 million AI-enabled chips across 10 major application sectors worldwide, including Internet of Things ..."
-    publishedDateTime: 2024-02-28T01:11:00Z
-    webUrl: "https://www.afp.com/en/news/1315/verisilicon-npu-ip-shipped-over-100-million-ai-enabled-chips-worldwide-202402283526521"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 31
 
 secured: "Vz3MHelotzES+/MX56CBVCT4Lg1oF7DFBJ2bAxMrSmXZJI/3Zs/HIXorAspaa9KDK9N1L1bwMMgsQaDfuO04xJp15ZbSJ38NBQsPusAlZbUtvdiGkCZDk1Vqmcq+HxzIj37AkY1EGrKjacVf0KEziulctV0GlOpPRdJCmLtCtuRPFP0IidHbpO+ePDJqhVniuiWkYLK+CtcXlW8SJHe6V8n6ACclNaer8DmLcUPbqpDUGGnQ9aNXD6BJWgRwqUj6xW39AJST0riugCdW5rJfo8OKn7k0efYDHZnRFyV0q7OqDuAkbQwyjNYr0WClRfM6VFf0V8NgvXgppbDivSmPGfpbOccN1wQeOcebr2gPhsQtliWF94+Fr+u902n8iZ4DH1EsVd1yJVClmhR7ESroaPAFVzILoPwiO4pTA2EQmEhVMhALISmLcIkQyZIBIElKFOJEj4DLbFKn/zuT7cHXRJl/vO5vBBTbD/+gW2XeBLOVy//YUVGqABC5bN39Ea0u+mGHbm3w7xTezWl3wBKvFw==;3ABZ405cRUssvQnajdJxUA=="
 ---

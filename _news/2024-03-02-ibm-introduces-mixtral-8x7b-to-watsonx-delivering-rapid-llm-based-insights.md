@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-    excerpt: "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
+    excerpt: "The addition of Mixtral-8x7B expands IBM's open, multi-model strategy to meet clients where they are and give them choice and flexibility to scale enterprise AI solutions across their businesses."
+    publishedDateTime: 2024-02-29T13:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61547703-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-008.htm"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 16
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"

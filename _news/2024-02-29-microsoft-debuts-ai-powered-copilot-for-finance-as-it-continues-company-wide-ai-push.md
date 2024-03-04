@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft to offer more AI options on Azure with Mistral AI partnership"
-    excerpt: "Microsoft has partnered with Mistral AI to make the latter available to its Azure customers, adding more options to enterprise customers. Mistral AI is set to enrich Azure’s AI offerings, introducing its premium models via Azure AI Studio’s Models as a ..."
-    publishedDateTime: 2024-02-28T01:29:00Z
-    webUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnership.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713281/microsoft-to-offer-more-ai-options-on-azure-with-mistral-ai-partnerhip.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 89
-    images:
-      - url: "https://images.techhive.com/images/article/2015/10/microsoft-headquarters-100623370-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Mistral AI makes waves with deals across tech giants including Microsoft, IBM"
     excerpt: "Paris-based startup Mistral AI has cemented itself as a rising star in the artificial intelligence world, landing major partnerships with IBM, Microsoft, and others just one year after its founding. The fledgling company is moving fast to commercialize ..."
     publishedDateTime: 2024-02-29T12:45:00Z
@@ -83,22 +67,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/microsoft_france_hq-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Microsoft to foster innovation, competition in AI"
-    excerpt: "Microsoft will also not use non-public information or data from the building and deployment of developers' AI models in Microsoft Azure to compete with those models, and also allow Microsoft Azure customers to easily export and transfer their data to ..."
-    publishedDateTime: 2024-02-28T02:41:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-to-foster-innovation-competition-in-ai/108056858"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/microsoft-to-foster-innovation-competition-in-ai/108056858"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/microsoft-to-foster-innovation-competition-in-ai/108056858"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108056858,imgsize-155252,width-1200,height=765,overlay-ettelecom/internet/microsoft-to-foster-innovation-competition-in-ai.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Microsoft Invests in Mistral, Shaking Up the AI Landscape"
     excerpt: "Microsoft and Mistral AI have partnered to offer the French startup's AI models to the masses via Microsoft's Azure cloud computing platform. While Microsoft has a strong partnership with OpenAI, it's expanding its AI investments by collaborating with ..."
@@ -247,6 +215,22 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/405/2024/02/Microsoft-sign-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
+    excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
+    publishedDateTime: 2024-03-03T15:31:00Z
+    webUrl: "https://www.techtimes.com/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 50
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444333/ai-safety-summit-day-two.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
     excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."

@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Meta to set up team to counter disinformation, AI abuse in EU elections"
-excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European Parliament elections in June amid concerns about election interference and misleading AI-generated content."
-publishedDateTime: 2024-02-26T12:02:00Z
-originalUrl: "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html"
-webUrl: "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html"
+excerpt: "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European ... data science, engineering, research, operations, content policy and legal teams will focus on combating ..."
+publishedDateTime: 2024-02-26T12:59:00Z
+originalUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+webUrl: "https://www.cnbc.com/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/26/meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.html"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/56cb1901f0b71c523216864cade4a592"
-    width: 800
-    height: 497
+  - url: "https://image.cnbcfm.com/api/v1/image/107368948-1707137441266-gettyimages-1978494980-raa-metaplat240204_npg9u.jpeg?v=1708952265"
+    width: 7863
+    height: 5242
     isCached: true
 
-secured: "g+PEkNnu8ai/WIq0/LijsFIvV0iBKAvOMrEivU01ZKbCADk362ySY748FjOkyij8nFnX2k04JgXDymovOFXFua6jnJ7MdEjVrXySZvpckWMdO8Sc88V74h3YJhUfMMlwB8IXkxoDoo78A6ax3Oca/q/8nYcnNQnDpOsKL05Sr7E0WQWlKxKqp7fh4c1rZ5vAE3VJZ4axBoQATotSPNsbsub9B+XPRu0K3Iyv1plZAhhih7u1jrWhno9Sl27ZI8P3cKuseB5E+K/BvXyNLD47HOarrS3e4J14oMJ8XjEoc5a8ch9TPbzsU1FPvGKirFqdy1tLAi0xF/5z5kHUpWjqOeMQ+KpUuxYH715aS0HJSD+6QnBHqHnyJ2EVoBbpmFhkhqZtE3HLmeW35P2PraLhfSGxSEhs+2y5KQRJPNhWCpnYme4BW46t3Au0I3/W7Zn5R3TfNelkC8uX0q2xLRNvDh2N/4FE8cbm6F/LIAu2i5QTbsFoSnzfwO9zjW8ksIq4xSAXur+uluayzgXFSpUkbA==;0rdL/07E6gvnB4yx46dfUA=="
+secured: "iJ6y4Z47nQypyvygxrk3s2UNm+JCZ34dJ3tFHT26prPhi3MgvyEAdf0R02FWeKG+erwEtvSnCrig3aY2+6qdkAR7dXTb5LjhcK0+wWe/dOfi4AXJc3DfVmdoHVkfKr3PFUyTFpEmCeOTC5cy4mh0nPzo9UScSbFbhkBgqbVqno0s+7iJuuHgxFvQ52vt6feZXdSGRZfCmUQJhSeL21ZifiYKu+N/tb7CnW09VS3PPgfWTiZ9G0eOmQFrqJ2B/T7zWz4G3ZhaqIMUzBGfo/AGtq7vKMOhtzxvAetFMNmXPFEr3H+gC0BDWWHNVA6dSaZTN5GqsKOsb14tIM2QePmq5sRfHEmsWSIT+mEae+A8A88=;4fQTFehUspEUR0nDvdKnjg=="
 ---
 

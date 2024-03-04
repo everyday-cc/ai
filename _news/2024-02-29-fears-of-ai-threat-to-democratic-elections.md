@@ -56,20 +56,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "New technology uses AI to detect depression"
-    excerpt: "Researchers at Dartmouth’s Department of Science and School of Medicine in New Hampshire created a prototype of a smartphone app, which has facial imaging processing software."
-    publishedDateTime: 2024-02-28T02:48:00Z
-    webUrl: "https://www.wsls.com/health/2024/02/27/new-technology-uses-ai-to-detect-depression/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-27-2024/t_8de89b85f1704088995080cbfb473ad2_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
   - title: "The National Science Foundation wide-and-far on artificial intelligence"
     excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
     publishedDateTime: 2024-02-29T20:29:00Z

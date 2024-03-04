@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Nvidia surge brings memories of Tesla rally, as investors move from chasing electric vehicles to artificial intelligence"
+    excerpt: "While Nvidia’s shares have added 66 per cent this year after more than tripling in 2023, Tesla shares are down more than half from their 2021 peak."
+    publishedDateTime: 2024-03-04T02:25:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3254029/nvidia-surge-brings-memories-tesla-rally-investors-move-chasing-electric-vehicles-artificial"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 59
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/04/7cdcedd5-25f7-4388-8a74-02428104d860_0d8809b5.jpg?itok=2q5igJnj&v=1709519091"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Wall Street hunts for more AI gold after Nvidia’s soaring rally"
     excerpt: "It has also spurred Wall Street to search for other AI-focused companies in hopes of catching outsized moves. Whether investors are looking at the broader chip industry or betting on firms elsewhere in the value chain, they agree on one thing: AI is here ..."
     publishedDateTime: 2024-03-01T00:00:00Z
@@ -141,6 +155,6 @@ related:
       domain: hothardware.com
     quality: 19
 
-secured: "rO5ovmdOTvRRqmKUth3VqcYuHkHqDVGfIHrKsVbhfC4hdXEKaUhHk4EYML37bIhCMP0SQ000iPZhwNdgiQwprVg302sIySQLiRwore+fHbMuxdgyBF+j4wpSTnbLjXc6mBz2wFBTe9RuNWkthuAF4qLy8xI5t3Q4HtxwTSghgrceDlXPFBmgiQNi+998cMY93//CskYBW1JaLTiIn8Hxfps81FMgQ3eo+nxj7BQToJI0gq4Xp4Zrv1CSM2S2FAAgVc1PTtrkF0QSl1p3VD6ozEE9Ta4wS1X5jVimB8n5ziG9JmMo6C4ZSU3jYIa5PUxFausyV3RsvPQ08rSKXANWbudvlJApbafCxOL3kX9SmeI=;o5wrWOh1FBhOMpRgy0NcVw=="
+secured: "ImU5dyifEilOK7i07y5EShVDGo2szCdDlvBZKY1k5jx3dH2OieWw2gzJajy/A1MhGEPlAaAPcThXbHePOHmL/LuPpA4PyfDnk7RIFE1xqutNuF7ntEXbEuMCFCV1XaZ3d28chl5hCkRsNgZk/979nRZJvfac3q6N0pHPJ3Fj9ldCaDxpZ7SE3y+qPdCcs7kSMHgM4QWqzLDRcy4W3Ay1Lrp3sLru/unkyqXlxOBx7F3NnBtkVPBf5FNIGQqT2zs2BGsShKQ5kKrabT0sgVJb68+ZMPlwh2M/4oglC15hNFhACQsYMUZnbMD4gyVNamS4aexxWyv0kV1+eL+DwdB8TT7RDB1XNnvA3fwgoiX3EwmimEkXVlhAWiamPNU+MHrVQblADox1cUgl9PG5UCD7SgvuDfgLbzyNSNYnhwSFFfRZr9LBf8qeV34bdtapcAkJM60LBWYz18Ru26VcNTDHFAijOz3xQ5Db0jkscEp9+dFLr5lsKKTG0OHKpdYlBFvobCVQ1HbxiTI0aRGOUzYGTw==;FoSfvswxzrQdo0269s8igg=="
 ---
 

@@ -82,20 +82,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Why Citi is rolling out generative AI to all its developers"
-    excerpt: "Helping programmers become more productive, modernizing legacy systems and conducting compliance assessments are among the hundreds of gen AI use cases in production or in the pipeline for Shadman Zafar,"
-    publishedDateTime: 2024-02-28T01:40:00Z
-    webUrl: "https://www.americanbanker.com/news/why-citi-is-rolling-out-generative-ai-to-all-its-developers"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7bbe3eb/2147483647/strip/true/crop/3000x1575+0+204/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F07%2F775653d8444aa9c315818244d643%2F402523218.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ikjXGPh5JuZPftnKuTniybfxLmGdBDwBAqpzNsb4kvTAx4yic1JF0wNR8ZOTlXg7esVk9QhP3gfCXDIxm9d4Uu0QQ38jFrgMoCpRNweg1qhPf2QtGz5wICz0kfQa3QkbWnxyn7cYrhArgkC1v10spn9x+Sf4ZH5hPTp266fejgPWlHYe0/N447AU5TGEXM9EBLVeAhb2H/UIWAV7Pv7HwBB1REAK5qqCirx1gB76X6mv6Z/Q2fTXeKztxqkrYgyEHfi5yqSnEOQtm2bctKTmYDrknA6B6o1o87ARCXgvDMRDuWRlPRk2bZopNqB+dZIxXUitTaY1zI8U1891A59p07TQZVMLtYaOUUP0maxbCIE=;SV4IjyBt9ihNsy3ENiIzkw=="
 ---

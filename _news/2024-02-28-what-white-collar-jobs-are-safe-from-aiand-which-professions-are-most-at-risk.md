@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Does artificial intelligence put maritime jobs at risk?"
+    excerpt: "Efficiency will help shipping professionals focus less on repetitive tasks and more on things that matter, experts say"
+    publishedDateTime: 2024-03-04T01:14:00Z
+    webUrl: "https://www.tradewindsnews.com/business-focus/does-artificial-intelligence-put-maritime-jobs-at-risk-/2-1-1602573"
+    type: article
+    provider:
+      name: TradeWinds
+      domain: tradewindsnews.com
+    quality: 37
+    images:
+      - url: "https://images-global.nhst.tech/image/SXdoVUJTeFBUNk5vK0FJWkd2VmhIZzROci9VN1M3TmZzTnk5SU5DaW1kND0=/nhst/binary/32e67bf3dae4bced071555dc87613aa7?image_version=720"
+        width: 720
+        height: 359
+        isCached: true
+
 secured: "+rlvi97XYPtHXOqQ6u7bFlm5QtoZPuiQy5nBuQBjQ/0Ix+PhCCnpsxYuLIKmtrdA1p2yUXmVQ8/ZUaGFFUeEA6/SwS3cR3h8SsNHojBO9jDW8XhiWxlHu5/7cMHL6qdYQgxEmdi+ETf/AeTMKIZI8KpSpienqYSezSHdSp0r9BT7xodTZP2ITZ9iCcjASSO8VhiX23uCh2R6iQHRVhu07A/cZTic/Z/PV1+heydcSVjaMzcR3djhbQDcpxubkY8Y6dfcYyYlHrOOwobMRmF7f2XqGjOcd7DRY4cHAS+IuIz88WW5qcDrVv8KVFQxcWJZuPWBApUIBwjAWtftaNHtMgBdyCKAMNDdz2+riFYY2/G37R8vgznUTkiRFyaHa/RDHmTAuPKxDS3/g6BDoQ/OY6X1QmGKuuCuq7qkU4wtAbsz29Wm1LSrvGo4Nrxhpp8aOlnLHOYhl4TBo9y9stnqNed3dVaruq5bRCGqhh65m8hgRf0F6GMnpBTbnhwCPYz/+WHzzxCjYZ7/ctpN+m6akQ==;HwYu9b1h+jdwxBZBx8t69w=="
 ---
 

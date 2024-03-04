@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg"
         width: 770
         height: 433
-        isCached: true
-  - title: "New technology uses AI to detect depression"
-    excerpt: "Researchers at Dartmouth’s Department of Science and School of Medicine in New Hampshire created a prototype of a smartphone app, which has facial imaging processing software."
-    publishedDateTime: 2024-02-28T02:48:00Z
-    webUrl: "https://www.wsls.com/health/2024/02/27/new-technology-uses-ai-to-detect-depression/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/02-27-2024/t_8de89b85f1704088995080cbfb473ad2_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
         isCached: true
   - title: "Fears of AI threat to democratic elections"
     excerpt: "Fears of AI threat to democratic elections on linkedin (opens in a new window)"

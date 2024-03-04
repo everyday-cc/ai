@@ -163,6 +163,20 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Apple shelves major self-driving electric car project and lays off staff after multibillion dollar investment – report"
+    excerpt: "Apple is reportedly planning to shut shop on its long-announced multibillion-dollar autonomous electric car project. Bloomberg reported citing sources within the tech giant that many staff involved in developing the ambitious vehicle are now being moved to work on the company’s generative artificial intelligence projects."
+    publishedDateTime: 2024-02-28T18:29:00Z
+    webUrl: "https://www.aol.com/apple-shelves-major-self-driving-041325998.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/5090da368318224effa2a538aff509d0"
+        width: 1200
+        height: 836
+        isCached: true
 
 secured: "Hw5VKzYOuU080fvTOETQWKqk3JSvETw25Ifwc6PSEkSPmMYy5B4Inp8alEzTEtdp1QiySuQKdIq/NLLAld1j7M7r+TVmyY3nFnkgJ1qyzyljwWG4sSG6yqWN5sreoV+cIIHivbIElOJX+atox+KNbL3Jr8PoomOdDaGBbcF8RLPrqVpfbhC535QjdKQDb3EcGV8Ls1zSI7DRFgiJmVV3dtxG3IHQbRlzsjI4fYV2vJAXUqMUrz6BHptwjI4i1wZoY26bfqL4zbgR0tQq7R9OL1DavUwhhhgtDe14ineTVLnjmPqvm9uXmH0rgL6+QuAgDzLSHDje8An3Kho5uPIpR/p7brWFr1yLFjweqsmaqr6DoXkTMc2EADZEKrCQAdNzCWGqwXRiPzKLpDMvJQedIE8sCq7lD4DLPvSO/lkIjYCOVapt1PC42kSpyCsvgBMu78zVBWm2n2b7h4PDM9ubS0eHmKJG9/O0saZ4YZ7AkcLGyZMmWz46Gm39QFj5qI41E2vmKBJhh84SiDQtiXtCPg==;hAfgvfe7hLn4zr6bgONWqA=="
 ---
