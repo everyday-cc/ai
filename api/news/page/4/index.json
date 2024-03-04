@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-29-crunchyrolls-hope-for-ai-generated-subtitles-is-a-disaster-waiting-to-happen.md",
+      "title": "Crunchyroll's Hope for AI-Generated Subtitles Is a Disaster Waiting to Happen",
+      "excerpt": "But AI won’t do anything of the sort—and a fraught aspect ... or done wholly, through machine translation. Large language models have come a long way in the last year, often distressingly so for creatives in the broader business of writing.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
+      "originalUrl": "https://gizmodo.com/crunchyroll-ai-subtitles-anime-streaming-1851297432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4f939b476368941d7dbe380c66734423.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-dubai-robot-to-detect-e-scooter-cycle-violations.md",
+      "title": "Dubai: Robot to detect e-scooter, cycle violations",
+      "excerpt": "The robot will monitor the use of bicycles and electric scooters. Powered by artificial intelligence, the robot will identify a range of violations, including failure to adhere to personal safety protocols like wearing helmets; scooters parked in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzcyNjM5ZjctZGU4NC00/11/201209063314qlkc-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-machine-learning-vs-ai-vs-deep-learning-the-differences-explained.md",
       "title": "Machine learning vs AI vs deep learning: The differences explained",
       "excerpt": "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ...",
@@ -377,49 +472,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-intel-wants-its-chips-inside-100-million-ai-pcs-by-2025.md",
-      "title": "Intel wants its chips inside 100 million 'AI PCs' by 2025",
-      "excerpt": "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
-      "originalUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -965,6 +1017,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-28-baidu-revenue-grows-6-in-fourth-quarter-as-ai-and-advertising-boost-business.md",
+      "title": "Baidu revenue grows 6% in fourth quarter as AI and advertising boost business",
+      "excerpt": "The U.S.-listed shares of the company rose by 0.4% in trading before the bell. Baidu's online marketing revenue grew 6% to 19.2 billion yuan. For the quarter, its adjusted profit was 21.86 yuan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1709119383",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
+      "publishedDateTime": "2024-02-28T11:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-how-ai-will-spur-the-democratization-of-technology-in-2024.md",
       "title": "How AI Will Spur The Democratization Of Technology In 2024",
       "excerpt": "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead.",
@@ -1115,110 +1219,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
-      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
-      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "publishedDateTime": "2024-02-28T09:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
-      "title": "Apple unplugs self-driving electric car project, reports say",
-      "excerpt": "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-68420817",
-      "originalUrl": "https://www.bbc.com/news/business-68420817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-68420817.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp",
-      "publishedDateTime": "2024-02-28T06:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

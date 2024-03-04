@@ -59,31 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google CEO blasts ‘unacceptable’ Gemini image generation failure"
-    excerpt: "Alphabet Inc.’s Sundar Pichai emailed staff on Tuesday to address the problematic responses from Google’s Gemini AI engine, describing them as \"completely unacceptable.”"
-    publishedDateTime: 2024-02-28T09:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/28/google-ceo-blasts-unacceptable-gemini-image-generation-failure"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/28/2566662.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Google CEO Pichai blasts 'unacceptable' Gemini image generation failure"
-    excerpt: "Teams are now working around the clock to rectify the issues, Pichai wrote in his note, reviewed by Bloomberg News"
-    publishedDateTime: 2024-02-28T07:14:00Z
-    webUrl: "https://www.business-standard.com/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
 
 secured: "3c4/Mrb7XRP0d5Lv0jL/NuquDFkUskTQCNdaLcjWfSggLVz4B59AuuNiEexuCc5JoHEPRyGqk+7bJlovUTbf0Xod8zNXDNx2MSzAS5hCNl+1JHAV7sgOmgLaWry4eUJJfU9fgbusJsfUdEaTh9AkMdgPUETkE550vT2Z7sNCmB42Il6scQaXssHqM6HwfvvA6t59WFaD3YvYJLtKhZ/r6cd59CdnEE3u2HHva5ZbZjBv0t4e+1fImWiK0UvWtyuD8PYf1iIhhRVcQG116bKrkVbiSzUnuXh5oQRHgxmnLECMHHdB5nNSrwxltdS8XGlpJf15A2Nmy2I8Ymyynr/bMTYuzqV+fOK/po2V2xwXP58=;pTL3FXwWwK5xr9LITN4h7A=="
 ---

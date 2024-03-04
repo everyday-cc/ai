@@ -114,7 +114,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -153,6 +153,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs.md",
+      "title": "Mark Cuban Says 'Tax The Robots' Amid Fears Of AI Taking Over People's Jobs",
+      "excerpt": "See Also: Elon Musk Has Gone To War With Sam Altman, But OpenAI CEO Once Thought It Would Be ‘Really Helpful’ To Ha Why It Matters: Cuban’s call for taxing robots comes amid growing concerns about the impact of artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
+      "originalUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/Mark-Cuban_4.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37448729",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37448729",
+      "publishedDateTime": "2024-03-04T03:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -748,7 +791,7 @@
       "originalUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -800,7 +843,7 @@
       "originalUrl": "https://fortune.com/education/articles/ai-programming-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -957,7 +1000,7 @@
       "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1206,58 +1249,6 @@
         "AI",
         "AI in Marketing",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-in-financial-services-transforming-stock-trading.md",
-      "title": "AI In Financial Services: Transforming Stock Trading",
-      "excerpt": "Atal Bansal is the Founder and CEO at Chetu, a global U.S.-based custom software solutions and support services provider ... more than 50 years. The financial world continued to adopt AI technology as advancements in machine learning, deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65562db3daaf3fc3487ed9b7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1354,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
-      "publishedDateTime": "2024-03-01T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,136 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-12-01-20-best-neural-network-software-for-2024.md",
+      "title": "20 Best Neural Network Software for 2024",
+      "excerpt": "Learn More. Neural network software enables the implementation, deployment and training of artificial neural networks. These networks are designed to mimic the behavior of the human brain and are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/best-neural-network-software/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/best-neural-network-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-how-artificial-intelligence-could-transform-health-care.md",
+      "title": "How Artificial Intelligence Could Transform Health Care",
+      "excerpt": "Bob Wachter comments on the potential of new generative artificial intelligence tools to transform the health care environment in a way previous technologies could not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
+      "originalUrl": "https://www.ucsf.edu/news/2023/11/426716/how-artificial-intelligence-could-transform-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/news/wachter_digital.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UC San Francisco",
+        "domain": "ucsf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-irish-police-plan-novel-application-of-facial-recognition-to-limit-risks.md",
+      "title": "Irish police plan novel application of facial recognition to limit risks",
+      "excerpt": "One of the main concerns around police use of facial recognition technology to identify suspects is the potential for false arrests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202311/irish-police-plan-novel-application-of-facial-recognition-to-limit-risks",
+      "originalUrl": "https://www.biometricupdate.com/202311/irish-police-plan-novel-application-of-facial-recognition-to-limit-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/19132752/garda-surveillance-scaled.jpg",
+          "width": 2048,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
       "title": "AI, machine learning changing how first responders handle 911 emergencies",
       "excerpt": "An upcoming part will look at journalism. Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG) readings to ...",
@@ -950,118 +1080,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-locomotor-control-and-rehabilitation-robotics-laboratory.md",
-      "title": "Locomotor Control and Rehabilitation Robotics Laboratory",
-      "excerpt": "With that in mind, we have developed clinical protocols for treating ... The participant is in complete control of the speed and direction of the belt; users can determine if they want to walk forward or backwards. The KineAssist allows participants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
-      "originalUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.md",
-      "title": "AWS and Nvidia partner on Project Ceiba, a GPU-powered AI supercomputer",
-      "excerpt": "The companies are extending their AI partnership, and one key initiative is a supercomputer that will be integrated with AWS services and used by Nvidia’s own R&D teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html",
-      "originalUrl": "https://www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/11/shutterstock_324149159-100937108-orig-100947859-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1250028/aws-and-nvidia-partner-on-project-ceiba-a-gpu-powered-ai-supercomputer.html/amp/",
-      "publishedDateTime": "2023-11-30T15:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio.md",
-      "title": "The 3 Best Voice Recognition Stocks to Speak New Profits Into Your Portfolio",
-      "excerpt": "Voice recognition tech has existed for decades, but it’s finally getting its moment in the sun. As we increasingly move towards mobile optimization, users want tools that help on the go without having to stare down at a screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio",
-      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T15:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

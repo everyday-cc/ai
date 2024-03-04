@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Air Canada’s Chatbot: Why RAG Is Better Than An LLM For Facts"
-    excerpt: "a company should strongly question whether there is any conceivable benefit to having a chatbot feature on their public-facing website rather than a highly capable search functionality which could still use natural language processing to provide more ..."
-    publishedDateTime: 2024-02-28T07:29:00Z
-    webUrl: "https://hackaday.com/2024/02/28/air-canadas-chatbot-why-rag-is-better-than-an-llm-for-facts/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
 
 secured: "dISDrvsfzETtn0O37w5GGgYKbTJkbO0sMCPbW1sgQc2UL4eSTqegA6DcTRc99TkGwxwJ2OPVj75UJ9UJjzKHsN1L4etR7Y4FAfCwebr0wLJAR2S7q0iC0O8GgRhhHKPK8079wXeQd/utyd9j+SJba9l9E8tmkWMU1o0ogIlzkQgLrLj9LdnZHCraRE6JAZMH//GLpjhUP1g/BUZdjjzP0WCe7SQH1y8Agl4WFUnZvcqXM2kiFbvet5zdFR9IGGA/WxRhbNRx218Cs2rekCKKmdHQTYd/Ibz1oIdqhTJeaKIL8GAD/Lw9+fvus96XPHo1a9ma8CKXvVUx558Ll5cl+szBIVYAoKpUseG3rmbyIDNv7o0aa1qPpVldaS/Kb3tFd57fAWRbKtKJY7108KuJEz70D/I/s7RWz4NDxkMvCQ/OGbscEtTXwUHyiqABCCK08WzctrZXkXD4zIYjPyLkhGtT37sycNdd3TJ+3c4OTcu3cirCNZ6CGntPlEL9moycfB7KS7UoIqWgg8UbZW8Tbg==;sH7FWepLgHULHattquYljg=="
 ---

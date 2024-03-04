@@ -253,6 +253,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-28-baidu-revenue-grows-6-in-fourth-quarter-as-ai-and-advertising-boost-business.md",
+      "title": "Baidu revenue grows 6% in fourth quarter as AI and advertising boost business",
+      "excerpt": "The U.S.-listed shares of the company rose by 0.4% in trading before the bell. Baidu's online marketing revenue grew 6% to 19.2 billion yuan. For the quarter, its adjusted profit was 21.86 yuan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1709119383",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
+      "publishedDateTime": "2024-02-28T11:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
       "title": "Apple unplugs self-driving electric car project, reports say",
       "excerpt": "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people.",
@@ -1350,49 +1402,6 @@
       "provider": {
         "name": "Autoblog",
         "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-toyota-to-build-artificial-intelligence-based-driving-systems-in-5-years.md",
-      "title": "Toyota to build artificial intelligence-based driving systems in 5 years",
-      "excerpt": "as competition to develop self-driving cars intensifies. Earlier this month, home rival Honda Motor Co said it was setting up a new research body which would focus on artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2016/06/20/toyota-to-build-artificial-intelligence-based-driving-systems-in-5-years/",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2016/06/20/toyota-to-build-artificial-intelligence-based-driving-systems-in-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -63,31 +63,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google CEO blasts ‘unacceptable’ Gemini image generation failure"
-    excerpt: "Alphabet Inc.’s Sundar Pichai emailed staff on Tuesday to address the problematic responses from Google’s Gemini AI engine, describing them as \"completely unacceptable.”"
-    publishedDateTime: 2024-02-28T09:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/02/28/google-ceo-blasts-unacceptable-gemini-image-generation-failure"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/28/2566662.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Google CEO Pichai blasts 'unacceptable' Gemini image generation failure"
-    excerpt: "Teams are now working around the clock to rectify the issues, Pichai wrote in his note, reviewed by Bloomberg News"
-    publishedDateTime: 2024-02-28T07:14:00Z
-    webUrl: "https://www.business-standard.com/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/google-ceo-pichai-blasts-unacceptable-gemini-image-generation-failure-124022800394_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
 
 secured: "os9e1fjim8gRMjtmygs3hdKgLxzcyFYNf8BlHWKhl6OCZ/o35VrtNiBVJeAqqdBdDj6djgCotfHRZBjtJEwQ5dq3Qj24kCUgHpDq/+G8XOkDiHVWsYEkme8uYBd21DpR6ZHnoqfnppjwG3kHQff8lD+SPsviVVWuwybIEdOzM1LfugNdvY60SWjIsQLm46uTLtbNluyQlyQWkKjiYiamIfiqN+eZjkDyZl6vidreIsV3uyoLd8Fjia4F+cDXI5hkPhnDk8Fj2MKBCuvQMQsULetJF+fR5kD6+rzoM8wV/8m1z4yCqyQsG46z11yo7F0WI/Fb1iCprHvY3ftuB/syw6Sm8NG/U3wg4LzQXaF9z5Kb1gadJSK7BQe3JngJAbN5htEx63VCe9l5ouDPARFW9YABYG2uVvupE7igSjiSNOnL5TFHAyn/cl7TvzsKd8Bsr8cgvb/7cqIECF2yk+Lhh/XvWRVE5Prs63lVuM0rbxYwT5/hjIFPqOgLHu68zsWIONtZw1Mot+7URMAqh29HfA==;OrW+PeWgti+RPN0GFjgFhA=="
 ---

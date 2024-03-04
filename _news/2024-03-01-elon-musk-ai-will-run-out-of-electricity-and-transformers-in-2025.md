@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/technology/elon-musk-ai"
 webUrl: "https://newatlas.com/technology/elon-musk-ai"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: New Atlas
@@ -27,6 +27,17 @@ images:
     width: 720
     height: 480
     isCached: true
+
+related:
+  - title: "How Elon Musk Is Using His AI Startup to Help Turn Around X"
+    excerpt: "When Elon Musk created his artificial-intelligence startup xAI last year ... joining forces with his social-media company X. The AI company, for example, says it has an advantage of having ..."
+    publishedDateTime: 2024-03-01T14:33:00Z
+    webUrl: "https://www.wsj.com/tech/ai/elon-musks-x-leans-on-his-ai-startup-9038380d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
 
 secured: "4w1GRptR0GRLOoirPiKJ+J81zLw6GjEfNqMkgH+UKyzaR63PhkTzEZ8N5MUGhsDfQ2B7Vj7hTiFSclSpaNiMPheqs2PDwnbpS+fPjmizqBMLjM42vXj+3Gk7AAVHzSaBm09CD6U70zIPJ2fbv40dnuAV8JP1HQfhRZR/vwQjXFFhS/Jw8QTjiDjvr15Ia26qlZ4pZWluTNg7f2ciTHo4FJplCJQ8b0UAgZlno3HdrTec+oNqgrWnl/2QPPUGEU+Efn3mKz/4xTnY0fLSvxwjNNbX9iCpnLuvKr2b5aXIlimu6PIW7y25kdicw8wVAp2n5+Jz+mlZQYDk2VTqjxPOD5ejf4mtxhzQOO1OQqq8W4o=;6RC7Vzh6gu5t6FikL7WWHA=="
 ---

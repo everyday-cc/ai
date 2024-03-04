@@ -2,6 +2,144 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-12-19-mercedes-adds-a-new-car-light-color-blue-for-self-driving.md",
+      "title": "Mercedes adds a new car light color: Blue for self-driving",
+      "excerpt": "All other driving assistance systems, including Tesla’s so-called Full Self Driving and General Motor’s Super Cruise, require the driver to pay attention to what’s happening around the vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "originalUrl": "https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231218143215-01-mercedes-turquoise-lights.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html",
+      "publishedDateTime": "2023-12-19T14:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know.md",
+      "title": "The Artificial Intelligence (AI) hit list: Six menacing threats you need to know",
+      "excerpt": "By the end of this year already, the market for artificial intelligence (AI) in South Africa is projected to reach a size of $2.4 billion, showing an annual growth rate of 21% between now and 2030. Locally,",
+      "sourceUrl": null,
+      "webUrl": "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
+      "originalUrl": "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pctechmag.com/wp-content/uploads/2023/12/AI.jpg",
+          "width": 990,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
+      "cdnAmpWebUrl": "https://pctechmag-com.cdn.ampproject.org/c/s/pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
+      "publishedDateTime": "2023-12-19T14:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Tech Magazine",
+        "domain": "pctechmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-anomaly-detection-in-machine-learning-finding-outliers-for-optimization-of-business-functions.md",
+      "title": "Anomaly detection in machine learning: Finding outliers for optimization of business functions",
+      "excerpt": "Powered by AI, machine learning techniques are leveraged to detect anomalous behavior through three different detection methods.\nThe post Anomaly detection in machine learning: Finding outliers for optimization of business functions appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/anomaly-detection-machine-learning/",
+      "originalUrl": "https://www.ibm.com/blog/anomaly-detection-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-ai-and-the-economy-business-models-will-change-rapidly.md",
       "title": "AI And The Economy: Business Models Will Change Rapidly",
       "excerpt": "Artificial intelligence will impact most business activity in the economy. Some functions will be less impacted but even the lightly-affected companies will change.",
@@ -1039,160 +1177,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-imran-khan-pakistan-ex-pm-used-artificial-intelligence-to-campaign-from-jail.md",
-      "title": "Imran Khan: Pakistan ex-PM used artificial intelligence to campaign from jail",
-      "excerpt": "Former Pakistan Prime Minister Imran Khan's party has used an artificial intelligence voice clone of him to campaign from prison. Mr Khan had his three-year sentence for corruption suspended in August, but remains in jail. His Pakistan Tehreek-e Insaf (PTI) party used AI to make an audio clip to address an internet \"virtual rally\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-asia-67752610",
-      "originalUrl": "https://www.bbc.com/news/world-asia-67752610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/111B4/production/_132086007_b401abb6d6649c62754624359ab8f8192978b0ef0_287_5500_30951000x563.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-asia-67752610.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-67752610.amp",
-      "publishedDateTime": "2023-12-18T18:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-examples-and-uses-of-gis.md",
-      "title": "Examples and uses of GIS",
-      "excerpt": "Geographic information systems (GIS) visualize and make sense of geospatial data, helping us better understand the patterns and relationships of our world.\nThe post Examples and uses of GIS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/geographic-information-system-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/geographic-information-system-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/3e267523-e37a-4523-8c93c2c2e4f4ec17.blog-lead-space-2x1-1.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T18:27:39Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-exclusive-jaxon-ai-teams-up-with-ibm-watsonx-in-battle-against-ai-hallucination.md",
-      "title": "Exclusive: Jaxon AI teams up with IBM watsonx in battle against AI hallucination",
-      "excerpt": "Jaxon AI's Domain-Specific AI Language (DSAIL) technology is designed to prevent hallucinations and inaccuracies with IBM watsonx models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
-      "originalUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/igor-omilaev-FHgWFzDDAOs-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T18:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

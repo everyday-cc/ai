@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-13-helping-vets-finding-tax-cheats-and-illegal-rhino-horns-how-ai-could-transform-government.md",
+      "title": "Helping vets. Finding tax cheats and illegal rhino horns. How AI could transform government",
+      "excerpt": "WASHINGTON − What if artificial intelligence could prepare the nation for disastrous weather events, root out fraud and tax cheats, speed up benefit determinations, enforce workplace safety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
+      "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
+      "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
+      "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/12/Screenshot-2023-12-12-at-9.45.06-PM.jpg?quality=82&strip=all&w=639",
+          "width": 639,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer.md",
       "title": "Virginia sheriff says Tesla Autopilot was running before driving under tractor-trailer",
       "excerpt": "Virginia authorities have determined that a Tesla was operating on its Autopilot system and was speeding in the moments leading to a crash with a crossing tractor-trailer last July that killed the Tesla driver.",
@@ -1225,83 +1312,6 @@
       "provider": {
         "name": "autoevolution",
         "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-2-artificial-intelligence-ai-stocks-with-explosive-potential.md",
-      "title": "2 Artificial Intelligence (AI) Stocks With Explosive Potential",
-      "excerpt": "It's no secret artificial intelligence (AI) has been the dominant theme in the stock market this year. Technology giants have bet mind-boggling amounts of money on this emerging industry so far ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-with-explosive-potential-0",
-      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-with-explosive-potential-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T10:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-china-issues-safety-guidelines-for-autonomous-public-transport-vehicles.md",
-      "title": "China issues safety guidelines for autonomous public transport vehicles",
-      "excerpt": "The guidelines apply to autonomous vehicles for passengers including taxis as well as for freight transportation, the ministry of transport said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/articleshow/105742844.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/articleshow/105742844.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-195222,msid-105743410/baidus-apollo-car-with-an-autonomous-driving-system.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/amp_articleshow/105742844.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/amp_articleshow/105742844.cms",
-      "publishedDateTime": "2023-12-05T04:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

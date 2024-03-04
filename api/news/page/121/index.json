@@ -2,6 +2,160 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2023-11-21-mid-range-phones-will-get-generative-ai-thanks-to-this-new-chipset.md",
+      "title": "Mid-range phones will get generative AI thanks to this new chipset",
+      "excerpt": "MediaTek has announced the Dimensity 8300 smartphone chipset. This is the first mid-range smartphone chip touting on-device generative AI support. Qualcomm and MediaTek have both announced flagship smartphone processors with support for generative AI features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/",
+      "originalUrl": "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/03/MediaTek-Dimensity-logo.jpg",
+          "width": 1694,
+          "height": 953,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T07:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-how-ai-became-a-cloud-workload.md",
+      "title": "How AI Became A Cloud ‘Workload’",
+      "excerpt": "AI puts on the cloud should make us think about AI as a cloud workload more directly and consider how we run it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655c0ccfa3cff1f243d07864/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/amp/",
+      "publishedDateTime": "2023-11-21T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-west-berkshire-council-uses-ai-to-predict-where-potholes-will-appear.md",
+      "title": "West Berkshire Council uses AI to predict where potholes will appear",
+      "excerpt": "Artificial Intelligence (AI) is being used to predict where potholes will appear on a county's roads. The pilot, run by West Berkshire Council, will use the technology to digitally capture images of road conditions to help anticipate where holes or cracks could form in tarmac.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365",
+      "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/165B7/production/_131757519_9faf0b8c-02ef-4634-81b8-0d2d847439d0.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-67457365.amp",
+      "publishedDateTime": "2023-11-21T05:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-the-art-of-selling-persuading-and-influencing-in-an-ai-world.md",
       "title": "The Art Of Selling, Persuading, And Influencing In An AI World",
       "excerpt": "As we witness a transformative era in trade and collaboration, it is essential for leaders to adapt and thrive in the evolving landscape of sales.",
@@ -1020,143 +1174,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-is-meta-llama-truly-open-source.md",
-      "title": "Is Meta Llama Truly Open Source?",
-      "excerpt": "Explore the authenticity of Meta LLaMA as an open-source LLM, dissecting the criteria and larger implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
-      "originalUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/11/Is-Metas-Llama-Truly-Open-Source-952x600.jpg",
-          "width": 952,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T12:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-how-to-build-a-successful-talent-management-strategy.md",
-      "title": "How to build a successful talent management strategy",
-      "excerpt": "Explore how to build a talent management strategy that identifies top talent and cultivates their ability to produce business value.\nThe post How to build a successful talent management strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/talent-management-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/talent-management-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/9e21203c-fbbb-4c94-8a10c7986e951bc5.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-live-fire-cooking-arrives-in-aventura-with-amalfi-llama.md",
-      "title": "Live-Fire Cooking Arrives in Aventura With Amalfi Llama",
-      "excerpt": "He's referring to his latest venture: the Amalfi Llama, a wood-fire-inspired coastal Italian restaurant set to open next month in Aventura. Since opening his first restaurant in Mexico City in 2007, Gomez and his groups have nearly 60 restaurants to their name across both the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.browardpalmbeach.com/restaurants/the-amalfi-llama-is-coming-to-aventura-16407684",
-      "originalUrl": "https://www.browardpalmbeach.com/restaurants/the-amalfi-llama-is-coming-to-aventura-16407684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.browardpalmbeach.com/images/air/newsletter-insiders-bpb.png",
-          "width": 438,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Times Broward-Palm Beach",
-        "domain": "browardpalmbeach.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

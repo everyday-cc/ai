@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-24-is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do.md",
+      "title": "Is AI Trustworthy? Experts Consider What Tech Should Be Allowed to Do",
+      "excerpt": "Is artificial intelligence coming for your job? Is it planning something much, much worse? While debates over AI regulation play out, many boosters are pushing the tech further and further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "originalUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-924529/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
+      "publishedDateTime": "2024-02-23T21:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-google-issues-ai-upgrade-warning-for-millions-of-chrome-users.md",
+      "title": "Google Issues AI Upgrade Warning For Millions Of Chrome Users",
+      "excerpt": "Google continues to change its ecosystem apace, as its evolving Gemini (née Bard) AI platform burrows its way into app after app, across desktops and mobiles. In doing so, a whole new set of risks are hitting millions of users in short order. Awareness is very low—and so Google has just responded with its latest serious warning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e66cbd8e1e6170007593a74/0x0.jpg?format=jpg&crop=2472,1545,x868,y776,safe&height=900&width=1600&fit=bounds",
+          "width": 1440,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/23/google-free-ai-upgrade-windows-11-android-apple-iphones-macs/amp/",
+      "publishedDateTime": "2024-02-23T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-nvidia-stock-gained-15-trillion-to-surpass-the-faangs-apple-is-next.md",
       "title": "Nvidia Stock Gained $1.5 Trillion To Surpass The FAANGs - Apple Is Next",
       "excerpt": "We look at why Nvidia has been able to surpass every FAANG except Apple, and why it’s inevitable that it becomes the world's most valuable company in the next 2.5 years.",
@@ -1093,112 +1197,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics.md",
-      "title": "Revolutionizing Business Decision-Making: The Impact Of Generative AI On Predictive Analytics",
-      "excerpt": "When approached strategically, generative AI can help empower employees across functions and domains to leverage the insights provided by predictive analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61a4de65ba77a906d470c192/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/",
-      "publishedDateTime": "2024-02-23T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024.md",
-      "title": "AI chip race: Groq CEO takes on Nvidia, claims most startups will use speedy LPUs by end of 2024",
-      "excerpt": "But don’t sleep on Groq, the Silicon Valley-based company creating new AI chips for large language model (LLM) inference (making decisions or predictions on existing models, as opposed to training). Last weekend, Groq suddenly enjoyed a viral moment most ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
-      "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-23-12.49.17-A-dynamic-and-dramatic-representation-of-AI-chips-racing-at-lightning-fast-speed-leaving-competitors-in-the-dust.-The-scene-is-set-on-a-futuristic-ra.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T10:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI",
-        "Natural Language Processing"
       ]
     }
   ],

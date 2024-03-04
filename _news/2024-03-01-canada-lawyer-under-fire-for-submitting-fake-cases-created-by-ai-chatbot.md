@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "Air Canada’s Chatbot: Why RAG Is Better Than An LLM For Facts"
-    excerpt: "a company should strongly question whether there is any conceivable benefit to having a chatbot feature on their public-facing website rather than a highly capable search functionality which could still use natural language processing to provide more ..."
-    publishedDateTime: 2024-02-28T07:29:00Z
-    webUrl: "https://hackaday.com/2024/02/28/air-canadas-chatbot-why-rag-is-better-than-an-llm-for-facts/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
 
 secured: "qeD4GFyvKbDycbv8AeYGcCEeW71QPB9HjEJoooLx5wJbSFwrRDEtFKqK9Qp4XS/XrTAgqMUmHjZfViwXb7o/7A3tgKvkokxrVCLZ/8NGgm4A6D89Q22Vl0/Ajp24E1vMMzUII13Fjh2GI6EJ4yANSNrSvMDLoRuzGVzNupM7FDJwCDBIepAQtOcO/Ec2h/fOWn//HASFKX5a/CWAYxjA5kNO3wG9aKglMJiY1vQbtWg4GVHtCCcVdhPGCjFTNvVSXQyWYBW72wrSBewKBK5yD5WLxxC2nNzC0guAb5HOgYUVtPOB0TpKBcEbrGLmf4GPkp46QDJ0PmXq1GcV7OkOrfJ1Zs3Q1o+WH2SmSspDWG/48pK9JyPAVJ/Rgz/1V3nIjSpQKnTj3gXYQv/LjuUa7gKdwFs4MP/Kyz0ocCFrmT6PgAzYrhWbcAC6o+PyKEzGSYYXpYq1CuZgTXFjHTZ5F49aVEs7gpxYwPGE+OL6yCpRoQfxnzm6/AKNpMAdcw/EiRWs60KqmAXJD+smypOXww==;CmIj+Exl0Edu/xPX3SrvjA=="
 ---

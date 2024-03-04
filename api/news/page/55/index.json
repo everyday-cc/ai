@@ -2,6 +2,126 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2024-01-23-mit-study-shows-ai-is-still-too-costly-to-replace-most-human-workers.md",
+      "title": "MIT study shows AI is still too costly to replace most human workers",
+      "excerpt": "According to the researchers, even if the cost of AI systems falls by 20% per year, it would still take decades for computer vision tasks to become more economically advantageous for most companies.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/22/mit-study-shows-ai-still-costly-replace-human-workers/",
+      "originalUrl": "https://siliconangle.com/2024/01/22/mit-study-shows-ai-still-costly-replace-human-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/robot-waiting-modern-office-job-interview-generative-ai_587448-2138.jpg",
+          "width": 900,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-report-alphabets-x-lab-letting-go-dozens-of-employees-as-part-of-restructuring.md",
+      "title": "Report: Alphabet’s X lab letting go dozens of employees as part of restructuring",
+      "excerpt": "Alphabet Inc.’s X research lab, which incubated Waymo and the Wing delivery drone venture, is reportedly letting go of dozens of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
+      "originalUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-lawyers-use-of-ai-spurs-ethics-rule-changes.md",
+      "title": "Lawyers' use of AI spurs ethics rule changes",
+      "excerpt": "The Florida Bar on Friday provided lawyers with some clarity on how they can use artificial intelligence without running afoul of ethics rules, following a similar move by the California Bar in November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T20:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs.md",
       "title": "Franz Unveils AllegroGraph Cloud – A Managed Service for Neuro-Symbolic AI Knowledge Graphs",
       "excerpt": "There is an interesting contradiction in AI between rule-based systems and machine learning. While rule-based systems offer better interpretation and",
@@ -1016,164 +1136,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-addressing-two-common-fintech-issues-with-ai-exploring-solutions.md",
-      "title": "Addressing Two Common Fintech Issues With AI: Exploring Solutions",
-      "excerpt": "The ability of AI algorithms to identify potential risks by analyzing historical financial data, transactional behavior and customer profiles is the reason that a significant number of fintech companies have already implemented the technology for fraud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6446b86f7e2e09f059a821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1502,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/",
-      "publishedDateTime": "2024-01-22T10:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.md",
-      "title": "Azure AI Studio: A nearly complete toolbox for AI development",
-      "excerpt": "Azure AI Studio has competition from the usual suspects ... Hyperparameter tuning is as much a thing for LLM prompts as it is for training machine learning models. The usual important hyperparameters for LLM prompts are temperature, context window ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
-      "originalUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/05/shutterstock_175644863-100940898-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
-      "publishedDateTime": "2024-01-22T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-despite-all-the-ai-hype-success-depends-on-just-one-thing.md",
-      "title": "Despite all the AI hype, success depends on just one thing",
-      "excerpt": "It's easy to be seduced by the power of artificial intelligence, but this data expert sees a single ingredient as the key to making the most of this emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
-      "originalUrl": "https://www.zdnet.com/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fd4c41aa99d512dee49242778c5e4136ef5a8a39/2024/01/22/4dfa338d-cf46-4b89-ae1e-1a2a8ab297b9/pedoverpassgettyimages-1757970102.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
-      "publishedDateTime": "2024-01-22T09:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

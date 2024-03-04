@@ -2,6 +2,143 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2024-02-14-the-most-valuable-ai-use-cases-for-business.md",
+      "title": "The most valuable AI use cases for business",
+      "excerpt": "We’re all amazed by what AI can do. But the question for those of us in business is what are the best business uses?\nThe post The most valuable AI use cases for business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars.md",
+      "title": "San Francisco Waymo arson sparks fresh debate on self-driving cars",
+      "excerpt": "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year. But an autonomous Waymo robotaxi did not,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50875940/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
+      "originalUrl": "https://www.ksl.com/article/50875940/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.ksl.com/slc/2970/297026/29702659.JPG?filter=kslv2/responsive_story_lg",
+          "width": 1228,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T12:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-how-a-french-health-insurance-unicorn-plans-to-leverage-ai-to-reach-profitability.md",
+      "title": "How a French health insurance unicorn plans to leverage AI to reach profitability",
+      "excerpt": "Alan’s meteoric rise in the French tech ecosystem has been both figurative and literal. A few years ago, the startup’s office was limited to one floor in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/83ef56a7-9318-4a1f-9f0f-cbde328cef0e_MOORE-Alan-BD_D3A8123copie.jpg?resize=1200,811",
+          "width": 1200,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
+      "publishedDateTime": "2024-02-14T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine.md",
       "title": "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine",
       "excerpt": "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans.",
@@ -1011,126 +1148,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-what-are-the-key-trends-and-advancements-in-geographic-information-systems-gis.md",
-      "title": "What are the Key Trends and Advancements in Geographic Information Systems (GIS?)",
-      "excerpt": "Innovations like machine learning algorithms and drone-based data processing are creating more opportunities for GIS applications in businesses and",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/what-are-the-key-trends-and-advancements-in-geographic-information-systems-gis-nid-11081.html",
-      "originalUrl": "https://www.cioapplications.com/news/what-are-the-key-trends-and-advancements-in-geographic-information-systems-gis-nid-11081.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-roundtable-healthcare-organizations-put-generative-ai-under-the-microscope.md",
-      "title": "Roundtable: Healthcare Organizations Put Generative AI Under the Microscope",
-      "excerpt": "The good, the bad and the unpredictable? Four industry experts discuss the role of generative artificial intelligence in healthcare and its potential.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "originalUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/HTQ124_Feature_Gimbel_Hero.jpg?itok=aixW-18e",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "publishedDateTime": "2024-02-13T23:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-eu-finds-imessage-three-microsoft-products-dont-qualify-as-core-platform-services.md",
-      "title": "EU finds iMessage, three Microsoft products don’t qualify as core platform services",
-      "excerpt": "Certain provisions of the DMA only apply to products that are designated as “core platform services” by regulators. The decision the EU published today specifies iMessage and three Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
-      "originalUrl": "https://siliconangle.com/2024/02/13/eu-finds-imessage-three-microsoft-products-dont-qualify-core-platform-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/photo-3.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T22:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

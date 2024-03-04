@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
+      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
+      "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
       "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
       "excerpt": "and TAIPEI, Jan. 5, 2024 /PRNewswire/ -- Known as a leader in 3D sensing and computer vision semiconductors under Etron Technology, eYs3D Microelectronics Corp. is announcing ahead of CES 2024 ...",
@@ -1316,49 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-skyline-robotics-closes-98m-round-to-bring-automated-window-washing-worldwide.md",
-      "title": "Skyline Robotics closes $9.8M round to bring automated window washing worldwide",
-      "excerpt": "Skyline Robotics, which won a 2023 RBR50 Robotics Innovation Award, has raised more funding for its Ozmo window-cleaning robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/skyline-robotics-closes-9-8m-round-to-bring-automated-window-washing-worldwide/",
-      "originalUrl": "https://www.therobotreport.com/skyline-robotics-closes-9-8m-round-to-bring-automated-window-washing-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/large-skyline-robotics-close-up.jpg",
-          "width": 770,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

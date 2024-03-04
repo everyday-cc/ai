@@ -2,6 +2,151 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-12-15-customer-service-trends-winning-organizations-need-to-follow.md",
+      "title": "Customer service trends winning organizations need to follow",
+      "excerpt": "Prioritizing these seven customer service trends can help ensure an organization is prepared to meet changing customer expectations.\nThe post Customer service trends winning organizations need to follow appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-service-trends/",
+      "originalUrl": "https://www.ibm.com/blog/customer-service-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T20:55:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line.md",
+      "title": "News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line",
+      "excerpt": "A new class action lawsuit filed this week in the U.S. District Court in D.C. accuses Google and parent company Alphabet of anticompetitive behavior in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/",
+      "originalUrl": "https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1533302708.jpg?w=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/amp/",
+      "publishedDateTime": "2023-12-15T20:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-grok-gets-some-competition-chatgpt-gets-depressed-and-more-of-the-top-ai-news-stories-this-week.md",
+      "title": "Grok Gets Some Competition, ChatGPT Gets Depressed, and More of the Top AI News Stories This Week",
+      "excerpt": "What happened with AI this week? Well, the passage of the European Union’s AI Act—a landmark piece of regulation that seeks tackle the potential harms of the AI industry—is a pretty big deal. It could totally reshape how European nations’ relationship to the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969",
+      "originalUrl": "https://gizmodo.com/grok-gets-some-competition-chatgpt-gets-depressed-and-1851102969",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6e9ec759dc24bf07ae714235d2e5f58b.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T19:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-16-microsoft-rolls-out-improved-voice-access-on-windows-11-following-removal-of-windows-speech-recognition.md",
       "title": "Microsoft Rolls Out 'Improved' Voice Access on Windows 11 Following Removal of Windows Speech Recognition",
       "excerpt": "With AI integration, Microsoft has the upper hand to improve Copilot and other AI-related features on Windows 11. This would also position Voice Access as a central component in the evolving Windows 11 interface, making it more useful to regular users and those with mobility disabilities.",
@@ -1063,134 +1208,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-driven-by-ai-micron-sees-robust-chip-demand.md",
-      "title": "Driven by AI, Micron sees robust chip demand",
-      "excerpt": "US-based chipmaker Micron Technology is expecting demand for semiconductors to rise significantly in the next few years, globally and in India, as memory consumption is going up, largely driven by the widespread adoption of technologies like artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "originalUrl": "https://www.rediff.com/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/345-230/money/2023/dec/14nirmala-sitharaman.jpg",
-          "width": 345,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/driven-by-ai-micron-sees-robust-chip-demand/20231215.htm",
-      "publishedDateTime": "2023-12-15T10:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-recent-cases-raise-questions-about-the-ethics-of-using-ai-in-the-legal-system.md",
-      "title": "Recent cases raise questions about the ethics of using AI in the legal system",
-      "excerpt": "NPR's Steve Inskeep asks the director of the Private Law Clinic at Yale University, Andrew Miller, about the ethics of using artificial intelligence in the legal system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmfe.org/2023-12-15/recent-cases-raise-questions-about-the-ethics-of-using-ai-in-the-legal-system",
-      "originalUrl": "https://www.wmfe.org/2023-12-15/recent-cases-raise-questions-about-the-ethics-of-using-ai-in-the-legal-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T10:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMFE",
-        "domain": "wmfe.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-build-or-buy-cloud-based-generative-ai.md",
-      "title": "Build or buy cloud-based generative AI?",
-      "excerpt": "The mantra for computing is to use other people’s technology, so it's surprising that generative AI doesn’t seem to follow that pattern for many enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/03/nw_how-to-shop-for-network2_shopping-cart-100790343-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711705/build-or-buy-cloud-based-generative-ai.amp.html",
-      "publishedDateTime": "2023-12-15T10:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

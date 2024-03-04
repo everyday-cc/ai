@@ -2,6 +2,127 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-11-29-fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics.md",
+      "title": "Fintech leading in AI adoption, need new AI legislation: Moody’s Analytics",
+      "excerpt": "As per the study, 18 per cent of fintech respondents are currently actively using AI, double than the 9 per cent respondents across all surveyed sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
+      "publishedDateTime": "2023-11-29T14:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-aerodyne-taps-aws-to-power-drone-platform.md",
+      "title": "Aerodyne taps AWS to power drone platform",
+      "excerpt": "“These are drones that have AI [artificial intelligence] at the edge that can ... to be escalated,” Muhamed said on the sidelines of AWS re:Invent 2023 in Las Vegas this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/366561319/Aerodyne-taps-AWS-to-power-drone-platform",
+      "originalUrl": "https://www.computerweekly.com/news/366561319/Aerodyne-taps-AWS-to-power-drone-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-121223-cover-500px.jpg",
+          "width": 500,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-helios-enhances-its-suite-of-customized-investment-models-with-machine-learning.md",
+      "title": "Helios Enhances its Suite of Customized Investment Models with Machine Learning",
+      "excerpt": "New feature aggregates and analyzes data in real-time to bolster the firm's quantitative investment methodologies while optimizing client outcomes Helios, pioneer of the Insourced Chief Investment Off",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36001022",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36001022",
+      "publishedDateTime": "2023-11-29T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-vision-transformers-market-worth-12-billion-by-2028-growing-at-a-cagr-of-342-report-by-marketsandmarkets.md",
       "title": "Vision Transformers Market Worth $1.2 billion by 2028, Growing At a CAGR of 34.2% Report by MarketsandMarkets™",
       "excerpt": "The global Vision Transformers Market size is projected to grow from USD 0.2 billion in 2023 to USD 1.2 billion by 2028 at a growth rate of 34.2% during the forecast period,",
@@ -1032,128 +1153,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-amazon-joins-the-artificial-intelligence-race-launches-q-ai-assistant.md",
-      "title": "Amazon Joins the Artificial Intelligence Race, Launches Q AI Assistant",
-      "excerpt": "Designed to streamline work, this AI chatbot offers tailored business solutions, automated coding assistance, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
-      "originalUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T06:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//beincrypto.com",
-        "domain": "beincrypto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ai-robots-to-aid-english-education-in-seoul-schools.md",
-      "title": "AI robots to aid English education in Seoul schools",
-      "excerpt": "Robots powered by artificial intelligence will aid English education in five elementary and middle schools in Seoul starting in March 2024, the Seoul Metropolitan Office of Education said Wednesday. The English tutoring robots will aid students in brushing up their English language knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20231129000649",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231129000649",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F29%2F20231129000642_0.jpg",
-          "width": 630,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231129000649",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231129000649",
-      "publishedDateTime": "2023-11-29T06:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-the-best-online-courses-for-ai-chatgpt-midjourney-and-more.md",
-      "title": "The best online courses for AI, ChatGPT, Midjourney, and more",
-      "excerpt": "TL;DR: Find the best online courses on AI, ChatGPT, Midjourney, and more on Udemy. Are you absolutely terrified of the seemingly inevitable rise of AI? You're not alone. This technology is causing a lot of controversy and genuine concern, but what's clear is that it isn't going anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/best-ai-courses",
-      "originalUrl": "https://mashable.com/article/best-ai-courses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02nIhjWsO4c7nWMwnLfrXdE/hero-image.fill.size_1200x675.v1701190561.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T05:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

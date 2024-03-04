@@ -2,6 +2,100 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-20-availity-issues-statement-of-principles-on-artificial-intelligence-in-healthcare.md",
+      "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
+      "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-china-based-startup-moonshot-ai-secures-a-whopping-us-1-billion-in-funding.md",
+      "title": "China-based Startup Moonshot AI Secures a Whopping US$ 1 Billion in Funding",
+      "excerpt": "This financial milestone for Moonshot AI is part of a larger trend in China, where there's a noticeable rush to support AI startups",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/20/china-moonshot-ai-funding-1-billion/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/20/china-moonshot-ai-funding-1-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-the-pentagons-silicon-valley-problem.md",
       "title": "The Pentagon’s Silicon Valley Problem",
       "excerpt": "Artificial intelligence may indeed affect the way our military operates ... After years of expensive effort, the “ATR [automatic target recognition] just doesn’t work. Even driverless cars,” he emphasized “are relatively easy problems to solve ...",
@@ -518,10 +612,10 @@
     {
       "path": "_news/2024-02-20-ai-comes-to-the-world-of-beauty-as-eyelash-robot-uses-artificial-intelligence-to-place-fake-lashes.md",
       "title": "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes",
-      "excerpt": "Artificial intelligence is making its way into esthetics ... told Fox News Digital in an interview that the company is using robotics and AI to \"completely transform the experience of eyelash ...",
+      "excerpt": "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ...",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
-      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -563,8 +657,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1084,110 +1179,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david.md",
-      "title": "Ultrathin, energy-efficient facial recognition can identify Michelangelo’s David",
-      "excerpt": "Packing in all those optical components like lasers makes commercial dot projectors rather bulky, so it can be harder to integrate for some applications such as robotics and augmented reality, as well as the next generation of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T22:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-qloo-leading-ai-advances-culture-and-taste-intelligence.md",
-      "title": "Qloo Leading AI Advances Culture And Taste Intelligence",
-      "excerpt": "3. Rigorous Legal Compliance: Qloo engages external legal counsel to review all its data practices, ensuring they align with the highest standards of intellectual property laws and data privacy regulations. This guarantees that all of their AI development processes are legally sound and ethically responsible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3d38b3a691de5c282c09f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
-      "publishedDateTime": "2024-02-19T21:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

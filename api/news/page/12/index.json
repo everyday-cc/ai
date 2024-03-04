@@ -2,6 +2,111 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-22-light-therapy-helps-ease-pain-for-cancer-patients.md",
+      "title": "Light therapy helps ease pain for cancer patients",
+      "excerpt": "Neck and head cancer patients will be able to seek a new treatment to ease the pain of radiotherapy and chemotherapy Cancer patients at a hospital trust have started using light therapy to help them with side effects caused by chemotherapy and radiotherapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "originalUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/246f/live/9faa1f10-d0f7-11ee-8a50-0f587568c5bc.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cg3ee8xl96eo.amp",
+      "publishedDateTime": "2024-02-22T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand.md",
+      "title": "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand",
+      "excerpt": "Chief Executive Jensen Huang described AI as hitting the tipping point and indicated demand ... Earlier on Thursday, SoftBank Group, the parent of British chip designer Arm Holdings, advanced more than 5%, while chip-making equipment maker Tokyo Electron ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
+      "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 454,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
+      "publishedDateTime": "2024-02-22T09:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview.md",
       "title": "Get ready for the age of sovereign AI | Jensen Huang interview",
       "excerpt": "The AI Impact Tour – NYC We’ll be in New York on February 29 ... they would not be software-hackable and that took some time. Now the company is sampling chips to China again, within the restrictions of the government. I asked if the China market ...",
@@ -1098,110 +1203,6 @@
         "Natural Language Processing",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems.md",
-      "title": "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems",
-      "excerpt": "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "originalUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-66491774/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "publishedDateTime": "2024-02-21T18:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process.md",
-      "title": "Microsoft will use Intel Foundry to make its own chip using the Intel 18A process",
-      "excerpt": "Today, Intel announced its renamed chip-making business as Intel Foundry. Formerly known as Intel Foundry Services, the company claims the revamped business is the \"world’s first systems foundry for the AI era.\" However, this announcement was somewhat ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708537672_intel-foundry-ifdc-1.jpg.rendition.intel.web.1920.1080_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "publishedDateTime": "2024-02-21T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

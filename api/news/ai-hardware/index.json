@@ -262,6 +262,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-elon-musk-ai-will-run-out-of-electricity-and-transformers-in-2025.md",
+      "title": "Elon Musk: AI will run out of electricity and transformers in 2025",
+      "excerpt": "\"I've never seen any technology advance faster than this.\" The chip shortage may be behind us, but AI and EVs are expanding at such a rapacious rate that the world will face supply crunches in electricity and transformers next year, says Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/elon-musk-ai",
+      "originalUrl": "https://newatlas.com/technology/elon-musk-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/27ca86b/2147483647/strip/true/crop/1136x757+121+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F5e%2F2a832fc94918a562a5ccdef4b0a3%2F6.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-tech-advances-as-ai-craze-resumes-tech-roundup.md",
       "title": "Tech Advances as AI Craze Resumes -- Tech Roundup",
       "excerpt": "Nvidia shares rallied, testing all-time highs, as investors continued to pile into the high-performance chip maker on AI growth hopes. Other major AI players, including Amazon.com and Microsoft rose, too. The Securities and Exchange Commission is ...",
@@ -451,49 +503,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-intel-wants-its-chips-inside-100-million-ai-pcs-by-2025.md",
-      "title": "Intel wants its chips inside 100 million 'AI PCs' by 2025",
-      "excerpt": "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
-      "originalUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

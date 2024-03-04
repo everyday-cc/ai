@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 90
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "The Focus Is On AI for Snowflake's Earnings"
-    excerpt: "Snowflake stock has been on a tear, driven by hopes the cloud-based data warehouse software company will benefit from the generative artificial intelligence trend, and that the pace of corporate spending on cloud computing will pick up."
-    publishedDateTime: 2024-02-28T08:15:00Z
-    webUrl: "https://www.barrons.com/livecoverage/salesforce-snowflake-c3ai-earnings-stock-price/card/the-focus-is-on-ai-for-snowflake-s-earnings-PRH6rwce3DYAjczEotum"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-    images:
-      - url: "https://images.barrons.com/im-51741212?width=780&height=520"
-        width: 780
-        height: 520
-        isCached: true
 
 secured: "vHLgf5jDOinEIN7JMkxqnhakIZsy7lYKHAwXSSVIon69NLc1pFxB+S1wYQHH3SkonAfQQQgbrkAGyAjMHzMOpku/xsfNFviGITfc9Rdki2ttNXGUy7vUFB/YJhloVwXsCrhaXcED8tks7cJnPV+9XrVxfdUr+CuGx5qzhfnvgQoFly6T11Ik7hFnXWuf8fH+k92qwnjOHs3dCiBbWKpCKALtrjdRAEVRFI++2HOYSOrIk9q7QICAOd4l6LPzK6S7VECIXdvMeYQq44KBC6gYGSzJ/NHBigPaIJnfEcCiXGhYVUX8vcQejaYpDjHiHhvsBo+c81kmTvKebMmzJeuHMToYB/uERpzJrmEkKGHdNkkRb3h4Ymqd9MQA4dUhYTR62jDYzvctFPqhjRSMaD3pzGQX66zVcvVCMqUaRTrnncou2+rU/eDqgKyCeMdHtdNIu0sVjewOpgqKk+etdTy/4b/Ob39vw8pzkO1occlxz4Ny5EhDldZGhVAT7SnBgE09CMOBL9koXNHRJ7twlKbTRQ==;2KVPiOQuDMi62bgqQxMMJA=="
 ---

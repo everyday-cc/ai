@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
+      "title": "Robot inventor: 'We had to adapt to the AI revolution'",
+      "excerpt": "Produced, filmed and edited by Dougal Shaw Sandy Enoch of Robotical explains why he had to pivot his educational robot company due to AI. Hovhannes ... shares advice for start-ups for our CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/business-68348353",
+      "originalUrl": "https://www.bbc.com/news/av/business-68348353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T03:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-uber-eats-to-begin-self-driving-robot-deliveries-in-japan.md",
       "title": "Uber Eats to begin self-driving robot deliveries in Japan",
       "excerpt": "Uber announced that its Uber Eats business is partnering with Mitsubishi Electric and delivery robotics company Cartken to begin transporting food using self-driving robots in Japan. The sidewalk ...",
@@ -257,10 +309,10 @@
     {
       "path": "_news/2024-02-20-ai-comes-to-the-world-of-beauty-as-eyelash-robot-uses-artificial-intelligence-to-place-fake-lashes.md",
       "title": "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes",
-      "excerpt": "Artificial intelligence is making its way into esthetics ... told Fox News Digital in an interview that the company is using robotics and AI to \"completely transform the experience of eyelash ...",
+      "excerpt": "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ...",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
-      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -302,8 +354,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1352,40 +1405,6 @@
       "provider": {
         "name": "Entertainment Tonight",
         "domain": "etonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai.md",
-      "title": "Would you be happy to be operated on by a surgical robot controlled by AI?",
-      "excerpt": "Would you be happy to be operated on by a surgical robot, being controlled solely by artificial intelligence (AI)? Or, how would you feel being stitched up by a robot, which is remotely operated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
-      "originalUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
         "images": null,
         "publishers": null,
         "authors": null

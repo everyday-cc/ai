@@ -2,6 +2,135 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2024-01-05-google-bard-advanced-found-in-the-wild.md",
+      "title": "Google 'Bard Advanced' Found In The Wild",
+      "excerpt": "Google seems to be testing a \"Bard Advanced\" upgraded version made available through a paid subscription to cloud storage platform Google One. The discovery was made by a couple of developers and shared on X.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/392422/google-bard-advanced-found-in-the-wild.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/392422/google-bard-advanced-found-in-the-wild.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/07/image_NgKCmyV.png",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-column-excited-about-ai-and-self-driving-cars-a-top-roboticist-is-here-to-burst-your-bubble.md",
+      "title": "Column: Excited about AI and self-driving cars? A top roboticist is here to burst your bubble",
+      "excerpt": "\"the hubris about the coming of self driving cars was at a similar level to the hubris in 2023 about ChatGPT being a step towards AGI (Artificial General Intelligence) being just around the corner.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
+      "originalUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/95783ca652072cb3089c663f1aa51e38",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves.md",
+      "title": "NKU professors, students are building a robotic hand controlled by brain waves",
+      "excerpt": "Inside a lab at Northern Kentucky University, students and professors from are working on a project to help arm amputees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
+      "originalUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d231ca4/2147483647/strip/true/crop/632x332+0+22/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F53%2F84%2Fc6a0c9944857afec23ff9b29c007%2Fscreen-shot-2024-01-01-at-10-13-55-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization.md",
       "title": "Virtusa Announces Strategic Collaboration with AWS to Accelerate Cloud Data Migration and IT Modernization",
       "excerpt": "Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT)",
@@ -945,134 +1074,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-31-why-artificial-intelligence-ai-could-be-a-game-changer-for-this-magnificent-seven-stock.md",
-      "title": "Why Artificial Intelligence (AI) Could Be a Game Changer for This \"Magnificent Seven\" Stock",
-      "excerpt": "Also, the advent of PCs capable of running AI apps is likely to encourage existing users to upgrade. Meanwhile, a recent research paper ... and spokeswoman for Facebook and sister to Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/31/why-artificial-intelligence-could-be-game-changer/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/31/why-artificial-intelligence-could-be-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-31T07:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-31-news-tagged-with-deep-learning-algorithms.md",
-      "title": "News tagged with deep learning algorithms",
-      "excerpt": "Northwestern Medicine scientists have developed a deep learning algorithm capable of identifying the location where a genetic process called polyadenylation occurs on the genome, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning+algorithms/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning+algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-31T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-30-exploring-ai-images-using-the-same-prompt-with-different-models.md",
-      "title": "Exploring AI Images: Using The Same Prompt With Different Models",
-      "excerpt": "An examination of AI image creation and how different models interpret the same prompt. Exploring Firefly, Dall-E, Imagen and Midjourney.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/",
-      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658f5aca708f2075354265e0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1325,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/amp/",
-      "publishedDateTime": "2023-12-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

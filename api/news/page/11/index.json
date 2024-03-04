@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-02-23-openais-sora-has-left-ai-experts-either-enthused-or-skeptical-its-left-most-everyone-else-terrified.md",
+      "title": "OpenAI’s Sora has left AI experts either enthused or skeptical. It’s left most everyone else terrified",
+      "excerpt": "including access to the highly coveted Nvidia H100s and over 15 different Nvidia GPU SKUs all together, allowing customers to deploy AI without massive infrastructure investments. Yesterday, it announced a new AI chatbot it says will make this process even ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
+      "originalUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-2013766961-e1708621527967.jpg?w=840",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
+      "publishedDateTime": "2024-02-22T17:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini.md",
+      "title": "Chrome gets a built-in AI writing tool powered by Gemini",
+      "excerpt": "Google Chrome is getting a new AI writing generator today. At its core, this Gemin-powered tool is essentially the existing \"Help me write\" feature from",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-981522310.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
+      "publishedDateTime": "2024-02-22T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc.md",
       "title": "Explore cutting-edge AI solutions with Microsoft at NVIDIA GTC",
       "excerpt": "Join Microsoft at the NVIDIA GTC AI Conference March 18–21 at booth #1108 in San Jose, CA (or virtually) to discover how these cutting-edge Azure AI services and supercomputing infrastructure in the cloud can help power your AI transformation. \nThe post Explore cutting-edge AI solutions with Microsoft",
@@ -1164,111 +1268,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-light-therapy-helps-ease-pain-for-cancer-patients.md",
-      "title": "Light therapy helps ease pain for cancer patients",
-      "excerpt": "Neck and head cancer patients will be able to seek a new treatment to ease the pain of radiotherapy and chemotherapy Cancer patients at a hospital trust have started using light therapy to help them with side effects caused by chemotherapy and radiotherapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
-      "originalUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo?at_format=link&at_campaign_type=owned&at_link_id=43992F9A-D147-11EE-8422-ED8E4B3AC5C4&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=bbchealth&at_link_type=web_link",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/246f/live/9faa1f10-d0f7-11ee-8a50-0f587568c5bc.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/articles/cg3ee8xl96eo.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cg3ee8xl96eo.amp",
-      "publishedDateTime": "2024-02-22T09:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand.md",
-      "title": "European Chip Stocks Surge After Nvidia Sales Reach New Heights on Booming AI Demand",
-      "excerpt": "Chief Executive Jensen Huang described AI as hitting the tipping point and indicated demand ... Earlier on Thursday, SoftBank Group, the parent of British chip designer Arm Holdings, advanced more than 5%, while chip-making equipment maker Tokyo Electron ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
-      "originalUrl": "https://www.marketwatch.com/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 454,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/european-chip-stocks-surge-after-nvidia-sales-reach-new-heights-on-booming-ai-demand-c9417b31",
-      "publishedDateTime": "2024-02-22T09:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

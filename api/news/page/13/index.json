@@ -2,6 +2,110 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-22-biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems.md",
+      "title": "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems",
+      "excerpt": "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "originalUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-66491774/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "publishedDateTime": "2024-02-21T18:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process.md",
+      "title": "Microsoft will use Intel Foundry to make its own chip using the Intel 18A process",
+      "excerpt": "Today, Intel announced its renamed chip-making business as Intel Foundry. Formerly known as Intel Foundry Services, the company claims the revamped business is the \"world’s first systems foundry for the AI era.\" However, this announcement was somewhat ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708537672_intel-foundry-ifdc-1.jpg.rendition.intel.web.1920.1080_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
+      "publishedDateTime": "2024-02-21T18:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-first-gemini-now-gemma-googles-new-open-ai-models-target-developers.md",
       "title": "First Gemini, now Gemma: Google's new, open AI models target developers",
       "excerpt": "On Wednesday, Google unveiled Gemma, a family of lightweight, open models developed by DeepMind and other teams across Google that are charged with AI development and research. Introducing Gemma: a family of lightweight, state-of-the-art open models for ...",
@@ -1138,100 +1242,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-vcs-are-clamoring-to-back-screaming-hot-startups-using-ai-for-medical-records.md",
-      "title": "VCs are clamoring to back 'screaming hot' startups using AI for medical records",
-      "excerpt": "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
-      "originalUrl": "https://www.businessinsider.com/vcs-clamoring-invest-medical-scribe-ai-startups-abridge-ambience-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cf847ef533b039a884865f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-facebook-whistleblower-ai-godfather-join-hundreds-calling-for-deepfake-regulation.md",
-      "title": "Facebook whistleblower, AI godfather join hundreds calling for deepfake regulation",
-      "excerpt": "Facebook whistleblower Frances Haugen, former Democratic presidential candidate Andrew Yang and one of the “godfathers” of artificial intelligence (AI), Yoshua Bengio, were among hundreds who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/facebook-whistleblower-ai-godfather-join-174512965.html",
-      "originalUrl": "https://www.aol.com/facebook-whistleblower-ai-godfather-join-174512965.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_hill_articles_315/69df5692cf2810ecf30910e14725ca38",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T09:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],
