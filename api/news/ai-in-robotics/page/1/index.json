@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
+      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
+      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "publishedDateTime": "2024-03-05T13:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando",
+        "domain": "orlandomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-aided-by-the-democratization-of-generative-ai-the-robotics-ai-chipset-market-is-expected-to-reach-us866m-globally-by-2028-finds-omdia.md",
       "title": "Aided by the democratization of generative AI, the robotics AI chipset market is expected to reach US$866m globally by 2028 finds Omdia",
       "excerpt": "Since the democratization of machine learning (ML) in robotics, ML-powered workloads have become highly diverse. As generative AI (GenAI) technology continues to proliferate, foundation models are poised to replace or augment existing ML and deep learning models,",
@@ -184,7 +228,7 @@
       "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -1324,58 +1368,6 @@
         "name": "Eagle-Tribune",
         "domain": "eagletribune.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-fox-news-ai-newsletter-lizard-like-robot-could-help-navy-prevent-catastrophes.md",
-      "title": "Fox News AI Newsletter: Lizard-like robot could help Navy 'prevent catastrophes'",
-      "excerpt": "MILITARY GAME-CHANGER: A lizard-like robot and other devices relying ... DEEPFAKE BATTLE’: An Israeli AI cybersecurity start-up, Clarity, has developed software to detect and protect against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d705d93-3ff3-4ead-a33e-b0a42bc27432/dbc13643-03fe-4e99-947e-db2ba52ac205/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
-      "publishedDateTime": "2024-02-21T16:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

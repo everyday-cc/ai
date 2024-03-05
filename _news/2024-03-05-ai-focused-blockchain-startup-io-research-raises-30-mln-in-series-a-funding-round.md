@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-05T15:02:00Z
 originalUrl: "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/"
 webUrl: "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/"
 type: article
-quality: 61
-heat: 81
+quality: 63
+heat: 83
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg"
@@ -47,6 +48,6 @@ related:
       domain: businessinsider.com
     quality: 11
 
-secured: "/0uYnI/mffBjVUPkJiPMpOn6xRsddMU7+nzTTBkRw2YLpVf9u6/PuIP2cXJZ7077HmpcBr8IDY2WpUqXKjA1U8psuGVg4ak68YK0NFx/+KDBiSjwfR/Y/obn6ZqjH0JvNW89rSp5aM/VNRobre2Ors7cv4VsAcL7qHGECOWmTWaMjuUID25QGNFbFQN2NIi+hvxZfig03Kka67Jc1aSBJCK20tFtDmav9XcMkD52j2IS1nMdTbC5aSIGq29FJGzWTD5UGLXR013moAsO3xEIWZ7Lzw+lZ9IYgx452vOD2lqJADIovIJqddNTODG2lc3lf5T1tkKZ6UQa4qDycrfZMKgLPUavo0YOew5+4gnehfE=;4gZFm5NFYFwt8HMysoFbhw=="
+secured: "WM7wiKq8K2v+YDMI44VBpRUoa1sdKiDFKFQkATieMaCyAIAonkl+Ntv0UKoLCEaRUkYAeVyprUqqIkYiti4ByLCvAIKWD9NYGEeFxBmhet2qH2PtBBXhyQBMxZjuUrB3wxjaT1a18rguM6+31abUmMI4g6Pnw0Kln+/UDdmXIdIr/fcppi1dQuJ1/3I+jBv09zc/SewtRECaW9XgU9nL/8s5KMIY23X8sX/oDHuB1qQYPhiqeZeNkVQeh+kIPM/M/9F/wttzUDhqFFw6c2cD7ANmaZ3h3m9ha2RCGHBSkZbutEQxGgGqBrHr8pcX0iPXN7GZO2YFn1IQvNaybQmaKzuN8zKS+Yvp6QUHT7EiKG/8LOFL0RSxWDv1st6Hds+HEPH/6LtnTD+eOVTe9MA0zBe60auxutwCCmgPZZaBAe/3Ln3foNfFF6+S0zWM89gMv6uc/BwVIPP6rCMMAcp0cQXNnXVeYKomao6jeHuttLNwNFbzayIXu0v/u/zY7/X8vy+Pl8I4tXuLKHuLuGRnWA==;CoF7/24r8Uyci6hwWnMVsw=="
 ---
 

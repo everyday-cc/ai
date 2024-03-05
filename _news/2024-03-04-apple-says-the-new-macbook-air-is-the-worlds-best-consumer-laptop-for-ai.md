@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Apple names M3 MacBook Air best AI consumer laptop"
+    excerpt: "“With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core neural engine, along with accelerators in the CPU and GPU to boost on-device machine learning, making MacBook Air the world’s ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://rollingout.com/2024/03/05/apple-m3-macbook-air-best-ai-laptop/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 41
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2024/03/0136810001525165983-165-400x260.jpg"
+        width: 400
+        height: 260
+        isCached: true
   - title: "MacBook Air M3 announced — pre-orders open now for ‘world’s best consumer laptop for AI’"
     excerpt: "Prices for the 13-inch MacBook Air M3 start at $1,099 while the 15-inch MacBook Air M3 starts at $1,299. Both models are available in Midnight, Starlight, Space Gray and Silver. Pre-orders are open now over on the Apple website, with release day scheduled for March 8 — also known as this Friday."
     publishedDateTime: 2024-03-04T14:16:00Z

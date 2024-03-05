@@ -34,20 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Redefining Gaming Standards! AORUS 16X AI Gaming Laptop is Now Available for Purchase"
-    excerpt: "The AORUS 16X is powered by the latest Intel® Core™ i9 processor 14900HX and NVIDIA GeForce RTX™ 4070 dedicated graphics card. With a maximum graphic power of up to 140W, it provides unmatched performance for gaming and creative tasks."
-    publishedDateTime: 2024-02-29T17:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-redefining-gaming-standards-aorus-16x-ai-gaming-laptop-/2024/02/29/9970929.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/2350988/Redefining_Gaming_Standards__AORUS_16X_AI_Gaming_Laptop_is_Now_Available_for_Pur_ID_46d5b677682e.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "kKHckisKdRG9ECJ3Aa2QgFvEyqmaKuELfht/XiScWtoxO+n8yFXOPuj5JlzA27JDa694kGQHM4cV+96YeHj6eTHO2btJlJu2q4EbAAFuwj5SggwzZatIYqv0EHqiidjgnZ2dBlTKslDXKScUCakx6EvGAtkxuSi6VUDpggiTzzIougz2+uuhXOtK8OG9Q+iwZNYGOzgLRJj26U+CC38ir4MJ3ZYop/ZfHxW0CMiCpS3QRdN7yMxTYr46nVeztCaLy/f6PWk6Uttf4AKZjollpPbFJrNKLuAJ908wMDh/hlmvV6K/OKAc4DH7Q8ISuvbFQ1YwS+WX1EFBxyB4tOukxYk2Ee7IFS4pYlvsjM9+K4g=;3/a+6BLP5SBC64ifrNu+1g=="
 ---

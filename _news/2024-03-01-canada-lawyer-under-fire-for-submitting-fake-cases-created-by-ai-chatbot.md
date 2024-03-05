@@ -39,6 +39,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 58
+  - title: "What do shoppers think of AI-powered chatbots?"
+    excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
+    publishedDateTime: 2024-03-05T17:35:00Z
+    webUrl: "https://drugstorenews.com/what-do-shoppers-think-ai-powered-chatbots"
+    type: article
+    provider:
+      name: Drug Store News
+      domain: drugstorenews.com
+    quality: 39
+    images:
+      - url: "https://assets1.drugstorenews.com/2021-03/DrugStoreNews_m.png"
+        width: 384
+        height: 268
+        isCached: true
   - title: "AI Chatbots Are Better at Math When They Pretend to Be Star Trek Characters"
     excerpt: "Rick Battle and Teja Gollapudi from WMWare’s Natural Language Processing Lab set out to test the effects of framing their questions with “positive thinking.” The study looked at three AI tools, including two versions of Meta’s Llama 2 and a model ..."
     publishedDateTime: 2024-03-04T20:00:00Z

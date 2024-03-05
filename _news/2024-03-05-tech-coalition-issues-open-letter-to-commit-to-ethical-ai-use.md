@@ -35,19 +35,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI could transform ethics committees"
-    excerpt: "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ..."
-    publishedDateTime: 2024-02-29T17:37:00Z
-    webUrl: "https://theconversation.com/ai-could-transform-ethics-committees-224424"
+  - title: "Indeed shares 4 ways companies can ensure their use of AI for hiring is fair, ethical, and effective"
+    excerpt: "Indeed has also created a cross-functional AI ethics team that builds tools, systems, and processes to help ensure that technology is used responsibly. Even with safeguards, the new generation of AI tools are complex and fallible. However, putting in the ..."
+    publishedDateTime: 2024-03-05T17:09:00Z
+    webUrl: "https://www.businessinsider.com/sc/4-ways-companies-can-ensure-their-use-ai-fair-ethical-and-effective"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://images.theconversation.com/files/578337/original/file-20240227-22-9isx52.jpg?ixlib=rb-1.1.0&rect=0%2C168%2C4881%2C2440&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://i.insider.com/65e5f795ce7f1785b2e5f087?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "D3n1qe4xgVbNXyTLqRae085f7madkpBTANU7Or8d46fzaNvv5ZiIeS/rrBpQwyBGHHiDF1cUsf8WF9QUeB/cjMTyAUZUiLWpbLymMzs3i7XU85jdZ/YeBt9f4LhHm46kFdOASsp27EVA5zpbme2X7CwufsRNJoueqETHQ+6VXsKgPwtez0VL8QLcyRq5priaQ2/AC3D/xiiVuPCnS684LBfQ3AO9dsqGQfJqWgJKtcQluj9c2CIQq4qloVIh32FxVx6yzU5hpYh66T6ppXmJnmEtPCCx9flF2R8myizI0eGh65vYjLYCzW41rU945jEjbAmEMT/wNHEQNBC8eF4G3LnMq9IzwPfmVR6PCzdGj+njqN69ai87cPusOyucgGlLyIq8WGdoHHI1OLaJ4c7BqWVm0Px0A4PDWhumu2SiKZb+rZizhhQDONAiKgbQ8UM48yTBvooHa8UL3MEwf+iiXlr+g5L+9Hr+NqSY1bHikaixYEoW6yBnKgAgqwe07uvmeOkK8aQsvE8CN+n3Mcsqbw==;ct1aAnsc3/RpvTq7Fi6A4A=="

@@ -36,12 +36,21 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg"
         width: 450
         height: 251
         isCached: true
+  - title: "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
+    excerpt: "AWS's collaborations with these energy giants demonstrate ... A significant part of this optimistic outlook is attributed to the advent of Artificial Intelligence (AI) as a new catalyst, poised to bolster the company's growth trajectory in the coming ..."
+    publishedDateTime: 2024-03-05T18:53:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ENB-T/pressreleases/24553601/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
   - title: "Oilprice.com: How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
     excerpt: "FN Media Group Presents Oilprice.com Market Commentary LONDON, March 5, 2024 /PRNewswire/ -- When the use of seismic surveys became commonplace, Oil and gas drillers used to drill only"
     publishedDateTime: 2024-03-05T13:21:00Z

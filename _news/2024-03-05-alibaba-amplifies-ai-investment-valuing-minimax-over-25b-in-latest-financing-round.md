@@ -32,6 +32,20 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Report: Chinese AI startup MiniMax raises $600M at $2.5B valuation led by Alibaba"
+    excerpt: "Chinese artificial intelligence startup MiniMax is raising at least $600 million in new funds with e-commerce giant Alibaba Group Holding Ltd. as a lead investor, according to a report from Bloomberg on Monday."
+    publishedDateTime: 2024-03-05T16:44:00Z
+    webUrl: "https://siliconangle.com/2024/03/05/report-chinese-ai-startup-minimax-raises-600m-2-5b-valuation-led-alibaba/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/talkie-minimax-screenshot.png"
+        width: 1673
+        height: 1057
+        isCached: true
 
 secured: "gQhyHSCN+TjOm1jmTywxnDL1KWhdFoWawUlxizna1CYKiGErgOVjbLq7y7hQ8olg3feey7Cy2DF1HAYHbtKYdw7D3M3nmwIEkzanYrGXWHDmjAfm3iC2i0/GDwR8+9v/NLRxzA8f/HjWJ2V7Z/A/qRfHIbWJfItP3rfLSHoLtnkeJj+HK5JbQ6wSW95XJf47go35vIHE7zgT2mcfmSpvoHkcqI+k5PqfvAcdSft0UnrgWqWFjSs2XmOk9y94RV4w/84m2puC12ZCWdGPCSBIqDzqbXt2e9ceFiKsLboH5Hi9Q02RXeJgXk/Rf/QX8c4Pz8YMKgadzeI1JSOh73S/x/TkgK9HBuhrHxqsn+jWt/E=;iFTSMSnp9KdbbypPCIq8mg=="
 ---

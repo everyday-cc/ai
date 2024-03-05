@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-27-my-top-5-ai-growth-stocks-to-buy-hand-over-fist-for-2024.md",
+      "title": "My Top-5 AI Growth Stocks to Buy Hand Over Fist for 2024",
+      "excerpt": "Now, AI may be set to deliver a new boost. Your searches on Google are about to garner even better results thanks to Alphabet's focus on this potentially game-changing technology. Alphabet recently unveiled its most powerful AI tool yet, Gemini, and tests of Gemini in search have resulted in improvements in quality and speed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/762310/artificial-intelligence-ai.jpg",
+          "width": 2102,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
       "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
       "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
@@ -1406,58 +1458,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
-      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
-      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "publishedDateTime": "2024-01-18T19:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

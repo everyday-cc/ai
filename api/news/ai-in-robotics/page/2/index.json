@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-22-fox-news-ai-newsletter-lizard-like-robot-could-help-navy-prevent-catastrophes.md",
+      "title": "Fox News AI Newsletter: Lizard-like robot could help Navy 'prevent catastrophes'",
+      "excerpt": "MILITARY GAME-CHANGER: A lizard-like robot and other devices relying ... DEEPFAKE BATTLE’: An Israeli AI cybersecurity start-up, Clarity, has developed software to detect and protect against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
+      "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d705d93-3ff3-4ead-a33e-b0a42bc27432/dbc13643-03fe-4e99-947e-db2ba52ac205/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-lizard-robot-help-navy-prevent-catastrophes.amp",
+      "publishedDateTime": "2024-02-21T16:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-no-tip-required-self-driving-robots-will-now-deliver-uber-eats-orders-in-tokyo.md",
       "title": "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo",
       "excerpt": "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ...",
@@ -1372,58 +1424,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-pioneering-ais-next-phase-insights-from-mits-venture-studio-course.md",
-      "title": "Pioneering AI’s Next Phase: Insights From MIT’s Venture Studio Course",
-      "excerpt": "Ramesh Raskar gave us some insights into what's happening with AI, talking about a sea change toward models that are going to be more powerful than what we've seen to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbb912303e79e010e6ee1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1352,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
-      "publishedDateTime": "2024-02-13T18:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

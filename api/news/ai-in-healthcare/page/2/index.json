@@ -2,6 +2,223 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-19-artificial-intelligence-a-catalyst-for-progressive-future.md",
+      "title": "Artificial Intelligence, a catalyst for progressive future",
+      "excerpt": "In an age of unprecedented technological growth, Artificial Intelligence (AI) stands at the vanguard, promising to reshape industries from finance to healthcare. AI stems from a field of computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/business/kenya/2024-02-18-artificial-intelligence-a-catalyst-for-progressive-future/",
+      "originalUrl": "https://www.the-star.co.ke/business/kenya/2024-02-18-artificial-intelligence-a-catalyst-for-progressive-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/LxGDxqsXbUKsEaqMdbOIbF7SiLcnI_5ridMz6WS6XRTFW7wOWpmQi5F-vuhfFkzSqJg9SLs38O-jvAKA0IMD7jrq6MRlJEvlqaeERatyFA=s1000",
+          "width": 750,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T16:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai.md",
+      "title": "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI",
+      "excerpt": "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T04:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-hartford-healthcare-launches-new-center-to-use-artificial-intelligence-in-hospitals.md",
+      "title": "Hartford HealthCare launches new center to use artificial intelligence in hospitals",
+      "excerpt": "Officials said the Center for AI Innovation in Healthcare is the first in CT and one of a few in the U.S., with it used now for scheduling and patient stays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php",
+      "originalUrl": "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T18:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
+      "title": "Hartford Healthcare launches new AI center to help with operations",
+      "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WTIC/images/a8f77546-f60e-4fdd-9688-7514cc5133aa/a8f77546-f60e-4fdd-9688-7514cc5133aa_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "cdnAmpWebUrl": "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "publishedDateTime": "2024-02-15T17:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox61",
+        "domain": "fox61.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-senate-finance-committee-holds-hearing-on-use-of-ai-in-healthcare.md",
+      "title": "Senate Finance Committee Holds Hearing on Use of AI in Healthcare",
+      "excerpt": "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "originalUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American College of Radiology",
+        "domain": "acr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-apples-vision-pro-and-the-coming-healthcare-revolution.md",
       "title": "Apple's Vision Pro and the coming healthcare revolution",
       "excerpt": "Spatial computing will usher in 'transformative change' across multiple industries, with special implications for medical care and delivery.",
@@ -1078,239 +1295,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Artificial Intelligence (AI) In Healthcare Market Worth $148.4 Billion By 2029 - Exclusive Report By Marketsandmarketstm",
-      "excerpt": "(MENAFN- PR Newswire) CHICAGO, Feb. 5, 2024 /PRNewswire/ -- The AI in Healthcare market is projected to grow from USD 20.9 billion in 2024 and is estimated to reach USD 148.4 billion by 2029 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
-      "originalUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T10:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
-      "title": "The Impact Of Artificial Intelligence On The Art World",
-      "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe77a697c21ebc498ac84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
-      "publishedDateTime": "2024-02-02T12:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-how-artificial-general-intelligence-could-redefine-accessibility.md",
-      "title": "How Artificial General Intelligence Could Redefine Accessibility",
-      "excerpt": "AI technology has helped bridge the gap, but current solutions are still limited in their ability to meet the specific needs of individuals with disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6426e6cf87a5ab65cbbbf2c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1409,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/",
-      "publishedDateTime": "2024-02-02T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-how-artificial-intelligence-is-improving-research.md",
-      "title": "How Artificial Intelligence is improving research",
-      "excerpt": "Artificial Intelligence research tools are becoming increasingly ... capabilities and has the potential to drive innovation in various fields such as finance, healthcare, and marketing. To effectively use AI tools for data analysis, researchers must ...",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/how-artificial-intelligence-is-improving-research/",
-      "originalUrl": "https://punchng.com/how-artificial-intelligence-is-improving-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg",
-          "width": 800,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/how-artificial-intelligence-is-improving-research/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-improving-research/?amp",
-      "publishedDateTime": "2024-02-02T01:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-ai-therapy-and-icu-training-a-first-look-at-health-apps-for-apple-vision-pro.md",
-      "title": "AI therapy and ICU training: A first look at health apps for Apple Vision Pro",
-      "excerpt": "The company connected STAT with researchers from Cedars-Sinai and Boston Children’s Hospital who have developed applications that transform the headset into an AI powered chatbot that offers otherworldly therapy sessions or a virtual guide that can train ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
-      "originalUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2024/02/xaia-meditating-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
         "images": null,
         "publishers": null,
         "authors": null

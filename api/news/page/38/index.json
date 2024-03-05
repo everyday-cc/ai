@@ -2,6 +2,328 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-can-enhance-stock-return-prediction.md",
+      "title": "Artificial intelligence for the financial market: Machine learning can enhance stock return prediction",
+      "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
+      "originalUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/artificial-intelligenc-6.jpg",
+          "width": 2880,
+          "height": 1867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
+      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
+      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cjr.org",
+        "domain": "cjr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-bioprinting-breakthrough-tech-platform-creates-3d-neural-tissues-in-which-neurons-and-glia-connect.md",
+      "title": "Bioprinting breakthrough: Tech platform creates 3D neural tissues in which neurons and glia connect",
+      "excerpt": "In a recent study published in Cell Stem Cell, researchers produced three-dimensional (3D) bioprinted human brain tissues, allowing for the creation of functioning neural networks that could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240206/Bioprinting-breakthrough-Tech-platform-creates-3D-neural-tissues-in-which-neurons-and-glia-connect.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240206/Bioprinting-breakthrough-Tech-platform-creates-3D-neural-tissues-in-which-neurons-and-glia-connect.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_771102_17072291363538692.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-could-artificial-intelligence-help-or-hurt-scientific-research-articles.md",
+      "title": "Could artificial intelligence help or hurt scientific research articles?",
+      "excerpt": "The Use of Artificial Intelligence in Writing Scientific Review Articles. Current Osteoporosis Reports , 2024; DOI: 10.1007/s11914-023-00852-0 Cite This Page :",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading.md",
+      "title": "Facebook and Instagram will label fake AI images to stop misinfo from spreading",
+      "excerpt": "Meta will begin flagging AI-generated images on Facebook, Instagram ... The company’s AI Research lab FAIR is developing a new type of watermarking tech called Stable Signature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/software/facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading",
+      "originalUrl": "https://www.techradar.com/computing/software/facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4xrZVKy6i8qzhWT3KgsD3T-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
+      "title": "Global Forum on the Ethics of AI 2024",
+      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation.md",
+      "title": "Roblox breaks language barriers with AI-based real-time chat translation",
+      "excerpt": "Roblox is breaking language barriers today as it launches AI-powered real-time chat translation in 16 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
+      "originalUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/English-__-German-Translation-Render.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-top-7-cyber-threat-hunting-tools-for-2024.md",
       "title": "Top 7 Cyber Threat Hunting Tools for 2024",
       "excerpt": "Leveraging unsupervised machine learning models, Carbon Black Endpoint can detect anomalies ... latest news and tips on the following topics and more, XaaS, AWS, Microsoft Azure, DevOps, virtualization, the hybrid cloud, and cloud security.",
@@ -808,325 +1130,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests.md",
-      "title": "Deep learning and neural networks have more to offer than their buzz suggests",
-      "excerpt": "While Generative AI and its chatbots are powerful language-based technologies, it is still ‘good old AI’ that has been churning out astounding new products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/04/1600x900/3-0-95504387-iStock-1195187835-0_1679788575543_1707052117406.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
-      "publishedDateTime": "2024-02-05T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-mit-researchers-use-neural-networks-to-design-more-durable-and-flexible-composite-materials.md",
-      "title": "MIT researchers use neural networks to design more durable and flexible composite materials",
-      "excerpt": "Researchers at the Massachusetts Institute of Technology’s Computer Science and Artificial Intelligence Laboratory have created a new, AI-powered system for designing more durable microstructured composite materials for use in vehicle manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
-      "originalUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/7437285_3630964.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-here-are-4-fintech-sectors-that-are-primed-to-soar-in-2024-and-2-that-are-likely-to-see-more-pain.md",
-      "title": "Here are 4 fintech sectors that are primed to soar in 2024, and 2 that are likely to see more pain",
-      "excerpt": "VCs outline where they're still excited about fintech, including Wall Street AI and payroll, and the areas that they'll likely be avoiding in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fintech-investors-investment-areas-ai-payroll-infrastructure-2024-1",
-      "originalUrl": "https://www.businessinsider.com/fintech-investors-investment-areas-ai-payroll-infrastructure-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65ba938cac2de4f17ee64dd8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-scientists-at-the-university-of-bayreuth-use-artificial-intelligence-in-astrophysics.md",
-      "title": "Scientists at the University of Bayreuth use artificial intelligence in astrophysics",
-      "excerpt": "Their innovative approach uses a deep neural network to quickly predict the stability of galaxy models. This artificial intelligence-based method enables efficient verification or falsification of astrophysical hypotheses in seconds. The research objective ...",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news828161",
-      "originalUrl": "https://idw-online.de/de/news828161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering.md",
-      "title": "WiMi Announced Multi-View Representation Learning Algorithm for Data Stream Clustering",
-      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a multi-view representation learning algorithm is to deal with the data stream clustering problem.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-eu-states-give-green-light-to-artificial-intelligence-law.md",
-      "title": "EU states give green light to artificial intelligence law",
-      "excerpt": "Representatives of the EU member states voted in favor of a proposal in Brussels on Friday which should soon make artificial intelligence (AI) subject to stricter rules.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
-      "publishedDateTime": "2024-02-05T13:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-computer-vision-in-industrial-settings-how-to-implement-it-successfully.md",
-      "title": "Computer Vision In Industrial Settings: How To Implement It Successfully",
-      "excerpt": "Ensuring compliance with various requirements during the assembly of products, particularly complex ones such as heavy machinery components, poses a significant challenge. The incorporation of computer vision through cameras or sensors empowers companies to identify the slightest deviations from established standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd4608c66d4066cb5807aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1232,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
-      "publishedDateTime": "2024-02-05T12:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

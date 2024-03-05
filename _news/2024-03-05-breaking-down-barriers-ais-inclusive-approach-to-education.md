@@ -34,7 +34,7 @@ related:
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://cdn.bignewsnetwork.com/cus1709350515787.jpg"
         width: 630

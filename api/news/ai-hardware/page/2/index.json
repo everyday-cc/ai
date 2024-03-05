@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-26-amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-ai-gpu-refresh-in-the-works.md",
+      "title": "AMD's next-gen MI400 AI GPU expected in 2025, MI300 AI GPU refresh in the works",
+      "excerpt": "AMD's next-gen Instinct MI400X AI accelerator expected in 2025, will compete directly against NVIDIA's next-gen Blackwell B100 AI GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96428_802_amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works_full.jpg",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T00:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
       "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
       "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
@@ -1435,59 +1478,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-indeeds-10-highest-paid-tech-skills-generative-ai-tops-the-list.md",
-      "title": "Indeed’s 10 Highest-Paid Tech Skills: Generative AI Tops the List",
-      "excerpt": "It is used for applications such as computer vision and natural language processing. The ML framework was developed by Meta AI and is now part of the Linux Foundation umbrella. 6. Computer vision, $166,873: Computer vision is a field of computer science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/",
-      "originalUrl": "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_222596740.jpeg",
-          "width": 1400,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

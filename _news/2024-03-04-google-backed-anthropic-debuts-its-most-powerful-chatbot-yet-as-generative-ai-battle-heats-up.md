@@ -183,6 +183,20 @@ related:
         width: 800
         height: 494
         isCached: true
+  - title: "3 Tips for Business Owners Who Want to Use Anthropic's New Flagship AI Model, Claude 3"
+    excerpt: "According to Anthropic, the largest and most powerful of the three models, Opus, outperforms OpenAI's current top-of-the-line model, GPT-4, across a wide variety of benchmarks, such as undergraduate level knowledge, graduate level reasoning, math-based problem solving, and coding. Here are three ways business owners can use these models."
+    publishedDateTime: 2024-03-05T17:08:00Z
+    webUrl: "https://www.inc.com/ben-sherry/3-tips-for-business-owners-who-want-to-use-anthropics-new-flagship-ai-model-claude-3.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 29
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1702217813_538101_ijkvbw.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "H4qmDIMLsW3tpNfPBCxaH1yG8qlMA5BNGcaT5QDjwgXVyXO/irWp9zBUvfzuwgvOXoxB3gi9ztQWxL5HhqFjXQ/v8WlYFyYJrxNmRXuSng81Cmlzs3a7PC/ihISTCXg8PBC8vzOMAYv0QCsECPO0OJ5qmh3RsNSBWxxV+6e36rHOJM8H6nCMRbYT+KJrOWWC1afeEy98Eh9peJXKKEgRayowC5oT3gnV3GVWYS/tPAyvh1Rb2lN/sCR2O+5FQPl29+rgHjfvi+cF+iAi8txiADuKceFkutuoVJd6dKvZKTtQqxJ62vJE3JDWe0LHRgnfCkh0u/uKlcNcZgCex0D8PIhu1c2LlZgsRIBdUXvYwwK29QZyx1nrbHE0EY7JWfia7OaF1sUhCZwdz1q++NR5YypnHhzLDBxKJfuKzwYqnJGzWW9+0VCtf8v1HmBh+1LGRKMqw334MeLxKSINorNVakusDfjh70GjUjaJBrl+MybD1SPrKCAf+sCD/CXRwGtiZd2EkoGHLT7IqBNaU9D9cQ==;CROHunJXGbBuIUZFQZiCfw=="
 ---

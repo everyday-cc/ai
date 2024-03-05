@@ -45,6 +45,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "What do shoppers think of AI-powered chatbots?"
+    excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
+    publishedDateTime: 2024-03-05T17:35:00Z
+    webUrl: "https://drugstorenews.com/what-do-shoppers-think-ai-powered-chatbots"
+    type: article
+    provider:
+      name: Drug Store News
+      domain: drugstorenews.com
+    quality: 39
+    images:
+      - url: "https://assets1.drugstorenews.com/2021-03/DrugStoreNews_m.png"
+        width: 384
+        height: 268
+        isCached: true
 
 secured: "XFGBV51kkkCNPiE+otPVIC15fK6k7EFjgwBTAylwhypvgLiCGrh3mXwTh0q3l6SowY464iF+rZW/8O/dBnEwvDCDON0lHR1X4OpeNIqBcgoqut27NByfGv2WjaYiyWSm6TtpKiOM3ulLHwy26NXlQZYqWFAcAo/k02jky7Jo53XoWeBcxfqopUFptN6z9TkDLFnJp5PE2vAil2ztJWrry56jqM3Q0zIOpkyt+krLKmM7iGp960cXLkksIdhxqFBknR6M9vJ3u9jmhj7bzrcHZ0FUr5KmNpU1PkflhvkowPoLHh3bshqOd+mMzqRI297kgnAeq9s++DBlPcO670J9/NgO1Ezk+2vuPmeX9yC3iKBQlIr+cmeCQVVXehIpqMYUVIVOfr0VfhjpHWXTh3IKfJZtpJzkwzaP3h5zZcDnpFX0VL4znsj7Mv7IZequLx1/LNVNhV/nArNDwFh+QkDJRlJKNRRlCEPWzNPw/s7TCK1/Q8CLnKF5+uu96AOrJme0swphzZ0A0Tqh034ynTmgEg==;Re6v1bd0m97Ru4K7gr72/A=="
 ---

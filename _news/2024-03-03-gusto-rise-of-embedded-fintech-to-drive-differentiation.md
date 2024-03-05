@@ -71,15 +71,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Why fintech startups need to prioritize email security"
-    excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
-    publishedDateTime: 2024-02-29T18:46:00Z
-    webUrl: "https://techbullion.com/why-fintech-startups-need-to-prioritize-email-security/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 36
   - title: "Socure Teams Up with Open Banking Fintech Trustly"
     excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
     publishedDateTime: 2024-03-01T08:50:00Z

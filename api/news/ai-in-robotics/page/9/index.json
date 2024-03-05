@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-13-google-announces-520k-grant-for-ai-robotics-education-at-virginia-middle-schools.md",
+      "title": "Google announces $520K grant for AI, robotics education at Virginia middle schools",
+      "excerpt": "HERNDON, Va. — Google is investing more than half a million dollars in Virginia middle schoolers. Google announced a $520,000 grant to expand access to robotics and artificial intelligence education programs across middle schools in the Commonwealth on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wusa9.com/article/news/local/virginia/virginia-middle-school-google-ai-robotics-grant/65-ac6f1f3a-19bc-4748-9cae-035ebfb5c021",
+      "originalUrl": "https://www.wusa9.com/article/news/local/virginia/virginia-middle-school-google-ai-robotics-grant/65-ac6f1f3a-19bc-4748-9cae-035ebfb5c021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/3c113c2b-8d31-4f17-963c-5a2e4dd1917a/3c113c2b-8d31-4f17-963c-5a2e4dd1917a_1140x641.png",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T17:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-ai-companion-robot-helps-some-seniors-fight-loneliness-but-others-hate-it.md",
       "title": "AI companion robot helps some seniors fight loneliness, but others hate it",
       "excerpt": "Some seniors in New York are successfully combating their loneliness with an AI-powered companion robot named ElliQ—while others called the \"proactive\" device a nag and joked about taking an ax to it.",
@@ -1210,40 +1254,6 @@
       "provider": {
         "name": "BGR",
         "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-seaweed-robot-startup-nets-gbp-150000-in-pre-seed-funding-us-doe-funds-seaweed-study-searching-for-rare-earth-metals.md",
-      "title": "Seaweed-robot startup nets GBP 150,000 in pre-seed funding; US DOE funds seaweed study searching for rare earth metals",
-      "excerpt": "-London, England-based seaweed startup Samudra Oceans has secured a GBP 150,000 (USD 190,000, EUR 174,000) investment from the British Design Fund as a part of its GBP 800,000 (USD 1 million, EUR 927,000) pre-seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
-      "originalUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T11:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SeafoodSource",
-        "domain": "seafoodsource.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-01-ai-identifies-new-type-of-prostate-cancer.md",
+      "title": "AI identifies New Type Of Prostate Cancer",
+      "excerpt": "There are two distinct types of prostate cancer, which may open the door to more personalized therapies, according to a new AI-driven study published today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaa1c4adb4c8f69357735/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
+      "publishedDateTime": "2024-02-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement.md",
+      "title": "Groundbreaking Chinese Ruling Finds AI Company Committed Copyright Infringement",
+      "excerpt": "Chinese media reported the Guangzhou Internet Court ruled an AI company committed copyright infringement in its provision of AI-generated text-to-image",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0b061adf152ee77fb0400/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1404,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
+      "publishedDateTime": "2024-02-29T15:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-xpeng-continues-to-challenge-tesla-fsd-with-xngp-self-driving-now-available-throughout-china.md",
+      "title": "XPeng continues to challenge Tesla FSD with XNGP self-driving, now available throughout China",
+      "excerpt": "XPeng Motors announced a massive milestone for its XPeng navigation guided pilot (XNGP) ADAS feature that enables self-driving in",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
+      "originalUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/XPeng-self-driving-XNGP.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-generative-ai-and-the-big-buzz-about-small-language-models.md",
       "title": "Generative AI and the big buzz about small language models",
       "excerpt": "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ...",
@@ -476,6 +630,92 @@
       ]
     },
     {
+      "path": "_news/2024-02-29-why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls.md",
+      "title": "Why Cell And Gene Therapy Design Processes Need More Efficient Quality Controls",
+      "excerpt": "Drugmakers must make the entire drug testing and quality control process as efficient and innovative as the drug discovery method itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65df57417ae5a2a8d793fe21/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/amp/",
+      "publishedDateTime": "2024-02-29T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh.md",
+      "title": "India leads first human clinical trial of gene therapy for haemophilia A: Dr Jitendra Singh",
+      "excerpt": "Union Minister Dr Jitendra Singh addressing the ''National Science Day 2024'' programme at Vigyan Bhawan, New Delhi on Wednesday. India has conducted the first human clinical trial",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "originalUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "publishedDateTime": "2024-02-29T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily.md",
       "title": "NextGen Food Robotics Provides Update on its AI-Powered Food Ordering Application, Lily",
       "excerpt": "VANCOUVER, BC, Feb. 29, 2024 (GLOBE NEWSWIRE) -- NextGen Food Robotics Corp. (the “Company” or ... food ordering and delivery experience through advanced generative artificial intelligence powered by OpenAI’s GPT-4.0 large language model.",
@@ -851,6 +1091,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-29-indias-first-gene-therapy-trial-in-haemophilia-conducted-at-cmc-vellore-dr-jitendra.md",
+      "title": "India’s first gene therapy trial in Haemophilia conducted at CMC Vellore: Dr Jitendra",
+      "excerpt": "India has conducted the first human clinical trial of gene therapy in Haemophilia A (FVIII deficiency) at Christian Medical College (CMC) Vellore. This was disclosed here today by Union Science & Technology Minister (Independent Charge) Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyexcelsior.com/indias-first-gene-therapy-trial-in-haemophilia-conducted-at-cmc-vellore-dr-jitendra-2/",
+      "originalUrl": "https://www.dailyexcelsior.com/indias-first-gene-therapy-trial-in-haemophilia-conducted-at-cmc-vellore-dr-jitendra-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2024/02/dr-4.jpg",
+          "width": 630,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T00:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Excelsior",
+        "domain": "dailyexcelsior.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-dubai-robot-to-detect-e-scooter-cycle-violations.md",
       "title": "Dubai: Robot to detect e-scooter, cycle violations",
       "excerpt": "The robot will monitor the use of bicycles and electric scooters. Powered by artificial intelligence, the robot will identify a range of violations, including failure to adhere to personal safety protocols like wearing helmets; scooters parked in ...",
@@ -891,283 +1174,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility.md",
-      "title": "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility",
-      "excerpt": "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-machine-learning-vs-ai-vs-deep-learning-the-differences-explained.md",
-      "title": "Machine learning vs AI vs deep learning: The differences explained",
-      "excerpt": "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
-      "originalUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-microsoft-openai-and-nvidia-back-26bn-robot-start-up.md",
-      "title": "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up",
-      "excerpt": "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the global labour market. Figure AI said on Thursday it had raised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
-      "originalUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-tsmc-founder-foresees-the-need-for-up-to-10-new-fabs-for-ai-chip-manufacturing.md",
-      "title": "TSMC founder foresees the need for up to 10 new fabs for AI chip manufacturing",
-      "excerpt": "Read our ethics statement. A hot potato ... Chang recently stated that the current demand for AI hardware accelerators is so high that his company will soon have to multiply its production capacity at staggering rates. Chang spoke during the inauguration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
-      "originalUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview.md",
-      "title": "Shifting Perspectives: How Automation And AI Are Shaping Our Worldview",
-      "excerpt": "Perry’s new book, “Perspective Agents”, suggests that a new world media order is indeed upon us, and that the notion of perspective is the paramount skill of our time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
-      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfa9f7bcb82967938c4517/0x0.jpg?format=jpg&crop=5200,2924,x0,y93,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
-      "publishedDateTime": "2024-02-28T23:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-innovationrx-exploring-the-future-of-healthcare-ai.md",
-      "title": "InnovationRx: Exploring The Future Of Healthcare AI",
-      "excerpt": "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T22:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

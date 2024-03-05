@@ -28,6 +28,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Perplexity Poised To Become Latest AI Startup To Hit Unicorn Status — Report"
+    excerpt: "Perplexity AI is reportedly nearing completion of a funding round that will give the AI search startup a unicorn valuation of around $1 billion."
+    publishedDateTime: 2024-03-05T17:50:00Z
+    webUrl: "https://news.crunchbase.com/ai/startup-perplexity-poised-unicorn-status-nvda/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 34
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Unicorn_Money_v1.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
 secured: "ojSr5OgWQZ3Bb/yQZb1Wuo2ltdS9DVrTwZHrXk+Z7ESAFVe5vuF7pMN56VSMZf4/MKR6sOGFn4cdCyiQ6STaVcxdx+HHYaEC5VtRFZY78ofJ1ihfudJ1etTxXWisTWIADgDaEK10hXWe9+ziz8cGNc9ho16xUxFDXVTOgWGej1gfgRZNOtQGRviSmK0LtHVvvJRC/Y3Vkygk2LUeALm37EAdTLP+rGgbpqn1A/8Ozyw4X0hi6kh1jyXdxR01xycw3Fr2lz8KKnH4cEK/nUfLzuB3HQtM96PqH+GGACsp1wujb9NFof1S2w54Hpd19H4wLe2xtaz/e6/Gcsz3tqPwV+YWrpRr3h7AJvarn4WrVPxG9hWSAv2z2eupLeBa8j2nSETL59knRuGSYrpAcSaQKEYFB1OgmZeYYLHoVJ6hZY7hxu95EilXUGl7RPddQIqLH/6X7vgUchp4ZuvcyjQNJVDK+eluJIz9YIGRA4dDZ7yZ1h52L5saM+Bou6icTTP/IiMqVqwk1HevbmKzaIw3GA==;Qsz/7bL7u1VTBSAbcXceLw=="
 ---
 

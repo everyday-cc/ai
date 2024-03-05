@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
+      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
+      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
+          "width": 2237,
+          "height": 1376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "publishedDateTime": "2024-01-18T19:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-nokia-to-invest-nearly-400m-in-european-chips-ai.md",
       "title": "Nokia to invest nearly $400m in European chips, AI",
       "excerpt": "The investment will be funded by Nokia, the German Federal Ministry of Economics and Climate Protection (BMWK) and two German states",
@@ -1433,49 +1485,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-opinion-chip-giant-micron-is-becoming-another-ai-play-for-investors.md",
-      "title": "Opinion: Chip giant Micron is becoming another AI play for investors",
-      "excerpt": "Micron Technology Inc.’s return to revenue growth last quarter as it recovers from the memory-chip downturn was in part due to the boom in AI-related chips, putting more of a spotlight on the chip maker as another potential AI investment. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-another-ai-play-for-investors-fd5aae8f",
-      "originalUrl": "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-another-ai-play-for-investors-fd5aae8f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

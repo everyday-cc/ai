@@ -2,6 +2,213 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
+      "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
+      "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6576b7e44e4ea706c2e5def1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
+      "publishedDateTime": "2023-12-11T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-north-america-artificial-intelligence-in-healthcare-market-to-hit-usd-1142-billion-by-2033-says-we-market-research.md",
+      "title": "North America Artificial Intelligence in Healthcare Market to hit USD 114.2 Billion by 2033, Says We Market Research",
+      "excerpt": "As per the most recent analysis conducted by We Market Research, the North America Artificial Intelligence in Healthcare Market is poised to achieve a valuation of $114.2 billion by the conclusion of 2033.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2267296/We_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T10:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-how-ai-therapy-is-filling-gaps-in-mental-health-care.md",
+      "title": "How AI therapy is filling gaps in mental health care",
+      "excerpt": "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care",
+      "originalUrl": "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T03:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boise State Public Radio",
+        "domain": "boisestatepublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.md",
+      "title": "Combining artificial intelligence and spectral imaging accurately identifies skin cancer",
+      "excerpt": "In a groundbreaking doctoral study, artificial intelligence (AI) has proven its ability to accurately distinguish malignant skin lesions from benign ones using hyperspectral imaging (HSI). Prior to AI analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html",
+      "originalUrl": "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T10:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Helsinki Times",
+        "domain": "helsinkitimes.fi",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-xenons-345-million-public-offering-eyepoint-pharmaceuticals-trial-success-gene-therapy-found-to-reduce-liver-cancer.md",
+      "title": "Xenon’s $345 million public offering; EyePoint Pharmaceuticals’ trial success; gene therapy found to reduce liver cancer",
+      "excerpt": "What's been going on in the world of biotech of late? Find out with Labiotech’s weekly roundup of the latest biotech news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.labiotech.eu/weekly-roundup/biotech-news-roundup-december-8-2023/",
+      "originalUrl": "https://www.labiotech.eu/weekly-roundup/biotech-news-roundup-december-8-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.labiotech.eu/wp-content/uploads/2023/12/Biotech-news.jpg",
+          "width": 1200,
+          "height": 959,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T15:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "labiotech",
+        "domain": "labiotech.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial.md",
       "title": "Allergy Drug Added to Immunotherapy Benefits Lung Cancer Therapy in Small Trial",
       "excerpt": "IL-4 blockade using dupilumab enhanced lung cancer response to checkpoint blockade in mice and in lung cancer patients with treatment-resistant disease.",
@@ -1059,222 +1266,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-how-artificial-intelligence-is-changing-health-care-in-treating-stroke-victims.md",
-      "title": "How artificial intelligence is changing health care in treating stroke victims",
-      "excerpt": "This is what you need to know about strokes and how artificial intelligence is helping ... a formidable challenge in the realm of health care. Not only does stroke rob us of our loved ones and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims",
-      "originalUrl": "https://www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/10/29/1200/675/694940094001_6098686475001_6098688960001-vs.jpg?pubId=694940094001?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/how-artificial-intelligence-changing-health-care-treating-stroke-victims.amp",
-      "publishedDateTime": "2023-11-30T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-accelerating-gene-therapy-production.md",
-      "title": "Accelerating Gene Therapy Production",
-      "excerpt": "A key challenge for gene therapy is to minimize the dosage while concurrently devising more targeted delivery vectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
-      "originalUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-health-care-policy-stakeholders-testify-on-the-use-of-artificial-intelligence-in-health-care.md",
-      "title": "Health Care Policy Stakeholders Testify on the Use of Artificial Intelligence in Health Care",
-      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "originalUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-top-artificial-intelligence-development-companies-in-dubai.md",
-      "title": "Top Artificial Intelligence Development Companies in Dubai",
-      "excerpt": "Artificial intelligence stands as a dynamic catalyst for transforming our daily lives and professional landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "originalUrl": "https://www.oneindia.com/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/11/ai-technology-1701241731.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/partner-content/top-artificial-intelligence-development-companies-in-dubai-3692819.html",
-      "publishedDateTime": "2023-11-29T07:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-top-10-healthcare-industry-predictions-for-2024.md",
-      "title": "Top 10 Healthcare Industry Predictions For 2024",
-      "excerpt": "In this game of healthcare industry Darwinism, unicorns are giving way to ponies. An interesting aspect of the new startups is that many are looking to use artificial intelligence to solve some of the industry’s vexing and most intractable problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65654cd25bb9ebb81f474324/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/11/28/top-10-healthcare-industry-predictions-for-2024/amp/",
-      "publishedDateTime": "2023-11-28T06:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

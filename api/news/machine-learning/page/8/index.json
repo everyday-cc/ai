@@ -2,6 +2,84 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-02-ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel.md",
+      "title": "‘AI safety is imperative:’ Triangle thought leaders talk artificial intelligence with Senate panel",
+      "excerpt": "The seventh and final planned session of the Senate's AI Forum included two representatives from the Triangle: Howso's Mike Capps, and Duke Computer Science Professor, Cynthia Rudin. Check out what they discussed.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
+      "originalUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/11/WRAL-Featured-Image-Template-71.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
+      "publishedDateTime": "2023-12-01T16:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
+      "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
+      "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "originalUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WatersTechnology",
+        "domain": "waterstechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-researchers-develop-novel-deep-learning-based-detection-system-for-autonomous-vehicles.md",
       "title": "Researchers develop novel deep learning-based detection system for autonomous vehicles",
       "excerpt": "Autonomous vehicles require object detection systems to navigate traffic and avoid obstacles on the road. However, current detection methods often suffer from diminished detection capabilities due to bad weather,",
@@ -1227,103 +1305,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023.md",
-      "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
-      "excerpt": "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/featured-images-ML-16024-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T22:47:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-how-ai-robotics-and-machine-learning-can-improve-food-traceability.md",
-      "title": "How AI, Robotics and Machine Learning Can Improve Food Traceability",
-      "excerpt": "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
-      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Machine Learning"
       ]

@@ -121,20 +121,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
-    excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
-    publishedDateTime: 2024-02-29T17:20:00Z
-    webUrl: "https://www.inc.com/kit-eaton/adobes-music-tool-fills-major-gap-in-ai-content-generating-circle.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "Tw2gqTuKpl+nkexGaB9F5N1kLk5ddKZAi53hFqOSiNxVDTIrA/HLl6feoAkXzVQjqnzQRaHV6cmI4mBd3YiupLlpeRu3klqN+UZHzTUC0zxXPR5DXIsXFIm+BdZ53od8BvsnwLPUXd41it+j6cTYRX6HKiUGyBUsxjr31kWNflmjvbnasxSC7b6CXtGMSncGVA9ZO4ce9TSgfWSz4inua3medD55lPqgLdhioQiWiRIy0AltakUhpf/vs/K8eYhVeWy1DMQjrzPxyadQVkUfkIYEKKEISFDPCiMRRnPH0FdexGsxN72xwABs6OIksJRasg1OYdcT7yazR15Nnp7fRHQgxORCDQPvDOn+e0xp4W4=;sQeAlNbcPEwKqZaXQIAhzQ=="
 ---

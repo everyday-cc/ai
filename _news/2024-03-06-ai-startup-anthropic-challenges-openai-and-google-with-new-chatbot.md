@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics startup Figure raises $675 million from Microsoft, Nvidia, OpenAI"
-    excerpt: "Sunnyvale, California-based Figure also signed a collaboration with OpenAI to develop generative artificial intelligence for its humanoid robots. Other companies involved in this external round includes OpenAI Startup Fund,"
-    publishedDateTime: 2024-02-29T18:21:00Z
-    webUrl: "https://www.aol.com/news/robotics-startup-figure-raises-675-130229260.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 84
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8c70e7441196b7a02e364701b80a4efc"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-01T14:57:00Z
@@ -158,15 +144,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI Startup Making Humanoid Robots Raises $675 Million From Bezos, Nvidia, Others"
-    excerpt: "They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure, the startup said Thursday, valuing it at $2.6 billion."
-    publishedDateTime: 2024-02-29T18:06:00Z
-    webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 59
   - title: "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids"
     excerpt: "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software."
     publishedDateTime: 2024-03-01T05:43:00Z
@@ -194,15 +171,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI Startup Making Humanoid Robots Raises $675 Million With Bezos, Nvidia in Funding Round"
-    excerpt: "Illustration: John McColgan They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure, the startup said Thursday, valuing it at $2.6 ..."
-    publishedDateTime: 2024-02-29T18:06:00Z
-    webUrl: "https://www.wsj.com/tech/ai/figure-humanoid-robot-ai-startup-jeff-bezos-nvidia-microsoft-openai-2315c80d"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 55
   - title: "Humanoid robot-maker Figure partners with OpenAI"
     excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
     publishedDateTime: 2024-02-29T22:30:00Z
@@ -273,6 +241,6 @@ related:
       domain: statesman.com
     quality: 32
 
-secured: "pkb3MJIzLzAaCePcbYGuCn8QHflgmPD+Oc7AIyb/cnFSaWr+5nJNbN6XH5hepS5Vi2HK9c4xEyUR4kxhncWYW/mFM+cbNaqWGCFRjqzI81bMgSrRX6VQ6Im7VliZtJrIDVVTUMwlTs+LwRi9RXaxwVqfdvyRPZHy50PZywHIQ2nIng+2wl6Tl9asbsyn3m6GXvOCMTmoW8Jo2ojihgvx3ZistjR96VDkcGRupk/vBh2wKSU8WrVq0TlCcGKPYJxa+IgNGBt2Rv6RfJhbXx24BOYG+VIRf9/xlcIBHJbUck+pRuJb01cQhJiM71PuugmwZ5vgoeoIkhX+a1yjjMuo9UvTO5szAm3/gbYFkTIRWO8=;rKBTa5VxG2u/YRWHQQeQBg=="
+secured: "n2atdnJFDnZ0XF0ZYff0RScjsAuvQE3/BR9/3BWYv5jJrJXEdhR2VlYv7RnNnm9oUYgrPsgl02mTEG0QFFsXWy0Omlqw8hhJd4vebajqex31D4IINT2Qt1gf98wb6JBcK43+HGWmG/YuBdRPSn+1twFw2QeFUgTzqNeDhk3Y9ViYpdfN5oXVJVXamOxr53XHt3zkdXep6NteKXTMLdlvI/fcpkP5bOpVe/D/rfaAFoGSI0kttP4lbgq8dYTWQKmWyftuQqPD/0E95XyWTT06X+wvMdvfcW04CFLTuSShLcdr5oeDB9DRwLP9skl4lXj0RvmDHjMa75Y3VwZFoc+AOKQhbQeelLffpmaq5v1k4hza6yBc9p/wTNby8QewZTgGMby2YBgOPOmQIlEH3QG+4rgMu9HrIaO3MmvwlpGeHti7aSApsKq3cfznTXjgxiI4eWasfs2fxp0vVB3fFHFkNleWxjGkrFPylWLozTTiukJbLoNW/jhPdCaPM/0afXfRLTWQiCHpQxRJZb3erw/bGg==;Rh5fuGypmDh8nhXoNv01yg=="
 ---
 

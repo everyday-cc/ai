@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-11-6-ai-apps-for-android-that-are-actually-useful.md",
+      "title": "6 AI Apps For Android That Are Actually Useful",
+      "excerpt": "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
+      "originalUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T12:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-year-of-the-dragon-we-have-entered-the-ai-age.md",
       "title": "Year of the dragon: We have entered the AI age",
       "excerpt": "Like the Year of the Dragon roaring in today, 2024 will mark the year where AI is applied in real, tangible ways.",
@@ -1428,58 +1480,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-my-top-5-ai-growth-stocks-to-buy-hand-over-fist-for-2024.md",
-      "title": "My Top-5 AI Growth Stocks to Buy Hand Over Fist for 2024",
-      "excerpt": "Now, AI may be set to deliver a new boost. Your searches on Google are about to garner even better results thanks to Alphabet's focus on this potentially game-changing technology. Alphabet recently unveiled its most powerful AI tool yet, Gemini, and tests of Gemini in search have resulted in improvements in quality and speed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/762310/artificial-intelligence-ai.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T10:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

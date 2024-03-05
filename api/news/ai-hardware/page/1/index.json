@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-05-ai-focused-blockchain-startup-io-research-raises-30-mln-in-series-a-funding-round.md",
+      "title": "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round",
+      "excerpt": "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
+      "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg",
+          "width": 6285,
+          "height": 4190,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-aided-by-the-democratization-of-generative-ai-the-robotics-ai-chipset-market-is-expected-to-reach-us866m-globally-by-2028-finds-omdia.md",
       "title": "Aided by the democratization of generative AI, the robotics AI chipset market is expected to reach US$866m globally by 2028 finds Omdia",
       "excerpt": "Since the democratization of machine learning (ML) in robotics, ML-powered workloads have become highly diverse. As generative AI (GenAI) technology continues to proliferate, foundation models are poised to replace or augment existing ML and deep learning models,",
@@ -106,7 +158,7 @@
       "originalUrl": "https://tech.hindustantimes.com/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -504,7 +556,7 @@
       "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1394,49 +1446,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-ai-gpu-refresh-in-the-works.md",
-      "title": "AMD's next-gen MI400 AI GPU expected in 2025, MI300 AI GPU refresh in the works",
-      "excerpt": "AMD's next-gen Instinct MI400X AI accelerator expected in 2025, will compete directly against NVIDIA's next-gen Blackwell B100 AI GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/6/96428_802_amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works_full.jpg",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T00:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

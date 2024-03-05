@@ -2,6 +2,326 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-29-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility.md",
+      "title": "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility",
+      "excerpt": "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-machine-learning-vs-ai-vs-deep-learning-the-differences-explained.md",
+      "title": "Machine learning vs AI vs deep learning: The differences explained",
+      "excerpt": "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
+      "originalUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-microsoft-openai-and-nvidia-back-26bn-robot-start-up.md",
+      "title": "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up",
+      "excerpt": "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the global labour market. Figure AI said on Thursday it had raised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
+      "originalUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-palatin-pummelled-as-dry-eye-therapy-underwhelms-in-phase-3.md",
+      "title": "Palatin pummelled as dry eye therapy underwhelms in phase 3",
+      "excerpt": "Palatin Technologies’ therapy for dry eye disease (DED ... and which met both primary sign and symptom efficacy endpoints in pivotal trials. Artificial intelligence (AI) has become an omnipresent force in our lives. From our homes to workplaces, from ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/news/palatin-pummelled-dry-eye-therapy-underwhelms-phase-3",
+      "originalUrl": "https://pharmaphorum.com/news/palatin-pummelled-dry-eye-therapy-underwhelms-phase-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/2024-02/fa-barboza-hands-over-eyes-unsplash.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-tsmc-founder-foresees-the-need-for-up-to-10-new-fabs-for-ai-chip-manufacturing.md",
+      "title": "TSMC founder foresees the need for up to 10 new fabs for AI chip manufacturing",
+      "excerpt": "Read our ethics statement. A hot potato ... Chang recently stated that the current demand for AI hardware accelerators is so high that his company will soon have to multiply its production capacity at staggering rates. Chang spoke during the inauguration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "originalUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview.md",
+      "title": "Shifting Perspectives: How Automation And AI Are Shaping Our Worldview",
+      "excerpt": "Perry’s new book, “Perspective Agents”, suggests that a new world media order is indeed upon us, and that the notion of perspective is the paramount skill of our time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
+      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfa9f7bcb82967938c4517/0x0.jpg?format=jpg&crop=5200,2924,x0,y93,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
+      "publishedDateTime": "2024-02-28T23:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-innovationrx-exploring-the-future-of-healthcare-ai.md",
+      "title": "InnovationRx: Exploring The Future Of Healthcare AI",
+      "excerpt": "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T22:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
       "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
       "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
@@ -874,346 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
-      "title": "The most popular neural network styles and how they work",
-      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "publishedDateTime": "2024-02-28T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
-      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
-      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "publishedDateTime": "2024-02-28T09:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
-      "title": "Apple unplugs self-driving electric car project, reports say",
-      "excerpt": "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-68420817",
-      "originalUrl": "https://www.bbc.com/news/business-68420817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-68420817.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp",
-      "publishedDateTime": "2024-02-28T06:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots.md",
-      "title": "Amazon to spend $1 billion on startups that combine AI with robots",
-      "excerpt": "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
-      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T06:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried.md",
-      "title": "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried",
-      "excerpt": "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
-      "publishedDateTime": "2024-02-28T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-enkrypt-ai-raises-235m-to-build-a-visibility-and-security-layer-for-gen-ai.md",
-      "title": "Enkrypt AI raises $2.35M to build a visibility and security layer for Gen AI",
-      "excerpt": "Enkrypt AI stands apart by merging threat detection, privacy, and compliance into a comprehensive toolkit ensuring business adoption of LLMs",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1709032727885-0.png",
-          "width": 800,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T03:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
-      "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
-      "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "publishedDateTime": "2024-02-28T02:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Meta AI"
       ]
     }
   ],

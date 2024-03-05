@@ -2,6 +2,333 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2023-12-12-five-considerations-when-adopting-ai-an-executives-solid-compass.md",
+      "title": "Five Considerations When Adopting AI: An Executive's SOLID Compass",
+      "excerpt": "It’s crucial to discern which innovations truly matter and how to effectively navigate them without getting lost in jargon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/629a23ed5c778bcfbcf8de3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
+      "publishedDateTime": "2023-12-12T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-elon-musk-slammed-by-his-own-ai-bot.md",
+      "title": "Elon Musk Slammed By His Own AI Bot",
+      "excerpt": "\"Well, it seems like Elon might be trying to rewrite history here,\" the AI bot started its message about Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531",
+      "originalUrl": "https://www.newsweek.com/elon-musk-slammed-own-ai-bot-1851531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2321918/elon-musk-x-logo.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T09:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-meta-unveils-audiobox-an-ai-that-clones-voices-and-generates-ambient-sounds.md",
+      "title": "Meta unveils Audiobox, an AI that clones voices and generates ambient sounds",
+      "excerpt": "Type in a sentence that you want a cloned voice to say, or a description of a sound you want to generate, and Audiobox will do the rest",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-unveils-audiobox-an-ai-that-clones-voices-and-generates-ambient-sounds/",
+      "originalUrl": "https://venturebeat.com/ai/meta-unveils-audiobox-an-ai-that-clones-voices-and-generates-ambient-sounds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_surreal_a_computer_surrounded_by_human_mouths_speaking__ec99691b-8f3f-495d-a279-7e47142b569a.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T09:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-intel-working-with-vertiv-on-liquid-cooling-for-gaudi3-ai-chip.md",
+      "title": "Intel working with Vertiv on liquid cooling for Gaudi3 AI chip",
+      "excerpt": "The Intel Gaudi3 AI accelerator will enable both liquid-cooled and air-cooled servers, supported by Vertiv pumped two-phase (P2P) cooling infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
+      "originalUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/12/Vertiv-Intel-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
+      "publishedDateTime": "2023-12-12T09:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-bayesian-health-ceo-thinks-ai-is-ready-for-prime-time.md",
+      "title": "Bayesian Health CEO thinks AI is 'ready for prime time'",
+      "excerpt": "Bayesian Health CEO Suchi Saria discussed the role regulators could play next year regarding the use of artificial intelligence in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/digital-health/bayesian-health-suchi-saria-ai-regulation",
+      "originalUrl": "https://www.modernhealthcare.com/digital-health/bayesian-health-suchi-saria-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
+      "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
+      "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "originalUrl": "https://www.indianweb2.com/2023/12/accenture-to-work-with-union-bank-of.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVgXjk2IBSptAxO-BzY3gxzDItOMiYkt9jovv-UC78ztQh-tVo4EkKI-nyXRmd1FDyVq2HCbz3JFA8B5gNICIqE8PMuRdYKJuXUm9Fd5Mm1M7viygOEm8688zZLaUFBkCie2RxSMEoNy_7K-Pw1lQ3aIc7NNRc4nMybDhh8iG1A-OXpy_ksr0YtFR2NW4/s16000/accenture-union-bank.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-cyborg-computer-with-living-brain-organoid-aces-machine-learning-tests.md",
+      "title": "Cyborg computer with living brain organoid aces machine learning tests",
+      "excerpt": "Scientists have grown a tiny brain-like organoid out of human stem cells, hooked it up to a computer, and demonstrated its potential as a kind of organic machine learning chip, showing it can quickly pick up speech recognition and math predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "originalUrl": "https://newatlas.com/computers/hybrid-brain-organoid-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/ccc7067/2147483647/strip/true/crop/1547x812+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F78%2F6d26502246189c62b43acc8416f0%2Fscreenshot-2023-12-12-at-6.00.01%20pm.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T08:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
       "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
       "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
@@ -835,327 +1162,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-how-can-ai-help-in-higher-education-and-beyond.md",
-      "title": "How can AI help in Higher Education and Beyond?",
-      "excerpt": "Arizona State University Deputy Chief Information Officer John Rome goes behind the scenes on its AI skunkworks with Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ecampusnews.com/innovation-insights/2023/12/08/asu-and-aws-build-ai/",
-      "originalUrl": "https://www.ecampusnews.com/innovation-insights/2023/12/08/asu-and-aws-build-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ecampusnews.com/files/2023/12/John-Rome-2-scaled-e1702322067164.jpg",
-          "width": 1706,
-          "height": 1220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T19:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ecampusnews.com",
-        "domain": "ecampusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-eu-agrees-tough-limits-on-police-use-of-ai-biometric-surveillance.md",
-      "title": "EU agrees tough limits on police use of AI biometric surveillance",
-      "excerpt": "Measure bans use of real-time data without judicial authorisation in nearly all circumstances and covers both public and private spaces",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/af3da4e232da8e922c2ac6de3cccd9c5d5ce8962/0_0_4519_2712/master/4519.jpg?width=620&quality=85&auto=format&fit=max&s=a911fea44ceaa9de9b3080b47adee878",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/11/eu-agrees-tough-rules-on-police-use-of-ai-biometric-surveillance-ban",
-      "publishedDateTime": "2023-12-11T19:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-top-10-quantum-computing-companies-making-change.md",
-      "title": "Top 10 Quantum Computing Companies Making Change",
-      "excerpt": "Quantum computers change the way we process information and solve problems. Here are the top quantum computing companies revolutionizing industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/technology/article/top-quantum-computing-companies/",
-      "originalUrl": "https://www.forbes.com/sites/technology/article/top-quantum-computing-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65738cd1dd9bc797083c5d2b/0x0.jpg?format=jpg&crop=959,539,x0,y28,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/technology/article/top-quantum-computing-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/technology/article/top-quantum-computing-companies/amp/",
-      "publishedDateTime": "2023-12-11T18:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-ibm-assures-ai-powered-cobol-translator-in-watsonx-will-not-replace-developers.md",
-      "title": "IBM assures AI-powered Cobol translator in Watsonx will not replace developers",
-      "excerpt": "According to IBM's Z Software VP, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently. The generative AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
-      "originalUrl": "https://www.techspot.com/news/101157-ai-based-cobol-translator-watsonx-not-replace-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-11-image-17.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T18:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-test-driving-artificial-intelligence-in-the-classroom.md",
-      "title": "Test driving artificial intelligence in the classroom",
-      "excerpt": "One business school professor is having his students use artificial intelligence for class assignments. Here & Now 's Scott Tong talks with Ethan Mollick, professor of entrepreneurship at the University of Pennsylvania's Wharton School.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
-      "originalUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip.md",
-      "title": "Nvidia Recovers From 10% Drop Amidst Intense Rivalry With AMD's Groundbreaking AI Chip",
-      "excerpt": "AMD has launched the Instinct MI300X, a groundbreaking AI chip supported by Microsoft and Meta. Analysts estimate that AMD could capture about 10% of the AI chip market. Following the announcement of the Instinct MI300X,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip",
-      "originalUrl": "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_4.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36181312",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36181312",
-      "publishedDateTime": "2023-12-11T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-fortinet-brings-ai-help-to-enterprise-security-teams-manage-threats.md",
-      "title": "Fortinet brings AI help to enterprise security teams manage threats",
-      "excerpt": "Most recently Fortinet added two high-speed, next generation firewalls designed to protect data center assets that feature support for the vendor's AI-Powered Security Services, which blend AI and machine-learning technologies to make customers aware of cyber threats and act on protecting resources much more quickly, Fortinet stated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html",
-      "originalUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/12/iStock-1415511562-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html/amp/",
-      "publishedDateTime": "2023-12-11T16:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

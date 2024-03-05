@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-pr
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
-    excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
-    publishedDateTime: 2024-02-29T17:20:00Z
-    webUrl: "https://www.inc.com/kit-eaton/adobes-music-tool-fills-major-gap-in-ai-content-generating-circle.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/adobe-ai-music_537978_z5g6mt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Redefining Content Storage: How AI is Meeting the Demand for High-Quality, Personalized Content"
     excerpt: "Many media assets lack appropriate metadata tagging, posing significant challenges for M&E companies aiming to repurpose and monetize their content"
     publishedDateTime: 2024-03-05T14:36:00Z
@@ -140,6 +126,6 @@ related:
         height: 765
         isCached: true
 
-secured: "v5v6aXK+N8YtyWhsuGn/eyYOOjZer3D3QBmv6ZeBWrDcXmaYAS1XoXqkOpbv5BkNyoWhA32idMVS5xkxB6PX3P1HFISL21fZU+FJDUZDt98B3AFSjvEwHu8tJhgJpaVCT+aajg+qn7JZJ1osyXxz4jafASlv/BzHt4bpNT1r73SUz9+M4Qv1FmTVGN+GKTUNEydKGB5SZRUbFvp6EC3WqP2O/C0drMqOJdNsb+DL3rIFz64d8T/BFQoVFu9KYE3v183JuLWasGvJ3BsyzH4L2vMrMKLNqyfJ0MbgSPYVNQU8KoDkdGS6wsljlTCeqNMFme23atDYmZ279BRpivVv/bI3C1N9cNMO9L6bz8Ea438=;VKpiuX/Q0O3OyRKo8X5NFQ=="
+secured: "pfAtqfRw1RNG+qbFByOW5IpyQ+XPcfT1r/wqANipSWYX6K96LBBg8TrKWw5CFPL4P9kD8eOIyTBEYXZ4/7VYz+cRzxO719KCrnOVncWQR4gAh/7IZJoCoaPG6AYCq5voXZ6HbCtLh0Hx1+yU9i1Ch8Tld7hZaTskHoe777huwSBjQGGzR9lUR4a0nJZhexD8hjjz5AwvGs1GrQ8wZlSOwQiUoLALGc5s7OzmIRju2NqGESQD8r8K2WlWePqKOnFZKWSQwx9RDzPkjgYmkC5OdBmTFkXZGxq6FFLbMzmIlHUfcLxyDxxaS6WdEEjKcTnJIFyv4siYKQ8IWmjsq/q8x59UGJyNgOevrih023X+qgU=;U/OitCTO9a5e8G0xwBunVQ=="
 ---
 

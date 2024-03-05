@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "SEC sues ex-CEO AI startup for fraud"
+    excerpt: "Paul Pereira denies making false and misleading statements about the company's performance to boost its stock."
+    publishedDateTime: 2024-02-29T19:30:00Z
+    webUrl: "https://www.accountingtoday.com/news/sec-sues-ex-ceo-ai-startup-alfi-for-fraud"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
+
 secured: "tbYuZ2sg2lZ5NiVMOxg5gZrb8RIilKlWbS9n3H4QMtsULSKyuVbDNq9FDznwbFWT4Ubp3JvLVpOe8WjjFNpbXKhYEe0p5DpxKKDZlmYBYW1sf4zYMugOUn56ktW3gzFC7QxIWLjmEyr1qidgKronx8yU21vG62gQVxofqPJT3BBJeyZn+AJiDyA8vHV82EbXjNgayCHq0bDyDpoz3R1/JPGe4vEj+Wxf3zqJlEn09Tyr+ahH/bERQYg4uPu/cKiuskneA3xEShJiOewFIzXBpePpxY/E7XtTSRWmhPqCMNjyrqgetcjiutcy6IWXOjFXXqAT5A9wm0nhLAu2aWl59dr4ubmfTxmlGotNG9D63MF7EUf8cxcZWM/xLhJRi1c6z4bbtZSO66Fpz8ehfA3cYrJDGpFVUMtnAy+4GkMvjG2E3EdCsPnPLmoSStdM1AieHvryqqLM7/ZcTm8HJOY9fUmQO5ruZZ8g7V3ARr9CsMJgCSV5uJWynqv5ztdTMm98ScjQWMqMGieICLm6vIuekw==;/d21L0kqB0AQuBnK+X9Acg=="
 ---
 

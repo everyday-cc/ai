@@ -7,7 +7,7 @@ originalUrl: "https://www.afaqs.com/companies/amar-ujala-introduces-ai-anchor-sr
 webUrl: "https://www.afaqs.com/companies/amar-ujala-introduces-ai-anchor-srishti-revolutionising-journalism-with-tech"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Free childcare and an AI revolution: Spring Budget business demands"
+    excerpt: "“Government support for early-stage and scaling AI startups, which have historically led the charge ... and collaboration between the government and fintech companies can drive growth. This includes support for digital banking infrastructure ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://startups.co.uk/news/spring-budget-business-demands/"
+    type: article
+    provider:
+      name: Startups
+      domain: startups.co.uk
+    quality: 39
+    images:
+      - url: "https://images.startups.co.uk/wp-content/uploads/2024/03/Spring-Budget-Business-Asks.jpg"
+        width: 1920
+        height: 1250
+        isCached: true
 
 secured: "5pSUwg8hfRNhlg7isjoq5RCgFI0YkipCMsOgk17gBPSQ0fi+CQrdpjp4jYyzAtFJruJsEJOm/DPQPiSBsoRjuhkTYJP/RnWLQ8XGmK5iJXyjAimK0kU/frddRtWkmlvvX4psIFR+ZmR6iskCmfMns+J1CoV93njAr32WARQehjiEp+LBQ2v4sy4Zn8PxBOa9jfb82mc+V1+PhnDK8knLh+zox7evhuK3r9uuLTXceNnr/JvuuZA9L7yDY06cwqtj5ShvfRJonwgxb096VEd/0Fsjgh2Rm35D9e7RTZbJP5K7F4qay133I5hQFlwOIXS86mQAKbsJ5SdjMmD+94ZvH0Yn8zuWmiWrH7IFgMY1Ghs=;qoVWZFyVoqR99ZdpV8KMIA=="
 ---

@@ -46,6 +46,57 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-5-ways-leaders-can-win-hearts-and-minds-and-drive-resultswith-ai.md",
+      "title": "5 Ways Leaders Can Win Hearts And Minds, And Drive Results—With AI",
+      "excerpt": "Imagine a technology tool that helps you understand your team better and personalize interactions for maximum impact. Welcome to the world of AI-powered people leadership",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3af767f50d19ebe29fa28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
+      "publishedDateTime": "2024-03-05T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-a-practical-guide-for-using-generative-ai-in-account-based-marketing.md",
       "title": "A Practical Guide For Using Generative AI In Account-Based Marketing",
       "excerpt": "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results.",
@@ -54,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -106,7 +157,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -145,7 +196,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -249,6 +301,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
+      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
+      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "publishedDateTime": "2024-03-05T13:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando",
+        "domain": "orlandomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -500,7 +596,7 @@
       "originalUrl": "https://tech.hindustantimes.com/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -939,7 +1035,7 @@
       "originalUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "",
@@ -1125,102 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
-      "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
-      "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg",
-          "width": 450,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-how-to-become-an-ai-enterprise.md",
-      "title": "How to become an AI+ enterprise",
-      "excerpt": "An AI+ enterprise innovates with AI as the primary focus, understanding that AI is fundamental to the entire business.\nThe post How to become an AI+ enterprise appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T17:05:57Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

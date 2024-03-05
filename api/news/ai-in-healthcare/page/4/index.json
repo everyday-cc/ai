@@ -2,6 +2,230 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-19-who-weighs-up-ai-risks-and-benefits-for-health-care.md",
+      "title": "WHO weighs up AI risks and benefits for health care",
+      "excerpt": "Generative artificial intelligence could transform health care through things like drug development and quicker diagnoses, but the World Health Organization warned Thursday of the potential pitfalls in rushing to embrace AI.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/healthcare-assistant-r.jpg",
+          "width": 1280,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp",
+      "publishedDateTime": "2024-01-18T16:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-the-role-of-ai-in-healthcare.md",
+      "title": "The Role Of AI In Healthcare",
+      "excerpt": "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
+      "publishedDateTime": "2024-01-18T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-conversion-therapy-ban-raises-justified-fears.md",
+      "title": "Conversion therapy ban raises justified fears",
+      "excerpt": "We are entitled to know then just what has occurred in the life of the nation that’s compelled the Scottish Government to make these",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr",
+      "originalUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T13:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures.md",
+      "title": "Here’s How The FTC Might Lower The Boom On Those Emerging Generative AI Mental Health Therapy Chatbots That Are Promising Miracle Cures",
+      "excerpt": "As generative AI mental health chatbots proliferate, one means of at least coping with their outsized claims rests at the feet of the Federal Trade Commission (FTC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a61506e8805fa8a361a8d8/0x0.jpg?format=jpg&crop=2674,1976,x1166,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1218,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
+      "publishedDateTime": "2024-01-16T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-healthcare-in-the-age-of-ai-how-will-artificial-intelligence-impact-future-decision-making.md",
+      "title": "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?",
+      "excerpt": "Artificial intelligence (AI ... step towards generating human-like text from simple prompts. In the healthcare sector, AI’s advancement has begun to impact prescribing, particularly in ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
+      "originalUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/2024-01/How-will-artificial-intelligence-impact-future-decision-making-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-check-it-out-read-up-on-artificial-intelligence.md",
       "title": "Check It Out: Read up on artificial intelligence",
       "excerpt": "Stories about artificial intelligence have been all over the news. On one hand, it sounds amazing. AI is already being used in medicine to help with diagnosing patients, transcribing medical documents",
@@ -1071,251 +1295,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-therapy-in-an-age-of-technological-abundance.md",
-      "title": "Therapy in an Age of Technological Abundance",
-      "excerpt": "but something between these suggests that unlimited therapy will be somewhat more complex in its deliverances. As I noted at the outset, this entire discussion presupposes a certain amount of optimism about technology, particularly artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-michelangelo-buonarroti-8728382.jpg?itok=2s9ik4YK",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp",
-      "publishedDateTime": "2023-12-23T19:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-therapy-llamas-patrol-portland-airport-to-relieve-passenger-stress.md",
-      "title": "Therapy llamas patrol Portland airport to relieve passenger stress",
-      "excerpt": "“Oh my god, I so need a therapy llama,” she says with relief. “I am so happy right now.” Gregory said llamas are often misunderstood. Contrary to animals-behaving-badly videos, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/travel/2023/12/22/therapy-llamas-portland-airport/",
-      "originalUrl": "https://www.washingtonpost.com/travel/2023/12/22/therapy-llamas-portland-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGCB34EJ6AOXRGQBGUC4NFPLSA.jpg&w=1440",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T22:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-health-care-climbs-amid-deal-activity-health-care-roundup.md",
-      "title": "Health Care Climbs Amid Deal Activity -- Health Care Roundup",
-      "excerpt": "The deal followed similar moves from AbbVie and Investors have shied away from the health-care sector in 2023 as a rebound in risk appetite has lured dollars towards the artificial-intelligence niches of the tech industry group and away from the safer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
-      "publishedDateTime": "2023-12-22T21:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-ai-is-helping-the-healthcare-industry-and-could-transform-the-way-patients-get-drugs-and-treatments.md",
-      "title": "AI is helping the healthcare industry and could transform the way patients get drugs and treatments",
-      "excerpt": "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
-      "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
-      "publishedDateTime": "2023-12-22T20:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies.md",
-      "title": "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies",
-      "excerpt": "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg",
-          "width": 760,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "publishedDateTime": "2023-12-22T11:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

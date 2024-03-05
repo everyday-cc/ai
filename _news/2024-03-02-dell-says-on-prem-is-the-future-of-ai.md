@@ -41,6 +41,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Airship AI’s stock rockets upon DOJ contract, as shares of other AI plays slip"
+    excerpt: "The technology sector is moving lower Tuesday — but one small name stands out in a big way in a sea of mostly red."
+    publishedDateTime: 2024-03-05T17:23:00Z
+    webUrl: "https://www.marketwatch.com/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://images.mktw.net/im-496944/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Here Come the AI Worms"
     excerpt: "Security researchers created an AI worm in a test environment that can automatically spread between generative AI agents—potentially stealing data and sending spam emails along the way."
     publishedDateTime: 2024-03-01T08:59:00Z
@@ -68,6 +84,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1271
         height: 847
+        isCached: true
+  - title: "The Impact of Artificial Intelligence on Our Encounters"
+    excerpt: "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ..."
+    publishedDateTime: 2024-03-05T16:22:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6"
+        width: 1528
+        height: 800
         isCached: true
   - title: "As AI agents spread, so do the risks, scholars say"
     excerpt: "Also: The safety of OpenAI's GPT-4 gets lost in translation Once the mechanics ... Also: What to know about Mistral AI: The company behind the latest GPT-4 rival \"These MLLM [multi-modal large language model] agents are being integrated into robots or ..."

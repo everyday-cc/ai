@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-01-the-economy-and-ethics-of-ai-training-data.md",
+      "title": "The economy and ethics of AI training data",
+      "excerpt": "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/",
+      "originalUrl": "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2024/01/GettyImages-1383963898.jpg?fit=2880%2C1620&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T22:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-moxie-ai-robot-founder-highlights-armenias-potential-for-advancement-in-artificial-intelligence-and-robotics.md",
       "title": "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics",
       "excerpt": "believes that there is significant potential for the development of robotics and artificial intelligence in Armenia. According to him, while many countries possess oil, gas, and gold resources, Armenia's most valuable resource lies in its intellectual ...",
@@ -1319,49 +1363,6 @@
         "AI",
         "Microsoft AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-love-machina-review-provocative-but-unfocused-doc-tackles-romance-and-robotics.md",
-      "title": "‘Love Machina’ Review: Provocative but Unfocused Doc Tackles Romance and Robotics",
-      "excerpt": "One of the great pleasures of reviewing documentaries, though, is that every few months a new film will pull back the curtain on the latest advancement in artificial intelligence or consciousness-infused robotics. Fairly consistently, the answer is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
-      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/LoveMachina-Still1-copy.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
-      "publishedDateTime": "2024-01-20T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

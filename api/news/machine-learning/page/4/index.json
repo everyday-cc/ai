@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
+      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
+      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-implement-artificial-neural-network-hardware-systems-by-stacking-them-like-neuron-synapse-neuron-structural-blocks.md",
+      "title": "Implement artificial neural network hardware systems by stacking them like \"neuron-synapse-neuron\" structural blocks",
+      "excerpt": "(a) Schematic diagram of a biological neural network and (b) circuit schematic of an artificial neural network implemented in hardware using an artificial neuromorphic device. (c) Experimental ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1031809",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1031809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5eced74f-b92d-4c3e-bcb6-9b92668e1979/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T05:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-artificial-neural-network-hardware-based-on-stacked-neuron-synapse-neuron-structural-blocks.md",
       "title": "Artificial neural network hardware based on stacked neuron-synapse-neuron structural blocks",
       "excerpt": "In order for large-scale artificial neural network hardware to become practical in the future, it is essential to integrate artificial neuron and synaptic devices, and it is necessary to reduce mass production costs and energy usage by fabricating devices ...",
@@ -1145,84 +1241,6 @@
       "provider": {
         "name": "Nanowerk",
         "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-top-10-best-machine-learning-software-in-2024.md",
-      "title": "Top 10 Best Machine Learning Software in 2024",
-      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Machine-Learning-Software.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease.md",
-      "title": "Universal Deep Learning Models for the Early Prediction of Alzheimer’s Disease",
-      "excerpt": "Researchers from the University of Massachusetts Amherst have received a two-year NIH grant for $278,118 to develop new deep-learning models for the early prediction of Alzheimer’s using clinical data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
-      "originalUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T20:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
         "images": null,
         "publishers": null,
         "authors": null

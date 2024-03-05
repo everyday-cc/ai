@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-19-anomaly-detection-in-machine-learning-finding-outliers-for-optimization-of-business-functions.md",
+      "title": "Anomaly detection in machine learning: Finding outliers for optimization of business functions",
+      "excerpt": "Powered by AI, machine learning techniques are leveraged to detect anomalous behavior through three different detection methods.\nThe post Anomaly detection in machine learning: Finding outliers for optimization of business functions appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/anomaly-detection-machine-learning/",
+      "originalUrl": "https://www.ibm.com/blog/anomaly-detection-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-the-oil-for-a-successful-ai-machine-organized-trusted-data.md",
+      "title": "The Oil For A Successful AI Machine: Organized, Trusted Data",
+      "excerpt": "There's a fundamental truth that underpins AI and ML’s effectiveness: you need organized, high-quality data to train them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/629e70857c112c2759b62128/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/amp/",
+      "publishedDateTime": "2023-12-19T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts.md",
       "title": "Artificial intelligence can find your location in photos, worrying privacy experts",
       "excerpt": "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy.",
@@ -1225,101 +1320,6 @@
         "name": "insideHPC",
         "domain": "insidehpc.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-training-algorithm-breaks-barriers-to-deep-physical-neural-networks.md",
-      "title": "Training algorithm breaks barriers to deep physical neural networks",
-      "excerpt": "Mar. 22, 2021 — Researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-is-machine-learning-random-and-why-should-you-care.md",
-      "title": "Is Machine Learning Random? And Why Should You Care?",
-      "excerpt": "Let's start with a common problem that people have, especially when they are just starting out with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6570cd8f70a0ecad420089d5/0x0.jpg?format=jpg&crop=1601,900,x0,y183,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "publishedDateTime": "2023-12-06T19:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,291 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2024-01-18-2031-ldquoslam-robots-market-sizerdquo-characteristics-and-specifications.md",
+      "title": "2031 &Ldquo;SLAM Robots Market Size&Rdquo; | Characteristics And Specifications",
+      "excerpt": "This is because most of the currently demanded services were originally offered with the cost of human labor in mind ... multiple robots at the same time. Thanks to modern communication technologies, the robotsâ performance can be controlled remotely.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107735966/2031-LdquoSLAM-Robots-Market-SizeRdquo-Characteristics-And-Specifications",
+      "originalUrl": "https://menafn.com/1107735966/2031-LdquoSLAM-Robots-Market-SizeRdquo-Characteristics-And-Specifications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-8-best-ai-data-analytics-software-tools-of-2024.md",
+      "title": "8 Best AI Data Analytics Software & Tools of 2024",
+      "excerpt": "Learn More. Artificial intelligence (AI) data analytics software utilizes machine learning algorithms, natural language processing, and other AI technologies to extract insights, find patterns, and make predictions from large datasets. These tools use AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-artificial-intelligence-ai-in-fintech-market-2024-global-share-analysis-strategic-stakeholder-insights.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market 2024 Global Share Analysis: Strategic Stakeholder Insights",
+      "excerpt": "The Global Artificial Intelligence (AI) in Fintech market is poised for significant growth between 2023 and 2031, with a positive outlook for 2023 and beyond. As key players in the industry adopt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-fintech-market-1593460437.html",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-fintech-market-1593460437.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-artificial-intelligence-ai-market-insights-and-forecast-to-2031-alphabet-nvidia-blue-frog-robotics-131-pages-report.md",
+      "title": "Artificial Intelligence (AI) Market Insights and Forecast to 2031 | Alphabet, Nvidia, Blue Frog Robotics | 131 Pages Report",
+      "excerpt": "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. North America, especially The United ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-best-python-libraries-for-natural-language-processing-in-2024.md",
+      "title": "Best Python Libraries for Natural Language Processing in 2024",
+      "excerpt": "Python is a popular programming language in the field of Natural Language Processing (NLP). It offers various libraries that make it easier to process human language and perform complex tasks such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "originalUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/guides/wp-content/uploads/2024/01/Best-Python-Libraries-for-Natural-Language-Processing-.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-plant-phenotyping-deep-learning-and-3d-point-cloud-technology-in-overcoming-reconstruction-challenges.md",
+      "title": "Plant phenotyping: Deep learning and 3D point cloud technology in overcoming reconstruction challenges",
+      "excerpt": "Recently, integrating deep learning with point cloud analysis and innovative techniques like Reinforcement Learning Agent Controlled GAN Network and multi-scale geometry-aware Transformer networks show promise in addressing these challenges by enhancing ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
+      "originalUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/revolutionizing-plant.jpg",
+          "width": 1280,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-pope-francis-ai-ethics-expert-is-a-franciscan-friar.md",
+      "title": "Pope Francis' AI ethics expert is a Franciscan friar",
+      "excerpt": "Friar Paolo Benanti wears the plain brown robes of his medieval Franciscan order as he pursues one of the most pressing issues of contemporary times: how to govern artificial intelligence so that it enriches, not exploits, lives. The friar's the go-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/nation-world/pope-francis-ai-ethics-expert-is-a-franciscan-friar/video_fe7330e5-71e0-571b-b7e9-2d29d421dc5e.html",
+      "originalUrl": "https://omaha.com/news/nation-world/pope-francis-ai-ethics-expert-is-a-franciscan-friar/video_fe7330e5-71e0-571b-b7e9-2d29d421dc5e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/e7/fe7330e5-71e0-571b-b7e9-2d29d421dc5e/65adbfe1ba6e4.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-top-10-best-python-libraries-for-machine-learning-in-2024.md",
       "title": "Top 10 Best Python Libraries for Machine Learning in 2024",
       "excerpt": "AutoML is an open-source library that automates the process of selecting the best machine learning algorithm and hyperparameters for a given dataset. It is designed to be easy to use and can be ...",
@@ -856,307 +1141,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-how-deep-tech-can-transform-surgery.md",
-      "title": "How Deep Tech Can Transform Surgery",
-      "excerpt": "Developing and implementing deep tech solutions, like surgical robotics, into the healthcare ecosystem can launch surgical care to new heights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-chatbot-examples-a-beginners-guide.md",
-      "title": "Chatbot examples: A beginner’s guide ",
-      "excerpt": "Chatbots have become the go-to method for organizations to provide around-the-clock customer service—learn the best ways to use them.\nThe post Chatbot examples: A beginner’s guide  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
-      "originalUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up.md",
-      "title": "How one IBMer is creating a more sustainable future for the island where he grew up",
-      "excerpt": "Takahito Motonaga is one IBMer making a difference in the community where he grew up: Miyakojima City, Okinawa, Japan.\nThe post How one IBMer is creating a more sustainable future for the island where he grew up appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "originalUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
-      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
-      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T10:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-artificial-intelligence-and-machine-learning-news.md",
-      "title": "Artificial Intelligence and Machine Learning: News",
-      "excerpt": "Find Latest News, Videos and Pictures about Artificial Intelligence and Machine Learning. Explore latest updates, news, information from NewsBytes. All about Artificial Intelligence and Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
-      "originalUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T09:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsbytesapp.com",
-        "domain": "newsbytesapp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-byd-showcased-the-intelligence-advancement-at-dream-day-2024.md",
-      "title": "BYD Showcased the Intelligence Advancement at Dream Day 2024",
-      "excerpt": "XUANJI Architecture empowered by AI debuted, marking a transformative leap in merging electrification with intelligence. BYD announced its plan to construct the world's first professional all-terrain test driving ... with the self-developed XUANJI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T07:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-elon-musk-is-uncomfortable-growing-tesla-to-be-a-leader-in-ai-and-robotics-without-this-1-key-development-happening.md",
-      "title": "Elon Musk Is \"Uncomfortable Growing Tesla to Be a Leader in AI and Robotics\" Without This 1 Key Development Happening",
-      "excerpt": "Elon Musk wants to obtain roughly 25% voting control of Tesla. If he doesn't get his way, he stated that he wants to build more AI and robotics products \"outside of Tesla.\" Musk made his demand to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/761471/tesla-service-center-with-two-associates-at-desk-with-tesla-logo.png",
-          "width": 2000,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T05:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

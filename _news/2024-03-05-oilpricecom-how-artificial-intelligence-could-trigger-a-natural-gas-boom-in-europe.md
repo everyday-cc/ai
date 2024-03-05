@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg"
         width: 450
@@ -49,6 +49,15 @@ related:
         width: 718
         height: 300
         isCached: true
+  - title: "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
+    excerpt: "AWS's collaborations with these energy giants demonstrate ... A significant part of this optimistic outlook is attributed to the advent of Artificial Intelligence (AI) as a new catalyst, poised to bolster the company's growth trajectory in the coming ..."
+    publishedDateTime: 2024-03-05T18:53:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ENB-T/pressreleases/24553601/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
 
 secured: "ApYaugVbxYUGlrEeKCwpfAE0gUWavyxKHVO1RXwgYpgU5bN881DsgXb6j50hUlKnsRLSe08ijmHACIw5CLPiMCOjlPZyl9PNGuvsvVYJJl5NbDFgkMV+OuphSAPQ3o0SDTVi0xX8Jh5iFPAdOpoDl5jcoRD6jIsI3UzPz8WpWJcY2vxpaMk6l1qfyHrjeeXiG8St99SDX3jUGsgBsfUFQVnqF9ZAKVs1U39XSNCqq7EbFubY2TL/mwDRjgJXZYscfUrenEb40Q0/1gdbzr4aL8OYu4cMDQP+zAat2TT7+hDOAL9eJsTHoDsHbgX4H5Vvm0++uIBvyr7obWaj36+MczTqS2QXZ5WLsStZSTe7sq0=;hIQOWwWi/YHqu428tIz+Qg=="
 ---

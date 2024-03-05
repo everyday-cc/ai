@@ -24,6 +24,22 @@ images:
     height: 465
     isCached: true
 
+related:
+  - title: "Qualcomm CEO touts company's generative AI opportunity during annual shareholder meeting"
+    excerpt: "Qualcomm (QCOM) CEO Cristiano Amon took the virtual stage during his company’s annual shareholder’s meeting on Tuesday to tout the chip giant’s AI efforts. Qualcomm’s processors are found in millions of Android-powered smartphones around the world ..."
+    publishedDateTime: 2024-03-05T12:25:00Z
+    webUrl: "https://www.aol.com/finance/qualcomm-ceo-touts-companys-generative-172529020.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 30
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7v2KkmOzHmfB4O7KuyDh2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/c58403a3d3d3e9014e57ce0fe0d53f6c"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "qw13sP0bs8FEJ66fvSAY6bEklwqrlB89YfeO+wmtf/AKrBOPtjhpBiUhVVuPa3ohLRZClF7lxucJR62YYF7RUEKTYTUlWmGenMPB+2zcA7fIkBmnHVhj1hMDlVzNmNXC1TuqMOr18GWmfVsNBGLRNQim8jFnAzcAssfKlwDFLa5O8G58GGJL0t+Y+q09fX7svLL9vpVvUEhWjXUpWTsY04RYjeUOJJ3NpAynmsk3ZX/x3Pbz0Rfys3H3DtWg0cryjOWlvaBzhpX+HUnyUWVtflXjOFs0RiB3X0wEjDq6o1fgdILZ4eaGi4Elgx717qHrTsutXcWcYZ1AYCkCdCOZWe1pwO6Peuav1bG4Ha8AVyR+AKVajvrLzVbhzSQmZO6GL+uT6sv37I4K7qV7IkZ7vbyUTev68I82ywmFddnKH/4FQmI++nEJwpBAlkSBCbgtYVbxg2zEhdSryQaEo9AQw7CE1OP8aTUS4XuYQhc4eDuZZt8Qctl6+AY5YzWt/bCtaplc1HqikEytKbrJo9ojRQ==;69K7T8vArkY/estQdJWUvw=="
 ---
 

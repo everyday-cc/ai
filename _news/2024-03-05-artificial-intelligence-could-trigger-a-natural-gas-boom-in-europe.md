@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-04T19:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574"
 webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574"
 type: article
-quality: 71
-heat: 91
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - IBM AI
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg"
@@ -46,6 +47,15 @@ related:
         width: 718
         height: 300
         isCached: true
+  - title: "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
+    excerpt: "AWS's collaborations with these energy giants demonstrate ... A significant part of this optimistic outlook is attributed to the advent of Artificial Intelligence (AI) as a new catalyst, poised to bolster the company's growth trajectory in the coming ..."
+    publishedDateTime: 2024-03-05T18:53:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ENB-T/pressreleases/24553601/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
   - title: "Oilprice.com: How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
     excerpt: "FN Media Group Presents Oilprice.com Market Commentary LONDON, March 5, 2024 /PRNewswire/ -- When the use of seismic surveys became commonplace, Oil and gas drillers used to drill only"
     publishedDateTime: 2024-03-05T13:21:00Z
@@ -56,6 +66,6 @@ related:
       domain: finanznachrichten.de
     quality: 12
 
-secured: "NK+aAUK2lbm7g6gV/LSwQwbcwqGNtN+MYcp85dpo+GQsc3oJF0gY0HgRHyw8SswRKTQ14uFG4wo9uyuVqdfY1IREK8kqUmwzqz3oIwHYLJ3L1oYX/BSc3Dq2jyH+VdAGwrsq1Pj4L/OKK7Oq4wJ2QfXtoZ1XBO/G2zWn8o5sB32ZUKT8uIiLih/8UZIPOuHtLblSH9d0hHit2upMo8lpaX5EpkaJtV9M1bzCX3YglBX7JW7bUN5RgAGjTmLGPWopB24zzEJKerTbP+uHYUR8AnU6n0T7xSwOkk/gZEbCPo8TylEb86UUeY4edvX7E1kST0PTMIsuangxOwWzn6o1zeQ3iSCk1HFJRp+Tyr8ewwc=;v0K5NvztJXwVXi4/XHgKCg=="
+secured: "xGeGlJ1rZKAdfgszOB9DtXu0nWVv/MYWvG0EqTD+Nny5QofTvfprZdFcOim+P46ojMvFQ3ZXshOAvuTN1NTL3+Lk2rDQsFzeT5vtS6GER7yXvfenuWC1sw/wPGfcudMaor3WbHMl5IcaRptseyTWeqUGsT39LPVJd7gHWWMEt+XANVr7RgUYkg/Imx0BcxtOS4G6ClHJdywFcQB0NH1siDQ2lNfsPLa7QlXXl4IjCZvDDrxJO4SX6hrfQHGU9Boeb90+WXcri/DLLX7u3+gUOegJCbVtxbjMRD+O+I2jsXT1O15JtXDo7tRtoT2jXMQBcvofBHS6IAXAUlqDZhTfckvjgs/8GOvFribNWBzX3LylZGb+zbb1VNJON4+bFA//KHodzAxA+M3AILFDeEc0YcQ0i+R/Z6QTj+MsldzyddSyxVO5j7RV4YEuGXcOgmXGK40cVdPap/PuQUnmjtOU2HJpAswkVTGCPM9WQa+DvanvGWsQctI1pTQbjopCf38x9oLVYsqoYlrq0awwSzfdow==;c/a/pKmh++EjukCc6vxprQ=="
 ---
 

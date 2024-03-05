@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-05T16:45:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/274146956/revolutionizing-industries-the-pervasive-impact-of-artificial-intelligence-applications"
 webUrl: "https://www.bignewsnetwork.com/news/274146956/revolutionizing-industries-the-pervasive-impact-of-artificial-intelligence-applications"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://cdn.bignewsnetwork.com/cus1709350515787.jpg"
