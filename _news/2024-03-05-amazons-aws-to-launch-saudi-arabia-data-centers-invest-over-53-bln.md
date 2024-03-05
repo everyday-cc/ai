@@ -129,6 +129,15 @@ related:
       name: developingtelecoms.com
       domain: developingtelecoms.com
     quality: 19
+  - title: "AWS to invest $5.3 to build data centers in Saudi Arabia to bolster tech in the region"
+    excerpt: "The plan supports Saudi Arabia’s aim to become a Middle East tech hub ahead of the World Expo 2030 and includes training programs aimed at developing local cloud talent."
+    publishedDateTime: 2024-03-05T20:09:00Z
+    webUrl: "https://www.cio.com/article/1311730/aws-to-invest-5-3-to-build-data-centers-in-saudi-arabia-to-bolster-tech-in-the-region.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 11
 
 secured: "zHsZhFcDyF+8gkg0j0fiT3A5S0Mzn725BGoULs0IBZduE2TdOR8iup/I8tkPcuaeybki56rp6Du2pruWey40g7nYXvmIntGI9pGdiegwr5Nfr2GwmE45CCR7sSS6ip6tuKN8mpC64O3crKpdYzQCx4EgnhWFM7ZBY9xD8fHoAXrlkCYNAti7plY13I0WgCBcIBR9XOGenecEpi4GYfAoKLf42YAWyOO1BwiRWgFa0p/8R6KDSYFK1ywIOZLQrGnPU/plQKXdVewVPGfaTuEarHAcPAYMwOK/aakD6I7F0KDLuJdUsvo4PFcvfbcAps7sBLybEXMDtdYpwtXYVsVH/bO7idFCUe3ZQ8DoiCCgOFvd2dsjB8zPTqHS6jZgwBAc8XURX6MLhuY0mpl61R15Uw2CiSbE8FjCxSTQzsQZuPbC73i1iqfo8mynk8jnx6bMiT87bxDsyq5245bCTg+A3T52adB0K4nY4gd8LWdmjkJbJV05iJ1XalaJp86CQ2Tj+yCSe6dBpjCLss3YbAWgow==;+E4fK4SxF5LD9wJA1W97VA=="
 ---

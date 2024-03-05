@@ -128,6 +128,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 19
+  - title: "AWS to invest $5.3 to build data centers in Saudi Arabia to bolster tech in the region"
+    excerpt: "The plan supports Saudi Arabia’s aim to become a Middle East tech hub ahead of the World Expo 2030 and includes training programs aimed at developing local cloud talent."
+    publishedDateTime: 2024-03-05T20:09:00Z
+    webUrl: "https://www.cio.com/article/1311730/aws-to-invest-5-3-to-build-data-centers-in-saudi-arabia-to-bolster-tech-in-the-region.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 11
 
 secured: "XxuRK4w1efcnA5WuqwOUEHTV07+TY+qpCex4VK1OY52hKn7djgZNUaYzEcpjW8cBaxxQ2M8YSt3dLCv3/pKsase0ydcGs6rx9X/ouSnz8rQx9yLTwiYSekMBYAkaoPtnyNn6cJ0rKvcS0pMZWyJNd7x1Yui6V27ahPbua9QvIUo4m6XctlvWCD24mwKYZ5ZrLGbNk89J6L4ARpQlqnPeWLlf4A6Hg3gjwlO9P8nCiYfkuBtojjFqlUGR7jdZJGhn2d7L8YwnRJPyFxvE7eZKSAdKUv/ZMVVtTk6xgH7lgPzDWK6rIiYqHKVc1m1vx/39y5A+8j56Q9AtCFC/aA+DdA6LrsxBGg8UAEZ9LHCOcEPmnZlLYlw4wXWKMblSwvn96FI4VRb7CtEpsKVSEo420XITqosZ2h0ok2aOcvk0MjFu06ou2pCXif6dDn5cnvzZZihAgmEaejerpE5AxCQ8OxKhUz372U58TNwuUBlE+TKuzbqTB25aqAJqQwKlwcg0rZC7f4YTYKOREaTMnEUO6w==;nvNIf3RanR7wWo9Vezrexg=="
 ---

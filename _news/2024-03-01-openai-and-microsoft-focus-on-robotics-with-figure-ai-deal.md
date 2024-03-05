@@ -26,67 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker"
-    excerpt: "OpenAI is joining Microsoft, Nvidia, and Jeff Bezos in investing in Figure, a company that's developing human-like robots to rival Tesla's Optimus project."
-    publishedDateTime: 2024-02-29T21:33:00Z
-    webUrl: "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker"
+  - title: "Microsoft’s new Orca-Math AI outperforms models 10x larger"
+    excerpt: "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ..."
+    publishedDateTime: 2024-03-05T10:53:00Z
+    webUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 116
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
     images:
-      - url: "https://i.pcmag.com/imagery/articles/01FnhSXxnrPPY6kLTdhKZHF-1.fit_lim.size_1200x630.v1709238414.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
-    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
-    publishedDateTime: 2024-02-29T23:14:00Z
-    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 85
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T14:57:00Z
-    webUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 81
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
-    excerpt: "Sunnyvale-based Figure is less than two years old and doesn’t yet have a commercial product but aims to ship billions of human-like robots to the world’s workplaces and homes."
-    publishedDateTime: 2024-03-01T21:38:00Z
-    webUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 81
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all"
+        width: 749
+        height: 420
         isCached: true
   - title: "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links"
     excerpt: "Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015. The lawsuit - which has also been filed against OpenAI boss Sam Altman - says the firm has departed from its original non-profit, open source mission."
@@ -97,152 +49,135 @@ related:
       name: BBC
       domain: bbc.com
     quality: 79
-  - title: "$675 Million For Humanoid ChatGPT Robot, Ideogram Gen AI Raises $80 Million"
-    excerpt: "Ideogram Text-to-Image Midjourney competitor Raises $80 M. This values the company well north of $1 Billion. Andressen Horowitz led the round. Ideogram 1.0 has an amazingly effective feature called Magic Prompt, which created the image above."
-    publishedDateTime: 2024-03-01T18:27:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/"
+  - title: "New Microsoft-Backed Startup Wants to Make AI Work As Intended"
+    excerpt: "Big companies like OpenAI and Alphabet Inc.'s Google are increasingly directing workers, money and computing power toward the problem. And Anthropic, an OpenAI competitor, has put it at the heart of its development of Claude, a product it bills as a safer kind of AI chatbot."
+    publishedDateTime: 2024-03-01T01:38:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-  - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
-    excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
-    publishedDateTime: 2024-03-05T11:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/articleshow/108238137.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 67
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 74
     images:
-      - url: "https://static.toiimg.com/thumb/msid-108238104,width-1280,height-720,resizemode-4/108238104.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.hindustantimes.com/tech/img/2024/03/01/1600x900/technology-5254039_1280_1708614115364_1709256923936.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "NVIDIA and Microsoft-backed humanoid robot maker signs with OpenAI to make robot brains"
-    excerpt: "A humanoid robot manufacturer has announced it's closed a deal with ChatGPT-maker OpenAI to put its technology inside human-like robots."
-    publishedDateTime: 2024-03-01T08:01:00Z
-    webUrl: "https://www.tweaktown.com/news/96574/nvidia-and-microsoft-backed-humanoid-robot-maker-signs-with-openai-to-make-brains/index.html"
+  - title: "Microsoft unveils new AI tools for Windows 11"
+    excerpt: "The deeper integration of Copilot and other AI capabilities into Windows is a key part of Microsoft ... \"As businesses become more [familiar] with what it does, [Microsoft will] start bringing more to the table.” Matthew Finnegan covers Microsoft ..."
+    publishedDateTime: 2024-03-01T16:34:00Z
+    webUrl: "https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.amp.html"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/03/win24_c2refresh_copilot_hero_3x2-1024x683-copy-100961603-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Apple's Launching A Futuristic Siri And Apple-Based Artificial Intelligence As It Looks To Take On Microsoft's AI Dominance"
+    excerpt: "In a bold move toward integrating artificial intelligence (AI) into its ecosystem, Apple is setting the stage to unveil a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June."
+    publishedDateTime: 2024-03-01T15:04:00Z
+    webUrl: "https://www.benzinga.com/startups/24/03/37424586/apples-launching-a-futuristic-siri-and-apple-based-artificial-intelligence-as-it-looks-to-take-on-mi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37424586"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37424586"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 63
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96574_651165615_nvidia-and-microsoft-backed-humanoid-robot-maker-signs-deal-to-put-openai-tech-into-brains_full.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.benzinga.com/files/images/story/2024/ai-artificial-world-shutter_4.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
         isCached: true
-  - title: "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids"
-    excerpt: "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software."
-    publishedDateTime: 2024-03-01T05:43:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/"
+  - title: "Box AI integrates with Microsoft’s Azure OpenAI Service as it becomes generally available"
+    excerpt: "Cloud content management company Box Inc. is adding yet more artificial intelligence capabilities to its platform, integrating its Box AI offering Microsoft Corp.’s Azure OpenAI Service. Announced today, the integration will enable OpenAI’s most ..."
+    publishedDateTime: 2024-03-05T21:05:00Z
+    webUrl: "https://siliconangle.com/2024/03/05/box-ai-integrates-microsofts-azure-openai-service-becomes-generally-available/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-  - title: "Silicon Valley humanoid robot-maker partners with OpenAI and gets backing from Jeff Bezos and tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T07:25:00Z
-    webUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 60
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/image_2024-03-04_084317110.png"
+        width: 855
+        height: 459
+        isCached: true
+  - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
+    excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
+    publishedDateTime: 2024-03-03T15:31:00Z
+    webUrl: "https://www.techtimes.com/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 50
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444333/ai-safety-summit-day-two.jpg"
         width: 1024
-        height: 682
+        height: 681
         isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI"
-    excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
-    publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
+  - title: "Q&A: Microsoft research head explains how generative AI could help doctors be more human"
+    excerpt: "Generative AI is having a moment. Peter Lee ... The OpenAI services on Microsoft’s Azure cloud provide HIPAA compliance. We’re very proud of that but our cloud is not unique. AWS and Google Cloud provide the same sort of compliance to enterprise ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.statnews.com/2024/03/05/peter-lee-microsoft-generative-ai-physicians-medicine/"
     type: article
     provider:
-      name: The Roanoke Times
-      domain: roanoke.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
-    excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
-    publishedDateTime: 2024-03-04T18:14:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 47
-  - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Bezos and tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-02T00:00:00Z
-    webUrl: "https://www.postregister.com/features/smart_living/humanoid-robot-maker-figure-partners-with-openai-gets-backing-from-bezos-and-tech-giants/article_c4f2e9b0-d759-11ee-a96e-abd31258bd6e.html"
-    type: article
-    provider:
-      name: Post Register
-      domain: postregister.com
+      name: STAT
+      domain: statnews.com
     quality: 45
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/3/a0/3a075678-d75a-11ee-86ac-1775c69d2e80/65e11357bc009.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Peter_Lee-328x328.jpg"
+        width: 328
+        height: 328
         isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Jeff Bezos, tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.semissourian.com/story/3031054.html"
+  - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
+    excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."
+    publishedDateTime: 2024-03-01T07:05:00Z
+    webUrl: "https://menafn.com/1107921924/Du-To-Revolutionize-The-Digital-Landscape-In-The-UAE-With-AI-Innovation-Supported-By-Microsoft"
     type: article
     provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 44
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
     images:
-      - url: "https://www.semissourian.com/photos/39/36/50/3936500-G.jpg"
-        width: 1200
-        height: 628
+      - url: "https://menafn.com/updates/pr/2024-03/01/M_f9956image_story.jpg"
+        width: 1251
+        height: 834
         isCached: true
-  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
-    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
-    publishedDateTime: 2024-03-05T16:33:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+  - title: "Microsoft Promo Codes for March 2024"
+    excerpt: "Does Microsoft offer free shipping ... You’ll only ever pay for the products or services you buy, with lower prices just as they’re described on the page. If you're looking for more ..."
+    publishedDateTime: 2024-03-01T03:04:00Z
+    webUrl: "https://www.pcgamer.com/coupons/microsoft.com/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-  - title: "Companies team up to put artificial intelligence systems in humanoid robots"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T01:31:00Z
-    webUrl: "https://www.yorkdispatch.com/story/money/business/2024/02/29/companies-team-up-to-put-artificial-intelligence-systems-in-humanoid-robots/72797744007/"
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/iL6D95t98F3a3oPkTLE4A-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
+    excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft"
     type: article
     provider:
-      name: The York Dispatch
-      domain: yorkdispatch.com
-    quality: 34
-  - title: "Can AI help me pack? Tips for using ChatGPT, other chatbots for daily tasks"
-    excerpt: "Many fear AI, but ChatGPT, Bing Chat and other bots can help with tasks ranging from shopping, to planning meals and trips."
-    publishedDateTime: 2024-03-05T09:19:00Z
-    webUrl: "https://www.statesman.com/story/tech/2024/03/05/ai-chatbots-help-plan-daily-tasks/72806995007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 32
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "eqQ81mMrQdT3uXfS1z61/NIiaSpw+FyY+ICW4Zbq/t8yszvDGWtsbUeSn/2CcWjeyNqMOApl82weMn2B6xi1ifQy+gCpJ1GvDqqT2TB7GgPRwJJ8UsNJtOJFw5SgutlxUXZvwvlFoXsCJBhLdoS7kH9qL++azh+juGC1V5Gt2mbMSHaCOGVmmRUuqHVfqwhnu2/7Afj2szF0HEjZTXavRzvoj65v5N7FlxAUskF/PYHuc7Eb7SK+w5YUEY9JpWcWFF08yaBnh8mitRiCPwu6vvqXa7E5iNawI/D4TW5m0NRlniI1pHQCBYdyFajiMSwQEIz+YBlgJnjwqeFunKcqKoVCmYGFugOr3iV8EBuz6Vo=;CqE6Q/mW5QvoA8zmciRGHQ=="
 ---

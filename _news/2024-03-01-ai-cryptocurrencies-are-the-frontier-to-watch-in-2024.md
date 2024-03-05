@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1353
     height: 900
     isCached: true
+
+related:
+  - title: "Navigating the New Frontier: Insurance for Artificial Intelligence Risks"
+    excerpt: "This lawsuit is part of the first wave of artificial-intelligence-related lawsuits that have ... an issue for a company that provides AI-powered products or services in the healthcare or energy sectors where mistakes may lead to bodily injury or property ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-new-frontier-insurance-1257502/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 38
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12205_2644.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "3fILpTZKPOaAPGWEQZkZq81zwS7tySz0AwffqI9VYkT1sxxlLy1gn/coz+w3egDG5/crjaabub6KL4y1JGN4laWnY+if4vqYLC94gM3Fcs+ME295ldsLsLvsWxKFa6pnTgBVfvH0OAjV83NyvlrY11+GT8y3vrYx6aXcgANwBQIU+r2A53FJXa1+RZuAvxaoMNGtWlTju12HrGKu54dUL6yzNqwoQ9AeV3ZZfjONL6KDJLvW7xXDGg1ue5zJ5S3QmSeBf/KDPxMxcsDUEfOa+uaZmStKWd4et7txJoCTqfBoFP5kLnl0XY0JbzXocw2+oKAHHErCvWck0xy5DwnTICeWenbzHgxsYK8fgoVFw5SBcyQoe9iuU0yWB9UdSNzLU6X94pJJz9Nlm6fagms0IhR+Fjk4BgfAUtVg7Q9cOukebmKDygbEDz/PNyAi8LZnbkByeLZA8kAMy81R3R0qEK2deb0AO4SrKWChQTMjsKrOFRJzGoY7MZwECwOgYtu+nUiPzkAjFeedxATAb+gTZg==;L/U/veDwSGOGOKZEVo3xsw=="
 ---

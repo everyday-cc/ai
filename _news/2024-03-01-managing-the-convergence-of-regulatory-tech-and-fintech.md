@@ -39,6 +39,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Why we're fighting to keep London first for fintech"
+    excerpt: "This will include how the UK can innovate and regulate successfully groundbreaking new technologies such as AI (and we look forward to working in collaboration with the Startup Coalition on their non-fintech focused Unicorn Project). The Unicorn Council's ..."
+    publishedDateTime: 2024-03-05T20:30:00Z
+    webUrl: "https://www.standard.co.uk/business/why-we-re-fighting-to-keep-london-first-for-fintech-b1143072.html?utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 4
 
 secured: "Dq7dupUB94WBKT9DvzbFYb+sQXHMSx1acgcxv13oMTTOWSC83j5Z5zRxDkMB2e49HBC26FjThHqQB7b397PwIRQ+Gul1TPvY/RqBosH+NuTdQB4fbT7hob7dI/WXSTJbUh1bvw/r/gdAT1mNNuheGBwmdDo5sjsTiheJnwTJ9EJBtQ/Go6eBOcyvtdfqcwPGJ/aoIprOPyXqD/dPhaxF0zlgrVUdOeloaf6GouW8ITvNu/+qNlqb26MP9kjfV1P/Rfh2YpJEDgy+wG64gDV38LtawUlo/euunSTvnaWzal22ucbIpRTwHz4CuA+aSPvVHh2Z9hvpSi8R/2wBPH79/I+QRPgMgDA9r1NxlHEoxCoWqZlc9YRWqTcFjiHn/zJkRJRKpdafRCZy9Z0mo0JfLq8Uay0OoibJ4lb+Q2OWZfzJyazsqjhNcw8t65sD0BDkfJXXgKjdqjTXpvntK9yGggtyiFO275xVGI3c9xbloXr7DswLjj4R51SMg/D8SsJNkvRwXfblnLGL0xITUIVQeA==;i9YeH1tj/fANgQJJeiZKbA=="
 ---

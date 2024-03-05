@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How scientists are using facial-recognition AI to track humpback whales"
-    excerpt: "Now, a new study finds that climate change could be slowing that recovery. Using artificial intelligence-powered image recognition, the survey finds the humpback population in the North Pacific Ocean declined 20% from 2012 to 2021. The decline coincides ..."
-    publishedDateTime: 2024-02-29T19:26:00Z
-    webUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1234718984"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 39
-    images:
-      - url: "https://media.npr.org/assets/img/2024/02/28/martin_van_aswegen_mothercalf_maui_1-1-_wide-308a974ad26f270c72b4ee6f9e8ab3587f338a73.jpg"
-        width: 3834
-        height: 2157
-        isCached: true
   - title: "Female officer wins recognition"
     excerpt: "Police Officer Georgia Reyes is being recognized for the great work she's doing for the University of Texas Permian Basin. Recently, she was named Officer of the Year for the UTPB Police Department as well as Officer of the Month for the entire UT System."
     publishedDateTime: 2024-03-05T08:03:00Z

@@ -29,22 +29,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 58
-  - title: "Canada lawyer under fire for submitting fake cases created by AI chatbot"
-    excerpt: "Chong Ke, from Vancouver, under investigation after allegedly using ChatGPT to cite case law – but those cases did not exist"
-    publishedDateTime: 2024-02-29T20:09:00Z
-    webUrl: "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b45223823af90a16d52ba01337b9e85da635acb/0_101_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=43b13e2355f57d44ad13ca18835eb670"
-        width: 620
-        height: 372
-        isCached: true
   - title: "What do shoppers think of AI-powered chatbots?"
     excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
     publishedDateTime: 2024-03-05T17:35:00Z
@@ -59,6 +43,15 @@ related:
         width: 384
         height: 268
         isCached: true
+  - title: "Elgin inks deal with company to create AI text chatbot to provide answers to residents’ questions"
+    excerpt: "Elgin plans to add a “chatbot” function to the myriad ways residents can obtain city information electronically. The text service will enhance what’s already available through"
+    publishedDateTime: 2024-03-05T18:43:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/05/elgin-chatbot-ai-questions-text-residents-citibot/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 6
 
 secured: "XFGBV51kkkCNPiE+otPVIC15fK6k7EFjgwBTAylwhypvgLiCGrh3mXwTh0q3l6SowY464iF+rZW/8O/dBnEwvDCDON0lHR1X4OpeNIqBcgoqut27NByfGv2WjaYiyWSm6TtpKiOM3ulLHwy26NXlQZYqWFAcAo/k02jky7Jo53XoWeBcxfqopUFptN6z9TkDLFnJp5PE2vAil2ztJWrry56jqM3Q0zIOpkyt+krLKmM7iGp960cXLkksIdhxqFBknR6M9vJ3u9jmhj7bzrcHZ0FUr5KmNpU1PkflhvkowPoLHh3bshqOd+mMzqRI297kgnAeq9s++DBlPcO670J9/NgO1Ezk+2vuPmeX9yC3iKBQlIr+cmeCQVVXehIpqMYUVIVOfr0VfhjpHWXTh3IKfJZtpJzkwzaP3h5zZcDnpFX0VL4znsj7Mv7IZequLx1/LNVNhV/nArNDwFh+QkDJRlJKNRRlCEPWzNPw/s7TCK1/Q8CLnKF5+uu96AOrJme0swphzZ0A0Tqh034ynTmgEg==;Re6v1bd0m97Ru4K7gr72/A=="
 ---

@@ -33,6 +33,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Snowflake Partners with Mistral AI to Bring Language Models to Enterprises Through Snowflake Cortex"
+    excerpt: "Snowflake and Mistral AI today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake"
+    publishedDateTime: 2024-03-05T19:10:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-partners-with-mistral-ai-to-bring-language-models-to-enterprises-through-snowflake-cortex/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 5
   - title: "Snowflake Inc.: Snowflake Partners with Mistral AI to Bring Industry-Leading Language Models to Enterprises Through Snowflake Cortex"
     excerpt: "Mistral AI's newest and most powerful model, Mistral Large, is available in the Snowflake Data Cloud for customers to securely harness generative AI with their enterprise data Snowflake Ventures partners with Mistral AI to expand generative AI capabilities ..."
     publishedDateTime: 2024-03-05T14:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arre
 cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://c.ndtvimg.com/2024-03/4nf9bvrg_driverless-car_625x300_05_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240117.07"
         width: 6630
         height: 5304
-        isCached: true
-  - title: "'To improve our technology': Waymo, a self-driving car service, doing weather testing in Buffalo"
-    excerpt: "Waymo has been conducting weather tests in Buffalo for its self-driving vehicle service. As of now it operates in two cities, but no set date for any future in WNY"
-    publishedDateTime: 2024-02-29T22:16:00Z
-    webUrl: "https://www.wkbw.com/news/local-news/inside-the-self-driving-cars-youve-been-seeing-around-buffalo"
-    type: article
-    provider:
-      name: WKBW
-      domain: wkbw.com
-    quality: 26
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9f42c91/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F999%2F1020d6d1597347248f5d62c059a4c7e3%2F999dd6244999479cb9072883293821a1%2Fposter_5adf9f3607a04062a46c5419d7ebea72.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Waymo's massive self-driving expansion gets green light"
     excerpt: "While some of the industry's biggest players are abandoning their self-driving vehicle efforts, Waymo is gearing up for a massive expansion."

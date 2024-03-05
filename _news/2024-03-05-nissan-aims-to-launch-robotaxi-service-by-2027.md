@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nissan Self-Driving Rollout Coming Soon For A Good Cause"
-    excerpt: "The self-driving tech Nissan will introduce is SAE Level 4, similar to the controversial Cruise robotaxi and higher than what Mercedes-Benz has been testing on US roads since last year. According to the automaker, self-driving cars will solve ..."
-    publishedDateTime: 2024-02-29T20:02:00Z
-    webUrl: "https://carbuzz.com/news/nissan-self-driving-rollout-coming-soon-for-a-good-cause"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 4
   - title: "Self-driving robotaxi crosses Yangtze River in Wuhan"
     excerpt: "Baidu's robotaxi crosses a bridge over the Yangtze River in Wuhan, capital of Hubei province. [Photo provided to chinadaily.com.cn] A self-driving vehicle developed by Chinese tech heavyweight Baidu Inc has crossed two bridges over the Yangtze River in ..."
     publishedDateTime: 2024-03-01T05:47:00Z

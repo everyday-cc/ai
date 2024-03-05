@@ -45,6 +45,24 @@ related:
         width: 640
         height: 397
         isCached: true
+  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
+    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
+    publishedDateTime: 2024-03-05T19:08:00Z
+    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
+    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
+    publishedDateTime: 2024-03-05T19:29:00Z
+    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
+    type: article
+    provider:
+      name: Geelong Advertiser
+      domain: geelongadvertiser.com.au
+    quality: 10
   - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
     excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
     publishedDateTime: 2024-03-02T19:16:00Z

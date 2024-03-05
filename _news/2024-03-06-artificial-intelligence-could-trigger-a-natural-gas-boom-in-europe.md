@@ -58,6 +58,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 12
+  - title: "How Artificial Intelligence Could Trigger A Natural Gas Boom In Europe - Financial News Media"
+    excerpt: "When the use of seismic surveys became commonplace, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and other data, but that's all changing now. The next round of onshore discoveries is being aided by new Artificial Intelligence and Machine Learning software that sees what we can't,"
+    publishedDateTime: 2024-03-05T20:22:00Z
+    webUrl: "https://menafn.com/1107938601/How-Artificial-Intelligence-Could-Trigger-A-Natural-Gas-Boom-In-Europe-Financial-News-Media"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "4SNWiocTpfus7pbSHVPUq4YHy9xt8pW4IvAz7rE4HrXsqmo8zV1sQ3a7Zl0cVf826ZwIF60nr4Kald46SADKM8YqTQxabb0Zn5PvF5pxX7l2+pHI3da7+F6wg+QgXrCPStCey07fkFcq/o4yk6AEZvqBJIPX5HUnYSHugwE0zqQMlmR+N+8n8jbqhkkSiKpDPfS/wIURKe5dWm2tAVAxo7Kxb9A/9LRQ4wKgUC6ZMRTEd03g2/pHbdkFGJuDOykbRoO5XIE5dM+dLqoeF/rIqUP7yisRkxWbGctIulHqmrXhYjhWlANSi4WxjQnO5srPKIWiDp5wrOGuHeEalC7KOpXtM095KVgsP4CSXzNNehQ=;l2PwBOr/QD0NrJ/vcPv2VA=="
 ---

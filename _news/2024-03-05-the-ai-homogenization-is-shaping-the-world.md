@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogeni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
         width: 498
         height: 259
-        isCached: true
-  - title: "The National Science Foundation wide-and-far on artificial intelligence"
-    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
-    publishedDateTime: 2024-02-29T20:29:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
-        width: 2560
-        height: 1708
         isCached: true
   - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
     excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."

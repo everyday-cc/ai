@@ -33,6 +33,20 @@ related:
         width: 725
         height: 320
         isCached: true
+  - title: "Why Amazon's AWS Is Paying $650 Million for Access to Nuclear Power"
+    excerpt: "Artificial intelligence needs a lot of power ... attracting interest from other cloud providers seeking adequate power to fuel AI computing. While AWS' deal wouldn't be the first time providers turned to nuclear for additional power for AI, it does ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/why-amazons-aws-is-paying-650-million-for-access-to-nuclear-power.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-909474696_538133_a6bxfz.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "jZ2ivhFwhGjFMB3PR9ZZ1RFw53jI3ZCEYTLCgytYT7bQNwKtwWVeWxnnbZi8x7dZ66OLwORYMdsIit5EpkUpARZd5KVa7QXQN6vEmjSSJFHoPHAB6Vc7KpO7psF2TnDi+e0Vd5ji8sbvnVC4wrD7gQBlvPa+fgFWxIJR3eBPvxULjafYc2t+bneKh7F70hJCIg3j8L4GpM0S5cyG9638EyGLcYSbX0gXHszyk+MeHpp6S28ytJHB04hhh0cNy2V9yqWNDQNQ4i8vMzOD+8XhvKR2BKa2CU6K2GnPFwKCJHG4pnaN0jnmago7HeHKWNBJrYsWKsrevTiFByO7w8jNAwe7kPsTIvbqgQUY8sk3AczvC8PnWv+aRIxCv0sSG/wD0foT0HkCsvl2FL26natnTIYq2AhUAr2O9/FkhqEYh0o2mJqosCXbLoA986V+IgnnRQsEqJ9XkjIGN0hAkZ7YO2yLgMglXrFm35fDijmA4frE33lIrGwFFr/4zuWRbA7Vr6PlGw5BuKzMpS64yFsgwg==;N2BSlvfzPyosJEq+kJbIQw=="
 ---

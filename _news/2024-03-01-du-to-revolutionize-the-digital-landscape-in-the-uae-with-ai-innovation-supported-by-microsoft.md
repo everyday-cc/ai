@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI"
-    excerpt: "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges."
-    publishedDateTime: 2024-02-29T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/"
+  - title: "Microsoft’s new Orca-Math AI outperforms models 10x larger"
+    excerpt: "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ..."
+    publishedDateTime: 2024-03-05T10:53:00Z
+    webUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 97
+    quality: 103
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Modern_art_of_the_Microsoft_Excel_spreadsheet_f04aba4b-e5b4-42c2-a3a3-d49749990db4-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all"
+        width: 749
+        height: 420
         isCached: true
+  - title: "OpenAI and Microsoft focus on robotics with Figure AI deal"
+    excerpt: "Figure AI said it will also leverage Microsoft Azure for AI infrastructure, training, and storage. The tech giant supported OpenAI on its development of ChatGPT – one of the major products that launched the recent focus on generative AI technology."
+    publishedDateTime: 2024-03-01T10:47:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/figure-ai-openai-microsoft-funding-humanoid-robotics"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/figure-ai.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links"
+    excerpt: "Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015. The lawsuit - which has also been filed against OpenAI boss Sam Altman - says the firm has departed from its original non-profit, open source mission."
+    publishedDateTime: 2024-03-01T14:27:00Z
+    webUrl: "https://www.bbc.com/news/technology-68445981"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 79
   - title: "New Microsoft-Backed Startup Wants to Make AI Work As Intended"
     excerpt: "Big companies like OpenAI and Alphabet Inc.'s Google are increasingly directing workers, money and computing power toward the problem. And Anthropic, an OpenAI competitor, has put it at the heart of its development of Claude, a product it bills as a safer kind of AI chatbot."
     publishedDateTime: 2024-03-01T01:38:00Z
@@ -87,6 +110,20 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Box AI integrates with Microsoft’s Azure OpenAI Service as it becomes generally available"
+    excerpt: "Cloud content management company Box Inc. is adding yet more artificial intelligence capabilities to its platform, integrating its Box AI offering Microsoft Corp.’s Azure OpenAI Service. Announced today, the integration will enable OpenAI’s most ..."
+    publishedDateTime: 2024-03-05T21:05:00Z
+    webUrl: "https://siliconangle.com/2024/03/05/box-ai-integrates-microsofts-azure-openai-service-becomes-generally-available/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 60
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/image_2024-03-04_084317110.png"
+        width: 855
+        height: 459
+        isCached: true
   - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
     excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
     publishedDateTime: 2024-03-03T15:31:00Z
@@ -103,6 +140,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Q&A: Microsoft research head explains how generative AI could help doctors be more human"
+    excerpt: "Generative AI is having a moment. Peter Lee ... The OpenAI services on Microsoft’s Azure cloud provide HIPAA compliance. We’re very proud of that but our cloud is not unique. AWS and Google Cloud provide the same sort of compliance to enterprise ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.statnews.com/2024/03/05/peter-lee-microsoft-generative-ai-physicians-medicine/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 45
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Peter_Lee-328x328.jpg"
+        width: 328
+        height: 328
+        isCached: true
   - title: "Microsoft Promo Codes for March 2024"
     excerpt: "Does Microsoft offer free shipping ... You’ll only ever pay for the products or services you buy, with lower prices just as they’re described on the page. If you're looking for more ..."
     publishedDateTime: 2024-03-01T03:04:00Z
@@ -117,6 +168,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
+    excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "AZ0ZctJHyB1m3SY4MwJgpPyzpVqbK87Hx2mwCOIXWWEIzOvWbNSR3+dLrDhCVinp3GHZRjanrKGAqqThg/t3oaxgvunpvnzFWlNnOszacL1LyC6OiDd+MTzsnOT/75086Xil06ucdZIgjzsrEPgzspxE1KiCjCfNl/wWwRYsZ+0xFzbb33qq2RDvAbqziRLiyhyVTG/vT1bg8YKDeOqp+bSRM3D3Opm6TVlLirvVaal7FdxZzoEQBOjoY3Zi/CBbRvmwhazkV7PwC/uagtC5UY1iG/MnW/2q/SQJWV8jnrsGtNvxmkbMzYedd8BSW3q/VDbAhAOrpX7Vtt2OZ/32oacd7HluPOysTUO/rwoXNUM=;JNsMRx4LegU/qSDObaZTUw=="
 ---

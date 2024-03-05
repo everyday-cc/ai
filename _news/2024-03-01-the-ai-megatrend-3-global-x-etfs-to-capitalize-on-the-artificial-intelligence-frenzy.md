@@ -6,9 +6,9 @@ publishedDateTime: 2024-03-01T08:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/the-ai-megatrend-3-global-x-etfs-to-capitalize-on-the-artificial-intelligence-frenzy-1033123497"
 webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-megatrend-3-global-x-etfs-to-capitalize-on-the-artificial-intelligence-frenzy-1033123497"
 type: article
-quality: 55
-heat: 75
-published: true
+quality: 57
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -20,22 +20,9 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
-  - title: "Why AI will Soon become SA - Synthetic Intelligence - The Machine Learning Megatrend"
-    excerpt: "Is Artificial the right word to use for what is taking place as we enter 2024? Artificial - made or produced by human beings rather than occurring naturally, especially as a copy of something natural. Neural networks are a black box, they are not a copy of ..."
-    publishedDateTime: 2024-02-29T21:43:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article71167.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 47
-    images:
-      - url: "https://www.marketoracle.co.uk/images/2024/Feb/Ai-synethetic-intelligence.JPG"
-        width: 800
-        height: 447
-        isCached: true
   - title: "Best AI ETFs in March 2024"
     excerpt: "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ..."
     publishedDateTime: 2024-03-01T00:00:00Z

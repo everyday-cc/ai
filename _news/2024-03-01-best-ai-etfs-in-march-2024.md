@@ -33,21 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 55
-  - title: "Why AI will Soon become SA - Synthetic Intelligence - The Machine Learning Megatrend"
-    excerpt: "Is Artificial the right word to use for what is taking place as we enter 2024? Artificial - made or produced by human beings rather than occurring naturally, especially as a copy of something natural. Neural networks are a black box, they are not a copy of ..."
-    publishedDateTime: 2024-02-29T21:43:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article71167.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 47
-    images:
-      - url: "https://www.marketoracle.co.uk/images/2024/Feb/Ai-synethetic-intelligence.JPG"
-        width: 800
-        height: 447
-        isCached: true
+    quality: 57
 
 secured: "jiUAwkdoDID4jdOqOBV/hpYFifYDtxVfG7OJIhc9lV07UCndvoaDhB1apumCsqTvKV7y4OaNEbZEW1Ra+0nVV8VyOJAazUgpp4nQ3fuYBqYd0xNDpGssxbRIdF/93EbljjD1GXZ7JaG5NKms4xuzhR30fs3cfyIC0uBtWSpzbej457vCU4Jz2GNEntYtGyxpF7sufSO1vv3YlaHczhZ0PR3+vUSQ23u+YXwvbUmeqeTKmJC3X35uMF0JOCG/T2v0kzgahh9dOH0H0JqhfxsZo+bIyZGypfFUzOTj9ubDCKiddcwvCiRyjJ0DgQxs+RCKumIrKhCCUruyjK0Qjs5qehxvGuHzLJX3hjn5yC8YB2A=;FPx0dEE1XO/9mlt7xN8dog=="
 ---

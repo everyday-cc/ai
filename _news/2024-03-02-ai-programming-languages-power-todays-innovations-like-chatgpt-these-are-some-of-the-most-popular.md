@@ -44,15 +44,6 @@ related:
         width: 4500
         height: 3000
         isCached: true
-  - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
-    excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
-    publishedDateTime: 2024-02-29T21:20:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
   - title: "How to use ChatGPT's file analysis capability (and what it can do for you)"
     excerpt: "From searching a text 'semantically' to creating outlines and captioning images, file uploads on ChatGPT expand the bot's usefulness in important ways."
     publishedDateTime: 2024-03-01T12:12:00Z

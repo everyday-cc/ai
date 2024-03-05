@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-05T11:01:00Z
 originalUrl: "https://markets.businessinsider.com/news/currencies/crypto-ai-startup-sahara-raises-6m-to-reward-ai-trainers-1033134200"
 webUrl: "https://markets.businessinsider.com/news/currencies/crypto-ai-startup-sahara-raises-6m-to-reward-ai-trainers-1033134200"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 secured: "O13chia72CU5tiW4HDDfdMjA9vWiNFxp6XoHDgxlGqIlXtsrQ51CMu10xnAg23Zp4mUdLsSDzhL+g2vQKXqalVs8akJkViGRftFTHt+cA5MxwwcY0rJSR+AKjKhM0FTA0vNMZYM56UVPnxxb5iRG715brnXPOKLUaIl3Ymey5yZTD48TQ8y8QHvVJGKBLA/x3Lhow6VVDyiJgErOcQqSaUthPWwsBOPWM5q0h18Td+brus7uIjKYbG4dnGJtOcBw2OrDbHvsnHhwV5iWdh4CHUIGHWGRIP8FRp9t/DnZYsVsg8uepvevnHIPWS0TPNUxDTNHzAAkfyigPB50Qrbf3uoMM9/H3rOsSrSPkJX30c0=;XqnmdSI/5VBxsoowOp5wFg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://gazette.com/watch-live-a-colorado-conversation-on-artifici
 webUrl: "https://gazette.com/watch-live-a-colorado-conversation-on-artificial-intelligence/article_14e83740-d74b-11ee-acb3-432e582990c0.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The new garbage robot helping sort trash in Southern Colorado"
-    excerpt: "Colorado Springs' first Artificial Intelligence (AI) guided recycling robot is now operating ... Just search KOAA News5, download and start watching."
-    publishedDateTime: 2024-02-29T20:52:00Z
-    webUrl: "https://www.koaa.com/news/covering-colorado/the-new-garbage-robot-helping-sort-trash-in-southern-colorado"
-    type: article
-    provider:
-      name: koaa
-      domain: koaa.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a6be536/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F047%2Fb2da66f716dc47439b09dfbbeb8a98d1%2F0474b28117654fc79e52a4b432129e83%2Fposter_559f5749da8e4e2090571b68865f45fa.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "aglGR5kNFJo6D5fhYHRHjS2gNqcNlo5JSRXj0pB921nNn0Sq6UdHyi8C8h0Qdxl3YdLzAZ+GjLGEFHdp7dHq6ZyjVqTATDrf8C7vZHZTvAH+Tk2qacUuiY9+TQmrRbhnsvd1MHBrVPbfQyz7OAd6VY3PMW0B2lahuB/zTJ7DsP7pZ/WUkadeOXb++RMONZbQvdgjgnzvdTZ052DE6st3njFQgT2kxBqHLBlYuOi4CWkl4POFZC4uTpHesFMSMlu3d0KnCx9l7QkgPS/mJzCcWIxIIF6YTTPkDaDxtLLENzNw1NXvFbZ8Eq/Sg2Kn36Xkk7tb7MbI3cUqLFzwsMW2XWH72ybrlAfDyvEgcRjWK8Q/MaSb0wywJCiNkMhtAoDkIQ25rtRAp5UKysk6UBrS4Tj6XdAb8LV4kPJEkwbf5HCVcUPnB+aQdwoCyWJ+B91wGuc1cdoG1tufSlHViMrdMUQHRkIvPOcvjlpdi8i8bbu8E3qeNwp5+gr8g+UlsUtJ+tnKy4vHZ37BhZiJHY6IOg==;tiDYI/kpG2msV5pGsY9G6A=="
 ---

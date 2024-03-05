@@ -7,7 +7,7 @@ originalUrl: "https://www.gulf-times.com/article/678368/business/conference-on-a
 webUrl: "https://www.gulf-times.com/article/678368/business/conference-on-ai-application-in-qatars-supervision-financial-sectors-kicks-off"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 300
     height: 224
     isCached: true
-
-related:
-  - title: "DBRANLU: National Conference On Artificial Intelligence And Its Legal Implications And Challenges"
-    excerpt: "A seminal National Conference on Artificial Intelligence (AI) and its Legal Implications and Challenges recently convened, drawing together eminent experts from diverse spheres across"
-    publishedDateTime: 2024-02-29T22:30:00Z
-    webUrl: "https://www.livelaw.in/lawschool/seminars/dbranlu-national-conference-artificial-intelligence-legal-implications-and-challenges-law-commission-of-india-meit-250893"
-    ampWebUrl: "https://www.livelaw.in/amp/lawschool/seminars/dbranlu-national-conference-artificial-intelligence-legal-implications-and-challenges-law-commission-of-india-meit-250893"
-    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/lawschool/seminars/dbranlu-national-conference-artificial-intelligence-legal-implications-and-challenges-law-commission-of-india-meit-250893"
-    type: article
-    provider:
-      name: Live Law
-      domain: livelaw.in
-    quality: 44
-    images:
-      - url: "https://www.livelaw.in/h-upload/2024/02/28/524988-br-ambedkar.jpg"
-        width: 1135
-        height: 757
-        isCached: true
 
 secured: "KzGJtZE3uJvPjCtv2puAu79yN9jiZPtGm6T6E9V2zlBNjqzx+rTmpWusJEpBfD34S9CiRdQL6Pp/1DInEahGc5vAo6ZkSxO+PmXoyzI0w9Lz0A6s+MaK/UPacUbA3xwqfBfOsNygDQ4M1eXPvBpai8khx4M2xSF8qiInDnRXq4Aws6CyWxgtMiNgZGCH9Mdzee5R1pWxEbMMeDR/gVYe+JmYzS5B2OsjE8F/+a952JrA+kBUc+XxR0O65zJv791r5wXceWYuUvz397w/06RcVP8/SEawT8E0Bsz2TcOp0WYC9ePK/5q/uHYt33j2Zb+0Kvz1mErntJt9h/tCbp8XvUZkxcK1gsZVkLL6z2HOwTk=;an3OU1/WHr5I7EvNxFmeFg=="
 ---

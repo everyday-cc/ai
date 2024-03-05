@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-cent
 webUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
       name: developingtelecoms.com
       domain: developingtelecoms.com
     quality: 19
+  - title: "AWS to invest $5.3 to build data centers in Saudi Arabia to bolster tech in the region"
+    excerpt: "The plan supports Saudi Arabia’s aim to become a Middle East tech hub ahead of the World Expo 2030 and includes training programs aimed at developing local cloud talent."
+    publishedDateTime: 2024-03-05T20:09:00Z
+    webUrl: "https://www.cio.com/article/1311730/aws-to-invest-5-3-to-build-data-centers-in-saudi-arabia-to-bolster-tech-in-the-region.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 11
 
 secured: "AqyHI09aZWIX3ajPcR0PoAc1fh9vqCCQYPYLN+N0Cbexi97LG2hoVa8d6inQe9vK9ukZNxGfrbReCR+XIFXDXtW89XxvuzaXPBVJ10evg9uoaEK7RnfuXkUM+rfYWQW33Xe4zOZpyA+tOX1L/pJEEQQJbcvQ3gHXjXJH4NFyP4Px0skLjlGD0SlijNzWYhRjjT0hlsnrBXoKHDrxrfBp+8Q94j9KX6M0L5nDaBK9wQ5d/kcrdlx0FnDokk813gB3nHUw8IguJdhDt79GJRNiaUGKoGg3tWAwN9ti9ehnzBY46+Zp5gX4gtpM+5P+T8PIIoe75sz9fE7exVrNH9NUdWW5YQ7RrQdOdIR1+9cmAK4=;E9niO8iXjwtdHo3h8P4KZg=="
 ---

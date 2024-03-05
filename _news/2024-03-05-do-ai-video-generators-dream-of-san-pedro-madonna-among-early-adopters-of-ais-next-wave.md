@@ -79,7 +79,7 @@ related:
         height: 847
         isCached: true
   - title: "The Impact of Artificial Intelligence on Our Encounters"
-    excerpt: "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ..."
+    excerpt: "According to a recent review of the literature, “In healthcare, social robots … can positively interact with the disabled, children, and the elderly, reducing the workload of nurses, physicians, and caregivers. Because of their artificial intelligence ..."
     publishedDateTime: 2024-03-05T16:22:00Z
     webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
     ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
@@ -88,7 +88,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6"
         width: 1528
@@ -215,6 +215,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 17
+  - title: "Franke: The Dawn of Artificial Intelligence"
+    excerpt: "It seems one can’t pick up a newspaper or journal without seeing a major piece on artificial intelligence. Until perhaps a year or so ago, I hadn’t even heard the term except in science fiction and now it gets more Google hits than Taylor Swift’s ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.greenfieldreporter.com/2024/03/05/franke-the-dawn-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Daily Reporter
+      domain: greenfieldreporter.com
     quality: 17
 
 secured: "MUkXVyUMW3FcZeARAUS6Q6HJ1U7Gc4JRXeEB4lGJO4o0Kiz3TJOiS9sZNf4RynE3xzVzkri4XPFTF8MwXIYqmQ8yYcPwyBysbPVzTiEgF9wIJwclnuZ5D0qav0Oiowb++Zpo4F2EbTz3ijFFbCGnzKxfTgdNmxklsfUT60MZJ3tZV/uw64aoK14VLRm+EqylLrF6pSS3YrMU0UYB7jiMKFCEPWuoym0W9jaVJs2iURVui/A0FEmMgC6+yTyo3o2OYuHsItbIVU24Xd4ZFfta35X+OBbUkQnvGuJU3ZTYg5UjUNXEr61l/pGlYSZLQtSE/oFPpsw459NNuNZB0LhdmPfGpZtTC7Bm1AjXR6/cpSSMFNatx8EZFWPxbkzXNoXawhNAT5WUqNP0ypItlAPd+l0D9oGvuMMHwgGyMOm0WO2sHjp9bf6XiRkyf3RV8LNFlg1TzB7lAk+M2TGA1iygKgmO0oAi7KOcCqsvyYH+DFhxQJ4laX/9/By3mgzqk/mUpZz6bcJAohw+vh5CQIP4Qg==;u+x0Ec7qWAf32t/R98HX4w=="

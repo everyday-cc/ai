@@ -70,6 +70,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
+    excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
+    publishedDateTime: 2024-03-05T11:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/articleshow/108238137.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 67
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108238104,width-1280,height-720,resizemode-4/108238104.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Anthropic unveils Claude 3, its latest and most powerful AI model"
     excerpt: "and this powerful AI model is powerful enough to trade blows with GPT-4 and Gemini. Anthropic has been doing a lot of work and research on its AI. However, it just didn’t stand out amongst the competition. However, it just debuted Claude 3, the company ..."
     publishedDateTime: 2024-03-04T00:00:00Z
@@ -99,6 +115,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Claude-3-vs-ChatGPT-vs-Gemini.jpg"
         width: 1280
         height: 710
+        isCached: true
+  - title: "Anthropic Releases a New AI Model, Promising It's Cleverer than ChatGPT"
+    excerpt: "After billions in cash injections, Anthropic is backing the launch of its newest-generation AI with big promises."
+    publishedDateTime: 2024-03-05T17:45:00Z
+    webUrl: "https://www.inc.com/kit-eaton/anthropic-releases-a-new-ai-model-promising-its-cleverer-than-chatgpt.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/anthropic-ai-GettyImages-1500238079_538121_v90dre.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
     excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
@@ -189,6 +219,26 @@ related:
         width: 800
         height: 494
         isCached: true
+  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
+    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
+    publishedDateTime: 2024-03-05T16:33:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
+  - title: "Can AI help me pack? Tips for using ChatGPT, other chatbots for daily tasks"
+    excerpt: "Many fear AI, but ChatGPT, Bing Chat and other bots can help with tasks ranging from shopping, to planning meals and trips."
+    publishedDateTime: 2024-03-05T09:19:00Z
+    webUrl: "https://www.statesman.com/story/tech/2024/03/05/ai-chatbots-help-plan-daily-tasks/72806995007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 32
   - title: "Google-backed Anthropic debuts its most powerful chatbot yet, as generative AI battle heats up"
     excerpt: "This time last year, Anthropic was seen as a promising generative AI startup founded by ex-OpenAI research executives. It had completed Series A and B funding rounds, but it had only rolled out the first version of its chatbot without any consumer access ..."
     publishedDateTime: 2024-03-04T00:00:00Z
@@ -199,6 +249,6 @@ related:
       domain: nbcnewyork.com
     quality: 5
 
-secured: "QOwzZeCdnYoZ0U3BcNZ2jUiBuyk1Makvze2ZR51p27hfm8s0Dqyd3hdFiKDTSj8UQj7mzG8schgluR/Imztyk8wq2M49X2n/nAwj49ZV8YHNRGQ5s8mpTyxBRMULIqY/u0Kle8F2saeA04A86NOOXMd8ZgMR/As9URLN5QtL7tPemgwKMKXoHfXOa7lmhrRfYGlJ59qaK5O/Wi7bU7uHW1eKJsbTKrN5Dqwybaf1GFJyztMupeHHLfuz00mXjs11iQvMY30HkAarEejdLSvmWJ3Kk6z2WauQL4XywWpMusvL1M40Fv+rGRXAgbJSzv+zapg83rbY8JeHU9587IfaGbAM4eIc1svaTGUuWCNWR6w=;62HPi0kVXz7+DlStdZgAzA=="
+secured: "St7GRQL1z1iZPl9X+KLKutF0xyqc/p6wrxeDlVxwb2IA1ACnPdm/6va5i7xgeXEoWkUmLO3LHSSU+hcdjLUHCDsS/SFt8zg2xE92PouMxy/tO5XOuR8G8CZcUlQrChA3ZyLgUdan32YcqxEhp9LxjFpnjIPs31Uy/xrazn0rzZK8WT3uieeCm2bRH3wrgJeuB9zWrlxry2t3ypr1OYjs5Cds5VjMZglWCZHCysW4qT+muRBQ0vgBGiTBbaNu3kqEEYHber81f7NwBwIXLkDyIDWe/VOB3yypsgqtvKuMYqwyK/R3RpeBPFfZOEHFjq7ETvJvNM02umq495elNwWkQ2FaP/9vNHrZVpD01KVe9KgQHXJ7UYMqjhnl/id97Zfr+gMuk4hcR5XvM9svJ7Rm99obfp0kBtQWhGaJ62C8+HFeDhHlakZ6G2fW+AwPdyKy2I70pAJwrwn9hkAZBV9g488UzI0NkiDRQSAIW+wRyQgWpvewlIYpycbAeSh76RQT3SgcCL6v1gkbUcnnZ3mEDw==;7lTv5dEBCqxEX29dCn74IQ=="
 ---
 

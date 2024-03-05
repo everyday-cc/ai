@@ -33,15 +33,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Nissan Self-Driving Rollout Coming Soon For A Good Cause"
-    excerpt: "The self-driving tech Nissan will introduce is SAE Level 4, similar to the controversial Cruise robotaxi and higher than what Mercedes-Benz has been testing on US roads since last year. According to the automaker, self-driving cars will solve ..."
-    publishedDateTime: 2024-02-29T20:02:00Z
-    webUrl: "https://carbuzz.com/news/nissan-self-driving-rollout-coming-soon-for-a-good-cause"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 4
 
 secured: "Ig1KQGsUkM+3TkEwy33V3FHn+r8VwLAiRMZ8oJluxSni9/T6zMa/TSDRZVd05kZ6WVcuXyblIBP6tJV4EKhTxYpsOS6R9hXuUm6nH+ae4Qmql+39jB3Qr9qSzfV9VN9ptQTUbc1B4MbeCwwnjMpnr5UnEJrhN9i/ir9b1qmRoAHrB2ycRD15Aoq0dxJWTbF7P7l5/54H61oqhHIRhhwZ3Ix0HX4/CjchZ7Mb+a0bf71puG2BvBQZW2WafGaHgjscBMDgDfRw4Mzw2CWr+n8AX2lM4RQkb0NsWMyo4ptE2zzLYtfp6R+IHPyaF/2QFdfTR8qlAEa/9DiBAgdRc60PFLdJ1laZzHdLF8GxoPTKcaq1Jy81nswpOyUzU+3+YIyPdcTh0cSNejkl2lt7dnkntnYhi7r+RuHm/zChQPnTwnfXthLvB/LpjSC0bNZHznJ/jUaWoNwgR2HWESoIUVUeN2aXWycYK6GuCczczaX5h7hSYOLQ7KM1Up5k5s324dRMrqZPBVWn8bJzte4uv86g+Q==;xbcZ+uppT3dcf6fh0jE1Pg=="
 ---

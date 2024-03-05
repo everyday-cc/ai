@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How scientists are using facial-recognition AI to track humpback whales"
-    excerpt: "Now, a new study finds that climate change could be slowing that recovery. Using artificial intelligence-powered image recognition, the survey finds the humpback population in the North Pacific Ocean declined 20% from 2012 to 2021. The decline coincides ..."
-    publishedDateTime: 2024-02-29T19:26:00Z
-    webUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1234718984"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 39
-    images:
-      - url: "https://media.npr.org/assets/img/2024/02/28/martin_van_aswegen_mothercalf_maui_1-1-_wide-308a974ad26f270c72b4ee6f9e8ab3587f338a73.jpg"
-        width: 3834
-        height: 2157
-        isCached: true
   - title: "Female officer wins recognition"
     excerpt: "It comes as no surprise to those who know Reyes that’s she’s being recognized. “Officer Reyes always comes to work with a smile on her face and a positive attitude ready to go above and beyond to assist her fellow officers and the citizens of Odessa, ..."
     publishedDateTime: 2024-03-04T00:00:00Z

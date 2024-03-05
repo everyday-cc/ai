@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Why we're fighting to keep London first for fintech"
+    excerpt: "This will include how the UK can innovate and regulate successfully groundbreaking new technologies such as AI (and we look forward to working in collaboration with the Startup Coalition on their non-fintech focused Unicorn Project). The Unicorn Council's ..."
+    publishedDateTime: 2024-03-05T20:30:00Z
+    webUrl: "https://www.standard.co.uk/business/why-we-re-fighting-to-keep-london-first-for-fintech-b1143072.html?utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 4
 
 secured: "b1IYalWbSxJYbjxgwXa15jHjN0gDDR+/kH6Qn7iOAH+sqW0Bx+AL5FfTFG3+3a5POWPnZajt2Gzvrl9yTFwVx8sXS0jZG2DooZQmBdTLfoWGdfryqOL7c+7mSt+g75J5ehCgVU4B2PL55zHaAGIrbseK43e6fSt6sN31nNG/r5Q2wk1073X9mcHEKJRVi9sdy7ZcH6PKK2cnbHcaRKvNKGGKoBWLTRTdJGH1w+BhUHQ7W0k5iOS4POzkN9bkzE2gDxApQLmfsXWqyUtmVFZXc0EMSzT985VBlNO32COdCldCyj/2NjDG8X72LQEUfrpkQIg1Jh44Jdf2zUoF9vEpnS91vJ7wEwDEAPf0dhRo/t0CGKWmNT1/9B84rg6fImP6k8WWb7/+xPq+oM2fYjpc2k/UewZYxr9prKEQefM/YiEmyF1ufi0Foy7pFhlGjfsQl6t2qTM+tn+eW8B3vYlRCPlSAj2YLUZMMhY4HyYOUpfabsKasvmaA1aGXA7BO9QG/oEfoELKCA9adWqpr98Auw==;ARNfQ6dm4QI4+Ptc3Cd7UA=="
 ---

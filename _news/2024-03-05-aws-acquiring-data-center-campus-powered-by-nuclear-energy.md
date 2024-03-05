@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Amazon's AWS Is Paying $650 Million for Access to Nuclear Power"
+    excerpt: "Artificial intelligence needs a lot of power ... attracting interest from other cloud providers seeking adequate power to fuel AI computing. While AWS' deal wouldn't be the first time providers turned to nuclear for additional power for AI, it does ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/why-amazons-aws-is-paying-650-million-for-access-to-nuclear-power.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-909474696_538133_a6bxfz.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AWS acquires data center campus connected to Susquehanna nuclear station"
     excerpt: "Talen Energy will supply carbon-free power for the campus directly from the Susquehanna plant through a fixed-price power purchase agreement (PPA)."
     publishedDateTime: 2024-03-05T17:16:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "How AI Could Help Simplify Politics"
-excerpt: "Goldwasser says NLP can summarize legal documents that are written in a way that is hard to understand for the average person."
-publishedDateTime: 2024-03-05T16:50:00Z
-originalUrl: "https://wibc.com/283378/how-ai-could-help-simplify-politics/"
-webUrl: "https://wibc.com/283378/how-ai-could-help-simplify-politics/"
+title: "How AI could help simplify politics"
+excerpt: "If you’ve ever read legislation and didn’t think it made sense, a Purdue University professor says there is a method based in artificial intelligence that could help. It’s called natural language processing (NLP)."
+publishedDateTime: 2024-03-05T18:40:00Z
+originalUrl: "https://www.wishtv.com/news/how-ai-could-help-simplify-politics/"
+webUrl: "https://www.wishtv.com/news/how-ai-could-help-simplify-politics/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: WIBC
-  domain: wibc.com
+  name: WISH-TV
+  domain: wishtv.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://wibc.com/wp-content/uploads/sites/99/2024/03/17096566219828.jpg"
-    width: 757
-    height: 461
-    isCached: true
 
 related:
   - title: "How AI Could Disrupt Hollywood"
@@ -48,7 +42,16 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 32
+  - title: "Koobrik CEO Orlando Wood on using AI to database Hollywood scripts"
+    excerpt: "Film tech startup Koobrik believes AI can make it easier for Hollywood executives to find hidden gems buried under the never-ending pile of script submissions, its CEO Orlando Wood tells Axios. Why it matters: Koobrik was one of the 13 companies in the inaugural cohort for Warner Bros."
+    publishedDateTime: 2024-03-04T15:31:00Z
+    webUrl: "https://www.axios.com/pro/media-deals/2024/03/04/koobrik-ceo-orlando-wood-database-hollywood-scripts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
-secured: "mQQ5qFIzQsG9xmJ1Mu6i0Fua3PC3ZOG9K49tezcOgno93SoVQtccvFOB392JY2veC49fSasPGBtZz3yZms5O75BRdJu5IRKO7Y08dO5HD8VCwe5TV4euF1oRRITTQXl/uu6swrqjQBJiee+nMG3yCoXpQ5CxskZiZjMbL/scxzzL1uEUs2pVqx1NQdHfE2PLgdiX6BrFfrXOjXrTh0K0UeiMYOg5VZiDGP9ZNHFXfWxX7h+PET1BI0ZeWvR6LLRBTRecqxhK1sv3cFgVd2UoCCrjdBfdJoQxheD4da1JYlHaJyP0uoBXb7uX5/yS/PZHUSj1gI9rBpejE39kNtizEA43q9rYNqXl7SEK62nFupI=;D1L8nZls5jkSI/msIT90PQ=="
+secured: "txqL6fQ7v5HASIzdyCH+bsxr/nyOId55rQ4rdulL9CTG3HAJqXod522CEp4pEEEHy+Hx9y3GV7RZCUMrOOwBWVgjBUzC2iys9X0h2cdXH+nuro2XtOWjqHwpU9hTvJH8efez/EEhEfs+FHTLZHQgz1ZPXpEh+eqmXR98MAv4laAK4gOCtfakFv0ST1SToqZ9pqMoZUufi/urWrlK630x9PszNluer1z6lNX+oWEqlIs8qBL3xyMdVgVE9rU478nb7k7yYZQ92dSPnrg3brFlGhVvJAopKs4Sja1kbJwLGdYJyK47Xeh9Pl6zkxVlY8sJvwzzjqX3M8mGpt9mSERwKv6gOxD06nbEbnX4tkWo/sYiPh8JsWwhLwYF/QDMoNn/cXNS5qWBiJudfZrrwNlo/K1NFPWayRITMEdQHrO6+dJ1AeOcjy90Qq4d8GfqY5tF8t0zepDgk+5CMIPJKEXMawWctQshb1EHQ9Jl+7mvWLA2T4FHrx1oyE4q1Rj2DcCUDFJqgk+Mjk1Kw1OKI0fV/A==;8FKdlfdEF0HgnDXfYLw3Mg=="
 ---
 

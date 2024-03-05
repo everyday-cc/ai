@@ -26,6 +26,17 @@ images:
     height: 960
     isCached: true
 
+related:
+  - title: "Language expert warns against the risk of free translation tools for high stakes tasks"
+    excerpt: "Still, when it comes to translating legal documents, contracts, or sensitive business materials, relying solely on automated tools can lead to unintended - and unwanted - consequences."
+    publishedDateTime: 2024-03-05T20:11:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/03/05/language-expert-warns-against-the-risk-of-free-translation-tools-for-high-stakes-tasks/72856067007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 11
+
 secured: "HfSGjeukgyY1kjuactsWo3cFpVdDbxxCy6sv6Oc32QcI/5B/hHzduZQIRiAma5WFPu6sxyEaLzS0SMpB1reycRHsMAGDNaaMrKWzjrj3jj9ARC07kiAel2EtOqyPMEFEbHprRrQmQAVAMOpaN4WH4glbDf5K1jQMP6iAeijmEyreyvbrYJ9Wuvtp3FArT91p0K22OR8uj3nbuiyR1u6Wtyh1oOSbBUhnkQUzbukRCMl0JB7r5SJ7fEBoFEYpOW91KcrdrM9I+duO5+yttT5a8ZciVeenG1Tv5pml1Tb28FyxSwBAginsIZsIXQnOCWQ0f9yUeDN3nZlpPXDNSKbmFA/qI3WaginAQ3NqPW/IWTwDqBmqaHHRRUXekAlImL4xHblVxVn2JhOaKMFuWNjkgRYWKURdC4Ksoj5RL7Dt7oB4iJYjGZsyv/UfTDgCZnYUxCN4O7w2QDUGS9l4C5vBVWQaTtHM6CaGnOcEWi838Rho3wgw7YU+wJ1/Q2z8YaQXqcrVYjYGo0ygGirZuO2+CQ==;gZdRyMCDrzsaqiyWcIMM7g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
 type: article
 quality: 87
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -75,7 +75,7 @@ related:
         height: 847
         isCached: true
   - title: "The Impact of Artificial Intelligence on Our Encounters"
-    excerpt: "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ..."
+    excerpt: "According to a recent review of the literature, “In healthcare, social robots … can positively interact with the disabled, children, and the elderly, reducing the workload of nurses, physicians, and caregivers. Because of their artificial intelligence ..."
     publishedDateTime: 2024-03-05T16:22:00Z
     webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
     ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
@@ -84,7 +84,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6"
         width: 1528
@@ -211,6 +211,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 17
+  - title: "Franke: The Dawn of Artificial Intelligence"
+    excerpt: "It seems one can’t pick up a newspaper or journal without seeing a major piece on artificial intelligence. Until perhaps a year or so ago, I hadn’t even heard the term except in science fiction and now it gets more Google hits than Taylor Swift’s ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.greenfieldreporter.com/2024/03/05/franke-the-dawn-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Daily Reporter
+      domain: greenfieldreporter.com
     quality: 17
   - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
     excerpt: "That's not stopping some well-heeled tech companies from trying to keep outdoing each other in showing off higher-quality AI video generation at longer durations. Requiring written descriptions to make an image was just the start. Google recently ..."

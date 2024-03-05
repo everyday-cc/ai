@@ -86,7 +86,7 @@ related:
         height: 847
         isCached: true
   - title: "The Impact of Artificial Intelligence on Our Encounters"
-    excerpt: "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ..."
+    excerpt: "According to a recent review of the literature, “In healthcare, social robots … can positively interact with the disabled, children, and the elderly, reducing the workload of nurses, physicians, and caregivers. Because of their artificial intelligence ..."
     publishedDateTime: 2024-03-05T16:22:00Z
     webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
     ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
@@ -95,7 +95,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6"
         width: 1528
@@ -209,6 +209,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 17
+  - title: "Franke: The Dawn of Artificial Intelligence"
+    excerpt: "It seems one can’t pick up a newspaper or journal without seeing a major piece on artificial intelligence. Until perhaps a year or so ago, I hadn’t even heard the term except in science fiction and now it gets more Google hits than Taylor Swift’s ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.greenfieldreporter.com/2024/03/05/franke-the-dawn-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Daily Reporter
+      domain: greenfieldreporter.com
+    quality: 17
   - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
     excerpt: "That's not stopping some well-heeled tech companies from trying to keep outdoing each other in showing off higher-quality AI video generation at longer durations. Requiring written descriptions to make an image was just the start. Google recently ..."
     publishedDateTime: 2024-03-04T19:36:00Z
@@ -219,6 +228,6 @@ related:
       domain: wftv.com
     quality: 8
 
-secured: "HxCoBAU2OJ9bM08/6APipW/1uZZh7J3zMf7EbRO5d9JtfEtIclx+cKPwrSJ+N8MFubprlY213z/SXVsIirHLgdBtYhzttLAxQkhVaeE3r9n4j40+oUG10uAeqlNncZy6gnFTy7B91nyhtCQIMGIMZLy1VbNpGoL/AVJhnP2D2silGN7MnarY0KTNU6fwMweD9tY59nGc6mDqRrR8p54V0S/8LI0NML/SuoZ4J21FwpKFKTyEEwHshYjmK4Ee1YT0oCyQeeTKiEpWb4ldaep6cJXDmqhOCoO9G9xOkTrX85BrlcP4uNsW5P1st2zRAOBvFUD1aB2VLZe+DUzxknD1KKcCNP+oK4mJPiVXq9q0yO4=;dCxAWTBJVBZjxfeN0a3PPw=="
+secured: "62VrcMJoDk8OcxULMKF7gJJEP8ELfNYgXCvtQqZ1KRx8er+8Z/6Tr4jRcmTwqXqzLEAVIXmlQxYEK9wP+sjdduj5P1gMI456GKbfWh8UODtRqDMOdlZRlOQaAtDl9yTSZjMjEV/CRXJMAGqRgHbMbLCD2/LZLgxiNIf3wg7/Z94TboI09irpf19rpbPtRPIGS9GTAIroOZnA8cONtUnGQ4J0XmZL6BU22YwkH364MLVv3MxC73As04IB7Hm9PVUKWwGIG4/GaYLYvQzBTJxTAR3ms0TPdI8uyNU5ZlVIcGu/l6vRFo3wWpRhrByo9/tkbbvojDhPHkm/fmFIzKL6yxZOEmUyB5af//Lu+vSZGeRAWUS8y8OV3PDiAESfc0BLhxz3dad9Uu/0GCxa1YCj1CObzd//nRndYEg/VI6w3/k/8iDjx8k4ikRUKSGHssSV5SjQzr/5z0tpNxH42Yr5zRyCLwYy0hNupaC0hCdTpXa4EznH+i15URaPgODcJ40FAp68e01Vq4wck5vLfm9hFg==;bCcjxB1G+UQIhHKbpQrqQg=="
 ---
 

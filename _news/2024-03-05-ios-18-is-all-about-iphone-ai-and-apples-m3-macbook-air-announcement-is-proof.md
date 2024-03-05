@@ -41,20 +41,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Here’s another hint Apple AI will take over iOS 18 and iPhone 16"
-    excerpt: "Apple is heavily rumored to add several AI features for iOS 18 and its upcoming iPhone 16 lineup. A new report gave us another hint at it."
-    publishedDateTime: 2024-02-29T20:26:00Z
-    webUrl: "https://bgr.com/tech/heres-another-hint-apple-ai-will-take-over-ios-18-and-iphone-16/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
-        width: 1600
-        height: 885
-        isCached: true
 
 secured: "hp7Fpfy+tHaCEfoQI0O7+4V4Htvd+RpvGO1IY1stTessg72zBe/Yknr9fj8qLT6VOYA1z0Ozp0138eK7KpHgwVlE+dKByrsvlhZOVTtOxzIUwXAtIgxJBy22RCfgAad1TOGLQZ1ssUpgQhAJKq84F4/K5Y/xjbNxdbs5uiS/J+gko7XsfqOxT3dTmsyabaEABFCtwq/uICo5wjnr8fUW1PxSrtGAui6nhlvuijivWRXvyUEwaqIcUCM6NZP+oidUWqXXV9esXHQe9DCI5Z9LvaWdWaBm9pW4s8z4bAnsPQLvtM7Jb2PBAiOZo7/R24ILCfVZyuYZigWgalDd1l4XTa6euNdT/GcurJPcxINlkPs=;+2Mj+XuUaU+xN3RhAxGS0A=="
 ---

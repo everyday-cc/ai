@@ -49,6 +49,24 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
+    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
+    publishedDateTime: 2024-03-05T19:08:00Z
+    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
+    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
+    publishedDateTime: 2024-03-05T19:29:00Z
+    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
+    type: article
+    provider:
+      name: Geelong Advertiser
+      domain: geelongadvertiser.com.au
+    quality: 10
 
 secured: "DchZDFNCqgsQLNFyuCSDaJnBjycQiCwG2SmYa/GdG2GY3KXQYul4snubgDDpNhG8flbisqvCrbxnMcBt/VgNC7nwFY8p2Weq5qChSjs8IbUNjtq95QAWzy/8To3fZKotagAFxwkABhM19O4ll8WHfOMzLHMj214xgFaSosJzezYQ2hLnuV+fTq9kxxxFNqWJIni62P8prOen9aglZ/4Ho6BneWcX4E0zC257XHlPAeLif+oWEgf8kZOEo7/uVFahVhPJe2Y4HPUOcNxwl/rh4bUTzjuQfPBkAZoyPkfa+vcUt1I7lWal1L3xbPhOaJnLSwRzp22KYljS2IfLovX+ibipnc5V1LxeVFL6xv3gX+0=;RXDiqKXxxsz1DCqpxpX4xw=="
 ---

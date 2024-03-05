@@ -1,14 +1,14 @@
 ---
 category: news
 title: "The Impact of Artificial Intelligence on Our Encounters"
-excerpt: "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ..."
+excerpt: "According to a recent review of the literature, “In healthcare, social robots … can positively interact with the disabled, children, and the elderly, reducing the workload of nurses, physicians, and caregivers. Because of their artificial intelligence ..."
 publishedDateTime: 2024-03-05T16:22:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
 webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
 ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -17,9 +17,10 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6"
@@ -210,6 +211,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 17
+  - title: "Franke: The Dawn of Artificial Intelligence"
+    excerpt: "It seems one can’t pick up a newspaper or journal without seeing a major piece on artificial intelligence. Until perhaps a year or so ago, I hadn’t even heard the term except in science fiction and now it gets more Google hits than Taylor Swift’s ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.greenfieldreporter.com/2024/03/05/franke-the-dawn-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Daily Reporter
+      domain: greenfieldreporter.com
+    quality: 17
   - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
     excerpt: "That's not stopping some well-heeled tech companies from trying to keep outdoing each other in showing off higher-quality AI video generation at longer durations. Requiring written descriptions to make an image was just the start. Google recently ..."
     publishedDateTime: 2024-03-04T19:36:00Z
@@ -220,6 +230,6 @@ related:
       domain: wftv.com
     quality: 8
 
-secured: "xV5ZNLZkOXXZzHsyeeKzQBf4SH5GpgRK0U/tuUkfG+gP7PlN9jsM7dL53bLLzNr5Ba5k6CiinkfUf9cv7w8i6WA2zmOzIxqk+3p74kYgbcIobLtojC+lWk1U3WXumvPNP9tvfyW0vqOqxuz6Guuky+9gMOOLV0mUUF3ie19IRvdj3fIj4KuKHAua43vXKm1CU7esFEG9zPWFXtWfLTDKKLVejpKl0GzOm8pZnIeZD6DHFyHYfRIE3vJEuxrux65tmyEyc6i+8bQZ2LlT8UsTWU13hzpgtvAzMq02sOfS0JuWNOb35inILwTSft/o4WgrblQimeFeJenl4dIrTKtdhk6u6g5/jK62Tm3zdkwplpU=;DWHO6lDVo0r+peoR7SfRLQ=="
+secured: "ATUZQpEAxrWuwarj8Qs3QCsKmUf9unEw6FvjePpKAgss8XEtsh+8kxY9lh+tMoxrxCe5ti9rvMn2Ytbd8hqZUWJ6rOatC0co9dPOhUiKiUAD3bubLZH0RKN1Ps59eVgEc3Acregb1mREZV/4Wl2nBfFW+yOqweef1gZg0f3QhQBIInrayNEXrZNfAOqNzG9uHwk9Iqrjr3SyzxVZRitNH/ITgJDdoNZd8DMJMuevkj5rRB7/YR4DstE3uANZp5XQj9dKnjQ6M/ywzEtYWBWYfV8p09W+RfdJZ8qAy210FMpLGF0PuVyUGuuf7jwnj+xFXZ5rbXURvRQmj5/VU9UCLBkmygybfpYeQD/vLgnOAA0=;QDMYwhbRDCpKPV8KAnAE2A=="
 ---
 

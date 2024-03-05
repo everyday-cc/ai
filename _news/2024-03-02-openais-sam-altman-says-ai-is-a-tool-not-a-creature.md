@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
+    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
+    publishedDateTime: 2024-02-29T23:14:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission"
     excerpt: "The new Board consisted of members with more experience in profit-centric enterprises or politics than in AI ethics and governance,” the lawsuit adds."
     publishedDateTime: 2024-03-01T10:30:00Z

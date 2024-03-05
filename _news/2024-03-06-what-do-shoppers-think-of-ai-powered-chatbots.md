@@ -34,22 +34,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 58
-  - title: "Canada lawyer under fire for submitting fake cases created by AI chatbot"
-    excerpt: "Chong Ke, from Vancouver, under investigation after allegedly using ChatGPT to cite case law – but those cases did not exist"
-    publishedDateTime: 2024-02-29T20:09:00Z
-    webUrl: "https://www.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2024/feb/29/canada-lawyer-chatgpt-fake-cases-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b45223823af90a16d52ba01337b9e85da635acb/0_101_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=43b13e2355f57d44ad13ca18835eb670"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI Chatbots Are Better at Math When They Pretend to Be Star Trek Characters"
     excerpt: "Rick Battle and Teja Gollapudi from WMWare’s Natural Language Processing Lab set out to test the effects of framing their questions with “positive thinking.” The study looked at three AI tools, including two versions of Meta’s Llama 2 and a model ..."
     publishedDateTime: 2024-03-04T20:00:00Z
@@ -59,6 +43,15 @@ related:
       name: gizmodo
       domain: gizmodo.com.au
     quality: 34
+  - title: "Elgin inks deal with company to create AI text chatbot to provide answers to residents’ questions"
+    excerpt: "Elgin plans to add a “chatbot” function to the myriad ways residents can obtain city information electronically. The text service will enhance what’s already available through"
+    publishedDateTime: 2024-03-05T18:43:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/05/elgin-chatbot-ai-questions-text-residents-citibot/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 6
 
 secured: "ETyrdv0ZVXVZQGlsVxcXmwG/tLajCX8PpDBIVRN6fRhV025Bh3yXoYrWA7d7JeqcpHueb9TklrtQ/Aw6bYO05vuLlBN033XIdg3KZBja+KQCSHdKTra+JrKPFPDstNNnz9fc+5CNpjBp955Zq1kIwkBKC7YfY0zHRFamP4dzLaKkECWSYG8nSYm1ikHWmuEAJGy1PQzY0N/4+m+kWY9+oMCYisYO756F2r8sUS88YzC+R5H0LcICmJtBNlivh5vo1geKNxEqWai0o1U5JmtFkZzkok9QfCke85XjtMDY5FtXF/p3RWRqciyrn4PHCscralO1eDL/dLt9EIk/rXSQUFTM40ZfqxOtgRiS/brcEbQ=;4C4QPT2QL34XLJdKfWi8TA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-int
 webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 12
+  - title: "How Artificial Intelligence Could Trigger A Natural Gas Boom In Europe - Financial News Media"
+    excerpt: "When the use of seismic surveys became commonplace, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and other data, but that's all changing now. The next round of onshore discoveries is being aided by new Artificial Intelligence and Machine Learning software that sees what we can't,"
+    publishedDateTime: 2024-03-05T20:22:00Z
+    webUrl: "https://menafn.com/1107938601/How-Artificial-Intelligence-Could-Trigger-A-Natural-Gas-Boom-In-Europe-Financial-News-Media"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "xGeGlJ1rZKAdfgszOB9DtXu0nWVv/MYWvG0EqTD+Nny5QofTvfprZdFcOim+P46ojMvFQ3ZXshOAvuTN1NTL3+Lk2rDQsFzeT5vtS6GER7yXvfenuWC1sw/wPGfcudMaor3WbHMl5IcaRptseyTWeqUGsT39LPVJd7gHWWMEt+XANVr7RgUYkg/Imx0BcxtOS4G6ClHJdywFcQB0NH1siDQ2lNfsPLa7QlXXl4IjCZvDDrxJO4SX6hrfQHGU9Boeb90+WXcri/DLLX7u3+gUOegJCbVtxbjMRD+O+I2jsXT1O15JtXDo7tRtoT2jXMQBcvofBHS6IAXAUlqDZhTfckvjgs/8GOvFribNWBzX3LylZGb+zbb1VNJON4+bFA//KHodzAxA+M3AILFDeEc0YcQ0i+R/Z6QTj+MsldzyddSyxVO5j7RV4YEuGXcOgmXGK40cVdPap/PuQUnmjtOU2HJpAswkVTGCPM9WQa+DvanvGWsQctI1pTQbjopCf38x9oLVYsqoYlrq0awwSzfdow==;c/a/pKmh++EjukCc6vxprQ=="
 ---

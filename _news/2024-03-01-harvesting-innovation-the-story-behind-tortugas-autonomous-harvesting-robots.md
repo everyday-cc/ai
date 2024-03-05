@@ -50,6 +50,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
+    excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
+    publishedDateTime: 2024-03-05T19:53:00Z
+    webUrl: "https://www.nextplatform.com/2024/03/05/anthropic-fires-off-performance-and-price-salvos-in-ai-war/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "+tsF26MRtRnq7LxpilXVkTDBXydtYcPzSbwQBvw8GT5yJLse8LsNQjUHZOxvJsJ7N41fSo5bmVGeUTV4I8kvi28oyOuQtToJydNYaM0QR5Ru1fJ0OVw6F0x3xTcsc/BBcIOnC3TEdYnWqOm0zAcJ6DlSyAdO1YrFufcLfLrolPCozDdCn43b4YHbk7N0vcApwA65E1PjLV5kKaPSBrBrVKfqDTy38s55gtwsrULfeF8M2aeBfGIpqSHsGSgnA1er0YvwJoc3L+JJRuBDPFVQNh3c8WdZwVJmqg/b2dQb1rqjIQFIcphUUmdZEBdMwYCcEyCzIlxMlLlw7prsuDzal4HTkF8mML3NLI+a6JewjuU=;tuW1V7x12LtESbhOhtXWNA=="
 ---

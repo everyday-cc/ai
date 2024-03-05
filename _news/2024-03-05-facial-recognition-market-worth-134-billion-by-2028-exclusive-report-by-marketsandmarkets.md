@@ -1,23 +1,23 @@
 ---
 category: news
-title: "Facial Recognition Market worth $13.4 billion by 2028 - Exclusive Report by MarketsandMarkets"
-excerpt: "It is anticipated that facial recognition technology will witness more breakthroughs in research and development, enhanced accuracy, broad industry usage, heightened focus on privacy legislation"
-publishedDateTime: 2024-03-05T15:31:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61592578-facial-recognition-market-worth-dollar-13-4-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61592578-facial-recognition-market-worth-dollar-13-4-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+title: "Facial Recognition Market worth $13.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+excerpt: "The global Facial Recognition Market is estimated to be worth USD 6.3 billion in 2023 and is projected to reach USD 13.4 billion by 2028, at a CAGR of 16.3% during the forecast period, according to a new report by MarketsandMarkets™."
+publishedDateTime: 2024-03-05T15:29:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/05/9973180.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/05/9973180.htm"
 type: article
-quality: 8
-heat: 8
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "KfaGUhtNtPteeGXTVf8tiGfDIq4NFCKQKIq8dJCCnO+Urlo2qZyPYn2XBk4uik69Lq2HxVSQyJZBkbgzg3WlUWz2/C5NUhEsvD3YHmWQlrwzTJzZ4OuN3tZlmHLQoBmkPYYBFvqKxigRxNWSkoBzvt6NeTE9P7nq+Nr5MlvR1b6guP2nG+CpOAjGnaW9RFv4D+ldHLQbucQxOoWmyx2CpTQpqt4R93Vgx6lbyqJTzt4nIsLwFlJhpU+jZ1IQG6MW+mJGO6nCgUe9q1C8/xdaMHWrDBSsxRVorEAQesIBtdgdlXH0mMWJjkHbGl8ic63BaCd93tfzGLD3hmsIp5SxEw2eg8DtGVyrxSECON9y7Mo=;/G+bniu4OLdbYNtYid254w=="
+secured: "ntOvgnPi21NULI0Hy6c3lWvhCWy9Dg0v2d3iXJiWcnmFvNBftELCD4DuKcC9VtlY3zjeleX5doqyAkgmirYDH9VGWi49PwvsuChwv4zkwnn7Tz6HJrZiH3q/c5M5dY79fhGZi2nK1tNjAqC+WhLKtkNRAOD5gjOyuATso61Qblh05+UKtYWuKd0bUoGUK3Wezja+VF4/0r9MrJoCEO8/HVbfZrsoo0aMqJU+PWL0uOFh5eEgt4DU3rkSjWotdAAKAWfSXBImUBuJxmSHVs/VYuyEDOmp9E+vNSR0WcGjYKurUWnI6kAvRbaRwJudunAePWTyLph4poO/RK6znXITku+KQncqwhTqSjRVm31VWV+mD3R3n9lJ3cxuiPt1zNCRMkUFAO69lVU1R85kSCanGnFrJAT9aR3K92g6hrzJxDGtNMpGwz573Q9DoicAsRWz2ULfSc5Z30EDyhKebI3AoRPH+6SSB+1tsB53oUGlVA0eXONdya4a+iDzO1YNxKYJ4qbcL68AtOfw4jjeLrZqeg==;CkMFO1FyH7lhFNFdhFTu1Q=="
 ---
 

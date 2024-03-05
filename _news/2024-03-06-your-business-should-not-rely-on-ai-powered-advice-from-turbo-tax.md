@@ -23,6 +23,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Your Business Should Not Rely on AI-Powered Advice From TurboTax"
+    excerpt: "What AI cannot help your business with, it seems, is tax prep. An investigation by The Washington Post tested new built-in AI systems offered by TurboTax and H&R Block, and found that they were frequently unhelpful and often just plain wrong when it came to offering advice."
+    publishedDateTime: 2024-03-05T19:01:00Z
+    webUrl: "https://www.inc.com/kit-eaton/your-business-should-not-rely-on-ai-powered-advice-from-turbo-tax.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+
 secured: "vxXB5Of4joENSbehD7fzatOZ7NL+XzDZ3DzJZr4vrcle7EQjO2EWh2aeE9l8Wc5zMJC+7ilZ4cFQ+Co8DZoL27MYp/kK9MB3gy6eVbKiIRGkKmdd2ZGyiUcEEzEnfEkBtTfvmyZwHQOCLwatqcjaCjaxq4kJN6QswZzYDcjBLIibNvlYlnnM1ikRqJ4l8AxliHBOXzwn8gqGZDAsUF3I4fpOf5LaPN2RGmovVJudv3xaJ6iqkTewG/k1Aoh4qbbxrRcUKv5ezEikmNsDWti9uGSjMtEdSOuQHBfkspI9Swr84V1wuavaSzKSVzuW6p0FEiEun+Vul4GvsR0/Ntd5arTbFL4MvW+dVdEahnj5FsE=;LoKT+rmsvQUBBo0fLj+2kg=="
 ---
 

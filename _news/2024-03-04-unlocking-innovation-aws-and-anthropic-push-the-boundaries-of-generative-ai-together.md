@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
+    excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
+    publishedDateTime: 2024-03-05T19:53:00Z
+    webUrl: "https://www.nextplatform.com/2024/03/05/anthropic-fires-off-performance-and-price-salvos-in-ai-war/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "IIMDdqpSuXA50TKEmBN7EYGlBxBRIOPBzCi7YO9ZaXMJBWx0nmK+fRn5ZXFAsX9bnXDumz0uBwUASifEZWZ4dJQ40gZNP6K8YwFOCC34XNXc1e5Y9pl0qY+8A5c0FEi1vH7HcS6qbC85CmyU3F0VfCRH9Fu9ptLv975Vj3ho5HqwvGSDk0sEntNW2n6BjOzimgsQraf9PDpMdm056zA7VTZ1AzaVyZKqPxHGm/2QDVBjlMRotncDhP4LY71GZ3JpkoAX+9RWiQS/4PtmjVQTrDrcAaHolDG7k+S5Xpx66Etq3L0AWeEKX/FKmyd4ju7eGVNPnmjNys+f0uH95QS6Q7h+pBeebftuvokVuuXHdW8=;fa8Yao9WWXIJYYFt8FcGMg=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "University of Florida's AI Research Stymied by State Law"
-    excerpt: "Hundreds of UF professors have petitioned university leaders to undo restrictions from a state law that effectively blocks universities from recruiting researchers from seven countries “of concern.\""
-    publishedDateTime: 2024-02-29T21:37:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/university-of-floridas-ai-research-stymied-by-state-law"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/51e344d/2147483647/strip/true/crop/3000x1458+0+271/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F9f%2Faa%2Fb1354137431894021c959a91da58%2Fnvidia.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "skevJ15dnDMNIcJ/UZ5NHFfjMWdRjVfvGCe522ogCoDcvoB4q8uOPIiRgK5Xy4LUzUEvcUIvmZm6GBT1qkaM208olG1UAp6ti2uOOkhtg40kRfO9+OTu+r7vkGclIDqeYl2MPl1BZvFzFFetCC7Gw4spyJWomGxktC9yMUiKdrWhQa/BCvUwYRnDqYmXScKMbzi5vzmGeIDZYaMUzlGqvPHIgk/dc+q7rQqPavfr/7JADkCyuAPYe44s2UbJ5jGbv4XvaT1VeBhi5cSMhrauw7r2+vLBr47wSTgw4VHBl8mdlq9eVZHTRlgM6dzQ2WlQX8OHm5XDqVN1XkkC42pyJmd/mYk6txMf/kV+jsgoUPYQjO00kfL085hM330tXlBwanJycOnqEbdLODDQUwbTA8cealWHpYOZC1KdBlabpAmbzI1sBU+GoVXPCFT/pJTsQKz49hjyXtVE/qJU1BjP4902aDM4U9grriMRCC47AFbOHyS/OeH5i5mJu9EKiRSgXTRgm8s8amcVd+IvaeRDfA==;auaVXmRkKJR4hp/5uz+lUA=="
 ---

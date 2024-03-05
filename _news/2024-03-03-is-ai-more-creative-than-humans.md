@@ -42,6 +42,20 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "7 Techniques To Maintain Your Creativity At Work In The Age Of AI"
+    excerpt: "In the face of rapid advancements in AI, how can we ensure our creative spark continues to grow at work, rather than be dimmed by the glow of technology?"
+    publishedDateTime: 2024-03-05T20:32:00Z
+    webUrl: "https://www.forbes.com/sites/sherzododilov/2024/03/05/7-techniques-to-maintain-your-creativity-at-work-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e78d77759074073b3318e5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1348
+        height: 900
+        isCached: true
 
 secured: "B4IqAOM5C3oGG0ELn4mxf/1MCbboVS67oVZkCCWi6om9f1sJ8UxWCyoMdGlrPNWPpCMxIIQwCythBpRFfyToTCz+AFmW8e2JMZIwkyZrNbf4eDYZN/Hz3/p3d6CODj5e+8kmIWNKjd4kpjkthWlq2aLZt3uqJsFLopnaTYMYgfizC8laXB/PYAVWEaIJWeOYsKgzd8VzP2wAq1lfSFKqD2EJhyWD6FksyRGcSKut6nh8hRv/JUCr2dUwav/D5cwONCTvOdD/ob+HL8PuEzKmuAYtZPzYmMNiLK5Rsz5kHTD9SkpWwuEOpaehATOiiaBsVV0LZX13FGgFTt+VBfBub8vrixDUSHYS1at010aufY8H++DtxUbEGQjtVlPcjB+4/N2dkhZcQwPG1sjYF2fGxy3ceUHqaSvIdRQUczDok9FeX9BfgE1SAU6+vg8b8sPDrCGkdoIEaHAiciccrKp8Xu9m1Ls9wYGXPpxeIz1Ffuo2Zmamz5Z1JaquKcKknsIdfTNhHa79Ug7nr+HONIDqBQ==;syROnZ7DrcDqK9V4kEE69g=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Panellists to discuss impact of tech and AI on professional services"
-excerpt: "A trio of high-powered panellists have joined Insider's debate looking at the transformational impact of tech and artificial intelligence (AI) on the professional services sector."
-publishedDateTime: 2024-03-05T07:48:00Z
-originalUrl: "https://www.insidermedia.com/news/midlands/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
-webUrl: "https://www.insidermedia.com/news/midlands/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
+excerpt: "A trio of high-powered panellists have joined Insider's debate looking at the transformational impact of tech and artificial intelligence (AI) on the professional services sector. No-Code & FinTech pioneer Jof Walters; Matthew Woolgar, the deals tax ..."
+publishedDateTime: 2024-03-05T00:00:00Z
+originalUrl: "https://www.insidermedia.com/news/member-exclusive/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
+webUrl: "https://www.insidermedia.com/news/member-exclusive/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "EJrrkBq6awJbIJ/WxUMltxNXWOqqHVPdf+z8a7BlFBWoO186k8Plz5mzCNVJ2JNUlZ9p/9vqpaXl1Imu7lY3/FgRTGLWVs67qnIHR26QD3T/NqCzYwxAAGqVHnJ6BPmsQ84xO7qE8VZuKpfbE4fynU3hEg6DkriejuA+QvscbIwYqtNaZSeVFLXusXbdgFZoXDO5+EklJfJEpe59Pf7UU3MA7FI5BG2rYg8TMpb1MUcQz/tL8yTAthb9Ho3EoUTXZXPPmXD1Ma+TICwOMPAozWuFQL0WINmSjqNsHhXfU1yl6N3+3TrivdSS8MS1qUB/GfBCiDW+u5j2kNugzJwreBXeyuaq2U4soUxr9rFiCHQ=;Q4V2N0muWxfHTsxQeTVJEw=="
+secured: "eTLBfojNRXubuKUHVREXOaB60ROjnIxOiosnyG8ycGlcQxi9KYzPB+zit3Af+7VYLtnVhL1kupls+4WcaZ00JENZ3+CNODg4Q3MpPww0ASTvYT/RoCpZq2nnmx4pPoaBFMSzaIaTkEZVBZ54b15gRkf5pbeKLypNBbLDoIAHahxSYO4Fm9hnVPEij9mUffwdBLqmKM9kSsFn9lwqDd1L1iSSnIgD5o6LFt5iINpJOtfWYZW1DswFdUnGz8Vk9z7tjfIaSUKQIO3lSUxveI0gn5sDsFqCeaiPrj8ka1LgAck+paFnOJuz8cvjAhd2CMfByCCAyKZrkpNQI6cuDIELPSSMoG7xFmyqAKxnJmn6K+0=;fPBn+JVynoUsv8yyeQQNBw=="
 ---
 

@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
-    excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
-    publishedDateTime: 2024-02-29T21:20:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
 
 secured: "HdkYzxb9wWsJs+2hHzP1BJcLNwgee0J25Ldd9udXjeF44k/7e3kjvbvWuyadOh9RQh/RC/DTdqFz5xLO8Par1gMzBf3q/NMjTUuGToYfgxIjaBWiYEBfRb2QFYK4KZTu/o/MaHwKRjFOgtcZk4lRoFWtydFyqieT2uAL96yv/Seb2Cz3hZStqWipzC3FLWMffUOfcxBmaGv2Pm4+li0M3aLYQ2lkWbZ6rLOYLXAfFKaP8QRp++1mVUfw/PzqewOEK3ykSUU3f8HY+AFXdNrXx+xy/HB7Gr1mUcpREH4GgDlZ/3QS6YGmnlukXcbFwoVLz96OVJcH7wU+zFWtO4M4o9ig/nWlxWeLjZQBCjlkQWCZEbc5TRx48MHggWkOyDWI9ElI+uC80RW0iZeJQ5AnufjSK5STrjy2OFoFXQSNqLC5jrhXXPOhdqvdZRrqz2m1qf3VqVuDvf1YaJ6Fo6969F2epUtIMPFqy/ePLAAI6+GwOy/Kfai5m0GW5Fp7jwD9lGKljy83i+u3FDoqAkgaKA==;m00D4GSO86Tzp9SeScIgsQ=="
 ---

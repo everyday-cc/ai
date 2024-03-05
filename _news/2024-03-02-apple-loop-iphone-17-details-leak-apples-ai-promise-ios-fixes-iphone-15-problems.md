@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s another hint Apple AI will take over iOS 18 and iPhone 16"
-    excerpt: "Apple is heavily rumored to add several AI features for iOS 18 and its upcoming iPhone 16 lineup. A new report gave us another hint at it."
-    publishedDateTime: 2024-02-29T20:26:00Z
-    webUrl: "https://bgr.com/tech/heres-another-hint-apple-ai-will-take-over-ios-18-and-iphone-16/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-226.jpg?quality=82&strip=all"
-        width: 1600
-        height: 885
-        isCached: true
   - title: "iOS 18 is all about iPhone AI, and Apple’s M3 MacBook Air announcement is proof"
     excerpt: "Enhancing an image with AI using Photomator’s Super Resolution feature is up to 40 percent faster than the 13-inch model with the M1 chip, and up to 15x faster for customers who haven’t upgraded to a Mac with Apple silicon.1 Later, Apple calls the M3 ..."
     publishedDateTime: 2024-03-04T18:32:00Z

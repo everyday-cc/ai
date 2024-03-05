@@ -25,6 +25,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Ads on Instagram and Facebook for a deepfake app undressed a picture of 16-year-old Jenna Ortega"
+    excerpt: "Facebook and Instagram hosted ads that featured a blurred fake nude image of an underage celebrity used to promote an app that billed itself as a way to make sexually explicit images with artificial intelligence ... to independent research from deepfake ..."
+    publishedDateTime: 2024-03-05T17:05:00Z
+    webUrl: "https://www.aol.com/news/ads-instagram-facebook-deepfake-app-220434470.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 11
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/E_TZgM5XLsMoj4Ijh3NseQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI-/https://media.zenfs.com/en/aol_nbc_universal_184/623fa5145203efe3083369599ed4ee34"
+        width: 1200
+        height: 862
+        isCached: true
+
 secured: "RMFnzTEc98zGn97dWVAK8drxry6E78wOHERdcPZLr8f/Kfmn2ulYi4+mxl2sD2fGLzuuc/XUtBtbMkT0VfVIfeo6kZzTa0aRHfbVgBW4JUZ6qUWdzpf35b0pJrgPZK3TZet8vU2cLGyLpktuJilg0FkarIlFaYE1ZwnJmiGx1ZRqkNiDqC4fAs2EuyhZNvxMm8RBPfbo3/9KzwXZHMtt9slGzgY0SCPv5g1oY3TAvQlB06FUdoh9ol3sWVC9SJ4fQMK0Ftnc8s1Ea+B/W1R+JG+qFjCISLsyAS22DQzUd+fRIfFJyBeZ1/2di49QMpCxgfWfc0EIZ3FgjYUQadem2G0z1bVxwiYfrVG2yFor/fONBGpZC2Gd3x2HeU3oJek9PIyn+IRfQSfCd/FlaLEVJK1pKODZWAYEPJlhYKROYcPbIiSSJiUhndmdAgSZeQWw1uMPZ3MLGm40e37FNtnx69d5vfSL61IEQD/rJ0HX2KCqmJuYMygyms/MYsp6R7IVaP774qMUJAOIFkrnX0F8yA==;cLneNTn4pTRv2IOsoO8LCg=="
 ---
 

@@ -42,6 +42,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Snowflake Partners with Mistral AI to Bring Language Models to Enterprises Through Snowflake Cortex"
+    excerpt: "Snowflake and Mistral AI today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake"
+    publishedDateTime: 2024-03-05T19:10:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-partners-with-mistral-ai-to-bring-language-models-to-enterprises-through-snowflake-cortex/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 5
   - title: "Snowflake Partners with Mistral AI to Bring Industry-Leading Language Models to Enterprises Through Snowflake Cortex"
     excerpt: "Snowflake Ventures partners with Mistral AI to expand generative AI capabilities and empower more developers to seamlessly tap into the power of leading large language models Snowflake Cortex LLM Functions,"
     publishedDateTime: 2024-03-05T14:21:00Z

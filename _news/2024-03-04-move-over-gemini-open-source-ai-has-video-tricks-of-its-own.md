@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ethical AI Isn’t to Blame for Google’s Gemini Debacle"
-    excerpt: "Mitchell currently works at Hugging Face as Chief Ethics Scientist, driving forward work in the ML development ecosystem, ML data governance, AI evaluation, and AI ethics. Earlier this month ..."
-    publishedDateTime: 2024-02-29T19:13:00Z
-    webUrl: "https://time.com/6836153/ethical-ai-google-gemini-debacle/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2036327566.jpg?quality=85"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "GSI engages AI and machine learning in mineral exploration"
     excerpt: "Furthermore, a series of lectures and presentations were delivered by distinguished geologists and subject matter experts, elucidating topics such as mineral prospectivity analysis utilizing Machine Learning and emerging technologies in geoscience ..."
     publishedDateTime: 2024-03-04T15:11:00Z
@@ -123,15 +109,6 @@ related:
         width: 1200
         height: 657
         isCached: true
-  - title: "A Litany Of Apologies Over Google’s Gemini AI"
-    excerpt: "Alorica, which uses technology to transform customer experience, has a new AI implementation hitting markets today: Real-time Voice Language Translation (ReVoLT). This platform can do real-time audio and voice translation in 75 languages, making it ..."
-    publishedDateTime: 2024-02-29T19:48:00Z
-    webUrl: "https://www.forbes.com/sites/cio/2024/02/29/a-litany-of-apologies-over-googles-gemini-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
     excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
     publishedDateTime: 2024-03-03T13:25:00Z

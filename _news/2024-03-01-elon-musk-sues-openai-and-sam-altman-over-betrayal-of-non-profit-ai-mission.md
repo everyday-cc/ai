@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
+    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
+    publishedDateTime: 2024-02-29T23:14:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Altman Ups AI Arms Race"
     excerpt: "Altman has been courting Middle Eastern sovereign wealth funds (SWFs), including Saudi Arabia’s Public Investment Fund (PIF) and Abu Dhabi’s Mubadala Investment Company, Abu Dhabi Investment Authority,"
     publishedDateTime: 2024-03-02T23:35:00Z

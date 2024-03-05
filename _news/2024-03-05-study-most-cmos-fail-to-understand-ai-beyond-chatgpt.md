@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fa
 webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
-    excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
-    publishedDateTime: 2024-02-29T21:20:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
   - title: "How to use ChatGPT's file analysis capability (and what it can do for you)"
     excerpt: "From searching a text 'semantically' to creating outlines and captioning images, file uploads on ChatGPT expand the bot's usefulness in important ways."
     publishedDateTime: 2024-03-01T12:12:00Z
