@@ -7,7 +7,7 @@ originalUrl: "https://www.vindy.com/news/local-news/2024/03/youngstown-board-of-
 webUrl: "https://www.vindy.com/news/local-news/2024/03/youngstown-board-of-control-oks-682097-self-driving-bus/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "All systems go for self-driving bus in downtown Youngstown"
-    excerpt: "YOUNGSTOWN — More than five months after opening proposals for a self-driving bus as part of a major downtown improvement project, the city’s board of control today plans to approve a $682,097 contract for the 10-seat vehicle. The city’s contract ..."
-    publishedDateTime: 2024-02-29T05:01:00Z
-    webUrl: "https://www.vindy.com/news/local-news/2024/02/all-systems-go-for-self-driving-bus-in-downtown-youngstown/"
-    type: article
-    provider:
-      name: The Vindicator
-      domain: vindy.com
-    quality: 24
-    images:
-      - url: "https://www.vindy.com/wp-content/themes/coreV3_lazy_vindycustom/images/vindicatorfb.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Youngstown State vs. IUPUI Horizon Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 7 seed Youngstown State Penguins ... Western Michigan March 6 Women's Basketball Tickets & Start Time Akron vs. Ohio March 6 Women's Basketball Tickets & Start Time Miami (OH) vs. Ohio March 9 Women's Basketball ..."
-    publishedDateTime: 2024-03-03T06:23:00Z
-    webUrl: "https://www.cleveland19.com/sports/betting/2024/03/05/youngstown-state-vs-iupui-buy-horizon-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: 19 Action News
-      domain: cleveland19.com
-    quality: 15
-    images:
-      - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/v2/XKOPJMD6GVID5FZZY7JX3NQM6A.jpg?auth=fdb35a3c4222fc7c72458ef3a1c118f0816015e1f1f479bb06d98733211a0cdf&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "F+cidLUrC3u7HrwqDjywXvUJwEoeglgzMGKMXV/FrJ0VCSD04bc1wKZdBLixNGccp84sIcSOAT3sGWZUvXowRAVnfrxNKb6yBIz0sU/iWE5aw+Ps0AqjlfqZLFcVMo/UDW0awU+2sLsjgKgsPXkhfmbCI9Xz81N7a1aDpFUVZ7bxFSRe9nmQYS77gNsX+8+f7B1LcwWiPQ84U7uEz/RqIc+3Oge1q3ebvJzkoK3JtkaCkR7Kze19Pi9ssqmfh0uM69XWYD5XMnA+TLM/DHhz5EQnJcotBXAghCg6ShrXkkF/rWG7zxsl3b2lgEp+nnyYMgTIC6ANTeein7/NNXk9mRb3MljiVn2vmS/3rJ7N43k=;2bchOynTe8toYXEboS0O+A=="
 ---

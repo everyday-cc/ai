@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-0
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/heard-on-the-street-recap-ai-bliss-jpMqhZUgAJ1c0bjN3rY5"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,20 +22,33 @@ topics:
   - AI
 
 related:
-  - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
-    excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
-    publishedDateTime: 2024-03-01T17:47:00Z
-    webUrl: "https://www.thedrum.com/news/2024/03/01/weekly-ai-recap-musk-sues-openai-google-sorta-apologizes-gemini-controversy"
+  - title: "Heard on the Street: Dell’s AI Secret is Really Out Now"
+    excerpt: "Investors have been hungry for anything related to artificial intelligence. A storied PC maker from Texas wouldn’t seem to fit on top of the menu. That’s been changing over the past year, as Dell has"
+    publishedDateTime: 2024-03-01T16:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/heard-on-the-street-dell-s-ai-secret-is-really-out-now-y3sR7ELlVrFvZcgOAS5J"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 33
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/adobestock_588907775_editorial_use_only.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
+  - title: "Wall Street Strategists Race to Keep Up With AI Rally"
+    excerpt: "Five Wall Street firms have already lifted their forecasts for the S&P 500 Index, which is up 7% to start the year. In the past week alone, Piper Sandler, UBS and Barclays boosted their targets. Two firms—Goldman Sachs and UBS—have done it twice since ..."
+    publishedDateTime: 2024-03-01T22:43:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2024-03-01/bloomberg-evening-briefing-wall-street-strategists-races-to-keep-up-with-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
+  - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
+    excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
+    publishedDateTime: 2024-03-04T08:41:00Z
+    webUrl: "https://www.techspot.com/news/102118-dell-capitalization-growing-amid-wall-street-love-affair.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "6TGd/cHCe9anz+Vg8ME2KNPlDjerl0mInczHSHMWK+QopaU3QI6MViKi+NZziZnbNE9pOXJiCWY4R9gfVQkRYtw9iJjDwmrFyUIE24RV2jYel7eYrflj12tp5SSEpN/RusB2DnkqDQc505SYe+vq+0Zqyh+Nmf9BTjgmSorH9sh2xwaMvgfNcJiSGjWclbM9LSM6zF4MFjAX5phHh63xwev+Ifw3JRzeFrziifIYNgCiXbcj5B8LLss+3gRTtu3ZvVvavFNfwBeQwo6k2RBFkZHnEFw2Tk87mekYqRv0WGPugOaSXiYTOjCQNWkJkp6W1kJNZ3lj7JjHI1ru8V+rLf3e60TnWSeXCNr1NSJ0QdqW+qmxxLriFN6lNcLLEPW3dOgN+XTNbEB/k5wGccEzd4Eyd4Udyx/6Zmt6HkvWQ4Ts8Fg9i+vvBwZP4FtI6jevwxrojwZ5xUCzDCd7QL0mquGr2ybLB5hlU6vKd4XpZksji83SL7IXUcrJhXnCQVWMMg4xZDWU8makLlgGu4Ec6w==;fv5zlZNpkJz0aRP8tGmw+Q=="
 ---

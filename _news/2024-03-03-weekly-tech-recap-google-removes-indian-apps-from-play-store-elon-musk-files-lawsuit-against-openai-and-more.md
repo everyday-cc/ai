@@ -26,6 +26,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
+    excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
+    publishedDateTime: 2024-03-01T17:47:00Z
+    webUrl: "https://www.thedrum.com/news/2024/03/01/weekly-ai-recap-musk-sues-openai-google-sorta-apologizes-gemini-controversy"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 33
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/adobestock_588907775_editorial_use_only.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 853
+        isCached: true
+
 secured: "twV3vEQAf1dsn2TQRdg8tCX/MDhtYB0M26FYsn58DoiigU4opfYFzaerfN683+TdTOfQDYzV8lkrIBdsBhctsHyIYWMv8pENObp2/0ZRsM6gViITFWzV7LFraEzXm5r0Ariy20hSbHDphbOMng0L/VNR96VvrCE4eUdaWb+jXDIF3WM5RzK9fuFc71jwd27zWmw3hr+ycGXGIgnh/izZEmpmFv/k5yZ2tXKe1hZJk4ARGNHE7OqAt/PLS5dFf7MxgBiKgpRWw0HQJrMCWOXQflzgYQddcixpm2EcmTHjApHQsosRS/N0WosNEbM5yXYsL3/evt/X+HgFX+e2h+xfckLxOt5e8YlTFpuvQj7eqhiPRKCtketawWomnLjRzMVQIORjfUB32HJO/eIHywA2AEHqWVSWaEechFfGPJvjXvUZ+Gx+9ULmONRrjO7DK4ItIJYN/aXqp8So/nAaNRw7M5WDTfoOtmL5NYzyner6G9NUtFPzAYOaECltSDRKAz0OM/egiLVJeHAEw57dAseybg==;g2Lehj888XNmap2Bunl5Ug=="
 ---
 

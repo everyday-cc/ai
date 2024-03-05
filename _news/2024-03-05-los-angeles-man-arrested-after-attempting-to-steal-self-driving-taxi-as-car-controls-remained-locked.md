@@ -3,8 +3,8 @@ category: news
 title: "Los Angeles man arrested after attempting to steal self-driving taxi as car controls remained locked"
 excerpt: "A Los Angeles man attempted to steal a self-driving taxi in the city's downtown on Saturday evening, but he didn't get very far — the vehicle's controls refused to cooperate with him"
 publishedDateTime: 2024-03-04T22:48:00Z
-originalUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914"
-webUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914"
+originalUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
+webUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
 ampWebUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
 type: article
@@ -108,6 +108,6 @@ related:
       domain: nbcchicago.com
     quality: 4
 
-secured: "nPtbhX//T7qRDIOowaT32CCA/uMXm0laMuhtyoR23Hx5AvyeyKpfmULVw/F7QwXd0+++dV6z8cQZYS29+Mx05OdLJg0bWp5h7txTSpSpf+bcGO5zsfDC1CgWeApBmEXne6XN90uOKK6IdVn1a2NheN1QgvL1XifV6tVCZ9mFpUBqQ64lcxIyw93N/5zU+4EAQQawQeK6mBJhA5UtLU4TZzqA/8DuNoCytQLQ8ydTbT3ldLdfDuK6ET21me92Ipi51/nKIDqfJR3L6v/ObS90pj7jFNXqENFAIJCZ4+TJBFQ14QiylnmBxufx54Jw4mp3QsVmQ8u2lqHF99S3Es9J1Qa8sjcoTDuFwBIpdmBtUKimyB3M+5iifkQOClH56No5wDy52e/MDBlWhe/h3ps53kZ8l/BdzJtxKxNV0TvbQK7qcCAG4EhLKvMedw1go97wjY+WMvyJgZW3118vzc//PYE0xPf7/zjjeZE3Cs1pGPR65j+XzoQNCf/B8Dow7ZCDMDHzqMHMxUG1D6bZVgapSQ==;DaFRBz01uNQApCcOzFS3uQ=="
+secured: "Iopv7ce3vBAy7Ba3aMRXgsh/zlR6v4TI+BS/jxYQzIG+6vGItaKj9fZGD/w1I9R6vgH1vRCbGDHxS/MJUtWW1YaGHYM06z09RCy0ATH/CVqhfKsmZ1nvRPgm1A5d+7SOXS6To88ruVdTkuyUbZvJWs2pj7RqEFlnLCB1kj/dLt9WQmPgBcy8l5lUt7uVhiqz0gZVMokp7kSgQMTcnjaWq63/1WesSM8301+DQV+9DNI8+IuNBUh7dNdFOOGi5BBzZczF7bZKuEgarzTNlqDaoscMo7KBF4GHM7zHqHTW6pMFpZmn/v9bU8cZUfEpyHvskHR7m+VugWcUUb8Zy8daUBQTJ9bniGnDV/qMIEc67OU=;EK9Hyp7zRyBwu0PvBRl3Qg=="
 ---
 

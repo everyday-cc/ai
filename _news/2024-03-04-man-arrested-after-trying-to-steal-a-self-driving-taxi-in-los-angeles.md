@@ -54,7 +54,7 @@ related:
   - title: "Los Angeles man arrested after attempting to steal self-driving taxi as car controls remained locked"
     excerpt: "A Los Angeles man attempted to steal a self-driving taxi in the city's downtown on Saturday evening, but he didn't get very far — the vehicle's controls refused to cooperate with him"
     publishedDateTime: 2024-03-04T22:48:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914"
+    webUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
     ampWebUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
     cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
     type: article

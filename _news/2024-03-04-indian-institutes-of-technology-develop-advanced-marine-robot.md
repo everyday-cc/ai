@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Start-up Street: Can India be at the forefront of AI technology?"
-    excerpt: "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field"
-    publishedDateTime: 2024-02-29T04:02:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
-  - title: "Heard on the Street: Dell’s AI Secret is Really Out Now"
-    excerpt: "Investors have been hungry for anything related to artificial intelligence. A storied PC maker from Texas wouldn’t seem to fit on top of the menu. That’s been changing over the past year, as Dell has"
-    publishedDateTime: 2024-03-01T16:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/heard-on-the-street-dell-s-ai-secret-is-really-out-now-y3sR7ELlVrFvZcgOAS5J"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
   - title: "2024 Tech Trends Projections for Indian Fintech Industry"
     excerpt: "The Indian fintech industry for the year 2024, authored by Narendra Babu, the Chief Technology Officer at PayU. It outlines six key trends, including the integration of advanced technologies."
     publishedDateTime: 2024-03-01T09:53:00Z
@@ -66,6 +41,63 @@ related:
         width: 1162
         height: 675
         isCached: true
+  - title: "Top trends in tech that professionals should look out for in 2024"
+    excerpt: "As data keeps proliferating online and in technology like the cloud, organisations will need to make cybersecurity a business priority"
+    publishedDateTime: 2024-03-02T03:55:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-01T173328.867.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why fintech startups need to prioritize email security"
+    excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
+    publishedDateTime: 2024-02-29T18:46:00Z
+    webUrl: "https://techbullion.com/why-fintech-startups-need-to-prioritize-email-security/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+  - title: "Gusto: Rise of Embedded Fintech to Drive Differentiation"
+    excerpt: "Gusto's Yi Liu discusses embedded fintech rise, data leverage, and partnerships driving differentiation in the competitive fintech landscape"
+    publishedDateTime: 2024-03-03T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/gusto-rise-of-embedded-fintech-to-drive-differentiation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/ef1e4716a2dc0428865ed5b493e9f9da:9900b484c85e2ba76348895615d663ae/embedded-headshots-yi-02.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Socure Teams Up with Open Banking Fintech Trustly"
+    excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
+    publishedDateTime: 2024-03-01T08:50:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222107-socure-teams-up-with-open-banking-fintech-trustly/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+  - title: "F|T: The FinTech Times – Stripe’s $65B valuation indicates an IPO isn’t anytime soon"
+    excerpt: "But even without it, the Montréal-based FinTech platform has spent the last few years quietly ... Klarna boasted in its announcement on Tuesday that the AI assistant “is doing the equivalent work of 700 full-time agents.” That statement may raise ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-stripes-65b-valuation-indicates-an-ipo-isnt-anytime-soon/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 0
 
 secured: "M7VfDt85BHNf5RM7uCralfDFyl51QjCgBo/RaQCIagXSyw3KJa4n8XH3VXF8thLahhG9iUG86jUqN+gPW2oVVs2AoFZfWbC2c7WDOYBErDhRtmNwtvkCrPYVt926CxQ7POsIrCmYCmFtTnDg9rBB/VLWrBMuwU9UaQ+3aOvRXQrfgsuh3WNSRQpmi7a9TLHL8Yw+nDeljL7GW4f+ZKhsW9gwvI3CONvpArXlwMS0jqC2UnccLf4ue6yZKEmYQk4rzMwt4Pq82oW6g9HiZtaa0fdbF/o/4muI1zpo7+YGr3icx31pe8eUHwU82JDgKHSmVaoabVb/2Xln08wV5ABC7OkAXu/e2+WpT8n8m4hyeew=;ZmHUXlQo053D+tOPhy1FQA=="
 ---

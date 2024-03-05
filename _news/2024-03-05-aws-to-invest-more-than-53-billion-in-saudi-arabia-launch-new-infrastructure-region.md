@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2848697-aws-to-inves
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp"
 type: article
 quality: 51
-heat: 91
+heat: 111
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Amazon’s AWS to launch Saudi Arabia data centres, invest over US$5.3 billion"
+    excerpt: "to support the growing adoption of artificial intelligence (AI) technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Apple and Amazon, led by its AWS ..."
+    publishedDateTime: 2024-03-05T02:32:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazon-s-aws-to-launch-saudi-arabia-data-centres-invest-over-us-5-3-billion"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 36
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/05/2023-12-01t165936z896271073rc27n4aguhktrtrmadp3amazon-com-aws_0.jpg"
+        width: 880
+        height: 587
+        isCached: true
   - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
     excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
     publishedDateTime: 2024-03-04T13:44:00Z
@@ -77,6 +91,15 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
+    quality: 19
+  - title: "AWS plans US$5.3m infrastructure region in Saudi Arabia in 2026"
+    excerpt: "Amazon Web Services (AWS) announced on Monday that it plans to launch an AWS infrastructure region in Saudi Arabia in 2026, and pledged to invest more than US$5.3 billion in the country."
+    publishedDateTime: 2024-03-05T04:00:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/16353-aws-plans-us-5-3m-infrastructure-region-in-saudi-arabia-in-2026.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
     quality: 19
 
 secured: "zBjeWcOw9WRqpoBEMyKJXUpfDSNOpMhGQDeiS8bKn0udEk+790sOzGblaRkqSAvUK/wTRmwJ8T8649TkjNDQVa+v1aZLuMEbzfTlhkpZloEj9yZhmY+ic4meU50loIf25Z4nUuKvB4orTgdtCO9VsyF1ckHJlo4bK14/LwmvvsIlX9spKhiZvM90b2WWXj1uhAUYBdIKBMTMFSM01mFnSY+GQ4mUV+wuWG9HOH7XriN1pxJdwm00ca9v+GQIWfO8YHndHHoHGyE8T95nBpdCh3FTGMPcI72xdljqmY58kSNrk9LZD/8JzzLkykg8v9csVce2RxwvrduA/HG7PCE1q4sh+F0HD6o9HE33lviLcRp70Eq2CiMncyc1BdjxX+J8W8FyRuWv6htp0XMgqL+1ehUCpac9IdWhkK+DsbVPjGYJYhpt6mJk+Qg9SEa+oeCx0xbPx1gyZ47ZhMsrzs9zaHTJFboZW6k0mTHAM+iT0S+5Cq0wxS10pDBsCJ9CHI4elROKtcuBe29LHSXGT2vMog==;6hzOPTbiCYR67AyhAdKRxw=="

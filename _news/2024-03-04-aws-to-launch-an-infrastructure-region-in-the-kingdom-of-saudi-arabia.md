@@ -69,6 +69,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Amazon’s AWS to launch Saudi Arabia data centres, invest over US$5.3 billion"
+    excerpt: "to support the growing adoption of artificial intelligence (AI) technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Apple and Amazon, led by its AWS ..."
+    publishedDateTime: 2024-03-05T02:32:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazon-s-aws-to-launch-saudi-arabia-data-centres-invest-over-us-5-3-billion"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 36
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/05/2023-12-01t165936z896271073rc27n4aguhktrtrmadp3amazon-com-aws_0.jpg"
+        width: 880
+        height: 587
+        isCached: true
   - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
     excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
     publishedDateTime: 2024-03-04T13:44:00Z
@@ -77,6 +91,15 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
+    quality: 19
+  - title: "AWS plans US$5.3m infrastructure region in Saudi Arabia in 2026"
+    excerpt: "Amazon Web Services (AWS) announced on Monday that it plans to launch an AWS infrastructure region in Saudi Arabia in 2026, and pledged to invest more than US$5.3 billion in the country."
+    publishedDateTime: 2024-03-05T04:00:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/16353-aws-plans-us-5-3m-infrastructure-region-in-saudi-arabia-in-2026.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
     quality: 19
 
 secured: "58KR/wiyAyBv9ayw44ZUXhWPfEI4+Duc5FA8c1bj9PVk/J+gEAsLF69KP6kOv8UEZR1BGJMuodnivQd8MpjHcbRBc4g0aX1mc8/i0S5Be/A+XJ6rcuju4JvM4iP6DI9xsUYxkxALbFb0z4cHT1ez8jrxfgz5uUV2HYK+J+Qm0/ffR/DZD4L+4GeQFkRj7vpwsaT0kqIddFmPIICgiunPHtbIhfQDieVOqQtPs/BiYMJolPzjMIs9jy3kNKyejGWsHjwX66eDbBzMXzqE+WC0SJ37zZKGgv0io/bLKDnp4iki965lQfrYD4YCuht6S0lcNsst439On90YbgsSHcAYizXn7R0GHyK4JtyMYjRaO/ljMxWSK1xOJvLAbOoY3WQD+1kO1l5kfpWRmTTQ0o87U3ceNMB6qq2bPQ/egsvZUhyerJF2zSiMiBTZj4DLgpqiH59VVM1haw7bLvJdSwet91FsVW4YGYQ1pqmtTQ8BwdqIQOvUQq0svqbqDUtAyMDDaBgVoAx3ibhfqkiOYUwlwA==;k6BS7f3ixXiD2FJvYhlioA=="

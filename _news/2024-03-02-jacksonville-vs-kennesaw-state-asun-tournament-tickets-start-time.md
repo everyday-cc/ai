@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Youngstown State vs. IUPUI Horizon Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 7 seed Youngstown State Penguins ... Western Michigan March 6 Women's Basketball Tickets & Start Time Akron vs. Ohio March 6 Women's Basketball Tickets & Start Time Miami (OH) vs. Ohio March 9 Women's Basketball ..."
+    publishedDateTime: 2024-03-03T06:23:00Z
+    webUrl: "https://www.cleveland19.com/sports/betting/2024/03/05/youngstown-state-vs-iupui-buy-horizon-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: 19 Action News
+      domain: cleveland19.com
+    quality: 15
+    images:
+      - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/v2/XKOPJMD6GVID5FZZY7JX3NQM6A.jpg?auth=fdb35a3c4222fc7c72458ef3a1c118f0816015e1f1f479bb06d98733211a0cdf&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas A&M vs. Mississippi State SEC Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 8 seed Mississippi State Bulldogs ... Florida International March 7 Women's Basketball Tickets & Start Time Texas Southern vs. Prairie View A&M March 9 Women's Basketball Tickets & Start Time UT Rio Grande ..."
     publishedDateTime: 2024-03-04T06:22:00Z

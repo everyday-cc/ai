@@ -46,6 +46,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "MAGA Camp Spreads AI Deepfakes of Trump Hugging Black People"
+    excerpt: "In an election year already rife with weird and misleading uses of AI, Trump supporters are now sharing fake images of the former president with his arms around Black voters to cl"
+    publishedDateTime: 2024-03-04T22:17:00Z
+    webUrl: "https://www.thedailybeast.com/maga-camp-spreads-fake-ai-images-of-trump-hugging-black-people"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709579726/240301-Bachman-express-hero_vchigt"
+        width: 1480
+        height: 833
+        isCached: true
 
 secured: "+fIY7gLA2PA8Y7LfBpKvIxjz94mUnt0aRSE0AU86uRKPQHSZL5wHOeFnio46Hd9bhrnYYrX9LAA2ideUmh/nX/Jx8eYmATFxOwZRd/IoS/yEh506qElfskT57uFn2DT8xkAekbDWO/kF9XhUQ0yV6FKC1d5B/cnppLtX6j1l6beSJ4rawZOBDM+gAYTT1IKmCNhmng9nM918J5mok8znmMCT73SmYCjwxpOPpPbB84jc4AnNchJ7dRaweTHZx5x0Oppk2yZdzCk/zyh9qjIhcRAl6wGX7JafhmYba5QayNf6nKNBchm27Rm9eY5KvaTGhTEqmd9wYhrOU03CgdIOofLCMj7KctyHt7vscdfFlBK93z8Y4MopMy2Ygre+PmpoWcNQPfxsuKJkvUQX9/vRFx95dmgdMIc7pKemjUcqJMT3YvZuhgic7pWE4bpkk33IvwPEX4Si19ZZgMSu6x90LwYT02zgN+Ibe95LQ3nDlowCEIKuyXUBZ9C8/CgL/dyZb0QJKDqicDKC+n5My0n1ag==;uxjKzY5C14l5DSxP743ghw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-t
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple to Unveil Ambitious Plan to Integrate Generative AI Later This Year"
-    excerpt: "Despite the defeat, the AFL-CIO's Brandon Rees expressed hope for improved disclosure practices by Apple on AI ethics and usage. The AFL-CIO had requested Apple to report on its AI applications in business operations and reveal any ethical standards ..."
-    publishedDateTime: 2024-02-29T04:37:00Z
-    webUrl: "https://www.gizbot.com/internet/news/apple-to-unveil-ambitious-plan-to-integrate-generative-ai-later-this-year-092117.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 38
-    images:
-      - url: "https://www.gizbot.com/img/2024/02/apple-11-1709180634.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tim Cook says Apple will \"break new ground\" in generative AI this year, will disclose more details later"
     excerpt: "Read our ethics statement. What just happened? At Apple's annual shareholder meeting this week, CEO Tim Cook told investors and market watchers that the company is investing heavily in generative AI to make life easier for its customers. He also claimed ..."
     publishedDateTime: 2024-02-29T08:41:00Z

@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-05-amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report.md",
-      "title": "AMD hits US roadblock in selling AI chip tailored for China: Report",
-      "excerpt": "AMD tried to gain a go-ahead from the U.S. Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet U.S. export restrictions,",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/devices/amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report/108219776",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/devices/amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report/108219776",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-108219776,imgsize-42860,width-1200,height=765,overlay-ettelecom/devices/amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T02:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
       "title": "AI trends in CRM: The future of customer relationships",
       "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
@@ -86,6 +43,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-amd-hits-us-roadblock-in-selling-specific-ai-chips-for-china-bloomberg-reports.md",
+      "title": "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports",
+      "excerpt": "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/",
+      "originalUrl": "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -184,6 +184,59 @@
       ]
     },
     {
+      "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
+      "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
+      "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg",
+          "width": 450,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region.md",
       "title": "AWS to invest more than $5.3 billion in Saudi Arabia; launch new infrastructure Region",
       "excerpt": "AWS has committed to investing in the Kingdom of Saudi Arabia by upskilling local students, developers, technical and non-technical professionals and future IT leaders. The cloud major will achieve this goal through various initiatives such as AWS Academy, AWS Educate, AWS re/Start, and AWS Skill Builder.",
@@ -192,7 +245,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -235,7 +288,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "",
@@ -415,6 +468,108 @@
       ]
     },
     {
+      "path": "_news/2024-03-04-jim-cramer-says-these-4-stocks-are-better-ai-plays-than-red-hot-super-micro-computer.md",
+      "title": "Jim Cramer says these 4 stocks are better AI plays than red-hot Super Micro Computer",
+      "excerpt": "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio. Super Micro Computer : Shares surged nearly 25% on Monday after the artificial intelligence server maker was selected late Friday to join the S & P 500 later in March.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
+      "originalUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107364684-17062129482023-02-17t102124z_2115759463_rc2xcz9bgstp_rtrmadp_0_amd-results.jpeg?v=1706213119&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T14:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-ai-generated-images-of-trump-with-black-voters-being-spread-by-supporters.md",
+      "title": "AI-generated images of Trump with Black voters being spread by supporters",
+      "excerpt": "No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cd8fc8e1adb8b564cc21c635b2a9bf8085a73a50/0_186_5618_3373/master/5618.jpg?width=620&quality=85&auto=format&fit=max&s=f13790806d056708017043aa28251f55",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters",
+      "publishedDateTime": "2024-03-04T14:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-customers-expect-more-todayhow-ai-can-help-brands-deliver.md",
       "title": "Customers Expect More Today—How AI Can Help Brands Deliver",
       "excerpt": "Meeting today’s customer expectations has been an ongoing challenge for contact center leaders, and they are well aware of the constraints of their legacy technologies for providing digital experiences. The first step toward modernization is cloud adoption, which usually entails deploying some form of CCaaS (contact-center-as-a-service).",
@@ -525,7 +680,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -629,7 +784,7 @@
       "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1040,151 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm.md",
-      "title": "Business Tech Roundup: Salesforce’s Einstein Copilot Brings AI To CRM",
-      "excerpt": "1 – Salesforce announced the public beta availability of Einstein Copilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e1fc852def75c204325244/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-03T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-surrey-ai-to-help-turn-dog-pics-into-3d-models.md",
-      "title": "Surrey: AI to help turn dog pics into 3D models",
-      "excerpt": "Photographs of dogs could be used to help generate 3D models more accurately, a study has revealed. Researchers at the University of Surrey taught an artificial intelligence (AI) system to predict the 3D pose from a 2D image of a dog. A myriad of virtual dogs were created using the video game Grand Theft Auto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-surrey-68435966",
-      "originalUrl": "https://www.bbc.com/news/uk-england-surrey-68435966",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BF8D/production/_132773094_aidog.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-surrey-68435966.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-surrey-68435966.amp",
-      "publishedDateTime": "2024-03-03T08:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-driving-with-artificial-intelligence-ai-to-survive.md",
-      "title": "Driving with Artificial Intelligence (AI) to Survive",
-      "excerpt": "AI is set to penetrate into mobility with higher levels of autonomous driving technologies currently under development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/",
-      "originalUrl": "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Wipro-AI.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/",
-      "publishedDateTime": "2024-03-03T03:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/"
 webUrl: "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/"
 type: article
 quality: 99
-heat: 100
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,6 @@ topics:
   - IBM AI
   - AI
 
-secured: "8hvxubEGRAsLn5pCzJtitO83jDMRND0k/eBVfm3SWKg54835CucEX+pAC5yVMdgnwP+WApCuHxIeYL7Mj0EjRgMHsB5zaSFP0x6uhDB0rbagfCWnlOFCRtAFqBp1Vzo8F/66N24S0HVguZmXwMXXtkpFgugBtFI6RnB1M6h4aVvFM7iyemiV1G1sRnJ7JRQvc8GXTKNUmmPnfJ5NoMgO8Dy+GYp0mJvY9MEuEBJfleCpKfVkq/0+rApmznbRBj/u2VVAhgCSY0Jx3FzRBUkNJHpuojDDBXIKHpbWD9gWOJ2/GCgX6FGdONhsaRapzzzwEjnoOXS232q6h2cm3paKusgmqOGTDCFxXm4cP+eez1I=;7kyC8a35YJsXOWQWqBF8Fg=="
+secured: "8pgB/avM8A9pS0NWATGKK19VEyp5zLs4wfpc+HaudlQN/wmMO6C2TXDkS52P59iHU8/mpy+nzLdIChCCLxRCFqnqnOQadZenbtKDlyhsTwywfqIbrQ6jtirS91G6/OIkN7QN8/+luq2rXadhrcPs0vE07efQnBFgv/DQoRrakcMSJbGYpG4hm87b8qflPayVnodMr2YbZPScB48vvlN7u+Vy60B1NpoEe3BXTjqdQQd87018Y0A4DalZux3H9psCOt2reif5c1MHqTU+vdqgey02NF49vB7EsDe/ULLmaf0pI9lIlZzCg5CbMOvMNH3MFrkk90pdlYBLbJD4xWZxVoJL6v1Nl4+vZno6UcvoaDg=;VZ+PM2BL2uVZ3/yHReuOSw=="
 ---
 

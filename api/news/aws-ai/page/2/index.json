@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-14-sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws.md",
+      "title": "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS",
+      "excerpt": "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "originalUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "publishedDateTime": "2024-02-14T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp.md",
       "title": "Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",
       "excerpt": "Akamai today announced the launch of its Gecko \"Generalized Edge Compute\" platform. This new initiative will increase the company's cloud-computing",
@@ -1258,49 +1301,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-why-snowflake-stock-is-trading-at-new-52-week-high.md",
-      "title": "Why Snowflake Stock Is Trading At New 52-Week High",
-      "excerpt": "Snowflake's stock is up nearly 14% over the past month as excitement surround artificial intelligence and associated ... Amazon.com’s AMZN fourth-quarter AWS revenue growth re-acceleration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "originalUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/snowflake-shutter.jpeg?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36913388",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36913388",
-      "publishedDateTime": "2024-02-02T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

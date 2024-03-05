@@ -7,7 +7,7 @@ originalUrl: "https://9to5mac.com/2024/03/04/aapl-ai-bullish/"
 webUrl: "https://9to5mac.com/2024/03/04/aapl-ai-bullish/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "What Should We Expect From AI In 2024?"
-    excerpt: "We are already two months into 2024, and the AI revolution roars on unabated. What should we expect from AI in 2024?"
-    publishedDateTime: 2024-02-29T04:07:00Z
-    webUrl: "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/"
+  - title: "The Hidden Winners From Artificial Intelligence's Explosive Growth"
+    excerpt: "Artificial intelligence stocks are trading at incredibly high prices right now, and it's not clear that any of the companies involved have a big moat. But if AI is indeed a long-term growth driver, there's one industry that will have to grow at unusually ..."
+    publishedDateTime: 2024-02-29T16:47:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24439678/the-hidden-winners-from-artificial-intelligences-explosive-growth/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e0028da2001bd2d124c603/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1190
-        height: 793
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "s7Za0msuJmw4/6Ar2lO8Sgm0GohE4Fr+/n0ymbXdRD/TnBMnLYYSW4fsHwIMTnCQizLh/sBXw67lhMX/TwyhhfuZbQtQPUiB1AebyidwGq6CdWzhYs0s2PQwLEQTR7Snmh+He5hJ3h7jyk/6Km/4zkcIIQ4ecuyRovGfkvfu2iFtChP3IVn/QXVDnjGd6QKX30KuUFn1mM1wDKgWXQPHbQ9cHvy1Pmd2VPfT3zNGz08v/CIGrLxLND3JR/zp8QR/EUSmf5p757aX3qeTL7HzBcT/OUlC1Q0xCrtGbTdOhzYzLyUopM/NMVLSYPqynJiwlu60Qvq/6RQVbxvOIOLt6GJiRkoyApOoMl/IMtv1tybj55NerQNOhcOd9A3/xjAddo3vFzwqFFo5w2U4o41Ojh/efKxKvSc38LFqWxKvwJisXLKJwxmTrnwh7llP6FZNdMZg6eKrRx2XerBZci1uvzurxQ6vreGa1ldz0sBfb26Ct1OmijHXiDYFGR3wKuKzP6JvL3cI2eBf8mQGf8RJXg==;amOsrYjUzjwAXOkOug702w=="
 ---

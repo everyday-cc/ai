@@ -69,6 +69,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Amazon’s AWS to launch Saudi Arabia data centres, invest over US$5.3 billion"
+    excerpt: "to support the growing adoption of artificial intelligence (AI) technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Apple and Amazon, led by its AWS ..."
+    publishedDateTime: 2024-03-05T02:32:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazon-s-aws-to-launch-saudi-arabia-data-centres-invest-over-us-5-3-billion"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 36
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/05/2023-12-01t165936z896271073rc27n4aguhktrtrmadp3amazon-com-aws_0.jpg"
+        width: 880
+        height: 587
+        isCached: true
   - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
     excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
     publishedDateTime: 2024-03-04T13:44:00Z
@@ -78,7 +92,16 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 19
+  - title: "AWS plans US$5.3m infrastructure region in Saudi Arabia in 2026"
+    excerpt: "Amazon Web Services (AWS) announced on Monday that it plans to launch an AWS infrastructure region in Saudi Arabia in 2026, and pledged to invest more than US$5.3 billion in the country."
+    publishedDateTime: 2024-03-05T04:00:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/16353-aws-plans-us-5-3m-infrastructure-region-in-saudi-arabia-in-2026.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 19
 
-secured: "eIznYkcXBzMRha2V09XECaEWfCALyZfz2L1owZ7g6YzgH6JDexAf/XwHtVXhbh3dyfgZJpitXmQVEG8EuvFw2LDiNhN73m6zgxKVcPBTxf1oYif5bTPip6A1AhJ15PFdAdL4V1ITvPUgJFCXvjOKSJkBSV0oP4mU/rUfAcrXF1bhcuY8juHGDlWb2xKczeeAe+Y0hp4sxmw05TArbS9SyDcYXYo/WlrJqljzKhxxR/waERMsJhSMFUj6JdGQwWxlDRJPmjR8n/CjUNk+st4hovjH5vkKzFultOFvwAkzKwAiNTrxUIg5dfBj8QlyPXekeRpc0cJnQvrQgAlOSbZMIvHPyPHdlJcPzcBrSBcVz2E=;ZaArSPxYb30V1es+QorpTg=="
+secured: "zHsZhFcDyF+8gkg0j0fiT3A5S0Mzn725BGoULs0IBZduE2TdOR8iup/I8tkPcuaeybki56rp6Du2pruWey40g7nYXvmIntGI9pGdiegwr5Nfr2GwmE45CCR7sSS6ip6tuKN8mpC64O3crKpdYzQCx4EgnhWFM7ZBY9xD8fHoAXrlkCYNAti7plY13I0WgCBcIBR9XOGenecEpi4GYfAoKLf42YAWyOO1BwiRWgFa0p/8R6KDSYFK1ywIOZLQrGnPU/plQKXdVewVPGfaTuEarHAcPAYMwOK/aakD6I7F0KDLuJdUsvo4PFcvfbcAps7sBLybEXMDtdYpwtXYVsVH/bO7idFCUe3ZQ8DoiCCgOFvd2dsjB8zPTqHS6jZgwBAc8XURX6MLhuY0mpl61R15Uw2CiSbE8FjCxSTQzsQZuPbC73i1iqfo8mynk8jnx6bMiT87bxDsyq5245bCTg+A3T52adB0K4nY4gd8LWdmjkJbJV05iJ1XalaJp86CQ2Tj+yCSe6dBpjCLss3YbAWgow==;+E4fK4SxF5LD9wJA1W97VA=="
 ---
 

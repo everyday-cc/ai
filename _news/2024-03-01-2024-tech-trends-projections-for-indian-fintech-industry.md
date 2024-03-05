@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/business-technologies/2024-tech-trends-proje
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/business-technologies/2024-tech-trends-projections-for-indian-fintech-industry-4168256"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Start-up Street: Can India be at the forefront of AI technology?"
-    excerpt: "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field"
-    publishedDateTime: 2024-02-29T04:02:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp"
+  - title: "Top trends in tech that professionals should look out for in 2024"
+    excerpt: "As data keeps proliferating online and in technology like the cloud, organisations will need to make cybersecurity a business priority"
+    publishedDateTime: 2024-03-02T03:55:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-top-trends-in-tech-that-professionals-should-look-out-for-in-2024-3410746/lite/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg"
-        width: 770
-        height: 433
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-01T173328.867.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Heard on the Street: Dell’s AI Secret is Really Out Now"
-    excerpt: "Investors have been hungry for anything related to artificial intelligence. A storied PC maker from Texas wouldn’t seem to fit on top of the menu. That’s been changing over the past year, as Dell has"
-    publishedDateTime: 2024-03-01T16:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/heard-on-the-street-dell-s-ai-secret-is-really-out-now-y3sR7ELlVrFvZcgOAS5J"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
   - title: "Indian Institutes of Technology Develop Advanced Marine Robot"
     excerpt: "The state-of-the-art robot is specifically crafted for meticulous underwater monitoring and inspections, offering heightened efficiency, minimized risks, and potential cost savings, according to the researchers."
     publishedDateTime: 2024-03-04T10:30:00Z
@@ -66,6 +57,47 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Why fintech startups need to prioritize email security"
+    excerpt: "The financial sector has been at the forefront of technological development for many decades, but what we call ‘fintech’ was really born as a result of the 2008 financial crisis. Clients lost faith in traditional banking processes,"
+    publishedDateTime: 2024-02-29T18:46:00Z
+    webUrl: "https://techbullion.com/why-fintech-startups-need-to-prioritize-email-security/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+  - title: "Gusto: Rise of Embedded Fintech to Drive Differentiation"
+    excerpt: "Gusto's Yi Liu discusses embedded fintech rise, data leverage, and partnerships driving differentiation in the competitive fintech landscape"
+    publishedDateTime: 2024-03-03T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/gusto-rise-of-embedded-fintech-to-drive-differentiation"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/ef1e4716a2dc0428865ed5b493e9f9da:9900b484c85e2ba76348895615d663ae/embedded-headshots-yi-02.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Socure Teams Up with Open Banking Fintech Trustly"
+    excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
+    publishedDateTime: 2024-03-01T08:50:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222107-socure-teams-up-with-open-banking-fintech-trustly/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+  - title: "F|T: The FinTech Times – Stripe’s $65B valuation indicates an IPO isn’t anytime soon"
+    excerpt: "But even without it, the Montréal-based FinTech platform has spent the last few years quietly ... Klarna boasted in its announcement on Tuesday that the AI assistant “is doing the equivalent work of 700 full-time agents.” That statement may raise ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-stripes-65b-valuation-indicates-an-ipo-isnt-anytime-soon/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 0
 
 secured: "xCPt8QG5b2LRqaGjjvlcFoynOwpl/4RFCWaz3kZLUY9xGpGYZg+6Xqy7Hqzy7vS27K3uz9+zRfww3Uz4I/hNf73FeeIXv7SspNvtnLrP/o3blwuUX2jMY/28VVUQPjB+LaQq8DY+eF13Zv3MhFCZ7sEx9zqvnWVqHQD5o7WNzwzvJ3brpsYCe1I5z7kqARlEnQZDSNWxoPR8osivi2cBc9nPGCN0MHeZqhyOogGgaAB5xXM7eVHqlk/qQPuQXU9CGIL4in/yAeFsw7hnyC3yNGxLv/0gW0vTr9Bf8w5Gp0cQL5jBmD6iZ2k1MZJvkymGHgSu0cLWHucHvKVbPd5fU07vLuE/15jpqmaAI/6tTgk=;1doaYEOHi/KIgvKAkjN7xw=="
 ---

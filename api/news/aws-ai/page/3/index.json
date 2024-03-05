@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-02-why-snowflake-stock-is-trading-at-new-52-week-high.md",
+      "title": "Why Snowflake Stock Is Trading At New 52-Week High",
+      "excerpt": "Snowflake's stock is up nearly 14% over the past month as excitement surround artificial intelligence and associated ... Amazon.com’s AMZN fourth-quarter AWS revenue growth re-acceleration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
+      "originalUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/snowflake-shutter.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36913388",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36913388",
+      "publishedDateTime": "2024-02-02T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-aiml-leadership.md",
       "title": "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership",
       "excerpt": "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ...",
@@ -1392,50 +1435,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
-      "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
-      "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/12670992/20240112152707*1200xx3024-1701-0-662.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T12:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/amd-hits
 webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report/108219776"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: telecom.economictimes.indiatimes
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports"
+    excerpt: "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,"
+    publishedDateTime: 2024-03-05T00:38:00Z
+    webUrl: "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 60
   - title: "AMD hits US roadblock in selling AI chip tailored for China, Bloomberg News reports"
     excerpt: "AMD tried to gain a go-ahead from the U.S. Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet U.S. export restrictions, the report added, citing people ..."
     publishedDateTime: 2024-03-05T00:00:00Z
@@ -39,16 +48,16 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports"
-    excerpt: "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,"
-    publishedDateTime: 2024-03-05T00:38:00Z
-    webUrl: "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/"
+  - title: "AMD hits US roadblock in selling China-tailored AI chip"
+    excerpt: "AMD tried to gain a go-ahead from the US Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet US export restrictions, the report added, citing people familiar with the matter."
+    publishedDateTime: 2024-03-05T04:17:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/03/05/amd-hits-us-roadblock-in-selling-china-tailored-ai-chip/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 43
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
-secured: "i+aVkQr56Qr6haJ9NkeKcJ3fdlfDrbjsJ6qcBqm9hHcqg6grFfLaSmLOQd+1VnE03QwOIwqgjJC3KW0isaBsxMFCWmgBrgjmsIGacb9tKBxUoXTF8iGZOzsaF3p+5adZ+6gtRtsHRSgXHRIZTzFcAFRIitciw9/OQY/HQuNmDnEhckw4HObZunUDIbzsx5Gi2xib7lvAqyhiU7/GoOTr80IIRhUmW/GEZjvdCTB9e8TmcrYkb7XyjKnWly0H8QfhKMWHaZRNwDynXvNY4YcZc4paFAlScGjKHYrF6/kwvuB7xd1YkM/+6JgCZwen+9PMb4EvCtquSBkHbI4/F1XxaCUaeDfxIGdLgQSkg5Racxc=;Lv6k2CfCnJcG95t1+m8yow=="
+secured: "U4Lt02iW1a98i/6jOf+RVXQYSfqfA/DDBEWZ8dAx6ubs9wEXR9sQoaq3MW/Oft+2hhQM3n2cOV81TRs7lt0i6qkUcirJuMMQcvMIIdAb3odTBJ8U+ydMU4AsIdp5VtJ87pcArO9g10nFGjdQBCIXM5eSoA9c7LL9uVFQOplKA8TnHCxImVYNt2vOCxIbjJTNiiMa3W9n1TfI0IqgWHbRVFj31iJJysdvyKXKEuqqgIGWijpkW+B2hUD+CgRbCwN9Ku3RUJpUs0Fz3Ur6biBrogMNgoPEBfHpXwvV0FSXDNLfPh2s6UPivOf5hLrtlj2xfpn/jJcrvMVRAiIRQ3SWfChVAdrDUAqgpS0IxXtv9TVQxapEk+wb8EK8kQgXD7FXvxZ1GdTdHkIogHeH6AnpE7UZiSP0pqBIzvYRYu5q7bl6VZhwH9WyhyZtZ7y0OUvOwwPVbmKHBgzPeEy5xlsZ6r5sMkczqSs6tc6f6Z4MI2Q7ifVKmdfylQKkf4R2YO1iHfLI5SDIquJxq9GoK1NwfA==;4SVUFnmX8TxO/XNhbyp5tw=="
 ---
 

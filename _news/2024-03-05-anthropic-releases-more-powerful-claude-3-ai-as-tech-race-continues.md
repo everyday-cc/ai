@@ -117,6 +117,20 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 41
+  - title: "Anthropic unveils its most powerful AI chatbot to date"
+    excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
+    publishedDateTime: 2024-03-04T14:56:00Z
+    webUrl: "https://invezz.com/news/2024/03/04/anthropic-most-powerful-ai-chatbot-claude-3/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 37
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/possessed-photography-jibmsms4-ka-unsplash-2-1-1024x737.jpg"
+        width: 1024
+        height: 737
+        isCached: true
   - title: "Google-backed Anthropic debuts its most powerful chatbot yet, as generative AI battle heats up"
     excerpt: "This time last year, Anthropic was seen as a promising generative AI startup founded by ex-OpenAI research executives. It had completed Series A and B funding rounds, but it had only rolled out the first version of its chatbot without any consumer access ..."
     publishedDateTime: 2024-03-04T00:00:00Z

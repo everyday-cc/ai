@@ -77,6 +77,29 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Amazon’s AWS to launch Saudi Arabia data centres, invest over US$5.3 billion"
+    excerpt: "to support the growing adoption of artificial intelligence (AI) technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Apple and Amazon, led by its AWS ..."
+    publishedDateTime: 2024-03-05T02:32:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazon-s-aws-to-launch-saudi-arabia-data-centres-invest-over-us-5-3-billion"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 36
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/05/2023-12-01t165936z896271073rc27n4aguhktrtrmadp3amazon-com-aws_0.jpg"
+        width: 880
+        height: 587
+        isCached: true
+  - title: "AWS plans US$5.3m infrastructure region in Saudi Arabia in 2026"
+    excerpt: "Amazon Web Services (AWS) announced on Monday that it plans to launch an AWS infrastructure region in Saudi Arabia in 2026, and pledged to invest more than US$5.3 billion in the country."
+    publishedDateTime: 2024-03-05T04:00:00Z
+    webUrl: "https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/16353-aws-plans-us-5-3m-infrastructure-region-in-saudi-arabia-in-2026.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 19
 
 secured: "cKkWOUAGc2NMlrmBWqg0r9+tEs37IF+wksZ/CCsflyFPHCiKwUYihB0tR3w2OM2y67SHyyTfaFyDwgsRMgcXMng0a0HovbLM6LdOyqoYoTOemJpHYkU6jGd3WPWD8ydTQ1mv+fUiEzGqY75YPteSwHqtldgFtQG07zHcFd+OIcC9zugSABx8zYtLIfLYk1kX+iDFIh7V5x72dWDFIzFi14wqy9uRoiFXGnH3goDNoeGGO3LOk/MBSy2DxICIgtxuzsfKrwoDjf26kB5bclbVA+aH9rbiTt2M3m4QUB2ZDUe/szEboU2UZgt4b2FYElu9I5xjIrdJqw7WtKwjbING5CFwZN5OsGqPtXMXZ2oCKz/7fD+OzM7rUUWlc8HjdGPNEjOuJ+C5sjUMqb5TXQq8QKQz+0j0MBLqIgSlRX52+uTkosk0WhZ+0mGYHm3Fd9WU18BAb4SjKp8WV5al9DlCoj1flK9xH9zvJQwZuZAKCTnH6kcFTYE0CYlV2WHPLSRzJboKSiN6tiT2nNy4Zr/Gnw==;QkeaAPHBSXLAL89XryP2Gw=="
 ---

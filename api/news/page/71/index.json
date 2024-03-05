@@ -2,6 +2,178 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2024-01-09-leukaemia-artificial-intelligence-provides-support-in-diagnostics.md",
+      "title": "Leukaemia: artificial intelligence provides support in diagnostics",
+      "excerpt": "IT specialists and physicians at the University of Münster have now published a study showing how a method based on artificial intelligence can be used to predict various genetic features on the basis of high-resolution microscopic images of bone marrow smears.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news826642",
+      "originalUrl": "https://idw-online.de/de/news826642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
+          "width": 498,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T10:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience.md",
+      "title": "Quasar Markets Launches Feb. 2 with a Pioneering FinTech Platform That Redefines the AI User Experience",
+      "excerpt": "Tampa, Florida, United States - January 8, 2024 — Quasar Markets, a cutting-edge fintech company powered by AI-driven financial market research, is set to launch on February 2. The company aims to redefine the world of finance by changing the way ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T10:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-siemens-and-aws-join-forces-to-democratise-generative-ai.md",
+      "title": "Siemens and AWS join forces to democratise generative AI",
+      "excerpt": "Siemens and Amazon Web Services (AWS) set to are make it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
+      "originalUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.controlengeurope.com/global/showimage/Article/217183/",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IML Group",
+        "domain": "controlengeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-ais-growing-influence-in-e-commerce-the-future-of-online-retail.md",
+      "title": "AI's Growing Influence in E-Commerce: The Future of Online Retail",
+      "excerpt": "AI, ranging from ChatGPT to IIoT, significantly transforms e-commerce, enriches business strategies, and tailors customer experiences worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "originalUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2024/Jan/robot-holding-shopping-cart-with-cardboard-boxes-og.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T09:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-top-10-google-bard-tips-to-improve-your-productivity-in-2024.md",
       "title": "Top 10 Google Bard Tips to Improve Your Productivity in 2024",
       "excerpt": "This guide is designed to show you how to use AI tools like Google Bard to improve your productivity in 2024. The arrival of 2024 brings with it fresh",
@@ -915,187 +1087,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-artist-lawrence-lek-imagines-a-future-where-self-driving-cars-have-gone-awol.md",
-      "title": "Artist Lawrence Lek imagines a future where self-driving cars have gone AWOL",
-      "excerpt": "Transforming the space into an experiential futuristic universe, Lek leads us on a journey through a world populated by smart systems and intelligent nonhumans. In NOX, we participate in an uneasy future,",
-      "sourceUrl": null,
-      "webUrl": "https://hero-magazine.com/article/246319/lawrence-lek",
-      "originalUrl": "https://hero-magazine.com/article/246319/lawrence-lek",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.hero-magazine.com/wp-content/uploads/2023/12/22144351/Lawrence-Lek_HERO-Winter-Annual-2023_INSTA_Page_6_Image_0001.jpg",
-          "width": 1350,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T12:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hero-magazine.com",
-        "domain": "hero-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai.md",
-      "title": "We Need Smarter Driverless Vehicle Regulations More Urgently Than We Need Smarter AI",
-      "excerpt": "Recent Tesla Autopilot and Cruise robo-taxi news has raised public concern. Strong federal and state safety regulations are needed to ensure the safety of driverless vehicles’ AI-based software",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
-      "originalUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/F2537A88-8EAB-4C9B-95814FB1DBAB792E_source.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T12:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-powerful-ai-tools-for-academics-and-researchers.md",
-      "title": "Powerful AI tools for academics and researchers",
-      "excerpt": "Here are some other articles you may find of interest on the subject of AI tools : For those in the clinical and biomedical sectors, Evidence Hunt is a tool you can’t afford to miss. It specializes in producing literature summaries tailored to your specific research questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ai-tools-for-academics-researchers/",
-      "originalUrl": "https://www.geeky-gadgets.com/ai-tools-for-academics-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/artificial-intelligent-powered-tools-for-academics-and-researchers.jpg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-heres-an-early-look-at-google-assistant-with-bard-on-android-phone.md",
-      "title": "Here’s an early look at Google Assistant with Bard on Android phone",
-      "excerpt": "Here's a sneak peek at how the Google Assistant with Bard will look like on Android phone. Learn more about its features here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/01/08/heres-an-early-look-of-the-google-assistant-with-bard-on-android-phone/",
-      "originalUrl": "https://www.gizmochina.com/2024/01/08/heres-an-early-look-of-the-google-assistant-with-bard-on-android-phone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/Google-Assistant-with-Bard.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

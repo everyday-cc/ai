@@ -2,6 +2,179 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-12-04-fintech-in-2024-the-big-questions-answered.md",
+      "title": "Fintech in 2024: The big questions answered",
+      "excerpt": "In this roundtable, we ask how the industry could be affected by changes in cybersecurity, crypto, AI, open banking, mobile and welltech going into 2024",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
+      "originalUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1200/73170323e972627b65ae532c17c7d8ec:a4684e747c11e71a1a8b0bbb3fdceef7/gettyimages-1321209107.jpg.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T09:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models.md",
+      "title": "Landing AI Announces New Capability to Build Domain-Specific Large Vision Models",
+      "excerpt": "LVMs enable enterprises to solve computer vision problems more quickly; Landing AI to help enterprises build and run LVMs at the edge, on-prem, and in the cloud PALO ALTO, Calif. , Dec. 4, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2291237/LVMs.jpg",
+          "width": 400,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-seismic-therapeutic-closes-121-million-series-b-financing-to-advance-immunology-pipeline-optimized-by-its-machine-learning-platform.md",
+      "title": "Seismic Therapeutic Closes $121 Million Series B Financing to Advance Immunology Pipeline Optimized by its Machine Learning Platform",
+      "excerpt": "CAMBRIDGE, Mass.--(BUSINESS WIRE)--Seismic Therapeutic, Inc., the machine learning immunology company, today announced that it has closed a $121 million Series B financing. The Series B was led by new investor Bessemer Venture Partners with participation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
+      "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
+      "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "originalUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/08/allergy-allergist-skin-text-allergen-patient-doctor-office.jpg",
+          "width": 2384,
+          "height": 1257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-ai-machine-learning-change-how-first-responders-handle-emergencies.md",
       "title": "AI, machine learning change how first responders handle emergencies",
       "excerpt": "Researchers within the University of Pittsburgh Medical Center health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG) readings to better identify",
@@ -873,178 +1046,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-tesla-showcases-advanced-self-driving-technology-in-ai-hiring-announcement.md",
-      "title": "Tesla showcases advanced self-driving technology in AI hiring announcement",
-      "excerpt": "Tesla is showcasing its Full Self-Driving (FSD) beta and recruiting for its AI team. The company is seeking AI Research Scientists to work on next-generation autonomy and end-to-end models using massive fleet data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/12697/Tesla-showcases-advanced-self-driving-technology-in-AI-hiring-announcement",
-      "originalUrl": "https://www.futurecar.com/12697/Tesla-showcases-advanced-self-driving-technology-in-AI-hiring-announcement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202312/03/l_656c8090d0abb.",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-03T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-turner-says-us-is-exercising-caution-in-sharing-intelligence-with-israel.md",
-      "title": "Turner says US is exercising caution in sharing intelligence with Israel",
-      "excerpt": "House Intelligence Committee Chair Mike Turner (R-Ohio) said Sunday the United States is helping Israel’s intelligence community track down Hamas leaders but is being selective about what ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/",
-      "originalUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/amp/",
-      "publishedDateTime": "2023-12-03T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-how-artificial-intelligence-is-redefining-health-care-in-india.md",
-      "title": "How artificial intelligence is redefining health care in India",
-      "excerpt": "But now, it has come down to just four of them as everything is done by artificial intelligence (AI).” Now all they have to do is simply tell the machine orally that they need to do an MRI, say, of the knee for trauma.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
-      "originalUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2023/12/2/48-eye.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
-      "publishedDateTime": "2023-12-03T01:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-ego-fear-and-money-how-the-ai-fuse-was-lit.md",
-      "title": "Ego, Fear and Money: How the A.I. Fuse Was Lit",
-      "excerpt": "Still, some scientists and thinkers had become fixated on the downsides of A.I. Many, like the three young men from Britain, had a connection to Eliezer Yudkowsky, an internet philosopher and self-taught ... started working for Baidu, the giant Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html",
-      "originalUrl": "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/11/21/business/00tech-AI/00tech-AI-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-03T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

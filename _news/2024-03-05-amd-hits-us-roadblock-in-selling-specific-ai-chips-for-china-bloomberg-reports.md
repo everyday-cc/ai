@@ -6,9 +6,9 @@ publishedDateTime: 2024-03-05T00:38:00Z
 originalUrl: "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/"
 webUrl: "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 60
+heat: 90
+published: true
 
 provider:
   name: Reuters
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "AMD hits US roadblock in selling AI chip tailored for China: Report"
@@ -50,6 +51,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AMD hits US roadblock in selling China-tailored AI chip"
+    excerpt: "AMD tried to gain a go-ahead from the US Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet US export restrictions, the report added, citing people familiar with the matter."
+    publishedDateTime: 2024-03-05T04:17:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/03/05/amd-hits-us-roadblock-in-selling-china-tailored-ai-chip/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "w5DqQohv9yphMB30JNNB/j7O2IZJlV18bmV10pcX8bd8TkQ4600C8A1UJxpzE8exbWuyUSBpOysjrWVNRACUjY2t3K5Al+ecs1WHLHRrh4LxwGNuu/p3WHbb2gEpYu0cPWpB9gD7sP69JQ0HYa5p9iAXbfnRVyEittdWXc8mc7qQP50NQPWhxhK6WT7IZBqWmf1GMHTKT1F2o5QVbiPoIfagW9e39v3eKFLPbl6VEd8ib1zpeax7PUyMz26c1YEgmNZtEg0hgMEZN2fhNU3PnJ5033Xdjfl4iELRRhiW8oCZGyOZ8G5sspUMCr/HC1XXV5xW9Bi8l4CdIxBWQAmGTjhIz/4Lvq77fXDuqaxuNdXuf1kSIBbr0qdlDmqdC7UhP5KQv0CMqLknm6+EN8ZIX1qKp3OXTJqrQiFXZZWNrVriTRBzA4/GQGbR93jWicGBBJl/3FVTZK5939y4HFamM5XqRU3l971LcIj3t7g03C9jEo/6xP7L6vQQnUEBSQL3yZQbtrtPr11QXp1nNYdd+g==;KGZxRPBEg8PjICMHuTMYZg=="
 ---
