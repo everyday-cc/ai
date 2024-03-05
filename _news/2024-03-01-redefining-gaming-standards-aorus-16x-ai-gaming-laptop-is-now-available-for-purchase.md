@@ -34,6 +34,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "How to install CrewAI and run AI models locally for free"
+    excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/install-crew-ai-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Installing-AI-models-locally-with-CrewAI.jpg"
+        width: 1280
+        height: 713
+        isCached: true
 
 secured: "J99LXDnzeOWXF4reiW49EtvX1a8YCWniYqyiVfRsVstRjYstjr0LSDr/4RRAsDQtiyaaPum21rwEwGc/hgvDtKYTrzo57KxRL4aFPmUOn9gRe3JV0jiAth1UDvu635dfUwi6Zz8ITbpZnLlUaoSCG/PlsvtcDF4fGMnyz2hstVMsnFS9SAJ78fkOJNhfe9Ha5yRSHbq86qkdY+E0K2dlUniydTfhACVBhKgXu3vrZ8ZA9aiH/ZrBjplJ1XGir1dT6Oy/itbf1B/V2y+ku93TFavjCzx0Klsx+F0Pqt92hY9JgO1dO5JYlL0SDVjqWmouDsu06NLYVfH1VbrsJ/+fS8J4lNv2wMJFRu3CdVevby/6wmZObS+fWiouWvNdOIhUCwiwfxr79PIlgNXnC1J9XJ6OEF72+RQIPxzKSs1LmtkOHAcmHJ2n/Zynx9/kkZSeniPi2qWXYurTRs/HStDMdt1H9nJu0uDupOs14x7s+jkaDZJ/qb4pfT9sLXjnJe/HMaC7ly7ZfxBG7epv1gw1AQ==;ZBk82ktvMmsHKsDXJV7fUQ=="
 ---

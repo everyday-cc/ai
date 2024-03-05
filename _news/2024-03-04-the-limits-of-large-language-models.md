@@ -25,56 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI and the big buzz about small language models"
-    excerpt: "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ..."
-    publishedDateTime: 2024-02-29T14:23:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
+  - title: "Large language models can do jaw-dropping things. But nobody knows exactly why."
+    excerpt: "And that's a problem. Figuring it out is one of the biggest scientific puzzles of our time and a crucial step towards controlling more powerful future models."
+    publishedDateTime: 2024-03-04T11:32:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/"
+    ampWebUrl: "https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 40
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_580417436_Preview.jpeg?w=1200&strip=all"
-        width: 1000
-        height: 571
-        isCached: true
-  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
-    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
-    publishedDateTime: 2024-03-01T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How to install CrewAI and run AI models locally for free"
-    excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/install-crew-ai-locally/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Installing-AI-models-locally-with-CrewAI.jpg"
-        width: 1280
-        height: 713
-        isCached: true
-  - title: "Meta Set to Unleash Llama 3 an AI-Language Model"
-    excerpt: "Meta, the parent company of Facebook, is gearing up to launch its latest AI language model, Llama 3, in July, as reported by The Information. This new"
-    publishedDateTime: 2024-03-02T18:40:00Z
-    webUrl: "https://www.arabtimesonline.com/news/meta-set-to-unleash-llama-3-a-ai-language-model/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.arabtimesonline.com/news/wp-content/uploads/2024/03/pexels-photo-17614476.jpeg"
-        width: 1880
-        height: 1253
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/240215_llm.jpg?w=2100"
+        width: 2100
+        height: 1182
         isCached: true
 
 secured: "xD3GJ/nqA3+cpdZ6DAtIQ9y8dzAqjE3szdxsz3bgxGo0gIFYWMJDa6TVX3I8h5/EwOj65pu8SkVjHeZXq1ANS5B1zZGCbDJOm6xQpYotNrL1W27RXQLf8ThI4EgWkYR+lp5yfXcGvssbocN0zNP5uXUJ+XGYqUnjCWZAfERL6670txQcywm2KlZ4dAAGK0bk6bdrCPO3dvAodCYpYEWcMvTY8YSe+PUlenVYoYiXTzy3Wj7mSrdsj2+oHJcCITWNokDnl9G++x8K7vKxbaK5VrBuBerPgiGhShEc9QWAGx4q34PmGDTG8OAyUbT8+MOxkFsORdRlH171X4Up7WhD+59B3gNQCW9s8WhD6ojhTej/VoQUEt0RWaPZMbyGXcaS4nlT7JQcu7VVPc4eQJLQ7ShjZP+ky4YW8xgxFVSODKFQoKSsRixju3YBrIlwb/i7lsiGqS4XAcTA2zCYrZTesi1dqeF42D5EWHCsa0xfWwWm/VNzjtwA7Rd1sC9yN6nldXu31BSzGnLat7yNvnRUgg==;1jfLuB1MQG2wxd9rAOVEYA=="

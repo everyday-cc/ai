@@ -79,16 +79,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 38
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
-    excerpt: "The growing adoption of artificial intelligence (AI) has sent shares of companies involved in the proliferation of this technology soaring over 16 months or so, with many names seeing a parabolic rise in their stock prices. A parabolic move is a rapid rise ..."
-    publishedDateTime: 2024-02-29T14:47:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/24435107/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
+    quality: 40
 
 secured: "OIkc4bbFkeOGwXvh6YABaVjVEYP/emEKKi+b06NpkG6QLbEI2I10K8imAH8Med06P3dVhRw/kikP+m7VajzYQz08rFKUTSrdttzq8tTWbb2OTa5/E3XOY30789IFveCIH1hCDnN2V9qRCAHljYKJwsrErkjEDu3JEVWnDK+yMzfcPSDX1O/qP8dgIV5Drv8uFG+wI91mn9slEHTIAlA652b0z9X01vrVLipzv+bHPH6isx/2Wb9+jnfRptN3yLEW8xg/GPPQuNa309dY2lJJ/z5XbD4Bu02MpYibtovVdwMwGulsOiLgYwxxPKVEftzwzk/yLTQpAJUBcnpj/YSwPt8vhp+ntHy1U1UjxYbDsJEYVmuhNHQ6XCfW0vdCnVIiJgr14qGDyA67iCPyjXwL8BGLRX+3tUVRH37BCRqxLwMyC7we8FxvdNZvsRW7zFcJekHcrFq/M/0lGAyr+8AOCZmrxkvhfjNR4pF+q5XEOF0rKR+gse5L9//IUmeQ+/JbL97Bfo0UJ+b1bXZI2sazbA==;sD0Mzkf5vC8c0rHu0MiThw=="
 ---

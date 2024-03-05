@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-succes
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 36
+  - title: "Nvidia Surpasses $2 Trillion Cap Amid AI Demand Surge"
+    excerpt: "Leading semiconductor entity, Nvidia, recently achieved a $2 trillion market capitalization, powered by high demand for its"
+    publishedDateTime: 2024-03-05T13:14:00Z
+    webUrl: "https://www.dmnews.com/nvidia-surpasses-2-trillion-cap-amid-ai-demand-surge/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 19
 
 secured: "hvW1cd224MNKqhtL6+XmcFQjN+o39oHpLTrkOOVJvfMvCEvWmwUwsyk6u7jhZsyqXgnp/11RrtwkGQSY7P3OiyRN0JbAVNqsTMyCJJdEx2R6hYcGh7dD397yg2AuPeZz5zR1s5qWypLBFY3ZT0ex18VTGhROLqEtGIJRzAA0q/126PLa/jHXvHDI8SB+nTWSLfn7p47Whp6xvh7xcnKoWPzuyxn1VWoIM4DMBlYNkxejCeSjt0awbTHStccKATMaQwEjga6RDxBTFJj7Hgps1ri5piLZPS6U1aYX3llKX5PZtiCAxZF4JCxNKAbuOWnIfYKLOfgz+3u8piQH0Gp3+lc9knpI4Q5oL/onZQHMCc8T+sKvfjyrCrIlvKiRr6i6bnMlW9nWMO5gO2F2wb0Z1da5Rc/ezWtpSXwYs7g3bKGp2wZefGuDqhVpPZDWoLT4UyJYpzUSRJ0Efi+5SNEVJjhe0GmM+2FlUnr2cIOBf+l6bB2GwKVk8A//P4diuhOMBp8xn+l054XCIBBlc220mg==;SIHPZtsDGjJiiP23m10X/A=="
 ---

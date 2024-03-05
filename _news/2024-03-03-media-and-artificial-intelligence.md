@@ -130,6 +130,20 @@ related:
         width: 822
         height: 822
         isCached: true
+  - title: "The Staggering Environmental Toll of Artificial Intelligence"
+    excerpt: "Between its water use, energy use, e-waste, and need for critical minerals that could better be used on renewable energy, A.I. is a really dumb way to trash our chances of a sustainable future."
+    publishedDateTime: 2024-03-05T11:00:00Z
+    webUrl: "https://newrepublic.com/article/179538/environment-artificial-intelligence-water-energy"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 39
+    images:
+      - url: "https://images.newrepublic.com/7b6448e77f2aeb2303171a21632b6ca31920f03f.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The President’s Inbox Recap: Governance of Artificial Intelligence"
     excerpt: "Lindsay to discuss the capacity of the U.S. government to lead in creating a framework for regulating artificial intelligence (AI). 1.) How governments will regulate AI matters. AI is a potentially transformative technology. It is also a tool that can ..."
     publishedDateTime: 2024-03-04T17:46:00Z

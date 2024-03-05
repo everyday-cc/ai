@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
+    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
+    publishedDateTime: 2024-03-01T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
 secured: "2sEzIw4Bfz+tZaY9KYPqFE586JGtoETgbzrEgBnb73HyQV/WEWrovuYBOgFm6LCsJYd3rfG6spFVzVh+U1/a8Qmd0OELodqrbN3Y4dCUBohYO6ndHGEpRZGaz9cRxyWGnipJ/bN+8uEEHSCKK1E30Eg8DRt+4pgGQ6LzqwzPZxyQzeguYDr8puXDw9LKONQQLRLkBsrAxsFUd7fSrMTSNaqD5ivUqh6hEE3skgMlfddVyLRah1RQ9+oL8EPiZY1/tSTXHebOlL05ukP+cZMsWNegZrJZ/EZdMqzIHCiCQ8gk4wl9BHSxdfcq5U+CDa7P3OoGI4xlxbsyQz9KyhPW/z689PC2acHqDxD4ZVTkk3LBMYsBWb9C3yGLyxG5XA8JDJTG+b1X8CdoNOB4IGmyr7L0VrmPNwZR4MkiN0+mGG3mtVPawsUCwQBoD2Cw5zJRetnqanqTtdUcVH/ZtrWW66dE7G0CMEw7PiV9oZ4d1tAqfP/IzBbKQViAVGUYa8UV7osTmJpS+GDzgGCNLjrbiw==;afnux9V/WagfHXm17z2dBA=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Building \"SuperTeams\" With Artificial Intelligence"
-excerpt: "LLMs can enhance team unity and clarity by streamlining communication and defining roles. By analyzing data, LLMs can provide strategic direction, ensuring team goals are ambitious yet grounded. LLMs can suggest optimal team structures based on performance data, making collaboration more intuitive."
+excerpt: "How do Artificial Intelligence and Large Language Models fit into modern life? One interesting perspective is organizational behavior and the benchmark thinking of Richard Hackman. His model, encapsulated in the \"Five Factors of Team Effectiveness,"
 publishedDateTime: 2024-03-03T19:19:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/building-superteams-with-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/building-superteams-with-artificial-intelligence"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/building-superteams-with-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/building-superteams-with-artificial-intelligence"
 type: article
 quality: 17
 heat: 17
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "hTaihcaSQ70LUgT9ngP/RWffxH+rXgFdnVzmt9e+mFUxz7sOkcEth2kTfcCaQkcKVkVAGp68qSAwaMkY3hiUcMbC0zEZuABdAW3HnhCeRKCipiSYZJ23DupDHn+eog/OfqsVBcA+A8AAbxoygJwDy3UWf0g5YWObyTKd+WPMLk4WF74w+E0FlhhbM42J6xQ1CAQrmUPj4Dmv437drOvtQyRazLWk1BTR84eXUUV0aEq3oK4nPDp46EIXNCXkAVSttivi5jilXlX/oYapjEoBsUWUX5V2lChPDMYE9nFkB03vGOcuTPLqAI9X/WQ2w/9OQB18xLCVL7b0NAlV56ifeyjXfE1ECcKTwU1atR/lyu3Se2bLaIA5xoOWw+GfIi6CnZOyMpuCcPZQgOdAbsp1n1LtvF17iqGg2NYvDOp9dYcf6N3jmErCAkjB/ZjsKw85R5TBR7ASu8g6CeJl5WMdtzm4BkQxvdkkCZW7GoysWqjAnMOI11kJbc34c0Wt/Df/gLPSnn5690VCFyU4w0z7Cg==;Vb4wUlDwhwHCFFLGJnMXFw=="
+secured: "ws4lawZU+wuUzehxjDi+HDZWewWWUYwHyX7/jKMHa3U3I82rZsA38JOWTjXeZFZhuSv8+IbWejQUeFTOQj428C0ezEaAqRCioHfabzA2Ip3hbqayfJvJ8PdcPsP5Wmt6OsQEYXTm5RKVJii5IQfhqbmfAwAVJMBREpF3kCzzQMMJhsnfdixAzTdGFHTSBhEONqNp+/I5eYm25VU+JOCP2fnu1Kimx90ULFVJ1DLh5smuE0KQv3szEcUDdOKsGRKxF+fKc0PD7WcCd9eoPz68XD8xC/kaHcT29Bdzy/6CdxXmqj0FSlmkoplPIqTJ1Q6o8pp/LHQ9lNwCvJNP4MqBQa4Gja6vxQsAYg0cLYBlyphEcuCeNCD2W+4tAU2vW7Pz/oVzPis1KflF9/zWyeFyTyGQPMtbpeo/P1MP7H8eCbP53RSnc8BbuQE/yULxgvxvoJa7clm+iWcfMEwwDHcESXCndWbjuuDRA+1BKvQue1T0KZC4H3uPCMIM8E8LCzUZWpmZmaq0ucZx063net87Aw==;XYuG/+q4pXJe7OJkMIRBvg=="
 ---
 

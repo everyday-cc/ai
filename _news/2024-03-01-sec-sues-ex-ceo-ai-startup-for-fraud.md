@@ -34,6 +34,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "I used generative AI to turn my story into a comic—and you can too"
+    excerpt: "By pulling together several different generative models into an easy-to-use package controlled with the push of a button, Lore Machine heralds the arrival of one-click AI."
+    publishedDateTime: 2024-03-05T14:01:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/05/1089458/generative-ai-turn-my-story-into-comic-images-lore-machine/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "+8KPrYAyN5dRaUy5T3ML/QLOikdWbFpu3LPT8HMLJx+0UPCxFV1mpKDE0rNgROA32qj9EpTf1Lx6pumJz94GnjTK04GWrCRvVTzO5GMyTs/7/C+m/W+/hPsZak706apwybeILSCmYyYo7hfQR2GYkoisMIFg1yhXSva8w2pWaRjXSV6eBi91cZG3f8bitk2uLzdEmOi0XWl4Kpv0FcMZj+DSY1mbSjKCzi6KV3mD7V+BngsLMUPq9PIxtPK10Y7TJnOzPNk7BqYIM3Dc4wnrPFVHNDTx/lXt4h4/NBPHH4ER6yA2OL54MV/Ev157oqfGIXvqwNwpTICDFzbKnNxJmVcTl5VMdscz7vwNCVhGEE65NnawlIntPUNHah2zICYFTFwwIUKo6OygmNnyvgXYkVY6MbzlV3kV51g3LX/ZUiLuTpe71J8VtDp7anK+hAKUDDw3TaX6gjTNEuSDgvmB+DYgN7LvpOsig5tpQH6fVNtr9ymZYSmpBuyr17a1avsdNqx3oQp4Zw/b6lYgmfrQHQ==;PhBZrkVw84W7mOgSHb5bng=="
 ---

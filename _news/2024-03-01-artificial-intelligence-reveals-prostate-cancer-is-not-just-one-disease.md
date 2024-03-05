@@ -7,7 +7,7 @@ originalUrl: "https://www.manchester.ac.uk/discover/news/artificial-intelligence
 webUrl: "https://www.manchester.ac.uk/discover/news/artificial-intelligence-reveals-prostate-cancer-is-not-just-one-disease/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1800
     height: 1200
     isCached: true
-
-related:
-  - title: "AI identifies New Type Of Prostate Cancer"
-    excerpt: "There are two distinct types of prostate cancer, which may open the door to more personalized therapies, according to a new AI-driven study published today."
-    publishedDateTime: 2024-02-29T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/"
-    ampWebUrl: "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65dfaa1c4adb4c8f69357735/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "iYfRNV7hy7PrVWrKlycNCQ80szkbgugf77e7MtNrp8QhT/mZYuNfxBe7wsX4CB2D4xkPxu4fM24OdLOQknfi1gxxyY8HabgBpfB96fG23opxzTBdz3LOc94JcqBvGgJaDUcmb8AlNJHQp51sQ/1a1Ab4yyEpcBAlA6iqZaePk/rpkpFmH3KNmI9l5O7gsMKPSUFAA2XZY0JklXudJ+Hn2l3Cj4TJcEx9pFpoJ4V+VUfr6skc0pXxvN+8XhEhRCEpR3Z6yqAR6SbbGdFofuaBcNAV+dVbDEncdG1DyxpzzawvY7hxDZ6hYhKwUB5aCCKz9iH7oc9HtCaYI45FxRBb3ZlBSbuXkmvMSTUuuRJfIkg=;qDnYadWC5czU1byWcvl5/Q=="
 ---

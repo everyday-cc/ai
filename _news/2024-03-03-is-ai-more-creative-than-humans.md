@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence for basic work, human intelligence for litigation"
-    excerpt: "Collaborating with AI solution providers is a viable strategy to stay competitive and meet evolving client demands, experts said"
-    publishedDateTime: 2024-03-02T00:39:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-intelligence-for-basic-work-human-intelligence-for-litigation-11708929486945.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-intelligence-for-basic-work-human-intelligence-for-litigation/amp-11708929486945.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/artificial-intelligence-for-basic-work-human-intelligence-for-litigation/amp-11708929486945.html"
+  - title: "How does AI support creativity? A marketing perspective"
+    excerpt: "Some might argue that creativity and AI only go together because leveraging AI for routine work paves the way to being more creative. But it's not as simple as that. AI can play a strategic role in creativity, and James Manderson, SVP of Customer Success at Braze, helps explain how."
+    publishedDateTime: 2024-03-05T16:05:00Z
+    webUrl: "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective"
+    ampWebUrl: "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
+      name: Diginomica
+      domain: diginomica.com
+    quality: 76
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/03/01/1600x900/law_AI_1709312715967_1709312719900.jpg"
-        width: 1600
-        height: 900
+      - url: "https://diginomica.com/sites/default/files/images/2024-01/Untitled%20design-3.png"
+        width: 740
+        height: 450
         isCached: true
 
 secured: "B4IqAOM5C3oGG0ELn4mxf/1MCbboVS67oVZkCCWi6om9f1sJ8UxWCyoMdGlrPNWPpCMxIIQwCythBpRFfyToTCz+AFmW8e2JMZIwkyZrNbf4eDYZN/Hz3/p3d6CODj5e+8kmIWNKjd4kpjkthWlq2aLZt3uqJsFLopnaTYMYgfizC8laXB/PYAVWEaIJWeOYsKgzd8VzP2wAq1lfSFKqD2EJhyWD6FksyRGcSKut6nh8hRv/JUCr2dUwav/D5cwONCTvOdD/ob+HL8PuEzKmuAYtZPzYmMNiLK5Rsz5kHTD9SkpWwuEOpaehATOiiaBsVV0LZX13FGgFTt+VBfBub8vrixDUSHYS1at010aufY8H++DtxUbEGQjtVlPcjB+4/N2dkhZcQwPG1sjYF2fGxy3ceUHqaSvIdRQUczDok9FeX9BfgE1SAU6+vg8b8sPDrCGkdoIEaHAiciccrKp8Xu9m1Ls9wYGXPpxeIz1Ffuo2Zmamz5Z1JaquKcKknsIdfTNhHa79Ug7nr+HONIDqBQ==;syROnZ7DrcDqK9V4kEE69g=="

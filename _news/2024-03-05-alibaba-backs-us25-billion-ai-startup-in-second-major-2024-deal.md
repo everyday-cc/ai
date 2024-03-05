@@ -23,6 +23,17 @@ images:
     height: 587
     isCached: true
 
+related:
+  - title: "Alibaba Amplifies AI Investment, Valuing MiniMax Over $2.5B in Latest Financing Round"
+    excerpt: "Alibaba leads $600M funding round for AI startup MiniMax, boosting its valuation over $2.5B. Alibaba's AI focus continues with significant investment in MiniMax, mirroring its strategy with Moonshot AI. This investment positions MiniMax, a two-year-old ..."
+    publishedDateTime: 2024-03-05T09:10:00Z
+    webUrl: "https://www.benzinga.com/news/24/03/37483058/alibaba-amplifies-ai-investment-valuing-minimax-over-2-5b-in-latest-financing-round"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+
 secured: "UuTBehB3l11bmyBhy0K9p4Xv/YPMHGhubMFkNicUemjTYG0FUfoB487HRyWLOv7mxHSahGM7fkmuT9ePOOVs/ovLookayO9eNjpMn/B1KIwcSF9zMdk3YogCWxnC95QHhBYv4uo+nU94ZpnkCKvILWHZunbdu3qafAGeSKEtQzlOSpmJAX4vDYg7vi8Dy7dxiAtCYjIQCA/GbYPYcJ6FPgbXlc9O7MXutY+ohEr9xOwOjFJAkrx+EJxhfU8e6GjrQFHscxdl7ntBR09WRdDk5mb1RLg9Iqb/SBVKvTm9Ir0gIxelnBXYZEHJuMGkB7bSjL/JiSgmE4kprOW2DpRyqKhnRM9o+Ow41h4tbPPfESeD3jV+Xu8pCbpgDsBrYn4HYi6Jn3J4irWPiB3nptCG7XbcM3VbJleq9PXLMOzW9vQt4geGActWMms39qqxN8exzh99E6zyapyZ9MDUn7p8JDtEFn7YHcq5pt0885JR5Uwlsg/qQsgcHxqKCUpckaVyO4ga5LLHDBOGdumACelyiQ==;c6kFlg2xz4jpcBeKx5AQDg=="
 ---
 

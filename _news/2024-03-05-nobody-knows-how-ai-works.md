@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,31 @@ images:
     isCached: true
 
 related:
+  - title: "How AI could reshape medicine"
+    excerpt: "On a recent international trip, I found myself running late to the airport. Not being fluent in the local language, I used a translation app"
+    publishedDateTime: 2024-03-02T15:20:00Z
+    webUrl: "https://www.omanobserver.om/article/1150414/opinion/how-ai-could-reshape-medicine"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150414"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150414"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 39
+  - title: "How AI Could Reshape Medicine"
+    excerpt: "Not being fluent in the local language, I used a translation app that enabled me to convey the urgency ... With recent studies showing that AI models can now identify early signs of health complications such as sepsis, these technologies are poised to ..."
+    publishedDateTime: 2024-03-03T23:27:00Z
+    webUrl: "https://menafn.com/1107929168/How-AI-Could-Reshape-Medicine"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?776993"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Roundtables: How does AI work?"
     excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
     publishedDateTime: 2024-03-04T00:00:00Z

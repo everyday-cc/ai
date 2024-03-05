@@ -41,6 +41,31 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How AI could reshape medicine"
+    excerpt: "On a recent international trip, I found myself running late to the airport. Not being fluent in the local language, I used a translation app"
+    publishedDateTime: 2024-03-02T15:20:00Z
+    webUrl: "https://www.omanobserver.om/article/1150414/opinion/how-ai-could-reshape-medicine"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150414"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150414"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 39
+  - title: "How AI Could Reshape Medicine"
+    excerpt: "Not being fluent in the local language, I used a translation app that enabled me to convey the urgency ... With recent studies showing that AI models can now identify early signs of health complications such as sepsis, these technologies are poised to ..."
+    publishedDateTime: 2024-03-03T23:27:00Z
+    webUrl: "https://menafn.com/1107929168/How-AI-Could-Reshape-Medicine"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?776993"
+        width: 444
+        height: 250
+        isCached: true
   - title: "How AI Is Affecting Data Center Networks"
     excerpt: "Following up on the contest between Infiniband and Ethernet technologies, as they jockey for position in present and future data center networks."
     publishedDateTime: 2024-03-05T03:22:00Z

@@ -39,15 +39,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
-    publishedDateTime: 2024-02-29T16:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-keep-growing-in-2024-and-beyond-1033119936"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "Dq7dupUB94WBKT9DvzbFYb+sQXHMSx1acgcxv13oMTTOWSC83j5Z5zRxDkMB2e49HBC26FjThHqQB7b397PwIRQ+Gul1TPvY/RqBosH+NuTdQB4fbT7hob7dI/WXSTJbUh1bvw/r/gdAT1mNNuheGBwmdDo5sjsTiheJnwTJ9EJBtQ/Go6eBOcyvtdfqcwPGJ/aoIprOPyXqD/dPhaxF0zlgrVUdOeloaf6GouW8ITvNu/+qNlqb26MP9kjfV1P/Rfh2YpJEDgy+wG64gDV38LtawUlo/euunSTvnaWzal22ucbIpRTwHz4CuA+aSPvVHh2Z9hvpSi8R/2wBPH79/I+QRPgMgDA9r1NxlHEoxCoWqZlc9YRWqTcFjiHn/zJkRJRKpdafRCZy9Z0mo0JfLq8Uay0OoibJ4lb+Q2OWZfzJyazsqjhNcw8t65sD0BDkfJXXgKjdqjTXpvntK9yGggtyiFO275xVGI3c9xbloXr7DswLjj4R51SMg/D8SsJNkvRwXfblnLGL0xITUIVQeA==;i9YeH1tj/fANgQJJeiZKbA=="
 ---

@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
+  - title: "Healthee Raises $32M for its AI-Powered Health Benefits Naviation and Management Platform"
+    excerpt: "Healthee offers a groundbreaking digital health platform, powered by AI. It simplifies healthcare consumerism by providing streamlined access to health and wellness benefits. Zoe, the built in digital benefits expert, assists in navigating healthcare benefits, finding affordable care, and optimizing choices, particularly during Open Enrollment."
+    publishedDateTime: 2024-03-05T14:32:00Z
+    webUrl: "https://www.alleywatch.com/2024/03/healthee-ai-digital-benefits-platform-employer-health-care-navigation-enrollment-zoe-omer-maman/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 8
 
 secured: "bUFzxrG8P/woLLMMqzWJE6/NSBFAnr/ux1cWQ0qiDsiww5uat8OY3gDZG9mtlsPBlK9796hsNhNg6IXgbzxepCotZppWejYqRkVfo+19UnB/aIjEviwvNsv2R+13ixVVEidtZbWC9xTFitP2tBo/R7SeOv0IE+XAG/WJ+11nBLCyHyj8bkiMRZZk7PMjbK2i7OGbXp1ysD1XDzmpcNphuubNtHMxE1Pn70E+MuWNVHBQ8Z7vlEsTlZ2WOkdmzTBrMkr89DqkjJj1MILyg2v7ZHg0VMCQso1kP0BTeCIhsHwu2eIPkvdWx22zlkAcSyZA5j0TOwXn6l8XFpomvST4aSdFtJhEW9u/LTOxLwVh1is=;zT8GlDlgtiHmaCITwnDy0A=="
 ---

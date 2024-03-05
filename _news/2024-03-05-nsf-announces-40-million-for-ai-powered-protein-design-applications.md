@@ -32,20 +32,6 @@ related:
         width: 717
         height: 398
         isCached: true
-  - title: "New Cloud-Based Audio Solution Will Bring Instant Voice to ICE's Instant Messaging Platform for Traders and Professional Investors"
-    excerpt: "(NYSE: ICE), a leading global provider of technology and data, and IPC Systems, a leading provider of trading communications solutions, today announced plans to launch ICE Voice, a cloud-based audio solution that will be offered with ICE Chat to provide a seamless communications platform for traders and other market participants."
-    publishedDateTime: 2024-02-29T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-cloud-based-audio-solution-will-bring-instant-/2024/02/29/9970557.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "Q2TI/eI9K1KYcivyPzaqKQb6LpGNqncEeksBOhR1HAzDnWmHc9kKSZ0JvcvMLEfJbN5QkuOfTVrBb8EdLpTH4fkr73wztyo8ZH3TJAAVlGEbOSZG2h98AFhMV66PSBLwnW37wdUS25u5xdqfS7QE261p9Ah0KG9CAnh46DJ7E8dJ3ajnCtOVKsrsynLA3zqa7kO0b1V4tRX/L3vToT4qiCkOF2AhlhP1BFDvtuI+vtJJFFd90WhxEnggnajlrA1NhPnTrcz0Gn2TiqbMJxxNkNTkepXZZuhafmW3GR7LNN+feEOAungf1NPFrdDAAOSkF4pFGN0yOTjorWACQFUxn5yjaWggZ0kOQKigweiQ05Huoj61G52+874kIvf72s/SWLJ/lZIbXzKg9GwueYNBVVrDSix9PSVpJC0/ZOtOuYjzHxVo+NKyT9hkUenDFaV/xyqv5Pj9mIgKPZMdxYm8LINxpDR1+l7NhfWQKzEnDXmNOJMWVOL0CYIaa7W4olgGPcCw8zNe5AqyfLWRedVRpw==;izIaUSveOKZCDcdLf5J2zA=="
 ---

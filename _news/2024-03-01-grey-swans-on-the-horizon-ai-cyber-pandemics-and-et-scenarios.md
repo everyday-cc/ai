@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2024/02/29/grey-swans-on-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2024/02/29/grey-swans-on-the-horizon-ai-cyber-pandemics-and-et-scenarios/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1349
     height: 900
     isCached: true
-
-related:
-  - title: "Understanding The Limits Of AI And What This Means For Cybersecurity"
-    excerpt: "4. Incorporate a code of ethics for AI processes. For the most part, lawyers, doctors, airline pilots and other professionals operate under a code of ethics. Why this code exists may have to do with how professions play a central role in the development ..."
-    publishedDateTime: 2024-02-29T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/understanding-the-limits-of-ai-and-what-this-means-for-cybersecurity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "HwtS1GyIE0Mq1Qd2vsWjWwnGX/QsJCBCc1NZ+zGL66TXRsuZmePyD4/lH7dyDgR22HrGrkFU+0uPtDl9fEUFwbz9uqDluWO/hRlMw5Hhnsv5YyDzYn6fPaZNkvaRn9T8w+LOEhGK6AcVczBJP7PnmYyZqZ5y+ck+pvpXBTXs5KG+4qE02Pdn7Go8HaAUSkU5JqpM1Px4iH8GLQObZGJfVLXXhk1pj44yPYarZsfRNN/eaLghNEMGY1PG+XAdoY9ZlUJ4MlieAIBHCjZV1ReAV8tfJrpby0qXQS1oTM/H9dM85gliNlubkm9F7efVCSOPPaq/dbKo3iD0uhn+edJS9N4h5tk8FY7k8YLwKiPfzJw=;hdpsQTvAFpHsOnugQK2XgA=="
 ---

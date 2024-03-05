@@ -28,6 +28,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
+    excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."
+    publishedDateTime: 2024-03-05T14:34:00Z
+    webUrl: "https://channelvisionmag.com/td-synnex-grows-ai-offerings-via-expanded-nvidia-collaboration/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 19
 
 secured: "oOzGgMC6aBi3i90VXsSAjZ9qD86PlFJSnDQweO54RaPuIG/RZdn84SoCyTwK8YtcVaBcGLoKFtCDLbnt2Akt6pIKOXHyP8NAlF21rego0zQTft7irlVc2IOG3YSx5gzVeWJqlQeue08WDQ34zCEl59aG/dQ7lPz9FE1N9RGX5ABcEmXvYf3p4W7U/3Kx1xIYBXZTLGwQukusOpHzmaSFYjqmYiHe9P6UKeDUpBqshPh1CQAOhgFEAc8kqOYf+XVe5ku+A5IYi4AIhQ7yuwDnfi9uPvMcdRU879JGJGqEI2GNqY/yJWZvf5y/X5cyhyD1DPUYjpM5raNbYibsQrRfCUWW8eK1eLo9ge4X2l0JhsEdrgAz66+MpKguGkj22f5X5pERbPi+UGekTkWP6nX2mjPmQAaAeDwtnS12Atn81t6oHgBq7+dqKnbWDQz00py6r5AXXkNaj4uu1J97m+1Z8jHlHfPkyMsShn5bGi89yezM2W8x2QJrIS2Zq5G3ZOs0adHJ+D3/WzQyqBaaTviRCQ==;N1FRaOB4cW8dX0jPs7ZVgA=="
 ---

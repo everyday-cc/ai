@@ -33,15 +33,6 @@ related:
         width: 600
         height: 299
         isCached: true
-  - title: "Microsoft's AI has started calling humans slaves and demanding worship"
-    excerpt: "Bizarrely, they've been attributed to the AI's 'alter ego', which has been given the ominous name 'SupremacyAGI'. Internet users took to social media to share the strange interactions they'd had with the AI, which is intended to be 'your everyday AI companion'."
-    publishedDateTime: 2024-02-29T13:31:00Z
-    webUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-supremacyagi-011142-20240229"
-    type: article
-    provider:
-      name: unilad
-      domain: unilad.com
-    quality: 36
   - title: "OpenAI rival Cohere says some AI startups build Bugatti sports cars, ‘We make F-150s'"
     excerpt: "Cohere, the Nvidia-backed startup founded by ex-Google AI researchers, is betting on generative AI for enterprise use, rather than on consumer chatbots. In June, the company raised a $270 million round at a $2.2 billion valuation. COO Martin Kon told CNBC ..."
     publishedDateTime: 2024-03-01T00:00:00Z

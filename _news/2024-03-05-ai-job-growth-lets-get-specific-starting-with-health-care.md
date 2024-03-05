@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-let
 webUrl: "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +27,22 @@ images:
     width: 1501
     height: 900
     isCached: true
+
+related:
+  - title: "3 Under-the-Radar AI Stocks With Long-Term Growth Plans"
+    excerpt: "The slow and heavy vetting IBM's prospective clients apply to the Watson AI systems today will result in lucrative, hard-to-replace, multiyear contracts. \"The early work for clients around data architecture, security, and governance is critical and hard ..."
+    publishedDateTime: 2024-03-05T15:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CRM-N/pressreleases/24506201/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/f3bcd1888e08b88a2698375b2d552cf3/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f966f26f11d65d43040c59701c19af599.png%26amp%3Bw%3D700"
+        width: 720
+        height: 441
+        isCached: true
 
 secured: "dDJOQwuiHvl2DKHWUNhGhUG8kKuO2VmhtRSA9RChw6Y8TYnB4L7Cd/NvFwR47lXHPtdPbbOAJlW9N+PgzYj9TmSMCxlfNUaT9k1gWGtd59vAxgVGXDKF78DHgvERiYbgD63YHkRp4WTrMHLcQMcAeoD+Y0S9p8/z8qL0b5xL+hCISnGAwCAM8ORSrFcSOXAVsJqnLLxpc54PsHhPINVwyAvz9CapcWp6tevP/HZv5HdifkwD3mGLoAroVF5d8PcDWK81cA2//Y3r7rwUp8NxQw5iu9vK+eB/7fI9QHe+09wiVXtpKRtDrwPDCNi4QhhdiG+ywci0HB1VzpiOn8ezhgFcg2xloJ9C++IU3iAswYU=;pM8rDptCPCVRAiwZh7tCqA=="
 ---

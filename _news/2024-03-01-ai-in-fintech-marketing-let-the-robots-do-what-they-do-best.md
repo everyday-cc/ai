@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -33,15 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Fintech Stocks That Will Keep Growing in 2024 and Beyond"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are changing the way we look at finance. These companies"
-    publishedDateTime: 2024-02-29T16:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-keep-growing-in-2024-and-beyond-1033119936"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Managing The Convergence Of Regulatory Tech And Fintech"
     excerpt: "Technological advancements in fintech are starting to help create a more secure financial ecosystem, where movements of funds are transparent and bad actors are more easily identified and stopped. AI and machine learning are poised to become even more crucial in helping to understand consumer behavior and patterns."
     publishedDateTime: 2024-03-01T14:30:00Z

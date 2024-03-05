@@ -25,56 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI and the big buzz about small language models"
-    excerpt: "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ..."
-    publishedDateTime: 2024-02-29T14:23:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
+  - title: "Brave's AI assistant is now available for Android"
+    excerpt: "With Leo, you can ask questions, translate or summarize pages ... which includes access to faster and more powerful Large Language Models (LLMs) and higher-rate limits. Also: The best AI chatbots But for those who work primarily with an Android device ..."
+    publishedDateTime: 2024-03-04T19:48:00Z
+    webUrl: "https://www.zdnet.com/article/braves-ai-assistant-is-now-available-for-the-android-platform/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "Redefining Gaming Standards! AORUS 16X AI Gaming Laptop is Now Available for Purchase"
+    excerpt: "The AORUS 16X is powered by the latest Intel® Core™ i9 processor 14900HX and NVIDIA GeForce RTX™ 4070 dedicated graphics card. With a maximum graphic power of up to 140W, it provides unmatched performance for gaming and creative tasks."
+    publishedDateTime: 2024-02-29T17:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-redefining-gaming-standards-aorus-16x-ai-gaming-laptop-/2024/02/29/9970929.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_580417436_Preview.jpeg?w=1200&strip=all"
-        width: 1000
-        height: 571
-        isCached: true
-  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
-    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
-    publishedDateTime: 2024-03-01T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Meta Set to Unleash Llama 3 an AI-Language Model"
-    excerpt: "Meta, the parent company of Facebook, is gearing up to launch its latest AI language model, Llama 3, in July, as reported by The Information. This new"
-    publishedDateTime: 2024-03-02T18:40:00Z
-    webUrl: "https://www.arabtimesonline.com/news/meta-set-to-unleash-llama-3-a-ai-language-model/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.arabtimesonline.com/news/wp-content/uploads/2024/03/pexels-photo-17614476.jpeg"
-        width: 1880
-        height: 1253
-        isCached: true
-  - title: "The limits of large language models"
-    excerpt: "A recent paper from Google AI researchers raises questions about their creative outputs, shedding light on potential limitations beyond their training data. While these models have demonstrated exceptional fluency in language processing, translation ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/opinions/the-limits-of-large-language-models/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Victor_Botev_2_bnw.2e16d0ba.fill-1200x630.jpg"
-        width: 800
-        height: 421
+      - url: "https://mma.prnewswire.com/media/2350988/Redefining_Gaming_Standards__AORUS_16X_AI_Gaming_Laptop_is_Now_Available_for_Pur_ID_46d5b677682e.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "kKHckisKdRG9ECJ3Aa2QgFvEyqmaKuELfht/XiScWtoxO+n8yFXOPuj5JlzA27JDa694kGQHM4cV+96YeHj6eTHO2btJlJu2q4EbAAFuwj5SggwzZatIYqv0EHqiidjgnZ2dBlTKslDXKScUCakx6EvGAtkxuSi6VUDpggiTzzIougz2+uuhXOtK8OG9Q+iwZNYGOzgLRJj26U+CC38ir4MJ3ZYop/ZfHxW0CMiCpS3QRdN7yMxTYr46nVeztCaLy/f6PWk6Uttf4AKZjollpPbFJrNKLuAJ908wMDh/hlmvV6K/OKAc4DH7Q8ISuvbFQ1YwS+WX1EFBxyB4tOukxYk2Ee7IFS4pYlvsjM9+K4g=;3/a+6BLP5SBC64ifrNu+1g=="

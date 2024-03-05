@@ -1,0 +1,35 @@
+---
+category: news
+title: "AI Chip Race Reshaping Global Politics And Security"
+excerpt: "(MENAFN- Asia Times) A global race to build powerful computer chips that are essential for the next generation of artificial intelligence (AI) tools could have a major impact on global politics and security. The US is currently leading the race in the ..."
+publishedDateTime: 2024-03-05T08:47:00Z
+originalUrl: "https://menafn.com/1107937169/AI-Chip-Race-Reshaping-Global-Politics-And-Security"
+webUrl: "https://menafn.com/1107937169/AI-Chip-Race-Reshaping-Global-Politics-And-Security"
+type: article
+quality: 51
+heat: 61
+published: false
+
+provider:
+  name: Mena FN
+  domain: menafn.com
+
+topics:
+  - AI Hardware
+  - AI
+  - AI in Security
+
+related:
+  - title: "Demand for computer chips fuelled by AI could reshape global politics and security"
+    excerpt: "Of course, the demand for chips to fuel AI’s growth is not the only way that artificial intelligence will make major impact on geopolitics and global security. The growth of disinformation and misinformation online has transformed politics in recent years by inflating prejudices on both sides of debates."
+    publishedDateTime: 2024-03-04T13:42:00Z
+    webUrl: "https://theconversation.com/demand-for-computer-chips-fuelled-by-ai-could-reshape-global-politics-and-security-224438"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 45
+
+secured: "0UxwHIqNYzuYxHlAXgiwV4bQxgVYoSaUyGEQA/zjGtAwbZf5EY7SzpE/KV0n3gGZ/KKnR56/jzP01RQSCYg4bzq+Eyc8HL14FZd337W1XjUlYjzDcp9ueUS03uhooAUUAmpUGxQC5ZjVt2Ty7erLUbaXCab9xfY/z8p3+PZYEpTlOSXaiiWUKyBQmmO6GIKKkekQcXuxDk2mGdjJiZLRhF0gblz+z/RbipaJJvLbOXp3rkQeSDSV5nHp7juDUvkK1zdqqVYB+C16T0IsG6s7EDfJh29oLmmg5YM4sRdRJvusOBllkioESA+KqimzqA4v2NOTaydPldhUveseT+cq1Q197H+kBi3u2iQGqYEtBVysgvG8Enjw/2AEfTO2Rb/Ytab5LryFgcIOTB9R1c1YLCc7ppRIeJroE8obBFTpIb5ejD9MiI595QwHy5qE6pTYy3MDEzEZfSS04RR9oFdtT+KYk6AKXgE8SP7mNwk+OtRQocNgSmL88GghO88LyWKSkTHop5Ura3jj17LDrHsWow==;G1OB3l5kypOlcJzDEvP0Uw=="
+---
+

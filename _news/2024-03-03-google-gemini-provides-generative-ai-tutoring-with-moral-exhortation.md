@@ -139,15 +139,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Google can’t guarantee its Gemini genAI tool won’t be biased"
-    excerpt: "Google's new text-to-image generator displayed glaring biases after only three weeks online. After taking the tool offline last week, the company said it will never be 100% sure the same issues won't resurface."
-    publishedDateTime: 2024-02-29T15:00:00Z
-    webUrl: "https://www.computerworld.com/article/3713165/google-can-t-guarantee-its-gemini-genai-won-t-be-biased.html"
+  - title: "Learning AI as a career skill"
+    excerpt: "Tu’s experience shows that generative AI should be a skill more people — especially younger generations — need to develop. It has already become a truism in many tech and corporate circles that while AI may not yet replace (white collar) workers, workers with AI skills will replace those without."
+    publishedDateTime: 2024-03-05T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/feat/archives/2024/03/06/2003814511"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 19
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2024/03/06/P13-240306-306.jpg"
+        width: 800
+        height: 496
+        isCached: true
 
 secured: "fh1VKOZSk8yhjfrOHlGiq5Xgrpf1jYtXCWaM30spNzToPIwY3jH/z9X6bx+R1gEyvkIT6uT5IPlvKAuGiAxAep9DCBwO2fiLw+nudeA9haTWmw4pgUEpr61wCowDgyxZHKPS26KJYmXmnL/cTeTTrd0eghNBqvO3CkNCUSe7eXPOpnAHS0d5tY/WxPra6404sXofksdOtdF7RP/mfZBVt2ezDlq8CsxA4uYwZsy9SGkPw5/M/aAPV0StKlIEJFRkBmyGvx+gw6ig0JMY5uaMTp+ig75XurfywUPUiciJXba5jZQlL89F72g7T3pkfrBanVHS/asHUzr2c8LNsTVKkepahQn0Rzpb9AogNOHyjIT/2OcTXI3uAfSdFaaOoHX9/4Y3yYmJKeeq/0sscwzdlxsH14K5Q9NoJO75GHsNIQHUW62ZjjSV3qXC1Hrj5BNnMKN40RRtwlcXgmMZGzOHOPGMmsMmAPV2lz/ec63u9cZxLJtXVpwOCu0faJoMR/ceXPn24UgE15qxxt+mGrlziw==;4Tg1NEy1wKF9eUAeVuj09g=="
 ---

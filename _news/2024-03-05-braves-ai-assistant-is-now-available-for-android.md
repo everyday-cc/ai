@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "How to install CrewAI and run AI models locally for free"
+    excerpt: "This is now possible with the help of tools like Ollama, which allow you to manage and run large language models (LLMs) such as Llama 2 and Mistral. Whether you’re just starting out or you’re an experienced user, this guide will walk you through the ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/install-crew-ai-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Installing-AI-models-locally-with-CrewAI.jpg"
+        width: 1280
+        height: 713
+        isCached: true
   - title: "Redefining Gaming Standards! AORUS 16X AI Gaming Laptop is Now Available for Purchase"
     excerpt: "The AORUS 16X is powered by the latest Intel® Core™ i9 processor 14900HX and NVIDIA GeForce RTX™ 4070 dedicated graphics card. With a maximum graphic power of up to 140W, it provides unmatched performance for gaming and creative tasks."
     publishedDateTime: 2024-02-29T17:22:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: India.com
@@ -27,37 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "TSA PreCheck will try using your face as your ID at these airports"
-    excerpt: "\"Further development with facial recognition technology will continue to occur organically as TSA deploys technology to checkpoints nationwide, states adopt mobile driver’s licenses, and additional airports and airlines recognize an opportunity to serve ..."
-    publishedDateTime: 2024-02-29T13:35:00Z
-    webUrl: "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports"
-    ampWebUrl: "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp"
+  - title: "How scientists are using facial-recognition AI to track humpback whales"
+    excerpt: "Now, a new study finds that climate change could be slowing that recovery. Using artificial intelligence-powered image recognition, the survey finds the humpback population in the North Pacific Ocean declined 20% from 2012 to 2021. The decline coincides ..."
+    publishedDateTime: 2024-02-29T19:26:00Z
+    webUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1234718984"
     type: article
     provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 59
+      name: KCRW
+      domain: kcrw.com
+    quality: 39
     images:
-      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/02/932/470/tsa-getty.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://media.npr.org/assets/img/2024/02/28/martin_van_aswegen_mothercalf_maui_1-1-_wide-308a974ad26f270c72b4ee6f9e8ab3587f338a73.jpg"
+        width: 3834
+        height: 2157
         isCached: true
-  - title: "TSA PreCheck will try using your face as your ID at these airports"
-    excerpt: "\"Further development with facial recognition technology will continue to occur organically as TSA deploys technology to checkpoints nationwide, states adopt mobile driver’s licenses, and additional airports and airlines recognize an opportunity to serve ..."
-    publishedDateTime: 2024-02-29T16:36:00Z
-    webUrl: "https://www.fox5atlanta.com/news/tsa-precheck-id-boarding-pass-not-required-airports"
-    ampWebUrl: "https://www.fox5atlanta.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp"
-    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp"
+  - title: "Female officer wins recognition"
+    excerpt: "It comes as no surprise to those who know Reyes that’s she’s being recognized. “Officer Reyes always comes to work with a smile on her face and a positive attitude ready to go above and beyond to assist her fellow officers and the citizens of Odessa, ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.oaoa.com/community/good-news-community/female-officer-wins-recognition/"
     type: article
     provider:
-      name: FOX 5 Atlanta
-      domain: fox5atlanta.com
-    quality: 59
+      name: Odessa American
+      domain: oaoa.com
+    quality: 24
     images:
-      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/02/932/470/tsa-getty.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://www.oaoa.com/wp-content/uploads/2024/03/utpb-all-female-shift.jpg"
+        width: 799
+        height: 533
+        isCached: true
+  - title: "Female officer wins recognition"
+    excerpt: "Police Officer Georgia Reyes is being recognized for the great work she's doing for the University of Texas Permian Basin. Recently, she was named Officer of the Year for the UTPB Police Department as well as Officer of the Month for the entire UT System."
+    publishedDateTime: 2024-03-05T08:03:00Z
+    webUrl: "https://www.aol.com/news/female-officer-wins-recognition-010200841.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OLRL5BnLV0gf4tHcVDBUZVWj+ynto65zozSQa2aRADaMd/NpsKwHi9ufdfoZBvXMS490ENngNIRXI05SNZ9jDwCU0ezkvq8kYdmaqNqjQsCquWtzWf6M/V0qmc+f4TvlxtjZcbC0OeuCtvh047xUPNQK2av0NOKb1y7vjC4cngKI2lB4tU6iXyaP5d05P9JrkT90j3ZKLBR/X54DFCnpomdbaRFNPLkP3eYDBwOpujDMx7EcwRRobpF6QWDFI7fdv6PKZUK07r56jMv0vRHIINpQaq50VUquyu6JDwfQ3+tPmWAShcm5XCnj5a9CfCOKk3MBQ8s6wrefieEigM4TbVLv8+nARbnw31KTyr6GR74=;GDxoIzhm4+Puiv0T9IMzUQ=="

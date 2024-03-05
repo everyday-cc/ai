@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
-    excerpt: "Cutting-edge AI technology and Machine Learning is transforming gas exploration in Europe, enabling companies to uncover hidden reserves and reduce drilling risks."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.html"
-    ampWebUrl: "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html"
+  - title: "Nobody knows how AI works"
+    excerpt: "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products."
+    publishedDateTime: 2024-03-05T10:32:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/"
+    ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 61
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-03-04_zv5ykbnbvc.jpg"
-        width: 718
-        height: 300
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "How AI could reshape medicine"
     excerpt: "On a recent international trip, I found myself running late to the airport. Not being fluent in the local language, I used a translation app"
@@ -52,19 +52,33 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 39
-  - title: "Artificial Intelligence Could Trigger A Natural Gas Boom In Europe"
-    excerpt: "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and ot"
-    publishedDateTime: 2024-03-05T12:32:00Z
-    webUrl: "https://menafn.com/1107936617/Artificial-Intelligence-Could-Trigger-A-Natural-Gas-Boom-In-Europe"
+  - title: "Roundtables: How does AI work?"
+    excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/04/1088977/roundtables-how-does-ai-work/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2024-03/05/B_8123eimage_story.jpg"
-        width: 1024
-        height: 400
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Roundtables-Ondemand_1200x628-Register1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How AI Is Affecting Data Center Networks"
+    excerpt: "Following up on the contest between Infiniband and Ethernet technologies, as they jockey for position in present and future data center networks."
+    publishedDateTime: 2024-03-05T03:22:00Z
+    webUrl: "https://www.datacenterfrontier.com/network/article/33038205/how-ai-is-affecting-data-center-networks"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 39
+    images:
+      - url: "https://img.datacenterfrontier.com/files/base/ebm/datacenterfrontier/image/2024/03/65e6857197e446001e63a8d8-nvidianetworking.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "JC8pyo26xd+iK54B+BcDyDNr6PjyUyK+BEFoBkf+NSjlllatujLXf1TZtNLmAL/wMdz+2ckzgLNVKNWCIYA7IYa4B6qsQmw3i3/+vaSCSp1+M9CD1TABJHs0KgKU468EI552zuQ/XPanlD66nBBYTCD7mN1fcRTUoBEbFoNqxzY3A9/ZdNvAY73OLzbhadQMQ13QzinFfHqLkgSNwUEACTDs1a2pUuA+UBmKK2xrTbxetxWB5TkFZ9Tp0+RWvLwXBBUE/6vgOZQYp/uCCwOXibCWRAVH2KGqqcgCOiMRtm//ivAr8onrItjZWX8nzECqBfZ6KYRnQUMLu4251QOtc9mVuCHCEJcH9eTgIMRF1PI=;cOdR19J2FCFm5GUAM25Kqg=="

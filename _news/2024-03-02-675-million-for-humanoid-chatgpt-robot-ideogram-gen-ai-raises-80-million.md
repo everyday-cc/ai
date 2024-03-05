@@ -38,38 +38,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Robotics startup Figure raises staggering $675M and partners with OpenAI"
-    excerpt: "Excited to share: Figure raises $675M at $2.6B Valuation + OpenAI & Figure signed a collaboration agreement to develop next generation AI models for robots Below are the details: pic.twitter.com/V57nn9P3oA"
-    publishedDateTime: 2024-02-29T15:26:00Z
-    webUrl: "https://venturebeat.com/ai/robotics-startup-figure-raises-staggering-675m-and-partners-with-openai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 98
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/NEW-_DSCF1820_Desktop_10923A__3_.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, OpenAI"
-    excerpt: "Robotics startup Figure said on Thursday it raised $675 million in a funding round from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion."
-    publishedDateTime: 2024-02-29T15:20:00Z
-    webUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
-  - title: "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, OpenAI"
-    excerpt: "The launch of ChatGPT by OpenAI has generated interest in AI, with companies investing million of dollars to cash in on the trend. Other companies involved in the Figure funding include OpenAI Startup Fund, Amazon Industrial Innovation Fund, Parkway ..."
-    publishedDateTime: 2024-02-29T16:20:00Z
-    webUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/?n=@"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
   - title: "OpenAI and Microsoft focus on robotics with Figure AI deal"
     excerpt: "Figure AI said it will also leverage Microsoft Azure for AI infrastructure, training, and storage. The tech giant supported OpenAI on its development of ChatGPT – one of the major products that launched the recent focus on generative AI technology."
     publishedDateTime: 2024-03-01T10:47:00Z
@@ -155,20 +123,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 79
-  - title: "Humanoid AI-driven robotics startup Figure raises $675M at $2.6B valuation"
-    excerpt: "Figure AI Inc., a Sunnyvale, CA-based startup developing humanoid-styled bipedal robots, said today it raised $625 million in Series B funding increasing the company’s valuation to $2.6 billion. The round saw participation from technology investing ..."
-    publishedDateTime: 2024-02-29T16:55:00Z
-    webUrl: "https://siliconangle.com/2024/02/29/humanoid-ai-driven-robotics-startup-figure-raises-675m-2-6b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 67
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/figure-01-figure-ai-inc.png"
-        width: 2221
-        height: 1403
-        isCached: true
   - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
     excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
     publishedDateTime: 2024-03-05T11:19:00Z
@@ -185,22 +139,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Figure 01 humanoid robot developer raises $675M as Bezos, NVIDIA & OpenAI join funding"
-    excerpt: "Figure AI is a tech startup looking to create humanoid robots for dangerous and difficult jobs and it just got a massive boost in investment from a latest round of funding. OpenAI, NVIDIA, and even Jeff Bezos, former CEO of Amazon were among the investors ..."
-    publishedDateTime: 2024-02-29T13:06:00Z
-    webUrl: "https://www.shacknews.com/article/138947/figure-ai-humanoid-robot-675-million-bezos-nvidia-openai"
-    ampWebUrl: "https://www.shacknews.com/article/138947/figure-ai-humanoid-robot-675-million-bezos-nvidia-openai?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138947/figure-ai-humanoid-robot-675-million-bezos-nvidia-openai?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 66
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/02/29/figure-01-humanoid-robot-developer-raises-675m-as-bezos-nvidia-openai-join-funding_feature.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "NVIDIA and Microsoft-backed humanoid robot maker signs with OpenAI to make robot brains"
     excerpt: "A humanoid robot manufacturer has announced it's closed a deal with ChatGPT-maker OpenAI to put its technology inside human-like robots."
     publishedDateTime: 2024-03-01T08:01:00Z
@@ -214,22 +152,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96574_651165615_nvidia-and-microsoft-backed-humanoid-robot-maker-signs-deal-to-put-openai-tech-into-brains_full.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI and gets backing from Jeff Bezos and tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-02-29T13:10:00Z
-    webUrl: "https://fox5sandiego.com/news/business/ap-business/ap-humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://fox5sandiego.com/news/business/ap-business/ap-humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/news/business/ap-business/ap-humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: Fox 5 San Diego
-      domain: fox5sandiego.com
-    quality: 61
-    images:
-      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2024/02/65e097d6964b09.58715619.jpeg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "AI Startup Making Humanoid Robots Raises $675 Million From Bezos, Nvidia, Others"
     excerpt: "They are among a group of investors, including OpenAI, that invested $675 million in an AI robotics company called Figure, the startup said Thursday, valuing it at $2.6 billion."
@@ -327,29 +249,17 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding"
-    excerpt: "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ..."
-    publishedDateTime: 2024-02-29T14:42:00Z
-    webUrl: "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html"
+  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
+    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
+    publishedDateTime: 2024-03-05T16:33:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Bay Area robotics startup Figure AI quintuples funding with $675 million from OpenAI, Nvidia, Jeff Bezos"
-    excerpt: "Initially bootstrapped by founder and CEO Brett Adcock, Figure AI now has major backers including OpenAI, Nvidia, Microsoft and Jeff Bezos. It also has a deal with BMW."
-    publishedDateTime: 2024-02-29T15:48:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/02/29/figure-ai-humanoid-robot-lands-megaround-seriesb.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
   - title: "Companies team up to put artificial intelligence systems in humanoid robots"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-01T01:31:00Z
@@ -368,15 +278,6 @@ related:
       name: Austin American-Statesman
       domain: statesman.com
     quality: 32
-  - title: "Daily Digest: Chime dinged for customer service; AI robotics firm rakes in $675M, inks new OpenAI partnership"
-    excerpt: "Airwallex, a global payments and financial startup, announced the expansion of its global leadership ... Figure and OpenAI have entered into a collaboration agreement to develop next generation AI models for humanoid robots, combining OpenAI's research ..."
-    publishedDateTime: 2024-02-29T17:02:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2024/02/29/sfbt-digest-thursday-chime-figure-att-airwallex-sf.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 30
 
 secured: "CsXr7ZkHZTHJTyVNK5xfXaCKa8NNveuHWvUldKNsMU5ieuljYMXGFIV5GFupnCion4Ct96CjQPh+WT6sGuWPVi9Cm00cpcl6SqnvUcLgauQiVLtI3adD3vwUDv/Tamt+KJsqkQIAhYVEDSp/GY3ZzaRA2CTOIg6vUkxtHlmOPV1bC3yUKMl2l5jjXwP7cJfd0kDru8SQH/XeKZNDwYvdUwJnOX5muvlFsMJhWtgJ/GW/eXaTdT3pPKWywQkhubbWJXRSpNruxg8HgxMLYxU4RC3cdZx5+WnZhCgjhpnmcFyOid/aqu256UrZgNRV3n8M4AOa4Emdw9hOv8W8SjUFIqEWazHwa/9bgE4ua7Pd0TyCVMhiqDf5zhRlWL9bNl6pcQQtK2jSgdme5UkeX4wqxuk7dA4dGv6CERyyL+NJVmzcXcFG97ZpEx5k0QSMtLXkWeuzqRz8je73z+ef6R8ZdaB5/mGelU6aqs2Lkcy0Yuri3YABWPqupkYpUNQdDxgCxmkcu+aQqO0E+NrbyzvG0w==;ILTGYrNx4aVLnRZcCSt3Tg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-cust
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://i.ytimg.com/vi/Vu6Wq8lLUN0/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "In an AI-Inundated World, Attorney Intelligence Can’t Be Artificial: 12 Considerations to Raise AI IQ"
-    excerpt: "Generative artificial intelligence has become unequivocally one of the most ... Gather expertise in data science, ethics, machine learning, specific industries, etc. This could even extend to seeking guidance from experts like linguists and sociologists."
-    publishedDateTime: 2024-02-29T16:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/29/in-an-ai-inundated-world-attorney-intelligence-cant-be-artificial-12-considerations-to-raise-ai-iq/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 28
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Intelligence-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
     excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."

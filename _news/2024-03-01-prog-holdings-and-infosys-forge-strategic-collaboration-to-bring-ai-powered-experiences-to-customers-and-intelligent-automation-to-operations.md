@@ -51,20 +51,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "In an AI-Inundated World, Attorney Intelligence Can’t Be Artificial: 12 Considerations to Raise AI IQ"
-    excerpt: "Generative artificial intelligence has become unequivocally one of the most ... Gather expertise in data science, ethics, machine learning, specific industries, etc. This could even extend to seeking guidance from experts like linguists and sociologists."
-    publishedDateTime: 2024-02-29T16:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/29/in-an-ai-inundated-world-attorney-intelligence-cant-be-artificial-12-considerations-to-raise-ai-iq/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 28
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "rkzDZ99SYPoCMUyuGWFGNFjOmAvec/pGM//DABc9Z/Dt+YqpXjzztDUX3GPvIgHJJbi41DuVo5gao9jsN7kHs2ngWLWexZgxx7mwlPX1ohZ2IvRLgk+cHadm8xDhWucNp8c62LaaHl7c3Xi78RQOj/3HZzwqIbTfORBMiI7KEFZ9S5L7rdkZcaSaFOpItL8v7+bXNUDbtTcUgJytvgBg+CpbNzeHlc35+RioQgq6jAhWDhfVhSilLmOl3wqEKG+BXgJIQrbseuvZffpikti3t4C5sGFg18JEIfMQ+eZ9Y0jMlMdXD/K0UBKPanMf1urzS6rHEDCkLcE57OxLg4W0FMcxAOmRNvklvALOFi3BmlU=;ofhb2/ELRnm1KdZxAVpDcA=="
 ---

@@ -33,20 +33,6 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 17
-  - title: "New Cloud-Based Audio Solution Will Bring Instant Voice to ICE's Instant Messaging Platform for Traders and Professional Investors"
-    excerpt: "(NYSE: ICE), a leading global provider of technology and data, and IPC Systems, a leading provider of trading communications solutions, today announced plans to launch ICE Voice, a cloud-based audio solution that will be offered with ICE Chat to provide a seamless communications platform for traders and other market participants."
-    publishedDateTime: 2024-02-29T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-cloud-based-audio-solution-will-bring-instant-/2024/02/29/9970557.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "XGksGzag2LJ9K4Yr1Q+0dP2qEpH33ln/GGTWRO/DiqWDWnu2evdDEnrbntOCJYJ+Lfgi/gHsbaPQB9utY6ghljrIzgrLL5xyrRQqTi8mEGZ+P3sksp/ISjQnL5qb4PE1b+Fz9t+T7FhUV5AdZ7DT4OPZkv6MFjAIwL+v+2YWdW0o09fXxJpQ+8QGOw4kh8lK3JaLlqtk5B4WjLV5ZMaUwLtEFpObvlvuNk9J4yXL9hbak/IXfCfSS+UDobg5QpEUelwRsKm0mR9eN9ZcYgIvDUvnriqHw9Or6tX4VPagycMw8W/ucHUHodoDUq0EloO7NmgBjRCgWIQtyiNIFd8hKtkgzTAgX9d1rudGJ0YQn0Y=;Rx0hzkP465RY38C93uCeZA=="
 ---

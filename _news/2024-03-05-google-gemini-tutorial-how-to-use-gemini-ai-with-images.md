@@ -24,6 +24,17 @@ images:
     height: 960
     isCached: true
 
-secured: "OLxWEwfRdzP1htHxKw65ht/M8ENrZkH5BG0EI2I+TfqSzeZyIicemxwZhwHPldiV6gC4Y6H8dQyADdl+beVGugNVcwbo1ckv4p92no6eOyXgt6Q8ovMrDRwsTcRpODy0F56h02rrZR900462ACzf58mCBglCBPfOms0yuJjLS5mDFZeG8m1dYythl54LApQGO9xKuwgYuAmxSlwxqFMZt6+D7n4N98X4nktgV7s7NPwJTmeBjQhwOOlRgKA3/nBSVvQxtVaYH4ShcHmfqezZdKDegs8IwBGc2AYL62W15UpPuxnGLimlI/7bl4ECUzK+lUNmQtNMWuABdiLkxcIyOSgHdf2mkKeZGo5NQN1OYSE=;cfUeZbyHPyUhVfpkZqPvIw=="
+related:
+  - title: "Google Co-Founder Sergey Brin Admits Google's Image Generation Mishap with Gemini"
+    excerpt: "Google co-founder Sergey Brin admits to image generation errors with Gemini due to inadequate testing, addressing recent controversy."
+    publishedDateTime: 2024-03-05T12:09:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-co-founder-sergey-brin-admits-googles-image-generation-mishap-with-gemini-862693"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 0
+
+secured: "Gl4rqTbV82UQ8LD1xkFERdOh3HFBkJbUns3WuZoY3ja5wutihJm1MMgAx6U3n4ZY/WIj3WKBmOqOpwUotlO5bnTyUWG6lwwN1LlhteIYCBMoN9vUwnVk7Gwe+XtMlkrzcVqdtFJKxiQiqC412M+DnqJUc0Q1nmViQS0EsslT2leT759OF76SU5x1/UO/GdzC9iZASvrgTChW2sQKLe3LwHTGlhO2AiImK651JHEnVwmUc2Qkyv7sCe1TTaopfOXEf8kz6B+Shl+imkUQhJjqWgNTpXOi4F1OwO7xJ9d5tS6TL/MmGxlVTAfONrl3uhLdGeeD/9GvA/LY6QnTl5+BKRqJO7Fm3kyzDSltYwUXA7op7OxD7A01XlMT/CHWSd+gtCUJqpcX+2D2DbyDLsNw0CeaHbmodH0XDHacp+AJYmnFvogsT8kDdVgOQgM89puyEWghHjIlgut4MEGmkRRqEOtmUr2YmbPL9gcQXoVXRgS0Lofe6wlwiaGLRVx/xAGraheJ4pEEKVULY8xdsXRkFg==;FH55G/CDGWoXzFJGQ1LChg=="
 ---
 

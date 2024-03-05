@@ -79,6 +79,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 36
+  - title: "Nvidia Surpasses $2 Trillion Cap Amid AI Demand Surge"
+    excerpt: "Leading semiconductor entity, Nvidia, recently achieved a $2 trillion market capitalization, powered by high demand for its"
+    publishedDateTime: 2024-03-05T13:14:00Z
+    webUrl: "https://www.dmnews.com/nvidia-surpasses-2-trillion-cap-amid-ai-demand-surge/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 19
 
 secured: "OIDbpU50Sa4t7V9oiLWo3jYxHDkW0UBAReEZ04X6eGl8U0cE77B7qcAk0CU28G8Sh9UJAHqURyNQS1SRRGY9aMUEz0RcBNuPglO20/vA0sNYMAy+uRU4Af6pPm05jrwBtD0bQ5lG5deVmE7WlhBfxBMcXhOgErWX2LG2s/zegMOnzvkgE3xMviCeuAEuWy3lUJ0m0rl9x/3YNMSo3SKfczWGF41QqU+5L1oKpY1cSf82HQ+ZUhy7Jz5UzOZ/dFkvNc2DTShKNTIYCA1yvv/9h9Ei8uTr5bobnpSe/Ms3yrfvYM5Vkui2T1TqHMExdP2+I1CWGuReTmg8yBkQxI5QjaeHHyVHv7P0DQ32vYwU0+EpFUzCrnNlUQEQ6gBxF7vB9dqPxV5UfBM5nQ8Kl5IvVas0AQV850JcCuBNnKtWosGEcF4s6DJJNR4Rh2ULftwedxDKYhtFt9wRxfgw9E94Wv2oMdlDLmUuniTPfxAWZU6Ths+EK7eh9PFfpdcJR4oQ8DDrQ+aYLLKQqD4E+2vUWA==;l0bYU24ecNehQcjPTpyyVw=="
 ---

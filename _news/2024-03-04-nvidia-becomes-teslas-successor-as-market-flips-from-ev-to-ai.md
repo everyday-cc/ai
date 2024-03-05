@@ -75,6 +75,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Nvidia Surpasses $2 Trillion Cap Amid AI Demand Surge"
+    excerpt: "Leading semiconductor entity, Nvidia, recently achieved a $2 trillion market capitalization, powered by high demand for its"
+    publishedDateTime: 2024-03-05T13:14:00Z
+    webUrl: "https://www.dmnews.com/nvidia-surpasses-2-trillion-cap-amid-ai-demand-surge/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 19
 
 secured: "UTbFcoIVm7IO2RBb/FyPz8CVjxhIaIfiTxKfOGqo5ixzQUwA2sNnJuPx78PV/murcGPpZXf+zY7FlJhNPXbffyngvML77KdJUeYC5IhWKrIZK51ZW5bseTetdR94BTjrJQmZnGHdzzrz/9ue+WLmulv31T4wc0e8biw3o2OIdSK8wDTiTS9TI8ylXG1AQH47QnKLh8KqCu0HVDID7rcwfECF0Xd8KdjN7q6ia7E4QPNYClJ/JYpbEvQAyUVOJzB9/NSrhvsO8an1knSY9DqqDAncFVFGjsU/QZTOvwbvwIs5h30cyL9ZGeUsIV/3hi1qxxt0TDY/uUrFl6xGTHUz1Eb6V8n8C1dYZBY+74mR08iTQ4Erkp5ckekhexsPy4uZLwRtuEZtrctNKM/I0Bkj0S4kzn8SwuvzgFAzacR5cNvM/fWImoQexk4VuLL3pzaMaJyRJWoUMKxuGL4SsmTvLQdo0RwreMjyxg1EMJ5FN+kMrUDPPAudS0UrHE+v0UeOlcw5jCKtvbvYzsb94Z9q/w==;SIIympK0GT03a+r5fdQoXQ=="
 ---

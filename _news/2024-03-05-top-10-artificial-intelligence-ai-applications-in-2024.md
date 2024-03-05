@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-04T16:51:00Z
 originalUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
 webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - Machine Learning
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Driving with Artificial Intelligence (AI) to Survive"
@@ -83,15 +84,6 @@ related:
         width: 720
         height: 473
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
-    excerpt: "The growing adoption of artificial intelligence (AI) has sent shares of companies involved in the proliferation of this technology soaring over 16 months or so, with many names seeing a parabolic rise in their stock prices. A parabolic move is a rapid rise ..."
-    publishedDateTime: 2024-02-29T14:47:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/24435107/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
 
 secured: "cB8y+JxNd+Ye8rQIy6yCPwpwscw+MJjQy76SDn6MtH4tZ4wQrVz7Fge+MKAMgLaoLW2BnrwxH3JpUx98An9nsGEsLjt+KxMyeNX7lcBnHYRWa8hEEMGp6wxWZXtGnFq5eEdLFqj4seqie62kzimW6Rwy0eCPRPqiptzu5adPe2CkiT+BGEhtRpFXPz/ql8ppq0ng5VHsK645iRwxdl224ldWhorOKmDvng/CxITqaLAM4B2YoLD9CddMySE0IYtcoyCf2Qp6ZwFBAgeND8PIMrGXMVHPcR2yP4GwTHi2wfrJKvGku8ckQm/c1br/8rp8TnhsIe/22f+Pg7dK9TId5zlzqcxiwZlO90514xJ9l8qA5dS0y52ivyrEDOa6xqfXYVT1fM4QQBtbKIwWBdLSSD1RdmUr7k/XxvZ63DZWguOjxX2fjzWkHoiyD/06pFZkFK9bT1OO7kzWzj40drW1nhIeOopzTmVPUAEEFlLWIKAf0PIWgVXZJCKu6lT8B+Ji2Wi2rsYFh5VL0AK6bLml4A==;FqM1ZbwVqfyoH1f5wrHAVw=="
 ---

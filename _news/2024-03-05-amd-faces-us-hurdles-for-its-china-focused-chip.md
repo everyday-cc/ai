@@ -66,6 +66,34 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "AMD's China-focused AI chip blocked from sale by US Commerce Department"
+    excerpt: "The US Commerce Department has blocked AMD from selling an AI chip specifically tailored to the US market, claiming that it is still too powerful. According to a report by Bloomberg, despite being designed to meet US export restrictions, the department has ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-china-focused-ai-chip-blocked-from-sale-by-us-commerce-department/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/AMD_CEO_Dr_Lisa_Su_AMD_Instinct_M.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AMD hits snag in China AI chip plans"
+    excerpt: "Advanced Micro Devices Inc (AMD) hit a US government roadblock in attempting to sell an artificial intelligence (AI) chip tailored for the Chinese market, people familiar with the matter said, part of Washington’s crackdown on the export of advanced technologies to the country."
+    publishedDateTime: 2024-03-05T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2024/03/06/2003814496"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 54
+    images:
+      - url: "https://www.taipeitimes.com/images/2024/03/06/P12-240306-315.jpg"
+        width: 787
+        height: 525
+        isCached: true
   - title: "AMD hits US roadblock in selling AI chip tailored for China, Bloomberg News reports"
     excerpt: "AMD tried to gain a go-ahead from the U.S. Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet U.S. export restrictions, the report added, citing people ..."
     publishedDateTime: 2024-03-05T00:00:00Z

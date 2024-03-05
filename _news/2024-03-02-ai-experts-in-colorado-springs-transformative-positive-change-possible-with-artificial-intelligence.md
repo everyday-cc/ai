@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Hesitant Evolver: Accepting AI as a Transformative Force"
+    excerpt: "AI and publishing can come together to change how we discover books or, more accurately, how books discover their readers."
+    publishedDateTime: 2024-03-04T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/03/04/the-hesitant-evolver-accepting-ai-as-a-transformative-force/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
     excerpt: "Following the release of OpenAI’s Chat-GPT in November 2022, questions and concerns surrounding the use of artificial intelligence and how it will change our lives as we know it erupted from the general public. Is now the time robots will begin taking ..."
     publishedDateTime: 2024-03-01T00:00:00Z

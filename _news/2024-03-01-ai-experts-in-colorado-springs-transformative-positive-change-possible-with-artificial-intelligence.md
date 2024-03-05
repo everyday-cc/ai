@@ -7,7 +7,7 @@ originalUrl: "https://gazette.com/news/ai-experts-in-colorado-springs-transforma
 webUrl: "https://gazette.com/news/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Hesitant Evolver: Accepting AI as a Transformative Force"
+    excerpt: "AI and publishing can come together to change how we discover books or, more accurately, how books discover their readers."
+    publishedDateTime: 2024-03-04T13:07:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/03/04/the-hesitant-evolver-accepting-ai-as-a-transformative-force/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
     excerpt: "According to David Bernstein, software developer and president of The Passionate Programmer, the software industry will be among the first industries to transform with the help of AI. While software can take years to perfect, with the help of AI that process can be cut more than in half."
     publishedDateTime: 2024-03-02T12:30:00Z

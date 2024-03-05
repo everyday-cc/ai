@@ -32,6 +32,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 19
+  - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
+    excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."
+    publishedDateTime: 2024-03-05T14:34:00Z
+    webUrl: "https://channelvisionmag.com/td-synnex-grows-ai-offerings-via-expanded-nvidia-collaboration/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 19
 
 secured: "6rCoMPESugmYQUJeuBMb4S5KMscAgV+CIeXibR+kJKmdUvYic/w65VyLLvKIOY3slIPfJAi9JR8bqbjRgfUoHjnu5P3tdL3/Yi2ORIj9cZmGYaGAU5b6Z6Gaa7ID8XC3wT3685XXjJINWGGIf7hRO52XjL088bfGvez55eegsmqIk9SIzBMR+We1reBTzGPdXWnAItLB0NtswVJC0ryWe0ju9/V/eavyHwVgojxanyy1zV39sWLl8Wnp46xV3NbaFV4K8bu4+kyyalMKdWrDuZKzP9fMAc1DVhGBKlOqNpxfVlOMMoABCDTG+n45jtQhwkpNF4HJVMwQsUJ+UxWohkaLtWkS42RccFymC54fGvA1Egrnuwj2ixJ8wgILebQ2q6x5apvHQc8RHFdH/FZ+sBU/arArETXo6Xdcw+SH4NPf80QdZK7GwHF+MBY2qbW+K40ZE8I8NLMVyqOYso6fGdxDoig9Y4RUSPwKmEInXP2Zv+nPq3qCXPoCUt9Xstjeu+goylHhBuVTQ5p+Gx40Kw==;LT7NaOzhz5LxTvzuTeOPUg=="
 ---
