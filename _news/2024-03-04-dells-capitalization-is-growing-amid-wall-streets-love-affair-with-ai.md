@@ -23,33 +23,68 @@ topics:
   - AI
 
 related:
-  - title: "Heard on the Street: Dell’s AI Secret is Really Out Now"
-    excerpt: "Investors have been hungry for anything related to artificial intelligence. A storied PC maker from Texas wouldn’t seem to fit on top of the menu. That’s been changing over the past year, as Dell has"
-    publishedDateTime: 2024-03-01T16:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/heard-on-the-street-dell-s-ai-secret-is-really-out-now-y3sR7ELlVrFvZcgOAS5J"
+  - title: "The AI Homogenization Is Shaping The World."
+    excerpt: "A phenomenon of AI homogenization is emerging — this impact that Artificial Intelligence is having on the world makes us realize the importance of our own."
+    publishedDateTime: 2024-03-05T06:40:00Z
+    webUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e19a92e7cc0647aba49a19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1223
+        height: 900
+        isCached: true
+  - title: "Generative AI in Litigation"
+    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 49
-  - title: "Wall Street Strategists Race to Keep Up With AI Rally"
-    excerpt: "Five Wall Street firms have already lifted their forecasts for the S&P 500 Index, which is up 7% to start the year. In the past week alone, Piper Sandler, UBS and Barclays boosted their targets. Two firms—Goldman Sachs and UBS—have done it twice since ..."
-    publishedDateTime: 2024-03-01T22:43:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2024-03-01/bloomberg-evening-briefing-wall-street-strategists-races-to-keep-up-with-ai"
+  - title: "New type of voice assistant for production works according to the rules of AI ethics"
+    excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
+    publishedDateTime: 2024-03-05T04:16:00Z
+    webUrl: "https://idw-online.de/de/news829683"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
-  - title: "Heard on the Street Recap: AI Bliss"
-    excerpt: "The Nasdaq Composite closed at a record high on Thursday, and you can thank AI euphoria for that. Tech companies are pouring cash into AI at a breakneck pace, with investors and analysts increasingly"
-    publishedDateTime: 2024-03-01T08:37:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/heard-on-the-street-recap-ai-bliss-jpMqhZUgAJ1c0bjN3rY5"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: idw
+      domain: idw-online.de
     quality: 47
+    images:
+      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+        width: 498
+        height: 259
+        isCached: true
+  - title: "The National Science Foundation wide-and-far on artificial intelligence"
+    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
+    publishedDateTime: 2024-02-29T20:29:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
+  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
+    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
+    publishedDateTime: 2024-03-01T13:06:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
 
 secured: "HosmUFdsq05hZo4w6uucE3Q/XIz10CQTcaQ4H2/tH0Tn0eRZ3pTn//Br3sMb2ijObj/ry7BDw1NGkVxoG2H6ZlP6WUSCeUcLV6ZnExnYvsMUYOeqcJHctSN1PhMJGT/Rt1n2JNVLFE5BUUwGAWr/pHVkP66x+HanaKrbIzGyPKKZmdQ/HjIxCgCjboJCFOPIA6K6ITXLYfR02us6cD3e4golkYx3/rrsZt/1PQDXW8TOhlbXWTDIJZzvVWwLOxsYx6WXKMTqbbzJ/pR3RblD1NPSFmXMnLtjUK/G4Ixyq0mruc8LsSF+47+FcYR97y1tOyzbbypDT4HJ0U4jYyqORPy0UBGnw6In4AHgmyA4m6dhC5NZTJAf90Ux+leeeHP46Jd81qWQ1nA/o78lUJP7XIaQcIk6R76lDgF9pTz3Kb0DEps3IfvKJTx26yphC0QWOr3ylU1WXSu/1eVIJbgDf5X+Y7deVEvtWqoSz9ppL0UbPE244qYg+EmZMyE736GWkLLZcJxhlmUScmwLefymyA==;39TmDSR2/IGhFoj7emh/vw=="
 ---

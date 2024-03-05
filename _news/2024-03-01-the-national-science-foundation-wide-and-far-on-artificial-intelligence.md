@@ -24,45 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together"
-    excerpt: "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking"
-    publishedDateTime: 2024-03-04T14:52:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
+  - title: "The AI Homogenization Is Shaping The World."
+    excerpt: "A phenomenon of AI homogenization is emerging — this impact that Artificial Intelligence is having on the world makes us realize the importance of our own."
+    publishedDateTime: 2024-03-05T06:40:00Z
+    webUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
-    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
-    publishedDateTime: 2024-02-29T23:37:00Z
-    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
-        width: 770
-        height: 500
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e19a92e7cc0647aba49a19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1223
+        height: 900
         isCached: true
-  - title: "Anthropic gives its flagship generative AI models a facelift"
-    excerpt: "One of the hottest startups in the generative AI (genAI) market, Anthropic, has updated its flagship models to a new 3.0 standard, bringing improvements across a range of common tasks and faster processing speeds. The improvements in Claude 3 are broad ..."
-    publishedDateTime: 2024-03-04T21:28:00Z
-    webUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
+  - title: "Generative AI in Litigation"
+    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
+    excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
+    publishedDateTime: 2024-03-04T08:41:00Z
+    webUrl: "https://www.techspot.com/news/102118-dell-capitalization-growing-amid-wall-street-love-affair.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "New type of voice assistant for production works according to the rules of AI ethics"
+    excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
+    publishedDateTime: 2024-03-05T04:16:00Z
+    webUrl: "https://idw-online.de/de/news829683"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 47
     images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+        width: 498
+        height: 259
         isCached: true
+  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
+    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
+    publishedDateTime: 2024-03-01T13:06:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
 
 secured: "CI7tToQHuSJTAkGnmnQ+ApDAUyVe7FCjnw78P1It5m4tfiaKLfnwM3E4sRrcXbbRCu4DoBGHfHstsQbCWag/73jrhfKrgRK41ME7hOfIdAISVhLMdOo8edsFRgb6n6qaIPWsfiB7nr3NClXt75IIDmJjMrbt+WPrDfv+CLPBfQGyzxbS0FHAAn1sRCa7JMJrlunSHvNcEn/hg34SviN0qbvwdFOuGlj9KpUhRrUArGXXBtcVce2tM/yr+7Zrn2d7io2Z9DqBR81mylEkxU5vVGlNlmXuG0QwS6fi63BemObv+glV9eHxQoMB84SSxdraYC9GGVfrgGYFYxZRDRa5pdne00/kFVHS86yEJ/pF4Ys=;RtMTgHX7FU/1xumIh0GlAA=="
 ---

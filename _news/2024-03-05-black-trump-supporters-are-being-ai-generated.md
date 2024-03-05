@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-
 webUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Gizmodo
@@ -28,86 +28,66 @@ images:
     isCached: true
 
 related:
-  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
-    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
-    publishedDateTime: 2024-02-29T06:50:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
+  - title: "AI-generated images of Trump with Black voters being spread by supporters"
+    excerpt: "No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds"
+    publishedDateTime: 2024-03-04T14:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://i.guim.co.uk/img/media/cd8fc8e1adb8b564cc21c635b2a9bf8085a73a50/0_186_5618_3373/master/5618.jpg?width=620&quality=85&auto=format&fit=max&s=f13790806d056708017043aa28251f55"
+        width: 620
+        height: 372
         isCached: true
-  - title: "E& UAE partners with AWS to elevate customer experiences with custom Generative AI"
-    excerpt: "In line with the partnership, e& UAE will use Amazon Bedrock and Amazon SageMaker to seamlessly integrate a suite of GenAI use cases, personalising recommendations beyond traditional algorithms. Amazon Bedrock is a fully managed service that offers a ..."
-    publishedDateTime: 2024-02-29T07:01:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
+  - title: "AI-generated images of Trump with Black voters being spread by supporters"
+    excerpt: "No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds"
+    publishedDateTime: 2024-03-04T19:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 68
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
-        width: 605
-        height: 403
+      - url: "https://i.guim.co.uk/img/media/cd8fc8e1adb8b564cc21c635b2a9bf8085a73a50/0_186_5618_3373/master/5618.jpg?width=620&quality=85&auto=format&fit=max&s=f13790806d056708017043aa28251f55"
+        width: 620
+        height: 372
         isCached: true
-  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
-    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
-    publishedDateTime: 2024-03-04T10:58:00Z
-    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
+  - title: "How businesses are embracing AI"
+    excerpt: "Nguyen Hoang Nhan, director of Technical & Digital Innovation and IT Advisory at KPMG in Vietnam, explores vital AI trends that businesses can apply to enhance performance, save costs, and elevate the customer experience."
+    publishedDateTime: 2024-03-05T05:23:00Z
+    webUrl: "https://vir.com.vn/how-businesses-are-embracing-ai-109290-109290.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
     images:
-      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://vir.com.vn/stores/news_dataimages/2024/032024/05/12/in_social/how-businesses-are-embracing-ai-20240305121712.jpg?randTime=1709622062"
+        width: 600
+        height: 385
         isCached: true
-  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
-    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
-    publishedDateTime: 2024-03-02T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
+  - title: "MAGA Camp Spreads AI Deepfakes of Trump Hugging Black People"
+    excerpt: "In an election year already rife with weird and misleading uses of AI, Trump supporters are now sharing fake images of the former president with his arms around Black voters to cl"
+    publishedDateTime: 2024-03-04T22:17:00Z
+    webUrl: "https://www.thedailybeast.com/maga-camp-spreads-fake-ai-images-of-trump-hugging-black-people"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709579726/240301-Bachman-express-hero_vchigt"
+        width: 1480
+        height: 833
         isCached: true
-  - title: "Generative AI in Litigation"
-    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
-    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
-    publishedDateTime: 2024-03-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "8DQSwH5FW4Lt68abCFJwmTQICofPjoKHnVNWMMM8HCfUfR5D8R10k1ekVKLNHfqM4ohEh/dz36995MVzATO+VUby5NaaE6JmV1MQKcKWgQuihOUnRA7IzdiBUA/tLxHmDbLUGXyzcbLo7JfE6aqkkqY0ZTDUx+2b3HlGk3qVl0kjlI94iYLql4DMtFrk7mBDqSXbcu4wZdI9tRrqdvSITWZFNlU10HH3T898Wgxjgsea2wPpYnORyzbVjz0gbLAHK3kdXXrUh9HMznHvU21FS6edQa8Y52w8NGwbMk576SUXSZ3s4+mq/K5WHH4YK9PiZ4YyjdxNIA4sDe6ci7TX4DLjvTLoLMhrVPgEFQTRc5y+SJBQj2DkbrnpujZTRuTGGT/EpHoyMpC/2xdBx3cR2HoTnnfvYMo1Nfs38cxwZE6cD0M7NtFGMfhUN5O6KxPzy85Ngrp9l47RmQTBsTO7ceoP4TPH9zwePCtX5VlizLhgx8eg5uD4Ls5qdJD9ZVPviMuVR+ApZUs9864zhxcjmA==;5SIPjh2q0OqZl6sBKSqdTg=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "World's 1St Web Platform-Based Robot OS To Arrive This Week"
-excerpt: "South Korean tech giant Naver said on Tuesday that it will unveil a web platform-based robot operating system (OS) for the firs"
-publishedDateTime: 2024-03-05T04:05:00Z
-originalUrl: "https://menafn.com/1107934330/Worlds-1St-Web-Platform-Based-Robot-OS-To-Arrive-This-Week"
-webUrl: "https://menafn.com/1107934330/Worlds-1St-Web-Platform-Based-Robot-OS-To-Arrive-This-Week"
+title: "World’s 1st web platform-based robot OS to arrive this week"
+excerpt: "Naver is joining the ‘LEAP 2024’ event this week in Riyadh, Saudi Arabia, along with Google, Apple, Meta Platforms, AWS and other global big techs."
+publishedDateTime: 2024-03-05T06:26:00Z
+originalUrl: "https://telanganatoday.com/worlds-1st-web-platform-based-robot-os-to-arrive-this-week"
+webUrl: "https://telanganatoday.com/worlds-1st-web-platform-based-robot-os-to-arrive-this-week"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2024-03/04/I_d5c65image_story.jpg"
-    width: 400
-    height: 282
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/03/Robot-Arm.jpg"
+    width: 1280
+    height: 750
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 245
         isCached: true
 
-secured: "Beh1Eonf8LvlIly/5Ya3kGk7NLu4KxWgNtSohO3Ejjjz8End6aElBsi8yQrQlkUO48TtaJuK/HtdK/cu5IJTFbbsIgszEcfHJRCFUgvRw9Fy9dllY6yNdYB6fBCybsFY+27nRnTbqrktEaOwwaucpVAdu2NorWqXuMYB5znDEFVAME7ARxcFs2ogkEkZSeSch4WwkVi/fAMo0Y6gTLxSOqFAv1fC5Gt/ORzagd4DW93kVmppwTc21F/Kq7deOgP7TkTXyQWZ1+UQd6fohsTPQrOUAPnE/JhgL3pqnaPlU39k/VprH3kQb0GYtLbFQkTLvi9iRyaQffsDUJHTvamdjjDfzZ5INf8RMoj74AhG9ZE=;WylZd/EmWGM4etnuCt6pxg=="
+secured: "y/l0TJj2FLXqb8quIylkl+s/I43Eli01mwJmj1bfS039HMU151yrnhhGbGpOJluORLBpQq/2y/suZNuk2KM40oP1nbB709mv1ACm8eM7WqZP5OF04WpQO0rOAjNWba5KincgXiqgN7JBKNr4XvmYfALh72070ryhnZzh1NEpnoHSs9gzf8sEmWcb32XDqaow/e9RrHjTweUEyoizi1l+AjW8960JXmZDXDSOTcj+BxtzzwVQjVWGerJC/7YPAFSqdQdj9uSbzEp7dkxAWwRtIoi+sovxUfiUtRpFxt70qwNtJy0j288FqSJZvK0ls3Xu+55IupAMLvueinWb+JCyLnD6qnf98BAnCky2Fh86aOk=;4/pBqocCGAISi1XiYlo4dA=="
 ---
 

@@ -25,22 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Weekly Tech Recap: Google removes Indian apps from Play Store, Elon Musk files lawsuit against OpenAI and more"
-    excerpt: "Let's take a look at all the top tech related news of the week including Elon Musk filing a new lawsuit against OpenAI, Google removing many prominent Indian apps from the Play Store and Sundar Pichai addresses the issues related to Gemini AI chatbot."
-    publishedDateTime: 2024-03-03T08:00:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/weekly-tech-recap-google-removes-indian-apps-from-play-store-elon-musk-files-lawsuit-against-openai-and-more-11709448845394.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/weekly-tech-recap-google-removes-indian-apps-from-play-store-elon-musk-files-lawsuit-against-openai-and-more/amp-11709448845394.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/weekly-tech-recap-google-removes-indian-apps-from-play-store-elon-musk-files-lawsuit-against-openai-and-more/amp-11709448845394.html"
+  - title: "Google's Gemini opens our eyes to who we really are: Guinea pigs for gen AI"
+    excerpt: "Google's new chatbot is not too woke, but too rushed. Rather than waiting for regulation to catch up with constantly evolving technology, it is for tech firms to invest in AI safety and quality."
+    publishedDateTime: 2024-03-01T08:28:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai-11709207534655.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 39
+    quality: 59
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/03/03/1600x900/Info-Edge-said-the-removal-delisting-of-the-compan_1709452679688_1709452690748.jpg"
+      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/Gemini-1-0--since-its-release-in-December--is-avai_1708940818688_1709239719726.jpeg"
         width: 1600
         height: 900
         isCached: true
+  - title: "Google Genie: A Revolutionary AI Game Developer"
+    excerpt: "In the leading world of Artificial Intelligence (AI) where technology continues to push its boundaries Google's DeepMind has introduced 'Genie'. Genie is an innovative AI platform that is capable of generating interactive 2D video games by utilizing a ..."
+    publishedDateTime: 2024-03-01T06:39:00Z
+    webUrl: "https://www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
+    ampWebUrl: "https://www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
 
 secured: "edBtXcWqTAgu7BZgH4PSvI87PW4dK/p3fpv6bnJKi52lelO+WaoNYXw5nq3wKkpLP9W7gq1xH5uAbbb/NmR1Tt3c2INRPIqJscScc5GqwsafyQhDavEqpaS6hXNw0CB0HLoRewy59XXuvT91bPhnmZ01RUR/chNEHeyq5XLOcIHB3WZy4MQ3g5P1rPG8MQ/8oghuZauGAT8GsUumFMqb5xIe/i88LDWWvWq8tiLuGJh1I4prVJuwJLWf/U1KpP0OOXxnXQQpC/xoCd9/HaBq+5uME6JrQ4NmGQb1gky7iUqsfyK1wfgAWNca9AdRf+qeS/Rk67SCJICGbnLifeGEg9jRHVOt1j9/f4uiVKN/iiI=;kGALxYeADV1Pqugj9Wpqew=="
 ---

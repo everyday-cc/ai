@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
 type: article
 quality: 100
-heat: 202
+heat: 213
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/444258/google-has-faced-an-embarrassing-setback-with-its-gemini-ai-exhibiting-bias.jpg"
         width: 1024
         height: 664
+        isCached: true
+  - title: "Google AI in Turmoil: Layoffs, Overtime and Gemini Fiasco"
+    excerpt: "Despite shrinking, Google relies more on its trust and safety teams. Some employees have been encouraged to volunteer for weekend testing to avoid further issues with Gemini"
+    publishedDateTime: 2024-03-05T06:03:00Z
+    webUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
+    ampWebUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2023/09/search-engine-76519-1280.png"
+        width: 1200
+        height: 657
         isCached: true
   - title: "A Litany Of Apologies Over Google’s Gemini AI"
     excerpt: "Alorica, which uses technology to transform customer experience, has a new AI implementation hitting markets today: Real-time Voice Language Translation (ReVoLT). This platform can do real-time audio and voice translation in 75 languages, making it ..."

@@ -41,20 +41,6 @@ related:
         width: 1135
         height: 757
         isCached: true
-  - title: "Fujitsu Launches Advanced AI Applications to Simplify 5G+ Network Challenges"
-    excerpt: "Fujitsu Network Communications introduced Virtuora® IA, a collection of network applications powered by artificial intelligence (AI) that use network-focused machine learning (ML) models and inherent telecommunications expertise to significantly improve mobile network operators’ (MNOs) network performance with drastically simplified operations."
-    publishedDateTime: 2024-02-29T06:37:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/35201-fujitsu-launches-advanced-ai-applications-to-simplify-5g-network-challenges"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 36
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/6fa3051e35d2d545e02058b29430a6e8.jpg?t=20240229_054934"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "KzGJtZE3uJvPjCtv2puAu79yN9jiZPtGm6T6E9V2zlBNjqzx+rTmpWusJEpBfD34S9CiRdQL6Pp/1DInEahGc5vAo6ZkSxO+PmXoyzI0w9Lz0A6s+MaK/UPacUbA3xwqfBfOsNygDQ4M1eXPvBpai8khx4M2xSF8qiInDnRXq4Aws6CyWxgtMiNgZGCH9Mdzee5R1pWxEbMMeDR/gVYe+JmYzS5B2OsjE8F/+a952JrA+kBUc+XxR0O65zJv791r5wXceWYuUvz397w/06RcVP8/SEawT8E0Bsz2TcOp0WYC9ePK/5q/uHYt33j2Zb+0Kvz1mErntJt9h/tCbp8XvUZkxcK1gsZVkLL6z2HOwTk=;an3OU1/WHr5I7EvNxFmeFg=="
 ---

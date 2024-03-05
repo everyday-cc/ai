@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "World's 1St Web Platform-Based Robot OS To Arrive This Week"
-    excerpt: "South Korean tech giant Naver said on Tuesday that it will unveil a web platform-based robot operating system (OS) for the firs"
-    publishedDateTime: 2024-03-05T04:05:00Z
-    webUrl: "https://menafn.com/1107934330/Worlds-1St-Web-Platform-Based-Robot-OS-To-Arrive-This-Week"
+  - title: "World’s 1st web platform-based robot OS to arrive this week"
+    excerpt: "Naver is joining the ‘LEAP 2024’ event this week in Riyadh, Saudi Arabia, along with Google, Apple, Meta Platforms, AWS and other global big techs."
+    publishedDateTime: 2024-03-05T06:26:00Z
+    webUrl: "https://telanganatoday.com/worlds-1st-web-platform-based-robot-os-to-arrive-this-week"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2024-03/04/I_d5c65image_story.jpg"
-        width: 400
-        height: 282
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/03/Robot-Arm.jpg"
+        width: 1280
+        height: 750
         isCached: true
 
 secured: "jmUocrt4Sp8NxcKGO/psxnLzZKgttI8SMF4GSWUZL08eozx1eYBxuK1+giFZiLGxaA+kgUqY6wwfMdbNERrmoShbXDfBcHj8BhWrCplS0KlyEGx5mL5Ls0P0WQY1llYZe/qkGZZXtFgvFrzkzaz37BVC6g3UJ4KFy1JWzfawWMsnmydxRszsNfkye2+LU0GhPjMHzyEWNP8X27xF/C9DTOEXZBr7/fFCMAEqN2UDmzRRZlQor2iNX3x+0sST9sxgi57eYV9kJkqJAWfwLbNIzb3Kp6JI/O12b1J6pZ/v3LDmuR5DaMHtXAtaZg4lc0uY87JekoPGr+5j01kxa7XwCdBPF/UnOm24bPMk3aOdcI8=;5kCPsoGqitPLdI88jykEIA=="

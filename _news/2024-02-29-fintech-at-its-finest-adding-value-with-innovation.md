@@ -59,20 +59,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "My Wedding Whizz: Irish firm using AI and fintech to streamline wedding planning and digital gifting"
-    excerpt: "It’s an all-in-one digital management tool that pulls everything together in one place for the couple, and also incorporates a fintech element to facilitate the stress-free handling of deposits, payments and cash gifts,” Downes says. [ ‘Only gamble I ..."
-    publishedDateTime: 2024-02-29T05:45:00Z
-    webUrl: "https://www.irishtimes.com/business/2024/02/29/irish-company-using-ai-and-fintech-to-streamline-wedding-planning-and-digital-gifting/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: "https://www.irishtimes.com/resizer/QZXAnJ2zSc4VmkpPx0Gcp6fNcRE=/1200x630/filters:format(jpg):quality(70):focal(1774x763:1784x773)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JP5IUYRLE5A4NGXZFOHAPRI6MU.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9QkNCvAIaFr9bBEPehT57+wsFKj0DVLB7tyobX3SopTtDtX98KBrVTj80GBxyXGh5CRv9xw0GkF75492qgSK5Ja9dTvZOpVhAMwtQ/w/gSTp2aSTwbmXsdUmKRksJKkS3kOEWoP6IMaPseCN31toaZ2rHBKVgwSwu/IT9hfC0lxsjFUBxEEroBbq5sAt1CPxIWDztjRwI7WkWnZdFSXn/bvSsoLKIdg/rEo/meHYkr/AcWHbHlBR1e877yr+PEYiDeL55RVNGy2UrS+vbCjUWLt2F6AE6WNrWSLlJjFjV+c5yWsdYZrPkmk5wNkvrs4MFQ7awGmTWim+hliE7xArRHK1tl0XM/Q2j/5f+Yq0z+CLioU3viubW3bAcit4vnn3d1xR+BWg70o52urXDf8bVRm8pFdNDV+4hTEVhNbZ8kRuQBL3J6Q4Spn2eNZvEeH07w3nFWoykpThayP47FH57IdNajZXo956OK1y624MYQgDHXfPQmC2N2Aehx6egglQMLAw+W7Ijsm8RNxZgQveKA==;UhLWS1RaNfkUiGvsrOxq+g=="
 ---

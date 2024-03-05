@@ -23,91 +23,68 @@ topics:
   - AI
 
 related:
-  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
-    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
-    publishedDateTime: 2024-02-29T06:50:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
+  - title: "The AI Homogenization Is Shaping The World."
+    excerpt: "A phenomenon of AI homogenization is emerging — this impact that Artificial Intelligence is having on the world makes us realize the importance of our own."
+    publishedDateTime: 2024-03-05T06:40:00Z
+    webUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e19a92e7cc0647aba49a19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1223
         height: 900
         isCached: true
-  - title: "E& UAE partners with AWS to elevate customer experiences with custom Generative AI"
-    excerpt: "In line with the partnership, e& UAE will use Amazon Bedrock and Amazon SageMaker to seamlessly integrate a suite of GenAI use cases, personalising recommendations beyond traditional algorithms. Amazon Bedrock is a fully managed service that offers a ..."
-    publishedDateTime: 2024-02-29T07:01:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
+  - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
+    excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
+    publishedDateTime: 2024-03-04T08:41:00Z
+    webUrl: "https://www.techspot.com/news/102118-dell-capitalization-growing-amid-wall-street-love-affair.html"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 68
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
-        width: 605
-        height: 403
-        isCached: true
-  - title: "Black Trump Supporters Are Being AI-Generated"
-    excerpt: "Donald Trump supporters are creating and sharing AI-generated images of the former president with Black voters. The photos appear to be an attempt to inflate Trump’s popularity with the Black community, which may be irreparably harmed by his ties to white supremacist groups, but the photos are nothing but fakes."
-    publishedDateTime: 2024-03-04T19:50:00Z
-    webUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062"
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "New type of voice assistant for production works according to the rules of AI ethics"
+    excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
+    publishedDateTime: 2024-03-05T04:16:00Z
+    webUrl: "https://idw-online.de/de/news829683"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7164473c7dd88067b9705a942e612292.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
-    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
-    publishedDateTime: 2024-03-04T10:58:00Z
-    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
-    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
-    publishedDateTime: 2024-03-02T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
-        isCached: true
-  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
-    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
-    publishedDateTime: 2024-03-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: idw
+      domain: idw-online.de
     quality: 47
+    images:
+      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+        width: 498
+        height: 259
+        isCached: true
+  - title: "The National Science Foundation wide-and-far on artificial intelligence"
+    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
+    publishedDateTime: 2024-02-29T20:29:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
+  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
+    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
+    publishedDateTime: 2024-03-01T13:06:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
 
 secured: "PTGJivrMky1u65dQyEsRpnUTpNaWCVW6k4JZmomn7fOcJ2/MHe63H22nLmuB0O/GC99/xHX3zSCZDBst7JEA3JrLAYYWeZ9+0NWMkAX7pvKi67AosPBhVjvGvETva1vuzg7+fMa6ngKFgmC/Nl7DvTIwaDhqb6R+52geS2C7KXEQubo9JqIWxjPZC9GOcloidc1b6c7knSYbiDFeRylSt8MQlLqrfMtq9Q4obtGqWW3Ux78xZnRcHj8Z/bMxmK1kJHELstlubsFaDNqdHJswsnbzbZvr7CTuXqdEgXSS7DP6x+okky0ijTWl+yCqJac+9vnMKXThCOC5/xxTUsZSb7GYUjvNSBvWBhh3Rs7wGxw=;i6zvwS89YoUB+ewAgjMMiw=="
 ---

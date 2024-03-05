@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "HCL Technologies launches genAI platform AI Force"
+    excerpt: "HCL Technologies (HCLTech) has launched AI Force, a generative AI platform that accelerates time-to-value for software development, productivity, and quality. The patented AI platform is built on Azure OpenAI and can be integrated with Microsoft GitHub Copilot,"
+    publishedDateTime: 2024-03-05T06:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/hcl-technologies-launches-ai-force/article67915963.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/hcl-technologies-launches-ai-force/article67915963.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/hcl-technologies-launches-ai-force/article67915963.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Adobe's Music Tool Fills Major Gap in the AI Content-Generating Circle"
     excerpt: "The current crop of generative AI systems excels at giving people the power to fashion art and other creative content without requiring they have a scrap of talent themselves: you don't have to know how to create a van Gogh-inspired oil painting to go in a company poster, you can just ask an AI to do it."
     publishedDateTime: 2024-02-29T17:20:00Z

@@ -120,20 +120,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Indosat Collaborates with NVIDIA to Enable Sovereign AI Infrastructure"
-    excerpt: "As part of the collaboration with NVIDIA, Lintasarta aims to provide GPU-as-a-Service (Deka GPU) and give customers access to the latest and most powerful artificial intelligence capabilities specifically tailored for high-demand computing tasks, including infrastructure, platform, and bare metal services."
-    publishedDateTime: 2024-02-29T05:49:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/35200-indosat-collaborates-with-nvidia-to-enable-sovereign-ai-infrastructure"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/c5a67e9b7634105976de2330637032f8.jpg?t=20240229_054549"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Nvidia CEO Jensen Huang says AI could pass most human tests in 5 years"
     excerpt: "The Nvidia CEO also addressed a question about how many more chip factories, called \"fabs\" in the industry, are needed to support the expansion of the AI industry. Media reports have indicated that OpenAI CEO Sam Altman thinks many more fabs will be needed ..."
     publishedDateTime: 2024-03-03T14:45:00Z

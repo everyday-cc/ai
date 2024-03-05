@@ -19,44 +19,67 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "AI programming languages power today’s innovations like ChatGPT. These are some of the most popular"
-    excerpt: "Prioritizing ethics and understanding the true implications of AI are also critical. But since AI technology is changing so rapidly, soft skills can be argued to be even more important than technical capabilities. Some of the critical skills Singh Ahuja ..."
-    publishedDateTime: 2024-03-01T18:27:00Z
-    webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
+  - title: "The AI Homogenization Is Shaping The World."
+    excerpt: "A phenomenon of AI homogenization is emerging — this impact that Artificial Intelligence is having on the world makes us realize the importance of our own."
+    publishedDateTime: 2024-03-05T06:40:00Z
+    webUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 72
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/AI-programming-languages-GettyImages-1518874007-e1709244825422.jpg?resize=1200,600"
-        width: 1200
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e19a92e7cc0647aba49a19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1223
+        height: 900
         isCached: true
-  - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
-    excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
-    publishedDateTime: 2024-02-29T21:20:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/column-latest-chatgpt-lawsuits-highlight-backup-legal-theory-against-ai-2024-02-29/"
+  - title: "Generative AI in Litigation"
+    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 62
-  - title: "\"Yo peeps\": ChatGPT is the latest translation of the Bible"
-    excerpt: "The man behind the Bible's latest translation spoke with CBS News Miami's Tania Francois about how it came to fruition."
-    publishedDateTime: 2024-03-01T03:45:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
+    quality: 49
+  - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
+    excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
+    publishedDateTime: 2024-03-04T08:41:00Z
+    webUrl: "https://www.techspot.com/news/102118-dell-capitalization-growing-amid-wall-street-love-affair.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "New type of voice assistant for production works according to the rules of AI ethics"
+    excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
+    publishedDateTime: 2024-03-05T04:16:00Z
+    webUrl: "https://idw-online.de/de/news829683"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 47
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/29/801310fd-57fb-490a-9530-adc17c143291/thumbnail/1200x630/6871c01287dba54a5e9048f394f57988/gen-z-bible.png?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
+      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+        width: 498
+        height: 259
+        isCached: true
+  - title: "The National Science Foundation wide-and-far on artificial intelligence"
+    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
+    publishedDateTime: 2024-02-29T20:29:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
+        width: 2560
+        height: 1708
         isCached: true
 
 secured: "VRa2BRYad62mq3Lxgq9nWsMpHodlPbGf6NAq+lbICiu043iy9jGuW1nJCAl+i5WORV2O+vkDog3VPvsh7e0Z1NaeccFQG+7ooFMZlcHImMAXxyNbCAT7e82adzrQhXTZf28KeG6SMMSAyKXprxi3XyHWnToKE74Uk2lwqWjWLATnGQn01Ht25tMmF0L6chCXIw9Vvr9lHEgV6xhlZkLMPIy/RH3LcFpUb7B9V+sci+VKpE7pJpjDNOa/fOeiHgeTXAmE8MM1V2CYJHDMOAomnuiFOdlwxESwID8jy5CWAHFaYDQgiA25yjoYwnHEEMD2v4hVoeQLq+FTqyAvmoXGsqKUoWIUctJit6e3LmfooCk1sY7qnvimJXEL2VTigTkVQPWsXHQ0aLV5ITkIjwAPRMrlE/8vg7a4WHeFW6CqOUhvQbZ4f2nbW8M7kf4FKyGXmtGQYwwHEXsWhjpruBTAqtEoJUZCz1jIwQT/BZSI+kgEnu3lCz253uc3YYs6G1ZgkanRK21Kn4ZGQFYhsfCMAA==;m/InwqQkxy4JXVgGV/WVJA=="

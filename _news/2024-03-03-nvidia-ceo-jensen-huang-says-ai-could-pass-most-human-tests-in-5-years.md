@@ -131,20 +131,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Indosat Collaborates with NVIDIA to Enable Sovereign AI Infrastructure"
-    excerpt: "As part of the collaboration with NVIDIA, Lintasarta aims to provide GPU-as-a-Service (Deka GPU) and give customers access to the latest and most powerful artificial intelligence capabilities specifically tailored for high-demand computing tasks, including infrastructure, platform, and bare metal services."
-    publishedDateTime: 2024-02-29T05:49:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/35200-indosat-collaborates-with-nvidia-to-enable-sovereign-ai-infrastructure"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/c5a67e9b7634105976de2330637032f8.jpg?t=20240229_054549"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Nvidia becomes Tesla’s successor as market flips from EV to AI"
     excerpt: "The Santa Clara, California-based company has delivered blow-out results for four consecutive quarters, fueled by what appears to be insatiable demand for its chips used to train large language models that power AI applications like OpenAI’s ChatGPT."
     publishedDateTime: 2024-03-04T15:22:00Z

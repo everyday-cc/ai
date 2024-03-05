@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "My Wedding Whizz: Irish firm using AI and fintech to streamline wedding planning and digital gifting"
-    excerpt: "It’s an all-in-one digital management tool that pulls everything together in one place for the couple, and also incorporates a fintech element to facilitate the stress-free handling of deposits, payments and cash gifts,” Downes says. [ ‘Only gamble I ..."
-    publishedDateTime: 2024-02-29T05:45:00Z
-    webUrl: "https://www.irishtimes.com/business/2024/02/29/irish-company-using-ai-and-fintech-to-streamline-wedding-planning-and-digital-gifting/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: "https://www.irishtimes.com/resizer/QZXAnJ2zSc4VmkpPx0Gcp6fNcRE=/1200x630/filters:format(jpg):quality(70):focal(1774x763:1784x773)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JP5IUYRLE5A4NGXZFOHAPRI6MU.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Dq7dupUB94WBKT9DvzbFYb+sQXHMSx1acgcxv13oMTTOWSC83j5Z5zRxDkMB2e49HBC26FjThHqQB7b397PwIRQ+Gul1TPvY/RqBosH+NuTdQB4fbT7hob7dI/WXSTJbUh1bvw/r/gdAT1mNNuheGBwmdDo5sjsTiheJnwTJ9EJBtQ/Go6eBOcyvtdfqcwPGJ/aoIprOPyXqD/dPhaxF0zlgrVUdOeloaf6GouW8ITvNu/+qNlqb26MP9kjfV1P/Rfh2YpJEDgy+wG64gDV38LtawUlo/euunSTvnaWzal22ucbIpRTwHz4CuA+aSPvVHh2Z9hvpSi8R/2wBPH79/I+QRPgMgDA9r1NxlHEoxCoWqZlc9YRWqTcFjiHn/zJkRJRKpdafRCZy9Z0mo0JfLq8Uay0OoibJ4lb+Q2OWZfzJyazsqjhNcw8t65sD0BDkfJXXgKjdqjTXpvntK9yGggtyiFO275xVGI3c9xbloXr7DswLjj4R51SMg/D8SsJNkvRwXfblnLGL0xITUIVQeA==;i9YeH1tj/fANgQJJeiZKbA=="
 ---

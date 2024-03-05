@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The National Science Foundation wide-and-far on artificial intelligence"
-    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
-    publishedDateTime: 2024-02-29T20:29:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
-        width: 2560
-        height: 1708
         isCached: true
 
 secured: "IIMDdqpSuXA50TKEmBN7EYGlBxBRIOPBzCi7YO9ZaXMJBWx0nmK+fRn5ZXFAsX9bnXDumz0uBwUASifEZWZ4dJQ40gZNP6K8YwFOCC34XNXc1e5Y9pl0qY+8A5c0FEi1vH7HcS6qbC85CmyU3F0VfCRH9Fu9ptLv975Vj3ho5HqwvGSDk0sEntNW2n6BjOzimgsQraf9PDpMdm056zA7VTZ1AzaVyZKqPxHGm/2QDVBjlMRotncDhP4LY71GZ3JpkoAX+9RWiQS/4PtmjVQTrDrcAaHolDG7k+S5Xpx66Etq3L0AWeEKX/FKmyd4ju7eGVNPnmjNys+f0uH95QS6Q7h+pBeebftuvokVuuXHdW8=;fa8Yao9WWXIJYYFt8FcGMg=="

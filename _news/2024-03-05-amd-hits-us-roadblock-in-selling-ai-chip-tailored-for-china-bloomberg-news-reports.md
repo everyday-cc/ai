@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "AMD's cut-down AI GPU for China market blocked by US government"
+    excerpt: "AMD has been halted by the US Commerce Department, banning its AI processors from shipping to China, even though it was cut-down AI GPU."
+    publishedDateTime: 2024-03-05T05:32:00Z
+    webUrl: "https://www.tweaktown.com/news/96638/amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96638_204_amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "AMD hits US roadblock in selling China-tailored AI chip"
     excerpt: "AMD tried to gain a go-ahead from the US Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet US export restrictions, the report added, citing people familiar with the matter."
     publishedDateTime: 2024-03-05T04:17:00Z

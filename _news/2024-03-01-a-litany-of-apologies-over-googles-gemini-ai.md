@@ -133,6 +133,22 @@ related:
         width: 1024
         height: 664
         isCached: true
+  - title: "Google AI in Turmoil: Layoffs, Overtime and Gemini Fiasco"
+    excerpt: "Despite shrinking, Google relies more on its trust and safety teams. Some employees have been encouraged to volunteer for weekend testing to avoid further issues with Gemini"
+    publishedDateTime: 2024-03-05T06:03:00Z
+    webUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
+    ampWebUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2023/09/search-engine-76519-1280.png"
+        width: 1200
+        height: 657
+        isCached: true
   - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
     excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
     publishedDateTime: 2024-03-03T13:25:00Z

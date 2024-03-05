@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Elemental Cognition Sets New Standard for Generative AI, Achieves 100% Accuracy in Complex Reasoning Scenarios"
-excerpt: "Elemental Cognition (EC) is the next wave of enterprise AI that delivers the reliability, accuracy, and transparency businesses need. EC combines the fluency of large language models with the rigor of formal reasoning to create a neuro-symbolic AI architecture that can solve complex problems when businesses can't afford to be wrong."
-publishedDateTime: 2024-02-20T18:44:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios"
-webUrl: "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios"
+excerpt: "From the Inventor of IBM's Watson, Elemental Cognition's Neuro-Symbolic AI Platform Outperforms LLM Capabilities for Complex Problem Solving, Makes Generative AI Accurate and Transparent NEW YORK, NY / ACCESSWIRE / February 20, 2024 / Elemental Cognition ..."
+publishedDateTime: 2024-02-20T19:14:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61456702-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios-200.htm"
 type: article
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://cdn.bignewsnetwork.com/cus1709352056184.jpg"
-    width: 630
-    height: 420
-    isCached: true
-
-secured: "TEwoO/R8KVsR1z1xhhHqoKpS5uqHCnxOEllc51v0C1nShmtynqyTY70SCFl3cgrQtGmm23I/w/6oVDVWZCh31mXM2rUp8U+n381ELIotrbqBlRYOwqF6NTD/PLrD7f7Qrh8rpslg28I2brFS6sec632/ycu9HlU8Q9Rbro3yh1qwEs5YpEEf1yHnm/mXpT+9WIhbaYWvscBAziAc2b47UChzokcwTcWYjtqWiOIRffrgRFfcBpv6UimHmTEDWEv3KKlkRkYkorCMjFWSdeB74H+jIXoCbqHJFKo247GIQ97kHuvZibMcFEyjPi8lTbkIhtaY6ESArQs0W8Xj76Xj2Y5b6CbNV40obH9hJxvCha8=;LAmt66DN6fNIzm2b1KPeCw=="
+secured: "cpg71QiZkzJHkHIJD4kF6WlB6EENPr6aLPYK+AC6vMjUvan7LeR+ArAD6/V+IgL6EBcpl8CS8NIbnHzt9/x4U0rH4e0yKxRqLDrAuLobdBx8dlcoQO/VuxDHUXM1hNywPyQLMPEQj7u6k2NZfoEJCzy9Xr0x86fGOhaEDrFY9IK1pPYa6unbTvGL8thQDZZ6aKx9NclOhtlncbB/8xVt+zH17PQuN5CASxMAkVurpGo657WuqLjvgezGmOL0WhSCXEat4+jg2Il4GjUNposNSsov5qFGCD2NBj2xIhEl8XGoqv3ZZ0cW9YyfmDDfaFjsufZZRlQiZr6JFu1yKfsBoSq1fO8aTkBF3aLn9Ec3Zzo=;V/Xp6LaC3SpQuH85YSKDKw=="
 ---
 

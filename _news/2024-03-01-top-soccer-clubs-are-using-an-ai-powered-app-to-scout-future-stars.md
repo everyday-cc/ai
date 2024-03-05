@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "At 2024 HPA Tech Retreat, Past is Prologue and Artificial Intelligence Is the Future"
-    excerpt: "Schubin, the Emmy-winning long-time technology overlord of the Metropolitan Opera’s video production, cited the evolving role of Digital Rights Management (DRM) as an emerging barrier to home recording. He pointed to developments involving ATSC 3.0 that could enable broadcasters to prevent their signals from being recorded."
-    publishedDateTime: 2024-03-01T16:13:00Z
-    webUrl: "https://www.tvtechnology.com/news/at-2024-hpa-tech-retreat-past-is-prologue-and-artificial-intelligence-is-the-future"
+  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
+    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
+    publishedDateTime: 2024-03-04T10:58:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
     type: article
     provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 30
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/degKsS33XjPzLTCwtuuRWa-1200-80.jpg"
+      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
         width: 1200
-        height: 900
+        height: 600
         isCached: true
+  - title: "AMD to introduce AI-based upscaling, potentially matching DLSS"
+    excerpt: "AMD has confirmed that it's developing a method to play games with AI-based image upscaling. Although further details are scarce, this could potentially bring the company's"
+    publishedDateTime: 2024-03-05T03:25:00Z
+    webUrl: "https://www.techspot.com/news/102126-amd-introduce-ai-based-upscaling-potentially-matching-dlss.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "9avcRDX3XBcQhCTuesjpUxF6EB67URnr+9W0zfxQTzJTXzC3QEA63M5nehi/IH1krn0HNPS18NA/7XkHRbkffeJJMsoWM5um1zqMnYBYd5hABBmW8KAeyzOFfwUL/UaiS3Lzg0MDOGz6oXo0cab3O/To+ZncfCRfIQadk/y6QeQjMjKsk7zSweOvdBBHJnvcc/3Tz8EOPU7MRuLILQBTuZ7W9+3anb55yCu/w0rk8R/tSFRzDEIV1n3z/9WXqp8eAonIannMjtRAPw13ASkct7afId6Mq4CqMdcIw8xKJlxPRLSMVDiiZQpawpqIGxdnpSnrpuXmp2USfhy04Ci6Zc9MFEemrZN1xUQf1zOHgsU=;BBKkHYskc4NX+jM84f8cWA=="
 ---

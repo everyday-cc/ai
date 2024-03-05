@@ -1,18 +1,15 @@
 ---
 category: news
 title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-excerpt: "The addition of Mixtral-8x7B expands IBM's open, multi-model strategy to meet clients where they are and give them choice and flexibility to scale enterprise AI solutions across their businesses."
-publishedDateTime: 2024-02-29T13:06:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61547703-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61547703-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-008.htm"
+excerpt: "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ..."
+publishedDateTime: 2024-02-28T23:59:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
+webUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
 type: article
-quality: 16
-heat: -1
-published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - IBM AI
@@ -24,22 +21,6 @@ images:
     height: 209
     isCached: true
 
-related:
-  - title: "IBM Introduces Mixtral-8x7B to watsonx, Delivering Rapid, LLM-Based Insights"
-    excerpt: "IBM is announcing that Mixtral-8x7B-the popular, open source large language model (LLM) developed by Mistral AI-is available on the watsonx AI and Data platform. Now offering an enhanced version of Mixtral-8x7B,"
-    publishedDateTime: 2024-03-01T18:49:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Mixtral-8x7B-to-watsonx-Delivering-Rapid-LLM-Based-Insights-162864.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 36
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "jweMZGjPvioYMwj05bCttTUC4R+iBKSIQjAtrI4QokG5AFRTDlBUkwh3A1LgkilT+kIxgUWqzxDIcVSEs/tO9hErQiqaQvXC5Ue6Uyfqb5kkgIVtNCGJixH3CdEZaq5laG5i2vG2FEbSGN+5IrUULsozq67tRHzuwETVVt3xtuu4a+ZPPOyW8JcBvJ2xo1YgDbQFOOaEG76Muqz8oiYPje/6jKV7Z1ZaNMv2WyqXSSouzWRdwqawmpFZ8YLIFVQ5jS3McBkcKaojNhyzo6dWIFW7t8WpN9f5HP3BuIfrgpr038D9s/qSq8RI9pyw3C1Yi5IVc59a9MwZF6U0ceA3kCYHEhA0a/AE6qt8MywNB34=;zEY4awO2cSCjnmxF3KNLMw=="
+secured: "uG5PO9Khnn5LIBtVxrA3SvRpn5NJbUkE1Zqte7wLvwlVHxI8yag96l6ABQQmmd8HeX9m+oYRGcJyENzus1GLBT25/+cXPwzCJjeWZX+/2y64jNdHwqlpWw9K0eNQJo4eSC6ZMyDhaxiNIWOjEkag71r8jzXo791AGmBzuk9qps1IWFlW89+x4csRUaAbTocHuSgVrdvswmtQ4raTKi0WlWAEWG1IxOlbI6zt4hgnMQqh8V+uAWSkHJcnnE/Tesh4xCdxq+kDvqFK0yJdyjigIHAEO/Tx6IZUhCTblKdGfZeg94TlDJ7K9F1b1nqZ18HyAKaYvZYTiG15KuHSUIHLcGVII8fkVDYkXbocve/U4VQ=;5AnDmk1xGB1Io91+ZXeAzg=="
 ---
 

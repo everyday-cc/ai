@@ -49,20 +49,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "The National Science Foundation wide-and-far on artificial intelligence"
-    excerpt: "The National Science Foundation (NSF) is on the march, establishing what it calls regional innovation engines. It is getting organized around AI."
-    publishedDateTime: 2024-02-29T20:29:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2024/02/the-national-science-foundation-wide-and-far-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/nsfalexandria1_HiRes-scaled-e1689368048557.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
 
 secured: "23dq4ak1z3zKwHrwjKAHpbcqDSutt/TA5fHn5o7ALJwZcQkBh2AxB9Q1LBE9lyzTx93/JBNLAfB+QKB86BF4qoe1xbX/2EAEMiyH24Uj3LgZxv4KnFpwdozHj9zMudanVh45M51pN+AOEPTDGkTe10JStLwP7lFqcLivtKPl17MEtfF4BVwyFW1+v/TtcSSZNZeu8DZaepbJIXgKjmZNr3fPKBp3GeLwsRATOQUkPiSO491nsBwwhKdV53qFFnejoMLgeUzCSX077pcpc1BzsL7vyIvSMXPAX476l7eRmV9UOIKxKbadHksphOfaulVizAAI5dV6KH851FpWEdLJkL0QgOCH5ltC6EgM/aeFre8=;mLFGE8E7TbHvvGJM83l6/A=="
 ---

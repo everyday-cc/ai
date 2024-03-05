@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-str
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,93 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience"
-    excerpt: "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries."
-    publishedDateTime: 2024-02-29T06:50:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "E& UAE partners with AWS to elevate customer experiences with custom Generative AI"
-    excerpt: "In line with the partnership, e& UAE will use Amazon Bedrock and Amazon SageMaker to seamlessly integrate a suite of GenAI use cases, personalising recommendations beyond traditional algorithms. Amazon Bedrock is a fully managed service that offers a ..."
-    publishedDateTime: 2024-02-29T07:01:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-uae-partners-with-aws-to-elevate-customer-experiences-with-custom-generative-ai-g7aaou4d?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 68
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NzBlODQxZTUtNWZmYy00/1/ett-png.jpeg?f=3%3A2"
-        width: 605
-        height: 403
-        isCached: true
-  - title: "Black Trump Supporters Are Being AI-Generated"
-    excerpt: "Donald Trump supporters are creating and sharing AI-generated images of the former president with Black voters. The photos appear to be an attempt to inflate Trump’s popularity with the Black community, which may be irreparably harmed by his ties to white supremacist groups, but the photos are nothing but fakes."
-    publishedDateTime: 2024-03-04T19:50:00Z
-    webUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7164473c7dd88067b9705a942e612292.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
-    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
-    publishedDateTime: 2024-03-04T10:58:00Z
-    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
-    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
-    publishedDateTime: 2024-03-02T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
-        isCached: true
-  - title: "Generative AI in Litigation"
-    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
 
 secured: "2sEzIw4Bfz+tZaY9KYPqFE586JGtoETgbzrEgBnb73HyQV/WEWrovuYBOgFm6LCsJYd3rfG6spFVzVh+U1/a8Qmd0OELodqrbN3Y4dCUBohYO6ndHGEpRZGaz9cRxyWGnipJ/bN+8uEEHSCKK1E30Eg8DRt+4pgGQ6LzqwzPZxyQzeguYDr8puXDw9LKONQQLRLkBsrAxsFUd7fSrMTSNaqD5ivUqh6hEE3skgMlfddVyLRah1RQ9+oL8EPiZY1/tSTXHebOlL05ukP+cZMsWNegZrJZ/EZdMqzIHCiCQ8gk4wl9BHSxdfcq5U+CDa7P3OoGI4xlxbsyQz9KyhPW/z689PC2acHqDxD4ZVTkk3LBMYsBWb9C3yGLyxG5XA8JDJTG+b1X8CdoNOB4IGmyr7L0VrmPNwZR4MkiN0+mGG3mtVPawsUCwQBoD2Cw5zJRetnqanqTtdUcVH/ZtrWW66dE7G0CMEw7PiV9oZ4d1tAqfP/IzBbKQViAVGUYa8UV7osTmJpS+GDzgGCNLjrbiw==;afnux9V/WagfHXm17z2dBA=="
 ---

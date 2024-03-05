@@ -7,7 +7,7 @@ originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-pl
 webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/meta-plans-launch-of-new-ai-language-model-llama-3-in-july-report/108098685"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "Meta Platforms set to launch Llama 3, aims to provide context to controversial queries: Report"
-    excerpt: "Meta Platforms plans to launch Llama 3 in July, aiming to enhance its AI language model's response to contentious queries. Llama 3 seeks to address Llama 2's limitations and interpret technical questions more accurately,"
-    publishedDateTime: 2024-02-29T06:00:00Z
-    webUrl: "https://www.livemint.com/ai/meta-platforms-set-to-launch-llama-3-aims-to-provide-context-to-controversial-queries-report-11709185937398.html"
-    ampWebUrl: "https://www.livemint.com/ai/meta-platforms-set-to-launch-llama-3-aims-to-provide-context-to-controversial-queries-report/amp-11709185937398.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/meta-platforms-set-to-launch-llama-3-aims-to-provide-context-to-controversial-queries-report/amp-11709185937398.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/im-921501_1707304698633_1709186131544.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "KWxZE0gbT+IaQ5IOfHMGclDZw1S+suHnlxtKOfrJC+j9/GdGIxmqqkznMvRxvM7HAXS+FOmj6Wzk/xY+NHI/kPb1Ptp2JG66xESY7JCd33a/l8HdSmh75+5+HuZd7x+iHmH+HvDO55SOdPMuKhSXAtB2JT8eYL1FbiA8uFZmqKjFBk2JoW9WOci0tF1saqSPaFtOfihX0VFTYcvQN0OwQHkZL0KUF3PUJ9JxAecJvLXkFZUziVI/5ccepJWFRqZ6n48xstVO7NWJd7CQLIZkD3m8sX/H4PbcLxHgaLOQpKV4nIQAalycA1xXMg3NrZ/pXMLPxbQVcW4zmzhFH8pbIB6I5GVLfYG2MHDRB3u3XNT37zf7GkEgSr2ivsoJNKhBTe6tst/zMoeW9PMK/18vG8jHxg8OXifsvMA4YfV4QeMxSj4Xv1AMJty1OGwePt+N+lGQAmBpSz571H6MxhNcSqGe129xDG3mCgoF3rPx0MbrvMKOmtTlx9FSciiwLy65mA3hiPV+XvBoQxHuamNEGA==;h1JNw0K1Rq8xKSXua4H78g=="
 ---
