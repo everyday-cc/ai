@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Salesforce's top AI ethics leader says she's ‘optimistic' on the path to U.S. regulation"
-excerpt: "Goldman sits on the U.S. National AI Advisory Committee, which advises the Biden administration ... \"In the United States context, what will happen is, if we don't have federal legislation, you'll start to see state by state legislation, and we're ..."
+excerpt: "Paula Goldman, Salesforce's chief ethical and humane use officer, told CNBC that she sees momentum toward concrete federal AI laws in the United States. \"I remain optimistic, because I think if ..."
 publishedDateTime: 2024-03-01T00:00:00Z
-originalUrl: "https://www.nbcdfw.com/news/national-international/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/3476778/"
-webUrl: "https://www.nbcdfw.com/news/national-international/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/3476778/"
-ampWebUrl: "https://www.nbcdfw.com/news/business/money-report/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/3476778/?amp=1"
-cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/business/money-report/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/3476778/?amp=1"
+originalUrl: "https://www.nbcnewyork.com/news/national-international/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/5184645/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/5184645/"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/5184645/?amp=1"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-u-s-regulation/5184645/?amp=1"
 type: article
 quality: 65
 heat: 65
 published: false
 
 provider:
-  name: NBC DFW
-  domain: nbcdfw.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://media.nbcdfw.com/2024/03/107380428-1709222739626-gettyimages-2036330307-PCARTIE_0023.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcnewyork.com/2024/03/107380428-1709222739626-gettyimages-2036330307-PCARTIE_0023.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
 
-secured: "rKzNGLRL2DsrSkV95+bmtPQofDKbC40KJAogCBR334lxzIxe2vrHFogVAAlXipr548DV/wx356My8JUCD/xN2pKnDfn5F8vWcuPBnOMPhx1ATD73v5/n5RS8eQNT7BJgGjaQ4FxaFNgechPDmWUx+6cECeJnr+iP42HBHAcI7gcH2KyaTTlTl3Ac4H6QA/ig+o3s+PNXW7gdFbbGaALwfBUFx5eZG6O0ak9rY1ix37xVAR054xSpj9ixjfVbZXg9c+KIv/wKmZAgqa4GZaUSTBPprvrPqWc/sMv1ikbZAZGJmeNnkjopuujQ6Eco119X8U0mE3I1zAwSFORvHxpwPwlQh7mS5sgreD7N5BaITZI=;Vzha/gPwdx1KVwJXC/2Ktw=="
+secured: "RxAQ/uR42GWFE1E77xC5+IOay+oVLCORhlUZEQKljttBSNCKSMzo8EmOR55Opb3CGJ8iYOUXc0eO5rwtyY05s9xf3QUJfJBfurGtEBW/XP2EiooJcxk67IjHKynGURiaUc4hTlQY0dd73XrkbMD8gWUi4oJmhjZsCPhsdJnKFQEnbCcL+u5qWv8vUpuRIJQNHFz9wZ6Ge56rn3w1xA2qjyPO1A10kxBw+JAnOeY9FFVuHqbLe44DaTjejRLQV8QPJ49YWu8WB/IfGaRW4Xvm5IXZec03MD4FphfFm3iBWuVV+RrHa8OG2CfgX5voPFarPSuLdjLX7o5beO9df0Pih/jfJz2BoxcNfBmSi6kXGLg=;kf3MEIBjrNhf66fj/MR22Q=="
 ---
 

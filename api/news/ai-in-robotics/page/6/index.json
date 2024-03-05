@@ -2,6 +2,146 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-14-best-robot-vacuum-deals-save-on-roomba-shark-and-others.md",
+      "title": "Best robot vacuum deals: save on Roomba, Shark, and others",
+      "excerpt": "It also has AI-controlled AIVI 3D 2.0 obstacle ... the Roomba is made with the smart home in mind. The iRobot Roomba 694 is one of the most popular Roomba robot vacuums. It features a minimal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/iRobot-Roomba-694-Wi-Fi-Connected-Robot-Vacuum.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
+      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
+      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
+      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-check-it-out-read-up-on-artificial-intelligence.md",
+      "title": "Check It Out: Read up on artificial intelligence",
+      "excerpt": "Stories about artificial intelligence have been all over the news. On one hand, it sounds amazing. AI is already being used in medicine to help with diagnosing patients, transcribing medical documents",
+      "sourceUrl": null,
+      "webUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
+      "originalUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pcdn.columbian.com/wp-content/uploads/2016/04/930101_johnston_063-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T13:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Columbian",
+        "domain": "columbian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-nvidia-isaac-ai-robot-platform-announces-many-partners.md",
       "title": "Nvidia Isaac AI Robot Platform Announces Many Partners",
       "excerpt": "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ...",
@@ -1156,136 +1296,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-study-redevelops-framework-for-teaching-artificial-intelligence-and-robotics.md",
-      "title": "Study redevelops framework for teaching artificial intelligence and robotics",
-      "excerpt": "More information: Jiahong Su (苏嘉红) et al, Artificial Intelligence and Robotics for Young Children: Redeveloping the Five Big Ideas Framework, ECNU Review of Education (2023). DOI: 10.1177 ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.html",
-      "originalUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-redevelops-frame.jpg",
-          "width": 2880,
-          "height": 1488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-07-ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect.md",
-      "title": "CES 2024 will see AI in everything from robots to laptops — here's what to expect",
-      "excerpt": "Artificial intelligence fever will be everywhere at CES this year with the technology appearing in everything from smart home products to laptops and robots. The past twelve months have seen an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/features/ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect",
-      "originalUrl": "https://www.tomsguide.com/features/ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2LtvxawLodfs2okBJ2V8nb-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-meet-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.md",
-      "title": "Meet the humanoid robot that learns from natural language and mimics human emotions",
-      "excerpt": "Tokyo Researchers have used GPT-4, a large language model, to control the movements and behaviors of Alter3, a humanoid robot.",
-      "sourceUrl": null,
-      "webUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
-      "originalUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cyberguy.com/wp-content/uploads/2024/01/Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CyberGuy",
-        "domain": "cyberguy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

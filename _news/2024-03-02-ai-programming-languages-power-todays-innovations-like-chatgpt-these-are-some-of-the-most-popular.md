@@ -7,8 +7,8 @@ originalUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 type: article
 quality: 72
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fortune
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Study: Most CMOs Fail to Understand AI Beyond ChatGPT"
+    excerpt: "The report, “Marketing's AI Era: Strategies & Measurement Driven by AI-Powered ... Camp Jefferson, Cossette Media, Impact Research, Jungle Media, K72, Level Eleven, Magic Circle Workshop, Make My Day, Middle Child, Mindshaker, Munvo, Septième ..."
+    publishedDateTime: 2024-03-05T07:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/739441ea-6a05-41ba-856e-dd24b705c450/AIOS_Hero_Laptop.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "Latest ChatGPT lawsuits highlight backup legal theory against AI platforms"
     excerpt: "In the plethora of copyright lawsuits against artificial intelligence developers, a pair of complaints filed on Wednesday against OpenAI and related defendants stands out."
     publishedDateTime: 2024-02-29T21:20:00Z
@@ -39,22 +53,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 62
-  - title: "\"Yo peeps\": ChatGPT is the latest translation of the Bible"
-    excerpt: "The man behind the Bible's latest translation spoke with CBS News Miami's Tania Francois about how it came to fruition."
-    publishedDateTime: 2024-03-01T03:45:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
+  - title: "How to use ChatGPT's file analysis capability (and what it can do for you)"
+    excerpt: "From searching a text 'semantically' to creating outlines and captioning images, file uploads on ChatGPT expand the bot's usefulness in important ways."
+    publishedDateTime: 2024-03-01T12:12:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-chatgpts-file-analysis-capability/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/29/801310fd-57fb-490a-9530-adc17c143291/thumbnail/1200x630/6871c01287dba54a5e9048f394f57988/gen-z-bible.png?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "+KrPMGNCtN1lHflX8Tw8xA1j0GA5DSy97jhQask578NiIm+qDM5KK2QS8nwcz4eXWSQX7rH4hu5Q3yVdrd3cU2SA/gaO6zAKayM/PoiwWPSL/6+p2T5bIzTpOZqmSbIwrOqupmpXwRmG6QF75g8dY1QPLiMxTDz/QHgEe7qASQHt0MaBLrGs3u2XjOnmqoa9eUHD2PlDLlOgalT3g7A0oeeu+4qJjfQ/Edu90YGXlqboNVv663G0xXqSmJofeykBeMAabVacQHfsYxYuVlSLLZ7z7zUoZ5WrPe0rZ3h/jz/gi8Mw1EmniUoJV9tK5HiwGEU5JQQ0f7CoUfe8MPaC2MzKqTMfUF2bZ2n3GMx1brw=;ij+8ulVHpGgnH80sZS3X5g=="
 ---

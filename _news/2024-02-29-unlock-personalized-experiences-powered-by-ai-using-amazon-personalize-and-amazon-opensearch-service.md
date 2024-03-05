@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 627
     isCached: true
+
+related:
+  - title: "7 Ways AI Video Repurposing Enhances Personalized Learning"
+    excerpt: "AI-driven recommendations for supplementary materials based on individual student progress and interests help foster a more inclusive learning environment"
+    publishedDateTime: 2024-03-05T12:13:00Z
+    webUrl: "https://www.ibtimes.co.in/7-ways-ai-video-repurposing-enhances-personalized-learning-866540"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 19
 
 secured: "wxJOvb9srHrcrdbIa4YvaS41tmPbEitqWMmZrR72C5HxZo+bCV0QR7F6yW9Ws07VbEG/ljjObuYHszSFY0OdSuMwskM3lWF3x4+bRbZMBVfPOgpTuegH6pUM/kUkwQZpp0s5Alhn1KkdgHv0c8CXgW4cPRwqE6DZGjFlTs/BVFTBpb1Liuj8b6/q3xZ+2qRlv0/aHj2dK/YCNKfMJJDOyfqJn4l0DksGEU7wfcXlkoAIMyO60CKQj8KNP7+e0YDE16v3CVcwK6hoTg3tEPptZwmeybwTxJhTA18snxRetqu/CXCdFV2iCMwAlJez2LNiIAMQoMfeac9wiY40awE+nlSxorQ2L7s7ML3QsijGAFY=;HTUky7pi/Je/oSUVie8E1g=="
 ---

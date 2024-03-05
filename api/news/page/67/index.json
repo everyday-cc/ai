@@ -2,6 +2,274 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2024-01-13-how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages.md",
+      "title": "How Data Extraction Artificial Intelligence Is Helping to Alleviate Health Care Worker Burnout, Staffing Shortages",
+      "excerpt": "Bevey Miner, executive vice president of health care strategy and policy, Consensus Cloud Solutions, shares how extraction artificial intelligence is helping train machine learning models to recognize and extract information from documents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
+      "originalUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/80f499f29719b6efae44ea2ef1e50fcc3f71e0c2-2880x1526.png?fit=crop&auto=format",
+          "width": 2880,
+          "height": 1526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T21:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-ces-2024-everything-revealed-so-far-from-nvidia-and-sony-to-the-weirdest-reveals-and-helpful-ai.md",
+      "title": "CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI",
+      "excerpt": "CES 2024 has begun in Las Vegas, and we're keeping track of the biggest reveals from press day as a wave of AI and hardware news is revealed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
+      "originalUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1246002029.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
+      "publishedDateTime": "2024-01-12T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
+      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
+      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
+      "originalUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkrg.com/wp-content/uploads/sites/49/2024/01/65a1e1f62a0759.01554617.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-wkrg-com.cdn.ampproject.org/c/s/www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
+      "publishedDateTime": "2024-01-12T20:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRG",
+        "domain": "wkrg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-nec-achieves-tx-ramp-level-2-certification-for-suite-of-biometric-and-face-recognition-solutions.md",
+      "title": "NEC Achieves TX-RAMP Level 2 Certification for Suite of Biometric and Face Recognition Solutions",
+      "excerpt": "NEC Corporation of America (NEC), a leading provider and integrator of advanced IT, biometrics, communications, and networking solutions today announc",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T19:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-the-state-of-microsoft-data-part-2.md",
+      "title": "The State of Microsoft Data Part 2",
+      "excerpt": "While Microsoft's latest offering, Fabric, is a viable option for many, it's not the only player out there.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
+      "originalUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/analyticdataabstract.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T19:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation.md",
+      "title": "Timekettle's X1 Makes Language Translation Effortless With AI-Driven Interpretation",
+      "excerpt": "The AI powering the X1 will mimic the voice ... lets up to 20 people have a conversation in five different languages with real-time translation. Notably, it works for both in-person and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
+      "originalUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation/l-intro-1704989646.jpg",
+          "width": 1600,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T18:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
       "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
       "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
@@ -807,256 +1075,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-top-10-best-python-libraries-for-deep-learning-in-2024.md",
-      "title": "Top 10 Best Python Libraries for Deep Learning in 2024",
-      "excerpt": "Python is one of the most popular programming languages in the world, and it’s used extensively in the field of deep learning. Python’s versatility and ease of use make it an ideal language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
-      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Python-Libraries-for-Deep-Learning.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-tusimples-self-driving-trucks-up-for-auction-following-us-exit.md",
-      "title": "TuSimple’s self-driving trucks up for auction following US exit",
-      "excerpt": "Ten of TuSimple’s autonomous big rigs are set to be auctioned off later this month, just a few weeks after the self-driving trucking startup that went public in 2021 announced it was exiting the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "publishedDateTime": "2024-01-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition.md",
-      "title": "Robot vendor ABB adds AI-based navigation technology with latest acquisition",
-      "excerpt": "The Swiss industrial robotics vendor ABB Ltd. is continuing to grow its footprint as a provider of mobile robotic solutions, announcing today that it has acquired Sevensense, a Swiss start-up that provides AI-based navigation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "originalUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T21:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-microsofts-ai-found-a-new-material-to-replace-li-ion-batteries.md",
-      "title": "Microsoft's AI found a new material to replace li-ion batteries",
-      "excerpt": "Microsoft collaborated with the Department of Energy's Pacific Northwest National Laboratory (PNNL) to discover a novel material that could alleviate the global dependence on lithium in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
-      "originalUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
-      "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
-      "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
-      "sourceUrl": null,
-      "webUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
-      "originalUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2d1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35003ea1a59ccbb4e062cb2818e3b3d7dc4a1540/Rise-of-Cloud-Computing-Adoption-and-Cybercrimes.jpg/",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Security Alliance",
-        "domain": "cloudsecurityalliance.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-kodiak-robotics-unveils-driverless-semitruck-slated-to-hit-texas-highways-in-2024.md",
-      "title": "Kodiak Robotics unveils driverless semitruck slated to hit Texas highways in 2024",
-      "excerpt": "Kodiak Robotics Inc. unveiled what it calls the world’s first driverless-ready semi-truck designed for scaled deployment at the Consumer Electronics Show in January 2024. The truck will run various driverless operations between Dallas and Houston starting in 2024, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "originalUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

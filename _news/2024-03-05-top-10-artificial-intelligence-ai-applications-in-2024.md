@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-04T16:51:00Z
 originalUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
 webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
 type: article
-quality: 32
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,9 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Robotics
+  - AI in Healthcare
 
 related:
   - title: "Driving with Artificial Intelligence (AI) to Survive"

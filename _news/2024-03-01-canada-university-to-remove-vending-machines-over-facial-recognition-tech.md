@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "University to remove vending machines after student claimed they used facial recognition"
-    excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the utilization of facial-recognition technology. The controversy unfolded when a vigilant student captured a photo of an M&M-branded vending ..."
-    publishedDateTime: 2024-02-29T12:09:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/university-to-remove-vending-machines-after-student-claimed-they-used-facial-recognition-12378471.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 65
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/MixCollage-29-Feb-2024-05-35-PM-4699.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Complaints filed with privacy commissioner over facial recognition vending machines"
     excerpt: "Two complaints have been filed with the Office of the Information and Privacy Commissioner of Ontario over facial recognition software in smart vending machines on ..."
     publishedDateTime: 2024-02-29T23:28:00Z

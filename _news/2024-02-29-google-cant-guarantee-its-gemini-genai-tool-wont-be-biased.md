@@ -145,20 +145,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Meta To Release Llama 3 in July, Outperforms GPT-4 and Gemini"
-    excerpt: "Meta is planning to release Llama 3 in July, reported The Information, citing sources familiar with the matter."
-    publishedDateTime: 2024-02-29T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/meta-to-release-llama-3-in-july-outperforms-gpt-4-and-gemini/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/meta-llama-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nljBaE7m7R3dwpPvHo53eAFREgFd8ECiRlNtMdE/So7WQ92PNxuZZeWGifMxgQdY5DGiqyWFplGYc4Z5eucsIasRNDUSkiwcy0e5SN10JbwLSBJKiOUQiZVcLFTd8Pqc1Z2+ihlWUYqRt9yLA5Lis48eCrYkdwPgQ+IQ73a/aQH6rIcv49wNmAq8xlIku2bOM8CWof7QOSGCn1TxFCg2UXOv1pooqjoX0jTUmUzHRXPXt9146Fnlsy2/XpiRbVib8MWtA5P/JZRag5sJbmO7uqsjEg+F4wjEcHbijYREVylf7J+H/mmmRecLCYxPxLAOkSsJM7jWRK2F9BVfHIkVdCa/HCeuzlu7XrE+jwEaQ8jIsqAOucURQMzR1E/Xo6vD5JrZAcHrXATGzKlMhgCWUvDPL9ME69Jvb0/YkjIDMrz+bRF66t8mNsXAGUWGncOZQlQ39gCSpKW2y9LJNRmbemNiv/ZRgiFFNnua47BzACPtlfKnhmzRlGEl9mStytmKE3iedtfF+ozBGiOOyLWmyg==;gf2geZOF580VQ+l7Qy5Qjw=="
 ---

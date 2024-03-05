@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-20-making-cloud-infrastructure-programmable-for-developers.md",
+      "title": "Making cloud infrastructure programmable for developers",
+      "excerpt": "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/developer_programmer-100946133-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
+      "publishedDateTime": "2024-02-20T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-three-ways-cloud-can-drive-a-smarter-era-of-education.md",
       "title": "Three ways cloud can drive a smarter era of education",
       "excerpt": "New technologies are transforming education by driving a shift towards more accessible, flexible and engaging educational experiences for students and faculty members, while simultaneously delivering an easier-to-manage and more secure IT environment for administrators.",
@@ -1342,49 +1394,6 @@
       "provider": {
         "name": "Big News Network.com",
         "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service.md",
-      "title": "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service",
-      "excerpt": "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "originalUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "publishedDateTime": "2024-02-12T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Mistral AI makes waves with deals across tech giants including Microsoft, IBM"
-    excerpt: "Paris-based startup Mistral AI has cemented itself as a rising star in the artificial intelligence world, landing major partnerships with IBM, Microsoft, and others just one year after its founding. The fledgling company is moving fast to commercialize ..."
-    publishedDateTime: 2024-02-29T12:45:00Z
-    webUrl: "https://venturebeat.com/ai/mistral-ai-makes-waves-with-deals-across-tech-giants-including-microsoft-ibm/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_The_letter_M_pixel_art_set_against_a_backdrop_of_comp_d20af6a7-9ba2-4759-bba8-3c2d7b034c5c-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "New Microsoft-Backed Startup Wants to Make AI Work As Intended"
     excerpt: "Big companies like OpenAI and Alphabet Inc.'s Google are increasingly directing workers, money and computing power toward the problem. And Anthropic, an OpenAI competitor, has put it at the heart of its development of Claude, a product it bills as a safer kind of AI chatbot."
     publishedDateTime: 2024-03-01T01:38:00Z
@@ -85,20 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft debuts AI-powered Copilot for Finance as it continues company-wide AI push"
-    excerpt: "On Tuesday, the company also disclosed it is working with OpenAI rival Mistral and will begin offering that firm’s AI models via its Azure cloud platform. In its most recent earnings report, Microsoft revealed that AI services contributed 6 percentage ..."
-    publishedDateTime: 2024-02-29T11:17:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-debuts-ai-powered-copilot-161713828.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 64
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/ybCxS43NhQOBa5jkIkbISA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/6b32ce3930fd4f032171c753d4ab7fee"
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Apple's Launching A Futuristic Siri And Apple-Based Artificial Intelligence As It Looks To Take On Microsoft's AI Dominance"
     excerpt: "In a bold move toward integrating artificial intelligence (AI) into its ecosystem, Apple is setting the stage to unveil a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June."
     publishedDateTime: 2024-03-01T15:04:00Z
@@ -114,20 +86,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2024/ai-artificial-world-shutter_4.jpeg?width=1200&height=800&fit=crop"
         width: 830
         height: 553
-        isCached: true
-  - title: "Microsoft adds new Copilot features to Windows 11 as AI hype remains high"
-    excerpt: "The updates, which are part of Microsoft’s Copilot preview, are part of the company’s effort to incorporate generative AI across its various product lines beyond its Azure cloud segment. It's also part of a broader industry push to use AI PCs ..."
-    publishedDateTime: 2024-02-29T13:00:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-adds-copilot-features-windows-180034301.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 53
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/ybCxS43NhQOBa5jkIkbISA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/6b32ce3930fd4f032171c753d4ab7fee"
-        width: 1200
-        height: 740
         isCached: true
   - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
     excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
@@ -158,22 +116,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/iL6D95t98F3a3oPkTLE4A-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft's Bold $16 Million Gamble on Mistral AI, the Challenger to GPT-4 and Claude 2 - A Strategic Move or a Risky Bet For Microsoft Shares?"
-    excerpt: "The collaboration highlights the integration of Mistral's AI capabilities into Microsoft's Azure AI platform. Mistral is preparing to provide open and commercial language models on Azure, following in the footsteps of OpenAI. A key focus of this ..."
-    publishedDateTime: 2024-02-29T11:47:00Z
-    webUrl: "https://www.benzinga.com/24/02/37399511/microsofts-bold-16-million-gamble-on-mistral-ai-the-challenger-to-gpt-4-and-claude-2-a-strategic-mov"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37399511"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37399511"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://cdn.benzinga.com/files/-_1.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "AZ0ZctJHyB1m3SY4MwJgpPyzpVqbK87Hx2mwCOIXWWEIzOvWbNSR3+dLrDhCVinp3GHZRjanrKGAqqThg/t3oaxgvunpvnzFWlNnOszacL1LyC6OiDd+MTzsnOT/75086Xil06ucdZIgjzsrEPgzspxE1KiCjCfNl/wWwRYsZ+0xFzbb33qq2RDvAbqziRLiyhyVTG/vT1bg8YKDeOqp+bSRM3D3Opm6TVlLirvVaal7FdxZzoEQBOjoY3Zi/CBbRvmwhazkV7PwC/uagtC5UY1iG/MnW/2q/SQJWV8jnrsGtNvxmkbMzYedd8BSW3q/VDbAhAOrpX7Vtt2OZ/32oacd7HluPOysTUO/rwoXNUM=;JNsMRx4LegU/qSDObaZTUw=="

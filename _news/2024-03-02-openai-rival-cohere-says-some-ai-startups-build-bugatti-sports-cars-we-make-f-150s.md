@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/03/01/cohere-says-rivals-are-building-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 5000
     height: 3327
     isCached: true
-
-related:
-  - title: "OpenAI rival Cohere says some AI startups build Bugatti sports cars, ‘We make F-150s'"
-    excerpt: "Cohere, the Nvidia-backed startup founded by ex-Google AI researchers, is betting on generative AI for enterprise use, rather than on consumer chatbots. In June, the company raised a $270 million round at a $2.2 billion valuation. COO Martin Kon told CNBC ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/openai-rival-cohere-says-some-ai-startups-build-bugatti-sports-cars-we-make-f-150s/3468774/"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 10
 
 secured: "mJ4r1lEnbHWzTDmOelriJod/NNQxkFJaex2S7tpNgU2xVFZTDoRVKcq01KbuPSc5mrswLZ09yZlSIeGiyqhfwE+aR4zudcoPw4fzJ4JHQCe1fMz5lmBpng6elJhGK3MX1srmNWGmueeuGgaXdnUuFWSxxWuds/pK2WCE+RO0EWL5PsYPni8SCykvVZzRthou62qiAt9YuWlnsyy2oRsbRChuWu71lRtpuP9aYK3jFDXnUuoyU3gLTf1Q5heSt7pk+v9Dj5TdDpv4z/9+B2uZRXIf3RaFhwaRdthdRajT4/Tlq+gGmIY8bikBVVULAejIb+GoUUQEXRs/oybQcBifUPrGv3J9J1oNn0Nu8kpl9LGxONgTLu9H9n6pgAwyosZ4NB8gShAxnt0JhjgTs6GHsRC+MOvHT+6qw4sGzyhmOxZ5ZIwwK70nD8aot8k+W4Yjje7HCEWIJtN9iB73rJ0XNCUVWVc4B4h8uzZk8sSH5SMgL6Ep/ndGAsW0Iyoh+FZTffUFZ5itIDfDht1vU2OjVA==;SUNJAbr1QzJB5/A/D3Ul/w=="
 ---

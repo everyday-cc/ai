@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon-Backed Anthropic Launches Claude 3 AI Models to Rival ChatGPT-4"
+    excerpt: "Claude 3 has three variants, with its most powerful Opus version promising better results than OpenAI's ChatGPT-4 and Google's Gemini 1.0 Ultra models."
+    publishedDateTime: 2024-03-05T11:58:00Z
+    webUrl: "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02GPZdQqyCmIQ95bmEMKPqW-1.fit_lim.size_1200x630.v1709639282.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Anthropic unveils Claude 3, its latest and most powerful AI model"
     excerpt: "and this powerful AI model is powerful enough to trade blows with GPT-4 and Gemini. Anthropic has been doing a lot of work and research on its AI. However, it just didn’t stand out amongst the competition. However, it just debuted Claude 3, the company ..."
     publishedDateTime: 2024-03-04T00:00:00Z
@@ -61,6 +75,20 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2024/03/Anthropic-Logo-jpg.webp"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Claude 3 vs ChatGPT vs Gemini latest Anthropic AI models compared"
+    excerpt: "Anthropic has launched a new AI model which has now being compared to ChatGPT and Google Gemini. This Claude 3 vs ChatGPT vs Gemini comparison"
+    publishedDateTime: 2024-03-05T11:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt-vs-gemini/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Claude-3-vs-ChatGPT-vs-Gemini.jpg"
+        width: 1280
+        height: 710
         isCached: true
   - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
     excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
@@ -107,6 +135,22 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 41
+  - title: "Google co-founder Sergey Brin admits issues Gemini AI chatbot, says 'we definitely messed up, it was due to...’"
+    excerpt: "Google Co-Founder Sergey Brin has opened up on issues facing the company's Gemini AI chatbot and noted that the Mountain View- California based company ‘messed up’ with the rollout of the image generation feature. Gemini (earlier known as Bard ..."
+    publishedDateTime: 2024-03-05T10:32:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-co-founder-sergey-brin-admits-issues-gemini-ai-chatbot-says-we-definitely-messed-up-it-was-due-to-11709625022300.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-co-founder-sergey-brin-admits-issues-gemini-ai-chatbot-says-we-definitely-messed-up-it-was-due-to/amp-11709625022300.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-co-founder-sergey-brin-admits-issues-gemini-ai-chatbot-says-we-definitely-messed-up-it-was-due-to/amp-11709625022300.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/03/05/1600x900/2-0-206714021-Sergey-Brin-0_1680431117506_1709633268201.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Anthropic unveils its most powerful AI chatbot to date"
     excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
     publishedDateTime: 2024-03-04T14:56:00Z

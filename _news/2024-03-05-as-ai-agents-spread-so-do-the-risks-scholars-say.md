@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "The Future Of AI Skill And Talent Development In The Workforce"
+    excerpt: "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?"
+    publishedDateTime: 2024-03-05T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1271
+        height: 847
+        isCached: true
   - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
     excerpt: "Making instant videos is the next wave of generative artificial intelligence, much like chatbots and image-generators before it"
     publishedDateTime: 2024-03-04T15:18:00Z

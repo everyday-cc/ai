@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Study: Most CMOs Fail to Understand AI Beyond ChatGPT"
+    excerpt: "The report, “Marketing's AI Era: Strategies & Measurement Driven by AI-Powered ... Camp Jefferson, Cossette Media, Impact Research, Jungle Media, K72, Level Eleven, Magic Circle Workshop, Make My Day, Middle Child, Mindshaker, Munvo, Septième ..."
+    publishedDateTime: 2024-03-05T07:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/739441ea-6a05-41ba-856e-dd24b705c450/AIOS_Hero_Laptop.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "AI programming languages power today’s innovations like ChatGPT. These are some of the most popular"
     excerpt: "Prioritizing ethics and understanding the true implications of AI are also critical. But since AI technology is changing so rapidly, soft skills can be argued to be even more important than technical capabilities. Some of the critical skills Singh Ahuja ..."
     publishedDateTime: 2024-03-01T18:27:00Z
@@ -37,22 +51,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "\"Yo peeps\": ChatGPT is the latest translation of the Bible"
-    excerpt: "The man behind the Bible's latest translation spoke with CBS News Miami's Tania Francois about how it came to fruition."
-    publishedDateTime: 2024-03-01T03:45:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/yo-peeps-chat-gpt-is-the-latest-translation-of-the-bible/"
+  - title: "How to use ChatGPT's file analysis capability (and what it can do for you)"
+    excerpt: "From searching a text 'semantically' to creating outlines and captioning images, file uploads on ChatGPT expand the bot's usefulness in important ways."
+    publishedDateTime: 2024-03-01T12:12:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-chatgpts-file-analysis-capability/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/29/801310fd-57fb-490a-9530-adc17c143291/thumbnail/1200x630/6871c01287dba54a5e9048f394f57988/gen-z-bible.png?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "5I1by/3jDpnmHAMaKf5JUR67HvZcwsQ+xK9FVWI+LNouszTZhmizPHi+/AT1UY7+N4A+ohv7P+1C1rQp1HfMQJTxWZgPCrQCBwaObC72fWZx6VrFD0WFjATh6+4MouO6CS4c/r0zhT2dFMMu/wfzhU9b8wULwvweaWBmtWSdJEuzP4xBMiPXC7TYA2PrdrJPcLeXS1k4qCkU7uuLZb2yn8MM9jCXjbGycc92e+TfyPUt0kjF05IsYX1V0aBi30fwQ+a6yMrxePKyhpfcaNUpACk89P+R0jYN6t5dFktYGcZd0VAUrO1aJsqVp1rd7dqhcV7wDSg3iRLqsGfbXrjYS9OgHEuOQ4a3TSxRkhT9aK15Fq+oEcjQzRaJcw4RgWxIS+xEa88leigPCVdYffZR4utaypnuhVxNk7VNH61z6ysME9AH0FwwT+y3fNNQJ56ERkIqivEEe8/bFG6xFDXKS7R0+1NEsiDR2qAFAIciXbywvxbSzkHw347pul3OsBNdtWFR9TDTgh8O0kA9fFZDIw==;kO7vgDsvrkZIjLiSAWnWzw=="
 ---

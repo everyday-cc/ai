@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Dell Stock Surges After AI Boom Fuels Profit Jump"
-    excerpt: "Dell Technologies stock rallied after artificial intelligence-related demand helped the PC maker report a big jump in profit. Late Thursday, Dell said profit, adjusted for one-time items, increased 22% last quarter."
-    publishedDateTime: 2024-03-01T21:59:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/dell-s-stock-surges-after-ai-boom-fuels-big-profit-jump-qoCf2wX1NnVtTbUoXjj1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Demand for computer chips fuelled by AI could reshape global politics and security"
     excerpt: "Of course, the demand for chips to fuel AI’s growth is not the only way that artificial intelligence will make major impact on geopolitics and global security. The growth of disinformation and misinformation online has transformed politics in recent years by inflating prejudices on both sides of debates."
     publishedDateTime: 2024-03-04T13:42:00Z

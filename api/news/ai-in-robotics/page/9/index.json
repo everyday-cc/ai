@@ -2,6 +2,135 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-12-ai-companion-robot-helps-some-seniors-fight-loneliness-but-others-hate-it.md",
+      "title": "AI companion robot helps some seniors fight loneliness, but others hate it",
+      "excerpt": "Some seniors in New York are successfully combating their loneliness with an AI-powered companion robot named ElliQ—while others called the \"proactive\" device a nag and joked about taking an ax to it.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/health/2023/12/ai-companion-robot-helps-some-seniors-fight-loneliness-but-others-hate-it/",
+      "originalUrl": "https://arstechnica.com/health/2023/12/ai-companion-robot-helps-some-seniors-fight-loneliness-but-others-hate-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/ElliQ6-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-a-venture-capitalists-perspective-on-robotics.md",
+      "title": "A venture capitalist’s perspective on robotics",
+      "excerpt": "Founders should be aware the era of exiting a business based on little more than “promising technology” is over — you must eventually build a real business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
+      "originalUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/robot-trends-AdobeStock.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-amazon-robotics-founding-engineer-andrew-hoffman-joins-gather-ai-as-cto-as-company-supercharges-growth.md",
+      "title": "Amazon Robotics Founding Engineer, Andrew Hoffman, Joins Gather AI as CTO as Company Supercharges Growth",
+      "excerpt": "Gather AI welcomes Andrew Hoffman as Chief Technology Officer (CTO). Gather AI offers AI-powered autonomous inventory management solutions for w",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
       "title": "How Accurate Were Our 2023 AI Predictions?",
       "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
@@ -1115,118 +1244,6 @@
       "provider": {
         "name": "SeafoodSource",
         "domain": "seafoodsource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up.md",
-      "title": "A Google DeepMind AI Just Discovered 380,000 New Materials. This Robot Is Cooking Them Up.",
-      "excerpt": "The system uses AI to predict the properties of new materials and a robot to produce them. The collaboration could launch a new era of materials science.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/",
-      "originalUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/11/berkeley-lab-robot-synthesizing-new-materials.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/?amp=1",
-      "publishedDateTime": "2023-11-30T22:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-how-artificial-intelligence-is-changing-the-way-we-work-and-what-the-future-may-hold.md",
-      "title": "How artificial intelligence is changing the way we work — and what the future may hold",
-      "excerpt": "When it comes to AI and more specifically generative AI, Madison and Briem both suggested that workers across career paths find ways to become educated about these tools and, if relevant, learn how they can be implemented into their own jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/11/30/ai-robotics-influences-workforce.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/11/30/ai-robotics-influences-workforce.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-mu-receives-grants-to-boost-robotics-programs.md",
-      "title": "MU receives grants to boost robotics programs",
-      "excerpt": "Central Penn Parent covers family news and events in Cumberland, Dauphin, Lancaster, Lebanon and York counties.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpbj.com/mu-receives-grants-to-boost-robotics-programs/",
-      "originalUrl": "https://www.cpbj.com/mu-receives-grants-to-boost-robotics-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T15:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Penn Business Journal",
-        "domain": "cpbj.com",
         "images": null,
         "publishers": null,
         "authors": null

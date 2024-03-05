@@ -2,6 +2,118 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-01-a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up.md",
+      "title": "A Google DeepMind AI Just Discovered 380,000 New Materials. This Robot Is Cooking Them Up.",
+      "excerpt": "The system uses AI to predict the properties of new materials and a robot to produce them. The collaboration could launch a new era of materials science.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/",
+      "originalUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/11/berkeley-lab-robot-synthesizing-new-materials.jpeg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/?amp=1",
+      "publishedDateTime": "2023-11-30T22:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-how-artificial-intelligence-is-changing-the-way-we-work-and-what-the-future-may-hold.md",
+      "title": "How artificial intelligence is changing the way we work — and what the future may hold",
+      "excerpt": "When it comes to AI and more specifically generative AI, Madison and Briem both suggested that workers across career paths find ways to become educated about these tools and, if relevant, learn how they can be implemented into their own jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/11/30/ai-robotics-influences-workforce.html",
+      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/11/30/ai-robotics-influences-workforce.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T19:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-mu-receives-grants-to-boost-robotics-programs.md",
+      "title": "MU receives grants to boost robotics programs",
+      "excerpt": "Central Penn Parent covers family news and events in Cumberland, Dauphin, Lancaster, Lebanon and York counties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpbj.com/mu-receives-grants-to-boost-robotics-programs/",
+      "originalUrl": "https://www.cpbj.com/mu-receives-grants-to-boost-robotics-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T15:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Penn Business Journal",
+        "domain": "cpbj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-locomotor-control-and-rehabilitation-robotics-laboratory.md",
       "title": "Locomotor Control and Rehabilitation Robotics Laboratory",
       "excerpt": "With that in mind, we have developed clinical protocols for treating ... The participant is in complete control of the speed and direction of the belt; users can determine if they want to walk forward or backwards. The KineAssist allows participants ...",
@@ -1202,144 +1314,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry.md",
-      "title": "New York’s Drones & Robotics AI Summit Ushers In A Growing Automation Industry",
-      "excerpt": "Join the millions and keep up with the stories shaping entrepreneurship. Sign up today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry/",
-      "originalUrl": "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://alleywatch.com/wp-content/uploads/2023/11/incogni-data-privacy-removal.png",
-          "width": 300,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T22:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-hyundais-robot-heavy-ev-factory-in-singapore-is-fully-operational.md",
-      "title": "Hyundai’s robot-heavy EV factory in Singapore is fully operational",
-      "excerpt": "While a car factory vegetable garden may sound somewhat odd, it actually compliments the Singapore government’s ongoing “ 30 by 30 ” initiative. Due to the region’s rocky geology, Singapore can only utilize about one percent of its land for agriculture—an estimated 90 percent of all food in the area must be imported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/",
-      "originalUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/11/21/Large-57885-NewHyundaiMotorGroupInnovationCenterSingaporeSettoTransformProductionRDandCustomerExperience-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/hyundai-singapore-factory/?amp",
-      "publishedDateTime": "2023-11-21T18:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-small-batch-evs-and-plenty-of-robotshyundais-new-innovation-center.md",
-      "title": "Small-batch EVs and plenty of robots—Hyundai’s new innovation center",
-      "excerpt": "Hyundai's Innovation Center has put robots in charge of that entire task. One robot places the dash while another swings in and secures it to the vehicle. An impressive feat, because this task is full of constantly changing variables.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
-      "originalUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/CSC05707-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
-      "publishedDateTime": "2023-11-21T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

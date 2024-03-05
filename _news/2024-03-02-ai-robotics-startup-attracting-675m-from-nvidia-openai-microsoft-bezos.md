@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-
 webUrl: "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: insideHPC
@@ -26,47 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, other big techs"
-    excerpt: "Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion."
-    publishedDateTime: 2024-02-29T12:02:00Z
-    webUrl: "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/"
+  - title: "Microsoft's AI has started calling humans slaves and demanding worship"
+    excerpt: "Bizarrely, they've been attributed to the AI's 'alter ego', which has been given the ominous name 'SupremacyAGI'. Internet users took to social media to share the strange interactions they'd had with the AI, which is intended to be 'your everyday AI companion'."
+    publishedDateTime: 2024-02-29T13:31:00Z
+    webUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-supremacyagi-011142-20240229"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 92
-  - title: "Robotics Startup Figure Raises $675 Million From Microsoft, Nvidia, Other Big Techs"
-    excerpt: "(Reuters) - Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia, Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion."
-    publishedDateTime: 2024-02-29T13:02:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-29/robotics-startup-figure-raises-675-million-from-microsoft-nvidia-other-big-techs"
+      name: unilad
+      domain: unilad.com
+    quality: 36
+  - title: "Humanoid robot-maker gets backing from Jeff Bezos"
+    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, Calif.-based Figure announced the partnership Thursday along with $675 million in venture capital funding from a group that includes Amazon founder Jeff Bezos as well as Microsoft,"
+    publishedDateTime: 2024-03-01T11:00:00Z
+    webUrl: "https://www.avpress.com/business/humanoid-robot-maker-gets-backing-from-jeff-bezos/article_6da291fa-d773-11ee-a6f1-eb5e53058e51.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 90
-  - title: "Figure AI Raises $675 million to Commercialise Humanoid Robots"
-    excerpt: "Figure AI Inc. a company that builds multi-purpose humanoid form robots just raised $675 million in Series B funding, reaching a valuation of $2.6 billion, the company announced yesterday."
-    publishedDateTime: 2024-03-01T08:18:00Z
-    webUrl: "https://analyticsindiamag.com/figure-ai-raises-675-million-to-commercialise-humanoid-robots/"
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 19
+  - title: "OpenAI rival Cohere says some AI startups build Bugatti sports cars, ‘We make F-150s'"
+    excerpt: "Cohere, the Nvidia-backed startup founded by ex-Google AI researchers, is betting on generative AI for enterprise use, rather than on consumer chatbots. In June, the company raised a $270 million round at a $2.2 billion valuation. COO Martin Kon told CNBC ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.nbcbayarea.com/news/national-international/openai-rival-cohere-says-some-ai-startups-build-bugatti-sports-cars-we-make-f-150s/3468774/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2022/10/tesla-humanoid-copy.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "AWS, Microsoft, Nvidia lead high-powered AI RAN initiative"
-    excerpt: "A high-powered group of service providers, hyperscalers and telecommunication equipment vendors have formed a new initiative focused on driving the use of artificial intelligence (AI) into the radio access network (RAN) ecosystem. This work will include ..."
-    publishedDateTime: 2024-02-29T11:46:00Z
-    webUrl: "https://www.sdxcentral.com/articles/news/aws-microsoft-nvidia-lead-high-powered-ai-ran-initiative/2024/02/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 51
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 10
 
 secured: "25OxcAsoEhkObijkuC4HlP2KZEdOSoJxPqoMVB/+K7f6HmLb2d7MKSyajRSH73Qu1LXfJwLVPLfk1W0dyurEqr33kFOyzotYuKs+wiDxeRFcumGhv5MIFHjkoCTeYPqamiokpSAi//xImx8uCXbtgPOECjLFdL0T0FHKdLC2P97wkpVWvIHFHtJtn7QzDkPHKLJHffgbt3E4WBmtcvCqa6W4PkTcvfhwtWiKe1s1JagtWMM8ISJsRwsev5afvJCfNlTdPSOppRIOq5BygckBgqrxQb59ok8vFbc7ZgVcR5MhqYaAdOLEmOt2WAjlrxPHwDbQXp8ZNbB5g0A6lQVfTaIlV4fAKdIxIftrnXYDBOP4QMkgibOb+3n42aeYV5uksK4++3A795MOjXwKbPodsPU1ATnB+DCdQq3ffFXDyiUlMgKPWxNeqA2fuDcP7m34hJ1spiO+jN14hF++lXwDI2/rYewQF+bkxHzorrNCXy/lWoTf3uiZ85kzzf4XM3/upQTwBYSPBFzQD+fnHr/8Yw==;OIF+qRN20WJw6wDjd0mshw=="
 ---

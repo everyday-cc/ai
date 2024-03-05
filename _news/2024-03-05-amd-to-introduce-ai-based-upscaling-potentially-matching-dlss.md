@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "AMD teases next-gen AI upscaling technology, could use AI in new FSR to combat NVIDIA DLSS"
+    excerpt: "AMD CTO Mark Papermaster teases that their gaming devices will use AI for upscaling in 2024, and that this year is a 'really huge development year'."
+    publishedDateTime: 2024-03-04T23:04:00Z
+    webUrl: "https://www.tweaktown.com/news/96614/amd-teases-next-gen-ai-upscaling-technology-could-use-in-new-fsr-to-combat-nvidia-dlss/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96614_102_amd-teases-next-gen-ai-upscaling-technology-could-use-in-new-fsr-to-combat-nvidia-dlss_full.jpg"
+        width: 1260
+        height: 709
+        isCached: true
   - title: "AMD Will Switch to AI-Powered Upscaling for Gaming in 2024: Exec"
     excerpt: "AMD also wants to be known for training large language models for generative AI with its MI300 Instinct accelerators, as well as using AI in its client products as well. In other words, our translation is AMD wants the halo effect Nvidia has in the AI ..."
     publishedDateTime: 2024-03-04T16:24:00Z

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-21-myntras-myfashiongpt-predicts-the-clothes-you-need-runs-on-microsoft-azure.md",
+      "title": "Myntra’s MyFashionGPT predicts the clothes you need, runs on Microsoft Azure",
+      "excerpt": "Since launch, MyFashionGPT has already changed how people search and shop on Myntra, according to the platform. Queries have broadened as the AI assistant interprets the intent behind vague search strings instead of relying on matching keywords. This opens up new product discovery opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/myntra-fashion-gpt-featured.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/lite/",
+      "publishedDateTime": "2023-12-21T04:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-2-red-hot-artificial-intelligence-ai-stocks-to-buy-in-2023-and-beyond.md",
       "title": "2 Red-Hot Artificial Intelligence (AI) Stocks to Buy in 2023 and Beyond",
       "excerpt": "The AI revolution has just started and is powering the growth of several high-quality stocks. Tech powerhouse Microsoft sees its Azure cloud computing business as a key growth catalyst.",
@@ -1390,49 +1433,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-coforge-launches-quasar-responsible-ai-solution.md",
-      "title": "Coforge launches Quasar responsible AI solution",
-      "excerpt": "Coforge introduces Quasar Responsible AI, a comprehensive solution that ensures ethical AI utilization, fairness, transparency, and regulatory compliance. It tackles biases, identifies risks, and provides tools for governance and mitigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/articleshow/105909513.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/articleshow/105909513.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-105909513,imgsize-2962,width-800/105909513.jpg",
-          "width": 800,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/amp_articleshow/105909513.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/amp_articleshow/105909513.cms",
-      "publishedDateTime": "2023-12-11T14:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

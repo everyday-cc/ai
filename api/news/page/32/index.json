@@ -2,6 +2,247 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2024-02-09-elevating-financial-services-in-digital-age-hybrid-multicloud-approach.md",
+      "title": "Elevating financial services in digital age: Hybrid multicloud approach",
+      "excerpt": "While, traditionally, the financial services sector has taken a cautious approach to cloud adoption, the tide is turning, and adoption rates are accelerating across all cloud models.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach/107553675",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach/107553675",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-107553675,imgsize-220788,width-1200,height=765,overlay-etcio/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T09:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-aiml-based-precision-medicine.md",
+      "title": "Owkin Partners With AWS, Leverages Cloud Computing to Fuel Innovation In AI/ML-Based Precision Medicine",
+      "excerpt": "Owkin is working with Amazon Web Services (AWS) to transform drug discovery, de-risk and accelerate clinical trials, and develop AI diagnostics",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/3841a1b210f6fed1504afe0ced9b6797.jpg?t=20240209_090213",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T09:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-bard-is-now-gemini-paid-version-has-better-ai-features.md",
+      "title": "Google Bard is Now Gemini; Paid Version has Better AI Features",
+      "excerpt": "Roughly a year after Google Bard is made available to the Philippines, Google has decided to give its Chat GPT rival a makeover by formally calling it Gemini. Its similar to how Microsoft has decided to rebrand all of its AI-powered features to Copilot.",
+      "sourceUrl": null,
+      "webUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "originalUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T04:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unbox",
+        "domain": "unbox.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-profiling-in-a-digital-age-facial-recognition-video-surveillance-and-policing.md",
+      "title": "Profiling in a Digital Age: Facial Recognition, Video Surveillance, and Policing",
+      "excerpt": "The Surveillance, Criminalization, and Punishment speaker series is organized by Katy Naples-Mitchell, Program Director of the Program in Criminal Justice Policy and Management, and Sandra Susan Smith,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
+      "originalUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hks.harvard.edu/sites/default/files/event_images/47920.jpg",
+          "width": 640,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T02:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "www.hks.harvard.edu",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-ai-based-decision-support-boosts-post-stroke-prevention.md",
+      "title": "AI-Based Decision Support Boosts Post-Stroke Prevention",
+      "excerpt": "Opens in a new tab or window PHOENIX -- An artificial intelligence decision support ... rate of patients being prescribed dual antiplatelet therapy, statins, and anticoagulation for atrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
+      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/108xxx/108665.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-concerns-over-ai-moral-panic-or-mindful-caution.md",
+      "title": "Concerns Over AI: Moral Panic or Mindful Caution?",
+      "excerpt": "With increasingly accessible tools bringing artificial intelligence (AI) platforms to the masses, an inevitable cycle of hype, fear, and misunderstanding of AI stands to outpace bona fide developments in the technologies themselves. For example, with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-deep-learning-for-real-time-molecular-imaging.md",
       "title": "Deep learning for real-time molecular imaging",
       "excerpt": "(Nanowerk News) National University of Singapore (NUS) researchers have demonstrated that deep learning allows them to observe the dynamics of single molecules more precisely and with less data than traditional evaluation methods. They used convolutional ...",
@@ -807,291 +1048,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-elon-musks-brother-kimbal-is-not-as-optimistic-about-teslas-full-self-driving.md",
-      "title": "Elon Musk’s brother Kimbal is not as optimistic about Tesla’s Full Self-Driving",
-      "excerpt": "Elon Musk’s brother Kimbal, who is also a board member at Tesla, is not as optimistic as his brother about Tesla delivering ‘Full Self-Driving’. He says: “maybe 5 years”. Virtually every year for the past five years, Tesla CEO Elon Musk has said that the company will achieve full self-driving capability by the end of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
-      "originalUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Kimbal-Musk-self-driving-Tesla.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-ai-officially-becomes-gemini.md",
-      "title": "Google Bard AI Officially Becomes Gemini",
-      "excerpt": "Exactly a year after Google announced Bard — its first conversational chatbot — the search giant has given it the first major makeover. As part of a new update, the now-famous name \"Google Bard” has been retired in favor of its new name; \"Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "originalUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers.md",
-      "title": "AI cannot be used to deny health care coverage, feds clarify to insurers",
-      "excerpt": "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1985565682-760x380.jpeg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-changes-bards-name-to-gemini-unveils-new-android-app-and-advanced-ai-model.md",
-      "title": "Google changes Bard's name to Gemini: unveils new Android app and advanced AI model",
-      "excerpt": "Google's announcement confirms weeks of rumors that Bard was being renamed. The company unveiled the Gemini AI large language model, a direct competitor to OpenAI's GPT",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101813-google-changes-bard-name-gemini-unveils-new-android.html",
-      "originalUrl": "https://www.techspot.com/news/101813-google-changes-bard-name-gemini-unveils-new-android.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-6.jpg",
-          "width": 1920,
-          "height": 1746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-rebrands-bard-chatbot-as-gemini-rolls-out-paid-subscription.md",
-      "title": "Google rebrands Bard chatbot as Gemini, rolls out paid subscription",
-      "excerpt": "SAN FRANCISCO, Feb 8 (Reuters) - Google (GOOGL.O), opens new tab on Thursday renamed its Bard chatbot after the new artificial intelligence that is powering it, called Gemini, and said consumers can pay for better reasoning capabilities as it vies with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
-      "originalUrl": "https://www.reuters.com/technology/google-rebrands-bard-chatbot-gemini-rolls-out-paid-subscription-2024-02-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one.md",
-      "title": "Google Bard is now Gemini, and Gemini Advanced is bundled with Google One",
-      "excerpt": "After all, Google Gemini is Google’s best answer to ChatGPT, so it’s not a surprise to see Google want to forget all about Bard and Duet AI. These brands are going to be replaced by Google Gemini across the board, including on desktop and mobile devices.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one/",
-      "originalUrl": "https://bgr.com/tech/google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2024/02/google-gemini-2.jpg?quality=82&strip=all",
-          "width": 1600,
-          "height": 995,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

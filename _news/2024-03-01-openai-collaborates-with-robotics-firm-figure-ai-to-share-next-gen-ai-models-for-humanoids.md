@@ -175,6 +175,22 @@ related:
         width: 2221
         height: 1403
         isCached: true
+  - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
+    excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
+    publishedDateTime: 2024-03-05T11:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/articleshow/108238137.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 67
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108238104,width-1280,height-720,resizemode-4/108238104.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Figure 01 humanoid robot developer raises $675M as Bezos, NVIDIA & OpenAI join funding"
     excerpt: "Figure AI is a tech startup looking to create humanoid robots for dangerous and difficult jobs and it just got a massive boost in investment from a latest round of funding. OpenAI, NVIDIA, and even Jeff Bezos, former CEO of Amazon were among the investors ..."
     publishedDateTime: 2024-02-29T13:06:00Z
@@ -338,6 +354,15 @@ related:
       name: The York Dispatch
       domain: yorkdispatch.com
     quality: 34
+  - title: "Can AI help me pack? Tips for using ChatGPT, other chatbots for daily tasks"
+    excerpt: "Many fear AI, but ChatGPT, Bing Chat and other bots can help with tasks ranging from shopping, to planning meals and trips."
+    publishedDateTime: 2024-03-05T09:19:00Z
+    webUrl: "https://www.statesman.com/story/tech/2024/03/05/ai-chatbots-help-plan-daily-tasks/72806995007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 32
   - title: "Daily Digest: Chime dinged for customer service; AI robotics firm rakes in $675M, inks new OpenAI partnership"
     excerpt: "Airwallex, a global payments and financial startup, announced the expansion of its global leadership ... Figure and OpenAI have entered into a collaboration agreement to develop next generation AI models for humanoid robots, combining OpenAI's research ..."
     publishedDateTime: 2024-02-29T17:02:00Z

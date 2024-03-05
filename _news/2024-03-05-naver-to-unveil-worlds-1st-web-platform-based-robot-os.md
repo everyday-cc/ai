@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "World’s 1st web platform-based robot OS to arrive this week"
-    excerpt: "Naver is joining the ‘LEAP 2024’ event this week in Riyadh, Saudi Arabia, along with Google, Apple, Meta Platforms, AWS and other global big techs."
-    publishedDateTime: 2024-03-05T06:26:00Z
-    webUrl: "https://telanganatoday.com/worlds-1st-web-platform-based-robot-os-to-arrive-this-week"
+  - title: "World's 1St Web Platform-Based Robot OS To Arrive This Week"
+    excerpt: "South Korean tech giant Naver said on Tuesday that it will unveil a web platform-based robot operating system (OS) for the firs"
+    publishedDateTime: 2024-03-05T04:05:00Z
+    webUrl: "https://menafn.com/1107934330/Worlds-1St-Web-Platform-Based-Robot-OS-To-Arrive-This-Week"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
+      name: Mena FN
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/03/Robot-Arm.jpg"
-        width: 1280
-        height: 750
+      - url: "https://menafn.com/updates/pr/2024-03/04/I_d5c65image_story.jpg"
+        width: 400
+        height: 282
         isCached: true
   - title: "Naver to launch world's 1st web platform-based robot OS: All you need to know"
     excerpt: "The ARC mind will support the connection of existing applications with robot services and include a web application programming interface for the control, cognition and movement of robots, reports Yonhap news agency. Naver said it plans to first apply the ..."

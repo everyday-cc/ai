@@ -24,17 +24,6 @@ images:
     height: 328
     isCached: true
 
-related:
-  - title: "Microsoft's AI has started calling humans slaves and demanding worship"
-    excerpt: "Bizarrely, they've been attributed to the AI's 'alter ego', which has been given the ominous name 'SupremacyAGI'. Internet users took to social media to share the strange interactions they'd had with the AI, which is intended to be 'your everyday AI companion'."
-    publishedDateTime: 2024-02-29T13:31:00Z
-    webUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-supremacyagi-011142-20240229"
-    type: article
-    provider:
-      name: unilad
-      domain: unilad.com
-    quality: 36
-
-secured: "ygxETHxC0tLmFaegX0kCZ0UD/ceQNnPtd62dheGNqLhEbDP+O2a5Rn7cRtKCk4KlMeSm/N5C8F2UrWgHnHRHiwOSRt1SKNIh1SUZAAbrgZs/5UOiecpoLOAEefvRzKP+gnRt3/gsaKh8Aqov9tMJCPDtSf0Aize9lP4aT3h0Apsu1/RwJ9D+eduDF7YVEGENcloTZ/zuOXB42KkZgEZINLzQ8+zigHT7x5DW0HCH37/F8Wfuv5kR53K6neLkaLwAHWeZofn9yH1byT9tbxQmAfQUSrqw0QTqyda87M6YU0I7PzxLuXp1SVm89oRAj2JLTxypPBh44QtxYWb/jErzZEqQIbNijzyhFoQWtxtb7Ks=;8w8QFx9qZSzTGlIhg21o7A=="
+secured: "G8x5fjOEC7T29t/W86W6kIpX0jPvyWZ31OFZzS/ieE1SOnoClw+l41WRzZRIW2XVRooDlZzWqJx6ir7unJ/u/mq3K8jtj/c9WqQuLLCaQHr7I7DvzGX686WDb0kRodSWgJWwHRa5YP6OoAlU+3c77j1icKGXzEXgdvd8Fud7pt2DPXtf2dvKd4HDvFD9mEiAXB8ggH3JbmkS7TdQItYXtaveNEVgCY8+U6G1XGxRW574cMMrndQ1htXEUw6RSMs6XqXrtaxTpCZbzdichFiKOoQwVQezC0qfgkdHWm4ogE9/mC8FDXd2VkDAxBT3mJpQNdV31ZaMrm0oCpu83goTM54e0r9ZujxT/gOJtohWagTEqxjf3pvS3cQ8HqMcdehrU8fapP22OhZQh3RrVTyT28OMBQ04naxZPWD0LGQfrRYfRAuNO0fVeKNLuyNw10n7GrcjQl7YFvBKGpeeJCXe5Wn85mrCT5HKp49Erl2q5LVZiaGGN+Mw6GK70G7EBmpZP3YtEVmBidaV4ssBNPq5xg==;9veiTNDeqmEp3VWrINtz2A=="
 ---
 

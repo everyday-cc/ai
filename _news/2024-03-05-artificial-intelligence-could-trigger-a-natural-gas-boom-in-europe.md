@@ -1,34 +1,72 @@
 ---
 category: news
-title: "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
-excerpt: "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and"
-publishedDateTime: 2024-03-04T19:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574"
-webUrl: "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574"
+title: "Artificial Intelligence Could Trigger A Natural Gas Boom In Europe"
+excerpt: "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and ot"
+publishedDateTime: 2024-03-05T12:32:00Z
+originalUrl: "https://menafn.com/1107936617/Artificial-Intelligence-Could-Trigger-A-Natural-Gas-Boom-In-Europe"
+webUrl: "https://menafn.com/1107936617/Artificial-Intelligence-Could-Trigger-A-Natural-Gas-Boom-In-Europe"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AWS AI
-  - AI
   - IBM AI
+  - AI
 
 images:
-  - url: "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg"
-    width: 450
-    height: 251
+  - url: "https://menafn.com/updates/pr/2024-03/05/B_8123eimage_story.jpg"
+    width: 1024
+    height: 400
     isCached: true
 
-secured: "CvTTMrokiU/+mlnD0bUrvEXnZVFBprVKhP8zre71HyRrL6JGkPd88roeGbvcbhT1WjqRVisxd5uSoEczEv63yMKRfKFY6PKDnfNOQHPRa26u2WPY0T5ZyjKHI+jnd+6RRZKp/BQtCJ21oO5D/HxxVMb+bfuCFVnsrImm7xGOrFK4aqa1pddqwnr8MhtBkkKjLawKX7ZEq131fKQdDdwUNate7jMnuI4L35zm37G9QWNxxic61fLS7jGRZHMjh0pLTfFQuk8NFgolMJda1ls9SuRnkZWLaBqLhSyHD3rYU8mFyQCESFR4ETF8T5a+zN8Udu26SUiU2o42wdYHlcEd37DBL4jHpZd5NHvITN1k1yof4e4g3k8v5pvVxJhBflXLXpjVpM3xVI4SMsBdqasYKGasUT6aq+8AlWJK6XKdKvjxPVt84EMY0j+cAWmzdpXfjputIzWdVxO6qDSeyTOxRC0OFztEws/AcgDIra8SLbXXafuDfSwStYiqXw9ONPfqzYpdlNkhfQu588C6hz97uw==;V58jRBleYpHoDCCxOSCnDQ=="
+related:
+  - title: "How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
+    excerpt: "Cutting-edge AI technology and Machine Learning is transforming gas exploration in Europe, enabling companies to uncover hidden reserves and reduce drilling risks."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.html"
+    ampWebUrl: "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 61
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-03-04_zv5ykbnbvc.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "How AI could reshape medicine"
+    excerpt: "On a recent international trip, I found myself running late to the airport. Not being fluent in the local language, I used a translation app"
+    publishedDateTime: 2024-03-02T15:20:00Z
+    webUrl: "https://www.omanobserver.om/article/1150414/opinion/how-ai-could-reshape-medicine"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150414"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150414"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 39
+  - title: "How AI Could Reshape Medicine"
+    excerpt: "Not being fluent in the local language, I used a translation app that enabled me to convey the urgency ... With recent studies showing that AI models can now identify early signs of health complications such as sepsis, these technologies are poised to ..."
+    publishedDateTime: 2024-03-03T23:27:00Z
+    webUrl: "https://menafn.com/1107929168/How-AI-Could-Reshape-Medicine"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?776993"
+        width: 444
+        height: 250
+        isCached: true
+
+secured: "wKkHHJX/TiFzeipIyV5wLCHLvzFDyqI9ZPFpIs8qBWan/Dz5qUP6rHv0opzVxtkIikMNwfhQkVdhOsj3CagjbBHMbbs1ajKcTnfnknWaQYdctHpLYTWuA8I2knSMfRgLg+WcINBsWOR967M8kMAYTr+m8AIUbtZS/9knNmTDW5stDuYNmolOTvD/SKH3sKZ13A6Ge99m4PYA3NfTZapEtoqqQBTqhRCyseHhzUw6DnTTfdKfAdVqxZfUZumIw1N0mB6QUpG5/kyU8+/yE1H7SMGMZBdVY8BV23pnYCzb/EinpLITj0sxY6ZdWaxenLwKUJ8DLa961mtbJs7j6up6uV3l4Aj/MU+tysnPMSB21mk=;yMMJwZyc1vxFbD6DWxuZYw=="
 ---
 

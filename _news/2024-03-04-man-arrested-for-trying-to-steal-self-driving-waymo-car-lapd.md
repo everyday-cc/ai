@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arre
 cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://media.nbcsandiego.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Thief Jumps Into Self-Driving Car To Steal It, Realises Its Smarter Than Him"
+    excerpt: "A homeless man was arrested on suspicion of grand theft auto after he tried to steal a Waymo self-driving car in Los Angeles, NBC News reported. The incident happened on Saturday night after the man entered and tried to operate the driverless vehicle that ..."
+    publishedDateTime: 2024-03-05T11:47:00Z
+    webUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875"
+    ampWebUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 41
+    images:
+      - url: "https://c.ndtvimg.com/2024-03/4nf9bvrg_driverless-car_625x300_05_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240117.07"
+        width: 6630
+        height: 5304
         isCached: true
   - title: "'To improve our technology': Waymo, a self-driving car service, doing weather testing in Buffalo"
     excerpt: "Waymo has been conducting weather tests in Buffalo for its self-driving vehicle service. As of now it operates in two cities, but no set date for any future in WNY"

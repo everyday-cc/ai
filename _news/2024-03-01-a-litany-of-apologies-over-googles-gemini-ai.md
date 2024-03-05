@@ -140,20 +140,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Meta To Release Llama 3 in July, Outperforms GPT-4 and Gemini"
-    excerpt: "Meta is planning to release Llama 3 in July, reported The Information, citing sources familiar with the matter."
-    publishedDateTime: 2024-02-29T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/meta-to-release-llama-3-in-july-outperforms-gpt-4-and-gemini/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/meta-llama-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google can’t guarantee its Gemini genAI tool won’t be biased"
     excerpt: "Google's new text-to-image generator displayed glaring biases after only three weeks online. After taking the tool offline last week, the company said it will never be 100% sure the same issues won't resurface."
     publishedDateTime: 2024-02-29T15:00:00Z

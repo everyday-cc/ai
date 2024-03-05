@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/58567-qualcomm-opens-an-ai-library-f
 webUrl: "https://www.fudzilla.com/news/58567-qualcomm-opens-an-ai-library-for-smart-devices"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     height: 465
     isCached: true
 
-related:
-  - title: "Qualcomm At MWC 2024: Spatial Computing, Loads Of AI And 5G/6G Demos"
-    excerpt: "Analyst Anshel Sag reviews the latest 5G, AI, spatial computing and automotive announcements from Qualcomm at Mobile World Congress Barcelona 2024."
-    publishedDateTime: 2024-02-29T12:57:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/29/qualcomm-at-mwc-2024-spatial-computing-loads-of-ai-and-5g6g-demos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-
-secured: "7cXPlurM7NIjT3pPRwdc6PCWWFMbu4OXH3E23fspySHzKJ6GxdpJGRoM241eILrCaFnC5FVyGEwdhWmw5qjNYmJ/BBm2D6spwiMN22JGh4IPbbwmxFPtGCY1kQhMhHAaJxgNDx0kjbQKQxJHKPg/Egv8ypw9RxWB6/STNCfiaQD+XJZDa7r2zk80ek5eyT36G6pXJQL/WtdSbuS0JrRI+JF4sERmLXGGpfwrwW7jqs9NNf1tTJRyc77etZIFRPIiHCVtq4elIqX4skSawqYIsdv8toJ0d5Eos9Fq1CqGH6P6shJaoaCEZ4wT3f5ouuCyOrcJmXeZA/FFxb6ZaneOj5022LxZG8BRnyeUheQ/iSg=;n76/CmoYvS15z2Cgv4oyFg=="
+secured: "qw13sP0bs8FEJ66fvSAY6bEklwqrlB89YfeO+wmtf/AKrBOPtjhpBiUhVVuPa3ohLRZClF7lxucJR62YYF7RUEKTYTUlWmGenMPB+2zcA7fIkBmnHVhj1hMDlVzNmNXC1TuqMOr18GWmfVsNBGLRNQim8jFnAzcAssfKlwDFLa5O8G58GGJL0t+Y+q09fX7svLL9vpVvUEhWjXUpWTsY04RYjeUOJJ3NpAynmsk3ZX/x3Pbz0Rfys3H3DtWg0cryjOWlvaBzhpX+HUnyUWVtflXjOFs0RiB3X0wEjDq6o1fgdILZ4eaGi4Elgx717qHrTsutXcWcYZ1AYCkCdCOZWe1pwO6Peuav1bG4Ha8AVyR+AKVajvrLzVbhzSQmZO6GL+uT6sv37I4K7qV7IkZ7vbyUTev68I82ywmFddnKH/4FQmI++nEJwpBAlkSBCbgtYVbxg2zEhdSryQaEo9AQw7CE1OP8aTUS4XuYQhc4eDuZZt8Qctl6+AY5YzWt/bCtaplc1HqikEytKbrJo9ojRQ==;69K7T8vArkY/estQdJWUvw=="
 ---
 

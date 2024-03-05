@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-11-coforge-launches-quasar-responsible-ai-solution.md",
+      "title": "Coforge launches Quasar responsible AI solution",
+      "excerpt": "Coforge introduces Quasar Responsible AI, a comprehensive solution that ensures ethical AI utilization, fairness, transparency, and regulatory compliance. It tackles biases, identifies risks, and provides tools for governance and mitigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/articleshow/105909513.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/articleshow/105909513.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-105909513,imgsize-2962,width-800/105909513.jpg",
+          "width": 800,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/amp_articleshow/105909513.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/amp_articleshow/105909513.cms",
+      "publishedDateTime": "2023-12-11T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-microsoft-afl-cio-reach-deal-on-ai-labor-neutrality.md",
       "title": "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality",
       "excerpt": "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs.",
@@ -1330,58 +1373,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai.md",
-      "title": "Introducing AI in a Minute: A video series on the tech behind generative AI",
-      "excerpt": "See how AI capabilities work and the tech behind generative AI in simple videos on topics like large language models, prompt engineering, and vector search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/",
-      "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2023/12/AI-in-a-minute-hero_FINAL.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

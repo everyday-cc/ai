@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Business Insider
@@ -37,20 +37,6 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "XTransfer Showcases Innovative AI Applications at Web Summit Qatar Enhancing financial inclusion for SMEs"
-    excerpt: "Bill Deng, Founder and CEO of XTransfer, was invited to participate in two panels, delving into topics such as AI innovation applications and trends in FinTech development with industry peers. He also shared XTransfer's leading AI technology in financial ..."
-    publishedDateTime: 2024-02-29T12:12:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/xtransfer-showcases-innovative-ai-applications-at-web-summit-qatar-enhancing-financial-inclusion-for-smes-302075711.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/2351334/Bill_Deng_Founder_CEO_XTransfer__Middle__Source_TradeTech_Forum_2024.jpg?p=facebook"
-        width: 1267
-        height: 663
         isCached: true
 
 secured: "icwufDMF5H0VJEMOIiItAQ3Mkft2ROUK+oF4k8duGp+b7EJ47EMeMweRYDbb0PWXvkss2HqybgYmA9FSrhoIMNCh8vHBWx+vlmCMdffV7y92M1599GvDT0XhU9As/1kmF2uZfYbxsUas9JRhF1uI1j9ijVDouQDEaCw+Ko1+3gKfGmw88CowXv4DtLr7X9YK1Pnp+gOliEB57IrkvR/ydIPKQROBnoIeiBreZra0KQxn170Nte2WVsm0xKuOjzXEa1WhA4JS0337HcfICwYyCpM0L7QjFF6KTRtscgpMurTwBvNOszohHmhz8Om4Sxc+qgWEO7cJKa4PZ1f5OkmnXBRtcsTy+8Y/cAQMiatEXAY=;bLc9M8VLTM8qCHx0j1mmcQ=="

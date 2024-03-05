@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://media.wired.com/photos/65e0e13fef1050f96f06c160/191:100/w_1280,c_limit/security_ai_worm_email_spam.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "The Future Of AI Skill And Talent Development In The Workforce"
+    excerpt: "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?"
+    publishedDateTime: 2024-03-05T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1271
+        height: 847
         isCached: true
   - title: "As AI agents spread, so do the risks, scholars say"
     excerpt: "Also: The safety of OpenAI's GPT-4 gets lost in translation Once the mechanics ... Also: What to know about Mistral AI: The company behind the latest GPT-4 rival \"These MLLM [multi-modal large language model] agents are being integrated into robots or ..."
