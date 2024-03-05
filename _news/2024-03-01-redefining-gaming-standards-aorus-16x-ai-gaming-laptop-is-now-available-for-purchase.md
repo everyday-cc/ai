@@ -34,15 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "How Mistral became French for AI"
-    excerpt: "HuggingFace, founded by three French engineers, has become the AI industry's go-to scoreboard and communal space. What they're saying: Mistral speaks the language of Silicon Valley VCs. Mensch says he offers \"unparalleled value\" to customers and told the Wall Street Journal his ambition is to create \"the most capital-efficient company\" in AI."
-    publishedDateTime: 2024-02-29T09:30:00Z
-    webUrl: "https://www.axios.com/2024/02/29/mistral-french-ai-startup-microsoft"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "J99LXDnzeOWXF4reiW49EtvX1a8YCWniYqyiVfRsVstRjYstjr0LSDr/4RRAsDQtiyaaPum21rwEwGc/hgvDtKYTrzo57KxRL4aFPmUOn9gRe3JV0jiAth1UDvu635dfUwi6Zz8ITbpZnLlUaoSCG/PlsvtcDF4fGMnyz2hstVMsnFS9SAJ78fkOJNhfe9Ha5yRSHbq86qkdY+E0K2dlUniydTfhACVBhKgXu3vrZ8ZA9aiH/ZrBjplJ1XGir1dT6Oy/itbf1B/V2y+ku93TFavjCzx0Klsx+F0Pqt92hY9JgO1dO5JYlL0SDVjqWmouDsu06NLYVfH1VbrsJ/+fS8J4lNv2wMJFRu3CdVevby/6wmZObS+fWiouWvNdOIhUCwiwfxr79PIlgNXnC1J9XJ6OEF72+RQIPxzKSs1LmtkOHAcmHJ2n/Zynx9/kkZSeniPi2qWXYurTRs/HStDMdt1H9nJu0uDupOs14x7s+jkaDZJ/qb4pfT9sLXjnJe/HMaC7ly7ZfxBG7epv1gw1AQ==;ZBk82ktvMmsHKsDXJV7fUQ=="
 ---

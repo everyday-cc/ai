@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/express-mobility-driving-w
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
+    quality: 32
+  - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
+    excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
+    publishedDateTime: 2024-03-04T16:51:00Z
+    webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 32
 
 secured: "hWSSZri71ekv8eq1YewexnHzB1C5BGUImFJVKMg+rdizP+2b/vddDkFiiCEI1SzNakQx2moh5X7JlDkFcqGaWA3I//kTnoCwwjnLR45S21HTiF97YOKmbAaGTX1YJ85ewnAyIOli4VUqVQUhPOddgFaZnvyieNwWQxzakf7nAS0H+5CbTIzVIDx8TrdH9OFNhIwMk4w2jOL2FvB8tYUvspEMUice6v0fa3Lx5uwff8xPD8cAdtareBOudANr2PR9pOg6chQfCz4sYhf8oQwmvJ2/CjZoXBX18FtWbIbc0/LKQRIx2P4jlGDAuXyt8Zwfm3UPXlLZa1RceKfbG8mbV77GCF4H893qAdDnVQP9MRk=;Qyx3gEX92V3uR0+6kjd9pg=="

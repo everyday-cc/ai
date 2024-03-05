@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2024-02-02-how-the-recording-academy-uses-ibm-watsonx-to-enhance-the-fan-experience-at-the-grammys.md",
-      "title": "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®",
-      "excerpt": "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
-      "originalUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/01/GRAMMYs-red-carpet-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T17:00:11Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-02-4-questions-to-consider-when-youre-selecting-an-external-dns-provider.md",
       "title": "4 questions to consider when you’re selecting an external DNS provider",
       "excerpt": "Considering moving to a managed DNS provider? Here are a few things to keep in mind when comparing your options.\nThe post 4 questions to consider when you’re selecting an external DNS provider appeared first on IBM Blog.\n",
@@ -1323,6 +1272,58 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-balancing-ai-do-good-and-avoid-harm.md",
+      "title": "Balancing AI: Do good and avoid harm",
+      "excerpt": "HR leaders need to be innately involved in developing programs to create policies and grow employees’ AI acumen.\nThe post Balancing AI: Do good and avoid harm appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
+      "originalUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/Balancing-AI-Do-good-and-avoid-harm.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

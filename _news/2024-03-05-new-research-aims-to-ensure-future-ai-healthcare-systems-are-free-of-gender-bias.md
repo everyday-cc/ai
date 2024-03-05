@@ -39,6 +39,15 @@ related:
         width: 899
         height: 599
         isCached: true
+  - title: "Top soccer clubs are using an AI-powered app to scout future stars"
+    excerpt: "A London-based technology company is looking to “democratize” talent-identification and scouting in soccer using a mobile app. Free to download and available globally, the aiScout app allows aspiring soccer stars to enter virtual trials for professional clubs by uploading self-recorded footage of themselves completing a series of drills."
+    publishedDateTime: 2024-03-01T12:14:00Z
+    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/03/01/top-soccer-clubs-are-using-an-ai-powered-app-to-scout-future-stars/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 19
 
 secured: "g3DCkHqj1XVenOcQK415ImWXwaR6mPV4RhqOuCHJUFam+XbGB376/tdeETEjUTQzNP5LOphzxZJltXKRO6Huo2uIo/iVDOQ8lBBEoC9oGeRmRRQhjYpQFI2IbgNI3kwH8eSZWTdrv78BSMmIOISJ/vg3KwV1bIzVC1w4vrgk+3nDtHH1bmDiXJuAKOtjcP+C0qYP1R76rIakVXXrrGHBFF8ufX1sWpNbEkzZj4wGVClAmuC7BjB2cKrHSXc+B/M4qH5hF0wBq4JY5GUQDCwXW9VeINOArKcbFzx1jy3cj5kojMwzLlKhQhpa/OEjheNyKw+KFfjeXlGey5n9Bb1TeeG8C3L/3Vup7MrHEF1W738=;RfqTmTC7tZeW8uGUXdSGdA=="
 ---

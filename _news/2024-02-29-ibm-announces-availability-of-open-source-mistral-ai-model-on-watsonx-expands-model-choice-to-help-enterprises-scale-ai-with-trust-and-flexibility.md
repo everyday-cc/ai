@@ -1,26 +1,45 @@
 ---
 category: news
 title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-excerpt: "IBM's enterprise-ready foundation model choices and its watsonx AI and data platform can empower clients to use generative AI to gain new insights and efficiencies, and create new business ..."
-publishedDateTime: 2024-02-29T04:00:00Z
-originalUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
-webUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
+excerpt: "The addition of Mixtral-8x7B expands IBM's open, multi-model strategy to meet clients where they are and give them choice and flexibility to scale enterprise AI solutions across their businesses."
+publishedDateTime: 2024-02-29T13:06:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61547703-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61547703-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-008.htm"
 type: article
+quality: 16
+heat: -1
+published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/IBM_watson_x_social_0.jpg?h=d2743266&itok=yW8xOuzW"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
-secured: "ckWVM0U9o+TLgkgK9UCJs/jTP9xkHbQQPRlYwAcmgYy834WcYYRtjFI8AajAH0Eg3BTx8MvKXal4KjU8KL/lL/PZS8Y1A070acn/fRpGkfwpBdmaaivXcrblzHlYZoUDqmWJThgirK1Rqyxbs+Pp6mRcWIWfi5gsxIuMJawHzdxZHj29TmsN9Ooh+SUJeEbrXbmQKReGN+2CaKUvLXODEnq85/yeeH5lHMYggdBE0ao7SmpN5F582iigbDYhjRGCieQjwPt999n/6QZmp5/X+WrrTsOxrrp8IL2yD/PiuEpC8Z/P8p5LUwtHcJbWAvReVlgDASH9dD3f7uoAewxUDM2zPctokOzzltVZf25t1X4=;f537kNPukhTxlsEf+/k7cw=="
+related:
+  - title: "IBM Introduces Mixtral-8x7B to watsonx, Delivering Rapid, LLM-Based Insights"
+    excerpt: "IBM is announcing that Mixtral-8x7B-the popular, open source large language model (LLM) developed by Mistral AI-is available on the watsonx AI and Data platform. Now offering an enhanced version of Mixtral-8x7B,"
+    publishedDateTime: 2024-03-01T18:49:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Mixtral-8x7B-to-watsonx-Delivering-Rapid-LLM-Based-Insights-162864.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 36
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "we0BuJqocJp1r89Asc0j7o3z4GHFdtoZmrqhBvnXt9Js4wy7qdyFmUon2dHItzrPff1+vp3IdcNMeTdLwu2S8XVoqnD7MLJ60+zadtxx4T8Zh5YLbWMkNOejoChK7eD2sWYTZBmd1PbglWh3qNvVHOdglnts8FmzlqigJfbsFBDtRc7IF0LxBlD2t3NkOcj8gObrNQ30wUfPnxzxjjQN/yjYXqrcz4L2wp5+baI8ghrGu9ZCJpKrFNo3c1M0OURSAyh0D5OFv6epcntKEwd7z7HOownZEyErgklLfAVPtkTS5sN0Yz62XdA6tA6+1qZwlfjUD4qXcRrn/mVYMgZERDclCaaKjOg5+4L5K+PI16E=;TA8HblYuGKBgrArqfdtP9g=="
 ---
 

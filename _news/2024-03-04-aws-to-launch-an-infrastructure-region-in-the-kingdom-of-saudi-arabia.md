@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS to launch Saudi Arabia data centers as part of $5bn investment"
+    excerpt: "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/nbiGh8Hmf4qRxBs6jhftok-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "AWS to invest more than $5.3 billion in Saudi Arabia; launch new infrastructure Region"
     excerpt: "AWS has committed to investing in the Kingdom of Saudi Arabia by upskilling local students, developers, technical and non-technical professionals and future IT leaders. The cloud major will achieve this goal through various initiatives such as AWS Academy, AWS Educate, AWS re/Start, and AWS Skill Builder."
     publishedDateTime: 2024-03-04T17:18:00Z

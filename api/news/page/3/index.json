@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-01-the-rise-of-ai-tutors.md",
+      "title": "The Rise Of AI Tutors",
+      "excerpt": "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/",
+      "publishedDateTime": "2024-03-01T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-soundhound-ai-shares-tumble-19-on-4q-miss.md",
+      "title": "SoundHound AI Shares Tumble 19% on 4Q Miss",
+      "excerpt": "Analysts polled by FactSet expected a per-share loss of 6 cents. Shares of SoundHound AI have shot up since chip giant Nvidia reported an ownership stake in the company. The stake was first reported in a filing in February. The company said with the fourth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "publishedDateTime": "2024-03-01T12:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-ai-in-fintech-marketing-let-the-robots-do-what-they-do-best.md",
       "title": "AI In Fintech Marketing: Let The Robots Do What They Do Best",
       "excerpt": "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ...",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -460,7 +563,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": null,
       "content": "",
@@ -763,7 +866,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1014,7 +1117,7 @@
       "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
       "featuredContent": null,
       "highlight": null,
-      "heat": 386,
+      "heat": 376,
       "tags": null,
       "images": [
         {
@@ -1149,109 +1252,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
-      "title": "What Not To Do With AI In Your Job Search",
-      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1348,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "publishedDateTime": "2024-02-29T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock.md",
-      "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
-      "excerpt": "Amazon Bedrock provides a broad range of models from Amazon and third-party providers, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, embedding, chat, high-level agents with reasoning and orchestration, and more. Knowledge",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/rag-for-drug-discovery-1121x630.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T16:25:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

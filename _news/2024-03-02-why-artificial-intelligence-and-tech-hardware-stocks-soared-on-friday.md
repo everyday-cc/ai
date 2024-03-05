@@ -1,32 +1,23 @@
 ---
 category: news
 title: "Why Artificial Intelligence and Tech Hardware Stocks Soared on Friday"
-excerpt: "A hardware maker's recent performance showed demand for artificial intelligence continues to be heavy and high."
+excerpt: "Artificial intelligence (AI) was at the heart of that outperformance, so AI stocks were -- hardly for the first time in recent months -- a particular target of the bulls. That alone wasn't the ..."
 publishedDateTime: 2024-03-01T23:03:00Z
-originalUrl: "https://www.fool.com/investing/2024/03/01/why-artificial-intelligence-and-tech-hardware-stoc/"
-webUrl: "https://www.fool.com/investing/2024/03/01/why-artificial-intelligence-and-tech-hardware-stoc/"
+originalUrl: "https://www.nasdaq.com/articles/why-artificial-intelligence-and-tech-hardware-stocks-soared-on-friday"
+webUrl: "https://www.nasdaq.com/articles/why-artificial-intelligence-and-tech-hardware-stocks-soared-on-friday"
 type: article
-quality: 67
-heat: 67
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/767700/finger-about-to-press-a-green-dollar-sign-key-on-a-pc-keyboard.jpg"
-    width: 2000
-    height: 1500
-    isCached: true
-
-secured: "qPGVEd6EGZa16W+pIp5jKSBVtvhQvfQ/m9PiXtJi2SssOR6CN4/2c/ef3iPaxxsnne/sz5M5x/8q8ucLdhgh5MijHm3DeG1JndMScmakibq8XUrL5g94zvxts2CHkJvNH5ygU2ZgQXYa5yIjMXj9Lj0kgWInVjc5E9BdsqB6kTKJVjD8xcCGm9EzCqQ8DXfMfcrtlimHBbC8y2NqJqLP3K+YJiZLOWmrNtH39PIRIwiQ/G9xghOh7PViDCDapN/XvPKWzWEcAc/hZOB7GK1tJjMaHGOLsOGxgmKNFMuEZ8Dt04S9xuC5A2DqwV6zPnM/W8YvE/iqxaUkjSuaZerQxhB88501FTspQoMGe4wodft+UsfoMZpAaTYH39L0C0Hyrdr4q2TXtj70GlJNd5e5uNfPHevCiomIFNxWC/LrSSPYNUltWD5jkqajgWYmX/jTgf8x4BafbEJv8I9HKAIYSnbDFjtlubyHtuE01XKDL0MJTYw720Ll8qiZvEMgyDVKyGHqzPZCeA9H2CCZemrJTA==;4bSexd+PY8ax6phSEkf3Wg=="
+secured: "9zju0JwaeAkv8OaiNS2cWV9+iY1o7vPT5znIAO6qHI0EJ9yefQe/ON/AXz/OzcnJ3I4CSRp3V7iYtUfFYcqOrqTiOp9aZ3+IG1U/UCw31rjXE3vBGci1hw+gOmqvNu9/C0ykE4UWU96Xqsy1hEP1Ex2unEUafWyZXQiKrUb/2KPM+9tvVM2jLQvmbdmVcKgQ+HuoH7ct9tXeJZ3UnfnNsUT/WCbDLnIs8Uc7FbcEvNGka8gUdTH538d7PUiIIagfu6Kqe49CVGF4Ond0gsH0djNiRy5ZUpsE677M4D4z+6h6VA9a2ISoL1PD+3jHPTBD6mXDZBi96+xVJul1M30efMqpgeCPpkG0Xt9e9ybuORU=;iv6ymR2qB0ORoOWCJQNwKw=="
 ---
 

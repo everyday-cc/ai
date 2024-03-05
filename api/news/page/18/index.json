@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-20-this-new-ai-assistant-from-adobe-lets-you-chat-with-your-pdfs-at-no-additional-cost.md",
+      "title": "This new AI Assistant from Adobe lets you chat with your PDFs at no additional cost",
+      "excerpt": "Getting started is easy. All Acrobat and Reader users will have to do is open the applications, where they will find the AI Assistant in beta, which they can then use for a range of tasks, including providing answers to recommended or user-generated questions through a chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0551db9716d6cec71a6e47019995b146b120ebd6/2024/02/19/66af0daa-4e89-472c-92ff-221a0f127dba/a249585c-e21d-4694-bd61-6384a61dfe26.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
+      "publishedDateTime": "2024-02-20T06:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-new-mission-to-set-standards-for-use-of-ai.md",
       "title": "New mission to set standards for use of AI",
       "excerpt": "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine.",
@@ -1131,60 +1182,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-google-lengthens-mixes-broadens-ai-with-gemini-toolset.md",
-      "title": "Google Lengthens, Mixes, Broadens AI With Gemini Toolset",
-      "excerpt": "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1484,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
-      "publishedDateTime": "2024-02-19T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics",
-        "Meta AI"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-t
 webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,24 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "AMD to introduce AI-based upscaling, potentially matching DLSS"
-    excerpt: "AMD has confirmed that it's developing a method to play games with AI-based image upscaling. Although further details are scarce, this could potentially bring the company's"
-    publishedDateTime: 2024-03-05T03:25:00Z
-    webUrl: "https://www.techspot.com/news/102126-amd-introduce-ai-based-upscaling-potentially-matching-dlss.html"
+  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
+    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
+    publishedDateTime: 2024-03-05T08:58:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
-  - title: "Top soccer clubs are using an AI-powered app to scout future stars"
-    excerpt: "A London-based technology company is looking to “democratize” talent-identification and scouting in soccer using a mobile app. Free to download and available globally, the aiScout app allows aspiring soccer stars to enter virtual trials for professional clubs by uploading self-recorded footage of themselves completing a series of drills."
-    publishedDateTime: 2024-03-01T12:14:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/03/01/top-soccer-clubs-are-using-an-ai-powered-app-to-scout-future-stars/"
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 397
+        isCached: true
+  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
+    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
+    publishedDateTime: 2024-03-02T19:16:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 19
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 6
 
 secured: "9ZaZ2VXX/WtieFWKZ2r20B96sBvZSZmoNhK716RfvMG1ucAfICJ2Dp+E2kvG55J4HC9Vm4BH/dG+Jok1Cb2jeBc04ppQyzKt4+Ot1vYN1m605UxicSA1XbnEBKAojAu42t1NtH4Etb2PvICa1VHGyWR4WWM7E84TskWuD0zwMAJF5MTCRuJLIGExuU7AM8U3anxQmWxppJPl9DUXFU1dH3MWDfttQ6HYqdX+MH6MmUYF3kKeAY5kbO+68SzQnAVt1CcEXvPAqX0Dh2K2FmdEsPxB3ZLN6Qp0ICcAEdz3yamyvl/hJuHDhe34ZN3HUIUvb3bQevJEJFxSNqtLCoiK2cR8YeiLV1g52G6QqEcCtciy6EI5eMdl5gab6Xv24vBXRCcesycqkACy9z+T1Jyj7BQ8JkaYBlZnmfaMYzX+h+fylMpaC/3bY6UW7adVtgiU+LFKGeBGX1WnSybYDx4Xxl2JpniUIFOZnZiO2GzeVboDT1VIFx2+ggTDS5tEneUGJEkCdcct7e0T8sWSg2fWfQ==;bOBM8uGorKWwADuCyl6QQQ=="
 ---

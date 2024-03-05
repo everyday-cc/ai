@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-
 webUrl: "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/"
 type: article
 quality: 97
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_The_letter_M_pixel_art_set_against_a_backdrop_of_comp_d20af6a7-9ba2-4759-bba8-3c2d7b034c5c-transformed.webp?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "Microsoft Invests in Mistral, Shaking Up the AI Landscape"
-    excerpt: "Microsoft and Mistral AI have partnered to offer the French startup's AI models to the masses via Microsoft's Azure cloud computing platform. While Microsoft has a strong partnership with OpenAI, it's expanding its AI investments by collaborating with ..."
-    publishedDateTime: 2024-02-29T09:23:00Z
-    webUrl: "https://www.dqindia.com/news/microsoft-invests-in-mistral-shaking-up-the-ai-landscape-4129511"
-    ampWebUrl: "https://www.dqindia.com/news/microsoft-invests-in-mistral-shaking-up-the-ai-landscape-4129511"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/microsoft-invests-in-mistral-shaking-up-the-ai-landscape-4129511"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2024/01/Microsoft-Unveils-Copilot-Key-on-Windows-11-A-Leap-Towards-AI-Powered-PCs.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "New Microsoft-Backed Startup Wants to Make AI Work As Intended"
     excerpt: "Big companies like OpenAI and Alphabet Inc.'s Google are increasingly directing workers, money and computing power toward the problem. And Anthropic, an OpenAI competitor, has put it at the heart of its development of Claude, a product it bills as a safer kind of AI chatbot."

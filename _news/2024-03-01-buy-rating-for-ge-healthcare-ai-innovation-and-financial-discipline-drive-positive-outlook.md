@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Bridging the equity gap towards inclusive artificial intelligence in healthcare diagnostics"
-    excerpt: "Rapid advances in artificial intelligence (AI) are paving the way for innovations in how healthcare is delivered. AI technologies have shown remarkable potential in outperforming humans in diagnosing a range of clinical conditions including cancer,"
-    publishedDateTime: 2024-02-29T15:48:00Z
-    webUrl: "https://www.bmj.com/content/384/bmj.q490"
-    type: article
-    provider:
-      name: BMJ
-      domain: bmj.com
-    quality: 44
-    images:
-      - url: "https://www.bmj.com/sites/default/files/highwire/bmj/384/8418.cover-source.jpg"
-        width: 2480
-        height: 3378
         isCached: true
   - title: "XTransfer Showcases Innovative AI Applications at Web Summit Qatar Enhancing financial inclusion for SMEs"
     excerpt: "Bill Deng, Founder and CEO of XTransfer, was invited to participate in two panels, delving into topics such as AI innovation applications and trends in FinTech development with industry peers. He also shared XTransfer's leading AI technology in financial ..."

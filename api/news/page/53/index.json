@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2024-01-24-6-critical-and-urgent-ethics-issues-with-ai.md",
+      "title": "6 Critical – And Urgent – Ethics Issues With AI",
+      "excerpt": "There is no doubt in most people’s minds that AI is one of the most transformative technologies of our time. There is no doubt in mine that it is the most transformative technology ever. The “of our time” position has been borne out already.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b13f5dbfd1c5e8bad17861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
+      "publishedDateTime": "2024-01-24T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-apple-aims-to-run-ai-models-directly-on-iphones-other-devices.md",
       "title": "Apple aims to run AI models directly on iPhones, other devices",
       "excerpt": "Chief executive Tim Cook told analysts last summer that it “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” when it comes to the new technology.",
@@ -1095,49 +1147,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-apples-not-so-self-driving-car-is-delayed-again-report.md",
-      "title": "Apple’s Not-So-Self-Driving Car Is Delayed Again: Report",
-      "excerpt": "Now, the project has been delayed yet again. In 2022, the company felt that it would release a car by 2026 that came equipped with advanced self-driving features. Two years later, that timeline looks to have been overly ambitious, according to sources with ...",
-      "sourceUrl": null,
-      "webUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/",
-      "originalUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://robbreport.com/wp-content/uploads/2024/01/evcharger.jpg?w=681&h=383&crop=1",
-          "width": 681,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/amp/",
-      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/amp/",
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robb Report",
-        "domain": "robbreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

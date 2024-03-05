@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2024-01-25-sk-hynix-vows-to-solidify-leadership-in-high-growth-ai-chip-market.md",
+      "title": "SK hynix vows to solidify leadership in high-growth AI chip market",
+      "excerpt": "a memory chip for the AI market in line with the increasing demand in the AI industry, and DDR5. In the October-December period of 2023, SK hynix recorded an operating profit of 346 billion won ($260 million). This is the first time that the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/b2aa7af8ed11428fa34fb035dad20c46.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
+      "publishedDateTime": "2024-01-25T07:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand.md",
       "title": "Memory Chip Giant SK Hynix Returns To Profit On Strong AI Demand",
       "excerpt": "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence.",
@@ -1090,58 +1133,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-6-critical-and-urgent-ethics-issues-with-ai.md",
-      "title": "6 Critical – And Urgent – Ethics Issues With AI",
-      "excerpt": "There is no doubt in most people’s minds that AI is one of the most transformative technologies of our time. There is no doubt in mine that it is the most transformative technology ever. The “of our time” position has been borne out already.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b13f5dbfd1c5e8bad17861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
-      "publishedDateTime": "2024-01-24T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

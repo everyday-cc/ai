@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-29-meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports.md",
+      "title": "Meta plans launch of new AI language model Llama 3 in July, The Information reports",
+      "excerpt": "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T00:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-dubai-robot-to-detect-e-scooter-cycle-violations.md",
       "title": "Dubai: Robot to detect e-scooter, cycle violations",
       "excerpt": "The robot will monitor the use of bicycles and electric scooters. Powered by artificial intelligence, the robot will identify a range of violations, including failure to adhere to personal safety protocols like wearing helmets; scooters parked in ...",
@@ -1150,58 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
-      "title": "The most popular neural network styles and how they work",
-      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "publishedDateTime": "2024-02-28T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

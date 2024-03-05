@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-02-05-mit-researchers-use-neural-networks-to-design-more-durable-and-flexible-composite-materials.md",
+      "title": "MIT researchers use neural networks to design more durable and flexible composite materials",
+      "excerpt": "Researchers at the Massachusetts Institute of Technology’s Computer Science and Artificial Intelligence Laboratory have created a new, AI-powered system for designing more durable microstructured composite materials for use in vehicle manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
+      "originalUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/7437285_3630964.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-here-are-4-fintech-sectors-that-are-primed-to-soar-in-2024-and-2-that-are-likely-to-see-more-pain.md",
       "title": "Here are 4 fintech sectors that are primed to soar in 2024, and 2 that are likely to see more pain",
       "excerpt": "VCs outline where they're still excited about fintech, including Wall Street AI and payroll, and the areas that they'll likely be avoiding in 2024.",
@@ -1069,49 +1112,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-2-more-artificial-intelligence-ai-growth-stocks-set-to-hurtle-past-apple-into-the-3-trillion-club-according-to-1-wall-street-analyst.md",
-      "title": "2 (More) Artificial Intelligence (AI) Growth Stocks Set to Hurtle Past Apple Into the $3 Trillion Club, According to 1 Wall Street Analyst",
-      "excerpt": "Late in 2022, a sudden leap forward in the ability of artificial intelligence (AI) caught many off guard ... a business-focused AI assistant designed to help its Amazon Web Services (AWS) cloud infrastructure users streamline many of the same mundane ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23821077/2-more-artificial-intelligence-ai-growth-stocks-set-to-hurtle-past-apple-into-the-3-trillion-club-according-to-1-wall-street-analyst/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23821077/2-more-artificial-intelligence-ai-growth-stocks-set-to-hurtle-past-apple-into-the-3-trillion-club-according-to-1-wall-street-analyst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/dc4c5796abb1d9328c145d15ab8e7906/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f763080%252fa-businessperson-standing-near-a-display-with-various-graphs.jpg%26amp%3Bw%3D700",
-          "width": 2302,
-          "height": 1303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-04T03:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

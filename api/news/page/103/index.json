@@ -2,6 +2,50 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-12-06-dhs-seeks-information-for-cisa-analytics-and-machine-learning-project.md",
+      "title": "DHS seeks information for CISA analytics and machine learning project",
+      "excerpt": "The agency’s Office of Mission and Capability Support aims to better understand the “capabilities of businesses that could supply access to” the three commercial cloud providers that support the CAP-M project.",
+      "sourceUrl": null,
+      "webUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
+      "originalUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600",
+          "width": 600,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T22:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
       "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
       "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
@@ -1051,49 +1095,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature.md",
-      "title": "Microsoft and Liverpool Hospital use generative AI to break down large volumes of cardiology-related literature",
-      "excerpt": "Microsoft and Liverpool Hospital, one of the largest tertiary referral and teaching hospitals in Sydney, Australia, have partnered to develop a generative artificial intelligence solution to assist cardiologists working with large volumes of cardiology-related literature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
-      "originalUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4747/Liverpool-hospital-web.jpg",
-          "width": 975,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

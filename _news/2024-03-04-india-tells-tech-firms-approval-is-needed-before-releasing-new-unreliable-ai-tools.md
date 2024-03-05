@@ -49,6 +49,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "What remains unclear about Indian Government’s advisory on AI models"
+    excerpt: "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 doesn’t explicitly include AI models under the definition of an intermediary or a content publisher, as such, would it be fair to interpret the rules to ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.medianama.com/2024/03/223-indian-govt-ai-model-advisory-unclear/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 19
 
 secured: "3z1Ja0Ub1jpr7u1JXcNSroUO5+6oOxTuG5IBhJfV4TAJRaII/bZNadUJb4VipB+6YYAuNH7iQgZ0+OMukEj7Hq9z/KyCEZvkcc4cZfMJhmWvuU7QSQwyp7BlwJ72M95n+Ug5sV6uuH7HBGAVab6LV43SzMLcgenlmmuk5KYE1UVjzJE6e6U7z4Nqjv66Fa/0b66wXkr6KVH6guNT7VNtMPfha7Bl6en94Gkhi3g6sS7cHimMpaeW7oa51UCyoPOeGOKNrxBe+cup1FT6AkIUfF1w5ZMPOMQV86ncc1Av+ABfRRwj5ZhROcyifOIu+IVY2Vo6jgcbdv5rQa+eVZVoXKQYSS/VwUTsKec/jjQpjqTp/syKxBnWCwld1VAtSL60pkEaZRcARwhPCUfkPPOjSTQbgEF+ikTDgCPw7d9f82HXAuTzJk3Gkdkb/6UauALO5FZHI1CwNAAUb1j7id5shaNVd0yN1U3bjgONK4Jz2iw8hAiRoeOhBYyBfpRrMJ/GM+QEtPDwvOH35QlWczzBmA==;tloTyVfTL/DZYT9agcKo3A=="
 ---

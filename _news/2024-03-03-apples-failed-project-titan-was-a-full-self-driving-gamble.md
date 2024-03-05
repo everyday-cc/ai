@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/24/03/03/apples-failed-project-tit
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/03/apples-failed-project-titan-was-a-full-self-driving-gamble/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

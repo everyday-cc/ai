@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-01-11-casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems.md",
-      "title": "Casper Labs to Build a Blockchain-Powered Solution with IBM Consulting to Help Improve Transparency and Auditability for Generative AI Systems",
-      "excerpt": "Casper Labs’ solution is planned to be built on Casper, a tamper-resistant and highly serialized ledger, and leverage IBM watsonx.governance and watsonx.ai to monitor and measure highly ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-10-rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-to-its-board-of-trustees.md",
       "title": "Rensselaer Polytechnic Institute Welcomes IBM’s Dr. Darío Gil to Its Board of Trustees",
       "excerpt": "Rensselaer Polytechnic Institute (RPI) has announced that Dr. Darío Gil, Senior Vice President and Director of IBM Research, has joined the RPI Board of Trustees for a four-year term effective January 1, 2024. He will sit on the Academic Affairs and Research Committee and Administration and Infrastructure Committee.",
@@ -1343,6 +1300,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions.md",
+      "title": "IBM makes $2B+ deal to add more AI, cloud computing solutions",
+      "excerpt": "IBM is investing more than $2 billion in cash to bolster its artificial intelligence and cloud computing lineup by acquiring an integration platform as a service suite from Germany-based Software AG.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/",
+      "originalUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1",
+      "publishedDateTime": "2023-12-18T15:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

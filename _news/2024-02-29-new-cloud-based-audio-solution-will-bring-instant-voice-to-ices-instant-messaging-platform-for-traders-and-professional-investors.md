@@ -39,6 +39,15 @@ related:
         width: 717
         height: 398
         isCached: true
+  - title: "NSF announces $40 million for AI-powered protein design applications"
+    excerpt: "Because what you really want to do is start now designing and engineering proteins to do the things that you want to do.” Tennenhouse added that the software used in protein design is more on the machine learning component of AI — relying more on ..."
+    publishedDateTime: 2024-03-04T19:40:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2024/03/nsf-announces-40-million-ai-powered-protein-design-applications/394661/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 17
 
 secured: "vcVMIDKk44EV4hLQHnyPMaED9qrp4/0VC5Rlzc+cOWT3j6WGMi0rxyFZIxjKsC3D9c3x7Jb24I8HXbbAxxt1Th/pwLpS5BQE+YNIM8VkUmCM5czIvTylaCN2q8jShc9mX1RBnu/HPL0+djHNh1q5cqHPrrfTYT5T17Wsqs95+KVxzrBzWDPmUpo6eU5t/5wkgmab+8QDnACTamZk9B4L6PKN5y2q7VTfzyamFyAiTC2t3iKnu6wCls/x7jY0yx9vRuk99RuuNbWd4vgeg/DzNI4CjSEwhz5ZCyL9vwfaH86i58cbUo4OfhCb+/hZWXVwahc0GW5FokkMEOK+OfKjDRkc4Mh8ZxuUx1xt2tMikSs=;3GqpOtdLt/f1oxFbknIDeA=="
 ---

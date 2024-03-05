@@ -80,6 +80,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 32
+  - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
+    excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
+    publishedDateTime: 2024-03-04T16:51:00Z
+    webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
 
 secured: "zfZswkGeKePvo1H4V8NOSFCHs5dcX2u6pAhRKsoJEXul/x2NClHNrK3p146eCmarEvRPs+XPX8RPMM7mMi6ZwW2/xL02vNa+rKSI99FgjxjBYM51HA55EinelUfNoJPXY49A3r02HVUy/FQ9gbIY7ACYdCYew5ughgKlq+dHCEyFIX8GU7tubfRP4HsqAxTrCCH6uaD33U4X9IQGF3PjVxIrA8gBKAh8viBV5CtNPcZGiqFyGe+f5tpc5rae4zSBm81x6p0+fgR1QkUgSJmh4Rj2fuL87HxbGN2vyUAmqPxgVEBtGZIm3tdYdBy5FPRDR+dAfrgiaAnFuDYl4niuA5jV53otNEUWOg+bxq7GW7ehWl0gsjTi0aV5tSc6qrEReBwV56kBybEC4NvANqP7UmmPOo1s9yX+bI7fslrSvroukkIW46BMfxYMb/MlT9O5jFuT6ECvpdefWW+lPZ9sPnJYECIHHi5L4tJ51JZlEmEiuaOqEFfC7NL9/8qc1IlHiwaT/mgobWWD4MV2oHkhvQ==;17ieHOrY1AvWLv2pY1B0xw=="
 ---

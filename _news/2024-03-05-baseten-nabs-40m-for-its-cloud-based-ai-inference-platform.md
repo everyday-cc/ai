@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "NSF announces $40 million for AI-powered protein design applications"
+    excerpt: "Because what you really want to do is start now designing and engineering proteins to do the things that you want to do.” Tennenhouse added that the software used in protein design is more on the machine learning component of AI — relying more on ..."
+    publishedDateTime: 2024-03-04T19:40:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2024/03/nsf-announces-40-million-ai-powered-protein-design-applications/394661/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 17
   - title: "New Cloud-Based Audio Solution Will Bring Instant Voice to ICE's Instant Messaging Platform for Traders and Professional Investors"
     excerpt: "(NYSE: ICE), a leading global provider of technology and data, and IPC Systems, a leading provider of trading communications solutions, today announced plans to launch ICE Voice, a cloud-based audio solution that will be offered with ICE Chat to provide a seamless communications platform for traders and other market participants."
     publishedDateTime: 2024-02-29T14:33:00Z

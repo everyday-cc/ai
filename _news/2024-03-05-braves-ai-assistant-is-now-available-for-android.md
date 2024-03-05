@@ -37,15 +37,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "How Mistral became French for AI"
-    excerpt: "HuggingFace, founded by three French engineers, has become the AI industry's go-to scoreboard and communal space. What they're saying: Mistral speaks the language of Silicon Valley VCs. Mensch says he offers \"unparalleled value\" to customers and told the Wall Street Journal his ambition is to create \"the most capital-efficient company\" in AI."
-    publishedDateTime: 2024-02-29T09:30:00Z
-    webUrl: "https://www.axios.com/2024/02/29/mistral-french-ai-startup-microsoft"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "x81zo1BnTWL9xtsgGFUBkHcPyWGeNCbhUvTR9mA9eqTTp6GKTWjo6uB6YOmHfJTnzYC08gEINFDAlaw7OerKgbFWG+Z8S3Mn2lIzAS4HSPFi2gDLbRT3xymn5fFnTEkLJ/ybwEONmzNt9p+CdhoBnTnSDN5NP8ZsY3JjyTvbChqYXlp+fTe6Dwg0pKQyjb0MJM0eDD/+dlRe8YghkRlm35bw8QJrffQ77Q3eUdWqvsMZY9Lzeq92TJIzeclAq8wgi0RgnRyN7Z+NJSspi1jzcMQD/x9iotm0WmErR65+P3wOxFKgKF7dduf/Sd4bqbl7N4HTse+oBFXWtQHCipcKRk7JbhRPrwoHkKlJ4b+xmKphR1aWBN6lyO1V0JhBn7YzYlUU01gAqp5Lueur1x575fPx2zvGivLlyQO6PMfqLitSH6vJJCn5WSUsEhQwdFZbK5xoKnzWMGCVT5rjBP3ehjvwIDfgxSLPSu6Sq+1fJRuhj31vvCdHWC3aayUp2DY8V9NEGNVa1z6OM02aKvukPQ==;yadlcevkxUpm3pY97zh5oQ=="
 ---

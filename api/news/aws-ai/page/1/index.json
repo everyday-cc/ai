@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-05-aws-to-launch-saudi-arabia-data-centers-as-part-of-5bn-investment.md",
+      "title": "AWS to launch Saudi Arabia data centers as part of $5bn investment",
+      "excerpt": "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
+      "originalUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nbiGh8Hmf4qRxBs6jhftok-1200-80.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
       "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
       "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
@@ -52,49 +104,6 @@
         "AWS AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region.md",
-      "title": "AWS to invest more than $5.3 billion in Saudi Arabia; launch new infrastructure Region",
-      "excerpt": "AWS has committed to investing in the Kingdom of Saudi Arabia by upskilling local students, developers, technical and non-technical professionals and future IT leaders. The cloud major will achieve this goal through various initiatives such as AWS Academy, AWS Educate, AWS re/Start, and AWS Skill Builder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2019_17_54_20_6413942.jpg?width=1280",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp",
-      "publishedDateTime": "2024-03-04T17:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {

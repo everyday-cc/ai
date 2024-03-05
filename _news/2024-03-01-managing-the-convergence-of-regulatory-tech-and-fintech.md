@@ -48,20 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Fintech at its Finest: Adding Value with Innovation"
-    excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
-    publishedDateTime: 2024-02-29T10:26:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-at-its-finest-adding-value-with-innovation"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
 
 secured: "Dq7dupUB94WBKT9DvzbFYb+sQXHMSx1acgcxv13oMTTOWSC83j5Z5zRxDkMB2e49HBC26FjThHqQB7b397PwIRQ+Gul1TPvY/RqBosH+NuTdQB4fbT7hob7dI/WXSTJbUh1bvw/r/gdAT1mNNuheGBwmdDo5sjsTiheJnwTJ9EJBtQ/Go6eBOcyvtdfqcwPGJ/aoIprOPyXqD/dPhaxF0zlgrVUdOeloaf6GouW8ITvNu/+qNlqb26MP9kjfV1P/Rfh2YpJEDgy+wG64gDV38LtawUlo/euunSTvnaWzal22ucbIpRTwHz4CuA+aSPvVHh2Z9hvpSi8R/2wBPH79/I+QRPgMgDA9r1NxlHEoxCoWqZlc9YRWqTcFjiHn/zJkRJRKpdafRCZy9Z0mo0JfLq8Uay0OoibJ4lb+Q2OWZfzJyazsqjhNcw8t65sD0BDkfJXXgKjdqjTXpvntK9yGggtyiFO275xVGI3c9xbloXr7DswLjj4R51SMg/D8SsJNkvRwXfblnLGL0xITUIVQeA==;i9YeH1tj/fANgQJJeiZKbA=="
 ---

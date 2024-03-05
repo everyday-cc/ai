@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-11-28-jinjun-xiong-talks-to-host-cory-nealon-about-ai-for-social-good.md",
+      "title": "Jinjun Xiong talks to host Cory Nealon about AI for social good",
+      "excerpt": "Speaker 2: This is Jeopardy. The IBM challenge. Cory Nealon: Yes, Big Blue's groundbreaking Watson program achieved a historic milestone in artificial intelligence by besting the game show's greatest champions. Watson's victory signaled a new era of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/news/faculty-experts.host.html/content/shared/university/news/ub-reporter-articles/podcast/Xiong-AI-social-good.detail.html",
+      "originalUrl": "https://www.buffalo.edu/news/faculty-experts.host.html/content/shared/university/news/ub-reporter-articles/podcast/Xiong-AI-social-good.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/etc/designs/ubcms/clientlibs-main/images/ub-social.png.img.512.auto.png/1615975623771.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-tech-mahindra-and-aws-partner-to-amplify-fan-sporting-experience-globally.md",
       "title": "Tech Mahindra and AWS Partner to Amplify Fan Sporting Experience Globally",
       "excerpt": "The platform will also use AWS native services, AWS Elemental MediaLive, AWS Elemental MediaConvert, Amazon Kinesis Data Streams, Amazon Managed Blockchain, and Amazon SageMaker. You want to cultivate an amiable atmosphere at work with your team.",
@@ -1123,49 +1166,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles.md",
-      "title": "The Best AI Tools of 2023: A Review with Bruno Centano from Global Triangles",
-      "excerpt": "AI is everywhere these days, and it’s getting smarter and more powerful every year. But how do you choose the best AI tools for your needs? Whether you’re a developer, a marketer, a designer, or just a curious enthusiast,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
-      "originalUrl": "https://techbullion.com/the-best-ai-tools-of-2023-a-review-with-bruno-centano-from-global-triangles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-27-at-4.46.28-pm-1000x600.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

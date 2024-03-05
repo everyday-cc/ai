@@ -2,6 +2,40 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-12-05-light-controlled-liquid-metal-strips-bring-new-flexibility-to-soft-robotics.md",
+      "title": "Light-controlled liquid metal strips bring new flexibility to soft robotics",
+      "excerpt": "(Nanowerk News) Soft robotics has tantalized researchers with its promise of machines that can squeeze into tight spaces, handle fragile objects, and intuitively interact with humans. Yet realizing this potential has remained an elusive goal due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64186.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-new-deep-learning-challenge-to-estimate-breast-density-from-mammograms.md",
       "title": "New deep learning challenge to estimate breast density from mammograms",
       "excerpt": "A new deep learning challenge has been launched by the UEF Cancer AI research team at the University of eastern Finland, led by senior researcher Hamid Behravan, PhD. The challenge aims to develop an architecture capable of automatically estimating the breast percentage density from mammograms.",
@@ -1050,49 +1084,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
-      "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
-      "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "originalUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-801680832.jpg",
-          "width": 690,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T14:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

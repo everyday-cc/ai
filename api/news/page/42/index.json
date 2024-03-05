@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2024-02-02-probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn.md",
+      "title": "Probabl is a new AI company built around popular library scikit-learn",
+      "excerpt": "Probabl isn’t your average AI startup as this new French company is an Inria spin-off company that revolves around an open-source data science library called scikit-learn — Inria is a well-known French technology research institute. As for scikit-learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/",
+      "originalUrl": "https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1261360140.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/amp/",
+      "publishedDateTime": "2024-02-01T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-marketing-powered-by-ai-how-marketingbiz-changed-the-game-forever.md",
       "title": "Marketing Powered by AI: How Marketing.biz Changed The Game Forever",
       "excerpt": "Marketing.biz, a pioneering force in the digital marketing landscape, has consistently provided exceptional, free marketing resources to",
@@ -1138,49 +1189,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-robots-and-ai-tools-set-to-revolutionise-real-estate.md",
-      "title": "Robots And AI Tools Set To Revolutionise Real Estate",
-      "excerpt": "TRIPLER, the world's leading PropTech company, is going to revolutionise the real estate landscape by introducing robots and Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
-      "originalUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2024-01/31/KT_bd395image_story.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

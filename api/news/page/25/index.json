@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2024-02-14-is-ai-going-to-transform-higher-education-and-how.md",
+      "title": "Is AI Going To Transform Higher Education And How?",
+      "excerpt": "Seizing an educational leadership opportunity, Touro University embarked recently on a pioneering journey to realize AI’s benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-the-text-file-that-runs-the-internet.md",
       "title": "The text file that runs the internet",
       "excerpt": "The robots.txt file governs a give and take; AI feels to many like all take and ... Web crawlers are generally fairly simple. They start on a well-known website, like cnn.com or wikipedia.org ...",
@@ -1080,58 +1123,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
       "publishedDateTime": "2024-02-14T03:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
-      "title": "10 AI Tools For Australian Businesses In 2024",
-      "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
-      "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T03:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

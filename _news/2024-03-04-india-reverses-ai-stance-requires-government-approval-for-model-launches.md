@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/"
 type: article
 quality: 86
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "What remains unclear about Indian Government’s advisory on AI models"
+    excerpt: "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 doesn’t explicitly include AI models under the definition of an intermediary or a content publisher, as such, would it be fair to interpret the rules to ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.medianama.com/2024/03/223-indian-govt-ai-model-advisory-unclear/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 19
   - title: "India tells tech firms approval is needed before releasing new ‘unreliable’ AI tools"
     excerpt: "On Feb. 8, Microsoft partnered with India AI startup Sarvam to bring an Indic-voice large language model (LLM) to its Azure AI infrastructure to reach more users in the Indian subcontinent."
     publishedDateTime: 2024-03-04T00:00:00Z

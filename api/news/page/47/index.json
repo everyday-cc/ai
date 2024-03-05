@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2024-01-30-nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes.md",
+      "title": "Nala Robotics incorporates generative AI into restaurant robot recipes",
+      "excerpt": "Nala Robotics said it is looking at how AI can help robots create recipes with the ingredients at hand, reducing food waste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
+      "originalUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/nala_robotics_inc_cover.jpeg",
+          "width": 770,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T18:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech.md",
       "title": "ACLU and ACLU of NJ File Friend-of-the-Court Brief in Challenge to Wrongful Arrest due to Face Recognition Tech",
       "excerpt": "NEWARK – Today, the American Civil Liberties Union of New Jersey and the ACLU filed an amicus brief in support of Nijeer Parks – who was wrongfully arrested in 2019 following police reliance on a false match by face recognition technology. The ACLU’s ...",
@@ -1169,58 +1212,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-google-update-reveals-ai-will-read-all-your-private-messages.md",
-      "title": "Google Update Reveals AI Will Read All Your Private Messages",
-      "excerpt": "Google has just unveiled a game-changing AI upgrade for Android. But it has a darker side. Google’s AI will read and analyze your private messages, going back forever. So what does this mean for you, how do you maintain privacy, and when does it begin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "publishedDateTime": "2024-01-29T02:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

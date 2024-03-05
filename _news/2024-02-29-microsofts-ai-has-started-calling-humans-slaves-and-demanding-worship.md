@@ -7,7 +7,7 @@ originalUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-suprem
 webUrl: "https://www.unilad.com/technology/news/microsoft-ai-copilot-supremacyagi-011142-20240229"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -20,24 +20,20 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Atlanta wants Microsoft to bring city 15,000 jobs or return land"
-    excerpt: "Atlanta's mayor is pressing Microsoft about the future of a 90-acre site. The tech giant says it's reevaluating its global real estate portfolio post-pandemic."
-    publishedDateTime: 2024-03-01T23:44:00Z
-    webUrl: "https://www.seattletimes.com/business/atlanta-wants-microsoft-to-bring-city-15000-jobs-or-return-land/"
+  - title: "Q&A: Microsoft research head explains how generative AI could help doctors be more human"
+    excerpt: "Generative AI is having a moment. Peter Lee ... The OpenAI services on Microsoft’s Azure cloud provide HIPAA compliance. We’re very proud of that but our cloud is not unique. AWS and Google Cloud provide the same sort of compliance to enterprise ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.statnews.com/2024/03/05/peter-lee-microsoft-generative-ai-physicians-medicine/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
-  - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
-    excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
+      name: STAT
+      domain: statnews.com
+    quality: 45
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Peter_Lee-328x328.jpg"
+        width: 328
+        height: 328
+        isCached: true
 
 secured: "Rvl8rA9i/3s0hE3KKG4q9MARYIv2AIvPlo7O1xoi0oi8xNlBOFBTJail+g/R0SqFfRWLwBxR8lm0N1q56/fWwKaVtzYpPMIOLWXXZW44jxccmrrL1XyiqUu+S0GvasqO55AfqUfY58GVqBhkodqxi8QiZDrHbaYaZ0TbhxC2VmFdps+qDdum2dXCMW0zvYZ+Qo53ZVRTehpUPELSadg3wHfrkcrT0hfyip1BzbFSkxFe3zOYAtZ645naJdUeZ2MRyrtOLVwJCUw0S0gGF72djN8WVV1lOOMWHjd+zwMKtCiDCuEP5SsmnyozHXdB73aHsTzn6FB2lhpSJK8k2bfUFCJKu17s9DiVKg+WnarILWoP/O2kTBG7a9mJSds7br6zSWwPbyzb2j7dY1z8J/uUzxZREqs4sKyF/Q/7FuyTINjviB55tciOW+IKk+Anu1OpIg1pb3IpGrF2G1KHxhZEyoalyh20Uo0Fw1uKW4dziVC362XEAQTZ+9IGqacah01x/y/olnYOfJtAyo+3N8KAdg==;qPaaWVSRorQW1CKsk2MUQQ=="
 ---

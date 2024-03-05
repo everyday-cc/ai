@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
+      "title": "10 AI Tools For Australian Businesses In 2024",
+      "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-jumping-onto-artificial-intelligence-bandwagon-heres-how-to-name-your-ai-chatbot.md",
       "title": "Jumping Onto Artificial Intelligence Bandwagon? Here’s How to Name Your AI Chatbot",
       "excerpt": "All these thoughts were presumably reverberating around Google's Mountain View headquarters recently when the company decided it would ditch “Bard,” the name it had given its ChatGPT competitor, and instead bring together all of its AI tools under the name “Gemini.”",
@@ -1111,49 +1163,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-rockies-reliever-daniel-bard-will-have-surgery-to-repair-a-torn-meniscus-in-left-knee.md",
-      "title": "Rockies reliever Daniel Bard will have surgery to repair a torn meniscus in left knee",
-      "excerpt": "DENVER (AP) — The Colorado Rockies said reliever Daniel Bard will have surgery Wednesday to repair a torn meniscus in his left knee. There's no timetable for Bard's return. Rockies pitchers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
-      "originalUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/Pi1kBm9qROM0y7bvm_Gxww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/aol_associated_press_484/b92da6361ba653ffa2fe50cb96656412",
-          "width": 1199,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

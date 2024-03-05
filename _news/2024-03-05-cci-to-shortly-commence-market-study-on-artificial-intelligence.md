@@ -1,28 +1,26 @@
 ---
 category: news
 title: "CCI to shortly commence market study on artificial intelligence"
-excerpt: "Fair trade regulator CCI will shortly initiate a market study on Artificial Intelligence (AI) to gain a thorough understanding of antitrust concerns, the regulator's chief Ravneet Kaur said on Tuesday. AI applications are becoming more common across ..."
-publishedDateTime: 2024-03-05T07:56:00Z
-originalUrl: "https://www.moneycontrol.com/news/technology/cci-to-shortly-commence-market-study-on-artificial-intelligence-12404851.html"
-webUrl: "https://www.moneycontrol.com/news/technology/cci-to-shortly-commence-market-study-on-artificial-intelligence-12404851.html"
-ampWebUrl: "https://www.moneycontrol.com/news/technology/cci-to-shortly-commence-market-study-on-artificial-intelligence-12404851.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/cci-to-shortly-commence-market-study-on-artificial-intelligence-12404851.html/amp"
+excerpt: "New Delhi: Fair trade regulator CCI will shortly initiate a market study on Artificial Intelligence (AI) to gain a thorough understanding of antitrust concerns, the regulator's chief Ravneet Kaur said on Tuesday. AI applications are becoming more common ..."
+publishedDateTime: 2024-03-05T07:21:00Z
+originalUrl: "https://www.deccanherald.com/india/cci-to-shortly-commence-market-study-on-artificial-intelligence-2922582"
+webUrl: "https://www.deccanherald.com/india/cci-to-shortly-commence-market-study-on-artificial-intelligence-2922582"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: Deccan Herald
+  domain: deccanherald.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2024/01/Artificial-Intelligence_AI7_.jpg"
-    width: 1280
-    height: 720
+  - url: "https://images.deccanherald.com/deccanherald%2F2024-03%2Fb691d2e4-0331-42e2-88fe-604076d8e6b9%2FiStock_1464561797.jpg?rect=0%2C58%2C4206%2C2208&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "iXE6J47dhpRd2IC4KiYTJVPU/Lbou1x4tyJNxrmJjnO6kDx6vwMugDFuQ3NtK6q8ELIR7592H3VBPrxAeoTYrBw6Pjh5UESUyA9omIvOXeA6DRiFY7Q5A9dqFia2zzin8qD9s307G022upAzEg1Vw1kOkuatYh0Yelz29YnRaUM8F411D331Byzuh32Gc4zHRZvjHCZepJwVbrwBADAr1V4g/eBIpLqsxPkU5YeauUsRPeyU0tiGIqOfI4hWH/RP8/2S95fjAx6K5dgUUc9hwPQqH7qakKdTQcolSJSxpIsssiGPg8klpiwbZCP/t2x0+onr3QbIfkCkMRbGHWYclTOwTpSFF5InouJlqMZsthg=;7zwBsuYG2VLDG++KUL3Uqg=="
+secured: "EW8Qk9O2PkrKVlcoDH431LAsq7Zvu5S+x6gN51chB4RY1SKj2h0IRlvEy8hWXoJ+rcObRg5cFoUnkyWCaON/SinDNUjbJr5kCTGGKWf3crDM/iu+/s8eOGQjcgQKM4Fg+dEN8zmAPfY2UX2DanrPa6fckswMOhCF6As8NUqdMtm7Ldd2dvFZZPliNTzj5Nfffrrb+NOlzcnMBIIBObuthY7Mb6wPshWHY/yYFI2fJDzbC/ymPJL2n4gdecGB8hRVPyfNQbBFthgdeODcTNoBWaGVZLwwPbhL6LpKQCulzZV+b9+h/fM/g2sl1ZRDe7TlXx7xqc9/pVqBMuMlafle9jmJwjXfgadPewGh7EdIgVs=;DhXlPAdLDg8FaggrhFc9+Q=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2024-01-26-five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai.md",
+      "title": "Five Techniques To Ensure Reliable And Honest Use Of Generative AI",
+      "excerpt": "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/",
+      "publishedDateTime": "2024-01-26T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-how-indigenous-perspectives-can-guide-climate-innovation-for-a-just-transition-ibm-teams-up-with-net-zero-atlantic-in-canada.md",
       "title": "How Indigenous perspectives can guide climate innovation for a just transition: IBM teams up with Net Zero Atlantic in Canada",
       "excerpt": "IBM joined forces with nonprofit Net Zero Atlantic to empower participation in the clean energy transition for Indigenous communities.\nThe post How Indigenous perspectives can guide climate innovation for a just transition: IBM teams up with Net Zero Atlantic in Canada appeared first on IBM Blog.\n",
@@ -1125,49 +1176,6 @@
       "topics": [
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-streann-introduces-tv-30-platform-for-media-entertainment-powered-by-aws.md",
-      "title": "Streann Introduces TV 3.0 platform for Media & Entertainment, Powered by AWS",
-      "excerpt": "Streann's TV 3.0 platform, developed using AWS, introduces a range of innovative features designed to redefine content curation: Facial Recognition Technology: Utilizing sophisticated algorithms, TV 3.0 enhances content security and personalization, designed to provide a safer, more tailored user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T19:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

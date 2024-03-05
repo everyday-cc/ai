@@ -2,6 +2,51 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
+      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
+      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cjr.org",
+        "domain": "cjr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-bioprinting-breakthrough-tech-platform-creates-3d-neural-tissues-in-which-neurons-and-glia-connect.md",
       "title": "Bioprinting breakthrough: Tech platform creates 3D neural tissues in which neurons and glia connect",
       "excerpt": "In a recent study published in Cell Stem Cell, researchers produced three-dimensional (3D) bioprinted human brain tissues, allowing for the creation of functioning neural networks that could ...",
@@ -1074,49 +1119,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-mit-researchers-use-neural-networks-to-design-more-durable-and-flexible-composite-materials.md",
-      "title": "MIT researchers use neural networks to design more durable and flexible composite materials",
-      "excerpt": "Researchers at the Massachusetts Institute of Technology’s Computer Science and Artificial Intelligence Laboratory have created a new, AI-powered system for designing more durable microstructured composite materials for use in vehicle manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
-      "originalUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/7437285_3630964.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

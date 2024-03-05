@@ -48,20 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Fintech at its Finest: Adding Value with Innovation"
-    excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
-    publishedDateTime: 2024-02-29T10:26:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-at-its-finest-adding-value-with-innovation"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
 
 secured: "DiF1Wo+MbXcYz6NlYosfpzaVP1YI+xxoPhoee3UAAR6qfabOYcpyReA/Y4ayloX4Q2V+TdBbdNggcLkD4e8FTVLcULt/Oxfb8AFIY07nClXtWjihEHJKsIKDPfrvqdc1nyUSLNcjD3A1AeymMoXe9LUIorwF9NtsAOnhjeUFR8W3uSbceat7IgARYdCwGTySnUL2ERVhqyiyj1TdDNa6cn9hQTcsQyWCZ+7yZLwuYcokkW42pMdYH+pyibfpB68qfkCIRGXJYvNXz6FndRATmEEs2My0vvfFbmfNpGteelChSi8G6zxJ7B3hu9d7vQaHKmeDNYrkOJJsZIR17EhUvNmmqv8D4Kk0ieQgARvgrqIRUCBsAWkJR6ydN2MkyGec9QgN4D94P1t2DM66I4RsB+Ak2tjewsJRcaZJcfbNfGoaBdJLNNPR4hE7gH3BEMCsSdQmW0aC9XgD9uqzp5wUheQytUKsuXHIm9i3bcbKY1BRebVc/8xAuscO1VTEyJZ8rtS8mHzzYVQcHrUPu0ToGQ==;0ScGZ+TxcFEZNMc1qT1Qjw=="
 ---

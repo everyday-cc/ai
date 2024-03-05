@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailystar.net/star-health/news/artificial-intellige
 webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
+    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
+    publishedDateTime: 2024-03-05T08:58:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 397
+        isCached: true
+  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
+    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
+    publishedDateTime: 2024-03-04T10:58:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "DchZDFNCqgsQLNFyuCSDaJnBjycQiCwG2SmYa/GdG2GY3KXQYul4snubgDDpNhG8flbisqvCrbxnMcBt/VgNC7nwFY8p2Weq5qChSjs8IbUNjtq95QAWzy/8To3fZKotagAFxwkABhM19O4ll8WHfOMzLHMj214xgFaSosJzezYQ2hLnuV+fTq9kxxxFNqWJIni62P8prOen9aglZ/4Ho6BneWcX4E0zC257XHlPAeLif+oWEgf8kZOEo7/uVFahVhPJe2Y4HPUOcNxwl/rh4bUTzjuQfPBkAZoyPkfa+vcUt1I7lWal1L3xbPhOaJnLSwRzp22KYljS2IfLovX+ibipnc5V1LxeVFL6xv3gX+0=;RXDiqKXxxsz1DCqpxpX4xw=="
 ---

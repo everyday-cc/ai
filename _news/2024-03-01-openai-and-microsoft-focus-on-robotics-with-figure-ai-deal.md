@@ -72,6 +72,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
+    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
+    publishedDateTime: 2024-02-29T23:14:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robotics startup Figure raises $675 million from Microsoft, Nvidia, OpenAI"
     excerpt: "Sunnyvale, California-based Figure also signed a collaboration with OpenAI to develop generative artificial intelligence for its humanoid robots. Other companies involved in this external round includes OpenAI Startup Fund,"
     publishedDateTime: 2024-02-29T18:21:00Z
@@ -85,22 +101,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/8c70e7441196b7a02e364701b80a4efc"
         width: 800
         height: 533
-        isCached: true
-  - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
-    excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
-    publishedDateTime: 2024-02-29T23:14:00Z
-    webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figure/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 83
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
@@ -152,20 +152,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 79
-  - title: "ChatGPT creator OpenAI to put AI into humanoid robots"
-    excerpt: "OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, will allow its AI models to inhabit the physical world for the first time. California-based Figure announced the ..."
-    publishedDateTime: 2024-02-29T09:55:00Z
-    webUrl: "https://www.aol.com/news/chatgpt-creator-openai-put-ai-145545647.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 71
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/4bb9dc3f05fb5ba2907de9a95701f94d"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Humanoid AI-driven robotics startup Figure raises $675M at $2.6B valuation"
     excerpt: "Figure AI Inc., a Sunnyvale, CA-based startup developing humanoid-styled bipedal robots, said today it raised $625 million in Series B funding increasing the company’s valuation to $2.6 billion. The round saw participation from technology investing ..."
     publishedDateTime: 2024-02-29T16:55:00Z

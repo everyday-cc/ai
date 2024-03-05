@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
 type: article
 quality: 108
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Fintech at its Finest: Adding Value with Innovation"
-    excerpt: "In this Roundtable, FinTech Magazine asks Industry Leaders for Their Thoughts on how the Industry’s Leading Technology Platforms are Raising the Bar"
-    publishedDateTime: 2024-02-29T10:26:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-at-its-finest-adding-value-with-innovation"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/7452cf610add2dcde54d536cb86f2ea5:e096529bdab30c8a03c11b9389d7baae/gettyimages-1023848048.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
 
 secured: "b1IYalWbSxJYbjxgwXa15jHjN0gDDR+/kH6Qn7iOAH+sqW0Bx+AL5FfTFG3+3a5POWPnZajt2Gzvrl9yTFwVx8sXS0jZG2DooZQmBdTLfoWGdfryqOL7c+7mSt+g75J5ehCgVU4B2PL55zHaAGIrbseK43e6fSt6sN31nNG/r5Q2wk1073X9mcHEKJRVi9sdy7ZcH6PKK2cnbHcaRKvNKGGKoBWLTRTdJGH1w+BhUHQ7W0k5iOS4POzkN9bkzE2gDxApQLmfsXWqyUtmVFZXc0EMSzT985VBlNO32COdCldCyj/2NjDG8X72LQEUfrpkQIg1Jh44Jdf2zUoF9vEpnS91vJ7wEwDEAPf0dhRo/t0CGKWmNT1/9B84rg6fImP6k8WWb7/+xPq+oM2fYjpc2k/UewZYxr9prKEQefM/YiEmyF1ufi0Foy7pFhlGjfsQl6t2qTM+tn+eW8B3vYlRCPlSAj2YLUZMMhY4HyYOUpfabsKasvmaA1aGXA7BO9QG/oEfoELKCA9adWqpr98Auw==;ARNfQ6dm4QI4+Ptc3Cd7UA=="
 ---

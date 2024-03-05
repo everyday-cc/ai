@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2024-01-23-afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region.md",
+      "title": "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region",
+      "excerpt": "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2",
+          "width": 829,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1",
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-dentsu-mines-amazon-ai-hits-bedrock-sagemaker-too.md",
       "title": "Dentsu Mines Amazon AI, Hits Bedrock (SageMaker, Too)",
       "excerpt": "Bedrock and SageMaker (see explainer videos above and below, respectively) -- for the next generation of AI across Dentsu. While the holding company is continuing its own bespoke AI development efforts, it said it is embracing third-party and open-source ...",
@@ -1089,49 +1132,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-openai-plans-to-set-up-chip-factories-worth-100-billion-report.md",
-      "title": "OpenAI plans to set up chip factories worth $100 billion: Report",
-      "excerpt": "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
-      "originalUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
-      "publishedDateTime": "2024-01-22T12:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

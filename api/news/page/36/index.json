@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2024-02-06-teens-need-protection-from-harmful-content-on-social-media-can-ai-help-bridge-the-gap.md",
+      "title": "Teens need protection from harmful content on social media. Can AI help bridge the gap?",
+      "excerpt": "The CEOs of Meta, X, TikTok, Snap and Discord testified before the Senate Judiciary Committee about protecting teens online. Artificial intelligence might be a tool to block harmful content without invading privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
+      "originalUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cst.brightspotcdn.com/dims4/default/484c593/2147483647/strip/true/crop/1920x1096+0+92/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F88%2F9875a58058bf62b7a61b1fadbe29%2Ffile-20240129-15-6x4k1s.jpg",
+          "width": 1461,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-bidens-ai-plan-to-censor-you-revealed-researchers-say-americans-cant-tell-fact-from-fiction.md",
       "title": "Biden’s AI plan to censor you revealed: Researchers say Americans can’t ‘tell fact from fiction’",
       "excerpt": "The report reveals how the Biden administration is spending millions on artificial intelligence research designed to ... Reddit, and Facebook to limit what people can see and say online in a ...",
@@ -998,51 +1041,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
-      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
-      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cjr.org",
-        "domain": "cjr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

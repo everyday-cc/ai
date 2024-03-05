@@ -2,6 +2,58 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-12-24-microsoft-announces-availability-of-new-vision-search-cognitive-services.md",
+      "title": "Microsoft announces availability of new vision, search Cognitive Services",
+      "excerpt": "Microsoft's Cognitive Services are a set of API's, SDKs, and services that enable developers to leverage AI capabilities to help make their applications intelligent, intuitive, and engaging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-announces-availability-of-new-vision-search-cognitive-services/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-announces-availability-of-new-vision-search-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/",
+      "publishedDateTime": "2023-12-23T19:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-24-the-end-of-originality-is-ai-replacing-real-artists.md",
       "title": "The End Of Originality: Is AI Replacing Real Artists?",
       "excerpt": "It's causing a significant shake-up in the creative industry, pushing artists to rethink their careers and roles in this changing world.",
@@ -1201,58 +1253,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-wheres-the-line-considerations-for-using-ai-voice-cloning.md",
-      "title": "Where's The Line? Considerations For Using AI Voice Cloning",
-      "excerpt": "As we usher in the era of artificial intelligence (AI), a question we keep asking ourselves is, “Where’s the line?” With every new trick our technological counterparts are taught by their programmer masters, we move closer and closer to the point of no return. The problem is that we don’t really know where that point lies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658490fa5fe5f673b940656c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 819,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/",
-      "publishedDateTime": "2023-12-22T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

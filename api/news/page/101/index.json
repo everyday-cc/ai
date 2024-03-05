@@ -2,6 +2,58 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-12-07-supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators.md",
+      "title": "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators",
+      "excerpt": "New 8-GPU Systems Powered by AMD Instinct™ MI300X Accelerators Are Now Available with Breakthrough AI and HPC Performance for Large Scale AI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators-1032879618",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators-1032879618",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2294523/SuperMicro_Servers_with_AMD_MI300_Series_Accelerators.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T20:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-google-introduces-gemini-and-updates-bard-with-gemini-pro.md",
       "title": "Google Introduces Gemini And Updates Bard With Gemini Pro",
       "excerpt": "Discover Gemini, Google’s most advanced AI model, with multimodal understanding, advanced reasoning of complex topics, expert coding skills, and more.",
@@ -1133,50 +1185,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-chatgpt-and-how-neural-networks-learned-to-talk-a-30-year-journey.md",
-      "title": "ChatGPT and how Neural Networks learned to talk a 30 year journey",
-      "excerpt": "Learn about the advances in technology over the last 30 years that have culminated into neural networks being able to talk. ChatGPT AI models",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/how-neural-networks-learned-to-talk/",
-      "originalUrl": "https://www.geeky-gadgets.com/how-neural-networks-learned-to-talk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/ChatGPT-and-how-Neural-Networks-learned-to-talk.jpg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T11:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

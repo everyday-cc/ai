@@ -25,43 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
-    excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
-    publishedDateTime: 2024-03-01T05:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
+  - title: "How generative AI is changing Infosys from within"
+    excerpt: "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ..."
+    publishedDateTime: 2024-03-05T09:43:00Z
+    webUrl: "https://www.forbesindia.com/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-  - title: "Artificial Intelligence in Healthcare: New Avenues for Liability"
-    excerpt: "Artificial Intelligence (AI), specifically generative AI technologies, hold significant promise for improving the healthcare industry by streamlining clinical operations, freeing service providers from mundane tasks, and diagnosing life-threatening diseases."
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2024/Mar/img_229855_mohammedrafeetarafdar.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
+    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
+    publishedDateTime: 2024-03-04T03:30:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
+  - title: "Why AI Struggles with Basic Math (and How That’s Changing)"
+    excerpt: "Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI) demonstrating remarkable capabilities in language generation, translation, and reasoning. Yet, LLMs often stumble over basic math problems, posing a problem for their ..."
     publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
+    webUrl: "https://www.aei.org/technology-and-innovation/why-ai-struggles-with-basic-math-and-how-thats-changing/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "XTransfer Showcases Innovative AI Applications at Web Summit Qatar Enhancing financial inclusion for SMEs"
-    excerpt: "Bill Deng, Founder and CEO of XTransfer, was invited to participate in two panels, delving into topics such as AI innovation applications and trends in FinTech development with industry peers. He also shared XTransfer's leading AI technology in financial ..."
-    publishedDateTime: 2024-02-29T12:12:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/xtransfer-showcases-innovative-ai-applications-at-web-summit-qatar-enhancing-financial-inclusion-for-smes-302075711.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/2351334/Bill_Deng_Founder_CEO_XTransfer__Middle__Source_TradeTech_Forum_2024.jpg?p=facebook"
-        width: 1267
-        height: 663
-        isCached: true
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 36
 
 secured: "hZFN3P3kGufXQosd1BByU+7EvAHNvEOHRLlegew9mzCRlWeUiMSXHKYAkfj1m9E1bQpplgb+kmuqnRSfTz9sD+QzxQHLtUfJT90/hkBtD/cMvlMIolalSoNZAB9cEO9wjjQlj4qkKTU4nzNq6eMkKD9QN+jtVVDTSklmaaNfYMvDAVBwXy+QL2v6lOskGedCry+3+jXVRp27S09JQKgECvutLP3SsbQn/xvkSqwu4XR4EgUIg0Jr645Xr9YB+fhPgHWIjEqaVt+Gl4vens785xvWrBIawigjWVFOzSdxOv9W5uBl19NRQQWuQz97Cm++EpOZbmselMGs+4b1/xVGT30+ygV+Zzz9UlK/4ComxHg=;8pRBMiKTQ8GEqut3yTk9kw=="
 ---

@@ -88,15 +88,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Apple Investors Grow Impatient on Artificial Intelligence"
-    excerpt: "Photo illustration: David Fang Over and over again, Apple Chief Executive Tim Cook has been asked the same question: What is Apple doing about generative artificial intelligence? His answer: Stay tuned. Investors are getting impatient. “Apple really hasn ..."
-    publishedDateTime: 2024-02-29T10:31:00Z
-    webUrl: "https://www.wsj.com/tech/ai/apple-investors-grow-impatient-on-artificial-intelligence-3f934e1e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "The future of artificial intelligence in trucking"
     excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
     publishedDateTime: 2024-03-01T00:00:00Z

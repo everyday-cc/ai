@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
+      "title": "What Not To Do With AI In Your Job Search",
+      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1348,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "publishedDateTime": "2024-02-29T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock.md",
+      "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
+      "excerpt": "Amazon Bedrock provides a broad range of models from Amazon and third-party providers, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, embedding, chat, high-level agents with reasoning and orchestration, and more. Knowledge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/rag-for-drug-discovery-1121x630.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T16:25:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service.md",
       "title": "Unlock personalized experiences powered by AI using Amazon Personalize and Amazon OpenSearch Service",
       "excerpt": "OpenSearch is a scalable, flexible, and extensible open source software suite for search, analytics, security monitoring, and observability applications, licensed under the Apache 2.0 license. Amazon OpenSearch Service is a fully managed service that makes it straightforward to deploy, scale, and operate",
@@ -218,7 +321,7 @@
       "originalUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -321,7 +424,7 @@
       "originalUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1025,49 +1128,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-29-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility.md",
-      "title": "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility",
-      "excerpt": "IBM's enterprise-ready foundation model choices and its watsonx AI and data platform can empower clients to use generative AI to gain new insights and efficiencies, and create new business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help",
-      "originalUrl": "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/IBM_watson_x_social_0.jpg?h=d2743266&itok=yW8xOuzW",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-29-abb-eyes-ai-robotics-integration-to-push-growth-in-various-businesses.md",
       "title": "ABB eyes AI-robotics integration to push growth in various businesses",
       "excerpt": "ABB Ltd will integrate artificial intelligence with robotics across various sectors in China to sustain robust growth, senior executives of the Swiss-Swedish technology and engineering group said, as AI continues to evolve at an unprecedented pace, transforming numerous industries.",
@@ -1158,49 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports.md",
-      "title": "Meta plans launch of new AI language model Llama 3 in July, The Information reports",
-      "excerpt": "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
-      "originalUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T00:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

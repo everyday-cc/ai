@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-sm
 webUrl: "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding Large Language Models (LLMs) Powering AI Chatbots"
-    excerpt: "This is what we call generative AI. The Large Language Model ... they perform well in language understanding tasks such as sentiment analysis, language translation, and dense text summarization. LLMs interact with users in conversational situations ..."
-    publishedDateTime: 2024-02-29T09:28:00Z
-    webUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
-    ampWebUrl: "https://www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/understanding-large-language-models-llms-powering-ai-chatbots-4129597"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/RuopIl34Fzta68477w2k.jpg"
-        width: 1048
-        height: 675
-        isCached: true
   - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
     excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
     publishedDateTime: 2024-03-01T13:45:00Z

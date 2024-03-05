@@ -2,6 +2,40 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services-to-accelerate-database-and-machine-learning-application-development.md",
+      "title": "InterSystems Introduces Two New Cloud-Native Smart Data Services to Accelerate Database and Machine Learning Application Development",
+      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "originalUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T17:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-tensorflow-cloud-is-a-library-to-connect-your-local-environment-to-google-cloud.md",
       "title": "TensorFlow Cloud is a library to connect your local environment to Google Cloud.",
       "excerpt": "import tensorflow_cloud as tfc TF_GPU_IMAGE = \"tensorflow/tensorflow:latest-gpu\" run_parameters = { distribution_strategy='auto', requirements_txt='requirements.txt ...",
@@ -989,40 +1023,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
-      "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
-      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "originalUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

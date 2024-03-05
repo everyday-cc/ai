@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-25-balancing-ai-do-good-and-avoid-harm.md",
-      "title": "Balancing AI: Do good and avoid harm",
-      "excerpt": "HR leaders need to be innately involved in developing programs to create policies and grow employees’ AI acumen.\nThe post Balancing AI: Do good and avoid harm appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
-      "originalUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/Balancing-AI-Do-good-and-avoid-harm.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-25-the-importance-of-diversity-in-ai-isnt-opinion-its-math.md",
       "title": "The importance of diversity in AI isn’t opinion, it’s math",
       "excerpt": "All predictive models, including AI, are more accurate when they incorporate diverse human intelligence and experience.\nThe post The importance of diversity in AI isn&#8217;t opinion, it’s math appeared first on IBM Blog.\n",
@@ -1331,6 +1279,49 @@
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems.md",
+      "title": "Casper Labs to Build a Blockchain-Powered Solution with IBM Consulting to Help Improve Transparency and Auditability for Generative AI Systems",
+      "excerpt": "Casper Labs’ solution is planned to be built on Casper, a tamper-resistant and highly serialized ledger, and leverage IBM watsonx.governance and watsonx.ai to monitor and measure highly ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

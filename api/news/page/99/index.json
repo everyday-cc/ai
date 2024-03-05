@@ -2,6 +2,49 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-12-08-artificial-intelligence-needs-limits-imposed-by-people.md",
+      "title": "Artificial intelligence needs limits imposed by people.",
+      "excerpt": "Days before Sam Altman was fired — and then rehired — as CEO of Open AI, researchers at the company wrote a letter to its board of directors warning that",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/artificial-intelligence-needs-limits-imposed-by-people/article_2fdb2b1f-9ab5-5de2-9db5-8ae2ace959ac.html",
+      "originalUrl": "https://www.stltoday.com/artificial-intelligence-needs-limits-imposed-by-people/article_2fdb2b1f-9ab5-5de2-9db5-8ae2ace959ac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-windows-12-and-the-coming-ai-chip-war.md",
       "title": "Windows 12 and the coming AI chip war",
       "excerpt": "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities.",
@@ -1037,49 +1080,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-ibm-was-early-to-ai-then-lost-its-way-ceo-arvind-krishna-explains-whats-next.md",
-      "title": "IBM was early to AI, then lost its way. CEO Arvind Krishna explains what's next",
-      "excerpt": "IBM is angling hard for an AI comeback story, and CEO Arvind Krishna is counting on a recent pivot to get it there. Since May, the company has reintroduced the Watson brand as part of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/12/07/ibm-ceo-arvind-krishna-cnbc-interview.html",
-      "originalUrl": "https://www.cnbc.com/2023/12/07/ibm-ceo-arvind-krishna-cnbc-interview.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T14:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

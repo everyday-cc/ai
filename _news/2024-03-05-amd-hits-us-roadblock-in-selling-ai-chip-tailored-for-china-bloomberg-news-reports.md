@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMD reportedly hits U.S. regulatory roadblock for China-tailored chip"
+    excerpt: "American semiconductor company Advanced Micro Devices has failed in getting a made-for-China AI chip past U.S. regulators and will need to apply for an export license, Bloomberg reported Tuesday. The report said AMD designed the chip to have lower ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2024/03/107364683-17062129482023-03-06t201939z_284534961_rc2koz9d9g9a_rtrmadp_0_amd-results.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports"
     excerpt: "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,"
     publishedDateTime: 2024-03-05T00:38:00Z
@@ -34,6 +50,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 60
+  - title: "AMD faces US hurdles for its China-focused chip"
+    excerpt: "Meanwhile, in response to chip availability constraints, several Chinese city governments have committed to offering “computing vouchers” to subsidize AI startups grappling with escalating data center costs. Credit: Shutterstock Highlighting the ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.networkworld.com/article/1311572/amd-faces-us-hurdles-for-its-china-focused-chip.html"
+    ampWebUrl: "https://www.networkworld.com/article/1311572/amd-faces-us-hurdles-for-its-china-focused-chip.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1311572/amd-faces-us-hurdles-for-its-china-focused-chip.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2024/03/chip_trade-war_us_china-100944812-orig-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AMD hits US roadblock in selling AI chip tailored for China: Report"
     excerpt: "AMD tried to gain a go-ahead from the U.S. Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet U.S. export restrictions,"
     publishedDateTime: 2024-03-05T02:45:00Z
@@ -47,20 +79,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-108219776,imgsize-42860,width-1200,height=765,overlay-ettelecom/devices/amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "AMD's cut-down AI GPU for China market blocked by US government"
-    excerpt: "AMD has been halted by the US Commerce Department, banning its AI processors from shipping to China, even though it was cut-down AI GPU."
-    publishedDateTime: 2024-03-05T05:32:00Z
-    webUrl: "https://www.tweaktown.com/news/96638/amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96638_204_amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government_full.jpg"
-        width: 1500
-        height: 857
         isCached: true
   - title: "AMD hits US roadblock in selling China-tailored AI chip"
     excerpt: "AMD tried to gain a go-ahead from the US Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet US export restrictions, the report added, citing people familiar with the matter."

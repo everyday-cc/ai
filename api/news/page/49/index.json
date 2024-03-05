@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2024-01-27-browser-alternatives-brave-arc-add-new-ai-integrations.md",
+      "title": "Browser alternatives Brave, Arc, add new AI integrations",
+      "excerpt": "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
+      "originalUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T05:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes.md",
       "title": "Generative AI’s enterprise gamble: IT leaders bet big on tech despite security woes",
       "excerpt": "A new report finds that enterprise IT teams are rapidly increasing budgets and adopting generative AI despite risks, but many lack clear ROI metrics and are willing to implement the technology quickly even if negative consequences could occur.",
@@ -1153,57 +1204,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai.md",
-      "title": "Five Techniques To Ensure Reliable And Honest Use Of Generative AI",
-      "excerpt": "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/",
-      "publishedDateTime": "2024-01-26T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

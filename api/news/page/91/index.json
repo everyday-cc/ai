@@ -2,6 +2,49 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-12-14-the-ethics-of-ai-balancing-innovation-and-responsibility.md",
+      "title": "The Ethics Of AI: Balancing Innovation And Responsibility",
+      "excerpt": "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T13:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar.md",
       "title": "Samsung’s next Galaxy Buds might offer real-time translation using AI – wunderbar!",
       "excerpt": "Somewhat surprisingly, Samsung didn’t unveil an update to its flagship Galaxy Buds this year (or for that matter the hotly anticipated Samsung Galaxy Buds 3 ), with a November 16 leak claiming we'll get the Samsung Galaxy Buds 3 Pro in 2024 instead.",
@@ -1068,57 +1111,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-dropbox-spooks-users-with-new-ai-features-that-send-data-to-openai-when-used.md",
-      "title": "Dropbox spooks users with new AI features that send data to OpenAI when used",
-      "excerpt": "According to the FAQ, the third-party AI toggle in your account settings is turned on by default if \"you or your team\" are participating in the Dropbox AI alpha. Still, multiple Ars Technica staff who had no knowledge of the Dropbox AI alpha found the setting enabled by default when they checked.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/12/dropbox-spooks-users-by-sending-data-to-openai-for-ai-search-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/man_looking_into_box-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T19:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

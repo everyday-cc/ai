@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Roundtables: How does AI work?"
-    excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/04/1088977/roundtables-how-does-ai-work/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Roundtables-Ondemand_1200x628-Register1.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Roundtables: How should we regulate AI?"
     excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
     publishedDateTime: 2024-03-04T00:00:00Z

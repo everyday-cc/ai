@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/openai-robot-artificial-intelligence-figur
 ampWebUrl: "https://www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-robot-artificial-intelligence-figure/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/29/0661fac6-a98a-415d-8130-a2633a669ff6/thumbnail/1200x630/fa588993cc8e2a1e9143f1e96d946c4a/gettyimages-1467639088.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
@@ -151,20 +152,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 79
-  - title: "ChatGPT creator OpenAI to put AI into humanoid robots"
-    excerpt: "OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, will allow its AI models to inhabit the physical world for the first time. California-based Figure announced the ..."
-    publishedDateTime: 2024-02-29T09:55:00Z
-    webUrl: "https://www.aol.com/news/chatgpt-creator-openai-put-ai-145545647.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 71
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/4bb9dc3f05fb5ba2907de9a95701f94d"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Humanoid AI-driven robotics startup Figure raises $675M at $2.6B valuation"
     excerpt: "Figure AI Inc., a Sunnyvale, CA-based startup developing humanoid-styled bipedal robots, said today it raised $625 million in Series B funding increasing the company’s valuation to $2.6 billion. The round saw participation from technology investing ..."
     publishedDateTime: 2024-02-29T16:55:00Z

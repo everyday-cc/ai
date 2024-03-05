@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaki
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Does generative artificial intelligence infringe copyright?"
+    excerpt: "Over the past year artists, authors and comedians have filed lawsuits against the tech companies behind AI tools, including OpenAI, Microsoft and Anthropic. The cases allege that, by using copyrighted material to train their AI models, tech firms have violated creators’ rights. Do those claims have merit?"
+    publishedDateTime: 2024-03-05T10:14:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/does-generative-artificial-intelligence-infringe-copyright-11709633420690.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/does-generative-artificial-intelligence-infringe-copyright/amp-11709633420690.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/does-generative-artificial-intelligence-infringe-copyright/amp-11709633420690.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/03/05/1600x900/g2f24425b61eb575d21bcd9c7cfbbb0a95d87bb0475d383edc94c47b7f0dcd4d6edaaf1869084797a018f0d53835747cde7f672fc88f84762ae5aa9416a3e870c_1280_1709633676198_1709633690681.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Does generative artificial intelligence infringe copyright?"
     excerpt: "Over the past year artists, authors and comedians have filed lawsuits against the tech companies behind AI tools, including OpenAI, Microsoft and Anthropic. The cases allege that, by using copyrighted material to train their AI models, tech firms have violated creators’ rights. Do those claims have merit?"
     publishedDateTime: 2024-03-02T14:21:00Z

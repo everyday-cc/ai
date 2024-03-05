@@ -23,17 +23,6 @@ topics:
   - AI
   - Meta AI
 
-related:
-  - title: "IBM investing in AI training to address technology skills gap"
-    excerpt: "IBM SkillsBuild also includes coursework on AI ethics. All the courses are designed to be interactive Upon course completion, learners earn IBM-branded digital credentials that are recognised by potential employers. Pinto said AI was poised to drive ..."
-    publishedDateTime: 2024-02-29T14:29:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/ibm-investing-in-ai-training-to-address-technology-skills-gap-2024-02-29"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 19
-
 secured: "cewQD8EGkFcJEIbmaOgYt859OKR5LnfBB+Vc8csVhL9I3PqacxigzvDlBgw1zEJEPYkG0EtjEakEIEDC5X0VI3trHDA/zjyiCfeMReKYrnMnPh+g4STl7zY3fcsYM+35C+s6Th4mftz2S8sYI0ZiFtnY1HZ17Q2q28Ei0xb0+55DEqTofghcsL8YvvwN1zS2NwlIQ3mib7pz1Ra52Ku7zS7fGDYSBwtNZL2JqOgDL3x3WN6hQra8ZuxK+W4javRPYaJxdNYRzrAgcV+WPzD/2JFZtItUBj+h4pLBc0hor69q9JWS7fa9HQOZdWf4Ip2XnIxr/SuJTy2CD+CrEAbIn7JdnoS+8lYs15RNAxaFhcg=;A7OqYNpv4o/6ke/PoEcLfA=="
 ---
 

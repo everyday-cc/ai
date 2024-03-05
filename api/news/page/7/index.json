@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-27-how-to-mitigate-the-risks-of-diy-authoritative-dns.md",
+      "title": "How to mitigate the risks of DIY authoritative DNS",
+      "excerpt": "While everyone has their reasons for adopting a DIY system for authoritative DNS, there are some distinct disadvantages to consider. \nThe post How to mitigate the risks of DIY authoritative DNS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-you-can-now-try-galaxy-ai-on-any-android-phone-to-see-just-how-good-it-is.md",
       "title": "You can now try Galaxy AI on any Android phone to see just how good it is",
       "excerpt": "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!",
@@ -1163,49 +1205,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-apple-can-only-resist-ai-transparency-for-so-long.md",
-      "title": "Apple can only resist AI transparency for so long",
-      "excerpt": "The idea that decisions of huge consequential impact could be made by machines on the basis of principles and ethics that are not transparently shared or open to examination cannot stand. The shareholder proposal warns against AI being used to undermine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
-      "originalUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/02/11/apple-keynote-craig-federighi-100941727-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713302/apple-can-only-resist-ai-transparency-for-so-long.amp.html",
-      "publishedDateTime": "2024-02-26T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

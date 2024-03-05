@@ -2,6 +2,48 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
+      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess.md",
       "title": "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess",
       "excerpt": "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ...",
@@ -1140,49 +1182,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-is-ai-going-to-transform-higher-education-and-how.md",
-      "title": "Is AI Going To Transform Higher Education And How?",
-      "excerpt": "Seizing an educational leadership opportunity, Touro University embarked recently on a pioneering journey to realize AI’s benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

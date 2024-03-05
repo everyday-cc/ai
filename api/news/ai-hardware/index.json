@@ -45,36 +45,36 @@
       ]
     },
     {
-      "path": "_news/2024-03-05-amd-hits-us-roadblock-in-selling-specific-ai-chips-for-china-bloomberg-reports.md",
-      "title": "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports",
-      "excerpt": "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,",
+      "path": "_news/2024-03-05-amd-reportedly-hits-us-regulatory-roadblock-for-china-tailored-chip.md",
+      "title": "AMD reportedly hits U.S. regulatory roadblock for China-tailored chip",
+      "excerpt": "American semiconductor company Advanced Micro Devices has failed in getting a made-for-China AI chip past U.S. regulators and will need to apply for an export license, Bloomberg reported Tuesday. The report said AMD designed the chip to have lower ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/",
-      "originalUrl": "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/",
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 124,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2024/03/107364683-17062129482023-03-06t201939z_284534961_rc2koz9d9g9a_rtrmadp_0_amd-results.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:38:00Z",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1",
+      "publishedDateTime": "2024-03-05T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -83,8 +83,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {

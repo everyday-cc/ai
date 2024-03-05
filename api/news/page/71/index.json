@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2024-01-09-california-eyes-using-generative-artificial-intelligence-to-help-solve-traffic-problems.md",
+      "title": "California eyes using generative artificial intelligence to help solve traffic problems",
+      "excerpt": "Southern California drivers are no stranger to sitting in traffic during their commute, and now state officials want to figure out how to use artificial intelligence for possible solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/california-artificial-intelligence-traffic-solutions/14300492/",
+      "originalUrl": "https://abc7.com/california-artificial-intelligence-traffic-solutions/14300492/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/14305847_011024-kabc-tues-3pm-traffic-ai-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/california-artificial-intelligence-traffic-solutions/14300492/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/california-artificial-intelligence-traffic-solutions/14300492/",
+      "publishedDateTime": "2024-01-09T13:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
       "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
       "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
@@ -1034,40 +1077,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-amazon-closes-a-business-designed-to-take-on-kroger-walmart.md",
-      "title": "Amazon closes a business designed to take on Kroger, Walmart",
-      "excerpt": "Amazon scaled back many of its brick-and-mortar ambitions last year. As the company laid off workers, it also gave up on its fashion and \"5 Star\" brick-and-mortar projects. Those cuts came not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/retailers/amazon-closes-another-key-business",
-      "originalUrl": "https://www.thestreet.com/retailers/amazon-closes-another-key-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

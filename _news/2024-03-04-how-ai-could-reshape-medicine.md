@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nobody knows how AI works"
+    excerpt: "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products."
+    publishedDateTime: 2024-03-05T10:32:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/"
+    ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "How AI could reshape medicine"
     excerpt: "On a recent international trip, I found myself running late to the airport. Not being fluent in the local language, I used a translation app"
     publishedDateTime: 2024-03-02T15:20:00Z
@@ -36,29 +52,34 @@ related:
       name: omanobserver
       domain: omanobserver.om
     quality: 39
-  - title: "How AI Could Disrupt Hollywood"
-    excerpt: "New platforms and tools may allow a person to create a feature-length film from their living room. But can they really compete with the studios?"
-    publishedDateTime: 2024-03-04T11:00:00Z
-    webUrl: "https://www.vanityfair.com/news/ai-hollywood-letter-from-la"
+  - title: "Roundtables: How does AI work?"
+    excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/04/1088977/roundtables-how-does-ai-work/"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 37
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 39
     images:
-      - url: "https://media.vanityfair.com/photos/65d507211b447acfb6a2c6a6/16:9/w_1280,c_limit/MarkHarris_LFLAAI&Hollywood.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Roundtables-Ondemand_1200x628-Register1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Artificial intelligence: How AI could be used to recreate old smells"
-    excerpt: "Artificial intelligence is used in lots of different types of research. Last year it was used to find energy efficient homes, digitally unwrap an ancient scroll, and even search for aliens! Now scientists from the Norwegian University of Science and Technology are trying to use it to recreate different scents."
-    publishedDateTime: 2024-03-04T13:54:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/68469258"
+  - title: "How AI Is Affecting Data Center Networks"
+    excerpt: "Following up on the contest between Infiniband and Ethernet technologies, as they jockey for position in present and future data center networks."
+    publishedDateTime: 2024-03-05T03:22:00Z
+    webUrl: "https://www.datacenterfrontier.com/network/article/33038205/how-ai-is-affecting-data-center-networks"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 32
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 39
+    images:
+      - url: "https://img.datacenterfrontier.com/files/base/ebm/datacenterfrontier/image/2024/03/65e6857197e446001e63a8d8-nvidianetworking.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JC8pyo26xd+iK54B+BcDyDNr6PjyUyK+BEFoBkf+NSjlllatujLXf1TZtNLmAL/wMdz+2ckzgLNVKNWCIYA7IYa4B6qsQmw3i3/+vaSCSp1+M9CD1TABJHs0KgKU468EI552zuQ/XPanlD66nBBYTCD7mN1fcRTUoBEbFoNqxzY3A9/ZdNvAY73OLzbhadQMQ13QzinFfHqLkgSNwUEACTDs1a2pUuA+UBmKK2xrTbxetxWB5TkFZ9Tp0+RWvLwXBBUE/6vgOZQYp/uCCwOXibCWRAVH2KGqqcgCOiMRtm//ivAr8onrItjZWX8nzECqBfZ6KYRnQUMLu4251QOtc9mVuCHCEJcH9eTgIMRF1PI=;cOdR19J2FCFm5GUAM25Kqg=="
 ---

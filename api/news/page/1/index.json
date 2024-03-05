@@ -2,6 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-05-nobody-knows-how-ai-works.md",
+      "title": "Nobody knows how AI works",
+      "excerpt": "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
+      "originalUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
+      "publishedDateTime": "2024-03-05T10:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-how-generative-ai-is-changing-infosys-from-within.md",
+      "title": "How generative AI is changing Infosys from within",
+      "excerpt": "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1",
+      "originalUrl": "https://www.forbesindia.com/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2024/Mar/img_229855_mohammedrafeetarafdar.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1",
+      "publishedDateTime": "2024-03-05T09:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-avoiding-the-swinging-pendulum-in-the-great-ai-debate.md",
+      "title": "Avoiding The Swinging Pendulum In The Great AI Debate",
+      "excerpt": "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
+      "publishedDateTime": "2024-03-05T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-check-out-the-worlds-best-consumer-laptop-for-ai-apple-macbook-air.md",
       "title": "Check out 'the world’s best consumer laptop for AI' - Apple MacBook Air",
       "excerpt": "After weeks of anticipation, Apple finally took the wraps off its latest MacBook Air. The iPhone maker introduced two variants - 13-inch and 15-inch, both of which are powered by its latest M3 Apple Silicon chip.",
@@ -77,6 +213,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-is-broadcom-an-artificial-intelligence-ai-stock-to-buy-hand-over-fist-before-its-big-news-on-thursday.md",
+      "title": "Is Broadcom an Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before Its Big News on Thursday?",
+      "excerpt": "Missed Out on Nvidia Stock's Terrific Surge? Buy This Cheap Artificial Intelligence (AI) Stock That Could Jump Another 25% in the Next Year Artificial Intelligence (AI) Could Make Semiconductors a $1 Trillion Market by 2030: Here Are 3 Top Stocks to Buy Now",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/767825/computer-chip-engineer.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T05:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -191,29 +378,81 @@
       ]
     },
     {
-      "path": "_news/2024-03-05-amd-hits-us-roadblock-in-selling-specific-ai-chips-for-china-bloomberg-reports.md",
-      "title": "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports",
-      "excerpt": "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,",
+      "path": "_news/2024-03-05-amd-reportedly-hits-us-regulatory-roadblock-for-china-tailored-chip.md",
+      "title": "AMD reportedly hits U.S. regulatory roadblock for China-tailored chip",
+      "excerpt": "American semiconductor company Advanced Micro Devices has failed in getting a made-for-China AI chip past U.S. regulators and will need to apply for an export license, Bloomberg reported Tuesday. The report said AMD designed the chip to have lower ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/",
-      "originalUrl": "https://www.reuters.com/technology/amd-hits-us-roadblock-selling-specific-ai-chips-china-bloomberg-reports-2024-03-05/",
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 124,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2024/03/107364683-17062129482023-03-06t201939z_284534961_rc2koz9d9g9a_rtrmadp_0_amd-results.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1",
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-aws-to-launch-saudi-arabia-data-centers-as-part-of-5bn-investment.md",
+      "title": "AWS to launch Saudi Arabia data centers as part of $5bn investment",
+      "excerpt": "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
+      "originalUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nbiGh8Hmf4qRxBs6jhftok-1200-80.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:38:00Z",
+      "publishedDateTime": "2024-03-05T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -229,8 +468,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -433,49 +672,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-05-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region.md",
-      "title": "AWS to invest more than $5.3 billion in Saudi Arabia; launch new infrastructure Region",
-      "excerpt": "AWS has committed to investing in the Kingdom of Saudi Arabia by upskilling local students, developers, technical and non-technical professionals and future IT leaders. The cloud major will achieve this goal through various initiatives such as AWS Academy, AWS Educate, AWS re/Start, and AWS Skill Builder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2019_17_54_20_6413942.jpg?width=1280",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp",
-      "publishedDateTime": "2024-03-04T17:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-04-how-to-become-an-ai-enterprise.md",
       "title": "How to become an AI+ enterprise",
       "excerpt": "An AI+ enterprise innovates with AI as the primary focus, understanding that AI is fundamental to the entire business.\nThe post How to become an AI+ enterprise appeared first on IBM Blog.\n",
@@ -527,7 +723,7 @@
       "originalUrl": "https://www.ibm.com/blog/5g-advantages-and-disadvantages-what-business-leaders-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -869,58 +1065,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-04-how-wall-streets-biggest-banks-are-actually-looking-at-using-ai-according-to-patent-filings.md",
-      "title": "How Wall Street's biggest banks are actually looking at using AI, according to patent filings",
-      "excerpt": "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3",
-      "originalUrl": "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T10:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-04-i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down.md",
       "title": "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down",
       "excerpt": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ...",
@@ -929,7 +1073,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1073,154 +1217,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers.md",
-      "title": "South Korean Chip Stocks Climb in Line With Rally in Japanese Peers",
-      "excerpt": "SK Hynix and Hanmi Semiconductor have recently drawn keen attention from investors because both have teamed up to package high bandwidth memory chips for clients to power AI applications, KB Securities analyst Juyoung Park said in a research note.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "originalUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "publishedDateTime": "2024-03-04T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-buy-rating-affirmed-for-powerschool-amid-strong-ai-growth-prospects-in-k-12-education.md",
-      "title": "Buy Rating Affirmed for PowerSchool Amid Strong AI Growth Prospects in K-12 Education",
-      "excerpt": "PowerSchool (PWSC – Research Report), the Technology sector company ... potential in leveraging artificial intelligence within the K-12 educational sector. Thill’s assessment is grounded in the company’s significant market reach, as PowerSchool ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-powerschool-amid-strong-ai-growth-prospects-in-k-12-education-1033127172",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-powerschool-amid-strong-ai-growth-prospects-in-k-12-education-1033127172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T05:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update.md",
-      "title": "Nikkei Stock Average Rises Above 40000 for First Time, Driven by AI Optimism -- 2nd Update",
-      "excerpt": "By Kosaku Narioka Japan's benchmark stock index rose above 40000 for the first time ever, driven by stronger corporate earnings and a surge in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "originalUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "publishedDateTime": "2024-03-04T05:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

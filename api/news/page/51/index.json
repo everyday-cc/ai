@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2024-01-26-streann-introduces-tv-30-platform-for-media-entertainment-powered-by-aws.md",
+      "title": "Streann Introduces TV 3.0 platform for Media & Entertainment, Powered by AWS",
+      "excerpt": "Streann's TV 3.0 platform, developed using AWS, introduces a range of innovative features designed to redefine content curation: Facial Recognition Technology: Utilizing sophisticated algorithms, TV 3.0 enhances content security and personalization, designed to provide a safer, more tailored user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T19:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-kirsty-gilmour-working-with-ai-firm-in-bid-to-end-online-threats.md",
       "title": "Kirsty Gilmour working with AI firm in bid to end online threats",
       "excerpt": "Scotland's Kirsty Gilmour says she is still receiving death threats and abusive messages on social media despite using AI to block out trolls.",
@@ -1140,49 +1183,6 @@
       "provider": {
         "name": "Computerworld",
         "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-sk-hynix-vows-to-solidify-leadership-in-high-growth-ai-chip-market.md",
-      "title": "SK hynix vows to solidify leadership in high-growth AI chip market",
-      "excerpt": "a memory chip for the AI market in line with the increasing demand in the AI industry, and DDR5. In the October-December period of 2023, SK hynix recorded an operating profit of 346 billion won ($260 million). This is the first time that the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/b2aa7af8ed11428fa34fb035dad20c46.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
-      "publishedDateTime": "2024-01-25T07:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
         "images": null,
         "publishers": null,
         "authors": null

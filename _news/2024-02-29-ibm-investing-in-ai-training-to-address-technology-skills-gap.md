@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "HIVE Digital Technologies Tops 2024 TSX Venture 50 in Technology, Leading In Blockchain and AI Infrastructure"
-    excerpt: "This news release constitutes a 'designated news release' for the purposes of the Company's amended and restated prospectus supplement dated"
-    publishedDateTime: 2024-03-01T06:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hive-digital-technologies-tops-2024-tsx-venture-50-in-technology-leading-in-blockchain-and-ai-infrastructure-1033121757"
+  - title: "IBM: A Legacy Technology Company Capitalizing On AI Trends"
+    excerpt: "IBM's AI platform, Watson, has potential for growth in industries such as healthcare, customer service, and financial services. My revenue growth assumptions for IBM are conservative but show potential for steady growth over the next five years."
+    publishedDateTime: 2024-03-01T23:09:00Z
+    webUrl: "https://seekingalpha.com/article/4675403-ibm-a-legacy-technology-company-capitalizing-on-ai-trends"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1373378229/image_1373378229.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
 
 secured: "cK2wKoOBk77Bl5jSJeq9f6bxtbjZTP7pzd8p24sCPSwuAaBdYnO8UCYLGlbPh3ar8+qBw3oGQKxPd4EjHlBxilIcFNzl8UtiYpNEs67XmiPkrIO5qPXMB6zvrfLCG80wJ72xx9n4hv/vv8HquQ/o9L0S44vu9kqZhUIACxPonSsq9lzIRllrxullQ/rty921AWSVXf/93Q6oW5vA8ay1bsea/qbFwBYFLmU3YDIq9lxFTlGWvWsTNH7hMn7Yi1MmHW8tyDyP/lKWt34ObAUVqLYCbjKOxh8YIxy2YA6xujYZ40QX6AG3m0XiSOxkfEOAELurZKKopUobJEBYYrZRRgDhbwmUB7q2W7jRIbW+zl9MSt9pSHQflQeDMeCUSc1HLuibZZXlRCP70IaL1h558aQrloaWAdUKSKF+d5TIDkE4/9gCP62NE+9vh4VGFuMXOXCr8HWu0zoUkhd18auMm7IAPe7nNQWkEY7x9r3pTDb6vr/3fUx47pH9hm9poMUVmON3kyJnp4WAFenp2rpq1w==;ppo4eVePh0Daimqg0vtv6g=="
 ---
