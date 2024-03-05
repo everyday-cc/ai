@@ -107,20 +107,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Teachers learning ways to utilize artificial intelligence"
-    excerpt: "ROCHESTER, Minn. - Artificial intelligence is on the rise and an education forum held by the Southeast Service Cooperative aimed to help teachers navigate how to use AI in a"
-    publishedDateTime: 2024-02-29T01:15:00Z
-    webUrl: "https://www.kimt.com/news/teachers-learning-ways-to-utilize-artificial-intelligence/article_e4ef58c4-d6b0-11ee-b919-e3c02e2bbbef.html"
-    type: article
-    provider:
-      name: KIMT
-      domain: kimt.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/6/3d/63d76dd6-d6b9-11ee-a70f-c7d920fcfc59/65e00559ca8b8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2sEzIw4Bfz+tZaY9KYPqFE586JGtoETgbzrEgBnb73HyQV/WEWrovuYBOgFm6LCsJYd3rfG6spFVzVh+U1/a8Qmd0OELodqrbN3Y4dCUBohYO6ndHGEpRZGaz9cRxyWGnipJ/bN+8uEEHSCKK1E30Eg8DRt+4pgGQ6LzqwzPZxyQzeguYDr8puXDw9LKONQQLRLkBsrAxsFUd7fSrMTSNaqD5ivUqh6hEE3skgMlfddVyLRah1RQ9+oL8EPiZY1/tSTXHebOlL05ukP+cZMsWNegZrJZ/EZdMqzIHCiCQ8gk4wl9BHSxdfcq5U+CDa7P3OoGI4xlxbsyQz9KyhPW/z689PC2acHqDxD4ZVTkk3LBMYsBWb9C3yGLyxG5XA8JDJTG+b1X8CdoNOB4IGmyr7L0VrmPNwZR4MkiN0+mGG3mtVPawsUCwQBoD2Cw5zJRetnqanqTtdUcVH/ZtrWW66dE7G0CMEw7PiV9oZ4d1tAqfP/IzBbKQViAVGUYa8UV7osTmJpS+GDzgGCNLjrbiw==;afnux9V/WagfHXm17z2dBA=="
 ---

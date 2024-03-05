@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 bln"
+    excerpt: "to support the growing adoption of artificial intelligence technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Advt Apple and Amazon, led by its AWS ..."
+    publishedDateTime: 2024-03-05T02:28:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/amazons-aws-to-launch-saudi-arabia-data-centers-invest-over-5-3-bln/108219446"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108219446,imgsize-231444,width-1200,height=765,overlay-ettelecom/internet/amazons-aws-to-launch-saudi-arabia-data-centers-invest-over-5-3-bln.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
     excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
     publishedDateTime: 2024-03-04T13:44:00Z

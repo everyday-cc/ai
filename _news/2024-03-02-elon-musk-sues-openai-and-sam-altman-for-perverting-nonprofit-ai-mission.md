@@ -77,6 +77,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Sam Altman-backed startup to bring AI smart pin to Japan, South Korea"
+    excerpt: "BARCELONA, Spain -- AI device maker Humane is bringing its smart pin to Japan and South Korea as the U.S. startup backed by Microsoft and Sam Altman makes its first overseas push, its co-founders told Nikkei Asia. San Francisco-based Humane's AI Pin was ..."
+    publishedDateTime: 2024-03-05T01:49:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Sam-Altman-backed-startup-to-bring-AI-smart-pin-to-Japan-South-Korea"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F0%2F7%2F0%2F47360704-2-eng-GB%2FIMG_3766.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
 
 secured: "GyihlDE/mMwKpJTTS/OfARdsSD1ZqelTqsx5gnEk4c8aMFVYOjobKkAoklOny1kKt1qPwY5m9RFKXaeaeMhy/nvca95CSBAFRoXeZVGjsbPnjrwHCPH3sGqr/F+pOHNAiXRG7ps9cygCN7Yt6wrbUqGTS2B0zgD3aOmvKnYWm4INHKqx5+Hc75q599whVCg/Ixjo96Q365MF6lcjro/1zyuqMSyYQlH+OLGgcC+s8czJiHcj5gI6gLPX1W7vxrX/Zbj1AGM0d5hHYgCtfO9y44TAA2iEXv2PuHH72QlrI5/9kzWVu+0ArPN5yrIyA22eo3rTrV5iYlHIXfZOUuJf+kaTgRbmCmdjkYjYxtTx4ETvzqCFpSCQI5T3WbJNsKdhymCX3OY2JT9UyCYaNnC/JTgYHM4FuI/62HPfFgCYkzVOpMeGOQZQ24ily5x9DNRB2+YleLbJ8pZsEB5KjP2CtgciuJ9GuW9WZtq8DNipLgyBF8NB0DCn9Q3INkolnfU30kPZkHZQhtF6L2vY+c/MtA==;Us6uRTUcoB3Vxn6KRwpANg=="
 ---

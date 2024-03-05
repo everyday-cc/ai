@@ -25,19 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "ABB eyes AI-robotics integration to push growth in various businesses"
-    excerpt: "ABB Ltd will integrate artificial intelligence with robotics across various sectors in China to sustain robust growth, senior executives of the Swiss-Swedish technology and engineering group said, as AI continues to evolve at an unprecedented pace, transforming numerous industries."
-    publishedDateTime: 2024-02-29T01:33:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202402/29/WS65dfdce5a31082fc043b9b69.html"
+  - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
+    excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
+    publishedDateTime: 2024-03-01T05:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "Artificial Intelligence in Healthcare: New Avenues for Liability"
+    excerpt: "Artificial Intelligence (AI), specifically generative AI technologies, hold significant promise for improving the healthcare industry by streamlining clinical operations, freeing service providers from mundane tasks, and diagnosing life-threatening diseases."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202402/29/65dfdce5a31082fc2b69544d.jpeg"
-        width: 992
-        height: 661
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Bridging the equity gap towards inclusive artificial intelligence in healthcare diagnostics"
+    excerpt: "Rapid advances in artificial intelligence (AI) are paving the way for innovations in how healthcare is delivered. AI technologies have shown remarkable potential in outperforming humans in diagnosing a range of clinical conditions including cancer,"
+    publishedDateTime: 2024-02-29T15:48:00Z
+    webUrl: "https://www.bmj.com/content/384/bmj.q490"
+    type: article
+    provider:
+      name: BMJ
+      domain: bmj.com
+    quality: 44
+    images:
+      - url: "https://www.bmj.com/sites/default/files/highwire/bmj/384/8418.cover-source.jpg"
+        width: 2480
+        height: 3378
         isCached: true
 
 secured: "ij8MnTxgXG49oS8R0KLsvoLcRE9Wuo30hTQv2lGztrH/xaJcags8ovpn+SB0KZ8hSx/P0lp2pNwEq5644zu1v1juv2i+orGQv7zN08E7OJfJS8O4d3zphpwAczM7e+n3VUi/NFXH3wUox5Dxg0BLtcMPeeECYig+bLCBJWKdp91tKKmMI5UJdpj09YvRMhkUCXMvZvoF4JTYoRx4frpwZrBdUtDNk/xpBZA9DEd8n3b98zTs6KCZIe9fmhx1ivAIcVW66jfgnea/BQ1VO1eINDtydz9OWIthcp71ZWPhTpZ26zcV9oKRD/dxNtJY9J8J4/4A5DdlICUImcNHUCVcVgKvkP4o+4CvzliBaT56FV8=;OL2lOWW2z8+u1NLpqG378A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2848697-aws-to-inves
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.intelligentcio.com/me/wp-content/uploads/sites/12/2024/03/Image-Riyadh-KSA.jpg"
         width: 1000
         height: 450
+        isCached: true
+  - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 bln"
+    excerpt: "to support the growing adoption of artificial intelligence technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Advt Apple and Amazon, led by its AWS ..."
+    publishedDateTime: 2024-03-05T02:28:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/amazons-aws-to-launch-saudi-arabia-data-centers-invest-over-5-3-bln/108219446"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108219446,imgsize-231444,width-1200,height=765,overlay-ettelecom/internet/amazons-aws-to-launch-saudi-arabia-data-centers-invest-over-5-3-bln.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "AWS unveils $5.3bn investment to advance Saudi Arabia’s cloud infrastructure"
     excerpt: "AWS said the new region in Saudi Arabia will consist of three availability zones at launch, adding to the existing 105 zones globally."

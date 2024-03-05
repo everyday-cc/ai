@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/"
 type: article
 quality: 82
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Teachers learning ways to utilize artificial intelligence"
-    excerpt: "ROCHESTER, Minn. - Artificial intelligence is on the rise and an education forum held by the Southeast Service Cooperative aimed to help teachers navigate how to use AI in a"
-    publishedDateTime: 2024-02-29T01:15:00Z
-    webUrl: "https://www.kimt.com/news/teachers-learning-ways-to-utilize-artificial-intelligence/article_e4ef58c4-d6b0-11ee-b919-e3c02e2bbbef.html"
-    type: article
-    provider:
-      name: KIMT
-      domain: kimt.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/6/3d/63d76dd6-d6b9-11ee-a70f-c7d920fcfc59/65e00559ca8b8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1GAfW1kfzMNEIPUVbH4TPShlXhL05Hb4Ixk1N7fdbQgQM1lvB0vaoWgUuUKEy0NMpmqrL/qCDIh5bnrfdp5z8G0eTu/KdLo+jb0h3QKkQ51Y/nM7bVG8KdHVaUoCJaMMybwmD0RccIpwF519z44/XCEte7XA/YlOwqWN8Pbhistj5RO7ouOiZM3Xz4BhAfE4sjJOtDFEYolHy1wuxK+i2iZAV22FIgWd+qyAejXuPIzQitaZPY63ZGjBYk/whoR3iu/VNxN0+NH5mr1TAqwhBAzRkTrYctXoE9sMOSCyyKeBQd7afoUXjk0najZXMz5/+8lPp0WWanqRkYQ+n8dlVP7NjO6oVCnrIxG1ub3Fuu3G38YoW9n8JUh85eQ9R8/dGbLaOLXg9fsVJolds/OWRorCD7DAREnISn73kvknm98fvc9eKSl6Yo+sOd4OKM05BO5usMaQ13ry9tX4b8Jk5q83gRDXwwA3GVJMykLrsWRYK3Yo41dsV/nSUKfcq4XDwlN5DvhmTuBCMzAtc+jF7Q==;BYrmy3q8e6+/qbdWxdTY+Q=="
 ---

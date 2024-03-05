@@ -77,6 +77,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Get Ready for OpenAI Sora! 3 AI Stocks to Play the Rise of Text-to-Video"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips OpenAI’s recent unveiling of its text-to-video generative artificial"
+    publishedDateTime: 2024-03-05T02:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/get-ready-for-openai-sora-3-ai-stocks-to-play-the-rise-of-text-to-video-1033130594"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Retail Investors' AI Bet C3.ai's Shares Climb on Strong Results, Forecast"
     excerpt: "Their average rating, according to LSEG data, is \"hold.\" D.A. Davidson has an equivalent rating on C3.ai but raised its target price to $30 from $28. Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%."
     publishedDateTime: 2024-02-29T07:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/gadget-lab-podcast-634/"
 webUrl: "https://www.wired.com/story/gadget-lab-podcast-634/"
 type: article
 quality: 67
-heat: 208
+heat: 207
 published: true
 
 provider:

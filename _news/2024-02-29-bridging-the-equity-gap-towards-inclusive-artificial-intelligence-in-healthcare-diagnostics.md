@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "XTransfer Showcases Innovative AI Applications at Web Summit Qatar Enhancing financial inclusion for SMEs"
+    excerpt: "Bill Deng, Founder and CEO of XTransfer, was invited to participate in two panels, delving into topics such as AI innovation applications and trends in FinTech development with industry peers. He also shared XTransfer's leading AI technology in financial ..."
+    publishedDateTime: 2024-02-29T12:12:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/xtransfer-showcases-innovative-ai-applications-at-web-summit-qatar-enhancing-financial-inclusion-for-smes-302075711.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/2351334/Bill_Deng_Founder_CEO_XTransfer__Middle__Source_TradeTech_Forum_2024.jpg?p=facebook"
+        width: 1267
+        height: 663
+        isCached: true
 
 secured: "hZFN3P3kGufXQosd1BByU+7EvAHNvEOHRLlegew9mzCRlWeUiMSXHKYAkfj1m9E1bQpplgb+kmuqnRSfTz9sD+QzxQHLtUfJT90/hkBtD/cMvlMIolalSoNZAB9cEO9wjjQlj4qkKTU4nzNq6eMkKD9QN+jtVVDTSklmaaNfYMvDAVBwXy+QL2v6lOskGedCry+3+jXVRp27S09JQKgECvutLP3SsbQn/xvkSqwu4XR4EgUIg0Jr645Xr9YB+fhPgHWIjEqaVt+Gl4vens785xvWrBIawigjWVFOzSdxOv9W5uBl19NRQQWuQz97Cm++EpOZbmselMGs+4b1/xVGT30+ygV+Zzz9UlK/4ComxHg=;8pRBMiKTQ8GEqut3yTk9kw=="
 ---

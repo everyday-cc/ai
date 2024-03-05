@@ -109,20 +109,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Teachers learning ways to utilize artificial intelligence"
-    excerpt: "ROCHESTER, Minn. - Artificial intelligence is on the rise and an education forum held by the Southeast Service Cooperative aimed to help teachers navigate how to use AI in a"
-    publishedDateTime: 2024-02-29T01:15:00Z
-    webUrl: "https://www.kimt.com/news/teachers-learning-ways-to-utilize-artificial-intelligence/article_e4ef58c4-d6b0-11ee-b919-e3c02e2bbbef.html"
-    type: article
-    provider:
-      name: KIMT
-      domain: kimt.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/6/3d/63d76dd6-d6b9-11ee-a70f-c7d920fcfc59/65e00559ca8b8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9ZaZ2VXX/WtieFWKZ2r20B96sBvZSZmoNhK716RfvMG1ucAfICJ2Dp+E2kvG55J4HC9Vm4BH/dG+Jok1Cb2jeBc04ppQyzKt4+Ot1vYN1m605UxicSA1XbnEBKAojAu42t1NtH4Etb2PvICa1VHGyWR4WWM7E84TskWuD0zwMAJF5MTCRuJLIGExuU7AM8U3anxQmWxppJPl9DUXFU1dH3MWDfttQ6HYqdX+MH6MmUYF3kKeAY5kbO+68SzQnAVt1CcEXvPAqX0Dh2K2FmdEsPxB3ZLN6Qp0ICcAEdz3yamyvl/hJuHDhe34ZN3HUIUvb3bQevJEJFxSNqtLCoiK2cR8YeiLV1g52G6QqEcCtciy6EI5eMdl5gab6Xv24vBXRCcesycqkACy9z+T1Jyj7BQ8JkaYBlZnmfaMYzX+h+fylMpaC/3bY6UW7adVtgiU+LFKGeBGX1WnSybYDx4Xxl2JpniUIFOZnZiO2GzeVboDT1VIFx2+ggTDS5tEneUGJEkCdcct7e0T8sWSg2fWfQ==;bOBM8uGorKWwADuCyl6QQQ=="
 ---

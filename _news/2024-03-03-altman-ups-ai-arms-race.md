@@ -65,6 +65,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Sam Altman-backed startup to bring AI smart pin to Japan, South Korea"
+    excerpt: "BARCELONA, Spain -- AI device maker Humane is bringing its smart pin to Japan and South Korea as the U.S. startup backed by Microsoft and Sam Altman makes its first overseas push, its co-founders told Nikkei Asia. San Francisco-based Humane's AI Pin was ..."
+    publishedDateTime: 2024-03-05T01:49:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Sam-Altman-backed-startup-to-bring-AI-smart-pin-to-Japan-South-Korea"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F0%2F7%2F0%2F47360704-2-eng-GB%2FIMG_3766.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Elon Musk Sues OpenAI and Sam Altman for ‘Perverting’ Nonprofit AI Mission"
     excerpt: "The Tesla boss alleges that the lab was supposed to be working solely for the “benefit of humanity” instead of profit."
     publishedDateTime: 2024-03-01T17:04:00Z

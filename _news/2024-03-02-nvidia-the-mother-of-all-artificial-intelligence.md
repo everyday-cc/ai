@@ -74,6 +74,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Get Ready for OpenAI Sora! 3 AI Stocks to Play the Rise of Text-to-Video"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips OpenAI’s recent unveiling of its text-to-video generative artificial"
+    publishedDateTime: 2024-03-05T02:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/get-ready-for-openai-sora-3-ai-stocks-to-play-the-rise-of-text-to-video-1033130594"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Apple Investors Grow Impatient on Artificial Intelligence"
     excerpt: "Photo illustration: David Fang Over and over again, Apple Chief Executive Tim Cook has been asked the same question: What is Apple doing about generative artificial intelligence? His answer: Stay tuned. Investors are getting impatient. “Apple really hasn ..."
     publishedDateTime: 2024-02-29T10:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/"
 type: article
 quality: 104
-heat: 184
+heat: 185
 published: true
 
 provider:
