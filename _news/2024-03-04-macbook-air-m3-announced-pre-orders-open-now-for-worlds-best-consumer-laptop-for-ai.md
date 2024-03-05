@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Apple says the new MacBook Air is ‘the world’s best consumer laptop for AI’"
-    excerpt: "In today’s press release, Apple says: With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core Neural Engine, along with accelerators in the CPU and GPU to boost on-device machine ..."
-    publishedDateTime: 2024-03-04T14:01:00Z
-    webUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/?extended-comments=1"
+    excerpt: "Apple’s press release for the new M3 MacBook Air includes a bold claim, calling the machine the “world’s best consumer laptop for AI.” The claim comes ahead of WWDC 2024, during which Apple is expected to announce a slew of new artificial intelligence features across all of its platforms."
+    publishedDateTime: 2024-03-04T14:03:00Z
+    webUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/"
     type: article
     provider:
       name: 9to5Mac

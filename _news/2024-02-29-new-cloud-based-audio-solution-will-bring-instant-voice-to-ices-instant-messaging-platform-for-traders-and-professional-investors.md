@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-new-cloud-based-audio-solution-wil
 webUrl: "https://www.tmcnet.com/usubmit/-new-cloud-based-audio-solution-will-bring-instant-/2024/02/29/9970557.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 627
     isCached: true
+
+related:
+  - title: "Baseten nabs $40M for its cloud-based AI inference platform"
+    excerpt: "Baseten Labs Inc., a startup making it easier for developers to run artificial intelligence models in production, today announced that it has closed a $40 million funding round. IVP and Spark Capital led the investment with participation from several existing backers. According to Forbes, the Series B raise values Baseten at more than $200 million."
+    publishedDateTime: 2024-03-04T23:02:00Z
+    webUrl: "https://siliconangle.com/2024/03/04/baseten-nabs-40m-cloud-based-ai-inference-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Baseten.png"
+        width: 717
+        height: 398
+        isCached: true
 
 secured: "vcVMIDKk44EV4hLQHnyPMaED9qrp4/0VC5Rlzc+cOWT3j6WGMi0rxyFZIxjKsC3D9c3x7Jb24I8HXbbAxxt1Th/pwLpS5BQE+YNIM8VkUmCM5czIvTylaCN2q8jShc9mX1RBnu/HPL0+djHNh1q5cqHPrrfTYT5T17Wsqs95+KVxzrBzWDPmUpo6eU5t/5wkgmab+8QDnACTamZk9B4L6PKN5y2q7VTfzyamFyAiTC2t3iKnu6wCls/x7jY0yx9vRuk99RuuNbWd4vgeg/DzNI4CjSEwhz5ZCyL9vwfaH86i58cbUo4OfhCb+/hZWXVwahc0GW5FokkMEOK+OfKjDRkc4Mh8ZxuUx1xt2tMikSs=;3GqpOtdLt/f1oxFbknIDeA=="
 ---

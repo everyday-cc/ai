@@ -143,29 +143,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google CEO acknowledges bias in Gemini AI, vows swift action"
-    excerpt: "Users express concern while Google takes swift action to address issues with its AI model–Gemini, pledging structural changes."
-    publishedDateTime: 2024-02-28T23:22:00Z
-    webUrl: "https://interestingengineering.com/science/google-ceo-admits-bias-in-ai-tool-and-promises-remedy"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://cms.interestingengineering.com/wp-content/uploads/2024/02/Screenshot-2024-02-28-171031-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Move over Gemini and ChatGPT — Meta is releasing 'more responsive' Llama 3 AI model in July"
-    excerpt: "Meta is launching its next generation artificial intelligence model Llama 3 this July. It will be a fully open source alternative to the dominance of OpenAI’s GPT-4 and Google’s Gemini. First reported by The Information, the new version of the popular ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.tomsguide.com/ai/move-over-gemini-and-chatgpt-meta-is-releasing-more-responsive-llama-3-ai-model-in-july"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 26
   - title: "Meta To Release Llama 3 in July, Outperforms GPT-4 and Gemini"
     excerpt: "Meta is planning to release Llama 3 in July, reported The Information, citing sources familiar with the matter."
     publishedDateTime: 2024-02-29T11:30:00Z

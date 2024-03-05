@@ -28,34 +28,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Klarna news may confirm workers’ worst fears: AI replacement"
-    excerpt: "Klarna claimed that its chatbot’s service is equally as satisfying as human interaction, based on ratings; the fintech company also said that its “AI assistant” has resolved customer issues more quickly and has led to “a 25% drop in repeat ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.hrdive.com/news/klarna-ai-replacing-workers/708971/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 39
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
-  - title: "Replaced by AI? Klarna news may confirm workers’ worst fears"
-    excerpt: "Klarna claimed that its chatbot’s service is equally as satisfying as human interaction, based on ratings; the fintech company also said that its “AI assistant” has resolved customer issues more quickly and has led to “a 25% drop in repeat ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.hrdive.com/news/klarna-ai-replacing-workers/708971/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 39
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
 
 secured: "Fe6lI36yqRVixYKBEnbQuULY3igbeEC4sxdoiIzzkU3eolV3z1Siz8bgcp7dy4yzKNqBRLLi0iHWPrDF6htqv9f3Ng3IjRCxun0TgjbL4jLUZNYRYep7Qm5wRC9GVxKm5tP0ih43b52IDHtBa5YMuH4u/TOsbx+QITdfKPN4W1JqsJGaSJ61mefr0sJ85OSKpreTArVaq2a2T5rbKxXNDjfY8E0ifqn9sltk3PQULrklDa6j4jNCuP0RP2xgl43ZNGeVn7lHt4gX5AVqHg7cRojefBiCMEsjt/myE2AQYPsZeKAceqKOiGj5eOSUisZL7C6Zhe5+UFQqM0eEAeUUDQfcnuWUmWfOMDrjG4nkvy8W9P4npfSDvIhHdVt2L5pjFuRT1LZr4We/pBJOukyj7Ad+X+TorHtYhEPRSLymt4h8uKjlWAKgAlr3PrNYMOFEUjVP+5BSMM96dpauY4WFteMSh7f7SzFZ3vzt7GIhdWpLSEwaoMRyx9XduVIz5/43MDj+FKLKWReW6cHzI8LZdw==;WJ/nh0hQtKGjyyIAYCRuxg=="
 ---

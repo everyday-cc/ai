@@ -90,6 +90,15 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Generative AI in Litigation"
+    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
+    publishedDateTime: 2024-03-01T00:00:00Z
+    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
     excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
     publishedDateTime: 2024-03-01T14:30:00Z
@@ -114,6 +123,6 @@ related:
         height: 630
         isCached: true
 
-secured: "a4V1TcKWq/3IY/OynpDaXs2RgAFesKrBidbGHMnHTneSOKBAruNY1CPvd7xS0LKnV7jcaHsjwP8M3nvX4df9K9dKf2VtNjZCnL2krVXSRFFMzE5vlJlSImSJJqEXSiqQT+6T69NZy3dvUc3KPc0F+Jyw0cTAPjxs7QINUX+ZYIEHm1W86Ljbj8bAFYY84X5sIuLBe23iY7CC/W+wWpkI4ObbKDPhzZUfB+2Qou5Ghgk/nXsurOI0UKVIXbu2cQNvtIR91/5maETBfNSkMkw/D2MeSI+XzkldB40TJuz4Wh9c7/PRHYqDpNM+lF8gKeVutHDev0dLa6YXVEWbnOf0OCkvJlfvU0m3YpKANnwim2g=;3wNWyROTrJSjCqlddxEUAg=="
+secured: "8DQSwH5FW4Lt68abCFJwmTQICofPjoKHnVNWMMM8HCfUfR5D8R10k1ekVKLNHfqM4ohEh/dz36995MVzATO+VUby5NaaE6JmV1MQKcKWgQuihOUnRA7IzdiBUA/tLxHmDbLUGXyzcbLo7JfE6aqkkqY0ZTDUx+2b3HlGk3qVl0kjlI94iYLql4DMtFrk7mBDqSXbcu4wZdI9tRrqdvSITWZFNlU10HH3T898Wgxjgsea2wPpYnORyzbVjz0gbLAHK3kdXXrUh9HMznHvU21FS6edQa8Y52w8NGwbMk576SUXSZ3s4+mq/K5WHH4YK9PiZ4YyjdxNIA4sDe6ci7TX4DLjvTLoLMhrVPgEFQTRc5y+SJBQj2DkbrnpujZTRuTGGT/EpHoyMpC/2xdBx3cR2HoTnnfvYMo1Nfs38cxwZE6cD0M7NtFGMfhUN5O6KxPzy85Ngrp9l47RmQTBsTO7ceoP4TPH9zwePCtX5VlizLhgx8eg5uD4Ls5qdJD9ZVPviMuVR+ApZUs9864zhxcjmA==;5SIPjh2q0OqZl6sBKSqdTg=="
 ---
 

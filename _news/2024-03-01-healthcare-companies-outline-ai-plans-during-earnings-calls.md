@@ -19,24 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning vs AI vs deep learning: The differences explained"
-    excerpt: "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/"
+  - title: "Why more people are turning to artificial intelligence for companionship"
+    excerpt: "Shakespeare may have written that “music be the food of love,” but increasingly these days, the language of this very real emotion may be spoken with artificial intelligence. Haleluya Hadero, who covers technology and internet culture for the ..."
+    publishedDateTime: 2024-03-03T22:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/why-more-people-are-turning-to-artificial-intelligence-for-companionship"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/why-more-people-are-turning-to-artificial-intelligence-for-companionship"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/why-more-people-are-turning-to-artificial-intelligence-for-companionship"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 79
-  - title: "Dell Earnings: AI Growth Still Doesn’t Support Its High-Flying Share Price"
-    excerpt: "The firm has carved out a good position with GPU-powered enterprise servers that should fit into ... Due to the results, fiscal year guidance, an increased dividend, and AI-related momentum, Dell’s stock rose over 15% after hours. Even with our raised ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.morningstar.com/stocks/dell-earnings-ai-growth-still-doesnt-support-its-high-flying-share-price"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 17
+      name: PBS
+      domain: pbs.org
+    quality: 58
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/03/aiCompanion-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "8rY+CxVqfECVI7F1gbJfioG+QhM4MpaRGywe/K9RV/WZVtI/YqXLEZ5v8RY5e+hzBXzL9UQbcsMT/LSzMuHxrI5BapMmFl4PB26j5h9XOagJIwgsDtCCU0aZosPOudRP5CzwBBpKI76tSLbNwqXrvtqhfvYrMSYh3uvkoDkg+9YoO/m+1NcOiviOiivWi1WLn8hL185GKHJU1Qd1sxqD1sU/rKhe67rESNtd7FyNNCL4Bl9L/Xz+oVMWijsPeK2e9FiUwPvCb0lJhoIeQyTJJSU5QaykgB0L5bukTx5LWysG3Ja/hLvowQXBgcnqhnPeH77KEZqdWEx+mAZXL4FYrfpZsg1YGqxUsNwKgKATUB4PG84haXwR96NiXi7mZ69TFFDQdLTZT1bZVCuKhwJ5imSlgSjvbLlf2K0O7PN+IMXpiRilyelPsTUXbMNxnzYEb/RTBQnUppKPM9Vb598vjsoTOSSzi3vmOrTONXUWlzNY6af5u92uRQjgnMUS3nd/g3WIh3Nqmvthv2m4KCOLKQ==;7R710OXnvQyBwJNBbxomag=="
 ---

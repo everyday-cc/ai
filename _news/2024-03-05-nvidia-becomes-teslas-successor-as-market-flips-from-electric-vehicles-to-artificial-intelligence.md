@@ -154,6 +154,20 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 36
+  - title: "AMD teases next-gen AI upscaling technology, could use AI in new FSR to combat NVIDIA DLSS"
+    excerpt: "AMD CTO Mark Papermaster teases that their gaming devices will use AI for upscaling in 2024, and that this year is a 'really huge development year'."
+    publishedDateTime: 2024-03-04T23:04:00Z
+    webUrl: "https://www.tweaktown.com/news/96614/amd-teases-next-gen-ai-upscaling-technology-could-use-in-new-fsr-to-combat-nvidia-dlss/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96614_102_amd-teases-next-gen-ai-upscaling-technology-could-use-in-new-fsr-to-combat-nvidia-dlss_full.jpg"
+        width: 1260
+        height: 709
+        isCached: true
   - title: "The Best Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- No, It's Not Nvidia"
     excerpt: "Analysts at BMO Capital see Alphabet(NASDAQ: GOOGL)(NASDAQ: GOOG) as the company best positioned to benefit from the growing demand for generative artificial intelligence (AI). The firm reasons that Alphabet has a big head start on most peers because its ..."
     publishedDateTime: 2024-03-01T12:54:00Z
@@ -187,6 +201,6 @@ related:
       domain: hothardware.com
     quality: 19
 
-secured: "AC6IIDCMGFTm9lditWCAHmr+2j1eCuq6zY30icpkcrQMrD721NXeoS4PS4ukxY+pYWeGjgiyp1lamS2WFWN7yeMx0wyJMx/XV45bS/8CyoTIUq0qgjSm7d1crXlawqVrGWs0FHrU9toPD1z0oL9e2pVxod0QcIQRrs6ANhds5ZisP+eAICcaJNm+vxq9tHb34h57LDMkodWZFotz43EQceNAsgCJh9/ILlrDwZv7ELglSOkCP4i/D7UOAIyLn4RmzCUI3cLBC0Ikz/+6EsEQox7EigVdKGPZSdR+u0Br6De2Hx86b559PnVckyMzvM79d/+qgfktwvgPWl6o5vxS+QmbEkJLddBcgwvCgJ6KR5U=;IatcqH3ceepdX7aS6RO1VA=="
+secured: "6a8vimzP1ze0mf15ZENWhdJNyp9fN/Mp4f3m45OQlarnLNbqDYB4BgiZ+CXWNpO7nR7JxqcELmtxNVe8bVlRWLHWelAReXuRwPZNpneXzE4A382HOGumbaFoDyn0QbxltklrOhiGEBlUUNLKho4mry0tL3f1vcG53h9URpaj0aCDvv8Paa0+SNE3P7vdfXXWomRcz7FAD7amGqw57EZ+8bfKeuE1Qh6+WQM8/xK70x9DbZ0TevSz09ShsZFI//dCIU3mSm8pkybvtzUov19Y+cb0HEhVa8U/Gdz3v7taeH32Vmqvl+Ca1RKwwm1Q6McYsgQrXSaI9CnDiUgxZ9eaRDPG+RKIDKfbyWRj1OZwCaeqXstrPkGi4ZupkkN/JjauyfbRRzPaNaiKnt2Jx0N4PSygLIb6OX94xVtJ/g6UkAhUZ/B0Ie8K+zrNL9V3PUCVJ+8zRup/p23yyeWKlxim1qDBwi9iKKcKwXhUZm3r2Vu+P+KX0XgdJbn5kjfRxoT8P4OiQEgolfo4i6AjifAKGA==;Y4yTn28LDATer8pVWPj0cw=="
 ---
 

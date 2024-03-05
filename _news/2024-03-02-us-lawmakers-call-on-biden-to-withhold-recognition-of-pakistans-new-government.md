@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Members Of Congress Demand Biden Withhold Recognition of Coalition Claiming Power in Pakistan"
-    excerpt: "Pakistan’s election was so thoroughly corrupted that the U.S. should not recognize the coalition claiming to be able to form a government, according to 31 members of Congress."
-    publishedDateTime: 2024-02-28T23:53:00Z
-    webUrl: "https://theintercept.com/2024/02/28/congress-pakistan-election-recognition/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 28
-    images:
-      - url: "https://theintercept.com/wp-content/uploads/2024/02/AP24053014280911-Tennessee-Legislature-feat.jpg?fit=768%2C384"
-        width: 768
-        height: 384
-        isCached: true
   - title: "Biden urged to withhold Pak govt’s ‘recognition’"
     excerpt: "Citing “strong evidence” of election rigging in Pakistan, a group of influential lawmakers, including Muslim legislators, belonging to the ruling Democratic Party has urged US President Joe Biden to withhold “recognition” of a new government in ..."
     publishedDateTime: 2024-03-01T21:02:00Z

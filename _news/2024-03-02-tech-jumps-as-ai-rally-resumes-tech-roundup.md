@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Concern as the gambling industry embraces AI"
+    excerpt: "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending."
+    publishedDateTime: 2024-03-05T00:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-68304137"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-68304137.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "gopzZBHY80l4LD1ruwqvoQ1JOd6njnrzPQfUpQJyfhc4ttEHBBmSaHbj9z7gm+lO0SATY2oTdzOqeZSZZnLUxTE7Hoe1IqBHTt/tvIcKOlaFLQIEqbXRA4yC1zTmh5icM5+D2A24Ax3waQSJDYNSlvFbB3wWV0m1j0VSE9l774sKCCXBA8bb2EKTFMYNoeBOoIy1Mshh2RdtGzkHULhwmpno6hz2Wsustg/jv+HexgNImq2I6wmNFpDUbvLPwjuRnywxUTLp1wjmM5CYcAz85HMI0CBHjSeCLHMnA687A3vbHoJLV1f+mv+S1N/1BQLrtD51pQl1SVdCfPHUc6reNNpXqFPV3VIr/flGN1F6l6M=;ksnEjBky58j96riJs4BLnw=="
 ---

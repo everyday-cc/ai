@@ -92,20 +92,6 @@ related:
         width: 1880
         height: 1253
         isCached: true
-  - title: "Meta plans launch of new AI language model Llama 3 in July, The Information reports"
-    excerpt: "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ..."
-    publishedDateTime: 2024-02-29T00:31:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 33
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "xD3GJ/nqA3+cpdZ6DAtIQ9y8dzAqjE3szdxsz3bgxGo0gIFYWMJDa6TVX3I8h5/EwOj65pu8SkVjHeZXq1ANS5B1zZGCbDJOm6xQpYotNrL1W27RXQLf8ThI4EgWkYR+lp5yfXcGvssbocN0zNP5uXUJ+XGYqUnjCWZAfERL6670txQcywm2KlZ4dAAGK0bk6bdrCPO3dvAodCYpYEWcMvTY8YSe+PUlenVYoYiXTzy3Wj7mSrdsj2+oHJcCITWNokDnl9G++x8K7vKxbaK5VrBuBerPgiGhShEc9QWAGx4q34PmGDTG8OAyUbT8+MOxkFsORdRlH171X4Up7WhD+59B3gNQCW9s8WhD6ojhTej/VoQUEt0RWaPZMbyGXcaS4nlT7JQcu7VVPc4eQJLQ7ShjZP+ky4YW8xgxFVSODKFQoKSsRixju3YBrIlwb/i7lsiGqS4XAcTA2zCYrZTesi1dqeF42D5EWHCsa0xfWwWm/VNzjtwA7Rd1sC9yN6nldXu31BSzGnLat7yNvnRUgg==;1jfLuB1MQG2wxd9rAOVEYA=="
 ---

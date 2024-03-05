@@ -23,34 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Klarna news may confirm workers’ worst fears: AI replacement"
-    excerpt: "Klarna claimed that its chatbot’s service is equally as satisfying as human interaction, based on ratings; the fintech company also said that its “AI assistant” has resolved customer issues more quickly and has led to “a 25% drop in repeat ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.hrdive.com/news/klarna-ai-replacing-workers/708971/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 39
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
-  - title: "Replaced by AI? Klarna news may confirm workers’ worst fears"
-    excerpt: "Klarna claimed that its chatbot’s service is equally as satisfying as human interaction, based on ratings; the fintech company also said that its “AI assistant” has resolved customer issues more quickly and has led to “a 25% drop in repeat ..."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.hrdive.com/news/klarna-ai-replacing-workers/708971/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 39
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "Klarna's AI does the work of 700 people. What's that really mean?"
     excerpt: "The Swedish lender says the use of generative AI hasn't affected headcount. But it has also said previously that AI would impact its own hiring decisions."
     publishedDateTime: 2024-02-29T18:55:00Z

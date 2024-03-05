@@ -39,6 +39,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "In a First, a Geolocation Privacy Class Action Will Go to a Jury"
+    excerpt: "The class action Mata v. Digital Recognition Network is scheduled for jury trial on May 17 and is brought on behalf of 23 million California residents, represented by Chicago firm Edelson."
+    publishedDateTime: 2024-03-01T22:46:00Z
+    webUrl: "https://www.law.com/corpcounsel/2024/02/29/in-a-first-a-geolocation-privacy-class-action-will-go-to-a-jury/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Pop-Art-License-Plate-with-Synthwave-Eye-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "oC5dcIKtB3JmEVV0R8A5ukxI0LReQ/aXNNAu5wFKTK8InVwumgR1lkcCXahMRAZaHxI2YojkWcAPwBYZkR57Q4k1DUe0UCUwrY/fx+dzHjq9OXcerMPiSq5CoLr0d9eeMoaqyOCySWYED6egaxBplAmomqxnAaua7Ng0Gg5WRfCuROwa7XFtyMaLbX5wdbTjzUiOvlbGrf4fCU9+hzsCsUhCC7wlrER2uSSlxr2WoRDx5y1s6rK6qs4jp80e0oxwAU9CpXvgY/pTYO88LZl7aXgO78Ee00KHzhdr9sPLNgiUd6JCYulS/XScsXlqTeQnVWqLez7nFYbwL2k8Ut5hROdjwVLDSeQWM/G9Q+oCZu62fMd3Mv9fjwKF9IEpU6yGedm4QRbU+DhNTmEULkAfXbYgyAfF+SpEVBdbaR4jDdewL8Tu89V9x1DbG4VuNq2r0htSbvVcywEmzsqjt9CE32qGh1D2NuqV0925bXZY9lkU9hb4067jeP0/cCYfu1nJt7Nckag0UQTxs+JUZSBzlA==;DLM9uROFmr1kGk6RGuRUFg=="
 ---

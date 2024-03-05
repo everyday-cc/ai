@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resu
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Concern as the gambling industry embraces AI"
+    excerpt: "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending."
+    publishedDateTime: 2024-03-05T00:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-68304137"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-68304137.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "K6o9IFHqZlrnMvXYG3w1lO0SNuduj25H3T6EgclCSYx+U63FlK/ZQWVyHKKA3JO2PulsYN4ogNs/dy82EW8X4oPr6mNWyiO4IpoecJsp8lJLmwqeyHDQ0SD8+yDMyCV7cRbSAuFR0eXhIGmRCFqS58UuMVJ/sYMf7DRzD9az10WIvJlo3SPLHWRkSIO5E47U8tTRfvAcg8QtJFRkVxqwg8qbvcX+pthe1FJbWZ8VbmVSphHXqyi/c1SlXkb09Z2RstUaymjqoIgdXNV4BbHwADgS6HuvW8yDKfLVgp5UjjX3tVmO+SJsA8Gq9aJn3ovwuqkYlXjpIK+mL6VRsYyW+Fc4qaNiJ+9Z29nmQBghv0g=;+MEOjCCBBT1eEOliMRHnTA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.irishtimes.com/technology/2024/02/29/artificial-intell
 webUrl: "https://www.irishtimes.com/technology/2024/02/29/artificial-intelligence-the-future-is-already-here-and-businesses-will-have-to-play-catch-up/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Warfare Is Already Here"
-    excerpt: "The Maven group set out to assess object recognition tools from different vendors, testing them on drone footage recorded by US Navy SEAL units in Somalia. None performed particularly well, recalls Jane Pinelis, who oversaw the early testing and evaluation ..."
-    publishedDateTime: 2024-02-29T00:15:00Z
-    webUrl: "https://www.bloomberg.com/features/2024-ai-warfare-project-maven/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 51
 
 secured: "IRGUNmz0jXglt747Lo8JTE07tZ5HpGQO0ykSHvBb/gbnjqNSf5ivYtP3aUy/xQpH6WyD7NRG5tGMbWJULAd8M7qVZVj2NQnkxTR631xLNYJ+CC6Oa6nRdSaT8vdNRuAeRxcV2nPG7OVAkI2GoEl8YN7IREZL/BtWXJ3wbWyF3wdJYRgIqbxq4J++KhF8S4rEfnTYOQkAZujExEZPmEX4+Lz4S4doogVSn4B5FpF1Oh1pjP2gzd7OEVVPsxv7XhxEqEjMFrOS+b54eeVAUxzirt3j3+nLCkojYOC5O8TVBwwUn4qlE0lDV+wxU7mSchokKYnNi3POG9Iq5gUUK7qdq5pHDfe4FRH7dh+TebagMrj/sai9UdcwFM91ST85nq3Otlxeuiv1kESnRSQp31dIkicRhpOChB25nXVBotvnMo5osDvY3dsVgHLI0T/yqW2jE2YPPEA9KxHWLtcX/LJkDk0YIFsuiIBa7JZUlxqnrdJ/+mh06yIfAXdz+cq4M8UvnjI5I5Mq24e3k8yKjZb6PA==;DvoTonO4uQiQTvJwF/zYTg=="
 ---

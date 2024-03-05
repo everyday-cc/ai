@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1348
     height: 900
     isCached: true
-
-related:
-  - title: "Professors grapple with AI in classrooms"
-    excerpt: "Bankard said her largest concern was faulty AI detection software, which occasionally flagged the translation software international ... “There’s lots of issues in terms of bias towards English language learners in that provision,” Bankard said."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://dailytrojan.com/2024/02/29/artificial-intelligence-higher-education/"
-    type: article
-    provider:
-      name: Daily Trojan
-      domain: dailytrojan.com
-    quality: 19
 
 secured: "lGFNRi2NtgMrRJnsYp6mvXQGpMShQUnX5o97Ddejx/AH9IATVKR7MuGFTyEFukOJwKqTCXtBYmz8jmmwtUjcbx6Vr7XE0gpT3sUy7+6wFCgpeOr1SRll9+oFgtOPhUJ6N712+NRe43CVmrxsMRmGnY9Ga84c6gi/aANCnQf0GSlqKMmMK5McO7WqN54QvCittAaDLR2UJ2hr02W6XHPOa7iSO7qBjleOONkhz3gbGje3lTZNc4J+NBsfB/Uefq8fCv1BAlsT9/D5Ih3Z4h+Gl2ww8wmxxAPQa9kDTwH7wl7fMnWB15uVk437EvI+OxKQTpI4q8bzNLtUA1OhlfVFZtN0DFzq0z4hiKckGXKWF25r4iQn2HOf7xx04aDCEXWF0wsZp1CNo7fdnp6GZ/D4jkT2nVrqdKSrYU71vixnOEAls1Q4DZ3q5b9ZlTHHG43q4oZYBdecTtqkjHRzHoL7RXygMWeRyO5KTQBQj3QIoD8JP0tYgPw9BzpFXxFt41PJ/qpVGM3fM1NUJTN79FusdA==;O2bDJnHdKQY6BTai1uNhfQ=="
 ---

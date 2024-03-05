@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Radio – A New Ebook"
-    excerpt: "Artificial intelligence tools are hosting air shifts, reporting the weather, creating outlines for sales presentations, writing spec spots, synthesizing listener voices, generating station videos, managing transmitter power consumption and so much more."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.radioworld.com/resource-center/ebooks/artificial-intelligence-in-radio-a-new-ebook"
-    type: article
-    provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 17
   - title: "The women still falling prey to Facebook dating scams with Danish doctor’s face"
     excerpt: "Deep in rural Missouri, Lauren McEwen thought little of it when she received a Facebook friend request from an attractive ... to this kind of fraud in the first six months of last year. Research shows that 60 per cent of all reported “authorised push ..."
     publishedDateTime: 2024-03-01T18:50:00Z

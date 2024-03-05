@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 webUrl: "https://fortune.com/education/articles/ai-programming-languages/"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
+    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
+    publishedDateTime: 2024-03-01T13:06:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
 
 secured: "+KrPMGNCtN1lHflX8Tw8xA1j0GA5DSy97jhQask578NiIm+qDM5KK2QS8nwcz4eXWSQX7rH4hu5Q3yVdrd3cU2SA/gaO6zAKayM/PoiwWPSL/6+p2T5bIzTpOZqmSbIwrOqupmpXwRmG6QF75g8dY1QPLiMxTDz/QHgEe7qASQHt0MaBLrGs3u2XjOnmqoa9eUHD2PlDLlOgalT3g7A0oeeu+4qJjfQ/Edu90YGXlqboNVv663G0xXqSmJofeykBeMAabVacQHfsYxYuVlSLLZ7z7zUoZ5WrPe0rZ3h/jz/gi8Mw1EmniUoJV9tK5HiwGEU5JQQ0f7CoUfe8MPaC2MzKqTMfUF2bZ2n3GMx1brw=;ij+8ulVHpGgnH80sZS3X5g=="
 ---

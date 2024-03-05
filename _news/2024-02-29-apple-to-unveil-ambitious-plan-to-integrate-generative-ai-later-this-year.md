@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tim Cook Reiterates Ground-Breaking Generative AI Features Will Arrive in 2024"
-    excerpt: "During its annual shareholders meeting, Tim Cook said Apple will \"break new ground\" in Generative AI in 2024. Shareholders also voted down the proposal asking Apple for an AI transparency and ethics report."
-    publishedDateTime: 2024-02-29T00:34:00Z
-    webUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/"
-    ampWebUrl: "https://beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tim-cook-ground-breaking-ai-features-2024/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/02/Tim-Cook-Generative-AI-features.jpg"
-        width: 1250
-        height: 750
-        isCached: true
   - title: "Tim Cook says Apple will \"break new ground\" in generative AI this year, will disclose more details later"
     excerpt: "Read our ethics statement. What just happened? At Apple's annual shareholder meeting this week, CEO Tim Cook told investors and market watchers that the company is investing heavily in generative AI to make life easier for its customers. He also claimed ..."
     publishedDateTime: 2024-02-29T08:41:00Z

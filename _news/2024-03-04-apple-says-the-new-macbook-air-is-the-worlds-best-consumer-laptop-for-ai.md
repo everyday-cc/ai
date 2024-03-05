@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Apple says the new MacBook Air is ‘the world’s best consumer laptop for AI’"
-excerpt: "In today’s press release, Apple says: With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core Neural Engine, along with accelerators in the CPU and GPU to boost on-device machine ..."
-publishedDateTime: 2024-03-04T14:01:00Z
-originalUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/?extended-comments=1"
-webUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/?extended-comments=1"
+excerpt: "Apple’s press release for the new M3 MacBook Air includes a bold claim, calling the machine the “world’s best consumer laptop for AI.” The claim comes ahead of WWDC 2024, during which Apple is expected to announce a slew of new artificial intelligence features across all of its platforms."
+publishedDateTime: 2024-03-04T14:03:00Z
+originalUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/"
+webUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/"
 type: article
 quality: 39
 heat: 39
@@ -15,9 +15,9 @@ provider:
   domain: 9to5mac.com
 
 topics:
-  - AI Hardware
-  - AI
   - Natural Language Processing
+  - AI
+  - AI Hardware
 
 images:
   - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/15-inch-macbook-air10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
@@ -36,6 +36,6 @@ related:
       domain: tomsguide.com
     quality: 10
 
-secured: "llGg67FOjYzZEVyO2YxEYEzb6WwxlBc3M7QMN2krXaFGBqTHaFMLZoWq/6jH0OoywvPj0L41mC2xeMR6emrfkIHZVy9jg4bYAajEdtuLM9OoqO9yWXsd+dzznR1AGf+3JnxOa0FuUkS3Fg3HrhkdptWa/3esU22GuTJmp0n78xvQEM4B5ypSpVnu2i+9KInHGGCnlxIPQYGo2ATezR64ilsP4Fsh17wHeV7A2GKJl/D9c/C3q5crzHWwhWZAzVthAWy4z4+LJ0d3o00z/OH90bDJVZiM6slfvV64glGu2K+ZdX+QN+VLiUbX5z3WxGDje8O/gv/ZNTwWrzeQjJkeJNBY4TlIhUkTb+P/DJHptIYkdYt9W7T/SprBxQ/S8QAXEJ5/9EELRgbKG1tHzygfOec/HywolKhyWW9pDM5YXjhXwgH/jjw2vwbc+y1tznVPjbIiWXM06w8f8umLRorWwuK7zCkTb+UE2bKT6K3tDi+sF8XW6SLEJq4BaTQXBPpTIKuhTXRI0dFfXUr6SzFiXA==;mdL/2tOoUP7ugNvaRVHvlw=="
+secured: "X8tGitZYBLfgXKeNViYA+KutYMNy71LXkek/UkivUl+nu29SpYC977l6EbXqF1KpJfhvOGC6eqCCMj7EPEjRS8SMqBXA2gC0kt9T2j1tQ5KhsIZZzBvop5bbNYPsR7Uj3SNR8SXlTzSjRU+7TOvT/Vd56O6UPbENl6ohmrkQPuH3PSkrKJ9cwWyXLr6KGFsoM/eiyg7myyWMmXoWia4fl0UiEBfdqC5Ns/cQJLtAvHyMSm1jCO6yDStIWO02VF8re7vHsrcpiVET78nfXFbNwisyRGZNYTl/eUfO74bstXn7sQDZ3CYcAaFnerM4H8FM964vclA5bDUq+g+C7IC+twR+a96jRUc01MMi1zj7nvc=;koS10y84EQ2bhi+NpgiVLA=="
 ---
 

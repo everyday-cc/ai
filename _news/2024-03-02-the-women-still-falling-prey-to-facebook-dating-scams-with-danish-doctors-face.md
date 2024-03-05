@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Artificial Intelligence in Radio – A New Ebook"
-    excerpt: "Artificial intelligence tools are hosting air shifts, reporting the weather, creating outlines for sales presentations, writing spec spots, synthesizing listener voices, generating station videos, managing transmitter power consumption and so much more."
-    publishedDateTime: 2024-02-28T23:59:00Z
-    webUrl: "https://www.radioworld.com/resource-center/ebooks/artificial-intelligence-in-radio-a-new-ebook"
-    type: article
-    provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 17
 
 secured: "LYh4Uwjae6DOAGXP4vdRfyj/qq+TjH0roLKjKJmIi2ACoGhgMFvxyXnoUuF8CtyZs+QTzxUoqhSBL5yJZPxu6+arQ6rJgVbN1FAybXEI+qaWDA24ojZsPejpX2ZMZcyrVx3/CdjXARkDryEQEBJc0Xx95JLrXkLkpDBqLlr9Szj+e+6qBRkd3ichbIdCAT7QE4GYTIeroDTw5RBsw0aH6ZTRoJQ2naHimkp+PIpctqL9EV5Q88F2w4gOU4oh1jG37gGMPIrdBj8bEASMgqolw71IiB/BMZhh1U7WJVmDJ0v/M388Plr5tkARhCUXZ9+/Etd/fXNnQZKeMTBO9RvyxXNRy6J4KNQmpuhAIhVIOVcNgKXNNgRRTI+k6tqhWamr/ROOeT6sWQPGtPUkgUrOLreJDIIQQhgipgd8ZPB/i/UIJwIfz88fgGmXv+Opptta4e7CAz/Fy27Ha659YwDnTtvkTQ4Jd+o/FRRikKBFFzxdNVofSrdl9Q+LL2mfspq9rzdH05YhHQIxTSyhzt+ZOA==;nT/CaA6G2C5xFOe57bvjAw=="
 ---

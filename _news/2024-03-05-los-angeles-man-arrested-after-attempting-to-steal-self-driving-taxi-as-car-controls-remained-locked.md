@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Man arrested for trying to steal self-driving Waymo car: LAPD"
+    excerpt: "A man was arrested after he allegedly tried to steal a to steal a self-driving taxi in downtown Los Angeles on Saturday night. The Los Angeles Police Department said in a statement that Vincent Maurice Jones, 33, got into the driver's seat of the Waymo ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 59
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Waymo gets approval to expand self-driving taxi service on the San Francisco Peninsula"
+    excerpt: "Waymo's self-driving taxis, which are seen frequently in San Francisco, received the green light to operate on the Peninsula."
+    publishedDateTime: 2024-03-02T23:24:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 51
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/03/85024e22-1846-42fb-9ccc-13455d502369/thumbnail/1200x630g7/81b547ee10263baeb18cc4274bd3dfca/waymocar.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
     excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
     publishedDateTime: 2024-03-04T17:02:00Z
@@ -43,6 +75,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'To improve our technology': Waymo, a self-driving car service, doing weather testing in Buffalo"
+    excerpt: "Waymo has been conducting weather tests in Buffalo for its self-driving vehicle service. As of now it operates in two cities, but no set date for any future in WNY"
+    publishedDateTime: 2024-02-29T22:16:00Z
+    webUrl: "https://www.wkbw.com/news/local-news/inside-the-self-driving-cars-youve-been-seeing-around-buffalo"
+    type: article
+    provider:
+      name: WKBW
+      domain: wkbw.com
+    quality: 26
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9f42c91/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F999%2F1020d6d1597347248f5d62c059a4c7e3%2F999dd6244999479cb9072883293821a1%2Fposter_5adf9f3607a04062a46c5419d7ebea72.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Waymo's massive self-driving expansion gets green light"
+    excerpt: "While some of the industry's biggest players are abandoning their self-driving vehicle efforts, Waymo is gearing up for a massive expansion."
+    publishedDateTime: 2024-03-01T22:32:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-robotaxi-plans-win-california-approval"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
   - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
     excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
     publishedDateTime: 2024-03-03T21:38:00Z
@@ -52,16 +107,7 @@ related:
       name: NBC Chicago
       domain: nbcchicago.com
     quality: 4
-  - title: "Self-driving buses; Streeteries revisited; Honoring a legend | Sunday roundup"
-    excerpt: "RECAP: Looking back on the week that was Driver-less bus debuts at the Navy Yard as union leaders push back As the first self-driving bus in the city — and […]"
-    publishedDateTime: 2024-03-04T19:12:00Z
-    webUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
-    type: article
-    provider:
-      name: Billy Penn
-      domain: billypenn.com
-    quality: 1
 
-secured: "iwP7dB6L5ROSEM/qwZnS3YMJB/DEZYvf6KDwaf/Qb/uGWJ/bQ2KsWSmf5ASzPt0IY2nWV77DlkFvDM3TrT2Xs575XTiSokR9bUeY7pEC1zoBq5GNSn0OFUTjvqG0iW+ombguLG0Cdw8hwZ9n8mdWf/a+7cJWXtMKkSMpoRzaNvYTMLXCw0zEla6pIf8+ABVfhSFQA8j03soZYjosVmA6EAfeecfaIq6sFzOtkV1dt47PEXJRJzOaxkK4dLm8oIN8UKgX2OBZWebbYXHK9Mp4bQZc/5/Y50zPeGgJnuI9fQ45j6X27Ibuq64Xg91+shfBperz1viJPDG6Mee26r35CgxVkw31lVyWu3E6slc9kDo=;+sus/NK1RUXRPAsZRmmpnA=="
+secured: "nPtbhX//T7qRDIOowaT32CCA/uMXm0laMuhtyoR23Hx5AvyeyKpfmULVw/F7QwXd0+++dV6z8cQZYS29+Mx05OdLJg0bWp5h7txTSpSpf+bcGO5zsfDC1CgWeApBmEXne6XN90uOKK6IdVn1a2NheN1QgvL1XifV6tVCZ9mFpUBqQ64lcxIyw93N/5zU+4EAQQawQeK6mBJhA5UtLU4TZzqA/8DuNoCytQLQ8ydTbT3ldLdfDuK6ET21me92Ipi51/nKIDqfJR3L6v/ObS90pj7jFNXqENFAIJCZ4+TJBFQ14QiylnmBxufx54Jw4mp3QsVmQ8u2lqHF99S3Es9J1Qa8sjcoTDuFwBIpdmBtUKimyB3M+5iifkQOClH56No5wDy52e/MDBlWhe/h3ps53kZ8l/BdzJtxKxNV0TvbQK7qcCAG4EhLKvMedw1go97wjY+WMvyJgZW3118vzc//PYE0xPf7/zjjeZE3Cs1pGPR65j+XzoQNCf/B8Dow7ZCDMDHzqMHMxUG1D6bZVgapSQ==;DaFRBz01uNQApCcOzFS3uQ=="
 ---
 
