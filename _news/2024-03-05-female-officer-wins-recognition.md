@@ -1,0 +1,45 @@
+---
+category: news
+title: "Female officer wins recognition"
+excerpt: "Police Officer Georgia Reyes is being recognized for the great work she's doing for the University of Texas Permian Basin. Recently, she was named Officer of the Year for the UTPB Police Department as well as Officer of the Month for the entire UT System."
+publishedDateTime: 2024-03-05T08:03:00Z
+originalUrl: "https://www.aol.com/news/female-officer-wins-recognition-010200841.html"
+webUrl: "https://www.aol.com/news/female-officer-wins-recognition-010200841.html"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: AOL
+  domain: aol.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Female officer wins recognition"
+    excerpt: "It comes as no surprise to those who know Reyes that’s she’s being recognized. “Officer Reyes always comes to work with a smile on her face and a positive attitude ready to go above and beyond to assist her fellow officers and the citizens of Odessa, ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.oaoa.com/community/good-news-community/female-officer-wins-recognition/"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 24
+    images:
+      - url: "https://www.oaoa.com/wp-content/uploads/2024/03/utpb-all-female-shift.jpg"
+        width: 799
+        height: 533
+        isCached: true
+
+secured: "+7PvJrUz61N54G0l57zvvvpMEKOXO1CoeYxlT0wpu1B7dr03hJarGy9h23tU748eVenBUXuHtQ1W0uswoHbDpPikVX/xOy6dSGNRGdh9Aui7N9GLrMSL/t+yhAlTZVsl7pD7PXZHVNAsbiGlQayxM0TvAau5sdaEMft9kHyOYJSsnBDmW0vlvlO/4Wdl1PIUI+/qLnEnwh7FlvMFKZNdGjMX6TBOnz7wQ6JXrPMC4pbD/X+lv9hCWb3VRQBAgdYCbmhrWoQ6v+usZRVE1aRJviXimMWgNTdfL8ls+5HB5U07HcdBbllGvxGpcvcz9Lt7/scHsGhPCJ2s5tspRVwO4nB99qPETq6emy3y5DBFKlo=;SK0yQDrH6RKAgaaEesPcuQ=="
+---
+

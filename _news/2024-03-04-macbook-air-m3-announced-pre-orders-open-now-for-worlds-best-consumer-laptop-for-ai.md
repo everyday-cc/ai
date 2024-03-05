@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Check out 'the world’s best consumer laptop for AI' - Apple MacBook Air"
+    excerpt: "After weeks of anticipation, Apple finally took the wraps off its latest MacBook Air. The iPhone maker introduced two variants - 13-inch and 15-inch, both of which are powered by its latest M3 Apple Silicon chip."
+    publishedDateTime: 2024-03-05T07:32:00Z
+    webUrl: "https://tech.hindustantimes.com/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/03/05/1600x900/apple_1709622343135_1709622348550.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Apple says the new MacBook Air is ‘the world’s best consumer laptop for AI’"
     excerpt: "Apple’s press release for the new M3 MacBook Air includes a bold claim, calling the machine the “world’s best consumer laptop for AI.” The claim comes ahead of WWDC 2024, during which Apple is expected to announce a slew of new artificial intelligence features across all of its platforms."
     publishedDateTime: 2024-03-04T14:03:00Z

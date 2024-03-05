@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
 type: article
 quality: 100
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e04ca43cc128c151a34cf1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
+        isCached: true
+  - title: "Ethical AI Isn’t to Blame for Google’s Gemini Debacle"
+    excerpt: "Mitchell currently works at Hugging Face as Chief Ethics Scientist, driving forward work in the ML development ecosystem, ML data governance, AI evaluation, and AI ethics. Earlier this month ..."
+    publishedDateTime: 2024-02-29T19:13:00Z
+    webUrl: "https://time.com/6836153/ethical-ai-google-gemini-debacle/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2036327566.jpg?quality=85"
+        width: 1024
+        height: 683
         isCached: true
   - title: "GSI engages AI and machine learning in mineral exploration"
     excerpt: "Furthermore, a series of lectures and presentations were delivered by distinguished geologists and subject matter experts, elucidating topics such as mineral prospectivity analysis utilizing Machine Learning and emerging technologies in geoscience ..."

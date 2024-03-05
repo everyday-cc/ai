@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Retail Investors' AI Bet C3.ai's Shares Climb on Strong Results, Forecast"
-    excerpt: "Their average rating, according to LSEG data, is \"hold.\" D.A. Davidson has an equivalent rating on C3.ai but raised its target price to $30 from $28. Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%."
-    publishedDateTime: 2024-02-29T07:27:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-29/retail-investors-ai-bet-c3-ais-shares-climb-on-strong-results-forecast"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
   - title: "The future of artificial intelligence in trucking"
     excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
     publishedDateTime: 2024-03-01T00:00:00Z

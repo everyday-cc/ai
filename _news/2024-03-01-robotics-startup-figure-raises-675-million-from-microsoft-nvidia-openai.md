@@ -86,20 +86,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "High-speed humanoid feels like a step change in robotics"
-    excerpt: "You've seen a ton of videos of humanoid robots – but this one feels different. It's Sanctuary's Phoenix bot, with \"the world's best robot hands,\" working totally autonomously at near-human speeds – much faster than Tesla's or Figure's robots."
-    publishedDateTime: 2024-02-29T07:15:00Z
-    webUrl: "https://newatlas.com/robotics/sanctuary-phoenix-autonomous-speed-hands/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 84
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/66a92f4/2147483647/strip/true/crop/1313x689+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcb%2F21%2Faafd2f03426ebf39d412c3ea0cec%2Fscreenshot-2024-02-29-at-2.58.44%20pm.png&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "See the humanoid work robot OpenAI is bringing to life with artificial intelligence"
     excerpt: "OpenAI has seen the future, and it involves putting artificial intelligence ... bring humanoid robots into commercial operations as soon as possible,\" said Brett Adcock, the startup's founder ..."
     publishedDateTime: 2024-02-29T23:14:00Z

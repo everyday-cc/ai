@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "AWS to launch data centers in Saudi Arabia by 2026 with USD5.3B investment"
+    excerpt: "to support the growing adoption of artificial intelligence technologies. Among the notable customers set to benefit from Amazon Web Services in the region are Saudi Telecom Company, Seera Holding Group, and Mobily, among others. These organizations rely on ..."
+    publishedDateTime: 2024-03-05T03:44:00Z
+    webUrl: "https://menafn.com/1107935459/AWS-to-launch-data-centers-in-Saudi-Arabia-by-2026-with-USD53B-investment"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_BusinessFinance_227_menafn.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "AWS unveils $5.3bn investment to advance Saudi Arabia’s cloud infrastructure"
     excerpt: "AWS said the new region in Saudi Arabia will consist of three availability zones at launch, adding to the existing 105 zones globally."
     publishedDateTime: 2024-03-04T12:44:00Z

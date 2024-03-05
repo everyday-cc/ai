@@ -1,31 +1,30 @@
 ---
 category: news
 title: "AI pervades everyday life with almost no oversight. States scramble to catch up"
-excerpt: "While artificial intelligence made headlines with ChatGPT, behind the scenes, the technology has quietly pervaded everyday life — screening job resumes, rental apartment"
-publishedDateTime: 2024-03-05T04:29:00Z
-originalUrl: "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/"
-webUrl: "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/"
-ampWebUrl: "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/"
-cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/"
+excerpt: "Lawmakers in at least seven states are taking big legislative swings to regulate bias in artificial intelligence"
+publishedDateTime: 2024-03-05T05:58:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/ai-pervades-everyday-life-oversight-states-scramble-catch-107797915"
+webUrl: "https://abcnews.go.com/US/wireStory/ai-pervades-everyday-life-oversight-states-scramble-catch-107797915"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-pervades-everyday-life-oversight-states-scramble-catch-107797915"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-pervades-everyday-life-oversight-states-scramble-catch-107797915"
 type: article
-quality: 55
-heat: 55
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/03/65e6ae7207fcf6.55539367.jpeg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://s.abcnews.com/images/US/wirestory_d3226c9139d3d06af263e7ff467d0666_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "VSE87bQzGsStpAxJGTscvg7AnbAj3bjOXr7CrdX5T4A6CiLeOmfFmp5yXdI46Poce6ykF+pl2YYL9Y0jl2KGBgiJxfOA+NDE0j67TABJY1cYnpGp096papZ6UFcSBYgPwKs31FVMgEK+eXWdbHQ0WTfFdNR+fc/3ZWOnaV6feprYT4mrTW2F2c6bc4ku0o64GBEHPWtvqVSeoU6gejqDSofieZeRjDpJUEKmBQFP49RkHZpBBPts/WHt/OV6sB7udYaHRtwrRkNI19HF2G+btSJ6aRR90iU4ewWr5B2pYOEwTuvlV8rjYGpc6tjJbAgJMaw9ZSjvH7P/Nb14/kEUDbdH8D5PN1hAM6Yvsncv9xg=;o9P4eXwxkTLLDfugpOU7Ng=="
+secured: "g25bCvgOeOCgxP902Ie3U1ZRJQZrZGidwQck3oCpn30pBdustyY51iaSkYOiN9AlME/pIxJWw5wUqPtZ13/6ADJF1q5nmN65Ee3YTRPC7kxXAWmQEbhxZa+weKSSFna2eA1S4mxt5tu+beC2USrmCX+fEXwtB2KuhEOIkNwXgrrQ6J7/8wxhA146D/niE/kmxEC3/Zmy03XCML/Qy25PbSEI/BUJ5dKivFMU1kBXdH1+hm0fCFP3cQBN+0aiK9ISUAvwdURt/m7gC01Af4WUaGURtIHJslrHejKsN4R+Py0nlBpQfGXju9cTuC0SHQNTr0VYYn3WNpZifwb2XWaCaE7d1Der3Wgo5GTRICwuLzc=;eX+2WE7xFnmcuoUCCfNOvQ=="
 ---
 

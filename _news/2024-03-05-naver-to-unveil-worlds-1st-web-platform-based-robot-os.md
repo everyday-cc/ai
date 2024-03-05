@@ -39,6 +39,17 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Naver to launch world's 1st web platform-based robot OS: All you need to know"
+    excerpt: "The ARC mind will support the connection of existing applications with robot services and include a web application programming interface for the control, cognition and movement of robots, reports Yonhap news agency. Naver said it plans to first apply the ..."
+    publishedDateTime: 2024-03-05T07:35:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/naver-to-launch-world-s-1st-web-platform-based-robot-os-all-you-need-to-know-2024-03-05-919949"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/naver-to-launch-world-s-1st-web-platform-based-robot-os-all-you-need-to-know-2024-03-05-919949"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/naver-to-launch-world-s-1st-web-platform-based-robot-os-all-you-need-to-know-2024-03-05-919949"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 36
 
 secured: "jmUocrt4Sp8NxcKGO/psxnLzZKgttI8SMF4GSWUZL08eozx1eYBxuK1+giFZiLGxaA+kgUqY6wwfMdbNERrmoShbXDfBcHj8BhWrCplS0KlyEGx5mL5Ls0P0WQY1llYZe/qkGZZXtFgvFrzkzaz37BVC6g3UJ4KFy1JWzfawWMsnmydxRszsNfkye2+LU0GhPjMHzyEWNP8X27xF/C9DTOEXZBr7/fFCMAEqN2UDmzRRZlQor2iNX3x+0sST9sxgi57eYV9kJkqJAWfwLbNIzb3Kp6JI/O12b1J6pZ/v3LDmuR5DaMHtXAtaZg4lc0uY87JekoPGr+5j01kxa7XwCdBPF/UnOm24bPMk3aOdcI8=;5kCPsoGqitPLdI88jykEIA=="
 ---
