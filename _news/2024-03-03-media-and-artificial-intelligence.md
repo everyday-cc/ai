@@ -162,6 +162,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Writing still matters in the age of artificial intelligence"
+    excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
+    publishedDateTime: 2024-03-06T00:25:00Z
+    webUrl: "https://www.michigandaily.com/opinion/writing-still-matters-in-the-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 39
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/Writing-still-matters-in-the-age-of-AI.png"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "The President’s Inbox Recap: Governance of Artificial Intelligence"
     excerpt: "Lindsay to discuss the capacity of the U.S. government to lead in creating a framework for regulating artificial intelligence (AI). 1.) How governments will regulate AI matters. AI is a potentially transformative technology. It is also a tool that can ..."
     publishedDateTime: 2024-03-04T17:46:00Z

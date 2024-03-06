@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
 type: article
 quality: 57
-heat: 99
+heat: 100
 published: true
 
 provider:

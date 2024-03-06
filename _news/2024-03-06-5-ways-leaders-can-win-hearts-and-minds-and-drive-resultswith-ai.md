@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-enforcemintz-a-2023-legislative-push-to-address-ai-in-health-care-will-continue-in-2024.md",
+      "title": "EnforceMintz — A 2023 Legislative Push to Address AI in Health Care Will Continue in 2024",
+      "excerpt": "Since May 2023, federal legislators have introduced a broad array of bills designed to address the rapid promulgation of artificial intelligence (AI) technologies. In that time, over 50 bills have been introduced,",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024",
+      "originalUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/Artificial%20Intelligence%20ai%20.jpg?h=80df463f&itok=xCxIjGjQ",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024?amp",
+      "publishedDateTime": "2024-02-12T23:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire.md",
       "title": "AI field trips and why we should stop setting self-driving cars on fire",
       "excerpt": "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into.",
@@ -1228,49 +1272,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-heres-what-vws-new-ai-company-will-focus-on.md",
-      "title": "Here’s What VW’s New AI Company Will Focus On",
-      "excerpt": "VW Group launches AI Lab that will identify new product ideas based on artificial intelligence that could be incorporated into cars. The new company will collaborate with the tech sector in Europe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/a46626200/volkswagen-artificial-intelligence-lab-incubator/",
-      "originalUrl": "https://www.autoweek.com/news/a46626200/volkswagen-artificial-intelligence-lab-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/newaicompany-65bd11e13a1f0.jpg?crop=1.00xw:0.893xh;0,0.0115xh&resize=1200:*",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoweek",
-        "domain": "autoweek.com",
         "images": null,
         "publishers": null,
         "authors": null

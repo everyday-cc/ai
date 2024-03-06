@@ -64,22 +64,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 79
-  - title: "New Microsoft-Backed Startup Wants to Make AI Work As Intended"
-    excerpt: "Big companies like OpenAI and Alphabet Inc.'s Google are increasingly directing workers, money and computing power toward the problem. And Anthropic, an OpenAI competitor, has put it at the heart of its development of Claude, a product it bills as a safer kind of AI chatbot."
-    publishedDateTime: 2024-03-01T01:38:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/new-microsoft-backed-startup-wants-to-make-ai-work-as-intended-71709231700078.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/03/01/1600x900/technology-5254039_1280_1708614115364_1709256923936.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft unveils new AI tools for Windows 11"
     excerpt: "The deeper integration of Copilot and other AI capabilities into Windows is a key part of Microsoft ... \"As businesses become more [familiar] with what it does, [Microsoft will] start bringing more to the table.” Matthew Finnegan covers Microsoft ..."
     publishedDateTime: 2024-03-01T16:34:00Z
@@ -95,6 +79,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2024/03/win24_c2refresh_copilot_hero_3x2-1024x683-copy-100961603-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
+    excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
+    publishedDateTime: 2024-03-05T21:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-box-expands-its-collaboration-with-microsoft-with-new-/2024/03/05/9973398.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 61
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Box AI integrates with Microsoft’s Azure OpenAI Service as it becomes generally available"
     excerpt: "Cloud content management company Box Inc. is adding yet more artificial intelligence capabilities to its platform, integrating its Box AI offering Microsoft Corp.’s Azure OpenAI Service. Announced today, the integration will enable OpenAI’s most ..."

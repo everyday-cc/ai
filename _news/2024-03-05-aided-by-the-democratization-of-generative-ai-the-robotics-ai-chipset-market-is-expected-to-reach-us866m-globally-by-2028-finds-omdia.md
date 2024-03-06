@@ -7,7 +7,7 @@ originalUrl: "https://www.aap.com.au/aapreleases/cision20240305ae48087/"
 webUrl: "https://www.aap.com.au/aapreleases/cision20240305ae48087/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NLP Is Expected To Foster The Global Artificial Intelligence In Education Market"
-    excerpt: "(MENAFN- Straits Research) Artificial intelligence (AI) in education enables e-learning solutions to individuals. Integration of advanced technologies and AI algorithms into e-learning platforms is likely to propel the market growth during the forecast ..."
-    publishedDateTime: 2024-03-01T01:16:00Z
-    webUrl: "https://menafn.com/1107920671/NLP-Is-Expected-To-Foster-The-Global-Artificial-Intelligence-In-Education-Market"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
   - title: "Leveraging Artificial Intelligence for Vision Applications and Technologies Market Expected to Reach $45 Billion By 2028"
     excerpt: "FN Media Group News Commentary - Artificial Intelligence (AI) technology is growing in numerous markets especially in vision enabled technologies. AI computer vision has numerous emerging applications in several fields,"
     publishedDateTime: 2024-03-01T14:50:00Z

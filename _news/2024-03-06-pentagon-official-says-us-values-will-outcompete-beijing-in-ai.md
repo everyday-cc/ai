@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/artificial-intelligence/2024/03/pentagon-o
 webUrl: "https://www.nextgov.com/artificial-intelligence/2024/03/pentagon-official-says-us-values-will-outcompete-beijing-ai/394700/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "Beijing goes all out to fund AI tech"
-    excerpt: "In January, Beijing established four funds focused on robotics, AI, pharmaceuticals and the information industry. Among these, the AI fund has a targeted total size of 10 billion yuan, with an initial target size of 4 billion yuan, as reported by Chinese media outlet Chinastarmarket.cn."
-    publishedDateTime: 2024-03-01T01:27:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202403/01/WS65e12a0fa31082fc043b9e8b.html"
+  - title: "\"Outcomes will be better but we remain masters...\": AIIMS Director on Artificial Intelligence and its use in identifying therapies"
+    excerpt: "\"Quality healthcare down the line and at an affordable prices, that is where technology and Artificial Intelligence and algorithms and telemedicine is going to play a role,\" he said. He asserted that in the future all the healthcare activities may not be ..."
+    publishedDateTime: 2024-03-02T14:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20240302/4174487.html"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202403/01/65e1791aa31082fc2b696de5.jpeg"
-        width: 838
-        height: 558
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
 
-secured: "cgydS0Afa/G7DIi3TnykTm9zbxllJzYvKNETL8OOoqpm7Bu+pcYgkZ9Esp4hfj3YD2NOOlQjhkw0nxEZunIEcTOIJhBkXV7DxegEEf48kgyOqBYzkLbAJMR7JUEhrrmi0OLJ85x9QliU3HzU00z+LcyRQYveSuFVvMddEhf02hcoFrkwmqnkU35eCHBsbw5E7GbZDJY5gMqUnSFvTqjgot+B60As/uxgBoEECJ35CpHC9gJXenfG/SW13mQ4Ujubcc4CKV5R7TgwTTKsFU9zTrDvhbe0WNO3T31O0z5eK9kaKgC7C/G6nJCMNoJgv7U4mEpqN8++CjnpQGVqflGqdHQJXVZ1dXROtB//0sHNu+E=;tSsJmSrf854aBH+rIvXp/Q=="
+secured: "4cKvHVwQAe8qH3RpgsWfQGwKsDymmGI1xqEU7NnVZmmwUFS/E4Y3WkR8ALzNvaL3jhlJYXsZspZ68Xjn2XWicjRzxQXO+c4cL7fdjN6LGUFbwMs46/SxsVKjknpH/n2XxYkf3atQcC9k/37ShvUT4afeb4h0iiIbmJ17hMEA7OSw0c2aTSVW/5N3g1Dh1w6ZH2hCAcLqwftk6P/+VHS6xORWqA7srhPnmQE58OayIBs+4SsSfaU3YFiHnnBVb5N4NZpEPei6a4RTfaLwXh9nFdIM/xYngokDl/egyTJlO9bNaKFydNnTVYWV3Pse9s+sS4pJ7omSVeNOAfOIY1MKw0PLh9y5UE59RGjsA2ZklrIc33SCEUdUriCa+qjRJTZkcEr5Enr42v8AfAj1rIY9KJGj1CSZz7G7FV5KWG/pf0gGd1J/TqHQCakhW7PtMc2AQLduw5T9AF9o6RH67PNd1KFNJ3G/4SWctMAzcquyxCQHljeq72qmheQAAMrZAS6/2O+eXT29QkTq+2NGRcIM9w==;/n4K/YONj6yRBdGQ1laJgA=="
 ---
 
