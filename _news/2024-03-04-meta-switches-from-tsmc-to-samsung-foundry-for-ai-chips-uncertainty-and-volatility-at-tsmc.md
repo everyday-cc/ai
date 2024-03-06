@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Will Samsung introduce Galaxy AI to budget phones?"
-    excerpt: "As Samsung Electronics is expected to roll out its new Galaxy A series this month, anticipation is growing on whether the mid-range smartphone models will feature the tech giant’s latest artificial intelligence features."
-    publishedDateTime: 2024-03-01T07:55:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20240301050172"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240301050172"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240301050172"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 59
-    images:
-      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F01%2F20240301050138_0.jpg"
-        width: 630
-        height: 419
-        isCached: true
   - title: "TSMC surges to record high on AI optimism, global chip rally"
     excerpt: "Taiwan Semiconductor Manufacturing Co. rose to its highest-ever level, tracking a global rally in chip stocks fueled by optimism about artificial intelligence."
     publishedDateTime: 2024-03-04T08:57:00Z

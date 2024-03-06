@@ -66,36 +66,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "NVIDIA and Microsoft-backed humanoid robot maker signs with OpenAI to make robot brains"
-    excerpt: "A humanoid robot manufacturer has announced it's closed a deal with ChatGPT-maker OpenAI to put its technology inside human-like robots."
-    publishedDateTime: 2024-03-01T08:01:00Z
-    webUrl: "https://www.tweaktown.com/news/96574/nvidia-and-microsoft-backed-humanoid-robot-maker-signs-with-openai-to-make-brains/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 63
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96574_651165615_nvidia-and-microsoft-backed-humanoid-robot-maker-signs-deal-to-put-openai-tech-into-brains_full.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Silicon Valley humanoid robot-maker partners with OpenAI and gets backing from Jeff Bezos and tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T07:25:00Z
-    webUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 57
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Bezos and tech giants"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
     publishedDateTime: 2024-03-02T00:00:00Z

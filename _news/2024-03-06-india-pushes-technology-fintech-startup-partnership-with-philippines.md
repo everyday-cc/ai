@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Socure Teams Up with Open Banking Fintech Trustly"
-    excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
-    publishedDateTime: 2024-03-01T08:50:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222107-socure-teams-up-with-open-banking-fintech-trustly/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
   - title: "F|T: The FinTech Times – Stripe’s $65B valuation indicates an IPO isn’t anytime soon"
     excerpt: "But even without it, the Montréal-based FinTech platform has spent the last few years quietly ... Klarna boasted in its announcement on Tuesday that the AI assistant “is doing the equivalent work of 700 full-time agents.” That statement may raise ..."
     publishedDateTime: 2024-03-04T00:00:00Z
@@ -106,6 +97,6 @@ related:
       domain: betakit.com
     quality: 0
 
-secured: "SrhliI7XaN4CfHd947rr05NtzRRxoY7c2cI4BDHnT6nWyhDDe0LjEmtnoXYVa0KMDvT01kH1S5HsxsuVzlYtuWoRC4Rgi5VLkkg0zxCmbwzE5m91zXKeD80WH2sB4x/F9KfBPHaqO/WO+Tmrx/o7+I+NueU7y7sv0A+d8a+4Dkxbinl7fKxGv79pIJc0zI/z7GLQqk1CuCyVbTj5cyKDLFXe1BqQSY8JF5xYskNm7kV3S6CXH5XuDQsh6aljPqNIq5eOUnrqKYtVeUAoYqrs1fLXh2MIDWq0S0fugPJMPTJ8+uxwuTNX0//goqvlB0gGVHExQyvyXvianhAtr2lAL2Dvwax0pf+cIG2EGTLKoJQ=;ACuNG2QTu9KbaKghxexGNg=="
+secured: "71EsJ4d1l3mraKS+Uux9/j5kU6uSZIDXWx+ka+ytYAaVH+uuP/e8M35Ozcgm5LwI0dW1ay14B7wHHnSnXkshW1Eki7X0FqcfKoeR7VmoFTO2/iXA8T90Uw9QuVuB0iK4/TxYaEQ4ao3Fn2TaStldfHTk3Y8xbP0W2hVANG9sfDUZWlbxK32WIBTFpskW4OHtQ2LCtgajUF/WMBqJrQAre6mgf52h37wXZrarjhZiPNK9WJokfdxjro5QI9iMCs2UaBOObrgXLW8TSFnaPGpx4CHD+5//PIFvdUryhbQkLElOUHJhkouZBq4bpr1N7WJR1AL8pER2nO5RmTXJ8cZJr/BfWRqfLsaMsZFfb1lliAV/DA0e9gPYv04Tu5mUuoYF2UkieLcNJ5jcFA3FPLJip5pJADd+j5LjaUox8i5ha8CsCS1oH/WFXlH0e87GHNd56I7g2i5YxwTQ7Ch+Q+6M85vtS8jMxSigooFvWwPu4QeK0vvwGE+pKe90TJnzLiEJmNzr/UVi+QSy3ZmFA98E/A==;dM+5rGHAZU8J55Meik/wiw=="
 ---
 

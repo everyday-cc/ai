@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Socure Teams Up with Open Banking Fintech Trustly"
-    excerpt: "Socure’s AI-powered platform “uses predictive analytics and a database ... online lending, and other forms of Fintech. The Cambridge SupTech Lab, part ofthe Cambridge Centre for AlternativeFinance at the University ofCambridge Judge Business School ..."
-    publishedDateTime: 2024-03-01T08:50:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222107-socure-teams-up-with-open-banking-fintech-trustly/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
   - title: "F|T: The FinTech Times – Stripe’s $65B valuation indicates an IPO isn’t anytime soon"
     excerpt: "But even without it, the Montréal-based FinTech platform has spent the last few years quietly ... Klarna boasted in its announcement on Tuesday that the AI assistant “is doing the equivalent work of 700 full-time agents.” That statement may raise ..."
     publishedDateTime: 2024-03-04T00:00:00Z

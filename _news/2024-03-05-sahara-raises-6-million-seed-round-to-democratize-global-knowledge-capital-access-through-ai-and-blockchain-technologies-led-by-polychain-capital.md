@@ -37,6 +37,34 @@ related:
         width: 6285
         height: 4190
         isCached: true
+  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
+    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
+    publishedDateTime: 2024-03-06T07:08:00Z
+    webUrl: "https://yourstory.com/2024/03/npci-joins-hands-iisc-joint-research-blockchain-ai-tech"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/98e25df018b511e988ceff9061f4e5e7/Image21vt-1687328418129.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "NPCI Joins Hands With IISc For Joint Research On Blockchain, AI"
+    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
+    publishedDateTime: 2024-03-06T07:08:00Z
+    webUrl: "https://www.ndtvprofit.com/technology/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 39
+    images:
+      - url: "https://media.assettype.com/bloombergquint%2F2023-09%2F79a21d8a-fce8-41fc-83b5-5d03a11a9220%2FF5P4iQzbQAA51CA.jpg?rect=0%2C115%2C1024%2C538&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "wL1/NV989OpWbzSvJxW78Reu0poa21kAnL61gehtY5r+cfft3BYYr6dwR5vVxhCFSeyiOsIGMhgPR15C9+czJsF6FtZj/akI6rhEziR2khvcUzOru4BFU7qD9NmMneEb64VFXNGOeezl/UqljDvU1ChHT9PB/Q1gBU4IUEj+Ajm4jeC5GoNIOPpfuvmN2y9Tw5Hb/x7pKaBbIJdxmpiOx3yVrb8VW0AsgFQk8i0yWgkmu2tRYhyLI43NL/QPlaK7sWKPXw6l4n/EuntRJ+HQY/50Ymm6SrHjp1jyGXka8pGceMeRMSHW4NhVg8yW17tTkBOehvnwgxAnbjkF5Sd8wmFjWZnWtyHapx1mt4w5zJI=;tyQqnl4kSyKIA9nScgFfQA=="
 ---

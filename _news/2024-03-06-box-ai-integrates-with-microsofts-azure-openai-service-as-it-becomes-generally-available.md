@@ -94,6 +94,20 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
+    excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
+    publishedDateTime: 2024-03-05T21:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-box-expands-its-collaboration-with-microsoft-with-new-/2024/03/05/9973398.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 61
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
     excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
     publishedDateTime: 2024-03-03T15:31:00Z
@@ -124,29 +138,6 @@ related:
         width: 328
         height: 328
         isCached: true
-  - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
-    excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."
-    publishedDateTime: 2024-03-01T07:05:00Z
-    webUrl: "https://menafn.com/1107921924/Du-To-Revolutionize-The-Digital-Landscape-In-The-UAE-With-AI-Innovation-Supported-By-Microsoft"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/01/M_f9956image_story.jpg"
-        width: 1251
-        height: 834
-        isCached: true
-  - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
-    excerpt: "Announces General Availability of Box AI for Enterprise Plus CustomersREDWOOD CITY, Calif.--(BUSINESS WIRE)--Box, Inc. (NYSE: BOX), the leading Content"
-    publishedDateTime: 2024-03-06T02:47:00Z
-    webUrl: "https://www.01net.it/box-expands-its-collaboration-with-microsoft-with-new-azure-openai-service-integration/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 41
   - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
     excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
     publishedDateTime: 2024-03-04T00:00:00Z

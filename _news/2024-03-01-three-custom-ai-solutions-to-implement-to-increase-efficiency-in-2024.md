@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-cust
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "CelcomDigi to implement Artificial Intelligence (AI) solutions from AWS"
+    excerpt: "CelcomDigi partners with AWS to revolutionize operations through AI, paving the way for an enhanced user experience & operational excellence."
+    publishedDateTime: 2024-03-05T08:34:00Z
+    webUrl: "https://www.malaysianwireless.com/2024/03/celcomdigi-ai-aws/"
+    type: article
+    provider:
+      name: malaysianwireless.com
+      domain: malaysianwireless.com
+    quality: 49
   - title: "PROG Holdings and Infosys Forge Strategic Collaboration to Bring AI-Powered Experiences to Customers and Intelligent Automation to Operations"
     excerpt: "PROG Holdings selected Infosys to assist on its technology evolution and efficiency efforts, including AI initiatives, due to Infosys' ability to provide global access to top talent and technology infrastructure that supports and augments the innovation and efforts of PROG Holding's internal technology teams."
     publishedDateTime: 2024-03-01T14:49:00Z

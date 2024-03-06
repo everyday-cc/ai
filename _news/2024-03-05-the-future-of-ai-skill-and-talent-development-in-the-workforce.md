@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Here Come the AI Worms"
-    excerpt: "Security researchers created an AI worm in a test environment that can automatically spread between generative AI agents—potentially stealing data and sending spam emails along the way."
-    publishedDateTime: 2024-03-01T08:59:00Z
-    webUrl: "https://www.wired.com/story/here-come-the-ai-worms/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/65e0e13fef1050f96f06c160/191:100/w_1280,c_limit/security_ai_worm_email_spam.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "The Impact of Artificial Intelligence on Our Encounters"
     excerpt: "According to a recent review of the literature, “In healthcare, social robots … can positively interact with the disabled, children, and the elderly, reducing the workload of nurses, physicians, and caregivers. Because of their artificial intelligence ..."
     publishedDateTime: 2024-03-05T16:22:00Z

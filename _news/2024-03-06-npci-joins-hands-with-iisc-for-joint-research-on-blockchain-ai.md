@@ -1,0 +1,68 @@
+---
+category: news
+title: "NPCI Joins Hands With IISc For Joint Research On Blockchain, AI"
+excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
+publishedDateTime: 2024-03-06T07:08:00Z
+originalUrl: "https://www.ndtvprofit.com/technology/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai"
+webUrl: "https://www.ndtvprofit.com/technology/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: ndtvprofit
+  domain: ndtvprofit.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://media.assettype.com/bloombergquint%2F2023-09%2F79a21d8a-fce8-41fc-83b5-5d03a11a9220%2FF5P4iQzbQAA51CA.jpg?rect=0%2C115%2C1024%2C538&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1024
+    height: 538
+    isCached: true
+
+related:
+  - title: "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round"
+    excerpt: "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ..."
+    publishedDateTime: 2024-03-05T15:02:00Z
+    webUrl: "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg"
+        width: 6285
+        height: 4190
+        isCached: true
+  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
+    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
+    publishedDateTime: 2024-03-06T07:08:00Z
+    webUrl: "https://yourstory.com/2024/03/npci-joins-hands-iisc-joint-research-blockchain-ai-tech"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/98e25df018b511e988ceff9061f4e5e7/Image21vt-1687328418129.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
+    excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
+    publishedDateTime: 2024-03-05T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/sahara-raises-6-million-seed-round-to-democratize-global-knowledge-capital-access-through-ai-and-blockchain-technologies-led-by-polychain-capital-1033133215"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
+
+secured: "HMuuWQWlQec6qDJZyrZ2dA/ASpfC/P85D3Jr1RV5AJ9MYJFBQBRyS8U6TgtKP5n3m6ajZmNYEJwc4blR2Npgi4cki7LpfRlgRLb9bPpATm6W53TJQCnFC5y9BSMBWd8RFWVJKcnRGDU/xnJOz/wf8Cy1MWKQFpdUfdFaCIFxuZ5mW2qnctY1rrWLPpyPDNJzrr9ivU6DJSdJI6dfwRkjiOBI01KOlEh8auoZYSDxh82/AQmbnXnOfpA0ZLpumMA+T4Z2h4dew89hovxknvYSxSuHR2WDEiRwChYiXAM4r0ZOJSMIS3fNz1jIMyiMX1hdhb53WQNlARHMN8AE7M4JZMiNVMEQFJurGURMdVI4mgg=;LCxVUT+9InL5LCTaITAWbQ=="
+---
+

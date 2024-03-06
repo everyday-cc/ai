@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
-excerpt: "Announces General Availability of Box AI for Enterprise Plus CustomersREDWOOD CITY, Calif.--(BUSINESS WIRE)--Box, Inc. (NYSE: BOX), the leading Content"
-publishedDateTime: 2024-03-06T02:47:00Z
-originalUrl: "https://www.01net.it/box-expands-its-collaboration-with-microsoft-with-new-azure-openai-service-integration/"
-webUrl: "https://www.01net.it/box-expands-its-collaboration-with-microsoft-with-new-azure-openai-service-integration/"
+excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
+publishedDateTime: 2024-03-05T21:28:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-box-expands-its-collaboration-with-microsoft-with-new-/2024/03/05/9973398.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-box-expands-its-collaboration-with-microsoft-with-new-/2024/03/05/9973398.htm"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Microsoft’s new Orca-Math AI outperforms models 10x larger"
@@ -132,20 +138,6 @@ related:
         width: 328
         height: 328
         isCached: true
-  - title: "Du To Revolutionize The Digital Landscape In The UAE With AI Innovation Supported By Microsoft"
-    excerpt: "As part of this collaboration, du is adopting Generative AI technology across its operations to enhance employee productivity and transform the customer experience. du will use the power of Microsoft Azure and Azure Open AI Service to improve call center ..."
-    publishedDateTime: 2024-03-01T07:05:00Z
-    webUrl: "https://menafn.com/1107921924/Du-To-Revolutionize-The-Digital-Landscape-In-The-UAE-With-AI-Innovation-Supported-By-Microsoft"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/01/M_f9956image_story.jpg"
-        width: 1251
-        height: 834
-        isCached: true
   - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
     excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
     publishedDateTime: 2024-03-04T00:00:00Z
@@ -156,6 +148,6 @@ related:
       domain: stockhouse.com
     quality: 17
 
-secured: "REDPy+d9IkQxcbxMnOa0n0dx4cCzxhsTY9Gs2If9WGHTe14B+kkIdzflVH0735IhlxvSorltyNn3nAdew0fH+taMrwqeyZ9l3Gt51j5jPzTdGsH6JDEvc014gft3X1BaEhX21H7Uni8ZLLC1Q1ViUrG5Uu+Fr1e+hue9cMFeV5P5J9hKLct4tdgB6yghBKubrragrZJPrwi0jd4o1oYBLylmLh+HgAYny9pNrCJzDYinEWtkj8t5OEqtAlp4EJRcUKApre6t7Gcy0AyoMZq74aiZmVfcJ386Rx9lGXtaaf7GHb7UxMRuJ/YMIkpSaW5sfptzvcKj/6l9G5Oz7kEcqpf7OeAdu/2pgYmW+SypPnl+Yr+2zy6PUqdk/j8t2T56c9ElQm5u0PC5vtohRF7dwNkuMMiU7fcoAbbqiUvt2Nij1PPyJilSuZdWorEC8TPxE2/iWzwbkMrmLMlaVdhaTYhPO43D1Htdqf0VQpupQLMrpdaGmEXiE/Lvs/vpUdaiRiz9l1w+nk4A8Q6TW2P5gA==;jJxC028jszPL7X/EfRRehA=="
+secured: "kVpsD5ArE+X4gu1paH/bAor6fKDFo6mpH8iQICWt5ELVNOkZnvQJgUnhnmNpxqSjqXI+azf5QshskyzhihiknbgsAft7GWip5ZuO5gjnJCXIcgZJAPdnGki3A/EXYXeCdl3rjHrojCuZvz3Eo46Ajso8HPQBxptKRh8Ebo/h52F7BOhkeb6zJBO5+6gjX//ocxS7K0vrdHXHqhUeiiLDZamIuX+6OdxdSqiKigseHyfjmR8w1mdaHhiU3Zo97w2MrXVTSSXYiOACp7dkdBtSQAYiqky1RV8GXH9KjEZlGq1c/x4XkPPvTkdzLIXKAgVMHmlv12HI6s7O9FzWMeoQ9wBvRvzxtSrX5OHdmar55r4=;KKTy9N/LaglXa3mSMBJ9tg=="
 ---
 

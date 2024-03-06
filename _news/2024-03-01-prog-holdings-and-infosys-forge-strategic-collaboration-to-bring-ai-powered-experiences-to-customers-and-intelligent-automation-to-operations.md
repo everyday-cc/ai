@@ -51,6 +51,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "CelcomDigi to implement Artificial Intelligence (AI) solutions from AWS"
+    excerpt: "CelcomDigi partners with AWS to revolutionize operations through AI, paving the way for an enhanced user experience & operational excellence."
+    publishedDateTime: 2024-03-05T08:34:00Z
+    webUrl: "https://www.malaysianwireless.com/2024/03/celcomdigi-ai-aws/"
+    type: article
+    provider:
+      name: malaysianwireless.com
+      domain: malaysianwireless.com
+    quality: 49
 
 secured: "rkzDZ99SYPoCMUyuGWFGNFjOmAvec/pGM//DABc9Z/Dt+YqpXjzztDUX3GPvIgHJJbi41DuVo5gao9jsN7kHs2ngWLWexZgxx7mwlPX1ohZ2IvRLgk+cHadm8xDhWucNp8c62LaaHl7c3Xi78RQOj/3HZzwqIbTfORBMiI7KEFZ9S5L7rdkZcaSaFOpItL8v7+bXNUDbtTcUgJytvgBg+CpbNzeHlc35+RioQgq6jAhWDhfVhSilLmOl3wqEKG+BXgJIQrbseuvZffpikti3t4C5sGFg18JEIfMQ+eZ9Y0jMlMdXD/K0UBKPanMf1urzS6rHEDCkLcE57OxLg4W0FMcxAOmRNvklvALOFi3BmlU=;ofhb2/ELRnm1KdZxAVpDcA=="
 ---

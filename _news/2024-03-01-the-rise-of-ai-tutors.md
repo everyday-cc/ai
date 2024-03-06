@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
 type: article
 quality: 87
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://images.mktw.net/im-496944/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Here Come the AI Worms"
-    excerpt: "Security researchers created an AI worm in a test environment that can automatically spread between generative AI agents—potentially stealing data and sending spam emails along the way."
-    publishedDateTime: 2024-03-01T08:59:00Z
-    webUrl: "https://www.wired.com/story/here-come-the-ai-worms/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/65e0e13fef1050f96f06c160/191:100/w_1280,c_limit/security_ai_worm_email_spam.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "The Future Of AI Skill And Talent Development In The Workforce"
     excerpt: "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?"

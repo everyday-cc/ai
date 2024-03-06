@@ -236,7 +236,7 @@
       "originalUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -280,7 +280,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "",
@@ -352,17 +352,17 @@
     {
       "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
       "title": "Humanoid robot-maker Figure partners with OpenAI",
-      "excerpt": "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ...",
+      "excerpt": "In a previous video, Musk showcased Optimus folding a shirt, clarifying that the robot was n… ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ...",
       "sourceUrl": null,
-      "webUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
-      "originalUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
+      "webUrl": "https://www.stltoday.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_8c3056f9-fe57-5b32-9623-4616da2b6e34.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_8c3056f9-fe57-5b32-9623-4616da2b6e34.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/2/73/273a2c51-e6df-5dca-a76b-ab278f9d1e77/65e1032903339.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/c3/8c3056f9-fe57-5b32-9623-4616da2b6e34/65e1032903748.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -374,11 +374,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T23:40:00Z",
+      "publishedDateTime": "2024-03-01T00:19:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "tdn",
-        "domain": "tdn.com",
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
         "images": null,
         "publishers": null,
         "authors": null

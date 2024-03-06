@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
     quality: 69
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/analyst_ratings_image_2.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Dell, SoundHound AI And 3 Stocks To Watch Heading Into Friday"
-    excerpt: "With U.S. stock futures trading higher this morning on Friday, some of the stocks that may grab investor focus today are as follows:"
-    publishedDateTime: 2024-03-01T07:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dell-soundhound-ai-and-3-stocks-to-watch-heading-into-friday-1033121837"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/03/01/dell_-_logo.jpg"
         width: 1024
         height: 768
         isCached: true
