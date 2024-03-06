@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arre
 cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 6630
         height: 5304
         isCached: true
-  - title: "Waymo's massive self-driving expansion gets green light"
-    excerpt: "While some of the industry's biggest players are abandoning their self-driving vehicle efforts, Waymo is gearing up for a massive expansion."
-    publishedDateTime: 2024-03-01T22:32:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-robotaxi-plans-win-california-approval"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
   - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
     excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
     publishedDateTime: 2024-03-03T21:38:00Z

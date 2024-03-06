@@ -37,7 +37,7 @@ related:
     provider:
       name: WTOP News
       domain: wtop.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
         width: 512

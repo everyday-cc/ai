@@ -107,7 +107,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -443,34 +443,34 @@
     {
       "path": "_news/2024-02-29-meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports.md",
       "title": "Meta plans launch of new AI language model Llama 3 in July, The Information reports",
-      "excerpt": "Feb 28 (Reuters) - Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better ...",
+      "excerpt": "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/",
-      "originalUrl": "https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/",
+      "webUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T16:31:00Z",
+      "publishedDateTime": "2024-02-29T12:31:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

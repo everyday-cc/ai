@@ -2,6 +2,171 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2024-01-16-elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.md",
+      "title": "Elon Musk gives Tesla ultimatum: Another 12% of shares or no AI, robotics",
+      "excerpt": "Click to expand... And because of course he fucking is: \"Musk is attempting to recover control that has been lost from his stock sales to fund Twitter,\" CFRA Research analyst Garrett Nelson said. \"We view Musk's demands as posturing ahead of the Delaware ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/civis/threads/elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.1498276/page-13",
+      "originalUrl": "https://arstechnica.com/civis/threads/elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.1498276/page-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-what-elon-musk-wants-if-hes-going-to-build-ai-and-robotics-systems-for-tesla.md",
+      "title": "What Elon Musk wants if he's going to build AI and robotics systems for Tesla",
+      "excerpt": "Tesla CEO Elon Musk indicated Monday that he wants a bigger voting share of the electric car behemoth if he's going to grow the company as a leader in artificial intelligence and ... understand that Tesla is not one startup, but a dozen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2024/01/16/elon-musk-twitter-25-percent-ai-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/news/2024/01/16/elon-musk-twitter-25-percent-ai-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-8-vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer.md",
+      "title": "8 Vision Pro accessories to get the most out of Apple’s spatial computer",
+      "excerpt": "BGR lists some of the accessories you might need to enjoy Apple Vision Pro when this spatial computer finally launches for US customers.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer/",
+      "originalUrl": "https://bgr.com/tech/vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/06/apple-vision-pro-official-4.jpg?quality=82&strip=all",
+          "width": 1599,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T18:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-will-artificial-intelligence-be-sociopathic.md",
+      "title": "Will Artificial Intelligence Be Sociopathic?",
+      "excerpt": "Evolution favored social bonding and cooperation within our species. Empathy and concern for the welfare of others was critical to our survival. There is no guarantee that AGI systems can be infused with a social conscience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/Screenshot%202024-01-15%20at%209.18.00%20AM.png.jpg?itok=N1nYORYv",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
+      "publishedDateTime": "2024-01-15T17:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-15-the-top-12-people-in-artificial-intelligence-policy-ethics-and-research.md",
       "title": "The top 12 people in artificial-intelligence policy, ethics, and research",
       "excerpt": "Before getting his Ph.D. in math and artificial intelligence, Legg briefly studied finance in Switzerland. Since 2021, Mitchell has worked as a researcher and the chief ethics scientist at Hugging ...",
@@ -931,151 +1096,6 @@
       "provider": {
         "name": "Labroots",
         "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-new-laws-to-curb-danger-of-high-risk-artificial-intelligence.md",
-      "title": "New laws to curb danger of high-risk artificial intelligence",
-      "excerpt": "Legislative controls on the use of AI will form part of the federal government’s first major response to regulating the rapidly advancing technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "originalUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "publishedDateTime": "2024-01-13T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off-the-wire-podcast.md",
-      "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast",
-      "excerpt": "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
-      "originalUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-the-best-new-gadgets-and-tech-from-ces-2024.md",
-      "title": "The best new gadgets and tech from CES 2024",
-      "excerpt": "From translucent TVs to indoor smokers, the Consumer Electronics Show never disappoints when it comes to cool new gear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
-      "originalUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2024/01/12/best-of-ces-header.jpg?auto=webp",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-autonomous-driving-innovation-slower-than-expected.md",
-      "title": "Autonomous Driving innovation: ‘Slower than Expected’",
-      "excerpt": "The much-anticipated autonomous car revolution is making significant progress, as evidenced by the multitude of displays at the Consumer Electronics Show (CES) in Las Vegas. Despite the negative headlines surrounding the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "originalUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T13:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
         "images": null,
         "publishers": null,
         "authors": null

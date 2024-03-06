@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Aethir aims to be the Airbnb for spare GPU — Co-founder"
+title: "Aethir aims to be the Airbnb for spare GPU: Co-founder"
 excerpt: "Aethir aims to become the AirBnB of spare graphics processing units (GPUs), Dan Wang, the co-founder and chief business officer of Aethir, told Cointelegraph in an exclusive interview."
 publishedDateTime: 2024-03-06T16:10:00Z
-originalUrl: "https://cointelegraph.com/news/aethir-aims-airbnb-spare-gpu-cofounder"
-webUrl: "https://cointelegraph.com/news/aethir-aims-airbnb-spare-gpu-cofounder"
+originalUrl: "https://cointelegraph.com/news/aethir-aims-airbnb-spare-gpu-co-founder"
+webUrl: "https://cointelegraph.com/news/aethir-aims-airbnb-spare-gpu-co-founder"
 type: article
 quality: 34
 heat: 34
@@ -18,6 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "S2KxbxApzN3/rwNQK1L8bcfYA48k1ZKXPJ89xbNFIQ62OmcTXPdXcALRRyKHu4eodr2y73gsf1Odf4ll7BPu6J42s2vokXDHFLOGGk4CLoOJJn0/40yRQuHJN9o+a/+lYfGpHbinK6ZOF3GOcNQWFjJDY4k2pIYVKY5F4VJGtPdlog/wupf4R9HQWJZwDSIgerb6EgsAKpJ2PnEaxX4/grTX83HVHo9ClEkAZYqY+pIKvWQDuE+PDIX5XFEDSVN3Y5zjyJ1hJtfsBDbMBFDfH6/Zj9zhT4iQXAIxe416Knlh4l6ezOtMvV6rz5GHBelCNTegfWTYQ2waA/bxjtN3zDTTDxhUgV56W1Ouc5yJKVSV+DG0pBEx9ES1XXUITQk0dknJ+PjriQoWsfc4g6tQb01k40cUkCggJlrEMIv85bhsZo9jly6Jr3eqxHOz4OKZF+Z5d9Y9dOfwmGyYkF1UT7INkLjZMNBoKdpweayK7ZVSnRO8XSVJbyRXEdLNcw6Lg6uAjxB6kJkuuhJ7pkqX2w==;uFham00s6mrFKa8CgydGyw=="
+secured: "UzCfVICEGhYISMqFjitsRaMBOPtwiLWIsBzQkX8bIQhOMbW7QT8LUsbiZ2nd5uc7hYVXWW2hEgq8f5Go1fbxR82POF6SPkX3gucBkFRW3PAToQ4kpLHb5kcFM99sS7d0HAT7/Q6GeSWUIoWH2BHJuO9Ujc8ZbRTRQS/XKoPtbz5BCOKTdxOtQsvrHZLxQzp4c4UFK3qBK2zqZy96H4s1xbqQ9Q0lcYW7dC7AU8fjrKgGW275hbYGcazoXpUOTyrRyPLG4EToHINlBswU/KcZ6ECiiJOdo5yA6a3oq8+vQZJ7LQf7nFIYt+WWe5mLtbjs1MppTeMQmpaLEjWvFDRL8BLACQQanLOllvp4qXToN8nX0/OYSMr63na75o70cLG8IvsUcwt4jcU+z20Uu5ThB1xmlB/sbx3wYZ7clG/HuULesULuswbcBDBJkr7CENC9t7sr6MiFUuwtu4pyexpwHeMFuIPpN38166plr81wgj5dbJ69f5nealFAa2wUizcaW/FGk8SrSh/Nvjcww1QFOQ==;PWlMHO1LuwqB8Y7A4NkRUQ=="
 ---
 

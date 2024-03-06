@@ -2,6 +2,179 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-12-05-stevens-institute-for-artificial-intelligence-looks-at-prospects-for-ai-and-robotics.md",
+      "title": "Stevens Institute for Artificial Intelligence looks at prospects for AI and robotics",
+      "excerpt": "The Stevens Institute for Artificial Intelligence's director shares his perspectives on AI policy, generative AI, and machine learning and legged robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/stevens-institute-for-artificial-intelligence-looks-at-ai-robotics-prospects/",
+      "originalUrl": "https://www.therobotreport.com/stevens-institute-for-artificial-intelligence-looks-at-ai-robotics-prospects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/SIAI_ROV.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T23:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-helios-upgrades-platform-with-machine-learning.md",
+      "title": "Helios upgrades platform with machine learning",
+      "excerpt": "New feature aggregates and analyzes data in real-time to bolster the firm's quantitative investment methodologies while optimizing client outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financial-planning.com/news/helios-upgrades-platform-with-machine-learning",
+      "originalUrl": "https://www.financial-planning.com/news/helios-upgrades-platform-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/80a172f/2147483647/strip/true/crop/5760x3024+0+128/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F40%2F43%2F38fa0f144165a54a56163201babb%2Fadobestock-376488024.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T23:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Planning",
+        "domain": "financial-planning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-artificial-intelligence-drives-the-trucking-industry.md",
+      "title": "Artificial Intelligence drives the trucking industry",
+      "excerpt": "Artificial intelligence could forever alter the trucking sector with driverless vehicles, but some companies are using game-changing technology to make the vehicles safer and their fleet more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road",
+      "originalUrl": "https://www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/bb656892-99e3-4807-8fd6-e30820ecd281/c541636a-4444-422a-8327-3bd55b30bf00/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/artificial-intelligence-adapts-on-the-road.amp",
+      "publishedDateTime": "2023-12-04T22:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-member-panel-artificial-intelligence.md",
+      "title": "Member Panel: Artificial Intelligence",
+      "excerpt": "Hear from three members whose companies were using artificial intelligence long before 2023 about how they're making the most of the breakthrough technology in the year ahead. Got a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/12/04/member-panel-artificial-intelligence.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/12/04/member-panel-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T21:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-ibms-10-year-blueprint-for-error-corrected-quantum-computing.md",
       "title": "IBM’s 10-Year Blueprint For Error-Corrected Quantum Computing",
       "excerpt": "IBM’s new quantum computing roadmap provides a detailed and credible plan to build an error-corrected quantum computer before the end of the decade.",
@@ -911,178 +1084,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-a-new-world-of-artificial-intelligence.md",
-      "title": "A new world of artificial intelligence",
-      "excerpt": "AI has existed in sports for a quarter-century but not like this. Generative AI, the field that underlies ChatGPT, creates new data and content. Even what the public saw a year ago was not truly new technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/Articles/2023/12/04/artificial-intelligence.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/Articles/2023/12/04/artificial-intelligence.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sportsbusinessjournal.com/-/media/Images/Journal/2023/12/04/InDepth/Main-PGA-Tour-Virtual-Assistant_9382.ashx",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T11:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-fintech-in-2024-the-big-questions-answered.md",
-      "title": "Fintech in 2024: The big questions answered",
-      "excerpt": "In this roundtable, we ask how the industry could be affected by changes in cybersecurity, crypto, AI, open banking, mobile and welltech going into 2024",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
-      "originalUrl": "https://fintechmagazine.com/articles/fintech-in-2024-the-big-questions-answered",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1200/73170323e972627b65ae532c17c7d8ec:a4684e747c11e71a1a8b0bbb3fdceef7/gettyimages-1321209107.jpg.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T09:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models.md",
-      "title": "Landing AI Announces New Capability to Build Domain-Specific Large Vision Models",
-      "excerpt": "LVMs enable enterprises to solve computer vision problems more quickly; Landing AI to help enterprises build and run LVMs at the edge, on-prem, and in the cloud PALO ALTO, Calif. , Dec. 4, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-announces-new-capability-to-build-domain-specific-large-vision-models-1032870378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2291237/LVMs.jpg",
-          "width": 400,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T08:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-seismic-therapeutic-closes-121-million-series-b-financing-to-advance-immunology-pipeline-optimized-by-its-machine-learning-platform.md",
-      "title": "Seismic Therapeutic Closes $121 Million Series B Financing to Advance Immunology Pipeline Optimized by its Machine Learning Platform",
-      "excerpt": "CAMBRIDGE, Mass.--(BUSINESS WIRE)--Seismic Therapeutic, Inc., the machine learning immunology company, today announced that it has closed a $121 million Series B financing. The Series B was led by new investor Bessemer Venture Partners with participation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231204060594/en/Seismic-Therapeutic-Closes-121-Million-Series-B-Financing-to-Advance-Immunology-Pipeline-Optimized-by-its-Machine-Learning-Platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

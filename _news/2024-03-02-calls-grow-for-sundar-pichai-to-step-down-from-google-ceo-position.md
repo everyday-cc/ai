@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/go
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-sundar-pichai-step-down-ceo-9191645/lite/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "There are growing calls for Google CEO Sundar Pichai to step down"
-    excerpt: "Analysts believe Google's search business is keeping it safe for now, but that could change soon with generative AI rivals proliferating."
-    publishedDateTime: 2024-03-01T20:44:00Z
-    webUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3"
-    ampWebUrl: "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/65e2308f90413ab8e1d877dd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "StouWDZZ+vDSbHONrk8CnfqpXpSqvFX2f0wBD+8hmI6jMgxh7bJtf1pKq5t8JsC1ATba7DCfAMPkIJCR5efMiFewK7kO6C27JWdZttqJ/VrTYFeC3fP/0uhrgGdKvKDWNPNo6e9Wh3K8AGj78+gd/OSautgxDJ/TOI2VkUVB2vxDgOkOIQdEWpoRhXaQVlcspaTunDO86u+M6HV6eD3SzGeuZMw79ZkE/bZ/xDGYEzS6shKqbmyefIAWtVgtMZPdUQARGawp6MheeE8jUNV3APfko7GhHu9BW6I47l68GN6mYGxJjEdOZNm20T7zjL510rfo+OHvqxw8IYhK+/9IsMcd0Xw8jBESvtRG5iiI/ko=;ER9vV/sk/8fBjw6DUPtd0w=="
 ---

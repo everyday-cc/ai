@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-gi
 webUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
+    quality: 49
+  - title: "How NVIDIA leads the world by making AI user-friendly"
+    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
+    publishedDateTime: 2024-03-06T19:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 49
   - title: "Jim Cramer Picks These 4 Stocks As Better AI Investments Alongside Nvidia, Skips Super Micro Computer"
     excerpt: "CNBC’s “Mad Money” host Jim Cramer has suggested that there are better investment options in the artificial intelligence (AI) sector than Super Micro Computer Inc. (NASDAQ:SMCI). What Happened: Cramer identified four stocks that he believes are superior AI investments compared to Super Micro Computer, CNBC reported on Monday."

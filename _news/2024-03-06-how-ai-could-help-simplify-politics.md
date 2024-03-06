@@ -36,7 +36,7 @@ related:
   - title: "Artificial intelligence: How AI could be used to recreate old smells"
     excerpt: "Artificial intelligence is used in lots of different types of research. Last year it was used to find energy efficient homes, digitally unwrap an ancient scroll, and even search for aliens! Now scientists from the Norwegian University of Science and Technology are trying to use it to recreate different scents."
     publishedDateTime: 2024-03-04T13:54:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/68469258"
+    webUrl: "https://www.bbc.co.uk/newsround/68469258.amp"
     type: article
     provider:
       name: BBC

@@ -2,6 +2,216 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2024-01-22-opinion-the-big-ai-party-is-not-cancelled-just-postponed.md",
+      "title": "Opinion: The big AI party is not cancelled, just postponed",
+      "excerpt": "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html",
+      "originalUrl": "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg",
+          "width": 3501,
+          "height": 2469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T11:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-addressing-two-common-fintech-issues-with-ai-exploring-solutions.md",
+      "title": "Addressing Two Common Fintech Issues With AI: Exploring Solutions",
+      "excerpt": "The ability of AI algorithms to identify potential risks by analyzing historical financial data, transactional behavior and customer profiles is the reason that a significant number of fintech companies have already implemented the technology for fraud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6446b86f7e2e09f059a821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1502,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/",
+      "publishedDateTime": "2024-01-22T10:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.md",
+      "title": "Azure AI Studio: A nearly complete toolbox for AI development",
+      "excerpt": "Azure AI Studio has competition from the usual suspects ... Hyperparameter tuning is as much a thing for LLM prompts as it is for training machine learning models. The usual important hyperparameters for LLM prompts are temperature, context window ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/05/shutterstock_175644863-100940898-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
+      "publishedDateTime": "2024-01-22T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-despite-all-the-ai-hype-success-depends-on-just-one-thing.md",
+      "title": "Despite all the AI hype, success depends on just one thing",
+      "excerpt": "It's easy to be seduced by the power of artificial intelligence, but this data expert sees a single ingredient as the key to making the most of this emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "originalUrl": "https://www.zdnet.com/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fd4c41aa99d512dee49242778c5e4136ef5a8a39/2024/01/22/4dfa338d-cf46-4b89-ae1e-1a2a8ab297b9/pedoverpassgettyimages-1757970102.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "publishedDateTime": "2024-01-22T09:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google.md",
       "title": "DeepMind scientists consider founding AI startup, reportedly resign from Google",
       "excerpt": "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris.",
@@ -941,176 +1151,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-musks-ai-startup-secures-500-million.md",
-      "title": "Musk's AI startup secures $500 million",
-      "excerpt": "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107021312,width-1070,height-580,imgsize-28642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms",
-      "publishedDateTime": "2024-01-21T01:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence.md",
-      "title": "Davos 2024: Top quotes from tech world’s leading minds on artificial intelligence",
-      "excerpt": "In all, about 60 heads of state and 800 CEOs were in attendance among a total of 2,800 participants, as they discussed wide-ranging issues — from climate change to economic slowdowns — at both formal and informal gatherings.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/articleshow/107017806.cms?from=mdr",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/articleshow/107017806.cms?from=mdr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-124830,msid-107017807/switzerland-davos-forum.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/amp_articleshow/107017806.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/amp_articleshow/107017806.cms",
-      "publishedDateTime": "2024-01-21T00:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-savannah-march-joins-nationwide-recognition-of-upcoming-roe-v-wade-anniversary.md",
-      "title": "Savannah march joins nationwide recognition of upcoming Roe v. Wade anniversary",
-      "excerpt": "The abortion rights marches come one day after the anti-abortion March for Life was held in Washington, D.C. Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/2024/01/20/savannah-ga-roe-march-abortion-rights/72296058007/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/2024/01/20/savannah-ga-roe-march-abortion-rights/72296058007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T22:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-harnessing-ais-potential-to-boost-your-career.md",
-      "title": "Harnessing AI’s Potential To Boost Your Career",
-      "excerpt": "Workplace futurist Marti Konstant suggests that AI can supercharge careers. Like the internet in the 90s, AI will become an essential tool for knowledge workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/",
-      "originalUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ac38c2447a46ffb0923861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1261,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/",
-      "publishedDateTime": "2024-01-20T21:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

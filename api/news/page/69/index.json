@@ -2,6 +2,151 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2024-01-14-new-laws-to-curb-danger-of-high-risk-artificial-intelligence.md",
+      "title": "New laws to curb danger of high-risk artificial intelligence",
+      "excerpt": "Legislative controls on the use of AI will form part of the federal government’s first major response to regulating the rapidly advancing technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "originalUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "publishedDateTime": "2024-01-13T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sydney Morning Herald",
+        "domain": "smh.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off-the-wire-podcast.md",
+      "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast",
+      "excerpt": "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
+      "originalUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-the-best-new-gadgets-and-tech-from-ces-2024.md",
+      "title": "The best new gadgets and tech from CES 2024",
+      "excerpt": "From translucent TVs to indoor smokers, the Consumer Electronics Show never disappoints when it comes to cool new gear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
+      "originalUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2024/01/12/best-of-ces-header.jpg?auto=webp",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-autonomous-driving-innovation-slower-than-expected.md",
+      "title": "Autonomous Driving innovation: ‘Slower than Expected’",
+      "excerpt": "The much-anticipated autonomous car revolution is making significant progress, as evidenced by the multitude of displays at the Consumer Electronics Show (CES) in Las Vegas. Despite the negative headlines surrounding the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
+      "originalUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T13:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-check-it-out-read-up-on-artificial-intelligence.md",
       "title": "Check It Out: Read up on artificial intelligence",
       "excerpt": "Stories about artificial intelligence have been all over the news. On one hand, it sounds amazing. AI is already being used in medicine to help with diagnosing patients, transcribing medical documents",
@@ -895,186 +1040,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-application-development-software-market-2024-size-industry-shares-revenue-business-opportunities-and-forecast-till-2032.md",
-      "title": "Application Development Software Market 2024 Size, Industry Shares, Revenue, Business Opportunities And Forecast Till 2032",
-      "excerpt": "Report Ocean published the latest research report on the  Application Development Software Market  . In order to comprehend a market holistica",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
-      "originalUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528",
-          "width": 258,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-how-to-pick-a-name-for-your-ai-startup.md",
-      "title": "How to pick a name for your AI startup",
-      "excerpt": "Where should you be driving brand attribution and awareness long-term? Should you use “AI” in your product or company name? Let’s start with “AI” itself. In this world of exploding innovation in the AI industry, a great name paired with a great ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/how-to-pick-a-name-for-your-ai-startup/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/how-to-pick-a-name-for-your-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1054956204.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-ces-2024-older-seniors-are-happily-living-with-aiin-the-form-of-chatty-robot-elliq.md",
-      "title": "CES 2024: Older seniors are happily living with AI—in the form of chatty robot ElliQ",
-      "excerpt": "But it's probably not the generation that would first come to mind. ElliQ, a voice-operated, AI-enabled care companion robot, is gaining traction with ... This is primarily used to better control the context and flow of the conversation, decide when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
-      "originalUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/quartz/qcloud5/media/image/ElliQ%203.0%20D.jpg?VersionId=MA8l7w6puA0nUMFm4f41g8svtQC1uMoa",
-          "width": 2835,
-          "height": 1890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fierce Healthcare",
-        "domain": "fiercehealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-how-beamr-technology-can-boost-machine-learning.md",
-      "title": "How Beamr Technology Can Boost Machine Learning",
-      "excerpt": "Beamr BMR is advancing on a new front and reveals its capability to boost Machine Learning for video. Machine Learning and Artificial Intelligence for video have demonstrated immense achievements and have even more tremendous potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/12/screenshot_2024-01-12_at_7.02.46_pm.png?width=1200&height=800&fit=crop",
-          "width": 1005,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "publishedDateTime": "2024-01-12T12:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

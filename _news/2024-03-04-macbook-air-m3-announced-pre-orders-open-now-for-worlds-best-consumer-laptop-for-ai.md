@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "iOS 18 is all about iPhone AI, and Apple’s M3 MacBook Air announcement is proof"
+    excerpt: "Enhancing an image with AI using Photomator’s Super Resolution feature is up to 40 percent faster than the 13-inch model with the M1 chip, and up to 15x faster for customers who haven’t upgraded to a Mac with Apple silicon.1 Later, Apple calls the M3 ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://bgr.com/tech/ios-18-is-all-about-iphone-ai-and-apples-m3-macbook-air-announcement-is-proof/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 35
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/08/macbook-air-2023-7.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1406
+        isCached: true
 
 secured: "13rQWGlIEcrlpygAoYkeFTYk+UxrsgTwrF6TFBThpazrvaWXJnCoxeNP8mwm8EuRDxvP3GZDj0uLovXIs2DiiKPlopUZcXfKdagJ5Yh3QUUq4v4fXRrGLlDUkESelBia40lTBF7NLKL3h+aI4A/+HFr9ZooInGC/z55zEnAMFaW3QSU0seLxyFFy9DyVzCtFFS0x23/4EqL1PD2qVqbrxd7Z+1NjZ+0BhcMNmtPr23CZ8+K+v4GYEPnLeWc5+LqZ7RfLHWR9Jx4PhyhIBf5pib3eR8idyayB7ogAavJHjHpJUnvx+hEFt4xmtlyYK5E9+sqTtW7gGsLV3TawyKqgNqj8juNW85i4cTYBgkzmwrTovE9YKoMjtlqBqlRmbsr6W6HXUVNVUbXxiZP/C75nZHDEA/486zGSFylVN7aRsvtlnyBI8GTC3GfyoicTOJzD+4grqV5tiEg4liPiOUNVYz1hr9aT55KSJMZgDuaQ4f7zWmz2ibKrHxuBajb2MzlhTURJ9jGxqPe1uJQQt+F7Gw==;Y4uFbGXiJuhwR9qQF+Dyow=="
 ---

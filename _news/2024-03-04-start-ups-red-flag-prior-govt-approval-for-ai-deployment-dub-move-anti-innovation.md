@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 843
         isCached: true
+  - title: "India’s AI Regulators Need Scalpels, Not Hammers"
+    excerpt: "A vague decree has revived fears that government overreach will stifle innovation in the country’s booming tech sector."
+    publishedDateTime: 2024-03-06T22:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-06/india-s-clumsy-ai-decree-could-stifle-innovation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "What remains unclear about Indian Government’s advisory on AI models"
     excerpt: "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 doesn’t explicitly include AI models under the definition of an intermediary or a content publisher, as such, would it be fair to interpret the rules to ..."
     publishedDateTime: 2024-03-05T00:00:00Z

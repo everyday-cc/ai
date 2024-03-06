@@ -24,6 +24,17 @@ images:
     height: 260
     isCached: true
 
+related:
+  - title: "Healthcare Leaders Remain Focused on Cybersecurity and Efficiency"
+    excerpt: "Healthcare CIOs are taking stock of their security ecosystems as they prepare to innovate with emerging technologies."
+    publishedDateTime: 2024-03-06T20:01:00Z
+    webUrl: "https://healthtechmagazine.net/article/2024/03/healthcare-leaders-remain-focused-cybersecurity-and-efficiency"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 34
+
 secured: "Pa91LdybPOU484or8/xb9j5vUwEXcwRRF0jJYP1SsY3Sl1vhD8iCfX7/LOv5gyxvzv9+5tliS7AzQ7yH4oDs4nOuMCcj+pcBYw9YG3PdGYo2skgKsKj8dnRF9rxXO2LYUEzBv0vSUnLHfdT0usm0+UM3sVTN2+psK8NH99EMMcnFvJyx1kh6AcL4cAnVeGpeMFVn2yAhup3/ZRUtBhvLDRS+SLB0R37xu/ukw6hIBW4EKAZImyCgjkPFPOzcLjpK1vju93fu05LyAX+TqLX1opqYeNy9HHprXkt/z97lKemd5dPI2AngxU4wM6TtUBIbBDsJF5innNc0Aa3NDTsi3jPLxwuZTRi4eyWO5RRFd2Y=;ZAL8p128+4vKof6WAVeLlA=="
 ---
 

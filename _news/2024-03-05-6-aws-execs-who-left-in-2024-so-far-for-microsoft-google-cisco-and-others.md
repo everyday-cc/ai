@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-s
 webUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,40 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "LGDaji7sp6CVVF2x0Ue1jX/ztZx194T+sHZWZKgtWewkKuS++4xwJ5X3dUYP/Ug/V3jxGGikcKlivbyK5CND6RDxO8sVw7BobBzNaozpMzQq50fMp5FRQbTonacnwfdXVXuDS4AwL1hEsMlMSf/2DboX5rGrZZI6arv2QOmpGVz5q85KOeVZYQfVNKFuZc+Nux9eOO60MWmNMGuMlvxvdj4Uhu/MSgj3imilF++5tEYWdPj19jBz+8Y3oQfYJK0KE9sVjUKkikxBOoHZCeeVDGzp69cQBf7nGcbKsWxk+N0Uu9LmlBbci//7F3mElW6anltMsxiQt0d3KkKwPTJ0cBdYHDng9hhMosev4uUNMcJxkRG19NpFN/qqDlatFcBLCaJTSPCTMIioZX0srcitZnC8Ttk7q9GHTOqB29R5cYwvZ2IjORM4xA85AqeJRDGp1DMkFRBLBA4U4p8wXrrBIdCF29STKimJSJNZbl3+xvDF89eAgKtQxHJ0HrII4XodZ81WZ3ioYfXyXSmYwoJzXA==;79zrwCOJjwT9B5Aq+4ks1g=="
+related:
+  - title: "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo"
+    excerpt: "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight."
+    publishedDateTime: 2024-03-06T10:05:00Z
+    webUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
+    excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
+    publishedDateTime: 2024-03-04T18:14:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 47
+  - title: "Atlanta wants Microsoft to bring city 15,000 jobs or return land"
+    excerpt: "Atlanta's mayor is pressing Microsoft about the future of a 90-acre site. The tech giant says it's reevaluating its global real estate portfolio post-pandemic."
+    publishedDateTime: 2024-03-01T23:44:00Z
+    webUrl: "https://www.seattletimes.com/business/atlanta-wants-microsoft-to-bring-city-15000-jobs-or-return-land/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+
+secured: "abkQ2NKPnnIARK713mRTw+3MiXaDbal/NHKi3xoKdzyQl9eJUhY7NPqfVOA1d98ToyW9OmyQpfBtkcu9WzSHCywsQ7xDfo61hkh/1X6k1CY/K+X0wcwWSpa4It8LwF34GwEY4u8hUiJsrc7L7fl7cqEznRBz0MmvImtWJGQVuzC79pKHdvZFaKCLLZXNk/oYdP1Y93MQcvewx2Hx54eKCxBxAneXfphRUzIhqH7VrJrwUVJSs3cQIxIAdo4xNVAue/V71IhuDb3fMUrSf28YRCoJiGRc8Gl4DSroTZ2mLX7t0dRtLyB1rs729TTDjRLTOKvVOzvTdp5h/Lgh431RbdUYfSffnNLDvnBEVNtbwVaSw0aqu9HEaYFlNsbeuhYXq5na/cqwlR6oyHVosjUZ3S+DPerYDCuqf7d+Wz1l03gcN64ajUbb7a8yB73lv3snXjzL4yS+JUwDfYjy67BGoOKbbYEA7Drmydvsf2yOoEYtS85osHeVPaLMw4fj1KPoEVlT2Ow5xjDkOsEedoyF/A==;R2US0kzgfvyXXWZEe296Yw=="
 ---
 

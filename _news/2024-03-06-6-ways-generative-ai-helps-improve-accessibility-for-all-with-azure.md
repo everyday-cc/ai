@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-
 webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "9 ways developer productivity is boosted by generative AI"
+    excerpt: "Generative AI is just one tool in the toolbelt that helps improve developer productivity with methodologies, frameworks and best practices.\nThe post 9 ways developer productivity is boosted by generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-03-06T20:10:24Z
+    webUrl: "https://www.ibm.com/blog/developer-productivity/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Accenture partners with Cohere to bring generative AI to enterprises"
     excerpt: "The collaboration between Accenture and Cohere, announced today, aims to provide enterprise clients with tailored generative AI solutions that can significantly boost productivity and efficiency across industries."
     publishedDateTime: 2024-03-06T06:29:00Z

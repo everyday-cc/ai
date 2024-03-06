@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-business-groq-a
 webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-business-groq-acquires-definitive-intelligence-to-bolster-groqcloud-unit/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Groq acquires Definitive Intelligence to scale its cloud platform"
-    excerpt: "The companies announced the transaction today. The deal will help Groq enhance the capabilities of its newest offering, a cloud platform called GroqCloud that provides on-demand access to its AI chips. Groq was founded in 2016 by Chief Executive Officer ..."
-    publishedDateTime: 2024-03-01T21:44:00Z
-    webUrl: "https://siliconangle.com/2024/03/01/ai-chip-startup-groq-acquires-definitive-intelligence-scale-cloud-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Groq.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "AI chip startup Groq has established a new business unit and expanded its operations by acquiring Definitive Intelligence."
     excerpt: "In a bold move that underscores the rapidly evolving landscape of artificial intelligence (AI) technology, Groq, a pioneering startup in the chip"
     publishedDateTime: 2024-03-04T06:53:00Z

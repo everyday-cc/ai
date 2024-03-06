@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI chip startup Groq acquires Definitive Intelligence to scale its cloud platform"
-    excerpt: "The companies announced the transaction today. The deal will help Groq enhance the capabilities of its newest offering, a cloud platform called GroqCloud that provides on-demand access to its AI chips. Groq was founded in 2016 by Chief Executive Officer ..."
-    publishedDateTime: 2024-03-01T21:44:00Z
-    webUrl: "https://siliconangle.com/2024/03/01/ai-chip-startup-groq-acquires-definitive-intelligence-scale-cloud-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Groq.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "AI chip business Groq acquires Definitive Intelligence to bolster GroqCloud unit"
     excerpt: "AI chip startup Groq has acquired Definitive Intelligence for an undisclosed sum. The acquisition will support the company’s newly formed GroqCloud unit, which will be led by Definitive Intelligence co-founder and CEO Sunny Madra. GroqCloud is a cloud ..."
     publishedDateTime: 2024-03-04T00:00:00Z

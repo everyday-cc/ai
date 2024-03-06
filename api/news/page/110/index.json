@@ -2,6 +2,178 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-12-03-i-made-a-gpt-a-custom-version-of-openais-chatgpt-and-it-only-took-me-15-minutes-heres-how.md",
+      "title": "I made a GPT, a custom version of OpenAI's ChatGPT, and it only took me 15 minutes. Here's how.",
+      "excerpt": "You can now create your own version of OpenAI's ChatGPT — and it can take as little as 15 minutes. In early November, OpenAI unveiled a slate of updates to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12",
+      "originalUrl": "https://www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6568c7ea86933e8fdb2e6e20?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-make-gpt-custom-chatgpt-ai-15-minutes-guide-2023-12?amp",
+      "publishedDateTime": "2023-12-03T12:33:04Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-tesla-showcases-advanced-self-driving-technology-in-ai-hiring-announcement.md",
+      "title": "Tesla showcases advanced self-driving technology in AI hiring announcement",
+      "excerpt": "Tesla is showcasing its Full Self-Driving (FSD) beta and recruiting for its AI team. The company is seeking AI Research Scientists to work on next-generation autonomy and end-to-end models using massive fleet data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/12697/Tesla-showcases-advanced-self-driving-technology-in-AI-hiring-announcement",
+      "originalUrl": "https://www.futurecar.com/12697/Tesla-showcases-advanced-self-driving-technology-in-AI-hiring-announcement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202312/03/l_656c8090d0abb.",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-03T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-turner-says-us-is-exercising-caution-in-sharing-intelligence-with-israel.md",
+      "title": "Turner says US is exercising caution in sharing intelligence with Israel",
+      "excerpt": "House Intelligence Committee Chair Mike Turner (R-Ohio) said Sunday the United States is helping Israel’s intelligence community track down Hamas leaders but is being selective about what ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/",
+      "originalUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/4339908-us-israel-caution-sharing-intelligence/amp/",
+      "publishedDateTime": "2023-12-03T11:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-how-artificial-intelligence-is-redefining-health-care-in-india.md",
+      "title": "How artificial intelligence is redefining health care in India",
+      "excerpt": "But now, it has come down to just four of them as everything is done by artificial intelligence (AI).” Now all they have to do is simply tell the machine orally that they need to do an MRI, say, of the knee for trauma.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
+      "originalUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/cover/images/2023/12/2/48-eye.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/theweek/cover/2023/12/02/artificial-intelligence-is-redefining-healthcare-in-india.amp.html",
+      "publishedDateTime": "2023-12-03T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-03-ego-fear-and-money-how-the-ai-fuse-was-lit.md",
       "title": "Ego, Fear and Money: How the A.I. Fuse Was Lit",
       "excerpt": "Still, some scientists and thinkers had become fixated on the downsides of A.I. Many, like the three young men from Britain, had a connection to Eliezer Yudkowsky, an internet philosopher and self-taught ... started working for Baidu, the giant Chinese ...",
@@ -886,178 +1058,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans.md",
-      "title": "This DeepMind AI Rapidly Learns New Skills Just by Watching Humans",
-      "excerpt": "Most algorithms learn to mimic humans from hundreds or thousands of examples. But a new AI from Google DeepMind picks up new skills from humans on the fly.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
-      "originalUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/12/two-colorful-parrots-cocking-their-heads.jpeg",
-          "width": 1408,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
-      "publishedDateTime": "2023-12-01T19:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations.md",
-      "title": "Unveiling AWS’ AI frontier: A deep dive into the three-layer stack and other innovations",
-      "excerpt": "Artificial intelligence is running at such a speed that companies not keeping pace are immediately left behind. Compared to other players, such as OpenAI Inc. and Microsoft Corp., there’s been a long-held notion that Amazon Web Services Inc. is behind the AI innovation curve.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "originalUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Bratin-clean.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-when-deep-learning-meets-active-learning-in-the-era-of-foundation-models.md",
-      "title": "When deep learning meets active learning in the era of foundation models",
-      "excerpt": "A Chinese research team wrote a review article on deep active learning, an increasingly popular method of combining active learning with deep learning for sample selection in the training of neural networks for artificial intelligence tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
-      "originalUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/when-deep-learning-mee.jpg",
-          "width": 1280,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-deep-era-foundation.amp",
-      "publishedDateTime": "2023-12-01T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale.md",
-      "title": "Roomba robot vacuum deals start at $159 in this big Cyber Week sale",
-      "excerpt": "Prices start at just $159 for the Roomba 694 robot vacuum cleaner. This model isn’t the most ... First, the Roomba Combo j7+ with AI and integrated mopping is $300 off right now. Or, you can get the $550 Roomba Combo i5+ for $349, matching the lowest ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
-      "originalUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
-          "width": 3560,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T16:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

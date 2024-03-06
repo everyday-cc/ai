@@ -33,6 +33,15 @@ related:
         width: 2000
         height: 1200
         isCached: true
+  - title: "How NVIDIA leads the world by making AI user-friendly"
+    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
+    publishedDateTime: 2024-03-06T19:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
   - title: "Jim Cramer Picks These 4 Stocks As Better AI Investments Alongside Nvidia, Skips Super Micro Computer"
     excerpt: "CNBC’s “Mad Money” host Jim Cramer has suggested that there are better investment options in the artificial intelligence (AI) sector than Super Micro Computer Inc. (NASDAQ:SMCI). What Happened: Cramer identified four stocks that he believes are superior AI investments compared to Super Micro Computer, CNBC reported on Monday."
     publishedDateTime: 2024-03-05T12:07:00Z

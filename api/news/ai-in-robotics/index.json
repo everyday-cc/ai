@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-this-startup-figures-the-best-way-to-control-drones-is-talking-to-them.md",
+      "title": "This Startup Figures the Best Way to Control Drones Is Talking to Them",
+      "excerpt": "Connecticut-based Primordial Labs has developed a voice-based interface for small UAVs. A soldier simply speaks into a radio and tells the drone what to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
+      "originalUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e762c19846017fcb7bb89d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1215,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
+      "publishedDateTime": "2024-03-06T21:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-learn-about-generative-ais-impact-on-robotics-at-the-robotics-summit-expo.md",
       "title": "Learn about generative AI’s impact on robotics at the Robotics Summit & Expo",
       "excerpt": "Researchers are already using generative AI to make robots faster learners, and a summit panel will discuss how it can be applied at scale.",
@@ -89,50 +141,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-05-aided-by-the-democratization-of-generative-ai-the-robotics-ai-chipset-market-is-expected-to-reach-us866m-globally-by-2028-finds-omdia.md",
-      "title": "Aided by the democratization of generative AI, the robotics AI chipset market is expected to reach US$866m globally by 2028 finds Omdia",
-      "excerpt": "Since the democratization of machine learning (ML) in robotics, ML-powered workloads have become highly diverse. As generative AI (GenAI) technology continues to proliferate, foundation models are poised to replace or augment existing ML and deep learning models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aap.com.au/aapreleases/cision20240305ae48087/",
-      "originalUrl": "https://www.aap.com.au/aapreleases/cision20240305ae48087/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/photos300x250.3ecdeb91.gif",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T12:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Associated Press",
-        "domain": "aap.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2024-03-05-agility-robotics-new-ceo-is-focused-on-the-here-and-now.md",
       "title": "Agility Robotics’ new CEO is ‘focused on the here and now’",
       "excerpt": "Melonee Wise — who had most recently worked at Zebra after the logistics firm acquired her AMR startup ... can the robot do today to deliver value? Obviously, there’s a roadmap of features ahead that incorporate elements of AI, that incorporate ...",
@@ -184,7 +192,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {

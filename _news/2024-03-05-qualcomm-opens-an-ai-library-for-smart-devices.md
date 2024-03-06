@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/58567-qualcomm-opens-an-ai-library-f
 webUrl: "https://www.fudzilla.com/news/58567-qualcomm-opens-an-ai-library-for-smart-devices"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm 5G: Moore’s Law Slowing Down? No Problem, Just Add AI"
+    excerpt: "A lot has been said about Moore’s Law being dead or slowing down. AI can help deliver the performance increases that are needed with or without it."
+    publishedDateTime: 2024-03-06T20:24:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8db6eb41e4e80a860566b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Qualcomm CEO touts company's generative AI opportunity during annual shareholder meeting"
     excerpt: "Qualcomm (QCOM) CEO Cristiano Amon took the virtual stage during his company’s annual shareholder’s meeting on Tuesday to tout the chip giant’s AI efforts. Qualcomm’s processors are found in millions of Android-powered smartphones around the world ..."
     publishedDateTime: 2024-03-05T12:25:00Z

@@ -99,15 +99,6 @@ related:
         width: 6630
         height: 5304
         isCached: true
-  - title: "Waymo's massive self-driving expansion gets green light"
-    excerpt: "While some of the industry's biggest players are abandoning their self-driving vehicle efforts, Waymo is gearing up for a massive expansion."
-    publishedDateTime: 2024-03-01T22:32:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-robotaxi-plans-win-california-approval"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
 
 secured: "cAB1LATwbyNHINP+qYyvLzRnW6MF42TDVLZ5NFMqORxhPIPndEqu7jb1yVfICUk7LGZK+fKpNMdydm0H0XRwjDE49Ymnos8kwLx2FK9l3mfYY9vqsOBF5AB3O6gJhwPI+1RC7AE5Lj+k8L77Kd/1NEzhWaHU+TQXpVGquwO8J/sVZdqUc9iIQhDq2CpaXNG73rBeE5RPquRtO/5yhcZEVEjd3bJj5MNEcT7bw9YjVNHUVPA02z9qzhEpalx++5moYTs7IvLW25f+O80meqADZY2IWcs3cCpLRCS4JQDS8DFvao8+DIRi+ittgEIPeLu6QODf0TycUSCpleaA7vD+Sw1tk+S92DUXQBH6CQ7clIWRloH5FtdZWZKA+zqG739YE2g8r5jWlZy9d+YRpf/Z8Hwvy49/5E8hRyApURPArugz1uoYBzOAE36lSchPECG7QNFZHL3sYmiK2Fif/IxSpsnyqlWaIveLRQEpa8GdLP28GlP4W5YGuJjnlk2ti3U5kEkx06wr8mszIbRz3PgMMw==;OrJPArO50vQXIZGAuCGNng=="
 ---

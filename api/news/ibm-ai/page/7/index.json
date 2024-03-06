@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-06-ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners.md",
+      "title": "IBM announces global Call for Code artificial intelligence hackathon winners",
+      "excerpt": "The David Clark Cause, IBM, the United Nations Human Rights Office of the Commissioner and the Linux Foundation announced the winners of the 2023 Call for Code hackathon on Dec. 6.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
+      "originalUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-2023-call-for-code-global-challenge-winners-tackle-agriculture-farming-and-food-waste-issues-with-ibm-technology.md",
       "title": "2023 Call For Code Global Challenge Winners Tackle Agriculture, Farming And Food Waste Issues With IBM Technology",
       "excerpt": "Call for Code Winning teams from Hexaware Technologies, Persistent, and The University of Sydney develop AI-powered solutions to help ove",

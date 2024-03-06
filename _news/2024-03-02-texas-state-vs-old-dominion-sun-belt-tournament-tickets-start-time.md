@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Jacksonville vs. Kennesaw State ASUN Tournament Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. seed Kennesaw State Owls (15-15, 6-10 ASUN) are squaring off against the No. seed Jacksonville Dolphins (14-16, 5-11 ASUN) in the ASUN tournament on Monday at KSU Convocation Center, at 7:00 PM ET airing on ESPN+."
-    publishedDateTime: 2024-03-01T21:39:00Z
-    webUrl: "https://www.wjhg.com/sports/betting/2024/03/04/jacksonville-vs-kennesaw-state-buy-asun-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WJHG
-      domain: wjhg.com
-    quality: 22
-    images:
-      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/NAQGP64UHVNGHP7KRJ4GWQFNRE.jpg?auth=fe3557f6710269dadd464a1092874727ac31225e5c7bfc150f0d439dd4546f53&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Wild vs. Sharks March 3 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. When the Minnesota Wild meet the San Jose Sharks at Xcel Energy Center on Sunday (starting at 7:00 PM ET), Joel Eriksson Ek and Tomas Hertl will be two of the most exciting players to watch. Kirill Kaprizov is one of ..."
     publishedDateTime: 2024-03-03T06:20:00Z

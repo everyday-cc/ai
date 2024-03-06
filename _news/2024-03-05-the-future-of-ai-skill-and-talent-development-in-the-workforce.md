@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Dell says on-prem is the future of AI"
-    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
-    publishedDateTime: 2024-03-01T21:24:00Z
-    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "Interdisciplinary degree takes aim at artificial intelligence skills shortage in the workforce"
     excerpt: "Applications are open for Purdue University’s new 100% online Master of Science in artificial intelligence degree, which features two majors, one for people who build AI systems and one for people who make use of them."
     publishedDateTime: 2024-03-04T14:56:00Z

@@ -2,6 +2,196 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-27-samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.md",
+      "title": "Samsung unveils new memory chip with 'highest-capacity to date' for AI",
+      "excerpt": "The South Korean chip giant claimed the HBM3E 12H \"raises both performance and capacity by more than 50%.\" \"The industry's AI service providers are increasingly requiring HBM with higher capacity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107092512-1658451020614-gettyimages-1241746860-AFP_32DY37A.jpeg?v=1658451030",
+          "width": 4727,
+          "height": 3016,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "publishedDateTime": "2024-02-27T05:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
+      "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
+      "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "publishedDateTime": "2024-02-27T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-digital-digits-airoboticsenergy-converge-reshaping-our-world.md",
+      "title": "Digital Digits: AI+Robotics+Energy Converge, Reshaping Our World",
+      "excerpt": "The robots reshaping our world are tackling a wide spectrum of tasks, from factory to warehouse, urban and the field to space exploration and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/",
+      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dd78a3f632cbf05a50aa74/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/27/digital-digits-airoboticsenergy-converge-reshaping-our-world/amp/",
+      "publishedDateTime": "2024-02-27T05:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-7-paradoxes-of-artificial-intelligence.md",
+      "title": "7 Paradoxes Of Artificial Intelligence",
+      "excerpt": "artificial intelligence, a survey from IBM’s Watson Group finds. 3. AI is expensive to implement. AI helps manage and reduce IT costs. For example, the rising practice of FinOps — which encourages intelligently controlling technology spending — may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dd498bf2b4e164c49a75df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/26/7-paradoxes-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2024-02-27T02:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-ai-tools-to-improve-peoples-health-could-put-them-at-risk-in-other-ways-doctors-warn.md",
       "title": "AI tools to improve people’s health could put them at risk in other ways, doctors warn",
       "excerpt": "As with other AI systems, developing models for use in healthcare requires gathering vast amount of training data, in addition to the billions of medical images that are generated each year.",
@@ -944,202 +1134,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-hr-leaders-must-ensure-ai-adoption-is-a-success.md",
-      "title": "HR Leaders Must Ensure AI Adoption Is A Success",
-      "excerpt": "It's a steep learning curve, but the longer we wait to start, the steeper it gets. Because AI adoption requires frontline managers' understanding and cooperation, I believe HR leaders are integral to its success. When the discussion of AI adoption begins ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8989b0216c468579d5548/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
-      "publishedDateTime": "2024-02-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students.md",
-      "title": "PowerSchool PowerBuddy Providing AI PowerUps To Schools And Students",
-      "excerpt": "Harnessing years of data and with a clear conception of what students and teacher need, PowerSchool has introduced a suite of AI tools to enhance its product suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
-      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d9322c1aa6b470e2297cd7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
-      "publishedDateTime": "2024-02-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-whats-stopping-cybersecurity-from-being-ai-driven.md",
-      "title": "What's Stopping Cybersecurity From Being AI-Driven?",
-      "excerpt": "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
-      "publishedDateTime": "2024-02-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-nvidia-briefly-hits-2trn-valuation-as-demand-for-ai-chips-soars.md",
-      "title": "Nvidia briefly hits $2trn valuation as demand for AI chips soars",
-      "excerpt": "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/business/nvidia-market-value-ai-chip-demand-revenue-shares",
-      "originalUrl": "https://www.siliconrepublic.com/business/nvidia-market-value-ai-chip-demand-revenue-shares",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-27.jpeg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

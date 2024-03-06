@@ -25,59 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos"
-    excerpt: "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,"
-    publishedDateTime: 2024-03-01T20:58:00Z
-    webUrl: "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/"
+  - title: "Box gets even smarter with Azure OpenAI Service integration"
+    excerpt: "Box AI, including the newly announced Azure OpenAI Service integration, is now included in Enterprise Plus plans. Individual users have access to 20 queries per month, with a further 2,000 queries available at the company level."
+    publishedDateTime: 2024-03-06T11:07:00Z
+    webUrl: "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: TechRadar
+      domain: techradar.com
     quality: 84
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png"
-        width: 600
-        height: 299
+      - url: "https://cdn.mos.cms.futurecdn.net/m6TgkK2kPHQufJaNbcCFvA-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
-    excerpt: "Sunnyvale-based Figure is less than two years old and doesn’t yet have a commercial product but aims to ship billions of human-like robots to the world’s workplaces and homes."
-    publishedDateTime: 2024-03-01T21:38:00Z
-    webUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
+  - title: "AI Researchers Pen Letter to OpenAI, Meta, for More Accessible AI Systems"
+    excerpt: "The penned open letter says that the strict restrictions meant to prevent malicious actors from misusing AI systems are instead chilling independent research. If these auditors attempt to safety-test AI models without a company's approval, they risk having their accounts blocked or facing legal action."
+    publishedDateTime: 2024-03-06T02:29:00Z
+    webUrl: "https://www.techtimes.com/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 81
+      name: techtimes
+      domain: techtimes.com
+    quality: 58
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444414/germany-internet-ai-artificial-intelligence.jpg"
         width: 1024
-        height: 682
+        height: 683
         isCached: true
-  - title: "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo"
-    excerpt: "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight."
-    publishedDateTime: 2024-03-06T10:05:00Z
-    webUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
-    excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
-    publishedDateTime: 2024-03-04T18:14:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 47
 
 secured: "E1rsvuytoTaosuLFfJRM2n48ke4hfMFzNEfObXHa3Tr9g92+VJA3pVfwJfws1EWY6K9h23x9gfZPT32MaIQiuToqGEQuX/atMNJEW5swS4iAXZ0P6lLu+CbAfRVmBP4iKLRf/bobmWvfcxm0c5ByaAxsDFmUeCId1AstMWLTV2EFg8SGCU4x3zDVMoRa+hCFor3xju5QQcfKjM+1bbswUXXfuHq+vzLJEBGQBY2W736qwRYWbCWZdltgCt/j6JC5BJ6s2T4iY9RtVWta6FPx7mtQF9Xik1UiLQoVfDcanrwiRL70W6eW7/Crti+E4T39mGrbT4s94D5GLw+ocYyXpyoZzKqnuWBkFMw2DRhhjGqPUG3ywy3AexlG5S9hFABK2PDoFGYqJ82fzWg/0PuiX3XZ+77m5aamMxelnV8xaDwehut1SgXl/cCUwHPJKHAwrod19pi+MjdOEk6PXuMlLdXlxh/RhWNybcUrrm4a3/NgFr8h7wew1UxJiXwgt0ee+Ta5omo9hjw+dcR/DYMGbg==;oYYBku0Q1ENFDMdTBOOUPg=="
 ---

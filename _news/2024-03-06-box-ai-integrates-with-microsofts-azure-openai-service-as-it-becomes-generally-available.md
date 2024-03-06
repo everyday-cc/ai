@@ -39,6 +39,38 @@ related:
         width: 749
         height: 420
         isCached: true
+  - title: "Microsoft engineer warns company's AI tool creates violent, sexual images, ignores copyrights"
+    excerpt: "Shane Jones, who's worked at Microsoft for six years, has found a plethora of disturbing images that are being created by the company's Copilot Designer tool."
+    publishedDateTime: 2024-03-06T20:18:00Z
+    webUrl: "https://www.cnbc.com/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 93
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107380575-1709232114037-gettyimages-1755654626-porzycki-internet231030_npqRj.jpeg?v=1709685511"
+        width: 3603
+        height: 2402
+        isCached: true
+  - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
+    excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
+    publishedDateTime: 2024-03-06T20:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 71
+    images:
+      - url: "https://i.guim.co.uk/img/media/9e4118dc065eee0fe9f0668bbb3e7cbc854d1954/0_397_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=44d52307107ca9c20c2625956de63744"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
     excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
     publishedDateTime: 2024-03-05T21:28:00Z
@@ -110,6 +142,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 35
+  - title: "Why Claude 3 Is Bad News for Microsoft Azure"
+    excerpt: "Now, AWS and Google Cloud’s generative AI pal and OpenAI’s rival, Anthropic, might have brought them back into the game. The company recently released the Claude 3 model family, which comprises Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus."
+    publishedDateTime: 2024-03-06T12:56:00Z
+    webUrl: "https://analyticsindiamag.com/why-claude-3-is-bad-news-for-microsoft-azure/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
   - title: "Watchdog Group Says OpenAI and Microsoft AI Tools Can Create Election Misinformation"
     excerpt: "The Center for Countering Digital Hate made fake images using ChatGPT Plus, Microsoft's Image Creator, Midjourney, and Stability AI's DreamStudio it says could influence voting choices."
     publishedDateTime: 2024-03-06T16:45:00Z

@@ -42,20 +42,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Dell says on-prem is the future of AI"
-    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
-    publishedDateTime: 2024-03-01T21:24:00Z
-    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
 
 secured: "Q3/BChaY5jMN7TYGjRhsKdP4KRHuggvAM9CvYMqrLGmAHDkueXo+Lg8XfI48/AxmmcfHMTvUlqsy19GLgerHwdUUeUqULWB9PyuZDikzVVcffI+dVvPEt3xbiMMhLBt2b4J9oQBIZ8YlWIOtirzEmko5nb26s1q1nCEWklQvQRoClMItwrTdNPXIuK2BnWZhPvN2jsIx2jrMGoQYQy/rZCvTKZa24H2CdOA0EH6elJVnEkj8GCx64QSfwlISvh+SzMbcvcla5pf3joPKR3ZmXveUPP/CHx6rceAupdkSvDr79qUVQh2E1M3Ny/yAC44k2HQt7abR9c4ioqd7aqLYEWSO5O770MXqkKea9t0p68c=;jQvvtYYjcqLLDmxzBy6Ezw=="
 ---

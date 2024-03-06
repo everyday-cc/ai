@@ -2,6 +2,194 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-29-tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts.md",
+      "title": "Tech in Healthcare to Alleviate Pain, Make Treatment Affordable: Experts",
+      "excerpt": "Hyderabad: In days to come, surgeries will go the minimally invasive way. There will be use of real-time data for added precision. Robotic surgeries will be mainstream. These are the views of",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "originalUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanchronicle.com/h-upload/2024/02/28/1077530-pav6976.jpg",
+          "width": 3680,
+          "height": 2456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "publishedDateTime": "2024-02-28T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-4-smart-technologies-modernizing-sourcing-strategy.md",
+      "title": "4 smart technologies modernizing sourcing strategy",
+      "excerpt": "Organizations with strategic sourcing mindsets look beyond price and cost savings-centered supplier selection initiatives.\nThe post 4 smart technologies modernizing sourcing strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sourcing-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/sourcing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-meet-verdie-an-electric-ai-powered-robot-that-can-do-all-your-landscaping-video.md",
+      "title": "Meet Verdie – An electric, AI-powered robot that can do all your landscaping [Video]",
+      "excerpt": "Electric Sheep – an artificial intelligence and robotics company specializing in large-scale landscaping operations, has announced a new autonomous robot to its fleet – Verdie. This electric robot can work alongside Electric Sheep’s other products ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/02/28/meet-verdie-electric-ai-powered-robot-autonomous-landscaping-video/",
+      "originalUrl": "https://electrek.co/2024/02/28/meet-verdie-electric-ai-powered-robot-autonomous-landscaping-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Landscaping-robot-Verdie.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-the-evolution-of-rugby-a-journey-into-the-future-with-ai.md",
+      "title": "The Evolution Of Rugby: A Journey Into The Future With AI",
+      "excerpt": "Imagine where tradition meets cutting-edge technology, where the raw physicality and strategic depth of rugby are enhanced by the power of AI. Well, it's already here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b89953d60c1b6c85f3c6ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/amp/",
+      "publishedDateTime": "2024-02-28T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-the-difference-between-alias-and-cname-and-when-to-use-them.md",
       "title": "The difference between ALIAS and CNAME and when to use them",
       "excerpt": "The difference between a CNAME record and an ALIAS record is not in the result, but in how they resolve the target DNS record when queried.\nThe post The difference between ALIAS and CNAME and when to use them appeared first on IBM Blog.\n",
@@ -1018,212 +1206,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather.md",
-      "title": "Wendy’s plans AI-powered menu to change food prices based on demand, weather",
-      "excerpt": "American fast food chain Wendy's is planning to test dynamic pricing and AI menu features in 2025, reports Nation's Restaurant News and Food & Wine. This means that prices for food items will automatically change throughout the day depending on demand,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/wendys_restaurant-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T21:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-openai-seeks-to-dismiss-parts-of-the-new-york-timess-lawsuit.md",
-      "title": "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit",
-      "excerpt": "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27openai-suit-blpk/27openai-suit-blpk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T20:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-infor-nexus-is-taking-an-interesting-approach-to-generative-ai.md",
-      "title": "Infor Nexus Is Taking An Interesting Approach To Generative AI",
-      "excerpt": "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 396,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
-      "publishedDateTime": "2024-02-27T20:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-mwc-barcelona-2024-humane-demonstrates-its-wearable-ai-pin.md",
-      "title": "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin",
-      "excerpt": "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
-      "originalUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T19:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

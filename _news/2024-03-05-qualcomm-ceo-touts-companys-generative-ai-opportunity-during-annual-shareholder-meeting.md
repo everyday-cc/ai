@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm 5G: Moore’s Law Slowing Down? No Problem, Just Add AI"
+    excerpt: "A lot has been said about Moore’s Law being dead or slowing down. AI can help deliver the performance increases that are needed with or without it."
+    publishedDateTime: 2024-03-06T20:24:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8db6eb41e4e80a860566b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Qualcomm opens an AI library for smart devices"
     excerpt: "They all work with the Qualcomm AI Engine, which boosts their speed by using all the cores (NPU, CPU, and GPU). Qualcomm says they can run four times faster than normal. The AI Hub also makes it easy to switch models from one framework to another."
     publishedDateTime: 2024-03-05T00:00:00Z

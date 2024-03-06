@@ -1061,24 +1061,33 @@
     {
       "path": "_news/2024-02-14-bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road.md",
       "title": "Bringing AI up to speed – autonomous auto racing promises safer driverless cars on the road",
-      "excerpt": "I am a computer science professor who studies artificial intelligence ... ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208.",
+      "excerpt": "Imagine that scene, but without the driver – the car alone, guided by the invisible hand of artificial intelligence ... autonomous vehicle technology as driverless cars begin to hit the streets.",
       "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/bringing-ai-up-to-speed-autonomous-auto-18666913.php",
-      "originalUrl": "https://www.timesunion.com/news/article/bringing-ai-up-to-speed-autonomous-auto-18666913.php",
+      "webUrl": "https://theconversation.com/bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208",
+      "originalUrl": "https://theconversation.com/bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/575049/original/file-20240212-18-4epn1w.jpg?ixlib=rb-1.1.0&rect=217%2C307%2C1712%2C854&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T14:06:00Z",
+      "publishedDateTime": "2024-02-14T13:24:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

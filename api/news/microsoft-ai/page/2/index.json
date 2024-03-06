@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-22-cloud-and-ai-apps-take-center-stage-in-net-9.md",
+      "title": "Cloud and AI apps take center stage in .NET 9",
+      "excerpt": "A first preview release of the next .NET sets the scene for a year of platform development focused on cloud-native and AI-powered applications. Just three months into the tenure of .NET 8, it’s already time for Microsoft and the .NET Foundation to start ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.html",
+      "originalUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_218547988-100961470-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713024/cloud-and-ai-apps-take-center-stage-in-net-9.amp.html",
+      "publishedDateTime": "2024-02-22T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-best-web-hosting-services-for-2024.md",
       "title": "Best Web Hosting Services for 2024",
       "excerpt": "Zach began writing for CNET in November, 2021 after writing for a broadcast news station in his hometown, Cincinnati, for five years. You can usually find him reading and drinking coffee or ...",
@@ -1388,58 +1440,6 @@
         "name": "UPI",
         "domain": "upi.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
-      "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
-      "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0158482f6f193a8a559fa7321f542920f39da6ab/2024/02/09/898f9e84-a9f2-4253-bf86-0010c41b58d4/chatgpt1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "publishedDateTime": "2024-02-13T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

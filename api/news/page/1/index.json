@@ -2,6 +2,297 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations.md",
+      "title": "Facebook head says company is building giant AI model to power all video recommendations",
+      "excerpt": "Tom Alison, the head of Facebook, said on Wednesday that the company is working on a AI model to “power our entire video ecosystem.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcmiami.com/news/national-international/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/",
+      "originalUrl": "https://www.nbcmiami.com/news/national-international/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcmiami.com/2024/03/107279979-1690906950125-gettyimages-1569404479-Omarques_01082023_techPOL_3_of_21.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/?amp=1",
+      "publishedDateTime": "2024-03-06T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 6 South Florida",
+        "domain": "nbcmiami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-ex-google-engineer-arrested-for-alleged-theft-of-ai-secrets-for-chinese-firms.md",
+      "title": "Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms",
+      "excerpt": "Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
+      "originalUrl": "https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/73542196b66918bc54328a744fa04107495ecbb9/0_288_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=f3ee6931ab7c6f2b72574068e252d693",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
+      "publishedDateTime": "2024-03-06T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-this-startup-figures-the-best-way-to-control-drones-is-talking-to-them.md",
+      "title": "This Startup Figures the Best Way to Control Drones Is Talking to Them",
+      "excerpt": "Connecticut-based Primordial Labs has developed a voice-based interface for small UAVs. A soldier simply speaks into a radio and tells the drone what to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
+      "originalUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e762c19846017fcb7bb89d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1215,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
+      "publishedDateTime": "2024-03-06T21:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-tenstorrent-founder-and-engineers-say-taalas-ai-chip-outperforms-a-small-gpu-data-center.md",
+      "title": "Tenstorrent Founder and Engineers Say Taalas AI Chip Outperforms a Small GPU Data Center",
+      "excerpt": "AI chip startup Taalas Inc., has announced it has exited stealth mode and raised $50 million over two rounds of funding led by Pierre Lamond and Quiet Capital. Taalas was founded by Tenstorrent founder Ljubisa Bajic,",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/",
+      "originalUrl": "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Taalas-logo-2-1-0324.png",
+          "width": 646,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T21:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai.md",
+      "title": "Qualcomm 5G: Moore’s Law Slowing Down? No Problem, Just Add AI",
+      "excerpt": "A lot has been said about Moore’s Law being dead or slowing down. AI can help deliver the performance increases that are needed with or without it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e8db6eb41e4e80a860566b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/",
+      "publishedDateTime": "2024-03-06T20:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-cloud-migration-best-practices-optimizing-your-cloud-migration-strategy.md",
+      "title": "Cloud migration best practices: Optimizing your cloud migration strategy ",
+      "excerpt": "As businesses evolve with the digital landscape, learn why cloud migration can help them achieve greater efficiency, scalability and security.\nThe post Cloud migration best practices: Optimizing your cloud migration strategy  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cloud-migration-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/cloud-migration-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/sf_180317_2362_submit_blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T19:57:41Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing.md",
       "title": "US officials face tough choices for subsidising AI chip manufacturing",
       "excerpt": "Betting on AI chips is also challenging in the rapidly evolving industry. Handing out subsidies today to the likes of Intel, TSMC, or Samsung Electronics, which is also vying for federal dollars and is the only other firm in the world that can make advanced chips,",
@@ -53,7 +344,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -330,49 +621,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-06-ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips.md",
-      "title": "AI startup Taalas comes out of stealth, raises $50m for LLM chips",
-      "excerpt": "AI chip startup Taalas has emerged from stealth to announce that it has raised $50 million over two funding rounds. The two rounds were led by Pierre Lamond and Quiet Capita, with the company planning to use the funds to expand its operations and development efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips/?ref=biztoc.com",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips/?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Taalas.2e16d0ba.fill-1200x630.jpg",
-          "width": 633,
-          "height": 332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T13:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-06-the-dark-side-of-open-source-ai-image-generators.md",
       "title": "The Dark Side of Open Source AI Image Generators",
       "excerpt": "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn.",
@@ -485,7 +733,7 @@
       "originalUrl": "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -526,6 +774,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-anthropic-aws-google-set-to-outpace-microsoft-openai-duo.md",
+      "title": "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo",
+      "excerpt": "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
+      "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -588,7 +880,7 @@
       "originalUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -931,309 +1223,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-how-does-ai-support-creativity-a-marketing-perspective.md",
-      "title": "How does AI support creativity? A marketing perspective",
-      "excerpt": "Some might argue that creativity and AI only go together because leveraging AI for routine work paves the way to being more creative. But it's not as simple as that. AI can play a strategic role in creativity, and James Manderson, SVP of Customer Success at Braze, helps explain how.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
-      "originalUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2024-01/Untitled%20design-3.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp",
-      "publishedDateTime": "2024-03-05T16:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy.md",
-      "title": "Tackle large volumes of data with new solution from SLB for Azure Data Manager for Energy",
-      "excerpt": "The Microsoft partner ecosystem is a key component in how Microsoft delivers technology, services, and cloud-to-edge solutions for our customers. SLB—one of Microsoft’s strategic partners in the energy sector—designed the Enterprise Data Solution to work seamlessly with Azure Data Manager for Energy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/Getty_1260_Energy.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-5-ways-leaders-can-win-hearts-and-minds-and-drive-resultswith-ai.md",
-      "title": "5 Ways Leaders Can Win Hearts And Minds, And Drive Results—With AI",
-      "excerpt": "Imagine a technology tool that helps you understand your team better and personalize interactions for maximum impact. Welcome to the world of AI-powered people leadership",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3af767f50d19ebe29fa28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-a-practical-guide-for-using-generative-ai-in-account-based-marketing.md",
-      "title": "A Practical Guide For Using Generative AI In Account-Based Marketing",
-      "excerpt": "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5db42c2c694a887568254/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-focused-blockchain-startup-io-research-raises-30-mln-in-series-a-funding-round.md",
-      "title": "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round",
-      "excerpt": "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
-      "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg",
-          "width": 6285,
-          "height": 4190,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road.md",
-      "title": "Autonomous auto racing promises safer driverless cars on the road",
-      "excerpt": "Race car driving provides a venue for improving AI-based autonomous driving tech. But can it still be thrilling for drivers and spectators?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road",
-      "originalUrl": "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-5.jpg&signature=80383c64728c7c8b54efff34effb35e9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T14:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

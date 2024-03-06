@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "iOS 18 is all about iPhone AI, and Apple’s M3 MacBook Air announcement is proof"
+    excerpt: "Enhancing an image with AI using Photomator’s Super Resolution feature is up to 40 percent faster than the 13-inch model with the M1 chip, and up to 15x faster for customers who haven’t upgraded to a Mac with Apple silicon.1 Later, Apple calls the M3 ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://bgr.com/tech/ios-18-is-all-about-iphone-ai-and-apples-m3-macbook-air-announcement-is-proof/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 35
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/08/macbook-air-2023-7.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "MacBook Air M3 announced — pre-orders open now for ‘world’s best consumer laptop for AI’"
     excerpt: "Prices for the 13-inch MacBook Air M3 start at $1,099 while the 15-inch MacBook Air M3 starts at $1,299. Both models are available in Midnight, Starlight, Space Gray and Silver. Pre-orders are open now over on the Apple website, with release day scheduled for March 8 — also known as this Friday."
     publishedDateTime: 2024-03-04T14:16:00Z

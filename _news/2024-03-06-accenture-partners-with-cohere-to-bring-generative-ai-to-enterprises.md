@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "9 ways developer productivity is boosted by generative AI"
+    excerpt: "Generative AI is just one tool in the toolbelt that helps improve developer productivity with methodologies, frameworks and best practices.\nThe post 9 ways developer productivity is boosted by generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-03-06T20:10:24Z
+    webUrl: "https://www.ibm.com/blog/developer-productivity/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "How generative AI is changing Infosys from within"
     excerpt: "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ..."
     publishedDateTime: 2024-03-05T09:43:00Z

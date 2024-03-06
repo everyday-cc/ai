@@ -91,15 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Waymo's massive self-driving expansion gets green light"
-    excerpt: "While some of the industry's biggest players are abandoning their self-driving vehicle efforts, Waymo is gearing up for a massive expansion."
-    publishedDateTime: 2024-03-01T22:32:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-robotaxi-plans-win-california-approval"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
   - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
     excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
     publishedDateTime: 2024-03-03T21:38:00Z

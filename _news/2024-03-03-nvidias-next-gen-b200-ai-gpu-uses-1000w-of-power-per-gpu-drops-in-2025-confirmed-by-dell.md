@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia's Next-Gen AI Chip Is a 1,000W GPU: Dell Exec"
+    excerpt: "We all know the B100 is the Blackwell successor to this chip, so it appears the B200 will be that GPU's second iteration, though it does not currently appear on Nvidia's roadmap (below). Nvidia's \"AI roadmap\" makes no mention of a B200, but it's possible ..."
+    publishedDateTime: 2024-03-06T15:51:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidias-next-gen-ai-chip-is-a-1000w-gpu-dell-exec"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 49
   - title: "Nvidia wants to democratize AI with new RTX 500, RTX 1000 laptop GPUs — but I cannot help wonder whether Nvidia RTX 4000 GPUs are a better choice"
     excerpt: "Nvidia wants to make AI more accessible to everyone with the launch of its new RTX 500 and RTX 1000 Ada Generation Laptop GPUs. These GPUs, tailored for professionals on the go, will be offered in portable mobile workstations, broadening the Ada Lovelace architecture-based selection."
     publishedDateTime: 2024-03-03T16:19:00Z
@@ -39,6 +48,24 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Dell Exec Confirms NVIDIA’s Monster Blackwell AI Accelerator Is Coming"
+    excerpt: "In a statement to analysts during an investor call, Dell's COO says Blackwell will be massive when it hits next year."
+    publishedDateTime: 2024-03-02T18:30:00Z
+    webUrl: "https://hothardware.com/news/dell-exec-says-blackwell-2025"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 19
+  - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
+    excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."
+    publishedDateTime: 2024-03-05T14:34:00Z
+    webUrl: "https://channelvisionmag.com/td-synnex-grows-ai-offerings-via-expanded-nvidia-collaboration/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 19
 
 secured: "ImU5dyifEilOK7i07y5EShVDGo2szCdDlvBZKY1k5jx3dH2OieWw2gzJajy/A1MhGEPlAaAPcThXbHePOHmL/LuPpA4PyfDnk7RIFE1xqutNuF7ntEXbEuMCFCV1XaZ3d28chl5hCkRsNgZk/979nRZJvfac3q6N0pHPJ3Fj9ldCaDxpZ7SE3y+qPdCcs7kSMHgM4QWqzLDRcy4W3Ay1Lrp3sLru/unkyqXlxOBx7F3NnBtkVPBf5FNIGQqT2zs2BGsShKQ5kKrabT0sgVJb68+ZMPlwh2M/4oglC15hNFhACQsYMUZnbMD4gyVNamS4aexxWyv0kV1+eL+DwdB8TT7RDB1XNnvA3fwgoiX3EwmimEkXVlhAWiamPNU+MHrVQblADox1cUgl9PG5UCD7SgvuDfgLbzyNSNYnhwSFFfRZr9LBf8qeV34bdtapcAkJM60LBWYz18Ru26VcNTDHFAijOz3xQ5Db0jkscEp9+dFLr5lsKKTG0OHKpdYlBFvobCVQ1HbxiTI0aRGOUzYGTw==;FoSfvswxzrQdo0269s8igg=="
 ---

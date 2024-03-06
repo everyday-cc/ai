@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/politics/ais-influence-grows-lawmakers-str
 webUrl: "https://www.foxnews.com/politics/ais-influence-grows-lawmakers-struggle-keep-up"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Wall Street Strategists Race to Keep Up With AI Rally"
-    excerpt: "Five Wall Street firms have already lifted their forecasts for the S&P 500 Index, which is up 7% to start the year. In the past week alone, Piper Sandler, UBS and Barclays boosted their targets. Two firms—Goldman Sachs and UBS—have done it twice since ..."
-    publishedDateTime: 2024-03-01T22:43:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2024-03-01/bloomberg-evening-briefing-wall-street-strategists-races-to-keep-up-with-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "Federal regulators, scrambling to keep up with AI in health care, team up with industry to set standards"
     excerpt: "Federal regulators, scrambling to keep up with AI in health care, are teaming up with industry group Coalition for Health AI to set standards."
     publishedDateTime: 2024-03-04T09:30:00Z

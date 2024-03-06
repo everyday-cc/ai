@@ -45,6 +45,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 49
+  - title: "How NVIDIA leads the world by making AI user-friendly"
+    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
+    publishedDateTime: 2024-03-06T19:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
 
 secured: "ae3QQerhAqNhXy0DxBQtHKnDTP9sGLKX4mKYq7G0VJ31BQ6nHbm7y3tT4tj+H75z/LwQJQHVTo+3uxZrpQWftvvRgHLRJeiQvuB9pFYl4vV3ZZ36Yy12WyLRZYV5GPIzlrR4KKOa6eUEmG+EsFj4h8oilpNF0pENLPJo2ein+rTtICspy98GShKNbiI2xBLfXKdlHQDs1ag+FfYfA5MRpavWZU/Wc0lxX9/TlHE2wu0ICpoEThWZLbFn3w48SHcSw4qCcQw2nr6U7ceXjRu/8zkEsSAE72oPnGuoTDVs6wt1CnhTOFkiLxmSTIc/8wID84ho/j4JH85Wed3zG8R76OWnsLaEy9Bm6vgDJgkcoqX4QbVp42mQzThOl1JiiQt9OZ0yVigUExwPujaI2L7y8+lRi/Pl1fRudEkZEYxM+MFOwg2IMtDl4UAoc+iEdiSOMkXhcI5qK0xG4sZwPGCZUjuvrB9us1l8cENVhBWPEFBJlqlI0cMA2GKbEE8B6VEOTJoDT5E3KxZr5ENtYuHYvQ==;atO5Ln5HWlOYNg0ume52IA=="
 ---
