@@ -24,20 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "1 Top AI Stock to Buy Before 2025 (Hint: It's Not Nvidia)"
-    excerpt: "Nvidia has greatly benefited from the rise of artificial intelligence as its GPUs are widely used to train and run large AI models. Competition from rival chip companies and tech giants designing their own custom AI chips will likely erode Nvidia's dominance."
-    publishedDateTime: 2024-03-05T07:50:00Z
-    webUrl: "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/"
+  - title: "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up"
+    excerpt: "In today's video, I discuss updates impacting a recent investment made by Nvidia (NVDA 3.60%) and other tech giants. Check out the short video to learn more, consider subscribing, and click the ..."
+    publishedDateTime: 2024-03-04T17:10:00Z
+    webUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 99
     images:
-      - url: "https://g.foolcdn.com/editorial/images/767980/gettyimages-1464561797.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://g.foolcdn.com/editorial/images/768008/nvidia-headquarters-with-nvidia-sign-in-front.png"
+        width: 2000
+        height: 1200
         isCached: true
+  - title: "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up"
+    excerpt: "In today's video, I discuss updates impacting a recent investment made by Nvidia (NASDAQ: NVDA) and other tech giants. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the pre ..."
+    publishedDateTime: 2024-03-04T08:09:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/24543933/nvidia-and-these-tech-giants-just-invested-in-this-artificial-intelligence-ai-and-robotics-start-up/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 49
+  - title: "Jim Cramer Picks These 4 Stocks As Better AI Investments Alongside Nvidia, Skips Super Micro Computer"
+    excerpt: "CNBC’s “Mad Money” host Jim Cramer has suggested that there are better investment options in the artificial intelligence (AI) sector than Super Micro Computer Inc. (NASDAQ:SMCI). What Happened: Cramer identified four stocks that he believes are superior AI investments compared to Super Micro Computer, CNBC reported on Monday."
+    publishedDateTime: 2024-03-05T12:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jim-cramer-picks-these-4-stocks-as-better-ai-investments-alongside-nvidia-skips-super-micro-computer-1033132171"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
 
 secured: "6d1A6u118boAhLcwQsbtqaV4M1VVXkJLfuVKbUVHLTp9SmBj/sa2Gz7NLXQ4wQ+vzSOGC3uV2yprrw4Kf/iefEv4kko6lqhV0bgtM1+hjdg3s3ypDJiHB/vn2UFEnIrUDvh/8lItgSGanTJMCfrkYgIS2RozE8GNMZiu6bx0/7vdfeafbqAUtS6lWgYv00X6rmLQp3x9WtZZbIvBjQPGICLA1OjOn3AEB1gK3b6OGBO+fypsu3rBGjz+YQ0kC+3N9d3q1xQWEuPTRUA5ohzHbTZRTeK0TgQIa/KKWJxvakxB5FAjbv2g6KFpVRUyIPchFaGj7vWVQ//nCV4b0bcMRuBZ0orQ4thtU0G1RFMoOKM=;PZa6r4K02pkGO1CL1xGgaQ=="
 ---

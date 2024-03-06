@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-str
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,47 @@ topics:
   - AI
 
 related:
-  - title: "Why The Generative AI Stock Bubble Is Not Poised To Pop"
-    excerpt: "Since the start of 2023, Generative AI stocks have increased at more than twice the rate of the Nasdaq. Indeed, my Generative AI Stock Index — developed in conjunction with Brain Rush, my forthcoming book — rose 86% in 2023, compared to the Nasdaq’s 43%."
-    publishedDateTime: 2024-03-01T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/03/01/why-generative-ai-stock-bubble-is-not-poised-to-pop/"
+  - title: "Accenture partners with Cohere to bring generative AI to enterprises"
+    excerpt: "The collaboration between Accenture and Cohere, announced today, aims to provide enterprise clients with tailored generative AI solutions that can significantly boost productivity and efficiency across industries."
+    publishedDateTime: 2024-03-06T06:29:00Z
+    webUrl: "https://venturebeat.com/ai/accenture-partners-with-cohere-to-bring-generative-ai-to-enterprises/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/AccentureCohere-1-.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Snowflake Partners with Mistral AI to Bring Language Models to Enterprises Through Snowflake Cortex"
+    excerpt: "Snowflake and Mistral AI today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake"
+    publishedDateTime: 2024-03-05T19:10:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-partners-with-mistral-ai-to-bring-language-models-to-enterprises-through-snowflake-cortex/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 5
+  - title: "Snowflake Inc.: Snowflake Partners with Mistral AI to Bring Industry-Leading Language Models to Enterprises Through Snowflake Cortex"
+    excerpt: "Mistral AI's newest and most powerful model, Mistral Large, is available in the Snowflake Data Cloud for customers to securely harness generative AI with their enterprise data Snowflake Ventures partners with Mistral AI to expand generative AI capabilities ..."
+    publishedDateTime: 2024-03-05T14:25:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61591834-snowflake-inc-snowflake-partners-with-mistral-ai-to-bring-industry-leading-language-models-to-enterprises-through-snowflake-cortex-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+  - title: "Snowflake Partners with Mistral AI to Bring Industry-Leading Language Models to Enterprises Through Snowflake Cortex"
+    excerpt: "Snowflake Ventures partners with Mistral AI to expand generative AI capabilities and empower more developers to seamlessly tap into the power of leading large language models Snowflake Cortex LLM Functions,"
+    publishedDateTime: 2024-03-05T14:21:00Z
+    webUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-partners-with-mistral-ai-to-bring-industry-leading-language-models-to-enterprises-through-snowflake-cortex"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 0
 
 secured: "2sEzIw4Bfz+tZaY9KYPqFE586JGtoETgbzrEgBnb73HyQV/WEWrovuYBOgFm6LCsJYd3rfG6spFVzVh+U1/a8Qmd0OELodqrbN3Y4dCUBohYO6ndHGEpRZGaz9cRxyWGnipJ/bN+8uEEHSCKK1E30Eg8DRt+4pgGQ6LzqwzPZxyQzeguYDr8puXDw9LKONQQLRLkBsrAxsFUd7fSrMTSNaqD5ivUqh6hEE3skgMlfddVyLRah1RQ9+oL8EPiZY1/tSTXHebOlL05ukP+cZMsWNegZrJZ/EZdMqzIHCiCQ8gk4wl9BHSxdfcq5U+CDa7P3OoGI4xlxbsyQz9KyhPW/z689PC2acHqDxD4ZVTkk3LBMYsBWb9C3yGLyxG5XA8JDJTG+b1X8CdoNOB4IGmyr7L0VrmPNwZR4MkiN0+mGG3mtVPawsUCwQBoD2Cw5zJRetnqanqTtdUcVH/ZtrWW66dE7G0CMEw7PiV9oZ4d1tAqfP/IzBbKQViAVGUYa8UV7osTmJpS+GDzgGCNLjrbiw==;afnux9V/WagfHXm17z2dBA=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "The ‘No’ Voice result showed us we need to prioritise truth-telling in Australia"
-excerpt: "The Indigenous Voice to Parliament could have been a chance to address ... The result symbolised a missed opportunity for recognition and understanding. We feel the “No” vote exposed a part of Australia that has a history of being ignorant to issues ..."
-publishedDateTime: 2024-03-06T04:45:00Z
-originalUrl: "https://theconversation.com/the-no-voice-result-showed-us-we-need-to-prioritise-truth-telling-in-australia-218518"
-webUrl: "https://theconversation.com/the-no-voice-result-showed-us-we-need-to-prioritise-truth-telling-in-australia-218518"
+title: "The 'No' Voice Result Showed Us We Need To Prioritise Truth-Telling In Australia"
+excerpt: "The Indigenous Voice to Parliament could have been a chance to address issues First Nations people often face, such as domestic and family violence,"
+publishedDateTime: 2024-03-06T05:54:00Z
+originalUrl: "https://menafn.com/1107940383/The-No-Voice-Result-Showed-Us-We-Need-To-Prioritise-Truth-Telling-In-Australia"
+webUrl: "https://menafn.com/1107940383/The-No-Voice-Result-Showed-Us-We-Need-To-Prioritise-Truth-Telling-In-Australia"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/566175/original/file-20231218-17-ps9dx9.jpg?ixlib=rb-1.1.0&rect=0%2C1008%2C6016%2C3008&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://menafn.com/updates/pr/2024-03/06/TC_5bc98image_story.jpg"
+    width: 960
+    height: 641
     isCached: true
 
 related:
@@ -34,16 +34,7 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
-  - title: "China asserts territorial sovereignty in response to PH President Marcos Jr.'s Speech in Australia"
-    excerpt: "Find out the latest news in the Philippines, from China's reaction to President Marcos' speech in Australia to the recognition of Filipino Australia Awards Alumni Excellence. President Marcos addressed the Australian Parliament and engaged in meetings with ..."
-    publishedDateTime: 2024-03-01T05:29:00Z
-    webUrl: "https://www.sbs.com.au/language/filipino/en/podcast-episode/china-asserts-territorial-sovereignty-in-response-to-ph-president-marcos-jr-s-speech-in-australia/lafi3v09l"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 0
 
-secured: "oAyw1bRYJRTNk7TNJu1/oyOk/zz1fKF4XTSQ62CGKLFGyO0fQcAi7bXPA2G+1TI2SB5BfyC6gU3Op/bv6CbCtMfwIPP8ZIKPStq3dVvomwfwYLEciYbZZvyiLlm7NK5A+qYZtePqcYazCo4HgJQWNTZMzJ5ezXyumLYnyZKnWTPtau1awC1euJzTh2x/wUwoovlTL8U9Jr+7qFsPtQogCtYsEISLWzFd6bM5oQYcc/FL+/gs2MPndGGC1Xt+GPEBLFXEkU6azh/NRsC8BOqR17R7QIDCNHptP99G7JzXBwHCDhMgcYgj4DRb0tApmO7wJvSA8JuFaEqUxVOYGwR62FNtAwVPBYDZ2OTBiNeeb5s=;e7KZHkr2nssbrbgw7ZXncw=="
+secured: "4Gh5ag2ikNqALzxjQu+Osbo/fVDPE3+gU7T7YhZQyHbx7gs6bQV14zn5Gv0ZMnLPNY7E1GZ97KaNTX5eOHy2NqaZ3OOZEi4fi79awW9i/Lj7y5uMmow5fSNbC0koDWMigtM8kPTIX60g59VE3PhWti3EEWqWhNptDEsCVpeO9OpAKPUa1luibToUZ2fh4XLxSLwnNFYa0ORPbPp88mOcNN6FxthIyhXL6bGuMTaBkDHunRxqkwMFeVvNS3nSl+f4OLnMCZOZcjRL6rrlc204xiEG5bOAIbbEcKNiutwHWPsqHVSBp+CmxrXOQza2NICGSrrWAKOVrTjyYq7FqRfHUzPh9L06ibMDzThi5TWedIY=;y5/65kV0IrqNV023ChYZQg=="
 ---
 

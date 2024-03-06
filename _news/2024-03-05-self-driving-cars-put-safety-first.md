@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "The Self-Driving Car Bubble Has Popped"
+    excerpt: "Google had been on the case since the late 2000s and said it was making brisk progress. There were dozens of well-funded self-driving start-ups, many of which were acquired by car manufacturers. Uber was confidently staking the future of its business on ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/apple-tesla-and-the-dying-dream-of-self-driving-cars.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 24
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b66/bd8/919959472049f24284cd6a03b1ed10c392-self-driving-car.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "t1f0u9Vpn7ro3o3vcTIciyBMxr8KoBnUAYQ+nU2W3cdPCtngCSNY7hFY/tAueRzsZ0+AyHH3NZU+yHGwsh42lEK475emdHbAGJ3+Kjtl5D9266PmPvZ4fsUib3raRMcO0Ll69LZ9SwIuRHyBf45lKjaS31XGbZfeiKy0eFcLzKYnoBsvt0zjZ55fBNHHxJNc2UNg/gOjAMNSQI6bIuHJo2I0V6r9QPu1mkKz5KeY4RrlyaG/e40/wQOSf6LRBg8zACacv9rW+ndS/Wwv8v2/6e6cjqBDZ+ja3Vd3uKtv78E/NGMo4cfWwn4Kecn6OrywvzTQuiMCSz8b4QHYBuCn6bQyEi3YDiqhJcWW5yYVU5Y7mp6Re63GKCmS/0J7YKzKY7eoZUYsQkW2p6J95+4saYmIh03I+v9KAOEiBbJG09k7qc3YF5qGnXreWpeLTq0OdwFixsJ6ANNrEqrzsCWDtTUpEMZFv8H/wdxtqm0raUSodKF61Zw6y2neL2v8aat8cSlI09Dk2nr4rAV6oKPxAQ==;jg0nqtS+Ufk9ASkHFrN03Q=="
 ---
 

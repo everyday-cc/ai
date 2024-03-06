@@ -43,6 +43,22 @@ related:
         width: 1162
         height: 675
         isCached: true
+  - title: "India pushes technology, fintech & startup partnership with Philippines"
+    excerpt: "The summit brought Indian ‘unicorns—startup companies valued at over $1 billion that are privately owned and not listed on a share market— as well as other startups in the areas of agriculture, health care and financial technology (fintech) to the Philippines."
+    publishedDateTime: 2024-03-06T05:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/india-pushes-technology-fintech-startup-partnership-with-philippines/articleshow/108255442.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/india-pushes-technology-fintech-startup-partnership-with-philippines/amp_articleshow/108255442.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/india-pushes-technology-fintech-startup-partnership-with-philippines/amp_articleshow/108255442.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-886190,msid-108255460/future-of-fintech-in-healthcare.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Indian Institutes of Technology Develop Advanced Marine Robot"
     excerpt: "The state-of-the-art robot is specifically crafted for meticulous underwater monitoring and inspections, offering heightened efficiency, minimized risks, and potential cost savings, according to the researchers."
     publishedDateTime: 2024-03-04T10:30:00Z

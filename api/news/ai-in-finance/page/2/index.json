@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-14-graduates-land-top-financial-tech-jobs-through-a-unique-program-at-the-university-of-delaware.md",
+      "title": "Graduates Land Top Financial Tech Jobs Through a Unique Program at the University of Delaware",
+      "excerpt": "The rise of ChatGPT and other GenAI platforms has caused a major disruption in the education sector. While GenAI technology offers incredible promise for",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
+      "originalUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2017/05/graduates_Shutterstock_Syda-Productions.jpg",
+          "width": 1000,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T17:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-klarnas-ceo-embraced-ai-by-telling-openais-sam-altman-i-want-klarna-to-be-your-favorite-guinea-pig.md",
       "title": "Klarna’s CEO embraced AI by telling OpenAI’s Sam Altman, “I want Klarna to be your favorite guinea pig”",
       "excerpt": "And in this current downturn, fintech has been hit especially hard—funding in the ... Second, “Many people have tried to apply AI and failed, or it didn’t work out and they’ll say ‘that was a fun thing, but it didn’t really make a difference ...",
@@ -1328,49 +1371,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-exl-schedules-fourth-quarter-2023-and-full-year-financial-results-conference-call.md",
-      "title": "EXL Schedules Fourth Quarter 2023 and Full Year Financial Results Conference Call",
-      "excerpt": "NEW YORK, Jan. 25, 2024 (GLOBE NEWSWIRE) -- ExlService Service Holdings, Inc. (“EXL”) (NASDAQ: EXLS), a leading data analytics and digital operations and solutions company, will announce financial results and host a conference call for the fourth quarter and year ended Dec. 31, 2023, on Thursday, Feb. 29, 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exl-schedules-fourth-quarter-2023-and-full-year-financial-results-conference-call-1032996506",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exl-schedules-fourth-quarter-2023-and-full-year-financial-results-conference-call-1032996506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T14:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-focused-blockchain-startup-i
 webUrl: "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "HIVE Digital Technologies Tops 2024 TSX Venture 50 in Technology, Leading In Blockchain and AI Infrastructure"
-    excerpt: "This news release constitutes a 'designated news release' for the purposes of the Company's amended and restated prospectus supplement dated"
-    publishedDateTime: 2024-03-01T06:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hive-digital-technologies-tops-2024-tsx-venture-50-in-technology-leading-in-blockchain-and-ai-infrastructure-1033121757"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
     excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
     publishedDateTime: 2024-03-05T08:00:00Z

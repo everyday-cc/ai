@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/gadgets/2024/03/googles-genie-model-create
 webUrl: "https://arstechnica.com/gadgets/2024/03/googles-genie-model-creates-interactive-2d-worlds-from-a-single-image/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Ars Technica
@@ -27,19 +27,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "Google Genie: A Revolutionary AI Game Developer"
-    excerpt: "In the leading world of Artificial Intelligence (AI) where technology continues to push its boundaries Google's DeepMind has introduced 'Genie'. Genie is an innovative AI platform that is capable of generating interactive 2D video games by utilizing a ..."
-    publishedDateTime: 2024-03-01T06:39:00Z
-    webUrl: "https://www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
-    ampWebUrl: "https://www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
 
 secured: "my8V5MxOlngAgV47lreEHheQ6hkPnoYTyY3rMHA3WB6Xbni10hEVg4ozbihyZwrdMg49tzx/gTMUfv+diJMfeyB+3d4dtsbLl+gQYFGv4imxBbOiCgBdDJXmQfOb+5dxA/ESNHZ0dthahUHc4pQJ4G7lhbQB2I4BzlnlZMCEEVpa2cqKwXC4kxirY7Czls6pmxqs1O0rCocdLDkL9vC3wKsz9yl1+/68VhFONlsfxuR/ecNQsOozLmaptRs74lScX0NT8T2VlzHRrNjsf47JYuR/gKEd4RwJdBLHL6RITCwKR9U4yi4y1ZgKxwZy5QA67Cn/HWWRueOuqGLvln3wlWvyiHYer+GtxAKK+KmcmFU=;VFYZe46/Qfu+eAPCKqkrVg=="
 ---

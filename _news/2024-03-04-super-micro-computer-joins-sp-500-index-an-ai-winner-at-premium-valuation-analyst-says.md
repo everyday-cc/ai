@@ -36,15 +36,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Jim Cramer Picks These 4 Stocks As Better AI Investments Alongside Nvidia, Skips Super Micro Computer"
-    excerpt: "CNBC’s “Mad Money” host Jim Cramer has suggested that there are better investment options in the artificial intelligence (AI) sector than Super Micro Computer Inc. (NASDAQ:SMCI). What Happened: Cramer identified four stocks that he believes are superior AI investments compared to Super Micro Computer, CNBC reported on Monday."
-    publishedDateTime: 2024-03-05T12:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jim-cramer-picks-these-4-stocks-as-better-ai-investments-alongside-nvidia-skips-super-micro-computer-1033132171"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
 
 secured: "FcNryQRZJO3/+k8a06iXtTycBX+/QUaVbN5bru+eiaOffahR7IyesKmFTFKu3mqAa7e02BDo1i1Gf4FrXaZlytFCgdWandR9TgiHFI1ab/ZWJhc8WobCmThajCVUxirAxvZdfltKUI6qQx7J7ITd005zJ25sAtcYAw2RFPkYRGjjgsumuP83Qj2k+YhBk8gXPJbvHtqGY3xt24DXhoSCzj931Kxu93A4vIO2qel0lW645xmeqkjTZWeQZMvcs2XhGqSKUjrSeYCfUxmPT829UgGUgt6ZFZkQl1S0KrnkMgHd6TzMCn0zUCEgn45cvOVXXmjaIENOWe3hl9apNuAbekUl9kmR6QnF8uF0rVdFXGQw+PU7DZF24/5IFGbC90F+2W1vR2dQjLpilCB0jKepNdV93wP2aY50C9ibcLqvW/Kkos124VcpWfHfNNzgRP3mccnZJJl9XCS0VwUsieyaTKXhaHxwpVvOsockqk71CCrhew1ByhNTGyO7bzr83Jq9Zd5NMqIsDn32XUuuwhB1yw==;n/hd3224SPJaNK1nhDcQzQ=="
 ---

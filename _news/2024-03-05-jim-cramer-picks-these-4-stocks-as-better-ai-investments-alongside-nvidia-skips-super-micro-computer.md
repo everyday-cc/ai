@@ -22,29 +22,43 @@ topics:
   - AI
 
 related:
-  - title: "Jim Cramer says these 4 stocks are better AI plays than red-hot Super Micro Computer"
-    excerpt: "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio. Super Micro Computer : Shares surged nearly 25% on Monday after the artificial intelligence server maker was selected late Friday to join the S & P 500 later in March."
-    publishedDateTime: 2024-03-04T14:47:00Z
-    webUrl: "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html"
+  - title: "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up"
+    excerpt: "In today's video, I discuss updates impacting a recent investment made by Nvidia (NVDA 3.60%) and other tech giants. Check out the short video to learn more, consider subscribing, and click the ..."
+    publishedDateTime: 2024-03-04T17:10:00Z
+    webUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 60
+      name: The Motley Fool
+      domain: fool.com
+    quality: 99
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107364684-17062129482023-02-17t102124z_2115759463_rc2xcz9bgstp_rtrmadp_0_amd-results.jpeg?v=1706213119&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://g.foolcdn.com/editorial/images/768008/nvidia-headquarters-with-nvidia-sign-in-front.png"
+        width: 2000
+        height: 1200
         isCached: true
-  - title: "Super Micro Computer Joins S&P 500 Index: An 'AI Winner At Premium Valuation,' Analyst Says"
-    excerpt: "SMCI, a top AI server manufacturer, joins S&P 500 on March 18 with a Neutral rating from Goldman Sachs and $941 target price."
-    publishedDateTime: 2024-03-04T14:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/super-micro-computer-joins-s-p-500-index-an-ai-winner-at-premium-valuation-analyst-says-1033128705"
+  - title: "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up"
+    excerpt: "In today's video, I discuss updates impacting a recent investment made by Nvidia (NASDAQ: NVDA) and other tech giants. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the pre ..."
+    publishedDateTime: 2024-03-04T08:09:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/24543933/nvidia-and-these-tech-giants-just-invested-in-this-artificial-intelligence-ai-and-robotics-start-up/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 49
+  - title: "The Best Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- No, It's Not Nvidia"
+    excerpt: "Analysts at BMO Capital see Alphabet(NASDAQ: GOOGL)(NASDAQ: GOOG) as the company best positioned to benefit from the growing demand for generative artificial intelligence (AI). The firm reasons that Alphabet has a big head start on most peers because its ..."
+    publishedDateTime: 2024-03-01T12:54:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/24471149/the-best-artificial-intelligence-ai-stock-to-buy-in-2024-according-to-certain-wall-street-analysts-no-its-not-nvidia/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 25
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/07301639924a74caa0cfd3d609963c54/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f766930%252falphabet-revenue-wheel.png%26amp%3Bw%3D700"
+        width: 3512
+        height: 2000
+        isCached: true
 
 secured: "ae3QQerhAqNhXy0DxBQtHKnDTP9sGLKX4mKYq7G0VJ31BQ6nHbm7y3tT4tj+H75z/LwQJQHVTo+3uxZrpQWftvvRgHLRJeiQvuB9pFYl4vV3ZZ36Yy12WyLRZYV5GPIzlrR4KKOa6eUEmG+EsFj4h8oilpNF0pENLPJo2ein+rTtICspy98GShKNbiI2xBLfXKdlHQDs1ag+FfYfA5MRpavWZU/Wc0lxX9/TlHE2wu0ICpoEThWZLbFn3w48SHcSw4qCcQw2nr6U7ceXjRu/8zkEsSAE72oPnGuoTDVs6wt1CnhTOFkiLxmSTIc/8wID84ho/j4JH85Wed3zG8R76OWnsLaEy9Bm6vgDJgkcoqX4QbVp42mQzThOl1JiiQt9OZ0yVigUExwPujaI2L7y8+lRi/Pl1fRudEkZEYxM+MFOwg2IMtDl4UAoc+iEdiSOMkXhcI5qK0xG4sZwPGCZUjuvrB9us1l8cENVhBWPEFBJlqlI0cMA2GKbEE8B6VEOTJoDT5E3KxZr5ENtYuHYvQ==;atO5Ln5HWlOYNg0ume52IA=="
 ---

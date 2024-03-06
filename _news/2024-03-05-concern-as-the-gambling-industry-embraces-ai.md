@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-68304137.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "The AI funding race continues unabated, even as challenges grow"
-    excerpt: "And the big bucks keep on coming: AI-powered enterprise search startup Glean raises $200M+ at $2.2B valuation Humanoid AI-driven robotics startup Figure raises $675M at $2.6B valuation Ideogram raises $80M as it releases text-to-image model AI app startup ..."
-    publishedDateTime: 2024-03-01T06:20:00Z
-    webUrl: "https://siliconangle.com/2024/03/01/ai-funding-race-continues-unabated-even-challenges-grow/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "W8MICkcnePgefDcQvbBN+Z2d8cwDs/53i3MqBVnZfDhtMdS6VLsucx8cnRMlMShQN4wfz3KuPr7yBMQwXob9b/KwajyaTmFwoFiz2yzBHqkek65uJ4yNff8ttg4Jc8SKB2L6kkuHDjqRSD6e2HW11RF9bhXsidRfOMiuwyxWPgv1+bdkHG7M1VunzGYdwM4azVGAlQMnfkLfCJIuu/47w9OVh3UHImZhReZd3IONsP6oAALZRcfEcbO8pX8/6BM2RuIFtZOYl7m9rAOLlfaWtZ38ITRAqPXQTVm7NCpWs8uGMHjhxiWGnsizJNUVZwYSJIBUrV9DM7r06WJ2Imk8KQjRzXm7Pd20a51vPWFRgCo=;VzZSShW3y89HCBh147AI3w=="
 ---

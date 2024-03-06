@@ -7,8 +7,8 @@ originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healt
 webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: JD Supra
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook"
-    excerpt: "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ..."
-    publishedDateTime: 2024-03-01T05:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571"
+  - title: "29 healthcare leaders reveal top priorities for the next 12 months"
+    excerpt: "Recognizing the transformative potential of these technologies, my team is committed to implementing data-driven strategies to address current healthcare challenges. This includes harnessing artificial intelligence and machine learning to improve ..."
+    publishedDateTime: 2024-03-05T16:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/hit-speaker-series-q-a/29-healthcare-leaders-reveal-top-priorities-for-the-next-12-months.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI Model Maps Medical Diagnoses, Boosting Transparency in Healthcare"
+    excerpt: "bridging the understanding gap and improving healthcare delivery. Medical diagnostics expert, doctor’s assistant, and cartographer are all fair titles for an artificial intelligence model developed by researchers at the Beckman Institute for Advanced ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.labmanager.com/ai-model-maps-medical-diagnoses-boosting-transparency-in-healthcare-31884"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
   - title: "Healthee Raises $32M for its AI-Powered Health Benefits Naviation and Management Platform"
     excerpt: "Healthee offers a groundbreaking digital health platform, powered by AI. It simplifies healthcare consumerism by providing streamlined access to health and wellness benefits. Zoe, the built in digital benefits expert, assists in navigating healthcare benefits, finding affordable care, and optimizing choices, particularly during Open Enrollment."
     publishedDateTime: 2024-03-05T14:32:00Z

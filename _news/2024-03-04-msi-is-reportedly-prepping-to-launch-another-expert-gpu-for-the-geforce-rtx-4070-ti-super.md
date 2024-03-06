@@ -24,6 +24,22 @@ images:
     height: 843
     isCached: true
 
+related:
+  - title: "End of an era, NVIDIA has produced its last GeForce GTX GPU... it's all RTX from here on out"
+    excerpt: "NVIDIA has stopped making GeForce GTX 16 Series GPUs, retiring the 'GTX' branding while shifting its entry-level focus to cards like the RTX 3050 6GB."
+    publishedDateTime: 2024-03-06T04:33:00Z
+    webUrl: "https://www.tweaktown.com/news/96663/end-of-an-era-nvidia-has-produced-its-last-geforce-gtx-gpu-all-rtx-from-here-on-out/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 28
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96663_04_end-of-an-era-nvidia-has-produced-its-last-geforce-gtx-gpu-its-all-rtx-from-here-on-out_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+
 secured: "S6zFV1OpDRmjKDevBLbkpDLFWgWbqaRc/+QL0cqWHYLAeLPIO3OkTREmqw0an2rq/nwYex6GQnjsfOw6BJ7wVaf6K2gsGXnA3ALgFN1Y9P/RcGu/R4TEfy3EyB7NsRP3HjglliEuq1ymupVgreCfhmKJZbt7jOMEevAfMI4JwxbmtSRN0ii8Q9VlgC+Cc1Sp1AEKTqfEVSkZAS9f3jOp3NUum9bsjOmbPLG7+f4Vxc4+yiwzlv0egijF2TjxHOpXjS7XE20ivdRPGC2H192UB/xMrKafUmUESbPdBQe2WMOr5s+4FMV9To/Mj9fWaVaE8vc0pZyQJrNsWrG4ybiRBSbZlgxcIVJ0HLsGZDa/8CmPJ4QTLaMZv65MfKKUAJLyBgc6PEVJpBjN7E9uDy0Z6nTlcxfkk8ucynNSwfDE/MZhkxisf9sK13cF+fPTGveyzW4VUigxYVF8fOYNwEIsoSyP22SGbzkWgmyzSMM2CfE/RvIWdXdAZyS6U7GzvYhzW1Y/oIisb4HJK0MMw8dqXA==;NBi7IAs0WaskKsNEw5CA4A=="
 ---
 

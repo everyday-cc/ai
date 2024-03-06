@@ -19,29 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Snowflake partners with Mistral AI, taking its open LLMs to the data cloud"
-    excerpt: "The deal with Snowflake marks another major win for Mistral, expanding the startup’s reach and cementing its position as a vendor-trusted player in the AI category dominated by OpenAI, Anthropic and Google."
-    publishedDateTime: 2024-03-05T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/snowflake-partners-with-mistral-ai-taking-its-open-llms-to-the-data-cloud/"
+  - title: "Accenture partners with Cohere to bring generative AI to enterprises"
+    excerpt: "The collaboration between Accenture and Cohere, announced today, aims to provide enterprise clients with tailored generative AI solutions that can significantly boost productivity and efficiency across industries."
+    publishedDateTime: 2024-03-06T06:29:00Z
+    webUrl: "https://venturebeat.com/ai/accenture-partners-with-cohere-to-bring-generative-ai-to-enterprises/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
-  - title: "French startup Mistral AI attracts big cloud players amid growing demand for diverse models"
-    excerpt: "In a move highlighting the market's increasingly diversified demand for AI models, Microsoft recently announced its collaboration with Mistral AI, following in the footsteps of Google Cloud and Amazon's AWS. Save my User ID and Password Some subscribers ..."
-    publishedDateTime: 2024-03-01T10:49:00Z
-    webUrl: "https://www.digitimes.com/news/a20240229PD208/mistral-ai-microsoft-csp-aws-google.html"
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/AccentureCohere-1-.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
+    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 27
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240229pd208_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Snowflake Partners with Mistral AI to Bring Language Models to Enterprises Through Snowflake Cortex"
     excerpt: "Snowflake and Mistral AI today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake"
     publishedDateTime: 2024-03-05T19:10:00Z
