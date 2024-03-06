@@ -2,6 +2,74 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2024-02-15-ai-gives-a-voice-for-people-with-speech-limitations.md",
+      "title": "AI Gives a Voice for People With Speech Limitations",
+      "excerpt": "The AI technology is based on machine learning and speech recognition algorithms that are unique to each user. Voiceitt asks a new user to repeat dozens of words, phrases and sentences to learn the speech patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
+      "originalUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T00:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodnet",
+        "domain": "goodnet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-astros-to-debut-fast-entry-facial-recognition-tech-at-minute-maid-park.md",
+      "title": "Astros to debut fast-entry facial recognition tech at Minute Maid Park",
+      "excerpt": "A new facial recognition software will allow fans to enter Minute Maid Park faster this season. The new \"Go-Ahead Entry,\" system uses Artificial Intelligence will allow fans who sign up through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/sports/astros/article/astros-fast-pass-facial-recognition-18667671.php",
+      "originalUrl": "https://www.chron.com/sports/astros/article/astros-fast-pass-facial-recognition-18667671.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking.md",
       "title": "Use PC without mouse or by speech alone; Use mouse without clicking",
       "excerpt": "In this post, we will show you how to use your PC without the mouse or by speech alone or use your mouse without clicking by moving it only. Windows offers built-in ...",
@@ -1096,91 +1164,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-leaders-what-are-you-doing-about-ai-fatigue.md",
-      "title": "Leaders, What Are You Doing About AI Fatigue?",
-      "excerpt": "In a world where digital transformation is as crucial as the air we breathe, there’s a quieter, more insidious transformation happening within our organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/",
-      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ccdd42394810960907e940/0x0.jpg?format=jpg&crop=2929,1372,x0,y41,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/",
-      "publishedDateTime": "2024-02-14T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road.md",
-      "title": "Bringing AI up to speed – autonomous auto racing promises safer driverless cars on the road",
-      "excerpt": "I am a computer science professor who studies artificial intelligence ... ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/bringing-ai-up-to-speed-autonomous-auto-18666913.php",
-      "originalUrl": "https://www.timesunion.com/news/article/bringing-ai-up-to-speed-autonomous-auto-18666913.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T14:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

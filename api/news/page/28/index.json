@@ -2,6 +2,102 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2024-02-14-wife-of-tesla-employee-who-died-in-what-may-have-been-the-first-full-self-driving-crash-said-she-and-her-husband-were-guinea-pigs.md",
+      "title": "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'",
+      "excerpt": "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
+      "originalUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65cc35d194aa8ee8e84b2027?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
+      "publishedDateTime": "2024-02-14T04:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning.md",
+      "title": "The Future of Tech Jobs: Ethical AI and the Quest for Fairness in Machine Learning",
+      "excerpt": "In an era where technology is advancing at an unprecedented pace, the quest for ethical AI and fairness in machine learning is not just a technical challenge but a crucial societal concern. This blog explores the future of tech jobs in the context of ethical AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_02_2024_17_27_44_5920723.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "publishedDateTime": "2024-02-14T04:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-language-of-love-lets-use-ai-to-find-the-heart-of-human-potential.md",
       "title": "Language Of Love: Let’s Use AI to Find the Heart Of Human Potential",
       "excerpt": "AI can serve as a bridge to clarity across different and also within the same languages, building bridges between cultures through mastering language and reducing bias.",
@@ -1066,101 +1162,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-waymo-arson-in-san-francisco-sparks-new-debate-on-self-driving-cars.md",
-      "title": "Waymo arson in San Francisco sparks new debate on self-driving cars",
-      "excerpt": "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024.md",
-      "title": "3 Ways To Demonstrate Analytical Skills Like A Leader In 2024",
-      "excerpt": "Analytical skills comprise one of the most in-demand skill sets organizations need in 2024. Here are three easy ways to develop analytical thinking as an aspiring leader.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cb88859636c600c60ec229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/amp/",
-      "publishedDateTime": "2024-02-13T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

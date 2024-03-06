@@ -2,6 +2,109 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-22-applying-ai-to-support-the-front-line-of-healthcare.md",
+      "title": "Applying AI To Support The Front Line Of Healthcare",
+      "excerpt": "Artificial intelligence, more commonly referred to as AI, has been around since the 1950s, but the launch of ChatGPT in November 2022 inspired a new wave of AI innovation and investment. The way AI impacts healthcare and other sectors will be one of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/615f4f6aef570f61fbfea398/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/",
+      "publishedDateTime": "2024-02-22T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-how-to-build-ai-capabilities-across-an-enterprise.md",
+      "title": "How To Build AI Capabilities Across An Enterprise",
+      "excerpt": "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1141,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
+      "publishedDateTime": "2024-02-22T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-ai-will-transform-finance-but-not-with-personalised-card-offers.md",
       "title": "AI Will Transform Finance, But Not With Personalised Card Offers",
       "excerpt": "Almost three-quarters of those surveyed identified AI as the most important factor in the development of fintech in the next five years (and almost half of them pointed to embedded finance, open banking and the digital economy as the second most important ...",
@@ -1078,92 +1181,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-googles-latest-ai-models-are-open-to-anyoneand-can-run-on-a-laptop.md",
-      "title": "Google’s Latest AI Models Are ‘Open’ to Anyone—and Can Run on a Laptop",
-      "excerpt": "Google's Gemma models were built and trained with the same technology used in Gemini, but the models are smaller and will be released under an open license.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
-      "originalUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2024/02/gemma-header.width-1600.format-webp.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
-      "publishedDateTime": "2024-02-21T23:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-nvidia-stock-earnings-what-you-need-to-know.md",
-      "title": "NVIDIA Stock Earnings: What You Need to Know",
-      "excerpt": "NVIDIA (NASDAQ:NVDA) reported strong results for its fourth fiscal quarter of 2024 on Wednesday (February 21).Quarterly revenue hit a record US$22.1 billion, 22 percent higher than Q3 and up 265 percent compared to a year ago.",
-      "sourceUrl": null,
-      "webUrl": "https://investingnews.com/nvidia-earnings/",
-      "originalUrl": "https://investingnews.com/nvidia-earnings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investingnews.com/media-library/nvidia-logo.jpg?id=51529619&width=1200&height=600&coordinates=0%2C189%2C0%2C189",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T23:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing News Network",
-        "domain": "investingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

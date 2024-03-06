@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fa
 webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How to use ChatGPT's file analysis capability (and what it can do for you)"
-    excerpt: "From searching a text 'semantically' to creating outlines and captioning images, file uploads on ChatGPT expand the bot's usefulness in important ways."
-    publishedDateTime: 2024-03-01T12:12:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-chatgpts-file-analysis-capability/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "KezjczYnG12Cb3Gd0bpe1RRVUa4QrD2vQK8hdMnNpNy5QqDwfjnDUPiuvG3uwifXGT3KPEhxULfiGWkCukOQEIf5eOqCZWOWQXka4nUEs09R1VMJwhEwx0eiaH/l+sWZBlUt8zH+1F8qYVU2GzCi0YG4wDcXnc5Ln7eh0GCy4vNbbrmqcVTZ3iY+7+xXG7wtNxwHreXli8rdqs3RWpqvxFskpKwhKjZ7Yxvvi2zzc0EJewL+BGawxQhy5roA/eB9wS07P1CADqLamzM3rsEnqcpP/nvaY/7aRwvtxudyVznoUnChgaGkSyHk0JpZTdn/zUbe2TcgyFz6MrFxFW+H2mCenIPL/OLj2Wsbk5Grv91PZ3kRnXPG7rl9JtqSY5rkimRGtCc7eDX0u2KmFoTZcHl8P5sfAqtGm6rSRCTcv9hvE+F3T96xu5dMalA7o/Xb37iC7/X+6G4BjdZGQaOQd0YFIqbu80UcCPhANJTVbl3Ve690aCY+dqMbRkDEJXbhts+KCBB4v/8/WjmBIQQoEA==;d7e16Zbqh8dk/oIGCjA+3Q=="
 ---

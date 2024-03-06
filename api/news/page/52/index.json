@@ -2,6 +2,100 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2024-01-26-send-app-gets-personalized-artificial-intelligence-feature.md",
+      "title": "Send app gets personalized artificial intelligence feature",
+      "excerpt": "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/",
+      "originalUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mactech.com/wp-content/uploads/2024/01/SendIt-1024x690.jpg",
+          "width": 1024,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/",
+      "publishedDateTime": "2024-01-26T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-a-tidal-wave-of-financial-empowerment-is-coming.md",
+      "title": "A Tidal Wave Of Financial Empowerment Is Coming",
+      "excerpt": "The recent wave of consumer advocacy tools is an enormous improvement, but it’s about to be weaponized by generative AI in ways that will transform the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2d409068bc05aab460451/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/amp/",
+      "publishedDateTime": "2024-01-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood.md",
       "title": "All Hype? How To Counter Distrust In AI By Looking Under The Hood",
       "excerpt": "In 2021, Zillow relied on iBuying’s AI algorithms to buy and sell houses. Unfortunately, the algorithm was incorrect for Q3 and Q4, resulting in Zillow overpaying for homes. This overpayment combined with overtly aggressive expansion led to stunning losses of over $550 million. What seemed to be an easy solution ended up being a huge mess.",
@@ -1090,91 +1184,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-customer-experience-examples-that-drive-value.md",
-      "title": "Customer experience examples that drive value",
-      "excerpt": "Discover some proven customer experience examples that organizations can use to improve customer loyalty and grow value.\nThe post Customer experience examples that drive value appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-experience-examples/",
-      "originalUrl": "https://www.ibm.com/blog/customer-experience-examples/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T20:39:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back.md",
-      "title": "‘Not Going Away’: A Star Greenberg Traurig Litigator Lost Her Voice. AI Brought It Back",
-      "excerpt": "Lori Cohen achieved an impressive 58 defense verdicts before suddenly and inexplicably losing her voice. Now, with the help of her long-time trial technologist and friend Gerard Buitrago, she’s harnessing the power of AI to get back in the courtroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/",
-      "originalUrl": "https://www.law.com/legaltechnews/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Cohen-Buitrago-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T20:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

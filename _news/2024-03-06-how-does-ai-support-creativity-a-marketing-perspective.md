@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/how-does-ai-support-creativity-marketing-pers
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/AIPainter.png.jpg?itok=oKYrvEqU"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Youth Edge: Artificial Intelligence and originality and creativity"
+    excerpt: "Students who swear by ChatGPT and other AI tools say that AI “helps streamline tasks”, “articulate arguments better” and “finishes tasks we have no interest in doing”."
+    publishedDateTime: 2024-03-06T12:19:00Z
+    webUrl: "https://indianexpress.com/article/cities/pune/youth-edge-artificial-intelligence-originality-creativity-9199346/"
+    ampWebUrl: "https://indianexpress.com/article/cities/pune/youth-edge-artificial-intelligence-originality-creativity-9199346/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/youth-edge-artificial-intelligence-originality-creativity-9199346/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.indianexpress.com/2024/03/AI-1600-youth-edge.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "6meoREDsAThS1N5XBloS00OWYs57TkAtobPthn+bgjQOHuzqwAZVP1iLiUMkMrEFzYhPCf+iK+sWlDMtDwc/FXpZR89pcv4BbFrvx+ZrOt74C7GgP9WDSNTV62Zbv3mQlnJpzacSVsmJMyXL5rEVlLq2CyvVScJk07LZswyiKlLAz+Vhczevh+NjmCrFg6fDvxQ4+A5JtVdjlfBY+xaYqpugN5Zo6Q0aTZ8L9+MvEQp9w1JvK8U2l3mhobGIJYTX4H3XT1h8U591pBSSJ6qys9cg2b3vVdFEgwdwoAch5gl5+WIqLAfUgHVBv35LkFoX3rmWjBPEBG38LooyCvYXrcKM45/1YIQ6/8s1W6eilt0=;7C5ev0rys/5VpUS+hrsK3A=="

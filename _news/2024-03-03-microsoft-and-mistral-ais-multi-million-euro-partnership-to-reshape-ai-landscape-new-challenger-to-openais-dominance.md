@@ -110,6 +110,15 @@ related:
         width: 855
         height: 459
         isCached: true
+  - title: "OpenAI, Microsoft AI Tools Generate Misleading Election Images, Researchers Say"
+    excerpt: "(Reuters) - Image creation tools powered by artificial intelligence from companies including OpenAI and Microsoft can be used to produce photos that could promote election or voting-related disinformation, despite each having policies against creating misleading content, researchers said in a report on Wednesday."
+    publishedDateTime: 2024-03-06T11:05:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2024-03-06/openai-microsoft-ai-tools-generate-misleading-election-images-researchers-say"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Q&A: Microsoft research head explains how generative AI could help doctors be more human"
     excerpt: "Generative AI is having a moment. Peter Lee ... The OpenAI services on Microsoft’s Azure cloud provide HIPAA compliance. We’re very proud of that but our cloud is not unique. AWS and Google Cloud provide the same sort of compliance to enterprise ..."
     publishedDateTime: 2024-03-05T00:00:00Z

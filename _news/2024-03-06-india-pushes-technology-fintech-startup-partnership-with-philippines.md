@@ -26,6 +26,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Managing The Convergence Of Regulatory Tech And Fintech"
+    excerpt: "Technological advancements in fintech are starting to help create a more secure financial ecosystem, where movements of funds are transparent and bad actors are more easily identified and stopped. AI and machine learning are poised to become even more crucial in helping to understand consumer behavior and patterns."
+    publishedDateTime: 2024-03-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/managing-the-convergence-of-regulatory-tech-and-fintech/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+
 secured: "71EsJ4d1l3mraKS+Uux9/j5kU6uSZIDXWx+ka+ytYAaVH+uuP/e8M35Ozcgm5LwI0dW1ay14B7wHHnSnXkshW1Eki7X0FqcfKoeR7VmoFTO2/iXA8T90Uw9QuVuB0iK4/TxYaEQ4ao3Fn2TaStldfHTk3Y8xbP0W2hVANG9sfDUZWlbxK32WIBTFpskW4OHtQ2LCtgajUF/WMBqJrQAre6mgf52h37wXZrarjhZiPNK9WJokfdxjro5QI9iMCs2UaBOObrgXLW8TSFnaPGpx4CHD+5//PIFvdUryhbQkLElOUHJhkouZBq4bpr1N7WJR1AL8pER2nO5RmTXJ8cZJr/BfWRqfLsaMsZFfb1lliAV/DA0e9gPYv04Tu5mUuoYF2UkieLcNJ5jcFA3FPLJip5pJADd+j5LjaUox8i5ha8CsCS1oH/WFXlH0e87GHNd56I7g2i5YxwTQ7Ch+Q+6M85vtS8jMxSigooFvWwPu4QeK0vvwGE+pKe90TJnzLiEJmNzr/UVi+QSy3ZmFA98E/A==;dM+5rGHAZU8J55Meik/wiw=="
 ---
 

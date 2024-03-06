@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intell
 webUrl: "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 39
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/LoZQbsBT.fwcA7U5dRAXng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/8d4d891f1c89f79406513cf62f1c666d"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI singularity may come in 2027 with artificial 'super intelligence' sooner than we think, says top scientist"
+    excerpt: "We could build an AI that demonstrates generalized, human-level intelligence within three to eight years — which may open the door to a \"super intelligence\" in a very short space of time."
+    publishedDateTime: 2024-03-06T11:04:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-agi-singularity-in-2027-artificial-super-intelligence-sooner-than-we-think-ben-goertzel"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 18
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DtpU5y6gLGsqrb4Pc2czs4-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true

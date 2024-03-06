@@ -24,6 +24,22 @@ images:
     height: 620
     isCached: true
 
+related:
+  - title: "Mohammad, Saudi Arabia's First Male Humanoid Robot, Debuts At Deepfest (WATCH)"
+    excerpt: "The Riyadh Exhibition and Convention Centre in Malham played host to DeepFest, the leading gathering for the global Artificial Intelligence (AI) comm"
+    publishedDateTime: 2024-03-06T12:54:00Z
+    webUrl: "https://menafn.com/1107942001/Mohammad-Saudi-Arabias-First-Male-Humanoid-Robot-Debuts-At-Deepfest-WATCH"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/06/AN_7f84cimage_story.jpg"
+        width: 800
+        height: 511
+        isCached: true
+
 secured: "LK/llprz/UfDBHoXmdWCBSiuSl4sB1SikGd46fuPZ15V6Vjany0p1KKIA0bozV99O5fMHBfSBQVN1djBqCf3Q1cLBr1u1hEe3B8p1cxstziahl+F8dqor/x5ex4ewtNxz0WpiNULgJub1exASKfyBJwbVB1mC+RNhOY5aEc8i1PJwaeQT7y0JG6LKp1kBeJpjpQ/FUXTqa30CGVSQnbGtF7BojfXceXg3ANZAJvqlV0USdnldTVFQx5naNp+onH7pbbMIxnIyG9qNibU2eYxHjuW092CQjvWJOaH/PkgcqIxS5NbqEUgHoz96I9aKpiu/duRZfiq/zg6y5oywbWFEiXd16G9z4NWhMcy7bWu//c=;rQ56HZQihgX8HavLUlH6Tw=="
 ---
 

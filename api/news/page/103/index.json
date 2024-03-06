@@ -2,6 +2,92 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-12-07-meta-debuts-new-generative-ai-features-for-consumers.md",
+      "title": "Meta debuts new generative AI features for consumers",
+      "excerpt": "Meta AI is not the only chatbot the social media giant offers to consumers. Earlier this year, the company introduced more than two dozen other chatbots that each generate text in a different style. Several of those services are also receiving upgrades as part of today’s update.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/06/meta-debuts-new-generative-ai-features-consumers/",
+      "originalUrl": "https://siliconangle.com/2023/12/06/meta-debuts-new-generative-ai-features-consumers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Meta-AI.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T22:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ais-future-could-be-open-source-or-closed.md",
+      "title": "AI’s future could be ‘open-source’ or closed",
+      "excerpt": "Tech leaders have been vocal proponents of the need to regulate artificial intelligence, but they’re also lobbying hard to make sure the new rules work in their favor. That’s not to say they all want the same thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
+      "originalUrl": "https://www.thealpenanews.com/news/national-news-apwire/2023/12/ais-future-could-be-open-source-or-closed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d14e0irai0gcaa.cloudfront.net/www.thealpenanews.com/images/2016/11/15143024/fblike.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T22:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Alpena News",
+        "domain": "thealpenanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-google-pins-its-hopes-on-gemini-ai-to-redeem-troubled-assistant-bard.md",
       "title": "Google pins its hopes on Gemini AI to redeem troubled assistant Bard",
       "excerpt": "After a disappointing launch, Google hopes its new Gemini AI model can improve the capabilities of its AI assistant Bard and help it compete with leading chatbots like ChatGPT.",
@@ -1080,111 +1166,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-driverless-cars-were-the-future-but-now-the-truth-is-out-theyre-on-the-road-to-nowhere.md",
-      "title": "Driverless cars were the future but now the truth is out: they’re on the road to nowhere",
-      "excerpt": "The dream of these vehicles ruling the roads remains just that. Focusing on public transport would be much smarter, says transport writer Christian Wolmar",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?trk=public_post_comment-text",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5291364373b5744b4612a080ab6c07e5252e7884/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0ee4f3d02bf13739c3b2f02182e21827",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
-      "publishedDateTime": "2023-12-06T12:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare.md",
-      "title": "Augmenting Human Capabilities With AI And Computer Vision For Healthcare",
-      "excerpt": "AI and CV are transforming modern healthcare, making it more accessible and accurate. The healthcare industry has been applying CV since the 20th century through the use of medical imaging. However, current solutions allowed it to evolve and improve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3fc8f3f39b3203eade19f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/06/augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare/amp/",
-      "publishedDateTime": "2023-12-06T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

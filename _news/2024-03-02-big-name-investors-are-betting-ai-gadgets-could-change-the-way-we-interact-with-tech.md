@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-gadgets-venture-investors-rabbit-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-gadgets-venture-investors-rabbit-humane-2024-3?amp"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How To Leverage Your Real Estate Investing With AI"
+    excerpt: "Based on my experience as an investor and mentor within the sector, here are some ways I recommend you utilize AI tools to enhance your insights."
+    publishedDateTime: 2024-03-06T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/06/how-to-leverage-your-real-estate-investing-with-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e0db35e5e2b299722586c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "iD+JlHwLNpKCqUWzIjOmsRarHZulx2C5pA6p5TsqPGiUFttDvIU0AEtwLf3SSlM0PcLe+7lO8JdKH9GQe3EA+jEaFre7asj92LiP01BYS/FJ+HFAMDfG0U01TtZOasDmoioAk3pUf14Ej4FGBhz2aaHsDy2YocIjpBkf8i24jGJ73p3IUIhzZKirv0onjeawqwKyH1z+Wu/MHBUrgajyoLq7igJC6iEYcYa6ecoKJGOdxJOzSMnOzlllxDXvCmODkizjUbP6mb8XKUsM1GHvXS9ak4jrVPbgF7yqbYk5v7FdQy1wz4NXnxgWAPrj9rpIUfsuS2aJfUgmx6Lvb1SrHhbSCF9e/uyLZtcucSrbysU=;B/JdEKqXCItAydCQg66GeQ=="
 ---

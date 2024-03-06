@@ -41,6 +41,22 @@ related:
         width: 1223
         height: 900
         isCached: true
+  - title: "Advancing AI innovation with cutting-edge solutions"
+    excerpt: "Power your business transformation with proven AI services and infrastructure. Provided byMicrosoft Azure and NVIDIA AI is helping organizations in nearly every industry increase productivity, engage customers, realize operational efficiencies, and gain a ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/"
+    ampWebUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/Vu6Wq8lLUN0/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
     excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
     publishedDateTime: 2024-03-04T08:41:00Z

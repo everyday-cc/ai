@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5g-advantages-and-disadvantages-what-busi
 webUrl: "https://www.ibm.com/blog/5g-advantages-and-disadvantages-what-business-leaders-need-to-know/"
 type: article
 quality: 102
-heat: 104
+heat: 102
 published: true
 
 provider:

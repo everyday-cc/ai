@@ -2,6 +2,92 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-22-googles-latest-ai-models-are-open-to-anyoneand-can-run-on-a-laptop.md",
+      "title": "Google’s Latest AI Models Are ‘Open’ to Anyone—and Can Run on a Laptop",
+      "excerpt": "Google's Gemma models were built and trained with the same technology used in Gemini, but the models are smaller and will be released under an open license.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
+      "originalUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2024/02/gemma-header.width-1600.format-webp.jpeg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
+      "publishedDateTime": "2024-02-21T23:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-nvidia-stock-earnings-what-you-need-to-know.md",
+      "title": "NVIDIA Stock Earnings: What You Need to Know",
+      "excerpt": "NVIDIA (NASDAQ:NVDA) reported strong results for its fourth fiscal quarter of 2024 on Wednesday (February 21).Quarterly revenue hit a record US$22.1 billion, 22 percent higher than Q3 and up 265 percent compared to a year ago.",
+      "sourceUrl": null,
+      "webUrl": "https://investingnews.com/nvidia-earnings/",
+      "originalUrl": "https://investingnews.com/nvidia-earnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investingnews.com/media-library/nvidia-logo.jpg?id=51529619&width=1200&height=600&coordinates=0%2C189%2C0%2C189",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T23:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing News Network",
+        "domain": "investingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-how-a-new-bipartisan-task-force-is-thinking-about-artificial-intelligence.md",
       "title": "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence",
       "excerpt": "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ...",
@@ -1164,101 +1250,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-cognitiv-increases-client-base-75x-proving-deep-learning-is-the-future-of-advertising.md",
-      "title": "Cognitiv Increases Client Base 7.5X, Proving Deep Learning Is the Future of Advertising",
-      "excerpt": "Deep Learning DSP - Cognitiv's Deep Learning DSP is built to access its most advanced AI models. Deep learning allows the DSP to deliver real-time optimization of advanced, custom, business-driven KPIs such as incremental lift and lifetime value (LTV).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/21/9965416.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/21/9965416.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T13:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-intels-ai-reboot-is-the-future-of-us-chipmaking.md",
-      "title": "Intel's AI Reboot Is the Future of US Chipmaking",
-      "excerpt": "Rival Nvidia, which mints chips with TSMC, became the AI industry’s workhorse and has seen its business soar. But Gelsinger argues that with AI still growing fast and millions of AI chips expected to be needed, Intel can become a major player.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/",
-      "originalUrl": "https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65d6409e2a66db9b96a0d09c/191:100/w_1280,c_limit/Intel-Foundry-IFDC-7.jpg.rendition.intel.web.1920.1080.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

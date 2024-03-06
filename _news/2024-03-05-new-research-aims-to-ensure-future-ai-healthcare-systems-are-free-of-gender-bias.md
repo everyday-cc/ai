@@ -7,7 +7,7 @@ originalUrl: "https://www.gla.ac.uk/news/headline_1054147_en.html"
 webUrl: "https://www.gla.ac.uk/news/headline_1054147_en.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Researchers Pen Letter to OpenAI, Meta, for More Accessible AI Systems"
-    excerpt: "The penned open letter says that the strict restrictions meant to prevent malicious actors from misusing AI systems are instead chilling independent research. If these auditors attempt to safety-test AI models without a company's approval, they risk having their accounts blocked or facing legal action."
-    publishedDateTime: 2024-03-06T02:29:00Z
-    webUrl: "https://www.techtimes.com/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
+  - title: "As artificial intelligence aims to transform health care, soon your doctor may consult an AI algorithm before deciding on your treatment"
+    excerpt: "When doctors decide on a course of treatment, they have a lot of data to inform their decision-making. But they do not always have the time to interpret that data."
+    publishedDateTime: 2024-03-03T13:00:00Z
+    webUrl: "https://www.columbian.com/news/2024/mar/03/as-artificial-intelligence-aims-to-transform-health-care-soon-your-doctor-may-consult-an-ai-algorithm-before-deciding-on-your-treatment/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 58
+      name: The Columbian
+      domain: columbian.com
+    quality: 23
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444414/germany-internet-ai-artificial-intelligence.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Researchers, legal experts want AI firms to open up for safety checks"
-    excerpt: "More than 150 researchers, ethicists, legal experts and professors signed onto a letter asking generative AI companies to open up their technology to outside evaluations for safety reasons."
-    publishedDateTime: 2024-03-05T18:10:00Z
-    webUrl: "https://www.computerworld.com/article/3714180/researchers-legal-experts-want-ai-firms-to-open-up-for-safety-checks.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2024/03/shutterstock_2287556297-100962242-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2024/03/Europe_Artificial_Intelligence_31958-822f9.jpg"
+        width: 899
+        height: 599
         isCached: true
 
 secured: "g3DCkHqj1XVenOcQK415ImWXwaR6mPV4RhqOuCHJUFam+XbGB376/tdeETEjUTQzNP5LOphzxZJltXKRO6Huo2uIo/iVDOQ8lBBEoC9oGeRmRRQhjYpQFI2IbgNI3kwH8eSZWTdrv78BSMmIOISJ/vg3KwV1bIzVC1w4vrgk+3nDtHH1bmDiXJuAKOtjcP+C0qYP1R76rIakVXXrrGHBFF8ufX1sWpNbEkzZj4wGVClAmuC7BjB2cKrHSXc+B/M4qH5hF0wBq4JY5GUQDCwXW9VeINOArKcbFzx1jy3cj5kojMwzLlKhQhpa/OEjheNyKw+KFfjeXlGey5n9Bb1TeeG8C3L/3Vup7MrHEF1W738=;RfqTmTC7tZeW8uGUXdSGdA=="

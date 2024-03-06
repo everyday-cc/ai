@@ -23,31 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "AI In Fintech Marketing: Let The Robots Do What They Do Best"
-    excerpt: "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ..."
-    publishedDateTime: 2024-03-01T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
+  - title: "India pushes technology, fintech & startup partnership with Philippines"
+    excerpt: "The summit brought Indian ‘unicorns—startup companies valued at over $1 billion that are privately owned and not listed on a share market— as well as other startups in the areas of agriculture, health care and financial technology (fintech) to the Philippines."
+    publishedDateTime: 2024-03-06T05:01:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/india-pushes-technology-fintech-startup-partnership-with-philippines/articleshow/108255442.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/india-pushes-technology-fintech-startup-partnership-with-philippines/amp_articleshow/108255442.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/india-pushes-technology-fintech-startup-partnership-with-philippines/amp_articleshow/108255442.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/629e12f58b003428bdbb3b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-886190,msid-108255460/future-of-fintech-in-healthcare.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Why we're fighting to keep London first for fintech"
-    excerpt: "This will include how the UK can innovate and regulate successfully groundbreaking new technologies such as AI (and we look forward to working in collaboration with the Startup Coalition on their non-fintech focused Unicorn Project). The Unicorn Council's ..."
-    publishedDateTime: 2024-03-05T20:30:00Z
-    webUrl: "https://www.standard.co.uk/business/why-we-re-fighting-to-keep-london-first-for-fintech-b1143072.html?utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 4
 
 secured: "Dq7dupUB94WBKT9DvzbFYb+sQXHMSx1acgcxv13oMTTOWSC83j5Z5zRxDkMB2e49HBC26FjThHqQB7b397PwIRQ+Gul1TPvY/RqBosH+NuTdQB4fbT7hob7dI/WXSTJbUh1bvw/r/gdAT1mNNuheGBwmdDo5sjsTiheJnwTJ9EJBtQ/Go6eBOcyvtdfqcwPGJ/aoIprOPyXqD/dPhaxF0zlgrVUdOeloaf6GouW8ITvNu/+qNlqb26MP9kjfV1P/Rfh2YpJEDgy+wG64gDV38LtawUlo/euunSTvnaWzal22ucbIpRTwHz4CuA+aSPvVHh2Z9hvpSi8R/2wBPH79/I+QRPgMgDA9r1NxlHEoxCoWqZlc9YRWqTcFjiHn/zJkRJRKpdafRCZy9Z0mo0JfLq8Uay0OoibJ4lb+Q2OWZfzJyazsqjhNcw8t65sD0BDkfJXXgKjdqjTXpvntK9yGggtyiFO275xVGI3c9xbloXr7DswLjj4R51SMg/D8SsJNkvRwXfblnLGL0xITUIVQeA==;i9YeH1tj/fANgQJJeiZKbA=="
 ---

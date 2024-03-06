@@ -60,6 +60,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The Dark Side of Open Source AI Image Generators"
+    excerpt: "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn."
+    publishedDateTime: 2024-03-06T12:00:00Z
+    webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg"
+        width: 1280
+        height: 671
+        isCached: true
   - title: "The Impact of Artificial Intelligence on Our Encounters"
     excerpt: "According to a recent review of the literature, “In healthcare, social robots … can positively interact with the disabled, children, and the elderly, reducing the workload of nurses, physicians, and caregivers. Because of their artificial intelligence ..."
     publishedDateTime: 2024-03-05T16:22:00Z

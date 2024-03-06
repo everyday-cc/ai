@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
+      "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
+      "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "originalUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-nvidia-briefly-hits-2trn-valuation-as-demand-for-ai-chips-soars.md",
       "title": "Nvidia briefly hits $2trn valuation as demand for AI chips soars",
       "excerpt": "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ...",
@@ -1408,58 +1452,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-3-artificial-intelligence-ai-stocks-billionaires-sold-way-too-early.md",
-      "title": "3 Artificial Intelligence (AI) Stocks Billionaires Sold Way Too Early",
-      "excerpt": "It designs central processing units (CPUs), and major chip companies pay Arm for the right to use its designs. It's a fantastic gig that generates incredibly high margins. A number of major AI players, including Nvidia (which has invested directly in Arm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/765866/artificial-intelligence-ai-machine-learning-facial-recogniition-getty.jpg",
-          "width": 4000,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T05:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

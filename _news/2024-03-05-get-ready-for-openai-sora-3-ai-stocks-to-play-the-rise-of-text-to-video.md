@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The Dark Side of Open Source AI Image Generators"
+    excerpt: "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn."
+    publishedDateTime: 2024-03-06T12:00:00Z
+    webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg"
+        width: 1280
+        height: 671
+        isCached: true
   - title: "The Future Of AI Skill And Talent Development In The Workforce"
     excerpt: "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?"
     publishedDateTime: 2024-03-05T12:30:00Z

@@ -97,6 +97,15 @@ related:
         width: 855
         height: 459
         isCached: true
+  - title: "OpenAI, Microsoft AI Tools Generate Misleading Election Images, Researchers Say"
+    excerpt: "(Reuters) - Image creation tools powered by artificial intelligence from companies including OpenAI and Microsoft can be used to produce photos that could promote election or voting-related disinformation, despite each having policies against creating misleading content, researchers said in a report on Wednesday."
+    publishedDateTime: 2024-03-06T11:05:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2024-03-06/openai-microsoft-ai-tools-generate-misleading-election-images-researchers-say"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
     excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
     publishedDateTime: 2024-03-03T15:31:00Z

@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-06-ai-researchers-pen-letter-to-openai-meta-for-more-accessible-ai-systems.md",
-      "title": "AI Researchers Pen Letter to OpenAI, Meta, for More Accessible AI Systems",
-      "excerpt": "The penned open letter says that the strict restrictions meant to prevent malicious actors from misusing AI systems are instead chilling independent research. If these auditors attempt to safety-test AI models without a company's approval, they risk having their accounts blocked or facing legal action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm",
-      "originalUrl": "https://www.techtimes.com/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/444414/germany-internet-ai-artificial-intelligence.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm",
-      "publishedDateTime": "2024-03-06T02:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-06-5-stocks-surging-on-ai-mania.md",
       "title": "5 Stocks Surging on AI Mania",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In March 2000, networking giant Cisco Systems (NASDAQ:CSCO) became the most",
@@ -53,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/5-stocks-surging-on-ai-mania-1033134591",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "",
@@ -97,7 +54,7 @@
       "originalUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -194,7 +151,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -248,7 +205,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -260,7 +217,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
@@ -1451,6 +1408,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-3-ways-ai-can-help-you-switch-careers.md",
+      "title": "3 Ways AI Can Help You Switch Careers",
+      "excerpt": "Instead, you may succeed in a career where you can still use some, if not most of your existing skills. This is where AI can help. Ask it to research some roles, industries, and even companies for you, and see which ones spark your interest. It can look so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/",
+      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d7236af64a1309313ba836/0x0.jpg?format=jpg&crop=6001,3372,x0,y3,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/22/3-ways-ai-can-help-you-switch-careers/amp/",
+      "publishedDateTime": "2024-02-22T17:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

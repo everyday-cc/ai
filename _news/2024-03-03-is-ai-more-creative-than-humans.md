@@ -56,6 +56,22 @@ related:
         width: 1348
         height: 900
         isCached: true
+  - title: "Youth Edge: Artificial Intelligence and originality and creativity"
+    excerpt: "Students who swear by ChatGPT and other AI tools say that AI “helps streamline tasks”, “articulate arguments better” and “finishes tasks we have no interest in doing”."
+    publishedDateTime: 2024-03-06T12:19:00Z
+    webUrl: "https://indianexpress.com/article/cities/pune/youth-edge-artificial-intelligence-originality-creativity-9199346/"
+    ampWebUrl: "https://indianexpress.com/article/cities/pune/youth-edge-artificial-intelligence-originality-creativity-9199346/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/youth-edge-artificial-intelligence-originality-creativity-9199346/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.indianexpress.com/2024/03/AI-1600-youth-edge.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "B4IqAOM5C3oGG0ELn4mxf/1MCbboVS67oVZkCCWi6om9f1sJ8UxWCyoMdGlrPNWPpCMxIIQwCythBpRFfyToTCz+AFmW8e2JMZIwkyZrNbf4eDYZN/Hz3/p3d6CODj5e+8kmIWNKjd4kpjkthWlq2aLZt3uqJsFLopnaTYMYgfizC8laXB/PYAVWEaIJWeOYsKgzd8VzP2wAq1lfSFKqD2EJhyWD6FksyRGcSKut6nh8hRv/JUCr2dUwav/D5cwONCTvOdD/ob+HL8PuEzKmuAYtZPzYmMNiLK5Rsz5kHTD9SkpWwuEOpaehATOiiaBsVV0LZX13FGgFTt+VBfBub8vrixDUSHYS1at010aufY8H++DtxUbEGQjtVlPcjB+4/N2dkhZcQwPG1sjYF2fGxy3ceUHqaSvIdRQUczDok9FeX9BfgE1SAU6+vg8b8sPDrCGkdoIEaHAiciccrKp8Xu9m1Ls9wYGXPpxeIz1Ffuo2Zmamz5Z1JaquKcKknsIdfTNhHa79Ug7nr+HONIDqBQ==;syROnZ7DrcDqK9V4kEE69g=="
 ---

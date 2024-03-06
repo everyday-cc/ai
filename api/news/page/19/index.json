@@ -2,6 +2,110 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-21-bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology.md",
+      "title": "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology",
+      "excerpt": "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
+      "originalUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1362476720.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
+      "publishedDateTime": "2024-02-20T16:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.md",
+      "title": "How to stand out from the crowd when everyone uses generative AI",
+      "excerpt": "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T16:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-oppo-reno-11-series-to-get-an-array-of-generative-ai-features-very-soon.md",
       "title": "OPPO Reno 11 series to get 'an array' of generative AI features very soon",
       "excerpt": "The phone maker also revealed it would roll out generative AI features in the second quarter of 2024 to the OPPO Reno 11 series. These AI features will come to Reno 11 series owners globally.",
@@ -1081,110 +1185,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-inside-the-funding-frenzy-at-anthropic-one-of-ais-hottest-start-ups.md",
-      "title": "Inside the Funding Frenzy at Anthropic, One of A.I.’s Hottest Start-Ups",
-      "excerpt": "The company raised $7.3 billion over the last year, as the lure of artificial intelligence changes Silicon Valley deal-making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/00-anthropic-funding-jpvz/00-anthropic-funding-jpvz-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T10:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-making-cloud-infrastructure-programmable-for-developers.md",
-      "title": "Making cloud infrastructure programmable for developers",
-      "excerpt": "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/developer_programmer-100946133-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
-      "publishedDateTime": "2024-02-20T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

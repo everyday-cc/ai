@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-01-knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search.md",
+      "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
+      "excerpt": "At AWS re:Invent 2023, we announced the general availability of Knowledge Bases for Amazon Bedrock. With a knowledge base, you can securely connect foundation models (FMs) in Amazon Bedrock to your company data for fully managed Retrieval Augmented Generation (RAG). In a previous post, we described how",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/knowledge-bases-for-bedrock-hybrid-search-1117x630.jpg",
+          "width": 1117,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T22:29:55Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
+      "title": "US stock markets close at record highs amid continued enthusiasm for AI",
+      "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "originalUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dd523ec21e76471b1119e8dbd02c6e0a3adc83dd/0_6_3000_1799/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=507f237be7acada08ea257cdcca739f3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "publishedDateTime": "2024-03-01T21:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-tech-jumps-as-ai-rally-resumes-tech-roundup.md",
       "title": "Tech Jumps as AI Rally Resumes -- Tech Roundup",
       "excerpt": "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high",
@@ -409,7 +513,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-gadgets-venture-investors-rabbit-humane-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -460,7 +564,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1149,109 +1253,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-openai-categorically-disagrees-with-elon-musks-lawsuit-against-it-suggests-tesla-ceo-has-regrets.md",
-      "title": "OpenAI ‘categorically disagrees’ with Elon Musk’s lawsuit against it, suggests Tesla CEO has ‘regrets’",
-      "excerpt": "Mike Windle/Getty Images for Vanity Fair OpenAI “categorically disagrees” with the lawsuit Elon Musk filed against the company, according to an internal memo sent to employees of the artificial intelligence startup. Musk, a cofounder of OpenAI who is ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "originalUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-491587260-e1709336480973.jpg?w=840",
-          "width": 840,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-cryptocurrencies-are-the-frontier-to-watch-in-2024.md",
-      "title": "AI Cryptocurrencies Are The Frontier To Watch In 2024",
-      "excerpt": "Cryptocurrency is the cornerstone for constructing AI systems that engender trust and reliability in their operations, heralding a new era of technological advancement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e094ddafab52dfdac33283/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
-      "publishedDateTime": "2024-02-29T23:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-21-chatgpt-is-losing-its-mind-and-no-one-seems-to-know-why.md",
+      "title": "ChatGPT is losing its mind and no one seems to know why",
+      "excerpt": "Users of ChatGPT have shared screenshots of their interactions with the chatbot on social media after it started responding with nonsense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d62092a3bd891424f8e2e6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-giving-users-unhinged-answers-no-one-knows-why-openai-2024-2?amp",
+      "publishedDateTime": "2024-02-21T15:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-google-bard-now-called-gemini-vs-chatgpt-updated-february-2024.md",
       "title": "Google Bard (now called Gemini) vs ChatGPT – Updated February 2024",
       "excerpt": "[Updated Feb 21st, 2024: Google Bard had been renamed to Gemini. There are three different versions of Gemini, and one is called Gemini Pro. This is the version that replaced Bard. The core ...",
@@ -1361,58 +1413,6 @@
         "name": "Impacts",
         "domain": "techbullion.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-bidens-upcoming-physical-exam-will-not-include-a-cognitive-test-white-house-says.md",
-      "title": "Biden's upcoming physical exam will not include a cognitive test, White House says",
-      "excerpt": "President Biden will not take a cognitive test as part of his upcoming physical exam, the White House confirmed Monday. White House press secretary Karine Jean-Pierre stated that Biden's physician ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
-      "originalUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d61beb5b-2fdb-4ed2-8828-9d637f81b42d/624998bf-6f91-4b7d-b2ce-a2b40b59bcb8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
-      "publishedDateTime": "2024-02-12T19:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

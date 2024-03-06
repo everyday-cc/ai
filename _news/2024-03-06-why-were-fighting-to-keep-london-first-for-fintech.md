@@ -19,31 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI In Fintech Marketing: Let The Robots Do What They Do Best"
-    excerpt: "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ..."
-    publishedDateTime: 2024-03-01T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/"
+  - title: "Gusto: Rise of Embedded Fintech to Drive Differentiation"
+    excerpt: "Gusto's Yi Liu discusses embedded fintech rise, data leverage, and partnerships driving differentiation in the competitive fintech landscape"
+    publishedDateTime: 2024-03-03T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/gusto-rise-of-embedded-fintech-to-drive-differentiation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/629e12f58b003428bdbb3b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://assets.bizclikmedia.net/1200/ef1e4716a2dc0428865ed5b493e9f9da:9900b484c85e2ba76348895615d663ae/embedded-headshots-yi-02.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Managing The Convergence Of Regulatory Tech And Fintech"
-    excerpt: "Technological advancements in fintech are starting to help create a more secure financial ecosystem, where movements of funds are transparent and bad actors are more easily identified and stopped. AI and machine learning are poised to become even more crucial in helping to understand consumer behavior and patterns."
-    publishedDateTime: 2024-03-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/managing-the-convergence-of-regulatory-tech-and-fintech/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "jhN2+dCI03VL2UXhIoJk5fqaJV+TVCzc27fZh7Hhw50+SIRF+dA4Gy5+sn89WUDAKDJiJXRX3h1eWW6wR3ox0Ns9m55aUYOyXEMKdU6RMrSshppYoxzbADtoFHH18f1Q+XNdlyQkVSU/4JYQb98kXK4FnMISi3Pe16qCPq+knuxvrJDDJ7mAzd2Lnqd5ahLcmScH8d08kGsYKgE+xrjpm94aR19e2aMuyKebZK3LGQxnFiTkLuXbG96AG/OR9LKvUkoTegeyCZvMqCpCg5inbdJ317Ohv0VTyjeVNxDRjZQsmPrPZxxiVEphqHkrnTIp6luKRpJ7oIzBNulwn61AcFPi/b8NcI4hllvxYFRTmMJdal/A4T2/B6dp6b8kBmAaFFCEA6OuxRFciDhaSW32VHARkEslYjzgaDoN31x2SlWwjdxCO+n/l604Ug3HYKc7iKHuUivslFiywph1BkAd0ozRODLi0wJxzL/XFThQMn0DPLM/c0gozRW+dxQL6NKGtRXLrJ1YaFCHsDe46SYgZQ==;K9/BUVr9GP3nH8m/ZNL2YQ=="
 ---

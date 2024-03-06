@@ -44,15 +44,6 @@ related:
         width: 4500
         height: 3000
         isCached: true
-  - title: "How to use ChatGPT's file analysis capability (and what it can do for you)"
-    excerpt: "From searching a text 'semantically' to creating outlines and captioning images, file uploads on ChatGPT expand the bot's usefulness in important ways."
-    publishedDateTime: 2024-03-01T12:12:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-chatgpts-file-analysis-capability/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "+KrPMGNCtN1lHflX8Tw8xA1j0GA5DSy97jhQask578NiIm+qDM5KK2QS8nwcz4eXWSQX7rH4hu5Q3yVdrd3cU2SA/gaO6zAKayM/PoiwWPSL/6+p2T5bIzTpOZqmSbIwrOqupmpXwRmG6QF75g8dY1QPLiMxTDz/QHgEe7qASQHt0MaBLrGs3u2XjOnmqoa9eUHD2PlDLlOgalT3g7A0oeeu+4qJjfQ/Edu90YGXlqboNVv663G0xXqSmJofeykBeMAabVacQHfsYxYuVlSLLZ7z7zUoZ5WrPe0rZ3h/jz/gi8Mw1EmniUoJV9tK5HiwGEU5JQQ0f7CoUfe8MPaC2MzKqTMfUF2bZ2n3GMx1brw=;ij+8ulVHpGgnH80sZS3X5g=="
 ---

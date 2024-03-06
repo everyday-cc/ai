@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

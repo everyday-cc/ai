@@ -2,6 +2,92 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-12-22-a-look-back-us-diplomatic-recognition-of-ukraine.md",
+      "title": "A Look Back: US Diplomatic Recognition of Ukraine",
+      "excerpt": "Former US Ambassador to Ukraine recalls the day the United States granted diplomatic recognition to independent Ukraine 32 years ago, on December 25, 1991.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wilsoncenter.org/article/look-back-us-diplomatic-recognition-ukraine",
+      "originalUrl": "https://www.wilsoncenter.org/article/look-back-us-diplomatic-recognition-ukraine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/uploads/images/IMG_0122.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wilson Center",
+        "domain": "wilsoncenter.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard.md",
+      "title": "'Listening and correcting': How automatic speech recognition is speeding up Alberta Hansard",
+      "excerpt": "Now, those transcribers are using automatic speech recognition software that converts spoken words into a written transcription within minutes. “It works quite well. It’s sped up the whole pro ...",
+      "sourceUrl": null,
+      "webUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard",
+      "originalUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/12/20231030DB014-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard/wcm/1b98f27b-3a9e-4614-a3ec-b4aaa8f12e1e/amp/",
+      "cdnAmpWebUrl": "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard/wcm/1b98f27b-3a9e-4614-a3ec-b4aaa8f12e1e/amp/",
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edmontonsun",
+        "domain": "edmontonsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-remote-controlled-robot-has-tv-eyes-soft-touch.md",
       "title": "Remote-Controlled Robot Has TV “Eyes,” Soft Touch",
       "excerpt": "Your support for Society for Science helps counter misinformation and create a more informed public. And right now, your year-end gift could go twice as far — because a generous supporter is ...",
@@ -1100,108 +1186,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud.md",
-      "title": "Apple wants AI to run directly on its hardware instead of in the cloud",
-      "excerpt": "Apple’s latest research about running large language models on smartphones offers the clearest signal yet that the iPhone maker plans to catch up with its Silicon Valley rivals in generative artificial intelligence. The paper, entitled “LLM in a Flash ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me",
-      "originalUrl": "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.59.20-PM-760x380.jpeg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T06:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai.md",
-      "title": "The New HR Playbook: Catalyze Innovation With Analytics And AI",
-      "excerpt": "Explore the exciting advancements in HR analytics powered by data and AI. Gain insights into how no-code solutions, along with metaverse and blockchain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6583ea74bb752dfa5d2947e3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
-      "publishedDateTime": "2023-12-21T06:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "The Hot List: 3 AI Stocks Worth Buying on Weakness"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Wall Street has correctly recognized that artificial intelligence (AI) is a"
-    publishedDateTime: 2024-03-01T12:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-hot-list-3-ai-stocks-worth-buying-on-weakness-1033123124"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Why Artificial Intelligence and Tech Hardware Stocks Soared on Friday"
     excerpt: "Artificial intelligence (AI) was at the heart of that outperformance, so AI stocks were -- hardly for the first time in recent months -- a particular target of the bulls. That alone wasn't the ..."
     publishedDateTime: 2024-03-01T23:03:00Z

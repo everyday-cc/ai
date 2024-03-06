@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-01-openai-categorically-disagrees-with-elon-musks-lawsuit-against-it-suggests-tesla-ceo-has-regrets.md",
+      "title": "OpenAI ‘categorically disagrees’ with Elon Musk’s lawsuit against it, suggests Tesla CEO has ‘regrets’",
+      "excerpt": "Mike Windle/Getty Images for Vanity Fair OpenAI “categorically disagrees” with the lawsuit Elon Musk filed against the company, according to an internal memo sent to employees of the artificial intelligence startup. Musk, a cofounder of OpenAI who is ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
+      "originalUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-491587260-e1709336480973.jpg?w=840",
+          "width": 840,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
+      "publishedDateTime": "2024-03-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-ai-cryptocurrencies-are-the-frontier-to-watch-in-2024.md",
+      "title": "AI Cryptocurrencies Are The Frontier To Watch In 2024",
+      "excerpt": "Cryptocurrency is the cornerstone for constructing AI systems that engender trust and reliability in their operations, heralding a new era of technological advancement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e094ddafab52dfdac33283/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
+      "publishedDateTime": "2024-02-29T23:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
       "title": "Humanoid robot-maker Figure partners with OpenAI",
       "excerpt": "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ...",
@@ -1128,91 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-tsa-precheck-will-try-using-your-face-as-your-id-at-these-airports.md",
-      "title": "TSA PreCheck will try using your face as your ID at these airports",
-      "excerpt": "\"Further development with facial recognition technology will continue to occur organically as TSA deploys technology to checkpoints nationwide, states adopt mobile driver’s licenses, and additional airports and airlines recognize an opportunity to serve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports",
-      "originalUrl": "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/02/932/470/tsa-getty.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp",
-      "publishedDateTime": "2024-02-29T13:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-empowering-the-digital-first-business-professional-in-the-foundation-model-era.md",
-      "title": "Empowering the digital-first business professional in the foundation model era ",
-      "excerpt": "With rapid technological changes such as cloud computing and AI, learn how to thrive in the foundation model era.\nThe post Empowering the digital-first business professional in the foundation model era  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/empowering-the-digital-first-business-professional-in-the-foundation-model-era/",
-      "originalUrl": "https://www.ibm.com/blog/empowering-the-digital-first-business-professional-in-the-foundation-model-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

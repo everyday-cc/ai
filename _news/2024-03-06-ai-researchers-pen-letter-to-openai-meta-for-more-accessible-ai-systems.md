@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/302335/20240305/ai-researcher
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: techtimes
@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "New research aims to ensure future AI healthcare systems are free of gender bias"
-    excerpt: "Researchers are setting out to help ensure that the artificial intelligence behind the healthcare monitoring systems of the future is capable of providing the best possible care for both men and women."
-    publishedDateTime: 2024-03-05T06:40:00Z
-    webUrl: "https://www.gla.ac.uk/news/headline_1054147_en.html"
+  - title: "Box gets even smarter with Azure OpenAI Service integration"
+    excerpt: "Box AI, including the newly announced Azure OpenAI Service integration, is now included in Enterprise Plus plans. Individual users have access to 20 queries per month, with a further 2,000 queries available at the company level."
+    publishedDateTime: 2024-03-06T11:07:00Z
+    webUrl: "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration"
     type: article
     provider:
-      name: gla.ac.uk
-      domain: gla.ac.uk
-    quality: 49
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
     images:
-      - url: "https://www.gla.ac.uk/media/Media_1054148_smxx.jpg"
-        width: 1713
-        height: 1299
-        isCached: true
-  - title: "Researchers, legal experts want AI firms to open up for safety checks"
-    excerpt: "More than 150 researchers, ethicists, legal experts and professors signed onto a letter asking generative AI companies to open up their technology to outside evaluations for safety reasons."
-    publishedDateTime: 2024-03-05T18:10:00Z
-    webUrl: "https://www.computerworld.com/article/3714180/researchers-legal-experts-want-ai-firms-to-open-up-for-safety-checks.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2024/03/shutterstock_2287556297-100962242-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://cdn.mos.cms.futurecdn.net/m6TgkK2kPHQufJaNbcCFvA-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
 
 secured: "UsmzQ8475y0DfNhFcTkExORxA5NFrgTEAdzxjiqx7Nqz27Nhrkv0iEdZ4wmYmQoLav5NG0DSdg7P8DhGA9ovLvDdd1ZoBiLPvK6K/IMnUGf1SfILnt3ISjJIJLA3ieUKhorWTyWtZgtLpl04JUYvifOgKMRtTk9W1yq4GOd8wjsWV9J6Dtm5RjRsL3OCaIWzOZbaheQQk8iWlnlr+cjrOkOcP+vMjsYKI+cuiiS/0p1MUz6KQmqojnhAwPRBxGQr9sKi410we0acwu9itgEqj00nQAOHUEh5/PuGMwkYvVsMQHynpDgltmsDb1nLSbjexLyvGF30gmuqUHg2+SVqe+z6ld5Vzq9HeH9nWfxPtBk=;8gRO033tB9O7o4/dsyDT0Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.columbian.com/news/2024/mar/03/as-artificial-intellige
 webUrl: "https://www.columbian.com/news/2024/mar/03/as-artificial-intelligence-aims-to-transform-health-care-soon-your-doctor-may-consult-an-ai-algorithm-before-deciding-on-your-treatment/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 899
     height: 599
     isCached: true
+
+related:
+  - title: "New research aims to ensure future AI healthcare systems are free of gender bias"
+    excerpt: "Researchers are setting out to help ensure that the artificial intelligence behind the healthcare monitoring systems of the future is capable of providing the best possible care for both men and women."
+    publishedDateTime: 2024-03-05T06:40:00Z
+    webUrl: "https://www.gla.ac.uk/news/headline_1054147_en.html"
+    type: article
+    provider:
+      name: gla.ac.uk
+      domain: gla.ac.uk
+    quality: 49
+    images:
+      - url: "https://www.gla.ac.uk/media/Media_1054148_smxx.jpg"
+        width: 1713
+        height: 1299
+        isCached: true
 
 secured: "JeAtIAGwK0/iLV20m0puyc4ZjqtS+GPAXs4+2NK3NGtPvPVGauMruShuV0wCUnhdwZwVZsZduyGks/FRNDS2NWw0d7Q/6+igeba+TlaE2V65bGhpIP7XnH5PASRl0indkOvYqyJaSpq3Z37Fa5juGIg2G9P9/hcNVXg+kDjEDrb2LKrluJZZ3NdU1dpXDC8QI2rzmFrVuCTF6b41O2xWduMvjLtX4Y15zH+p8NT2E9jrvwLI/XpjzNI6UNkPul0nOhDHd5ccW9fHJzttHvoMbF5PnIdtUFKbfo39YyydVxa828sA2fUC5MB01mjIvdzwTs6MGiQ3sOTO50v4dYQ6dJrCNkdqHNfgHvLqy2AdZoo=;sJJ9UwUtdz7JL/7KwR/9Ew=="
 ---

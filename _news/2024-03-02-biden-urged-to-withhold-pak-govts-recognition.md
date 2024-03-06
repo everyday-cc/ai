@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "‘We want equality and recognition’, say 100 older women in new project"
+    excerpt: "Equal rights, good work and recognition of unpaid labour are some of the demands from a collective voice of 100 diverse Manchester women aged fifty-plus, following a research project involving experts from The University of Manchester."
+    publishedDateTime: 2024-03-06T12:17:00Z
+    webUrl: "https://www.manchester.ac.uk/discover/news/we-want-equality-and-recognition/"
+    type: article
+    provider:
+      name: University of Manchester
+      domain: manchester.ac.uk
+    quality: 24
+    images:
+      - url: "https://content.presspage.com/uploads/1369/5796dc82-d654-4b88-8832-9aecd5f458ea/1920_uncertainfutures-2.jpg?10000"
+        width: 1293
+        height: 643
+        isCached: true
   - title: "US lawmakers call on Biden to withhold recognition of Pakistan's new government"
     excerpt: "Over two dozen members of Congress want the Biden administration to conduct an audit of Pakistan's recent election"
     publishedDateTime: 2024-03-01T19:02:00Z

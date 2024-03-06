@@ -115,6 +115,15 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Legal transparency in AI finance: facing the accountability dilemma in digital decision-making"
+    excerpt: "Like hidden gears whirring behind the Emerald City facade, AI algorithms are transforming finance by unlocking efficiencies, predicting trends and personalizing financial experiences. From fighting fraud to streamlining transactions,"
+    publishedDateTime: 2024-03-01T16:58:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/legal-transparency-ai-finance-facing-accountability-dilemma-digital-decision-2024-03-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 52
   - title: "What Comes Next For Banks With Generative AI"
     excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
     publishedDateTime: 2024-03-04T13:00:00Z

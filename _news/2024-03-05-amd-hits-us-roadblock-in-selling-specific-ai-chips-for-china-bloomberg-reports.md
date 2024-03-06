@@ -53,6 +53,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. Prohibits AMD’s AI Chip Sales To China"
+    excerpt: "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first."
+    publishedDateTime: 2024-03-06T11:50:00Z
+    webUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/"
+    ampWebUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 71
   - title: "AMD faces US hurdles for its China-focused chip"
     excerpt: "Meanwhile, in response to chip availability constraints, several Chinese city governments have committed to offering “computing vouchers” to subsidize AI startups grappling with escalating data center costs. Credit: Shutterstock Highlighting the ..."
     publishedDateTime: 2024-03-05T00:00:00Z

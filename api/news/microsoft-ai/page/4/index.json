@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-02-from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024.md",
+      "title": "From IT Staff To The Boardroom: Top Generative AI Predictions For 2024",
+      "excerpt": "Expect to see a surge in new GenAI deployments as more enterprises rapidly turn their AI POCs into pilots using the latest models, patterns and cloud services in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe35cac1252d2fac45417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
+      "publishedDateTime": "2024-02-02T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-has-chatgpt-rendered-the-uss-education-report-card-irrelevant.md",
       "title": "Has ChatGPT rendered the US's education report card irrelevant?",
       "excerpt": "ChatGPT and GPT-4 excelled at the nation's benchmark for answering science questions. The programs' abilities to overcome the working memory limit of humans carries 'significant implications' for educators,",
@@ -1445,58 +1497,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth.md",
-      "title": "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth",
-      "excerpt": "Also Read: Microsoft Represents Solid Reacceleration Story in 2024 – Bank of America Analyst Raises Forecast Radke expects a solid beat and raise and notes improving IT budgets, partially driven by generative AI where Microsoft is in a leadership ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/microsoft-shutter_0.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T14:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

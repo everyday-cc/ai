@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-s
 webUrl: "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources"
 type: article
 quality: 80
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. Prohibits AMD’s AI Chip Sales To China"
+    excerpt: "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first."
+    publishedDateTime: 2024-03-06T11:50:00Z
+    webUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/"
+    ampWebUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 71
   - title: "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports"
     excerpt: "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,"
     publishedDateTime: 2024-03-05T00:38:00Z
