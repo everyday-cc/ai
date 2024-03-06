@@ -2,6 +2,213 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2024-02-23-google-halts-ai-tools-ability-to-produce-images-of-people-after-backlash-over-historically-inaccurate-depictions-of-race.md",
+      "title": "Google halts AI tool’s ability to produce images of people after backlash over historically inaccurate depictions of race",
+      "excerpt": "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "originalUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1835957780.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "publishedDateTime": "2024-02-22T16:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap.md",
+      "title": "Care.com Founder Launches AI Startup Aimed At $10.9 Trillion Labor Gap",
+      "excerpt": "Their story and journey create powerful references in helping us understand how to pave the path forward for gender parity and address this seismic gap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/",
+      "originalUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d66426b566a26356499580/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 897,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/",
+      "publishedDateTime": "2024-02-22T16:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-digs-puts-ai-in-the-center-of-building-a-home.md",
+      "title": "Digs Puts AI In The Center Of Building A Home",
+      "excerpt": "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "publishedDateTime": "2024-02-22T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-operationalizing-responsible-ai-principles-for-defense.md",
+      "title": "Operationalizing responsible AI principles for defense",
+      "excerpt": "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "originalUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/coding_1-2-1.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T15:35:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute.md",
       "title": "Women In AI: Krystal Kauffman, research fellow at the Distributed AI Research Institute",
       "excerpt": "Krystal Kauffman, profiled as part of TechCrunch's series on women in AI, is a research fellow at the Distributed AI Research Institute.",
@@ -1052,194 +1259,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-ai-tool-to-aid-organ-transplants-nominated-for-nhs-award.md",
-      "title": "AI tool to aid organ transplants nominated for NHS award",
-      "excerpt": "A method using artificial intelligence (AI) to assess potential transplant organs has been shortlisted for a national NHS award. Known as OrQA - Organ Quality Assessment - the technology scans images of organs to look at suitability for kidney and liver transplants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "originalUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2313/production/_132697980_optheatre.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "publishedDateTime": "2024-02-22T06:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-nvidia-to-wall-street-artificial-intelligence-is-just-getting-started.md",
-      "title": "Nvidia to Wall Street: Artificial intelligence is just getting started",
-      "excerpt": "The tensions rose. Investors seemed more than just worried that Nvidia, the maker of high-end chips used in artificial intelligence applications, would miss analysts' estimates for its fourth quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/nvidia-to-wall-street-artificial-intelligence-is-just-getting-started",
-      "originalUrl": "https://www.thestreet.com/investing/nvidia-to-wall-street-artificial-intelligence-is-just-getting-started",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T05:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
-      "excerpt": "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T05:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-antlers-founder-on-its-vertical-ai-bet-in-southeast-asia.md",
-      "title": "Antler’s founder on its vertical AI bet in Southeast Asia",
-      "excerpt": "A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance. Singapore-based venture capital A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/antler-ai/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/antler-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1318237749.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/antler-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/antler-ai/amp/",
-      "publishedDateTime": "2024-02-22T05:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

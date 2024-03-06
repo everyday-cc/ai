@@ -39,6 +39,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Navigating The Risks And Opportunities Of Generative AI In Insurance"
+    excerpt: "The rise and rise of generative AI poses new questions for those of us working in insurance. Every day, people like us are finding new ways to use the technology’s uncanny abilities to process huge quantities of complex text, audio and video, as well as to generate ideas and usable first drafts across those three formats."
+    publishedDateTime: 2024-03-05T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/navigating-the-risks-and-opportunities-of-generative-ai-in-insurance/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5dc201ac5262af8449269/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1489
+        height: 900
+        isCached: true
   - title: "Using Generative AI For Figuring Out Your Astrological Horoscope Raises Pesky Questions About Whether We Might Become Starstruck"
     excerpt: "Let's together take a close look at the use of generative AI for generating astrological horoscopes. Turns out that some worry this has mental health implications."
     publishedDateTime: 2024-03-04T12:00:00Z

@@ -23,21 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "Weekly Tech Recap: Google removes Indian apps from Play Store, Elon Musk files lawsuit against OpenAI and more"
-    excerpt: "Let's take a look at all the top tech related news of the week including Elon Musk filing a new lawsuit against OpenAI, Google removing many prominent Indian apps from the Play Store and Sundar Pichai addresses the issues related to Gemini AI chatbot."
-    publishedDateTime: 2024-03-03T08:00:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/weekly-tech-recap-google-removes-indian-apps-from-play-store-elon-musk-files-lawsuit-against-openai-and-more-11709448845394.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/weekly-tech-recap-google-removes-indian-apps-from-play-store-elon-musk-files-lawsuit-against-openai-and-more/amp-11709448845394.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/weekly-tech-recap-google-removes-indian-apps-from-play-store-elon-musk-files-lawsuit-against-openai-and-more/amp-11709448845394.html"
+  - title: "OpenAI ‘intend[s] to move to dismiss all’ claims of Elon Musk’s lawsuit"
+    excerpt: "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here. OpenAI just fired back at the lawsuit filed last week by former co-founder turned rival Elon Musk over claims the company abandoned its founding principles and identity as a non-profit."
+    publishedDateTime: 2024-03-06T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/03/03/1600x900/Info-Edge-said-the-removal-delisting-of-the-compan_1709452679688_1709452690748.jpg"
-        width: 1600
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_a_silhouette_of_a_white_male_tech_founder_standing_and__17b304cf-7dea-4359-844b-82d790380910.png?fit=750%2C420&#038;strip=all"
+        width: 749
+        height: 420
+        isCached: true
+  - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
+    excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
+    publishedDateTime: 2024-03-01T17:47:00Z
+    webUrl: "https://www.thedrum.com/news/2024/03/01/weekly-ai-recap-musk-sues-openai-google-sorta-apologizes-gemini-controversy"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 33
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/adobestock_588907775_editorial_use_only.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "kp3SsPiESDvqx+VmpQ6YhuvNjH73TGG6yai9znwN73toDGdbZQbwD0W3OvYCdAa+hDU2eEYkf6XyzPQIl7e0KT6r2urClspx2KSQK3old2cKSysVqgHOQmJZZYE8ZoEdbQ2ACV7TAocTUqncjJa1Aw6KaPv3x/RWBCcn9ZBl6MXOKEgUx17JaMPZGdKzx293ILxGF66hvd7LIJPhmr1zByPH0rkINDx09n1gaVFCga9u5tuqz/feSEqBOvM9p+Wbfp1xng6fYLA5I5FqQkIPG7nbf0s3stjFjUspJfLebVmHK/x9KOZSHwE/JuP5WQx94IbEPQjFiNSvNmV1ND4OnqYtSCRNDWyU6Lx6dEo/654=;Vre/FzDLmc/GRxa3FeKnAw=="

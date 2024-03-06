@@ -88,20 +88,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
-    excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
-    publishedDateTime: 2024-03-05T21:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-box-expands-its-collaboration-with-microsoft-with-new-/2024/03/05/9973398.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 61
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Box AI integrates with Microsoft’s Azure OpenAI Service as it becomes generally available"
     excerpt: "Cloud content management company Box Inc. is adding yet more artificial intelligence capabilities to its platform, integrating its Box AI offering Microsoft Corp.’s Azure OpenAI Service. Announced today, the integration will enable OpenAI’s most ..."
     publishedDateTime: 2024-03-05T21:05:00Z
@@ -160,20 +146,15 @@ related:
         width: 1251
         height: 834
         isCached: true
-  - title: "Microsoft Promo Codes for March 2024"
-    excerpt: "Does Microsoft offer free shipping ... You’ll only ever pay for the products or services you buy, with lower prices just as they’re described on the page. If you're looking for more ..."
-    publishedDateTime: 2024-03-01T03:04:00Z
-    webUrl: "https://www.pcgamer.com/coupons/microsoft.com/"
+  - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
+    excerpt: "Announces General Availability of Box AI for Enterprise Plus CustomersREDWOOD CITY, Calif.--(BUSINESS WIRE)--Box, Inc. (NYSE: BOX), the leading Content"
+    publishedDateTime: 2024-03-06T02:47:00Z
+    webUrl: "https://www.01net.it/box-expands-its-collaboration-with-microsoft-with-new-azure-openai-service-integration/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iL6D95t98F3a3oPkTLE4A-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: 01Net
+      domain: 01net.it
+    quality: 41
 
 secured: "Z0noplIm+K/jtijrLFpzhJAwOriCmCWQiV7J3UfgOJJ0nwGGIjtIDwSfKwbYsG9tR3GAt7QTfhl7xWD+KTe7OCQvu65pMK7BhMKqoahk5GngflAYgBw1uBH5U/3c/cbwKl9wWwFrg5mIlHyMiaitOD1ijGjAmbpvEpMXzJEd4alEp+1Lmbvc5urmoBayZqCpj+6rVmzXxKidUo/Fn7Nj7bZsO+1zUnFivVqSYJtNtRNKyV1Mz8MoZ6JKCLlXT1u8ToFQyLc56dKF9tbDzJCNEJahRIhTZNM8IQOucSTLjoy+nEI+JBs3H0ZceUCLbUnumhO+hBBgbpu20SuxCadPqt6Ox8+xcXz1e0RwGkO6dPs=;FBv+K860grTrJMQzwiELHg=="
 ---

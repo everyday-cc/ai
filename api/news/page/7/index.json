@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-29-ibms-ai-enhanced-storage-platform-can-identify-ransomware-in-under-a-minute.md",
+      "title": "IBM's AI-enhanced storage platform can identify ransomware in under a minute",
+      "excerpt": "Read our ethics statement. Forward-looking ... without impacting performance. The new AI-enhanced FlashCore Module 4 is even more advanced, continuously monitoring stats gathered from every single I/O to look for anomalies like ransomware starting to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
+      "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-28.jpg",
+          "width": 3747,
+          "height": 2087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts.md",
+      "title": "Tech in Healthcare to Alleviate Pain, Make Treatment Affordable: Experts",
+      "excerpt": "Hyderabad: In days to come, surgeries will go the minimally invasive way. There will be use of real-time data for added precision. Robotic surgeries will be mainstream. These are the views of",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "originalUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanchronicle.com/h-upload/2024/02/28/1077530-pav6976.jpg",
+          "width": 3680,
+          "height": 2456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
+      "publishedDateTime": "2024-02-28T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-4-smart-technologies-modernizing-sourcing-strategy.md",
+      "title": "4 smart technologies modernizing sourcing strategy",
+      "excerpt": "Organizations with strategic sourcing mindsets look beyond price and cost savings-centered supplier selection initiatives.\nThe post 4 smart technologies modernizing sourcing strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sourcing-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/sourcing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports.md",
       "title": "Meta plans launch of new AI language model Llama 3 in July, The Information reports",
       "excerpt": "Feb 28 (Reuters) - Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better ...",
@@ -925,6 +1062,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-28-long-covid-may-lead-to-measurable-cognitive-decline-study-finds.md",
+      "title": "Long Covid May Lead to Measurable Cognitive Decline, Study Finds",
+      "excerpt": "Long Covid may lead to measurable cognitive decline, especially in the ability to remember, reason and plan, a large new study suggests. Cognitive testing of nearly 113,000 people in England found ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/28/health/long-covid-cognitive-effects.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/28/health/long-covid-cognitive-effects.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/28/science/28LongCovid-Cognition/28LongCovid-Cognition-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-squaring-the-circle-the-high-performance-computing-energy-paradox.md",
       "title": "Squaring the circle: The high-performance computing energy paradox",
       "excerpt": "Today, the Nvidia H100 Tensor Core GPU enables AWS users to run their Amazon Elastic Compute Cloud (Amazon EC2) P5 instances to scale generative AI at the click of a button, and data center operators report unprecedented demand from clients for compute ...",
@@ -1016,212 +1205,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-samsungs-try-galaxy-app-now-lets-any-android-and-ios-user-experience-galaxy-ai.md",
-      "title": "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI",
-      "excerpt": "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg",
-          "width": 720,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather.md",
-      "title": "Wendy’s plans AI-powered menu to change food prices based on demand, weather",
-      "excerpt": "American fast food chain Wendy's is planning to test dynamic pricing and AI menu features in 2025, reports Nation's Restaurant News and Food & Wine. This means that prices for food items will automatically change throughout the day depending on demand,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/wendys_restaurant-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T21:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-openai-seeks-to-dismiss-parts-of-the-new-york-timess-lawsuit.md",
-      "title": "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit",
-      "excerpt": "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27openai-suit-blpk/27openai-suit-blpk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T20:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-infor-nexus-is-taking-an-interesting-approach-to-generative-ai.md",
-      "title": "Infor Nexus Is Taking An Interesting Approach To Generative AI",
-      "excerpt": "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 396,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
-      "publishedDateTime": "2024-02-27T20:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

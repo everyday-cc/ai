@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-05-the-future-of-generative-ai-6-predictions-everyone-should-know-about.md",
+      "title": "The Future Of Generative AI: 6 Predictions Everyone Should Know About",
+      "excerpt": "Generative AI is an utterly transformative technology that is already impacting how organizations and individuals work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e4a4f2ce50e2747a4c8503/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/amp/",
+      "publishedDateTime": "2024-03-05T04:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
+      "title": "AI trends in CRM: The future of customer relationships",
+      "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-108213040,imgsize-36082,width-1200,height=765,overlay-etbrandequity/digital/ai-trends-in-crm-the-future-of-customer-relationships.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "publishedDateTime": "2024-03-05T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-concern-as-the-gambling-industry-embraces-ai.md",
+      "title": "Concern as the gambling industry embraces AI",
+      "excerpt": "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-68304137",
+      "originalUrl": "https://www.bbc.co.uk/news/business-68304137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-68304137.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp",
+      "publishedDateTime": "2024-03-05T00:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-agility-robotics-new-ceo-is-focused-on-the-here-and-now.md",
       "title": "Agility Robotics’ new CEO is ‘focused on the here and now’",
       "excerpt": "Melonee Wise — who had most recently worked at Zebra after the logistics firm acquired her AMR startup ... can the robot do today to deliver value? Obviously, there’s a roadmap of features ahead that incorporate elements of AI, that incorporate ...",
@@ -41,49 +178,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-amd-reportedly-hits-us-regulatory-roadblock-for-china-tailored-chip.md",
-      "title": "AMD reportedly hits U.S. regulatory roadblock for China-tailored chip",
-      "excerpt": "American semiconductor company Advanced Micro Devices has failed in getting a made-for-China AI chip past U.S. regulators and will need to apply for an export license, Bloomberg reported Tuesday. The report said AMD designed the chip to have lower ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2024/03/107364683-17062129482023-03-06t201939z_284534961_rc2koz9d9g9a_rtrmadp_0_amd-results.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1",
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1135,109 +1229,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update.md",
-      "title": "Nikkei Stock Average Rises Above 40000 for First Time, Driven by AI Optimism -- 2nd Update",
-      "excerpt": "By Kosaku Narioka Japan's benchmark stock index rose above 40000 for the first time ever, driven by stronger corporate earnings and a surge in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "originalUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "publishedDateTime": "2024-03-04T05:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-india-reverses-ai-stance-requires-government-approval-for-model-launches.md",
-      "title": "India reverses AI stance, requires government approval for model launches",
-      "excerpt": "India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models. India's India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1096026706.jpg?resize=1200,843",
-          "width": 1200,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "publishedDateTime": "2024-03-04T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

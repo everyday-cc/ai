@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "The ‘No’ Voice result showed us we need to prioritise truth-telling in Australia"
+    excerpt: "The Indigenous Voice to Parliament could have been a chance to address ... The result symbolised a missed opportunity for recognition and understanding. We feel the “No” vote exposed a part of Australia that has a history of being ignorant to issues ..."
+    publishedDateTime: 2024-03-06T04:45:00Z
+    webUrl: "https://theconversation.com/the-no-voice-result-showed-us-we-need-to-prioritise-truth-telling-in-australia-218518"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 19
+    images:
+      - url: "https://images.theconversation.com/files/566175/original/file-20231218-17-ps9dx9.jpg?ixlib=rb-1.1.0&rect=0%2C1008%2C6016%2C3008&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "China asserts territorial sovereignty in response to PH President Marcos Jr.'s Speech in Australia"
     excerpt: "Find out the latest news in the Philippines, from China's reaction to President Marcos' speech in Australia to the recognition of Filipino Australia Awards Alumni Excellence. President Marcos addressed the Australian Parliament and engaged in meetings with ..."
     publishedDateTime: 2024-03-01T05:29:00Z

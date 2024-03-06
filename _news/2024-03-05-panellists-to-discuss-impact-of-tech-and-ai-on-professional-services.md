@@ -3,8 +3,8 @@ category: news
 title: "Panellists to discuss impact of tech and AI on professional services"
 excerpt: "A trio of high-powered panellists have joined Insider's debate looking at the transformational impact of tech and artificial intelligence (AI) on the professional services sector. No-Code & FinTech pioneer Jof Walters; Matthew Woolgar, the deals tax ..."
 publishedDateTime: 2024-03-05T00:00:00Z
-originalUrl: "https://www.insidermedia.com/news/member-exclusive/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
-webUrl: "https://www.insidermedia.com/news/member-exclusive/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
+originalUrl: "https://www.insidermedia.com/news/north-eastwales/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
+webUrl: "https://www.insidermedia.com/news/north-eastwales/panellists-to-discuss-impact-of-tech-and-ai-on-professional-services"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "eTLBfojNRXubuKUHVREXOaB60ROjnIxOiosnyG8ycGlcQxi9KYzPB+zit3Af+7VYLtnVhL1kupls+4WcaZ00JENZ3+CNODg4Q3MpPww0ASTvYT/RoCpZq2nnmx4pPoaBFMSzaIaTkEZVBZ54b15gRkf5pbeKLypNBbLDoIAHahxSYO4Fm9hnVPEij9mUffwdBLqmKM9kSsFn9lwqDd1L1iSSnIgD5o6LFt5iINpJOtfWYZW1DswFdUnGz8Vk9z7tjfIaSUKQIO3lSUxveI0gn5sDsFqCeaiPrj8ka1LgAck+paFnOJuz8cvjAhd2CMfByCCAyKZrkpNQI6cuDIELPSSMoG7xFmyqAKxnJmn6K+0=;fPBn+JVynoUsv8yyeQQNBw=="
+secured: "Jet12A4z4KQYXVf3xb/Y5SOERKA00xKcUoek+WDYgLDv2n/2H4lf7zew87uQ7kPkP4JmA4VtwFs/mK3/tca+/V8em29k4nLLYUssZ5XYzDcsOyBiQSp+VijDP/5qSsUL92M//rg4/tNEBehQU+ViM5RcOuQ5xQBGBSXNd/2YSurxjPGZon1wA7HnrsJk5TiOhzILrwcSsKiI/UGy3oxk0pasgZoGpkysrHjIvusSUvXZ0X54psDiypb5voSEj78NVkV962bWdf1hfX1rVY8SUOAObhFCT8x5tvnJRrMsTNeNxc56KAEl70bGdVrDaIysuDA3NW5Iz2+P9pTykqKgtvaA5rRy/Pv8YdOPh69a95M=;0gc2PGhjX248n3rCMKdZQQ=="
 ---
 

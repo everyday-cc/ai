@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-27-us-can-house-entire-supply-chain-for-advanced-chips-commerce-dept.md",
+      "title": "US can house 'entire' supply chain for advanced chips: Commerce Dept",
+      "excerpt": "US Commerce Secretary Gina Raimondo expressed confidence Monday that the country can house the entire silicon supply chain for making advanced chips, including tech that is key for artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
+      "originalUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/us-commerce-secretary.jpg",
+          "width": 1280,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
+      "publishedDateTime": "2024-02-26T20:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
       "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
       "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
@@ -1408,50 +1451,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-first-human-to-receive-neuralink-chip-can-control-mouse-with-mind-claims-musk.md",
-      "title": "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk",
-      "excerpt": "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
-      "originalUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T06:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

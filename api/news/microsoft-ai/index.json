@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -693,6 +693,58 @@
         "Google AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-long-covid-may-lead-to-measurable-cognitive-decline-study-finds.md",
+      "title": "Long Covid May Lead to Measurable Cognitive Decline, Study Finds",
+      "excerpt": "Long Covid may lead to measurable cognitive decline, especially in the ability to remember, reason and plan, a large new study suggests. Cognitive testing of nearly 113,000 people in England found ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/28/health/long-covid-cognitive-effects.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/28/health/long-covid-cognitive-effects.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/28/science/28LongCovid-Cognition/28LongCovid-Cognition-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1470,50 +1522,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-google-bard-now-called-gemini-vs-chatgpt-updated-february-2024.md",
-      "title": "Google Bard (now called Gemini) vs ChatGPT – Updated February 2024",
-      "excerpt": "[Updated Feb 21st, 2024: Google Bard had been renamed to Gemini. There are three different versions of Gemini, and one is called Gemini Pro. This is the version that replaced Bard. The core ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
-      "originalUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/05/Bard-and-OpenAI-Logo.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-24-national-cyber-security-centre-study-generative-ai-may-increase-global-ransomware-threat.md",
+      "title": "National Cyber Security Centre Study: Generative AI May Increase Global Ransomware Threat",
+      "excerpt": "Similarly to how attackers offer ransomware-as-a-service, they now offer generative AI-as-a-service as well, the report said. SEE: A recent malware botnet snags cloud credentials from AWS, Microsoft Azure and more (TechRepublic) “AI services lower ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/generative-ai-ransomware-threats-uk/",
+      "originalUrl": "https://www.techrepublic.com/article/generative-ai-ransomware-threats-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/cybersecurity-hero-adobe-stock-kras99-jan-24-v2.jpeg",
+          "width": 799,
+          "height": 747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-nvidia-teams-up-with-equinix-to-bring-generative-ai-training-to-data-centers.md",
       "title": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers",
       "excerpt": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ...",
@@ -1323,40 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-how-generative-ai-is-accelerating-automotive-transformation-microsoft-azures-impact-on-the-future-of-mobility.md",
-      "title": "How generative AI is accelerating automotive transformation: Microsoft Azure's impact on the future of mobility",
-      "excerpt": "The mobility landscape is evolving at an exciting pace. Automotive, transportation, and logistics companies worldwide have a renewed sense of urgency today to embrace transformation and drive innovation in the movement of people and goods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
-      "originalUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

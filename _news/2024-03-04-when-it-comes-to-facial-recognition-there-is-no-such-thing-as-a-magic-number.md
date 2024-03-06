@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Canada University To Remove Vending Machines Over Facial Recognition Tech"
-    excerpt: "A university in Canada is set to remove a series of smart vending machines from its campus following concerns over the use of facial recognition technology in secret. According to The Guardian, the controversy unfolded when a student captured a photo of ..."
-    publishedDateTime: 2024-03-01T04:05:00Z
-    webUrl: "https://www.ndtv.com/world-news/canada-university-to-remove-vending-machines-over-facial-recognition-tech-5154528"
-    ampWebUrl: "https://www.ndtv.com/world-news/canada-university-to-remove-vending-machines-over-facial-recognition-tech-5154528/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/canada-university-to-remove-vending-machines-over-facial-recognition-tech-5154528/amp/1"
+  - title: "Facial recognition tech helps unravel church thefts"
+    excerpt: "ST. LOUIS – Since the historic Mt. Olive Lutheran Church in the Shaw neighborhood caught fire last July, it has since been continuously vandalized by citizens. One neighbor, Daniel Romano, has ..."
+    publishedDateTime: 2024-03-02T00:00:00Z
+    webUrl: "https://fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/"
+    ampWebUrl: "https://fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/amp/"
+    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/amp/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
+      name: Fox2Now St. Louis
+      domain: fox2now.com
+    quality: 59
     images:
-      - url: "https://c.ndtvimg.com/2024-03/ie1611mo_vending-machine-generic_625x300_01_March_24.jpeg?ver-20240117.07"
-        width: 1200
-        height: 738
+      - url: "https://fox2now.com/wp-content/uploads/sites/14/2024/03/snapshot-2024-03-01T210826.504.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
     excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."

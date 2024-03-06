@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-11-illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy.md",
+      "title": "Illini Insider | Speech Accessibility Project now includes ALS and cerebral palsy",
+      "excerpt": "From left, UI professors Mark Hasegawa-Johnson, Laura Mattie, Marie Moore Channell are working on expanding a database being used to train speech-recognition software to include people whose speech is affected by various conditions, including Parkinson's disease and Down syndrome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-gazette.com/news/local/university-illinois/illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy/article_71188290-94f5-5b71-9dc1-37d19a45084f.html",
+      "originalUrl": "https://www.news-gazette.com/news/local/university-illinois/illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy/article_71188290-94f5-5b71-9dc1-37d19a45084f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/8/30/830c4c8a-4b78-5903-a83f-459f095083da/659f36c62f0f8.image.jpg?crop=1400%2C735%2C0%2C32&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News-Gazette",
+        "domain": "news-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-toyota-combines-voice-gesture-recognition-in-new-operating-system.md",
       "title": "Toyota combines voice, gesture recognition in new operating system",
       "excerpt": "Toyota will pair voice and gesture recognition with predictive artificial intelligence in its Arene operating system. The result will be the ability to point and ask a question and get an answer.",
@@ -1327,58 +1370,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-the-top-five-ai-use-cases-and-trends-for-2024-and-beyond.md",
-      "title": "The Top Five AI Use Cases And Trends For 2024 And Beyond",
-      "excerpt": "As we witness groundbreaking advancements, here are my predictions of the five key AI tech trends for 2024 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/19/the-top-five-ai-use-cases-and-trends-for-2024-and-beyond/amp/",
-      "publishedDateTime": "2023-12-19T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -51,20 +51,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
-  - title: "Elon Musk sues OpenAI over AI threat"
-    excerpt: "OpenAI is not so open now, Musk claims, following the closed source release of the company's artificial general intelligence technology under Microsoft."
-    publishedDateTime: 2024-03-01T04:22:00Z
-    webUrl: "https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 39
-    images:
-      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/03/chatgpt-output.jpg/w=3000"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Sam Altman-backed startup to bring AI smart pin to Japan, South Korea"
     excerpt: "BARCELONA, Spain -- AI device maker Humane is bringing its smart pin to Japan and South Korea as the U.S. startup backed by Microsoft and Sam Altman makes its first overseas push, its co-founders told Nikkei Asia. San Francisco-based Humane's AI Pin was ..."
     publishedDateTime: 2024-03-05T01:49:00Z

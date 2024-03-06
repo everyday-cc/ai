@@ -25,33 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Gemini opens our eyes to who we really are: Guinea pigs for gen AI"
-    excerpt: "Google's new chatbot is not too woke, but too rushed. Rather than waiting for regulation to catch up with constantly evolving technology, it is for tech firms to invest in AI safety and quality."
-    publishedDateTime: 2024-03-01T08:28:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai-11709207534655.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai/amp-11709207534655.html"
+  - title: "OpenAI ‘intend[s] to move to dismiss all’ claims of Elon Musk’s lawsuit"
+    excerpt: "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here. OpenAI just fired back at the lawsuit filed last week by former co-founder turned rival Elon Musk over claims the company abandoned its founding principles and identity as a non-profit."
+    publishedDateTime: 2024-03-06T02:59:00Z
+    webUrl: "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/Gemini-1-0--since-its-release-in-December--is-avai_1708940818688_1709239719726.jpeg"
-        width: 1600
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_a_silhouette_of_a_white_male_tech_founder_standing_and__17b304cf-7dea-4359-844b-82d790380910.png?fit=750%2C420&#038;strip=all"
+        width: 749
+        height: 420
         isCached: true
-  - title: "Google Genie: A Revolutionary AI Game Developer"
-    excerpt: "In the leading world of Artificial Intelligence (AI) where technology continues to push its boundaries Google's DeepMind has introduced 'Genie'. Genie is an innovative AI platform that is capable of generating interactive 2D video games by utilizing a ..."
-    publishedDateTime: 2024-03-01T06:39:00Z
-    webUrl: "https://www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
-    ampWebUrl: "https://www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/google-genie-a-revolutionary-ai-game-developer-4163950"
+  - title: "The legal premise of Elon Musk’s OpenAI lawsuit is weak. But the questions it raises are not"
+    excerpt: "OpenAI was founded as a nonprofit lab that pledged to keep superpowerful “artificial general intelligence”—defined as AI software that could perform most economically valuable cognitive tasks as well or better than a person—out of the hands of ..."
+    publishedDateTime: 2024-03-05T19:13:00Z
+    webUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
+      name: Fortune
+      domain: fortune.com
+    quality: 38
 
 secured: "edBtXcWqTAgu7BZgH4PSvI87PW4dK/p3fpv6bnJKi52lelO+WaoNYXw5nq3wKkpLP9W7gq1xH5uAbbb/NmR1Tt3c2INRPIqJscScc5GqwsafyQhDavEqpaS6hXNw0CB0HLoRewy59XXuvT91bPhnmZ01RUR/chNEHeyq5XLOcIHB3WZy4MQ3g5P1rPG8MQ/8oghuZauGAT8GsUumFMqb5xIe/i88LDWWvWq8tiLuGJh1I4prVJuwJLWf/U1KpP0OOXxnXQQpC/xoCd9/HaBq+5uME6JrQ4NmGQb1gky7iUqsfyK1wfgAWNca9AdRf+qeS/Rk67SCJICGbnLifeGEg9jRHVOt1j9/f4uiVKN/iiI=;kGALxYeADV1Pqugj9Wpqew=="
 ---

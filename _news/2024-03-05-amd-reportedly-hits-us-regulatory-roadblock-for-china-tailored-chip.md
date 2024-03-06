@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnewyork.com/news/national-international/amd-reportedl
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/amd-reportedly-hits-u-s-regulatory-roadblock-for-china-tailored-chip/5194549/?amp=1"
 type: article
 quality: 74
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC New York
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "US blocks AMD from selling AI chip tailored for China without licence: sources"
+    excerpt: "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally."
+    publishedDateTime: 2024-03-06T03:34:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 80
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/06/17dbafef-d2ea-4e14-9aad-c157ae6799bb_f578f2f2.jpg?itok=1P5ZJByg&v=1709694364"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AMD hits US roadblock in selling specific AI chips for China, Bloomberg reports"
     excerpt: "Advanced Micro Devices has hit a US government roadblock in its efforts to sell an artificial intelligence chip tailored for the Chinese market, as part of Washington’s crackdown on the export of advanced technologies to the country,"
     publishedDateTime: 2024-03-05T00:38:00Z
@@ -79,6 +93,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/AMD_CEO_Dr_Lisa_Su_AMD_Instinct_M.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AMD's cut-down AI GPU for China market blocked by US government"
+    excerpt: "AMD has been halted by the US Commerce Department, banning its AI processors from shipping to China, even though it was cut-down AI GPU."
+    publishedDateTime: 2024-03-05T05:32:00Z
+    webUrl: "https://www.tweaktown.com/news/96638/amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96638_204_amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government_full.jpg"
+        width: 1500
+        height: 857
         isCached: true
   - title: "AMD hits snag in China AI chip plans"
     excerpt: "Advanced Micro Devices Inc (AMD) hit a US government roadblock in attempting to sell an artificial intelligence (AI) chip tailored for the Chinese market, people familiar with the matter said, part of Washington’s crackdown on the export of advanced technologies to the country."

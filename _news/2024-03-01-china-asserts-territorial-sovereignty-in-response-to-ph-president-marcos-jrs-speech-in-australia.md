@@ -28,6 +28,20 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
+  - title: "The ‘No’ Voice result showed us we need to prioritise truth-telling in Australia"
+    excerpt: "The Indigenous Voice to Parliament could have been a chance to address ... The result symbolised a missed opportunity for recognition and understanding. We feel the “No” vote exposed a part of Australia that has a history of being ignorant to issues ..."
+    publishedDateTime: 2024-03-06T04:45:00Z
+    webUrl: "https://theconversation.com/the-no-voice-result-showed-us-we-need-to-prioritise-truth-telling-in-australia-218518"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 19
+    images:
+      - url: "https://images.theconversation.com/files/566175/original/file-20231218-17-ps9dx9.jpg?ixlib=rb-1.1.0&rect=0%2C1008%2C6016%2C3008&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "eojhQReKp3xtmQlCqBdHhcOddvW5e67zQ303Rtk6sCstLwNu5+1KCleMf+kvPYkKLsvfCRZd3tH1pBiLAL5ElGjhASnwgxpfQb5444WrhuJBmvTzYxApiSaA1YjiDwraCFsnjpzN2uR2tv0ckI9k7OeWFbZ5lP/tWCjiiMmH8SUhzKa92VpC30HkMaOlSnikDlcIG8dTosmD4CUcP/KuLOeRUBFcgfl0o2T0MRj2qDqizO34+NNvqATSXgUSkv0sHcNgimebfVRNuXbn/cwH/AvFCk/Gt6iuh5qOlOVxkMYHQLa9nCT1xZgIAbXiGACEp/OinXGtzejKneNJH+0Fde7CuR9F+Dq5krZuqsJ2Ks1mhsOEKY1dDh2pPfJmrih122EU+hUL029amNdDdWV9VWIUEDV4tWB+3T9YTAhKyuotJrTDFTz4pNuyqBCFrh3iwQ3zi6TIyj94JeITIRXJ26c9HGVCRQB8C5LPKUIS7FspgRO+q/utrhwUBeNgg+73mLCxR43eQ0OZolkjYX32QQ==;xK+LPA2W4iLiqmZeC7TRlg=="
 ---

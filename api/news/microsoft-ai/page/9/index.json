@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-05-microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature.md",
+      "title": "Microsoft and Liverpool Hospital use generative AI to break down large volumes of cardiology-related literature",
+      "excerpt": "Microsoft and Liverpool Hospital, one of the largest tertiary referral and teaching hospitals in Sydney, Australia, have partnered to develop a generative artificial intelligence solution to assist cardiologists working with large volumes of cardiology-related literature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
+      "originalUrl": "https://www.technologyrecord.com/article/microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4747/Liverpool-hospital-web.jpg",
+          "width": 975,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T14:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologyrecord.com",
+        "domain": "technologyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-ibms-10-year-blueprint-for-error-corrected-quantum-computing.md",
       "title": "IBM’s 10-Year Blueprint For Error-Corrected Quantum Computing",
       "excerpt": "IBM’s new quantum computing roadmap provides a detailed and credible plan to build an error-corrected quantum computer before the end of the decade.",
@@ -1343,58 +1386,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-microsoft-an-ai-powerhouse-to-reckon-with-in-the-future.md",
-      "title": "Microsoft- An AI Powerhouse To Reckon With In The Future",
-      "excerpt": "In doing so, Microsoft became an even greater force to reckon with Microsoft now could have less reason to lean on OpenAI for future AI breakthroughs and advanced",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655be7de4854a016a0b983ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/",
-      "publishedDateTime": "2023-11-21T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
