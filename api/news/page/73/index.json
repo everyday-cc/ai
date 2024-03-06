@@ -2,6 +2,558 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2024-01-10-waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona.md",
+      "title": "Waymo’s Driverless Cars Are Hitting the Highway Sans Safety Drivers in Arizona",
+      "excerpt": "“Cruise’s implosion has left Waymo as the undisputed leader in the driverless taxi market ... especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "originalUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-aws-announces-inaugural-education-accelerator-recipients.md",
+      "title": "AWS Announces Inaugural Education Accelerator Recipients",
+      "excerpt": "Fifteen new ed-tech companies were selected among thousands of applicants. They will receive grants, training and networking opportunities to fast-track their startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
+      "originalUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/d492891/2147483647/strip/true/crop/5120x2489+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F46%2F22%2F58ae34074806a39b762607ab65ab%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzk1MTczODc0L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2MzkwOTA5NDEsICJtIjogMX0sICJQT1o1bVMwL1IvcWxmNHhRQ2gvVE44VDB2VGsiXQ%3D%3D%2Fshutterstock_1795173874.jpg",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-executives-meet-your-new-intern-artificial-intelligence.md",
+      "title": "Executives, Meet Your New Intern: Artificial Intelligence",
+      "excerpt": "Organizational shifts prompted by AI are already happening. It’s only a matter of time before it leads to job cuts.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
+      "originalUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-companies-use-artificial-intelligence-to-cater-to-animal-lovers-at-ces-tech-show.md",
+      "title": "Companies use artificial intelligence to cater to animal lovers at CES tech show",
+      "excerpt": "From cat flaps and dog companion robots, companies are using artificial intelligence to cater to animal lovers at the CES tech show in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "originalUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dims.apnews.com/dims4/default/45fef77/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F04%2Fad634d426ee428ddbd2c4a7b3b3e%2Fus-nv-ces-pets-artificial-intelligence-20240109cr-1920x1080.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T22:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets.md",
+      "title": "CES 2024: Meet Samsung's Ballie, a rolling AI robot that helps control your home, entertain pets",
+      "excerpt": "Image Credit: Reuters Las Vegas: Samsung Electronics has unveiled an updated version of its AI home companion robot Ballie at the ... Ballie provides peace of mind through video updates of pets ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
+      "originalUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2024/01/09/Belle_18cef70ac4b_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T22:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees.md",
+      "title": "Houston Community College first in Texas to offer artificial intelligence, robotics degrees",
+      "excerpt": "Houston Community College became the first community college system in Texas to offer both associates and bachelor's degrees in the artificial intelligence and robotics field in late 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://communityimpact.com/houston/bay-area/education/2024/01/09/houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees/",
+      "originalUrl": "https://communityimpact.com/houston/bay-area/education/2024/01/09/houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://communityimpact.com/uploads/images/2024/01/09/290066.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Community Impact Newspaper",
+        "domain": "communityimpact.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-q1s-rising-stars-3-ai-stocks-for-your-must-watch-list.md",
+      "title": "Q1’s Rising Stars: 3 AI Stocks for Your Must-Watch List",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Even though it still sounds like science fiction, artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health.md",
+      "title": "Machine Learning Predicts Sight Loss: A Breakthrough in Eye Health",
+      "excerpt": "Researchers from Tokyo Medical and Dental University (TMDU) develop models based on machine learning that predict long-term visual acuity in patients with high myopia, one of the top three causes of irreversible blindness in many regions of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
+      "originalUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Vision-Eye-Examination-Art-Concept.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-ai-acquisitions-whos-leading-the-charge-and-why.md",
+      "title": "AI Acquisitions: Who’s Leading the Charge and Why?",
+      "excerpt": "\"Explore the dynamic world of AI acquisitions by major tech players. Dive into strategies, challenges, and impacts",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
+      "originalUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2024/01/f33fdc97-fe42-4ce9-9c21-bb8e9133d59b-900x628-1-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T18:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-discoveries-in-weeks-not-years-how-ai-and-high-performance-computing-are-speeding-up-scientific-discovery.md",
+      "title": "Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",
+      "excerpt": "A combination of advanced AI with next-generation cloud computing is turbocharging the pace of discovery to speeds unimaginable just a few years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+      "originalUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T17:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-microsoft-puts-azure-quantum-elements-to-work.md",
+      "title": "Microsoft puts Azure Quantum Elements to work",
+      "excerpt": "Azure Quantum Elements, which launched last summer, combines AI and traditional high-performance computing (HPC) techniques into what is essentially a workbench for scientific computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
+      "originalUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "publishedDateTime": "2024-01-09T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-ces-2024-siemens-delivers-innovations-in-immersive-engineering-and-artificial-intelligence-to-enable-the-industrial-metaverse.md",
+      "title": "CES 2024: Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse",
+      "excerpt": "Siemens unveiled innovations that are combining the real world and the digital worlds to redefine reality as it opened CES 2024, the world’s pioneering technology gathering.Siemens",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html",
+      "publishedDateTime": "2024-01-09T15:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business.md",
+      "title": "Kodiak Robotics reveals its best shot at making self-driving trucks a business",
+      "excerpt": "Those redundant systems are there as a backup in case anything were to fail while its self-driving truck barrels down a highway without a driver behind the wheel. “From a safety perspective, we do not believe that is responsible to put a driverless truck ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/",
+      "originalUrl": "https://techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Kodiak_Driverless-Truck_4.jpg?resize=1200,774",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/amp/",
+      "publishedDateTime": "2024-01-09T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-how-to-find-out-if-facial-recognition-is-being-used-where-you-shop.md",
       "title": "How to find out if facial recognition is being used where you shop",
       "excerpt": "AI is watching. It sounds like something from a sci-fi movie.But if you go shopping at some big chain stores, you may be under the watchful",
@@ -488,567 +1040,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-ais-growing-influence-in-e-commerce-the-future-of-online-retail.md",
-      "title": "AI's Growing Influence in E-Commerce: The Future of Online Retail",
-      "excerpt": "AI, ranging from ChatGPT to IIoT, significantly transforms e-commerce, enriches business strategies, and tailors customer experiences worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
-      "originalUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electropages.com/storage/app/media/2024/Jan/robot-holding-shopping-cart-with-cardboard-boxes-og.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T09:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electropages",
-        "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-top-10-google-bard-tips-to-improve-your-productivity-in-2024.md",
-      "title": "Top 10 Google Bard Tips to Improve Your Productivity in 2024",
-      "excerpt": "This guide is designed to show you how to use AI tools like Google Bard to improve your productivity in 2024. The arrival of 2024 brings with it fresh",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
-      "originalUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-productivity.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-cognitive-computing-market-surges-with-263-cagr-hits-us-1882-billion.md",
-      "title": "Cognitive Computing Market Surges with 26.3% CAGR, Hits US$ 188.2 Billion",
-      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling CAGR of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
-      "originalUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Cognitive-Computing-Market.jpg",
-          "width": 768,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-the-3-best-machine-learning-stocks-to-buy-in-january-2024.md",
-      "title": "The 3 Best Machine Learning Stocks to Buy in January 2024",
-      "excerpt": "Machine learning is transforming sectors including healthcare and transportation, offering lucrative opportunities in the best machine learning stocks. However, investors should approach cautiously, as not all stocks in this sector ensure returns.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-machine-learning-stocks-to-buy-in-january-2024-1032951910",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-machine-learning-stocks-to-buy-in-january-2024-1032951910",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T01:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-from-the-pool-to-the-lawn-aiper-revolutionizes-the-smart-yard-ecosystem-with-its-first-ever-robotic-lawn-mower.md",
-      "title": "From The Pool to the Lawn, Aiper Revolutionizes The Smart-Yard Ecosystem With Its First-Ever Robotic Lawn Mower",
-      "excerpt": "Available in Q1 2024, Aiper also announces its first-ever app for iOS and Android, giving the ability to remotely control the robot and more ... and ease-of-use in mind. Unlike other robot lawn mowers that require hours of complicated pre-setup involving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-from-pool-the-lawn-aiper-revolutionizes-smart-yard-/2024/01/09/9943337.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-from-pool-the-lawn-aiper-revolutionizes-smart-yard-/2024/01/09/9943337.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2311502/Horizon_U1_Lawn_Mower_Lifestyle.jpg",
-          "width": 400,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-learning-a-second-language-strengthens-neural-connections-in-the-language-network-study-shows.md",
-      "title": "Learning a second language strengthens neural connections in the language network, study shows",
-      "excerpt": "These images showed the strengthening of white matter connections within the language network, as well as the involvement of additional regions in the right hemisphere during second language learning.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/learning-a-second-lang.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-language-neural-network.amp",
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-leukemia-artificial-intelligence-provides-support-in-diagnostics.md",
-      "title": "Leukemia: Artificial intelligence provides support in diagnostics",
-      "excerpt": "IT specialists and physicians have now shown how a method based on artificial intelligence can be used to predict various ... who heads the Personalised Cancer Therapy and Digital Medicine working group at Münster University Hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240109121128.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240109121128.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-remote-controlled-robots-bring-metropolitan-healthcare-experience-to-outback-patients-with-heart-conditions.md",
-      "title": "Remote-controlled robots bring metropolitan healthcare experience to outback patients with heart conditions",
-      "excerpt": "The Queensland-designed remote-controlled robot, hailed as a world-first, is expected to help alleviate the tyranny of distance faced by patients living in remote, rural, and regional areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2024-01-10/robot-ultrasound-medical-technology-remote-scans-echocardiogram/103297658",
-      "originalUrl": "https://www.abc.net.au/news/2024-01-10/robot-ultrasound-medical-technology-remote-scans-echocardiogram/103297658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/69f4eb37c41fe4db45d41c56f8e71e0d?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575",
-          "width": 862,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/103297658",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/103297658",
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security.md",
-      "title": "Striking the Right Balance: Navigating Ethics and Trust in AI and Commercial Data for Homeland Security",
-      "excerpt": "In the realm of homeland security, the marriage of artificial intelligence (AI) and commercial data holds immense potential but comes with ethical considerations and trust implications that demand careful consideration. While these technologies promise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hstoday.us/featured/striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security/",
-      "originalUrl": "https://www.hstoday.us/featured/striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hstoday.us/wp-content/uploads/2019/02/technology-3389904_1920.jpg",
-          "width": 1920,
-          "height": 1078,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Homeland Security Today",
-        "domain": "hstoday.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-voice-recognition-project-recruiting-adults-with-cerebral-palsy.md",
-      "title": "Voice recognition project recruiting adults with cerebral palsy",
-      "excerpt": "The Speech Accessibility Project is now recruiting U.S. and Puerto Rican adults with cerebral palsy. The Speech Accessibility Project is now recruiting U.S. and Puerto Rican adults with cerebral palsy. Those interested can sign up online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1030773",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1030773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-deepcell-announces-collaboration-with-nvidia-to-accelerate-use-of-generative-artificial-intelligence-in-single-cell-research.md",
-      "title": "Deepcell Announces Collaboration with NVIDIA to Accelerate Use of Generative Artificial Intelligence in Single Cell Research",
-      "excerpt": "Deepcell, a pioneer in artificial intelligence (AI)-powered single cell analysis to fuel deep biological discoveries, today announced a research collaboration with NVIDIA to accelerate the development and adoption of advanced computer vision solutions in life sciences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240108313176/en/Deepcell-Announces-Collaboration-with-NVIDIA-to-Accelerate-Use-of-Generative-Artificial-Intelligence-in-Single-Cell-Research/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240108313176/en/Deepcell-Announces-Collaboration-with-NVIDIA-to-Accelerate-Use-of-Generative-Artificial-Intelligence-in-Single-Cell-Research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T23:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-solos-debuts-airgo-3-smart-glasses-that-can-translate-languages.md",
-      "title": "Solos debuts AirGo 3 Smart Glasses that can translate languages",
-      "excerpt": "Beyond language translation, the AirGo3 Smart Glasses boast a comprehensive array of features like SolosChat and SolosTranslate powered by ChatGPT. It leverages AI to facilitate natural voice communication through the Solos app, enabling users to perform tasks via voice commands.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
-      "originalUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/solos.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-this-smart-lock-can-recognize-your-face.md",
-      "title": "This smart lock can recognize your face",
-      "excerpt": "CES is where we get to see all those cool tech gadgets you see in movies become a reality, and with Lockly’s latest smart lock, facial recognition is finally coming to our front doors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2024/1/8/24025150/lockly-visage-facial-recognition-smart-lock-matter-home-key",
-      "originalUrl": "https://www.theverge.com/2024/1/8/24025150/lockly-visage-facial-recognition-smart-lock-matter-home-key",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/SzAn-PgeS_Tfx_crCA_k9qq3ZYY=/0x0:1044x1045/1200x628/filters:focal(522x523:523x524)/cdn.vox-cdn.com/uploads/chorus_asset/file/25203762/Lockly_Visage_Lifestyle.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

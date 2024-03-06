@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-futu
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/"
 type: article
 quality: 66
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -24,44 +24,44 @@ topics:
   - Machine Learning
 
 related:
-  - title: "The race for powerful computer chips and AI will change the face of global politics and security"
-    excerpt: "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security."
-    publishedDateTime: 2024-03-06T00:30:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/"
+  - title: "The Future Of AI Skill And Talent Development In The Workforce"
+    excerpt: "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?"
+    publishedDateTime: 2024-03-05T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2024/03/AdobeStock_189358603.jpg?resize=1200,630"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1271
+        height: 847
         isCached: true
-  - title: "AI Chip Race Reshaping Global Politics And Security"
-    excerpt: "(MENAFN- Asia Times) A global race to build powerful computer chips that are essential for the next generation of artificial intelligence (AI) tools could have a major impact on global politics and security. The US is currently leading the race in the ..."
-    publishedDateTime: 2024-03-05T08:47:00Z
-    webUrl: "https://menafn.com/1107937169/AI-Chip-Race-Reshaping-Global-Politics-And-Security"
+  - title: "Dell says on-prem is the future of AI"
+    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
+    publishedDateTime: 2024-03-01T21:24:00Z
+    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-  - title: "7 ways AI will both help and complicate cybersecurity in 2024"
-    excerpt: "Every new AI technology brings a fresh wave of interest and enthusiasm and new ways to apply it to bolster network defences, from machine learning (ML) to Natural Language Processing (NLP) and generative AI such as ChatGPT. Amongst all this enthusiasm ..."
-    publishedDateTime: 2024-03-06T00:44:00Z
-    webUrl: "https://itwire.com/business-it-news/security/7-ways-ai-will-both-help-and-complicate-cybersecurity-in-2024.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
+      name: CIO Dive
+      domain: ciodive.com
     quality: 39
     images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
-        width: 600
-        height: 260
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
         isCached: true
+  - title: "Interdisciplinary degree takes aim at artificial intelligence skills shortage in the workforce"
+    excerpt: "Applications are open for Purdue University’s new 100% online Master of Science in artificial intelligence degree, which features two majors, one for people who build AI systems and one for people who make use of them."
+    publishedDateTime: 2024-03-04T14:56:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2024/Q1/new-online-masters-in-ai-from-purdue-is-designed-for-people-who-build-ai-systems-and-for-people-who-use-them.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 22
 
-secured: "dDZv4DLNPAKFLXT5RNlymOxTp+sCgVlQDpJevNanhE4pKNqSi5jP2vtO+SYKo+LqCS4yC/x6XIdUQijIBOD8SYAsI2nQgw5v8Mnz+j8nnfCNSpwRCcs4paHhWQLvLW7qS0gtkyrcXC/J9ssW5MYr1Fa0lXvwUs5v1HoaIct2kPgmtTE7bUA/OIBaax2UStyWors6S8Rj1xPpDJm+YwQfWKvlVzV1nvywG65SvdagUc69K7WtewICoAhJpce249KF1bwmqCX8XpFn3jSZsK6VNhVhTS++IAV7Q6OJsDAS1Z+4iiKS60EC/hm6MQJcbFGZ+LhZohhGusEkEDmU/GAe+b4XULMb5ErSNM0bVg8iym8=;nmU0Gc7hxdmW2MxupFiBkQ=="
+secured: "TC7HYPM/ha6ZTODa0IZOoz5E77q+zPzetopa/ZjrL5hOExXO9u8a4ySFpH1DzKVGGZOw1v5OwKzo4tdtDaGqUuCx/WDhy442StRvJ3XYBqSKCNEFF9GHAL1rOE+K/V6vR0+iLDMFjudr7vdawl3Him9T60qkHfnrSqT/5mCZvhwyn4GUhyGZGOze/GggmLGqlpEPJQZ1EYeMVoWwSGb5ENW9T+D2Ke3VynFvGeFVMpwKnh+tCoPEMkNHMDeGFhGfIF3ebLGMF+T4r/4zC379CtsGdhysBq8rB6kFSIDj3mhE80pr5a6Fl6VxIggT2rN1OtoSS5y+/qEv7qFt79Jj+WeWSdPb1Jb1kC2i2waUGg/I+Egc4DXfGqdKReV3UezrUcuaR8exTaa4UdGNzUgKYq8MtiXbREIPKcaDfNVTyf+iEPio3QHHZu+J19u8IZNKsYN+B70BqXfBE4XXOuhOn1UnpICM4BztQvML6hLxIOOHP8afes07ArPv41EMTLqK9hSNeJcqS1lPsKtunZEp8Q==;uqs6FnTecFP/7b6qNI/OEw=="
 ---
 

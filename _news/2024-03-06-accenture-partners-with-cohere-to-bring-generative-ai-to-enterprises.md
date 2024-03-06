@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/accenture-partners-with-cohere-to-bring
 webUrl: "https://venturebeat.com/ai/accenture-partners-with-cohere-to-bring-generative-ai-to-enterprises/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,42 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "Four Strategies To Protect Against Generative AI-Powered Attackers"
-    excerpt: "Unfortunately, even if enterprises use edge security products (sometimes referred to as \"secure access service edge\" or SASE), enterprises are not safe. A compromised user identity can go undetected, or the compromised identity can be leveraged to trick the edge security products."
-    publishedDateTime: 2024-03-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/four-strategies-to-protect-against-generative-ai-powered-attackers/"
+  - title: "6 ways generative AI helps improve accessibility for all with Azure "
+    excerpt: "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft"
+    publishedDateTime: 2024-03-06T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR05_322044_Blog_Blogheader_240305_V02-social.png"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "How generative AI is changing Infosys from within"
+    excerpt: "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ..."
+    publishedDateTime: 2024-03-05T09:43:00Z
+    webUrl: "https://www.forbesindia.com/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2024/Mar/img_229855_mohammedrafeetarafdar.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
+    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
+    publishedDateTime: 2024-03-03T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Snowflake Partners with Mistral AI to Bring Language Models to Enterprises Through Snowflake Cortex"
-    excerpt: "Snowflake and Mistral AI today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake"
-    publishedDateTime: 2024-03-05T19:10:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snowflake-partners-with-mistral-ai-to-bring-language-models-to-enterprises-through-snowflake-cortex/"
+  - title: "What Comes Next For Banks With Generative AI"
+    excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
+    publishedDateTime: 2024-03-04T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/michaelabbott/2024/03/04/what-comes-next-for-banks-with-generative-ai/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 5
-  - title: "Snowflake Inc.: Snowflake Partners with Mistral AI to Bring Industry-Leading Language Models to Enterprises Through Snowflake Cortex"
-    excerpt: "Mistral AI's newest and most powerful model, Mistral Large, is available in the Snowflake Data Cloud for customers to securely harness generative AI with their enterprise data Snowflake Ventures partners with Mistral AI to expand generative AI capabilities ..."
-    publishedDateTime: 2024-03-05T14:25:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61591834-snowflake-inc-snowflake-partners-with-mistral-ai-to-bring-industry-leading-language-models-to-enterprises-through-snowflake-cortex-004.htm"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
+    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
+    publishedDateTime: 2024-03-04T03:30:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-  - title: "Snowflake Partners with Mistral AI to Bring Industry-Leading Language Models to Enterprises Through Snowflake Cortex"
-    excerpt: "Snowflake Ventures partners with Mistral AI to expand generative AI capabilities and empower more developers to seamlessly tap into the power of leading large language models Snowflake Cortex LLM Functions,"
-    publishedDateTime: 2024-03-05T14:21:00Z
-    webUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-partners-with-mistral-ai-to-bring-industry-leading-language-models-to-enterprises-through-snowflake-cortex"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 0
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
 
 secured: "ANJm6xD+FMDw0yf0h+vvWF9jF56Xz9jK/V62inai/0P6GC0Th7u0+UbNY0N19+yW414hY03+8Vy/eQ8B8Q2mwneHHCq8/k7GKfgUy12P1V8tV3DIw1hF9dWNfRpSUM0y1xQ/PpLFPUFCHUavslqXYdca3h0rFXp5uzRWTdAGMfNLVjKK2N+H0FXgGGxBQFx4cwv/CYm5BNdfsOpsUCYuHjQxnX+rwqGUkIMNBvEKLCERlfcYQjL5f/mggEasFQiVH/XlcuC9SalM+NucVVmqK9wJnmv54KPKNL70itcXEQAA4xKv0yMThqm0FA1/EIFTUdYwFf4/WiDYW1QIXOi6Tw345GGOT4xd0TeWcxXDAmRCcNC9EZZQSKU5i7QdCSvHnKjB+f+qkAYGfrUsOsEqbNHl8tRp7hzDNRCU7JdJqtM0kqnz0b1bqoc/XlnQhu4JzPa3Q6pQ8qdZB19oqGt7RSzFuc/T3XvWX6UlgHNPx1CSr56K/ssFsuiRs4+f5isNJrY6Jt/m8NqEvZMpWzSANw==;jWwMXRgRMthb9PICmLdMsQ=="
 ---

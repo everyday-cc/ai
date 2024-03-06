@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -199,6 +199,40 @@
         "Google AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-google-deepmind-unveils-ai-genie-to-instantly-conjure-playable-games.md",
+      "title": "Google DeepMind Unveils AI ‘Genie’ to Instantly Conjure Playable Games",
+      "excerpt": "Trained on over 200,000 hours of gameplay videos, the experimental model can turn any image or idea into a 2D platformer.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/219064/google-deepmind-ai-makes-playable-2d-sidescroller-platformer-games",
+      "originalUrl": "https://decrypt.co/219064/google-deepmind-ai-makes-playable-2d-sidescroller-platformer-games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T22:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1469,40 +1503,6 @@
       "provider": {
         "name": "GIZBOT",
         "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-google-ai-bard-renamed-to-gemini-introducing-subscription-and-app.md",
-      "title": "Google AI ‘Bard’ Renamed to ‘Gemini’, Introducing Subscription and App",
-      "excerpt": "Google Bard is now Google Gemini. This transition comes with a new mobile app and Gemini Advanced subscription with access",
-      "sourceUrl": null,
-      "webUrl": "https://techacute.com/google-ai-bard-renamed-to-gemini-introducing-subscription-and-app/",
-      "originalUrl": "https://techacute.com/google-ai-bard-renamed-to-gemini-introducing-subscription-and-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T15:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techacute.com",
-        "domain": "techacute.com",
         "images": null,
         "publishers": null,
         "authors": null

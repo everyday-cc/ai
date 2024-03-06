@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/03/01/ai-chip-startup-groq-acquires-
 webUrl: "https://siliconangle.com/2024/03/01/ai-chip-startup-groq-acquires-definitive-intelligence-scale-cloud-platform/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Groq forms new business unit, acquires Definitive Intelligence"
-    excerpt: "Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise — and public sector. Today, Groq announced that it’s forming a ..."
-    publishedDateTime: 2024-03-01T17:32:00Z
-    webUrl: "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 100
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341418748.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI chip business Groq acquires Definitive Intelligence to bolster GroqCloud unit"
     excerpt: "AI chip startup Groq has acquired Definitive Intelligence for an undisclosed sum. The acquisition will support the company’s newly formed GroqCloud unit, which will be led by Definitive Intelligence co-founder and CEO Sunny Madra. GroqCloud is a cloud ..."
     publishedDateTime: 2024-03-04T00:00:00Z

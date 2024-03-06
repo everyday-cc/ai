@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Groq forms new business unit, acquires Definitive Intelligence"
-    excerpt: "Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise — and public sector. Today, Groq announced that it’s forming a ..."
-    publishedDateTime: 2024-03-01T17:32:00Z
-    webUrl: "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 100
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341418748.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI chip startup Groq acquires Definitive Intelligence to scale its cloud platform"
     excerpt: "The companies announced the transaction today. The deal will help Groq enhance the capabilities of its newest offering, a cloud platform called GroqCloud that provides on-demand access to its AI chips. Groq was founded in 2016 by Chief Executive Officer ..."
     publishedDateTime: 2024-03-01T21:44:00Z

@@ -155,6 +155,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
+    excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
+    publishedDateTime: 2024-03-06T16:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-china-focused-ai-chip-blocked-from-sale-by-us-commerce-department/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
 
 secured: "vztdIpIX3dNnDdJ8ll6u4cgjWB7VhOf/dm1WXZyWr7RxLjiwdtCqcosKCMlg43ZZ7Ji41DgFBaQ3yuojprioxhVrwJuVvPJEkHNogCNaIWmon25is0cy9llhHQg4jjym4LVYSVft89ugum5TmHSSexfL+hLcHAWX9BFyVRxvYaEhIZlUWgL4Bem9iizoNsSJ7XNWIcNj3dK/wS6InPmGdZSxW0QV/UWDyjFlJWy6koImDUlXDXN1icqioVut8zPoepcG32juI6qMssT20Slu+TPlYj7fbvjtFJOTifwbkrsHnDW7maxS7TvxAXD8bUU9Cd5vUxRWLx4lS+nWAvv9favuV4PZTAj+kjMxjP2KH96Zl3/2KIfaeiBlUaIhBcRMMGFl+8hCWIa2b47R5K4f93yLsVLlbufvh7raH3hm4Ur23B3vtzJzzjrSROIXKusWhPV0VCGDSFGksR7pUCBvfuWv9yJo2o3O57L0ztCs2+O9fPY1zkYpW77yGnBqC7aPAuHDVj0ucgFUc6K7zxsZEg==;ypuKCfEBbmnxgj78rNYVMA=="
 ---

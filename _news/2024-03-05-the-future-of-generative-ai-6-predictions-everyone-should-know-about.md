@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "How Should Government Guide the Use of Generative AI?"
-    excerpt: "As governments grapple with how to roll out generative AI — or whether they even should — policies in Seattle, New Jersey and California aim to to be broad, easy to understand and relevant in the face of change."
-    publishedDateTime: 2024-03-01T17:52:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-should-government-guide-the-use-of-generative-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/afe4518/2147483647/strip/true/crop/840x408+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2Ffd%2F29f76a70498c85452948c62c3322%2Fweb-art-ai-policy-1.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "fR1gaXezRv/TRgxWwSW+mm3OU5m0SzHnAv/UPStcz+SzOfBcEiyuA55EZ2hIfCoT/CevPQ0fd83SG7d2wgEqjzKRbcmtYwhBaPSJn5bgl4aytgBif6T6gSRWimJMaxH0YXL1Q9EpSThgQjrFQ+yjKfk5/VYkb1ylIzgNtcBwMSlgKN/RiUtZCcd/NQ8pRgIORv/c/gExBJl05VSA7yll9PzvfHdlP0F8Y3nxfk9CAj5/tX65RG726ZI+a7zZBpCvp3WfOedVQ8lG7JSOpSpqkOA8ClgPegTsHBAJcdk8oroY5vXgY2BAOyNg0PnjGFl56R4V2dgViQSIs7w2b9ACD9NY+WM/dSAVrhkP27lGgnwkzcFjM+3UvIZkxinIhJfxlSmOS4s/g3tTLU36XAShxADz8SmGcdlSNE0pDppzHWdjgUcbWnGyqEHuA8WTyPva5D7SZ7Om0bm/Xm6BXfPV7jhL5JW83dmcX1yD4dDAkLw0Fdc+RCn2sAoxOHsO1wDrjFwQSW6NnKFi3cWBU+XWLA==;O4t2JGgrAHuwn6jRB3gP3g=="
 ---

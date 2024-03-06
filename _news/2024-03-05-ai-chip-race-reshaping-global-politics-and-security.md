@@ -20,15 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "The Future Of AI And ML In Cybersecurity"
-    excerpt: "The buzz around ChatGPT’s rise is actually about the potential that the architecture of Open AI promises. This is the combination of two tried and true machine learning approaches: large language models ... is to train by translation."
-    publishedDateTime: 2024-03-05T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
   - title: "The race for powerful computer chips and AI will change the face of global politics and security"
     excerpt: "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security."
     publishedDateTime: 2024-03-06T00:30:00Z
@@ -43,20 +34,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "7 ways AI will both help and complicate cybersecurity in 2024"
-    excerpt: "Every new AI technology brings a fresh wave of interest and enthusiasm and new ways to apply it to bolster network defences, from machine learning (ML) to Natural Language Processing (NLP) and generative AI such as ChatGPT. Amongst all this enthusiasm ..."
-    publishedDateTime: 2024-03-06T00:44:00Z
-    webUrl: "https://itwire.com/business-it-news/security/7-ways-ai-will-both-help-and-complicate-cybersecurity-in-2024.html"
+  - title: "Demand for computer chips fuelled by AI could reshape global politics and security"
+    excerpt: "Of course, the demand for chips to fuel AI’s growth is not the only way that artificial intelligence will make major impact on geopolitics and global security. The growth of disinformation and misinformation online has transformed politics in recent years by inflating prejudices on both sides of debates."
+    publishedDateTime: 2024-03-04T13:42:00Z
+    webUrl: "https://theconversation.com/demand-for-computer-chips-fuelled-by-ai-could-reshape-global-politics-and-security-224438"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
-        width: 600
-        height: 260
-        isCached: true
+      name: The Conversation
+      domain: theconversation.com
+    quality: 45
 
 secured: "0UxwHIqNYzuYxHlAXgiwV4bQxgVYoSaUyGEQA/zjGtAwbZf5EY7SzpE/KV0n3gGZ/KKnR56/jzP01RQSCYg4bzq+Eyc8HL14FZd337W1XjUlYjzDcp9ueUS03uhooAUUAmpUGxQC5ZjVt2Ty7erLUbaXCab9xfY/z8p3+PZYEpTlOSXaiiWUKyBQmmO6GIKKkekQcXuxDk2mGdjJiZLRhF0gblz+z/RbipaJJvLbOXp3rkQeSDSV5nHp7juDUvkK1zdqqVYB+C16T0IsG6s7EDfJh29oLmmg5YM4sRdRJvusOBllkioESA+KqimzqA4v2NOTaydPldhUveseT+cq1Q197H+kBi3u2iQGqYEtBVysgvG8Enjw/2AEfTO2Rb/Ytab5LryFgcIOTB9R1c1YLCc7ppRIeJroE8obBFTpIb5ejD9MiI595QwHy5qE6pTYy3MDEzEZfSS04RR9oFdtT+KYk6AKXgE8SP7mNwk+OtRQocNgSmL88GghO88LyWKSkTHop5Ura3jj17LDrHsWow==;G1OB3l5kypOlcJzDEvP0Uw=="
 ---

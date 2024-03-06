@@ -2,6 +2,651 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2024-01-31-how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all.md",
+      "title": "How Schneider Electric Is Deploying AI To Improve Energy Efficiency For All",
+      "excerpt": "Like so many companies across industries today, Schneider Electric is mobilizing to leverage AI to improve productivity and efficiency. A recent survey found that 64.2% of companies believe that Generative AI has the potential to be the most transforming technology in a generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b96d877014f9ce8b7c5fe2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
+      "publishedDateTime": "2024-01-30T21:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-amd-4q-profit-rises-amid-artificial-intelligence-chip-demand.md",
+      "title": "AMD 4Q Profit Rises Amid Artificial Intelligence Chip Demand",
+      "excerpt": "Advanced Micro Devices saw profit beat expectations in the fourth quarter as artificial intelligence demand continued to boost sales. The Santa Clara, Calif.-based, chipmaker posted a profit of $667 million, or 41 cents a share, in the quarter-ended Dec ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "originalUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "publishedDateTime": "2024-01-30T21:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-fintech-ramp-acquires-another-ai-powered-startup.md",
+      "title": "Fintech Ramp acquires another AI-powered startup",
+      "excerpt": "Spend management startup Ramp has acquired AI-powered startup Venue as it expands its procurement offering. Venue was founded in 2022 by TK Kong, Young Kim, and Kevin Chan, and its aim was to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/",
+      "originalUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/hands-signing-check.png?resize=1200,638",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/amp/",
+      "publishedDateTime": "2024-01-30T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-alphabet-shares-slide-on-disappointing-google-ad-revenue.md",
+      "title": "Alphabet shares slide on disappointing Google ad revenue",
+      "excerpt": "Alphabet said that, due to the workforce reductions last year, the company recorded severance and related charges of $2.1 billion for 2023. Additionally, Google exited some of its offices, resulting in charges of $1.2 billion for the quarter and $1.8 billion for the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107325514-1698681177311-AP23303506550300.jpg?v=1698681233",
+          "width": 6000,
+          "height": 4001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "publishedDateTime": "2024-01-30T20:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-8-steps-to-build-a-successful-multicloud-strategy.md",
+      "title": "8 steps to build a successful multicloud strategy",
+      "excerpt": "To overcome various challenges associated with multicloud, organizations need to map out a comprehensive multicloud management strategy to achieve success.\nThe post 8 steps to build a successful multicloud strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/multicloud-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/multicloud-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T19:47:21Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-meta-used-copyright-to-protect-its-ai-model-but-argues-against-the-law-for-everyone-else.md",
+      "title": "Meta used copyright to protect its AI model, but argues against the law for everyone else",
+      "excerpt": "Meta thinks effectively that everything available on the internet falls under \"fair use,\" because AI models like Llama do not exploit or reproduce copyrighted works. (Although they, in fact, very often, do). However, a few months before pushing this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
+      "originalUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65b8546743bb77284ba18d1a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
+      "publishedDateTime": "2024-01-30T18:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age.md",
+      "title": "AI Empathy: Emotional AI Is Redefining Interactions In The Digital Age",
+      "excerpt": "These advanced tools are not just software interfaces; they are bridges to understanding human emotions and behaviours in a manner that was once the realm of science",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
+      "originalUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b93dd0bcecf3a77f4d00ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
+      "publishedDateTime": "2024-01-30T18:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-microsoft-earnings-what-to-expect-from-azure-office-and-ai.md",
+      "title": "Microsoft earnings: What to expect from Azure, Office and AI",
+      "excerpt": "AI is an engine for Microsoft’s MSFT, -0.28% Azure cloud-computing business, and analysts expect that business to have grown at a 27% rate on a constant-currency basis during the latest quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
+      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 609,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-872097/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
+      "publishedDateTime": "2024-01-30T17:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-elevate-azure-expertise-with-new-ai-and-optimization-video-episodes.md",
+      "title": "Elevate Azure expertise with new AI and optimization video episodes",
+      "excerpt": "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-three-questions-every-enterprise-ai-startup-should-ask.md",
+      "title": "Three Questions Every Enterprise AI Startup Should Ask",
+      "excerpt": "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/",
+      "originalUrl": "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1576,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/",
+      "publishedDateTime": "2024-01-30T16:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-achieve-data-center-excellence-with-ibm-and-vmware.md",
+      "title": "Achieve data center excellence with IBM and VMware",
+      "excerpt": "A successful data center implementation can best be described as a distributed, dynamic, efficient and resilient IT nucleus.\nThe post Achieve data center excellence with IBM and VMware appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/achieve-data-center-excellence-with-ibm-and-vmware/",
+      "originalUrl": "https://www.ibm.com/blog/achieve-data-center-excellence-with-ibm-and-vmware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-average-219-roi-the-total-economic-impact-of-ibm-instana-observability.md",
+      "title": "Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability",
+      "excerpt": "Forrester constructed a single composite organization that aggregated the representatives’ experiences with using the Instana platform.\nThe post Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/",
+      "originalUrl": "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-apples-vision-pros-path-to-success.md",
+      "title": "Apple's Vision Pro's Path To Success",
+      "excerpt": "The success of Apple's hardware is directly related to the role of software. The combination of innovative hardware with creative software will drive Apple's Vision Pro to succeed in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b8081c3e8172e6bfb9d845/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
+      "publishedDateTime": "2024-01-30T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-artificial-intelligence-is-it-a-tool-a-threat-or-an-artform.md",
       "title": "Artificial Intelligence: Is it a tool, a threat or an artform?",
       "excerpt": "MINNEAPOLIS — Artificial Intelligence is coming at us fast and furious. It's on our phones, it's in our classrooms, and it's changing businesses and lives. There is little that isn't or won't be ...",
@@ -579,624 +1224,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-illuminating-traditions-ai-lights-up-chinese-new-year-celebrations.md",
-      "title": "Illuminating Traditions: AI Lights Up Chinese New Year Celebrations",
-      "excerpt": "As AI entwines itself with these age-old Chinese New Year celebrations, it brings a fresh perspective and an energizing spirit to the festivities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b77f96461666cd1334ed1e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/amp/",
-      "publishedDateTime": "2024-01-30T06:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model.md",
-      "title": "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model",
-      "excerpt": "With Code Llama 70B, enterprises have a choice to host a capable code generation model in their private environment. This gives them control and confidence in protecting their intellectual property.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b88090390e91395111f5d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/",
-      "publishedDateTime": "2024-01-30T04:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea.md",
-      "title": "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea",
-      "excerpt": "Agreement includes KQC offering IBM software and new AI infrastructure capabilities as well as IBM's next-generation quantum computing architecture",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea-6eb22e9e",
-      "originalUrl": "https://www.barrons.com/articles/korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea-6eb22e9e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.md",
-      "title": "Can AI and robotics whip you into shape? Avon fitness studio thinks so",
-      "excerpt": "AVON, Ohio -- Amy and Paul VanderEyk have opened a new high-tech fitness studio -- where your personal trainer will rely on artificial intelligence and robotics. The married duo, from Columbia Station, have opened their first The Exercise Coach franchise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html",
-      "originalUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4QEA5WTPN5C6FG6IJMWCJTOQJY.jpg",
-          "width": 480,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html?outputType=amp",
-      "publishedDateTime": "2024-01-30T01:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-heart-failure-monitoring-startup-acorai-turns-heads-with-oversubscribed-seed.md",
-      "title": "Heart failure monitoring startup, Acorai, turns heads with oversubscribed seed",
-      "excerpt": "Swedish medical device startup Acorai is pairing proprietary sensing hardware ... “We are able to estimate these pressures directly, as opposed to, you know, an AI index of risk or something like that — and I think that’s a very important competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/30/acorai-seed/",
-      "originalUrl": "https://techcrunch.com/2024/01/30/acorai-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1424868032.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/30/acorai-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/acorai-seed/amp/",
-      "publishedDateTime": "2024-01-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-sweat-resistant-wearable-robot-sensor.md",
-      "title": "Sweat-resistant wearable robot sensor",
-      "excerpt": "New electromyography (EMG) sensor technology that allows the long-term stable control of wearable robots and is not affected by the wearer's sweat and dead skin has gained attention recently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240130133635.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240130133635.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-utilizing-active-microparticles-for-artificial-intelligence.md",
-      "title": "Utilizing Active Microparticles for Artificial Intelligence",
-      "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists at Leipzig University have now created a type of neural network that works not with electricity but with so-called active ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/genomics/news/utilizing-active-microparticles-for-artificial-intelligence-383249",
-      "originalUrl": "https://www.technologynetworks.com/genomics/news/utilizing-active-microparticles-for-artificial-intelligence-383249",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/383249/utilizing-active-microparticles-for-artificial-intelligence-383249-640x360.jpg?cb=20240130",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-rebellions-lands-124m-to-develop-its-new-ai-rebel-chip-with-samsung.md",
-      "title": "Rebellions lands $124M to develop its new AI Rebel chip with Samsung",
-      "excerpt": "Rebellions, a South Korean fabless AI chip startup, said today it has closed $124 million (165 billion KRW) in a Series B round of funding to develop its South Korean AI chip maker Rebellions has rais",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/",
-      "originalUrl": "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/",
-      "publishedDateTime": "2024-01-29T23:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse.md",
-      "title": "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse",
-      "excerpt": "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai_kid-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T23:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-summer-internship-in-speech-recognition-research-group.md",
-      "title": "Summer Internship in Speech Recognition Research Group",
-      "excerpt": "The Department of lnformation and Communications Engineering is offering a summer job in the research group: We are now looking for 1-2 Aalto University MSc or BSc students in Finland as summer interns in the Automatic Speech Recognition research group at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/unijobs/minisites/aalto-university/listing/363354/summer-internship-in-speech-recognition-research-group/",
-      "originalUrl": "https://www.timeshighereducation.com/unijobs/minisites/aalto-university/listing/363354/summer-internship-in-speech-recognition-research-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/unijobs/getasset/eb84715f-64e6-499f-ad80-cbd1dd74a37a/;w=600;h=315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-the-5-best-smart-telescopes-for-android-and-ios-in-2024.md",
-      "title": "The 5 best smart telescopes for Android and iOS in 2024",
-      "excerpt": "These are the best smart telescopes for stargazing in your backyard, while camping, or wherever you want to be. Just sync your phone and go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/",
-      "originalUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/Vaonis-Vespera-smart-telescope-used-on-patio.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/space/best-smart-telescopes/?amp",
-      "publishedDateTime": "2024-01-29T21:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-how-to-use-artificial-intelligence-today-advanced-data-analysis.md",
-      "title": "How To Use Artificial Intelligence Today: Advanced Data Analysis",
-      "excerpt": "Opinions expressed by Forbes Contributors are their own. I am an entrepreneur using AI to make public info easy to understand. As part of an ongoing series, I am trying to take theory into action and help anyone reading this column apply AI to their day-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/",
-      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b001f8cbd0cf959ca5c257/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1366,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/amp/",
-      "publishedDateTime": "2024-01-29T20:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-openai-is-working-on-ai-education-and-safety-initiative-with-common-sense-media.md",
-      "title": "OpenAI is working on AI education and safety initiative with Common Sense media",
-      "excerpt": "OpenAI is partnering with Common Sense Media nonprofit on an initiative to create AI guidelines and education materials for teens and families.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107361037-17055870662024-01-18t102403z_838136397_rc2ak5a86bbx_rtrmadp_0_davos-meeting.jpeg?v=1705594949",
-          "width": 3500,
-          "height": 2279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html",
-      "publishedDateTime": "2024-01-29T19:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

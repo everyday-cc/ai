@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-28-indias-adani-group-takes-bold-leap-into-ai-with-uaes-ihc-partnership.md",
+      "title": "India’s Adani Group Takes Bold Leap Into AI With UAE’s IHC Partnership",
+      "excerpt": "Adani Group collaborates with UAE's IHC, forming Sirius Digitech to lead AI, IoT, and blockchain innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
+      "originalUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://coingape.com/wp-content/uploads/2023/12/AI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
+      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
+      "publishedDateTime": "2023-12-28T10:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coingape",
+        "domain": "coingape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-asia-pacific-fintech-2024-a-balanced-vision.md",
       "title": "Asia Pacific Fintech 2024: A Balanced Vision",
       "excerpt": "As we look ahead to 2024, it's essential to explore the trends, challenges, and opportunities that are shaping the future of Asian FinTech.",
@@ -1329,58 +1372,6 @@
         "name": "University of Delaware",
         "domain": "udel.edu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-three-fintech-shifts-to-prepare-for-in-2024.md",
-      "title": "Three Fintech Shifts To Prepare For In 2024",
-      "excerpt": "As an industry, we are now better positioned to capitalize on emerging trends, harness new technologies and forge stronger connections within the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e11fa3309e803d18166590/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1033,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/04/three-fintech-shifts-to-prepare-for-in-2024/amp/",
-      "publishedDateTime": "2023-12-04T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

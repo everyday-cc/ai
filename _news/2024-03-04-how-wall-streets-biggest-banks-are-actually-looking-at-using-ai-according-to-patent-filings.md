@@ -54,6 +54,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "Writing still matters in the age of artificial intelligence"
+    excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
+    publishedDateTime: 2024-03-06T00:25:00Z
+    webUrl: "https://www.michigandaily.com/opinion/writing-still-matters-in-the-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 39
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/Writing-still-matters-in-the-age-of-AI.png"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
     excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
     publishedDateTime: 2024-03-05T19:29:00Z

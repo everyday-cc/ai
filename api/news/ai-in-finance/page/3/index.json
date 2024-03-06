@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-28-why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career.md",
+      "title": "Why Attending a Financial Technology Bootcamp Can Skyrocket Your Career",
+      "excerpt": "A financial technology bootcamp provides participants with cutting-edge training on important concepts such as blockchain technology, data analytics, artificial intelligence (AI), machine learning (ML ... lines between banking services and technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career/",
+      "originalUrl": "https://techbullion.com/why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2024/01/financial-technology-bootcamp.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T21:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-a-tidal-wave-of-financial-empowerment-is-coming.md",
       "title": "A Tidal Wave Of Financial Empowerment Is Coming",
       "excerpt": "The recent wave of consumer advocacy tools is an enormous improvement, but it’s about to be weaponized by generative AI in ways that will transform the market.",
@@ -1296,49 +1339,6 @@
       "provider": {
         "name": "International Banker",
         "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-indias-adani-group-takes-bold-leap-into-ai-with-uaes-ihc-partnership.md",
-      "title": "India’s Adani Group Takes Bold Leap Into AI With UAE’s IHC Partnership",
-      "excerpt": "Adani Group collaborates with UAE's IHC, forming Sirius Digitech to lead AI, IoT, and blockchain innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
-      "originalUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://coingape.com/wp-content/uploads/2023/12/AI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
-      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
-      "publishedDateTime": "2023-12-28T10:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coingape",
-        "domain": "coingape.com",
         "images": null,
         "publishers": null,
         "authors": null

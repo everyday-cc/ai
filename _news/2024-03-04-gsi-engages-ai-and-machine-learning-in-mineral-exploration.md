@@ -105,15 +105,6 @@ related:
         width: 1200
         height: 657
         isCached: true
-  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
-    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
-    publishedDateTime: 2024-03-03T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Learning AI as a career skill"
     excerpt: "Tu’s experience shows that generative AI should be a skill more people — especially younger generations — need to develop. It has already become a truism in many tech and corporate circles that while AI may not yet replace (white collar) workers, workers with AI skills will replace those without."
     publishedDateTime: 2024-03-05T16:00:00Z

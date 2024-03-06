@@ -39,47 +39,6 @@ related:
         width: 749
         height: 420
         isCached: true
-  - title: "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links"
-    excerpt: "Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015. The lawsuit - which has also been filed against OpenAI boss Sam Altman - says the firm has departed from its original non-profit, open source mission."
-    publishedDateTime: 2024-03-01T14:27:00Z
-    webUrl: "https://www.bbc.com/news/technology-68445981"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 79
-  - title: "Microsoft unveils new AI tools for Windows 11"
-    excerpt: "The deeper integration of Copilot and other AI capabilities into Windows is a key part of Microsoft ... \"As businesses become more [familiar] with what it does, [Microsoft will] start bringing more to the table.” Matthew Finnegan covers Microsoft ..."
-    publishedDateTime: 2024-03-01T16:34:00Z
-    webUrl: "https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713360/microsoft-unveils-new-ai-tools-for-windows-11.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2024/03/win24_c2refresh_copilot_hero_3x2-1024x683-copy-100961603-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple's Launching A Futuristic Siri And Apple-Based Artificial Intelligence As It Looks To Take On Microsoft's AI Dominance"
-    excerpt: "In a bold move toward integrating artificial intelligence (AI) into its ecosystem, Apple is setting the stage to unveil a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June."
-    publishedDateTime: 2024-03-01T15:04:00Z
-    webUrl: "https://www.benzinga.com/startups/24/03/37424586/apples-launching-a-futuristic-siri-and-apple-based-artificial-intelligence-as-it-looks-to-take-on-mi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37424586"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37424586"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ai-artificial-world-shutter_4.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
   - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
     excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
     publishedDateTime: 2024-03-05T21:28:00Z
@@ -103,6 +62,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
+  - title: "Microsoft’s AI Tool Generates Sexually Harmful and Violent Images, Engineer Warns"
+    excerpt: "In letters to Microsoft and the FTC, Shane Jones urged government to work with tech companies to make AI safer."
+    publishedDateTime: 2024-03-06T16:02:00Z
+    webUrl: "https://www.wsj.com/tech/ai/microsoft-engineer-shane-jones-warns-copilot-ai-tool-generates-harmful-images-needs-better-safeguards-659ac2a2?mod=tech_lead_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 59
   - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
     excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
     publishedDateTime: 2024-03-03T15:31:00Z
@@ -133,6 +101,24 @@ related:
         width: 328
         height: 328
         isCached: true
+  - title: "Cognizant and Microsoft Collaborate to Power the Future of Healthcare Administration with Generative AI"
+    excerpt: "The TriZetto platform, powered by Azure OpenAI Service, will help payers and providers reduce hidden costs and enable better patient outcomes for millions of Americans. TEANECK, N.J., March 6, 2024"
+    publishedDateTime: 2024-03-06T16:23:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61605799-cognizant-and-microsoft-collaborate-to-power-the-future-of-healthcare-administration-with-generative-ai-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 35
+  - title: "Watchdog Group Says OpenAI and Microsoft AI Tools Can Create Election Misinformation"
+    excerpt: "The Center for Countering Digital Hate made fake images using ChatGPT Plus, Microsoft's Image Creator, Midjourney, and Stability AI's DreamStudio it says could influence voting choices."
+    publishedDateTime: 2024-03-06T16:45:00Z
+    webUrl: "https://www.inc.com/reuters/watchdog-group-says-openai-microsoft-ai-tools-can-create-election-misinformation.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 27
   - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
     excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
     publishedDateTime: 2024-03-04T00:00:00Z

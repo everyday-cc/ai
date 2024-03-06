@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 19
+  - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://www.fiercewireless.com/sponsored/amdocs-expands-strategic-partnership-microsoft-driving-generative-ai-innovation-across"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 7
 
 secured: "IIMDdqpSuXA50TKEmBN7EYGlBxBRIOPBzCi7YO9ZaXMJBWx0nmK+fRn5ZXFAsX9bnXDumz0uBwUASifEZWZ4dJQ40gZNP6K8YwFOCC34XNXc1e5Y9pl0qY+8A5c0FEi1vH7HcS6qbC85CmyU3F0VfCRH9Fu9ptLv975Vj3ho5HqwvGSDk0sEntNW2n6BjOzimgsQraf9PDpMdm056zA7VTZ1AzaVyZKqPxHGm/2QDVBjlMRotncDhP4LY71GZ3JpkoAX+9RWiQS/4PtmjVQTrDrcAaHolDG7k+S5Xpx66Etq3L0AWeEKX/FKmyd4ju7eGVNPnmjNys+f0uH95QS6Q7h+pBeebftuvokVuuXHdW8=;fa8Yao9WWXIJYYFt8FcGMg=="
 ---

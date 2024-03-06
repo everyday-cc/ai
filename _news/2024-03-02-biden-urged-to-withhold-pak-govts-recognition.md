@@ -39,15 +39,6 @@ related:
         width: 1293
         height: 643
         isCached: true
-  - title: "US lawmakers call on Biden to withhold recognition of Pakistan's new government"
-    excerpt: "Over two dozen members of Congress want the Biden administration to conduct an audit of Pakistan's recent election"
-    publishedDateTime: 2024-03-01T19:02:00Z
-    webUrl: "https://www.middleeasteye.net/news/us-lawmakers-call-biden-withhold-recognition-pakistan-new-government"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 0
 
 secured: "ekaLtyOQHKjBLQrQYhA6plboHcCjRukc7HU6IKuc2J9KV012ANmln5XZEvmYqHJU35jNrAotA4RhdFfj/J6d1Zc2QMTaOiaSBdG9w8gnI6QMJgYxdHWl3186eAIkjaGbIRpgvJMEE3jTGe1ARSZiYbCNUzida2hIToQdLtysYoBsfKcTE61Xpsz5s0TJSGB4YDl3JMuSrlTOTJWtzCLF432XwAQam7/ZoLZqUwwILg0eqp4PJy8BwW9L1eU8PaJV4SXXJ3LqbfBKX5mBDbWjk6KefNaxYIatylLANpCECFlSzvTzt9K/v2LBaQyhrhzQizNUHVK2XAygjjisWyIoF3BImRqF0t2mfqs3uElzLn8=;pfzS2Ju/RKY/zJvdPHLMlQ=="
 ---

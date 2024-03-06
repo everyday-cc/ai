@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here’s How to Use Mistral AI Right Now"
+    excerpt: "Even Microsoft (an existing investor in Open AI) is backing this AI startup by pouring $16 million into it. If you’re an AI enthusiast like me and have already used text models like ChatGPT, you’d definitely be looking to test Mistral AI. In this guide ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.gizmochina.com/how-to/how-to-use-mistral-ai/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 47
 
 secured: "D3n1qe4xgVbNXyTLqRae085f7madkpBTANU7Or8d46fzaNvv5ZiIeS/rrBpQwyBGHHiDF1cUsf8WF9QUeB/cjMTyAUZUiLWpbLymMzs3i7XU85jdZ/YeBt9f4LhHm46kFdOASsp27EVA5zpbme2X7CwufsRNJoueqETHQ+6VXsKgPwtez0VL8QLcyRq5priaQ2/AC3D/xiiVuPCnS684LBfQ3AO9dsqGQfJqWgJKtcQluj9c2CIQq4qloVIh32FxVx6yzU5hpYh66T6ppXmJnmEtPCCx9flF2R8myizI0eGh65vYjLYCzW41rU945jEjbAmEMT/wNHEQNBC8eF4G3LnMq9IzwPfmVR6PCzdGj+njqN69ai87cPusOyucgGlLyIq8WGdoHHI1OLaJ4c7BqWVm0Px0A4PDWhumu2SiKZb+rZizhhQDONAiKgbQ8UM48yTBvooHa8UL3MEwf+iiXlr+g5L+9Hr+NqSY1bHikaixYEoW6yBnKgAgqwe07uvmeOkK8aQsvE8CN+n3Mcsqbw==;ct1aAnsc3/RpvTq7Fi6A4A=="
 ---

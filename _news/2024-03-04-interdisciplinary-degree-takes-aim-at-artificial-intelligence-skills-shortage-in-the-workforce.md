@@ -19,19 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "Purdue Expands Access to AI Education with New Fully Online Master’s Degree Program"
-    excerpt: "artificial intelligence ethics, and policy and social implications of artificial intelligence. AI builders take additional classes in machine learning and data science. AI translators have additional classes in applications of AI in the business ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/purdue-expands-access-to-ai-education-with-new-fully-online-masters-degree-program/"
+  - title: "The Future Of AI Skill And Talent Development In The Workforce"
+    excerpt: "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?"
+    publishedDateTime: 2024-03-05T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1271
+        height: 847
+        isCached: true
+  - title: "The Future Of AI And ML In Cybersecurity"
+    excerpt: "The buzz around ChatGPT’s rise is actually about the potential that the architecture of Open AI promises. This is the combination of two tried and true machine learning approaches: large language models ... is to train by translation."
+    publishedDateTime: 2024-03-05T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+  - title: "Dell says on-prem is the future of AI"
+    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
+    publishedDateTime: 2024-03-01T21:24:00Z
+    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
         isCached: true
 
 secured: "Q3/BChaY5jMN7TYGjRhsKdP4KRHuggvAM9CvYMqrLGmAHDkueXo+Lg8XfI48/AxmmcfHMTvUlqsy19GLgerHwdUUeUqULWB9PyuZDikzVVcffI+dVvPEt3xbiMMhLBt2b4J9oQBIZ8YlWIOtirzEmko5nb26s1q1nCEWklQvQRoClMItwrTdNPXIuK2BnWZhPvN2jsIx2jrMGoQYQy/rZCvTKZa24H2CdOA0EH6elJVnEkj8GCx64QSfwlISvh+SzMbcvcla5pf3joPKR3ZmXveUPP/CHx6rceAupdkSvDr79qUVQh2E1M3Ny/yAC44k2HQt7abR9c4ioqd7aqLYEWSO5O770MXqkKea9t0p68c=;jQvvtYYjcqLLDmxzBy6Ezw=="

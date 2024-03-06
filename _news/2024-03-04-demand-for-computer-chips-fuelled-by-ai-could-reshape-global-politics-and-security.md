@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/demand-for-computer-chips-fuelled-by-a
 webUrl: "https://theconversation.com/demand-for-computer-chips-fuelled-by-ai-could-reshape-global-politics-and-security-224438"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -20,20 +20,29 @@ topics:
   - AI in Security
 
 related:
-  - title: "Apple stock falls to lowest level this year, while other tech companies see AI-fuelled rally"
-    excerpt: "Apple’s stock price has been taking a beating in the last few weeks, hitting a low for the year today, closing at $170.12."
-    publishedDateTime: 2024-03-06T00:11:00Z
-    webUrl: "https://9to5mac.com/2024/03/05/apple-stock-falls-march-year/?extended-comments=1"
+  - title: "The race for powerful computer chips and AI will change the face of global politics and security"
+    excerpt: "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security."
+    publishedDateTime: 2024-03-06T00:30:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 28
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 58
     images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/apple-stock-price-decline.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2024/03/AdobeStock_189358603.jpg?resize=1200,630"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
+  - title: "AI Chip Race Reshaping Global Politics And Security"
+    excerpt: "(MENAFN- Asia Times) A global race to build powerful computer chips that are essential for the next generation of artificial intelligence (AI) tools could have a major impact on global politics and security. The US is currently leading the race in the ..."
+    publishedDateTime: 2024-03-05T08:47:00Z
+    webUrl: "https://menafn.com/1107937169/AI-Chip-Race-Reshaping-Global-Politics-And-Security"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
 
 secured: "uKKz8EcetgbBvSPbfLfSHDrpnmbPQBq6R1hkJ2I0MuyprHeTDVPoOThhcyRQyDlxIQ+VjQZlHBeYgrIJMET7UBqpZPXYWeZMIbBdzAUtdKg7HC95Kmu2gqk7kAOqMWco6lLZm1Qf8BP/xhFM/r0ZFXoTbskIsyQlIBAMJvu26VqzkPnbnKl+ohFNzo7lKmtdkVYipFEt3rfSMbmETtnDkE7w1XuLCja9NHEGqbC+D0O9bqiiGCjGIFkyPc98a25Pot9fIS4XQpVE0u5vH9iGyfUzsuzj2/6IQG9OpMwH4I5P+iNnSUse1EKvyKFXzddyI3dE4n0f+TVIVqFjBFqUxlXn68nylxp/6Vd+aSxlrd1ppHYaAEgFwWs5Y2TWJtFPg0nGoiXJK6Z663t22OYPNZX22SJV0rVsS+6mDHI7930ttryCWro4AZtvZ8QLEMGCJtxJXh/zPoA+dPH5yIF/NzBbcJ7PCdSvM5i6eHOYI5W7re7pQbi5CN0AAVNR/MeZYySyaEe1iHaVj+Tswh3Cgg==;I/UTVHBVdgIDILcxqn4puA=="
 ---

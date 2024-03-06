@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-02-03-meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-internal-memo.md",
-      "title": "Meta Platforms to deploy in-house custom chips this year to power AI drive: internal memo",
-      "excerpt": "Facebook owner Meta Platforms plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its artificial intelligence push, according to an internal company document.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/592c1290-bb08-4db2-bb00-ffe2f151fcf1_45a1b0c9.jpg?itok=22EXWYiV&v=1706848356",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T16:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-02-meta-released-a-specialized-version-of-llama-2-for-code-generation.md",
       "title": "Meta Released a Specialized version of Llama 2 for Code Generation",
       "excerpt": "Based on the open-source Llama 2, one of the largest LLMs in the world, with 175 billion parameters, Code Llama is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters.",
@@ -1450,6 +1397,59 @@
       "topics": [
         "Meta AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-chatgpt-may-be-coming-for-our-jobs-here-are-the-10-roles-that-ai-is-most-likely-to-replace.md",
+      "title": "ChatGPT may be coming for our jobs. Here are the 10 roles that AI is most likely to replace.",
+      "excerpt": "Business Insider talked to experts and conducted research to compile a list of jobs that are at highest-risk for replacement by AI. Tech jobs (Coders, computer programmers, software engineers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63daec1e0a08ae0018a66c69?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

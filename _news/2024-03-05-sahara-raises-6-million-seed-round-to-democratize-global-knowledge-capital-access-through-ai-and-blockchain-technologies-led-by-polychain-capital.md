@@ -115,6 +115,17 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "NPCI ties up with IISc for joint research on blockchain and AI technology"
+    excerpt: "National Payments Corporation of India (NPCI) has announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru, for conducting joint research on Blockchain and Artificial Intelligence (AI) technology."
+    publishedDateTime: 2024-03-06T16:26:00Z
+    webUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece"
+    ampWebUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 38
 
 secured: "wL1/NV989OpWbzSvJxW78Reu0poa21kAnL61gehtY5r+cfft3BYYr6dwR5vVxhCFSeyiOsIGMhgPR15C9+czJsF6FtZj/akI6rhEziR2khvcUzOru4BFU7qD9NmMneEb64VFXNGOeezl/UqljDvU1ChHT9PB/Q1gBU4IUEj+Ajm4jeC5GoNIOPpfuvmN2y9Tw5Hb/x7pKaBbIJdxmpiOx3yVrb8VW0AsgFQk8i0yWgkmu2tRYhyLI43NL/QPlaK7sWKPXw6l4n/EuntRJ+HQY/50Ymm6SrHjp1jyGXka8pGceMeRMSHW4NhVg8yW17tTkBOehvnwgxAnbjkF5Sd8wmFjWZnWtyHapx1mt4w5zJI=;tyQqnl4kSyKIA9nScgFfQA=="
 ---

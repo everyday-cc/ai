@@ -2,6 +2,500 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
+      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
+      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "publishedDateTime": "2024-03-05T13:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando",
+        "domain": "orlandomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision.md",
+      "title": "CrowdStrike and Dell unleash an AI-powered, unified security vision",
+      "excerpt": "By adding CrowdStrike's Falcon XDR platform to its current Managed Detection and Response (MDR) service, Dell provides its global base of resellers with AI-based technologies their customers need to battle back against attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
+      "originalUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/hero-16-9-crowdstrike-dell-partnership-.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-the-future-of-ai-skill-and-talent-development-in-the-workforce.md",
+      "title": "The Future Of AI Skill And Talent Development In The Workforce",
+      "excerpt": "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1271,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-aided-by-the-democratization-of-generative-ai-the-robotics-ai-chipset-market-is-expected-to-reach-us866m-globally-by-2028-finds-omdia.md",
+      "title": "Aided by the democratization of generative AI, the robotics AI chipset market is expected to reach US$866m globally by 2028 finds Omdia",
+      "excerpt": "Since the democratization of machine learning (ML) in robotics, ML-powered workloads have become highly diverse. As generative AI (GenAI) technology continues to proliferate, foundation models are poised to replace or augment existing ML and deep learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aap.com.au/aapreleases/cision20240305ae48087/",
+      "originalUrl": "https://www.aap.com.au/aapreleases/cision20240305ae48087/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/photos300x250.3ecdeb91.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T12:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Associated Press",
+        "domain": "aap.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-the-ai-main-event-redefining-b2b-business-models.md",
+      "title": "The AI Main Event: Redefining B2B Business Models",
+      "excerpt": "In the rapidly evolving tech landscape, what once gave companies a competitive edge can quickly become their Achilles' heel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5e6e1fff396a96ef086a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1175,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/amp/",
+      "publishedDateTime": "2024-03-05T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-microsofts-new-orca-math-ai-outperforms-models-10x-larger.md",
+      "title": "Microsoft’s new Orca-Math AI outperforms models 10x larger",
+      "excerpt": "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
+      "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all",
+          "width": 749,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-nobody-knows-how-ai-works.md",
+      "title": "Nobody knows how AI works",
+      "excerpt": "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
+      "originalUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
+      "publishedDateTime": "2024-03-05T10:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-avoiding-the-swinging-pendulum-in-the-great-ai-debate.md",
+      "title": "Avoiding The Swinging Pendulum In The Great AI Debate",
+      "excerpt": "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
+      "publishedDateTime": "2024-03-05T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-tsmc-samsung-lead-recovery-in-asias-emerging-markets-with-ai-and-chip-sector-growth.md",
+      "title": "TSMC, Samsung Lead Recovery In Asia's Emerging Markets With AI And Chip Sector Growth",
+      "excerpt": "Following deep losses in 2022, many emerging market assets were at bargain valuations and the recovery began in late 2022, driven by tech stocks such as Taiwan Semiconductor Manufacturing Co (NYSE:TSM) and Samsung Electronics Co (OTC:SSNLF). Emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/tsmc-samsung-lead-recovery-in-asia-s-emerging-markets-with-ai-and-chip-sector-growth-1033132754",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/tsmc-samsung-lead-recovery-in-asia-s-emerging-markets-with-ai-and-chip-sector-growth-1033132754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Market-Behavior-Graph-Hologram--Sunset-P.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T08:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-1-top-ai-stock-to-buy-before-2025-hint-its-not-nvidia.md",
+      "title": "1 Top AI Stock to Buy Before 2025 (Hint: It's Not Nvidia)",
+      "excerpt": "Nvidia has greatly benefited from the rise of artificial intelligence as its GPUs are widely used to train and run large AI models. Competition from rival chip companies and tech giants designing their own custom AI chips will likely erode Nvidia's dominance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/767980/gettyimages-1464561797.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T07:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-check-out-the-worlds-best-consumer-laptop-for-ai-apple-macbook-air.md",
       "title": "Check out 'the world’s best consumer laptop for AI' - Apple MacBook Air",
       "excerpt": "After weeks of anticipation, Apple finally took the wraps off its latest MacBook Air. The iPhone maker introduced two variants - 13-inch and 15-inch, both of which are powered by its latest M3 Apple Silicon chip.",
@@ -53,7 +547,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -106,7 +600,7 @@
       "originalUrl": "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -208,7 +702,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -335,48 +829,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-concern-as-the-gambling-industry-embraces-ai.md",
-      "title": "Concern as the gambling industry embraces AI",
-      "excerpt": "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-68304137",
-      "originalUrl": "https://www.bbc.co.uk/news/business-68304137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-68304137.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp",
-      "publishedDateTime": "2024-03-05T00:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -534,7 +986,7 @@
       "originalUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": null,
       "content": "",
@@ -774,451 +1226,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-nvidia-and-these-tech-giants-just-invested-in-this-artificial-intelligence-ai-and-robotics-start-up.md",
-      "title": "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up",
-      "excerpt": "In today's video, I discuss updates impacting a recent investment made by Nvidia (NVDA 3.60%) and other tech giants. Check out the short video to learn more, consider subscribing, and click the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/768008/nvidia-headquarters-with-nvidia-sign-in-front.png",
-          "width": 2000,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-how-to-become-an-ai-enterprise.md",
-      "title": "How to become an AI+ enterprise",
-      "excerpt": "An AI+ enterprise innovates with AI as the primary focus, understanding that AI is fundamental to the entire business.\nThe post How to become an AI+ enterprise appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T17:05:57Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-5g-advantages-and-disadvantages-what-business-leaders-need-to-know.md",
-      "title": "5G advantages and disadvantages: What business leaders need to know",
-      "excerpt": "5G, the latest high-speed cellular network standard, is poised to transform wireless connectivity and usher in a new age of digital transformation.\nThe post 5G advantages and disadvantages: What business leaders need to know appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/5g-advantages-and-disadvantages-what-business-leaders-need-to-know/",
-      "originalUrl": "https://www.ibm.com/blog/5g-advantages-and-disadvantages-what-business-leaders-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/img_8762copy_blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T16:46:58Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious.md",
-      "title": "Super Micro’s stock is a clear ‘AI winner,’ but here’s why Goldman is cautious",
-      "excerpt": "Super Micro Computer Inc. is a proven “AI winner” according to Goldman Sachs analyst Michael Ng, but that doesn’t necessarily mean you should buy the stock. With the shares up nearly 1,000% since the start of 2023, they’re “fairly valued,” in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
-      "originalUrl": "https://www.marketwatch.com/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-832221/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
-      "publishedDateTime": "2024-03-04T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together.md",
-      "title": "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together",
-      "excerpt": "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T14:52:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-jim-cramer-says-these-4-stocks-are-better-ai-plays-than-red-hot-super-micro-computer.md",
-      "title": "Jim Cramer says these 4 stocks are better AI plays than red-hot Super Micro Computer",
-      "excerpt": "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio. Super Micro Computer : Shares surged nearly 25% on Monday after the artificial intelligence server maker was selected late Friday to join the S & P 500 later in March.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
-      "originalUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107364684-17062129482023-02-17t102124z_2115759463_rc2xcz9bgstp_rtrmadp_0_amd-results.jpeg?v=1706213119&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T14:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-customers-expect-more-todayhow-ai-can-help-brands-deliver.md",
-      "title": "Customers Expect More Today—How AI Can Help Brands Deliver",
-      "excerpt": "Meeting today’s customer expectations has been an ongoing challenge for contact center leaders, and they are well aware of the constraints of their legacy technologies for providing digital experiences. The first step toward modernization is cloud adoption, which usually entails deploying some form of CCaaS (contact-center-as-a-service).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e201d04ec7953e14743576/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1504,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
-      "publishedDateTime": "2024-03-04T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-ai-powered-decision-making-its-impact-on-the-enterprise-value-chain.md",
-      "title": "AI-Powered Decision Making: Its Impact On The Enterprise Value Chain",
-      "excerpt": "Companies that are willing to test and learn are overcoming decision-making challenges, improving operations and making workers' lives easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62337b27ece1d59239e707ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
-      "publishedDateTime": "2024-03-04T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way.md",
-      "title": "Does AI have a place on ethics committees? How to use it the right way",
-      "excerpt": "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way",
-      "originalUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-1.jpg&signature=b84d53bed3640764cf4568c175a30c5d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T11:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

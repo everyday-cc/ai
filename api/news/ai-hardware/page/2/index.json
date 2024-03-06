@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-27-nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow.md",
+      "title": "Nvidia unveils RTX 500 and 1000 laptop GPUs for AI-enhanced workflow",
+      "excerpt": "The company has announced two new AI-enhanced graphics processing units (GPUs ... in performance and efficiency compared to Nvidia’s earlier professional GPU offerings. The RTX 500 will launch with 4GB of memory, while the RTX 1000 features a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/27/nvidia-unveils-rtx-500-and-1000-laptop-gpus-for-ai-enhanced-workflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Nvidia-RTX-500-RTX-1000-GPU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb.md",
+      "title": "Qualcomm FastConnect 7900 Brings AI-Fueled WiFi-7 With Integrated Bluetooth And UWB",
+      "excerpt": "Qualcomm took the wraps off its FastConnect 7900 integrated WiFi solution, and it's not just AI-enhanced but also highly integrated with a number of industry firsts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dd1694c7e968eaf4100aa6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2024/02/26/qualcomm-fastconnect-7900-brings-ai-fueled-wifi-7-with-integrated-bluetooth-and-uwb/amp/",
+      "publishedDateTime": "2024-02-26T23:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-us-can-house-entire-supply-chain-for-advanced-chips-commerce-dept.md",
+      "title": "US can house 'entire' supply chain for advanced chips: Commerce Dept",
+      "excerpt": "US Commerce Secretary Gina Raimondo expressed confidence Monday that the country can house the entire silicon supply chain for making advanced chips, including tech that is key for artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
+      "originalUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/us-commerce-secretary.jpg",
+          "width": 1280,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
+      "publishedDateTime": "2024-02-26T20:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
       "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
       "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
@@ -760,6 +907,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-23-tech-war-nvidia-sampling-alternative-ai-chips-to-china-as-us-restrictions-take-a-toll-there.md",
+      "title": "Tech war: Nvidia sampling alternative AI chips to China as US restrictions take a toll there",
+      "excerpt": "US chip giant Nvidia said it has started shipping alternative samples of permissible AI chips to Chinese customers, as Washington’s restrictions on sales of advanced chips to the mainland begin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/22/7a38710c-1876-407d-b5b4-b87cff7934bd_0f7c428a.jpg?itok=bNInIN78",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "publishedDateTime": "2024-02-22T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-intels-ceo-says-ai-is-the-key-to-the-companys-comeback.md",
       "title": "Intel’s CEO Says AI Is the Key to the Company’s Comeback",
       "excerpt": "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ...",
@@ -1270,188 +1469,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks.md",
-      "title": "Engineers develop chip that uses ‘fastest means of communication’ for AI tasks",
-      "excerpt": "Read More Engineers from the University of Pennsylvania have developed a silicon-photonic chip that uses light to perform complex math for AI tasks. This chip manipulates materials at the nanoscale and enables brain-like processing, while offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107878759,width-1280,height-720,resizemode-4/107878759.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "publishedDateTime": "2024-02-21T09:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
-      "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
-      "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
-      "originalUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2024-02/86jsk76g_mark-zuckerberg-bloomberg_625x300_02_February_24.jpeg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
-      "publishedDateTime": "2024-02-21T08:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains.md",
-      "title": "Arm unveils Arm Neoverse CSS V3 chip designs for AI efficiency gains",
-      "excerpt": "In a leap forward for AI infrastructure, Arm announced the latest advancements in its Neoverse chip technology based on the Arm computing architecture. The company unveiled two new Arm Neoverse Compute Subsystems (CSS) built on third-generation Neoverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
-      "originalUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/arm-neoverse.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T07:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-first-human-to-receive-neuralink-chip-can-control-mouse-with-mind-claims-musk.md",
-      "title": "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk",
-      "excerpt": "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
-      "originalUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T06:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Revolutionizing Industries: The Pervasive Impact of Artificial Intelligence Applications"
-    excerpt: "In our modern world, Artificial Intelligence(AI) has become more than just a figment of science fiction. In today's highly evolved technological landscape, AI is a revolutionary technology that has transformed every industry in ways we can only begin to imagine."
-    publishedDateTime: 2024-03-05T16:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274146956/revolutionizing-industries-the-pervasive-impact-of-artificial-intelligence-applications"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 32
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1709350515787.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "1Kq2kk3J6ol2zvlgG85Y/2dMK/i5ZibI8szRg4SUFgwEdbBz0Whtvc3vGhwnZJ+D/ZRsq8HmXZr+z+yY2mv4m6uwgJuM1uDOiPQTU/PJrJBuLdxWbVNmVyNTg/Gim6MrNIG5LXDk0JfYIWKndjiJaLarbcz37msDTf1xlMXT0tpUyFPGdDDquGGzGfbXitqAIuRP93UU0B4rIARqjQ7Pz2WifwrQkK0hb9ox1NbyUj+izZOIJpb98CEJC3z4i+YHFlUnuFgCBH3fUbevMFAfCjqbJWMwkJwDARKd7lWpgNm3Drj3BuhdnZ+7dYN3/a/OBq61kSeB3tTplr/LsxMnKqvdNdl30q9fOpUCUXuZfLs=;sNbgIw4AxamVfKRutggC7w=="
 ---

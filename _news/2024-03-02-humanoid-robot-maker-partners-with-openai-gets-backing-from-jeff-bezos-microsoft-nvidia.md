@@ -42,22 +42,6 @@ related:
         width: 600
         height: 299
         isCached: true
-  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T14:57:00Z
-    webUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 81
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo"
     excerpt: "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight."
     publishedDateTime: 2024-03-06T10:05:00Z

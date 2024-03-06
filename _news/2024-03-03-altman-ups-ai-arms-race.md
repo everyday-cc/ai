@@ -56,20 +56,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Elon Musk Sues OpenAI and Sam Altman for ‘Perverting’ Nonprofit AI Mission"
-    excerpt: "The Tesla boss alleges that the lab was supposed to be working solely for the “benefit of humanity” instead of profit."
-    publishedDateTime: 2024-03-01T17:04:00Z
-    webUrl: "https://www.thedailybeast.com/elon-musk-sues-openai-and-sam-altman-for-perverting-nonprofit-ai-mission"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 35
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2718,w_4832,x_0,y_44/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709300246/2020-12-01T000000Z_1499439236_RC2IEK9HXXMC_RTRMADP_3_TESLA-MUSK-GERMANY_kj6zdo"
-        width: 1480
-        height: 833
-        isCached: true
 
 secured: "w47CgGIwdWScOPoUGdpAQavYTiosJafPq2XfyHkSpUTKi3B5Td4/N691IUE7WtnWKxvD1101zErslrSOg6XO0R49XzmyzsMhtmpz48kA/fLOS6YlOQtVT5r9hUNra4UOcaz5HbyKLaaRLv4aRVlcGRaoBjsIurGuyJhA4lwRZpO3eyfATookmaAbOfMr+IIOBbqjH54zGS67jxTTUXebobW45K0nWg8Hpbb5nHNB0U31fUt0Uw2Hpn2U2hxS0eOdXFkkl/nM1yUbJ+KANrhM6w6PZu2ElIA89CpaL1O6RK25hQbWF6L2gaUr49Cf9lpXeuvtK1/tanavNS+awiLkYxrGZpH46/Lkj18Lup4iQBl3fiIrEOiE2rGuB6t/CY+XuHaQK0nObeGoCxoM0zEy4NnrHlAGoUK9o8gfGrUHjgKTv0X74k+eg9rttH5wQan+M9PXy6d/7ifuykUu/srrABar/KJWfLEfUnQNfxUtJTghWww/00fSluvtQLV/041WaAhIVv+/ITstwqFeAwtlWQ==;piufFx3XWc8Q8izg5gp4bA=="
 ---

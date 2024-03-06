@@ -44,6 +44,15 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 19
+  - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://www.fiercewireless.com/sponsored/amdocs-expands-strategic-partnership-microsoft-driving-generative-ai-innovation-across"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 7
 
 secured: "w56dAOguNPrWfwd/BR9cGmoZtZ1ejEUFaqxsoTE2g3UTQ9IY4GR64VB2yddfrYAL4b8VpSZNHJyq4QSHvodx4Yz7MrpdyNsBhYAwfZTgJE6s/ztgVVLTamugbHrr0FsSBna3283bsBHRaEVDZAsP5yxzjJv3WOJitaOW+VXh/a405l/mv/gbgIx06i8VdZmhYSMm7qOwsRKMoYTcDzLrpd0wehH8aysmHc6lXCSshymbHM3A3I9v5zdsRi0bgPE3QQ0bsuYvD6DvSeqw1pBboqYb7XY6C7YwhdATD1kNFa65bbEBzQCmQEf2gZW0fnMyadFWQuOJhH7GiB8oShN8oR8EGQKBHG2GiMqqzqmSiTEPNqncY+QwXuGeQVVF7n/RKcLqh0ZGe62FxhsEGO0KYjI3/hub3fsrWTpw0cVV8E//iuTRj2MPAhK4WeMKztby3oh54h2i8b193vRAnkWLQAJqUfFRxxJ0LRN6l2dysxVfjDsoP+db+hMIbVIFwHz51nIHMb2YtNymrUMrMFNrYg==;bodDgJ/7lu3dDpQnNr1OiA=="
 ---

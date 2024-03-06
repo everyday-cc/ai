@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/open-source-mistral-ai-model-now-ava
 webUrl: "https://www.geeky-gadgets.com/open-source-mistral-ai-model-now-available-on-ibm-watsonx/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 769
     isCached: true
 
-related:
-  - title: "IBM Introduces Mixtral-8x7B to watsonx, Delivering Rapid, LLM-Based Insights"
-    excerpt: "IBM is announcing that Mixtral-8x7B-the popular, open source large language model (LLM) developed by Mistral AI-is available on the watsonx AI and Data platform. Now offering an enhanced version of Mixtral-8x7B,"
-    publishedDateTime: 2024-03-01T18:49:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Introduces-Mixtral-8x7B-to-watsonx-Delivering-Rapid-LLM-Based-Insights-162864.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 36
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "jU/IjyObek2WBydUlpOwbPu5P6MKgPidMq3MEMuzrPEZQ9v0OSrrVmXK3g4w1NF6yU0zjzyRfcyULm2Niat/Vm5fhrEjn9KRm/1fyfrYfIJTB9RJV2BfzOZVCABNq9k13slFpxytmKzw7lx1K+1TtsRHeRHjT5bYHhxRKPnQGejAzrc1W4q/j1rirzh7QPqjyi2P9D5oVooQo5y8DMXtuD6y0UKJYuJPBtGwZO1/v/zxqJFnP2iErpDrKVcNkM2EMoAQBRFLhHLMH7DgX2Ob2QOawMN6AJsUawue5TpOpOcCdTH97OIDoZJuxN6vxXhS6O2TzZ5WW735Z5yXqATeaHuBN3BV6MLOxw6HLPp1vT4=;OFuqze3YFZJF7joLtp80mA=="
+secured: "4uM6EE1/VNRVJlp6ZIBS18j4Ys8YdpTPqgIid9m329FEPWmomyFv4UbXD8gParUaJaeABrKLz1FfrtZhLj4fZgXkMwkuOHkeSw/4zHcM+C0Zp/1M5CijU8tSpY65Xp0AD7k8Qygy3NwvQqEjelcTp/+XSvgFw41Z1JdpalXfydv53jXfr0s88zWCxoET6ey3tBt6qDpiJYhfN0Ew9ueiP0lS2TogKVa7A7kna1Qvkq8JQXNbr/o6IMO8E+6cirJ5++rGR1WQUAHteag0U2pAdObH1+RpcEwgdo/SBK0VP78KnZXA1Z+O4vYzycefeLyXSmu333cJD67Ha7R2LJQNm86RB/jtZwlyruhCwqYoBomp+Q9QdNLyGjs9wsY9MnMk5pchGfXDWbQZsU2xQ7Ar/k9Kp33mobs3vtJKUURZKi/VwkSpqk17K43XXZg+HgK5lgrKQRX69vQCCoLZSVoFVOmLRSCo5qlLuQOpS0tahpziSP1z79E+kw9dnCgWyYTvC3gvxC0U52wRJgUEoDodow==;bzlKGcNLMiSWbf5SeIrgLA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/designing-equitable-ocean-
 webUrl: "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Closing Skills Gaps With Technology: AI's Role In Boosting Service Efficiency"
+    excerpt: "It's clear the service sector is increasingly intertwined with the strategic use of technology, particularly through the adoption of appropriate AI tools."
+    publishedDateTime: 2024-03-06T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/closing-skills-gaps-with-technology-ais-role-in-boosting-service-efficiency/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
   - title: "IBM: A Legacy Technology Company Capitalizing On AI Trends"
     excerpt: "IBM's AI platform, Watson, has potential for growth in industries such as healthcare, customer service, and financial services. My revenue growth assumptions for IBM are conservative but show potential for steady growth over the next five years."
     publishedDateTime: 2024-03-01T23:09:00Z

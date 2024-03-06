@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/5-stocks-surging-o
 webUrl: "https://markets.businessinsider.com/news/stocks/5-stocks-surging-on-ai-mania-1033134591"
 type: article
 quality: 51
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -24,42 +24,54 @@ topics:
   - Meta AI
 
 related:
-  - title: "Why Artificial Intelligence and Tech Hardware Stocks Soared on Friday"
-    excerpt: "Artificial intelligence (AI) was at the heart of that outperformance, so AI stocks were -- hardly for the first time in recent months -- a particular target of the bulls. That alone wasn't the ..."
-    publishedDateTime: 2024-03-01T23:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-artificial-intelligence-and-tech-hardware-stocks-soared-on-friday"
+  - title: "Airship AI’s stock rockets upon DOJ contract, as shares of other AI plays slip"
+    excerpt: "The technology sector is moving lower Tuesday — but one small name stands out in a big way in a sea of mostly red."
+    publishedDateTime: 2024-03-05T17:23:00Z
+    webUrl: "https://www.marketwatch.com/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://images.mktw.net/im-496944/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AMD’s stock continues its march higher as AI cheers build"
+    excerpt: "AMD projects it will generate upwards of $3.5 billion in revenue this year from data-center GPUs. Barclays is feeling even more upbeat."
+    publishedDateTime: 2024-03-04T19:43:00Z
+    webUrl: "https://www.marketwatch.com/story/amds-stock-continues-its-march-higher-as-ai-cheers-build-a4328779"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 49
-  - title: "Unlock AI Profits: How QCOM Stock Could Be Your Next Big Win"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Every investor wants to find the next Nvidia (NASDAQ:NVDA). For"
-    publishedDateTime: 2024-03-05T11:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unlock-ai-profits-how-qcom-stock-could-be-your-next-big-win-1033132283"
+  - title: "As AI agents spread, so do the risks, scholars say"
+    excerpt: "Also: The safety of OpenAI's GPT-4 gets lost in translation Once the mechanics ... Also: What to know about Mistral AI: The company behind the latest GPT-4 rival \"These MLLM [multi-modal large language model] agents are being integrated into robots or ..."
+    publishedDateTime: 2024-03-04T19:03:00Z
+    webUrl: "https://www.zdnet.com/article/as-ai-agents-spread-so-do-the-risks-scholars-say/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 49
-  - title: "Dell Stock Surges After AI Boom Fuels Profit Jump"
-    excerpt: "Dell Technologies stock rallied after artificial intelligence-related demand helped the PC maker report a big jump in profit. Late Thursday, Dell said profit, adjusted for one-time items, increased 22% last quarter."
-    publishedDateTime: 2024-03-01T21:59:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-01-2024/card/dell-s-stock-surges-after-ai-boom-fuels-big-profit-jump-qoCf2wX1NnVtTbUoXjj1"
+  - title: "Media and Artificial Intelligence"
+    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
+    publishedDateTime: 2024-03-02T21:00:00Z
+    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "AI Stock Picks & Pans: 2 Names to Buy and 2 to Sell ASAP"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The AI stock rally has continued at a torrid pace. Many companies in this"
-    publishedDateTime: 2024-03-04T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stock-picks-pans-2-names-to-buy-and-2-to-sell-asap-1033127701"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: standardmedia.co.ke
+      domain: standardmedia.co.ke
+    quality: 37
+    images:
+      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "i5dKo1K7iVcynGppSo2xmO9cHoi2smWWnZdN2oFayBBsmO9uRhRW5HxlfNoZEVeU5pxx6LahIkLdecu/tPap3mVV5JUFCmvFGTy4cHU2OEL9/fnVC2JtBNC/9chi01QclHd+e2Xqf3b5LjLMTspTrod95Ed5QOoVn2zC0MkPXDWaLnH39yX/FYfvZS6LkEyba2xiIq6tT8ywlANBArP4XY9BeYMNq/DjPiMv0D7u57u60pgYMmBq+8IIUkb0+7Y3kns2SPA7qGm8p4y82YjS3OiEJGzClNUPJZqPyCbElXnBxZy9Vqu5EMh2jql+zJkIf0UuXHNK3RFPeiRYnJxROCNfYPs+kyD8JRz4CnM32ML3zhY7PXRyG5b4vF2n88nVxurY04FDjFJHKPvlCiznV4HVubm4VVdghNiDXhvjxmkbFd/FoSfpHRlRkWpltVNTCPqWUv3hiNmtbKeTi8PN6BsskL7ixA5MO4alTIDfpcum+e8VLShYl/oR/FaY8+OZje22C9eqVh0REJKK4vC/0A==;sSpHk5dGPgdQK1nZ2C+zvg=="
 ---

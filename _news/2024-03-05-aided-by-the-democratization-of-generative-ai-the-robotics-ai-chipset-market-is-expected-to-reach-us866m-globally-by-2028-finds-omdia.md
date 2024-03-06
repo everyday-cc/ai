@@ -7,7 +7,7 @@ originalUrl: "https://www.aap.com.au/aapreleases/cision20240305ae48087/"
 webUrl: "https://www.aap.com.au/aapreleases/cision20240305ae48087/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging Artificial Intelligence for Vision Applications and Technologies Market Expected to Reach $45 Billion By 2028"
-    excerpt: "FN Media Group News Commentary - Artificial Intelligence (AI) technology is growing in numerous markets especially in vision enabled technologies. AI computer vision has numerous emerging applications in several fields,"
-    publishedDateTime: 2024-03-01T14:50:00Z
-    webUrl: "https://www.investorideas.com/news/2024/technology/03011Artificial-Intelligence.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 14
-    images:
-      - url: "https://www.investorideas.com/images/logos/twitter-icon.gif"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Leveraging Artificial Intelligence For Vision Applications And Technologies Market Expected To Reach $45 Billion By 2028"
     excerpt: "FN Media Group News Commentary - Artificial Intelligence (AI) technology is growing in numerous markets especially in vision enabled technologies. A"
     publishedDateTime: 2024-03-01T19:46:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/purdue-expands-access-to-ai-
 webUrl: "https://www.datanami.com/this-just-in/purdue-expands-access-to-ai-education-with-new-fully-online-masters-degree-program/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 2560
     height: 1336
     isCached: true
-
-related:
-  - title: "Interdisciplinary degree takes aim at artificial intelligence skills shortage in the workforce"
-    excerpt: "Applications are open for Purdue University’s new 100% online Master of Science in artificial intelligence degree, which features two majors, one for people who build AI systems and one for people who make use of them."
-    publishedDateTime: 2024-03-04T14:56:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2024/Q1/new-online-masters-in-ai-from-purdue-is-designed-for-people-who-build-ai-systems-and-for-people-who-use-them.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 22
 
 secured: "8fF0b0rEJhNnjuLAcIz78MjslukRLNL2szef8GCL+I36/io1sSvxYNLkxixReiVjh+7Egu1KWkdpbHA3F0dUh1FJ83mW8Rq4fEAiyMhe5eNWJ8od31HxOk2NMIwMyacyDudcTF/NgDVIab9qh6i9xv2b10iMn9jZXtNCNh4WsSOaGazNjUvBIrwl+vIoRHtoefQUsspHopxr40kZZBLaCHSAGG4oDHhrwxq3XnIUwLvA2rAGnKmppKlh/q1sehUmA3XP84VACXiQBQONfYLib1REOqXFxONsSqxgWNXbIGzPIk6B6PyzJHvC9xRSAjJUyVjH8x8Xhdt+uqCd/DkFHzDFqSYcxCEciE5shjGe688aKqtWjdw5rEzZWE60TQxojSPzFBYmq/kDCAPMQGeazc0gnPpNjS30+sErDg1k3f5DqP2wukCaguuNf/S4N0x/By14HFjSaopvw2RCw8XtEP5mRh/OdEC9m0g0kq1n22I1KCIoZ9GQ5Tt1soSau8jZ+rScgONtmG3h2+D4rL2ccA==;HNbQ4pAMQXTE0v4KgWSMcg=="
 ---

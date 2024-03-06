@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: MediaNama
       domain: medianama.com
+    quality: 19
+  - title: "Serial entrepreneur launches Denver AI startup for regulated industry"
+    excerpt: "Several regulated industries and companies have banned their employees from using generative AI tools like ChatGPT, fearing that proprietary information will be leaked. Denver startup Liminal aims to address those security concerns."
+    publishedDateTime: 2024-03-06T11:57:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/news/2024/03/06/ai-startup-liminal-launches.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 19
   - title: "India tells tech firms approval is needed before releasing new ‘unreliable’ AI tools"
     excerpt: "On Feb. 8, Microsoft partnered with India AI startup Sarvam to bring an Indic-voice large language model (LLM) to its Azure AI infrastructure to reach more users in the Indian subcontinent."

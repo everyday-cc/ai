@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Chipmakers including Intel in 'tough negotiations' for Chips Act funds"
+    excerpt: "Semiconductor companies including Intel Corp. are in the final weeks of \"tough negotiations\" as they seek more incentives than the Chips Act has available for projects, a federal official said Tuesday."
+    publishedDateTime: 2024-03-06T14:14:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/06/chips-act-intel.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
 secured: "xhqAEkn43C4u+LeNlEizUSSG8T3KmL/HRqwuPSQUM8cblfVbITfFDEAjMdSI/yXihYOw5eWmDzhhGmw72kWH9Qzm45VpdfTue08L5ZD/6uqxFGRkC5wWA7X7Eb+LSCyWAnGfI7DnrXUvC8LFrDxWa+JYJ0uz7iuYCXkKg0GMVUENp3h5boULhV6bW4AdOW1A4UhgIT60EVnlDXzMhiIDgXlyVs/UJRf9+4kBgtaHWaw8bw/YdpEXMG1kFPtaRRHWex/ljQ6Y7hwRQohZTNnxIyc5NpDBC8fiB+D4029+DjHht2Pfg+fuymhTHhSk0YwvdtDGrvN0Qx6nLHiKryCqYd3HrsyGTwTsXFBtIUjmq+njfRn0OmH0ssK6L0BYf2jmPHyqKPIJDMAQhN4iQKrdW0VrC22xz46nM7asXLg7E4oXpLwyPq+sipq5x+zzib6r2Itv7nRQzMVirCNR9K7040ccD6tt0upbfYTG2AuCqugCXsOZ5sxcHyoFBITnfWc60+XPcnTa2GvDs0UuXGpRxA==;ax68FarHoyc1XqWMl6zJMQ=="
 ---
 

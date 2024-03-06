@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "US officials face tough choices for subsidising AI chip manufacturing"
+    excerpt: "Betting on AI chips is also challenging in the rapidly evolving industry. Handing out subsidies today to the likes of Intel, TSMC, or Samsung Electronics, which is also vying for federal dollars and is the only other firm in the world that can make advanced chips,"
+    publishedDateTime: 2024-03-06T17:57:00Z
+    webUrl: "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 74
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/artificial-intelligence.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Focus: US officials face tough choices for subsidizing AI chip manufacturing"
     excerpt: "U.S. officials have earmarked close to $30 billion in subsidies for advanced semiconductor manufacturing, aiming to bring cutting-edge artificial-intelligence chip development and manufacturing to American soil."
     publishedDateTime: 2024-03-06T11:02:00Z

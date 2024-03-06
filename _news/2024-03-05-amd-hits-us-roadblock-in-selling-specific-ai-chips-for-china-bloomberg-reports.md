@@ -159,6 +159,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
+    excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
+    publishedDateTime: 2024-03-06T16:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-china-focused-ai-chip-blocked-from-sale-by-us-commerce-department/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
 
 secured: "vGaQCT55C6otkJjOR+2E2DKJ867Gnejd3AkIElaw6bYlqYbXxA3NFq7wYHo5VGFKMiXBFVM2LDkbDhnMPoTNx77FgFSlz+O6ttsWTiB93w5Vj71aa/SEDjJN36D8ObkpuJSYUNyqg3UavbHzybZu7YODU14bcKpN1S/9cdMM5RHc5Yydu1ygHrjyDTXlCJpUTVOFjKQf7+9k+c4q4WGFCW7TbpKlag8fWuhHCqu3Ol9HjzR6w+g3YpebHAZwb/8WyCW4j2aSOyGi2L6lCay9zlUAFUjXOK56kvuujFUpC+CHMfRQVfZSfL/GqKEW9R81GHqNiaMGeAP3da99Ssf16KC7Sf19eYugZWVuHu+/UF1DpXL59ec9/TsY/N+khR+/QbgRdeydvXWHoArdhNuafss0/xwEBXrRW5UdE3jCNYzVIo/CSNw1Iq99Oh3pOTVYEX2mF2J4MdPqEfaQ8yl624I161/dlSrxBdo1pjixYjs3fR5ikHJ7wJdQiKEZ4vffjUTNZidOC+Rm0dc+hiksMA==;SBwvVK+hih+YY3ldBXpy9w=="
 ---

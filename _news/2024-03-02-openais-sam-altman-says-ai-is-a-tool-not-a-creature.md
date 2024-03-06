@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F0%2F7%2F0%2F47360704-2-eng-GB%2FIMG_3766.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
-        isCached: true
-  - title: "Elon Musk Sues OpenAI and Sam Altman for ‘Perverting’ Nonprofit AI Mission"
-    excerpt: "The Tesla boss alleges that the lab was supposed to be working solely for the “benefit of humanity” instead of profit."
-    publishedDateTime: 2024-03-01T17:04:00Z
-    webUrl: "https://www.thedailybeast.com/elon-musk-sues-openai-and-sam-altman-for-perverting-nonprofit-ai-mission"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 35
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2718,w_4832,x_0,y_44/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709300246/2020-12-01T000000Z_1499439236_RC2IEK9HXXMC_RTRMADP_3_TESLA-MUSK-GERMANY_kj6zdo"
-        width: 1480
-        height: 833
         isCached: true
 
 secured: "1ZJmx6Ua6KM9j4mwTWxK2jfpyAHI0JfPlgVklO29gD2ppLGrviCWLhEW+oxIIjD+1zA5mDXszaMLJ59UsdhElLKwc3tUV3ENvssULXtoWjdUJK7nTc1mUQGwh/183wJQfmCrks2q6AiMshsJBIHrh2pYVAKdHvn2/ricVbm5fjOMdg/2JvZKcv+jzq+yV1bwMbT7Fs8wg7h9nFLNcqnAg+kGOlmf3tg3qHncpBN6fTDQBlG2d0mGQVW7Dz20ych59HjX4jzK7DQY3GfPYeF05r0rCmqQnDsW+KATdpUK/AwUy45Okki9OBFLLDJxcCGBsomaDSpo6VdZsFoDc7BmUESpViWppfttrHex3epseD7nLv4FpinwmCee2EMn/A8reS7ZgAtqKXPd2ElkH/NyAUw+YZnaYld2zF/Lo33QPDxipD15UPQMg4FGISNuK+tCIGLxvRb4nyJglAdJQtJRvVonMg6JZ8HroGDgiUDjM/NXLOpxlCBFHxkTWVT/M/9wHOGFzdMkAWrppvcer/o+Fw==;i7ypg06Ua+5iGoxZ78ZZOg=="

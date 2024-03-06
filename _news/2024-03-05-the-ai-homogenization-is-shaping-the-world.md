@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogeni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
         width: 498
         height: 259
         isCached: true
-  - title: "Drive Social Media, leading marketing agency, shares how AI is driving innovation and growth"
-    excerpt: "There’s no escaping the artificial intelligence movement. Therefore, many companies are choosing to embrace it. There are certain benefits to using this new technology, including brand growth."
-    publishedDateTime: 2024-03-01T13:06:00Z
-    webUrl: "https://www.chicagotribune.com/2024/03/01/drive-social-media-leading-marketing-agency-shares-how-ai-is-driving-innovation-and-growth/"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 23
 
 secured: "AC1FRpmY/K8TWP8mxL3l72wW4x7FZscPxMFGkLjUTkkMTrihUpxgI4HPMXUZ1FOh30/DOpKJ2D5zohw3mOdFCmIX98HcxpRaOzL/aLTCjY9NMH3CERFqElqFkDve9uD720UHuXGrygSio+ZgRePUo1h2EmWKWReQfyFUf4a45vjvDEW681shC7h9aXxpdsMUkNNP6GXH6hPGvAJz+kzXnuWGrPhkYV7B5cxM3XScwxgJbgMak1F5jn738L87XFTI1jy4eRXQ7ZVCU7wJTQ/nDaekzdIBUR7YzFCAlBJMza4Lsca+2r0s/dz0W1mvwZlfEPypwSmNJG83TEU4ccK4GiLtriMUu0ObYf2bulKx4Sv48NBWkdoI1JqaFHO1biCw4sVX2i13BgLtcf9w71Yz7ULrIsph7d/lFc54U/hrBbUFsX9pWJHvoGmHujazpej+CYpBHEy3JsBpp0tASMGidl72shbs4MxWJB46BI3fUAO83y6es48gd1JeMYQeu2/ky9vkuoN9YtCf75y9hKglAw==;UCRzIPp3JOVsXFI2b+g5KA=="
 ---

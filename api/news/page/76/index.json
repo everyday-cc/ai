@@ -2,6 +2,578 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2024-01-06-2-artificial-intelligence-ai-stocks-down-58-and-69-to-buy-in-2024-and-hold-for-the-long-haul.md",
+      "title": "2 Artificial Intelligence (AI) Stocks Down 58% and 69% to Buy in 2024 and Hold for the Long Haul",
+      "excerpt": "With the artificial intelligence (AI) revolution just starting to unfold and expectations that the Federal Reserve might cut interest rates this year, investors who back the right beaten-down ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759259/a-person-looking-at-charts-on-a-computer.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-06T07:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-meet-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.md",
+      "title": "Meet the humanoid robot that learns from natural language and mimics human emotions",
+      "excerpt": "Tokyo Researchers have used GPT-4, a large language model, to control the movements and behaviors of Alter3, a humanoid robot.",
+      "sourceUrl": null,
+      "webUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
+      "originalUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cyberguy.com/wp-content/uploads/2024/01/Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CyberGuy",
+        "domain": "cyberguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival.md",
+      "title": "New Google Bard leak reveals a ton of new features headed for Google's ChatGPT rival",
+      "excerpt": "Google has some big plans for its Google Bard AI assistant, but while the company is staying tight-lipped on an official launch date for now, a new leak may have blown the lid on a few of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival",
+      "originalUrl": "https://www.tomsguide.com/news/new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg",
+          "width": 1116,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-schwarzenegger-for-president-arnold-should-run-and-not-just-because-hed-beat-trump.md",
+      "title": "Schwarzenegger for president? Arnold should run – and not just because he'd beat Trump.",
+      "excerpt": "You also may not realize that, in real life, the door just opened for you to be pulled back into the FUBAR (“F’ed Up Beyond All Recognition”) of our national ... this makes clear that you can run. Who could object without looking like a hypocrite?",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "originalUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-6-features-that-could-come-to-google-bard-in-2024.md",
+      "title": "6 Features That Could Come To Google Bard in 2024",
+      "excerpt": "After a slow start, Google Bard is catching up to its AI competitors such as OpenAI’s Chat GPT and 2024 will see the addition of a host of new features to the search giant’s AI product, although it’s not certain which of these features will make it out of development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "originalUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.talkandroid.com/wp-content/uploads/2024/01/Google-Bard.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "talkandroid.com",
+        "domain": "talkandroid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-google-is-reportedly-working-on-an-advanced-version-of-its-bard-chatbot.md",
+      "title": "Google Is Reportedly Working on an Advanced Version of Its Bard Chatbot",
+      "excerpt": "Google is seemingly working on developing a more advanced version of its Bard chatbot. Launched in May 2023, Google’s conversational AI bot was designed to be a competitor to ChatGPT but fell flat with many users compared to OpenAI ’s model.",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2024/1/google-bard-advanced-ai-chatbot-development",
+      "originalUrl": "https://hypebeast.com/2024/1/google-bard-advanced-ai-chatbot-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F01%2Fgoogle-bard-ai-chatbot-advanced-development-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T22:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-report-google-developing-new-version-of-bard-based-on-its-flagship-gemini-ultra-llm.md",
+      "title": "Report: Google developing new version of Bard based on its flagship Gemini Ultra LLM",
+      "excerpt": "Google LLC is believed to be building a new version of its Bard chatbot that runs on Gemini Ultra, the most advanced large language model the company has created to date.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/05/report-google-developing-new-version-bard-based-flagship-gemini-ultra-llm/",
+      "originalUrl": "https://siliconangle.com/2024/01/05/report-google-developing-new-version-bard-based-flagship-gemini-ultra-llm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/google-bard-extensions.png",
+          "width": 1082,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-artificial-intelligence-stirs-privacy-challenges-for-schools.md",
+      "title": "Artificial intelligence stirs privacy challenges for schools",
+      "excerpt": "A commercial boom around using artificial intelligence in the classroom is creating a slew of privacy and safety hazards well before Washington grapples with the fast-moving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2023/12/29/artificial-intelligence-privacy-schools-00132790",
+      "originalUrl": "https://www.politico.com/news/2023/12/29/artificial-intelligence-privacy-schools-00132790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b5/a8/4192f6464d27b43e6e417d527f42/back-to-school-student-mental-health-96428.jpg",
+          "width": 4426,
+          "height": 2951,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T21:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-police-secretly-conducting-facial-recognition-searches-of-passport-database.md",
+      "title": "Police secretly conducting facial recognition searches of passport database",
+      "excerpt": "Chris Philp, the policing minister, raised the prospect last year of officers accessing the database of passport holders so they could use facial recognition ... Mr Philp’s speech on the plans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/news/2024/01/05/police-facial-recognition-searches-passport-database-mps/",
+      "originalUrl": "https://www.telegraph.co.uk/news/2024/01/05/police-facial-recognition-searches-passport-database-mps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2024/01/05/TELEMMGLPICT000361651281_17044794559900_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
+      "title": "How AI emerges as revolutionary force?",
+      "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "originalUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.samaa.tv/images/ai-file.jpg",
+          "width": 850,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T18:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Samaa",
+        "domain": "samaa.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-fintech-kaspikz-is-set-to-be-first-kazakh-company-to-list-in-the-us.md",
+      "title": "Fintech Kaspi.kz is set to be first Kazakh company to list in the U.S.",
+      "excerpt": "Fintech Kaspi.kz is poised to become the first ... hits record intraday low and another record-low close The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia PayPal’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "originalUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-77047086/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "publishedDateTime": "2024-01-05T17:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
+      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
+      "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-ibm-a-hidden-ai-play-but-upside-is-capped-jefferies.md",
+      "title": "IBM a 'hidden AI play' but upside is capped - Jefferies",
+      "excerpt": "Despite the positives, Jefferies notes that the company is growing revenue below its software peers while operating at lower margins. \"While the stock can grind higher, we think upside is capped in the absence of a meaningful acceleration in software,\" analysts wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
+      "originalUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T16:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
       "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
       "excerpt": "and TAIPEI, Jan. 5, 2024 /PRNewswire/ -- Known as a leader in 3D sensing and computer vision semiconductors under Etron Technology, eYs3D Microelectronics Corp. is announcing ahead of CES 2024 ...",
@@ -506,575 +1078,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization.md",
-      "title": "Virtusa Announces Strategic Collaboration with AWS to Accelerate Cloud Data Migration and IT Modernization",
-      "excerpt": "Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT)",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "originalUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2024/01/Virtusa-298x300.jpg",
-          "width": 298,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T16:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-mammotion-introduces-yuka-3d-vision-robotic-mower-with-self-emptying-sweeper-and-lawn-imagery-printing.md",
-      "title": "MAMMOTION Introduces YUKA, 3D Vision Robotic Mower with Self-Emptying Sweeper and Lawn Imagery Printing",
-      "excerpt": "SHENZHEN, China, Jan. 4, 2024 /PRNewswire/ -- MAMMOTION, a leader in robotic outdoor solutions, today unveiled the YUKA - 3D vision robotic lawn mower with a self-emptying sweeper and lawn imagery printing, marking a new era of intelligent, perfect, and artistic lawn care to your fingertips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mammotion-introduces-yuka-3d-vision-robotic-mower-with-/2024/01/04/9940324.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mammotion-introduces-yuka-3d-vision-robotic-mower-with-/2024/01/04/9940324.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2311099/YUKA_robot_lawn_sweeping_mower.jpg",
-          "width": 400,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T12:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-human-brain-is-superior-and-more-efficient-than-artificial-intelligence-scientists-say.md",
-      "title": "Human brain is superior and more efficient than artificial intelligence, scientists say",
-      "excerpt": "Most modern AI consist of artificial neural networks, which are layers of 'nodes' or neurons similar to what you might find in the brain. When an AI makes a mistake it adjusts the connections ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2024/01/04/11/79609597-0-image-a-28_1704366728030.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
-      "publishedDateTime": "2024-01-04T11:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-meet-the-humanoid-robot-that-learns-from-natural-language-mimics-human-emotions.md",
-      "title": "Meet the humanoid robot that learns from natural language, mimics human emotions",
-      "excerpt": "Alter3 is an example of how natural language processing and robotics can work together to create pretty incredible interactions. By using GPT-4, the robot can perform a variety of tasks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
-      "originalUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/1-Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions-giving-instructions.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-what-microsofts-custom-silicon-means-for-azure.md",
-      "title": "What Microsoft’s custom silicon means for Azure",
-      "excerpt": "Microsoft is laying the groundwork for a hardware-accelerated Azure cloud with its own custom AI silicon, Arm server processors, virtualization offload, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711901/what-microsofts-custom-silicon-means-for-azure.amp.html",
-      "publishedDateTime": "2024-01-04T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m.md",
-      "title": "Tuam firm developing driverless car tech sees profits accelerate to €46.2m",
-      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.ie/business/technology/tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m/a356442349.html",
-      "originalUrl": "https://www.independent.ie/business/technology/tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m/a356442349.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://focus.independent.ie/thumbor/I72utv8ZttUgDdxrqT2IVIsGjC8=/0x0:2362x1575/2362x1575/prod-mh-ireland/99db576d-c94a-484f-a880-c57ea5806f7d/a5a1be17-d2c5-454f-93c6-4e2aa96579a8/99db576d-c94a-484f-a880-c57ea5806f7d.jpg",
-          "width": 2362,
-          "height": 1575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T01:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent.ie",
-        "domain": "independent.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-crawford-technologies-launches-ai-driven-language-translation-solution.md",
-      "title": "Crawford Technologies launches AI-driven Language Translation Solution",
-      "excerpt": "Crawford Technologies, a leading provider of innovative document solutions that streamline, improve and manage customer communications, announced the",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/press-release/crawford-technologies-launches-ai-driven-language-translation-solution/",
-      "originalUrl": "https://www.cuinsight.com/press-release/crawford-technologies-launches-ai-driven-language-translation-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T19:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CUInsight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-how-to-build-a-chatbot-with-the-llama-2-model.md",
-      "title": "How to build a chatbot with the Llama 2 model",
-      "excerpt": "Open-source large language models like Llama 2 can be used by anyone with basic coding knowledge to build on or modify or just use a copy of the model. Building a chatbot using such a model is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/s8vxk0/article67701321.ece/alternates/FREE_1200/2023-12-14T140124Z_457661628_RC2CX1AR8QDS_RTRMADP_3_HEALTH-AI-WHITE-HOUSE.JPG",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece/amp/",
-      "publishedDateTime": "2024-01-03T19:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-profits-up-at-tuam-firm-developing-driverless-technology.md",
-      "title": "Profits up at Tuam firm developing driverless technology",
-      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
-      "originalUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/00042444-1600.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024.md",
-      "title": "Shift Robotics to Unveil Moonwalkers X at CES 2024",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / January 3, 2024 / Significantly lighter, quicker, and smarter than the original Moonwalkers model introduced in the spring of 2023, Moonwalkers X have six wheels instead o",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-lexisnexis-av-going-mainstream-still-on-distant-horizon.md",
-      "title": "LexisNexis: AV going mainstream still on ‘distant horizon’",
-      "excerpt": "UK Transport Minister Mark Harper has said self-driving cars could be on some British roadways by 2026, but a recent report from LexisNexis lays out why mainstream adoption of autonomous vehicles",
-      "sourceUrl": null,
-      "webUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
-      "originalUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2023/12/iStock-1322056314.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Repairer Driven News",
-        "domain": "repairerdrivennews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-the-7-best-artificial-intelligence-ai-stocks-to-buy-for-2024-and-beyond.md",
-      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy for 2024 and Beyond",
-      "excerpt": "Top artificial intelligence (AI) stocks have delivered ... Alphabet has many avenues to win in AI. Through its Waymo subsidiary, Alphabet is also a leader in autonomous vehicle technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759262/gettyimages-1473086836.jpg",
-          "width": 8000,
-          "height": 4570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T08:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-unmasking-the-secrets-of-artificial-intelligence-in-drug-discovery.md",
-      "title": "Unmasking The Secrets Of Artificial Intelligence In Drug Discovery",
-      "excerpt": "Discover how these AI models may rely more on memorization than true understanding, reshaping the future of AI in life sciences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/unmasking-the-secrets-of-artificial-intelligence-in-drug-discovery",
-      "originalUrl": "https://www.electronicsforu.com/news/unmasking-the-secrets-of-artificial-intelligence-in-drug-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2024/01/1.png",
-          "width": 766,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T05:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

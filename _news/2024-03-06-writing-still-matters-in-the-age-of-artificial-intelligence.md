@@ -25,208 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise Of AI Tutors"
-    excerpt: "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning."
-    publishedDateTime: 2024-03-01T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/"
+  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
+    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
+    publishedDateTime: 2024-03-05T08:58:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 397
         isCached: true
-  - title: "Airship AI’s stock rockets upon DOJ contract, as shares of other AI plays slip"
-    excerpt: "The technology sector is moving lower Tuesday — but one small name stands out in a big way in a sea of mostly red."
-    publishedDateTime: 2024-03-05T17:23:00Z
-    webUrl: "https://www.marketwatch.com/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://images.mktw.net/im-496944/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Dark Side of Open Source AI Image Generators"
-    excerpt: "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn."
-    publishedDateTime: 2024-03-06T12:00:00Z
-    webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg"
-        width: 1280
-        height: 671
-        isCached: true
-  - title: "The Future Of AI Skill And Talent Development In The Workforce"
-    excerpt: "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?"
-    publishedDateTime: 2024-03-05T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1271
-        height: 847
-        isCached: true
-  - title: "The Impact of Artificial Intelligence on Our Encounters"
-    excerpt: "According to a recent review of the literature, “In healthcare, social robots … can positively interact with the disabled, children, and the elderly, reducing the workload of nurses, physicians, and caregivers. Because of their artificial intelligence ..."
-    publishedDateTime: 2024-03-05T16:22:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 63
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "As AI agents spread, so do the risks, scholars say"
-    excerpt: "Also: The safety of OpenAI's GPT-4 gets lost in translation Once the mechanics ... Also: What to know about Mistral AI: The company behind the latest GPT-4 rival \"These MLLM [multi-modal large language model] agents are being integrated into robots or ..."
-    publishedDateTime: 2024-03-04T19:03:00Z
-    webUrl: "https://www.zdnet.com/article/as-ai-agents-spread-so-do-the-risks-scholars-say/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
-    excerpt: "Making instant videos is the next wave of generative artificial intelligence, much like chatbots and image-generators before it"
-    publishedDateTime: 2024-03-04T15:18:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-video-generators-dream-san-pedro-madonna-early-107773515"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-video-generators-dream-san-pedro-madonna-early-107773515"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-video-generators-dream-san-pedro-madonna-early-107773515"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_4e21021b9db8a45a9897d9285f394687_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Get Ready for OpenAI Sora! 3 AI Stocks to Play the Rise of Text-to-Video"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips OpenAI’s recent unveiling of its text-to-video generative artificial"
-    publishedDateTime: 2024-03-05T02:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/get-ready-for-openai-sora-3-ai-stocks-to-play-the-rise-of-text-to-video-1033130594"
+  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
+    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
+    publishedDateTime: 2024-03-04T10:58:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 48
-  - title: "Dell says on-prem is the future of AI"
-    excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
-    publishedDateTime: 2024-03-01T21:24:00Z
-    webUrl: "https://www.ciodive.com/news/dell-ai-pc-servers-on-prem-refresh-cycle/709100/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
+    quality: 58
     images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
-  - title: "The Staggering Environmental Toll of Artificial Intelligence"
-    excerpt: "Between its water use, energy use, e-waste, and need for critical minerals that could better be used on renewable energy, A.I. is a really dumb way to trash our chances of a sustainable future."
-    publishedDateTime: 2024-03-05T11:00:00Z
-    webUrl: "https://newrepublic.com/article/179538/environment-artificial-intelligence-water-energy"
-    type: article
-    provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 39
-    images:
-      - url: "https://images.newrepublic.com/7b6448e77f2aeb2303171a21632b6ca31920f03f.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Media and Artificial Intelligence"
-    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
-    publishedDateTime: 2024-03-02T21:00:00Z
-    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
+  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
+    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
+    publishedDateTime: 2024-03-05T19:08:00Z
+    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
     type: article
     provider:
-      name: standardmedia.co.ke
-      domain: standardmedia.co.ke
-    quality: 37
-    images:
-      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "The President’s Inbox Recap: Governance of Artificial Intelligence"
-    excerpt: "Lindsay to discuss the capacity of the U.S. government to lead in creating a framework for regulating artificial intelligence (AI). 1.) How governments will regulate AI matters. AI is a potentially transformative technology. It is also a tool that can ..."
-    publishedDateTime: 2024-03-04T17:46:00Z
-    webUrl: "https://www.cfr.org/blog/presidents-inbox-recap-governance-artificial-intelligence"
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
+    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
+    publishedDateTime: 2024-03-05T19:29:00Z
+    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
     type: article
     provider:
-      name: Cfr.org
-      domain: cfr.org
-    quality: 37
-    images:
-      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2024/03/Biden%20AI%20Photo%20.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Nvidia: The mother of all artificial intelligence"
-    excerpt: "These chips enable artificial intelligence (AI) applications as well as machine learning capabilities, which is today’s buzzword in the technology industry. But it is not that NVDA was born yesterday that it has now reached the pinnacle of success but ..."
-    publishedDateTime: 2024-03-01T20:47:00Z
-    webUrl: "https://www.thestar.com.my/business/insight/2024/03/02/nvidia-the-mother-of-all-artificial-intelligence"
+      name: Geelong Advertiser
+      domain: geelongadvertiser.com.au
+    quality: 10
+  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
+    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
+    publishedDateTime: 2024-03-02T19:16:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 19
-  - title: "Electoral Battles In The Age Of Artificial Intelligence"
-    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
-    publishedDateTime: 2024-03-04T20:44:00Z
-    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
-  - title: "Franke: The Dawn of Artificial Intelligence"
-    excerpt: "It seems one can’t pick up a newspaper or journal without seeing a major piece on artificial intelligence. Until perhaps a year or so ago, I hadn’t even heard the term except in science fiction and now it gets more Google hits than Taylor Swift’s ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.greenfieldreporter.com/2024/03/05/franke-the-dawn-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Daily Reporter
-      domain: greenfieldreporter.com
-    quality: 17
-  - title: "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave"
-    excerpt: "That's not stopping some well-heeled tech companies from trying to keep outdoing each other in showing off higher-quality AI video generation at longer durations. Requiring written descriptions to make an image was just the start. Google recently ..."
-    publishedDateTime: 2024-03-04T19:36:00Z
-    webUrl: "https://www.wftv.com/entertainment/do-ai-video/BQZDMKF65VOHIKJBDR6SWAR7AU/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 8
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 6
 
 secured: "p3GSAiWPJkDIn3tp35R78YbYGsUFniq9GZXlh0Te4c//37Ew2x2Vr5OhYE72GVYqUhYKo+rQrpz/FjuLvg06FwR3eB7UUpqiyFPX13iLW91BHaiNrrMSjmiQ+F5mBg8gZufJjSyQVmyyS1DJVjf62VFKJAVH82Er1tjqPoRe0svcwjL63Qqna94CRlYal8sZh+7VeICIfpXTPs+WjfN53bAQcDzh2TScXioLyRKO9RdQl1GgiKpUBNteSdeRXa0LsGydXLPHap/FaA+8abB6U/8FfmSAyxawBk0rSe0QmIFgDZ3P0jHwCjmdRS5ngWZtFxrcKm+ABfTaRDEC1OJByjsRba0wvfWiR+Cx94IFAJvRaVZ7rwVUjsaaHoh+GgUKFsr4Z3cGpWGEqaRhr401NpVP0ss/1dDwKgteFWBxDCvspuBR3HBR+cY6UfXA5naHCnA9g4Nr6Yrd5G6nlAe2XTVWYr8aZyTp//qIL53bzKKDXU2hFWCOXU4H+nkAn9b5PrKxHte/2vUXH19qVJ1z+Q==;fUmLhjYXoUfUiqEJrMUfaQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business
 webUrl: "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm/"
 type: article
 quality: 99
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -38,6 +38,24 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant"
+    excerpt: "Plus, at the Trailblazer TDX 2024 conference, Salesforce introduced the Slack Developer Program and showed research into AI adoption and IT."
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-trailblazer-tbx-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 42
+  - title: "Salesforce aims to blaze new generative AI trail for developers with Einstein 1 Studio"
+    excerpt: "Einstein 1 Studio provides a set of tools that can enable developers to customize the Salesforce Einstein Copilot gen AI assistant."
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-aims-to-blaze-new-generative-ai-trail-for-developers-with-einstein-1-studio/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
 
 secured: "YjBtpVmtkHc1eztM/uhNhTmIb0bFC7IloZGUS5mdWI6GnVOjgJqIUPpZcu/LzEGmodNVgSlfePcLF5N92iUNnnDW88ihuPxt2K1Qk1dtp4maCLjwX9QS+YyaoWw2xilaU0wyx7cFj+3r7WOmu9nAKm73GZX1doKxVrLTPults26DCz9LBCh0ps8YjXQc3eAgeTBuhpiBv4rHj5ZgI12lADn+0fvGO7dLTp0hdtOlOyILKmK7Hv0yBLoA20OgYTFTBYBc83NAuqlCTfgFpjvBQvd4Gmc3F7IPLimbGg821BP/IxEqWvXsk3YUudAHhsvocP+tb5k3OJ9MX7ONb1IRtUQ2B7Z/gZj8GUmtDN1WLDkYcOMFp+/Np9H8RQcfzSfM57pFffPtXkSTFupflJ1XF928QW4quHG2g48oqdm62ovxTxMMlz7GnbMcVB8ki8RaXaKstvBfnSRp8qWX53afPGWi+VjDbtKlNvABsb0p5FEdW8+paKtDGUvWRgxH2fHAdsua6YibmaaQjg857UX+gA==;MT8oAfyWJthz2T5AmnbKUg=="
 ---

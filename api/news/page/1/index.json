@@ -2,6 +2,430 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing.md",
+      "title": "US officials face tough choices for subsidising AI chip manufacturing",
+      "excerpt": "Betting on AI chips is also challenging in the rapidly evolving industry. Handing out subsidies today to the likes of Intel, TSMC, or Samsung Electronics, which is also vying for federal dollars and is the only other firm in the world that can make advanced chips,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/02/artificial-intelligence.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp",
+      "publishedDateTime": "2024-03-06T17:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure.md",
+      "title": "6 ways generative AI helps improve accessibility for all with Azure ",
+      "excerpt": "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR05_322044_Blog_Blogheader_240305_V02-social.png",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-learn-about-generative-ais-impact-on-robotics-at-the-robotics-summit-expo.md",
+      "title": "Learn about generative AI’s impact on robotics at the Robotics Summit & Expo",
+      "excerpt": "Researchers are already using generative AI to make robots faster learners, and a summit panel will discuss how it can be applied at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
+      "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/generative-AI-panel-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-a-microsoft-employee-warns-that-the-companys-ai-tool-can-generate-offensive-images.md",
+      "title": "A Microsoft employee warns that the company’s AI tool can generate ‘offensive images’",
+      "excerpt": "A Microsoft software engineer on Wednesday warned of shortcomings in the company’s artificial intelligence systems that could lead to the creation of harmful images in a letter sent to the US Federal Trade Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "originalUrl": "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "publishedDateTime": "2024-03-06T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker.md",
+      "title": "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how to efficiently fine-tune a state-of-the-art protein language model (pLM) to predict protein subcellular localization using Amazon SageMaker. Proteins are the molecular machines of the body, responsible for everything from moving your muscles to responding to infections.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/28/ML-15387-fine-tune-esm.png",
+          "width": 750,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:28:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-digital-bank-monzo-raises-340m-amid-uk-push-to-remain-fintech-leader.md",
+      "title": "Digital bank Monzo raises £340M amid UK push to remain fintech leader",
+      "excerpt": "Amid a tough funding environment, UK digital bank Monzo has raised £340mn to accelerate product development and market expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
+      "originalUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-39.jpg&signature=3ecc10adb6813a3ffbf59e293045c26c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-ai-predicts-immunotherapy-risks-for-cancer-patients.md",
+      "title": "AI Predicts Immunotherapy Risks for Cancer Patients",
+      "excerpt": "Globally by 2050, the number of cancer cases globally is projected to increase by 77% to more than 35 million compared to 20 million in 2022 according to 2024 estimates by the Wor",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-03/pic15616.jpg?itok=-TlLNcIr",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
+      "publishedDateTime": "2024-03-06T15:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips.md",
+      "title": "AI startup Taalas comes out of stealth, raises $50m for LLM chips",
+      "excerpt": "AI chip startup Taalas has emerged from stealth to announce that it has raised $50 million over two funding rounds. The two rounds were led by Pierre Lamond and Quiet Capita, with the company planning to use the funds to expand its operations and development efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips/?ref=biztoc.com",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips/?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Taalas.2e16d0ba.fill-1200x630.jpg",
+          "width": 633,
+          "height": 332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T13:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-the-dark-side-of-open-source-ai-image-generators.md",
+      "title": "The Dark Side of Open Source AI Image Generators",
+      "excerpt": "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg",
+          "width": 1280,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-interconnected-data-the-missing-link-to-make-ai-useful.md",
       "title": "Interconnected Data: The Missing Link To Make AI Useful",
       "excerpt": "Until data on the internet, intranets and even offline can be interconnected by use case, even the smartest AI model won’t be able to go deep. Such interconnection should happen with up-to-date, legally compliant, secure data for the model not to spit out some variant of attractive garbage.",
@@ -10,7 +434,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/interconnected-data-the-missing-link-to-make-ai-useful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -105,49 +529,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-06-focus-us-officials-face-tough-choices-for-subsidizing-ai-chip-manufacturing.md",
-      "title": "Focus: US officials face tough choices for subsidizing AI chip manufacturing",
-      "excerpt": "U.S. officials have earmarked close to $30 billion in subsidies for advanced semiconductor manufacturing, aiming to bring cutting-edge artificial-intelligence chip development and manufacturing to American soil.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-officials-face-tough-choices-subsidizing-ai-chip-manufacturing-2024-03-06/",
-      "originalUrl": "https://www.reuters.com/world/us/us-officials-face-tough-choices-subsidizing-ai-chip-manufacturing-2024-03-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T11:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-06-designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice.md",
       "title": "Designing Equitable Ocean Technology: Generative AI and Ocean Technologies Meet Environmental Justice",
       "excerpt": "In Designing Equitable Ocean Technology, we need to emphasize each country’s own technical capacity development. This is especially true today for marine artificial intelligence research like what Matt is doing.",
@@ -156,7 +537,7 @@
       "originalUrl": "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -251,57 +632,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-06-accenture-partners-with-cohere-to-bring-generative-ai-to-enterprises.md",
-      "title": "Accenture partners with Cohere to bring generative AI to enterprises",
-      "excerpt": "The collaboration between Accenture and Cohere, announced today, aims to provide enterprise clients with tailored generative AI solutions that can significantly boost productivity and efficiency across industries.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/accenture-partners-with-cohere-to-bring-generative-ai-to-enterprises/",
-      "originalUrl": "https://venturebeat.com/ai/accenture-partners-with-cohere-to-bring-generative-ai-to-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/AccentureCohere-1-.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T06:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
       "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
       "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
@@ -310,7 +640,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -362,7 +692,7 @@
       "originalUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -403,6 +733,50 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-the-race-for-powerful-computer-chips-and-ai-will-change-the-face-of-global-politics-and-security.md",
+      "title": "The race for powerful computer chips and AI will change the face of global politics and security",
+      "excerpt": "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
+      "originalUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2024/03/AdobeStock_189358603.jpg?resize=1200,630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T00:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -457,29 +831,38 @@
       ]
     },
     {
-      "path": "_news/2024-03-06-5-stocks-surging-on-ai-mania.md",
-      "title": "5 Stocks Surging on AI Mania",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In March 2000, networking giant Cisco Systems (NASDAQ:CSCO) became the most",
+      "path": "_news/2024-03-06-airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip.md",
+      "title": "Airship AI’s stock rockets upon DOJ contract, as shares of other AI plays slip",
+      "excerpt": "The technology sector is moving lower Tuesday — but one small name stands out in a big way in a sea of mostly red.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-stocks-surging-on-ai-mania-1033134591",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-stocks-surging-on-ai-mania-1033134591",
+      "webUrl": "https://www.marketwatch.com/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
+      "originalUrl": "https://www.marketwatch.com/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 123,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-496944/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T20:14:00Z",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
+      "publishedDateTime": "2024-03-05T17:23:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -495,9 +878,59 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai.md",
+      "title": "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI",
+      "excerpt": "This month, like every month, I’m sharing a few of the latest updates and resources to help reinforce how Azure can fuel your innovation through data, AI, and digital application solutions.\nThe post What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI appeared first",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Azure-3D-Illustration-1-Blue.png",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
-        "Meta AI"
+        "Microsoft AI"
       ]
     },
     {
@@ -542,6 +975,58 @@
         "Meta AI",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy.md",
+      "title": "Tackle large volumes of data with new solution from SLB for Azure Data Manager for Energy",
+      "excerpt": "The Microsoft partner ecosystem is a key component in how Microsoft delivers technology, services, and cloud-to-edge solutions for our customers. SLB—one of Microsoft’s strategic partners in the energy sector—designed the Enterprise Data Solution to work seamlessly with Azure Data Manager for Energy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
+      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/Getty_1260_Energy.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -604,7 +1089,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -648,50 +1133,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-05-the-future-of-ai-and-ml-in-cybersecurity.md",
-      "title": "The Future Of AI And ML In Cybersecurity",
-      "excerpt": "The buzz around ChatGPT’s rise is actually about the potential that the architecture of Open AI promises. This is the combination of two tried and true machine learning approaches: large language models ... is to train by translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2024-03-05-ai-focused-blockchain-startup-io-research-raises-30-mln-in-series-a-funding-round.md",
       "title": "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round",
       "excerpt": "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ...",
@@ -700,7 +1141,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -792,448 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-cloudflare-is-building-a-firewall-for-ai-plans-to-fight-ai-with-ai.md",
-      "title": "Cloudflare Is Building a Firewall for AI, Plans to 'Fight AI With AI'",
-      "excerpt": "Research suggests new AI security threats are on the horizon. Cloudflare is developing an AI Firewall and is using its own AI tools to defend against AI-powered cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/cloudflare-building-firewall-for-ai",
-      "originalUrl": "https://www.pcmag.com/news/cloudflare-building-firewall-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06GZj8oF4G7wzml8NI8cBe1-1.fit_lim.size_1200x630.v1709646425.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T13:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
-      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
-      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "publishedDateTime": "2024-03-05T13:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando",
-        "domain": "orlandomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision.md",
-      "title": "CrowdStrike and Dell unleash an AI-powered, unified security vision",
-      "excerpt": "By adding CrowdStrike's Falcon XDR platform to its current Managed Detection and Response (MDR) service, Dell provides its global base of resellers with AI-based technologies their customers need to battle back against attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
-      "originalUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/hero-16-9-crowdstrike-dell-partnership-.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-aided-by-the-democratization-of-generative-ai-the-robotics-ai-chipset-market-is-expected-to-reach-us866m-globally-by-2028-finds-omdia.md",
-      "title": "Aided by the democratization of generative AI, the robotics AI chipset market is expected to reach US$866m globally by 2028 finds Omdia",
-      "excerpt": "Since the democratization of machine learning (ML) in robotics, ML-powered workloads have become highly diverse. As generative AI (GenAI) technology continues to proliferate, foundation models are poised to replace or augment existing ML and deep learning models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aap.com.au/aapreleases/cision20240305ae48087/",
-      "originalUrl": "https://www.aap.com.au/aapreleases/cision20240305ae48087/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/photos300x250.3ecdeb91.gif",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T12:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Associated Press",
-        "domain": "aap.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-the-ai-main-event-redefining-b2b-business-models.md",
-      "title": "The AI Main Event: Redefining B2B Business Models",
-      "excerpt": "In the rapidly evolving tech landscape, what once gave companies a competitive edge can quickly become their Achilles' heel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5e6e1fff396a96ef086a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1175,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/amp/",
-      "publishedDateTime": "2024-03-05T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-microsofts-new-orca-math-ai-outperforms-models-10x-larger.md",
-      "title": "Microsoft’s new Orca-Math AI outperforms models 10x larger",
-      "excerpt": "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all",
-          "width": 749,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-nobody-knows-how-ai-works.md",
-      "title": "Nobody knows how AI works",
-      "excerpt": "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
-      "originalUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
-      "publishedDateTime": "2024-03-05T10:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-avoiding-the-swinging-pendulum-in-the-great-ai-debate.md",
-      "title": "Avoiding The Swinging Pendulum In The Great AI Debate",
-      "excerpt": "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "publishedDateTime": "2024-03-05T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-tsmc-samsung-lead-recovery-in-asias-emerging-markets-with-ai-and-chip-sector-growth.md",
-      "title": "TSMC, Samsung Lead Recovery In Asia's Emerging Markets With AI And Chip Sector Growth",
-      "excerpt": "Following deep losses in 2022, many emerging market assets were at bargain valuations and the recovery began in late 2022, driven by tech stocks such as Taiwan Semiconductor Manufacturing Co (NYSE:TSM) and Samsung Electronics Co (OTC:SSNLF). Emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/tsmc-samsung-lead-recovery-in-asia-s-emerging-markets-with-ai-and-chip-sector-growth-1033132754",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/tsmc-samsung-lead-recovery-in-asia-s-emerging-markets-with-ai-and-chip-sector-growth-1033132754",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Market-Behavior-Graph-Hologram--Sunset-P.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T08:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

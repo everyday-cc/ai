@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committ
 webUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 54
+  - title: "Here’s How to Use Mistral AI Right Now"
+    excerpt: "Even Microsoft (an existing investor in Open AI) is backing this AI startup by pouring $16 million into it. If you’re an AI enthusiast like me and have already used text models like ChatGPT, you’d definitely be looking to test Mistral AI. In this guide ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.gizmochina.com/how-to/how-to-use-mistral-ai/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 47
 
 secured: "MPnOSh/RqAxrcCYAxRg5hgWL+QAQcOVQ3rwJ3t0TIHC5+a0VxglCl/aWMlJR34vIFRk5248P0pl3XhDEpc2NoMUhSG+5osd2vkMRPD5MAEwIfThrAcH8DvRQZop1vVuaaU0vaeo05UHuj394HKwKiK/rT2AEdqczuz5x7bwgF5bMptoxHenWBKyc/LSzwKQsN8+oYLsBpwetGLM1fcY6+2h8vutflj8kbFZirPAxgC8+K/pRk0mjAfV48MOH7UCXiLnaTlHDLZlYlolXYV7Tn6kqzg4dze7WI3U64pfuKWpgz/0yPm+Surpk9rZa88fdaB+or6qGmpVcvzZ44fHMNmp8IMCH4OSn/VsE/ReBvB0=;C/2aTW/LjrZxq/gfbtCLkQ=="
 ---

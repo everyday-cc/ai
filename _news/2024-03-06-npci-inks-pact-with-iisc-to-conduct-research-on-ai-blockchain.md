@@ -102,6 +102,17 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "NPCI ties up with IISc for joint research on blockchain and AI technology"
+    excerpt: "National Payments Corporation of India (NPCI) has announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru, for conducting joint research on Blockchain and Artificial Intelligence (AI) technology."
+    publishedDateTime: 2024-03-06T16:26:00Z
+    webUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece"
+    ampWebUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 38
   - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
     excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
     publishedDateTime: 2024-03-05T08:00:00Z

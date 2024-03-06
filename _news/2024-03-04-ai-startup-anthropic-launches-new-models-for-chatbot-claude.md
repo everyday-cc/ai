@@ -142,15 +142,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "New Malware Worm Can Poison ChatGPT, Gemini-Powered Assistants"
-    excerpt: "Generative AI models aren't immune to viruses. A new worm can target AI-powered assistants and break some of Gemini and ChatGPT's security features, research reveals."
-    publishedDateTime: 2024-03-01T13:54:00Z
-    webUrl: "https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
   - title: "Anthropic Unveils Claude 3: The 'Rolls-Royce of AI Models' Outshining GPT-4 and Gemini 1.0 Ultra"
     excerpt: "Anthropic, a leading AI startup, has unveiled its latest suite of models, Claude 3, a powerful tool in the ever-evolving technology landscape. The best model in the Claude 3 family, Claude 3 Opus, outperforms competitors like OpenAI's GPT-4 and Google's ..."
     publishedDateTime: 2024-03-04T10:03:00Z

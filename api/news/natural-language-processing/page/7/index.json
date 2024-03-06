@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-12-05-small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models.md",
-      "title": "Small But Mighty: Small Language Models Breakthroughs in the Era of Dominant Large Language Models",
-      "excerpt": "Explore the revolution of Small Language Models, efficient, cost-effective AI alternatives challenging dominant Large Language Models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "originalUrl": "https://www.unite.ai/small-but-mighty-small-language-models-breakthroughs-in-the-era-of-dominant-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/12/SLMs-1000x600.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-04-xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week.md",
       "title": "Xiao-I Showcases Hua Zang Universal Large Language Model and Its Cutting-Edge Applications at Abu Dhabi Finance Week",
       "excerpt": "Mr. Hui Yuan, Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, recently took the stage at the Abu Dhabi Finance Week (\"ADFW\") alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\").",
@@ -1280,6 +1237,58 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-ai-emotions-and-business-are-we-ready-for-a-new-communications-era.md",
+      "title": "AI, Emotions And Business: Are We Ready For A New Communications Era?",
+      "excerpt": "Together, AI and emotional intelligence are shaping a new era of business communications that will lead to more effective and emotionally charged interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
+      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

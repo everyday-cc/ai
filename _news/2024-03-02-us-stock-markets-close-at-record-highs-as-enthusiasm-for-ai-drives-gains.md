@@ -47,15 +47,15 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AMD’s stock continues its march higher as AI cheers build"
-    excerpt: "AMD projects it will generate upwards of $3.5 billion in revenue this year from data-center GPUs. Barclays is feeling even more upbeat."
-    publishedDateTime: 2024-03-04T19:43:00Z
-    webUrl: "https://www.marketwatch.com/story/amds-stock-continues-its-march-higher-as-ai-cheers-build-a4328779"
+  - title: "New Poll Shows Business Enthusiasm for AI Out-Paces Adoption Efforts"
+    excerpt: "A survey co-produced by MIT Technology Review Insights reveals reasons why general enthusiasm for AI in business is yielding limited introduction activity."
+    publishedDateTime: 2024-03-06T14:35:00Z
+    webUrl: "https://www.inc.com/bruce-crumley/new-poll-shows-business-enthusiasm-for-ai-out-paces-adoption-efforts.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "yfkNVI1RON0/oXBu0LvGL5nTRANepD5jrmJU3JWQdzEKJdRgiQDeTeDM5lYx/7uhSfcBiQdVGWlqZ2tdPz2r3qxXmvf6shCDX73GhXbMZILmJaFan0dwCmO3v+zH+QAp7LXHArFx8HOHb1lCuDTA3SbkGkQj+x4dj4uL64kbwQAgfI65gxDydqkuvNH96RoK+k8h8OvwKhFG45OGoGNmUMBvEtJ9y8wqxof6rLDavV8dgLQg38kbFGzPSbv/QvkLI7YlKnShLIlTree9RpqkfOhKfqmCblAmva+i0VqCu2wI0XnELIYgPz/e2ZxOE7PDj7O68ubNTSqw9qwwP35LhqKnxHiTCGtRFeb3ehnUfjJ41FrlaqkfKeZbUzYKXWBPHx5eMXTeRxI9dcAGqcArI8Y5KDZ8dKzKLhS0wy7zhbX/So52T6oU6XhOXr/dgD8zdvRr8tkRUIj7GaJqPKmLC9KycJPTotErEOPCOA+ig3J9mLRjm5IQLiQmdbBB0Ta6xN6njQ5luhGUmibnFJchsw==;fOA1VseEmOK4FP8k/fomBg=="
 ---

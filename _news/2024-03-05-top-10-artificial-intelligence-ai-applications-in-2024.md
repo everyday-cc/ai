@@ -22,59 +22,71 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Driving with Artificial Intelligence (AI) to Survive"
-    excerpt: "AI is set to penetrate into mobility with higher levels of autonomous driving technologies currently under development."
-    publishedDateTime: 2024-03-03T03:58:00Z
-    webUrl: "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/"
-    ampWebUrl: "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/"
+  - title: "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI"
+    excerpt: "This month, like every month, I’m sharing a few of the latest updates and resources to help reinforce how Azure can fuel your innovation through data, AI, and digital application solutions.\nThe post What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI appeared first"
+    publishedDateTime: 2024-03-05T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 72
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Wipro-AI.jpg"
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Azure-3D-Illustration-1-Blue.png"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
-    excerpt: "Artificial intelligence (AI) has emerged as the next big growth opportunity for investors. Bloomberg estimates that the generative AI market, which was worth $40 billion in 2022, could generate a whopping $1.3 trillion of annual revenue in 2032."
-    publishedDateTime: 2024-03-02T10:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
+  - title: "Cloudflare announces Firewall for AI to secure AI applications"
+    excerpt: "“With Cloudflare’s Firewall for AI, we are helping build security into the AI landscape from the start. We will provide one of the first-ever shields for AI models that will allow businesses to take advantage of the opportunity that the technology ..."
+    publishedDateTime: 2024-03-04T17:37:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/press-release/53098113/cloudflare-announces-firewall-for-ai-to-secure-ai-applications"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
-    excerpt: "Whether you're a casual investor or trade professionally, chances are you're aware of the boom in artificial intelligence (AI ... the world's largest cloud platform with Amazon Web Services (AWS), responsible for 31% of the cloud market."
-    publishedDateTime: 2024-03-02T01:38:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/2098997b81cb6f4b9d72eae24c27426e/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f56068daa55314cec205777cf5c338fb4.png%26amp%3Bw%3D700"
-        width: 720
-        height: 473
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/03/65e6033779a201001efcb16d-292256720e86fc17f2801f0e9bedebaa.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic"
-    excerpt: "Whether you're a casual investor or trade professionally, chances are you're aware of the boom in artificial intelligence (AI ... the world's largest cloud platform with Amazon Web Services (AWS), responsible for 31% of the cloud market."
-    publishedDateTime: 2024-03-03T08:18:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/24473340/2-artificial-intelligence-ai-stocks-that-could-go-parabolic/"
+  - title: "Conference on AI application in Qatar's supervision, financial sectors kicks off"
+    excerpt: "A conference on Artificial Intelligence (AI) applications in the supervision and ... its prospects, risks, standards, ethics, and how to benefit from it in supervision work. In his opening remarks, Assistant President for Performance and Compliance Control ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://www.gulf-times.com/article/678368/business/conference-on-ai-application-in-qatars-supervision-financial-sectors-kicks-off"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 34
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/2098997b81cb6f4b9d72eae24c27426e/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252f56068daa55314cec205777cf5c338fb4.png%26amp%3Bw%3D700"
-        width: 720
-        height: 473
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/03/04/thumbs/300x300/149093.jpg"
+        width: 300
+        height: 224
         isCached: true
+  - title: "Revolutionizing Industries: The Pervasive Impact of Artificial Intelligence Applications"
+    excerpt: "In our modern world, Artificial Intelligence(AI) has become more than just a figment of science fiction. In today's highly evolved technological landscape, AI is a revolutionary technology that has transformed every industry in ways we can only begin to imagine."
+    publishedDateTime: 2024-03-05T16:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274146956/revolutionizing-industries-the-pervasive-impact-of-artificial-intelligence-applications"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 32
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1709350515787.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Dataloop Marketplace aims to streamline AI application development"
+    excerpt: "Israeli artificial intelligence dataset startup Dataloop Ltd. today announced the launch of a marketplace designed to enhance AI development processes and slash time to market. The Dataloop Marketplace includes an extensive array of tools and resources ..."
+    publishedDateTime: 2024-03-05T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/03/05/dataloop-marketplace-aims-streamline-ai-application-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "cB8y+JxNd+Ye8rQIy6yCPwpwscw+MJjQy76SDn6MtH4tZ4wQrVz7Fge+MKAMgLaoLW2BnrwxH3JpUx98An9nsGEsLjt+KxMyeNX7lcBnHYRWa8hEEMGp6wxWZXtGnFq5eEdLFqj4seqie62kzimW6Rwy0eCPRPqiptzu5adPe2CkiT+BGEhtRpFXPz/ql8ppq0ng5VHsK645iRwxdl224ldWhorOKmDvng/CxITqaLAM4B2YoLD9CddMySE0IYtcoyCf2Qp6ZwFBAgeND8PIMrGXMVHPcR2yP4GwTHi2wfrJKvGku8ckQm/c1br/8rp8TnhsIe/22f+Pg7dK9TId5zlzqcxiwZlO90514xJ9l8qA5dS0y52ivyrEDOa6xqfXYVT1fM4QQBtbKIwWBdLSSD1RdmUr7k/XxvZ63DZWguOjxX2fjzWkHoiyD/06pFZkFK9bT1OO7kzWzj40drW1nhIeOopzTmVPUAEEFlLWIKAf0PIWgVXZJCKu6lT8B+Ji2Wi2rsYFh5VL0AK6bLml4A==;FqM1ZbwVqfyoH1f5wrHAVw=="
 ---

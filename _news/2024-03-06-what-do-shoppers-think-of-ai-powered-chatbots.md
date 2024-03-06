@@ -43,6 +43,15 @@ related:
       name: gizmodo
       domain: gizmodo.com.au
     quality: 34
+  - title: "JUSTPAID, AI-POWERED FINANCE STARTUP, ANNOUNCES NEW FINANCIAL CHATBOT CAPABILITIES"
+    excerpt: "MOUNTAIN VIEW, Calif., March 6, 2024 /PRNewswire/ -- JustPaid ( chat.justpaid.io ), the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial assistant/chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-06T14:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9973950.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
   - title: "Elgin inks deal with company to create AI text chatbot to provide answers to residents’ questions"
     excerpt: "Elgin plans to add a “chatbot” function to the myriad ways residents can obtain city information electronically. The text service will enhance what’s already available through"
     publishedDateTime: 2024-03-05T18:43:00Z

@@ -26,36 +26,66 @@ images:
     isCached: true
 
 related:
-  - title: "Concern as the gambling industry embraces AI"
-    excerpt: "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending."
-    publishedDateTime: 2024-03-05T00:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68304137"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-68304137.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp"
+  - title: "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI"
+    excerpt: "This month, like every month, I’m sharing a few of the latest updates and resources to help reinforce how Azure can fuel your innovation through data, AI, and digital application solutions.\nThe post What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI appeared first"
+    publishedDateTime: 2024-03-05T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg"
-        width: 1024
-        height: 576
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Azure-3D-Illustration-1-Blue.png"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "How artificial intelligence shakes up local art industry"
-    excerpt: "Researchers say artificial intelligence is a new tool for artists, but it is causing disruption in the art industry."
-    publishedDateTime: 2024-03-04T17:20:00Z
-    webUrl: "https://www.king5.com/article/news/local/seattle/artificial-intelligence-local-art-industry/281-1070ae38-bc45-4303-a57b-9769439ef13d"
+  - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
+    excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
+    publishedDateTime: 2024-03-04T16:51:00Z
+    webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
     type: article
     provider:
-      name: KING5
-      domain: king5.com
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+  - title: "Cloudflare announces Firewall for AI to secure AI applications"
+    excerpt: "“With Cloudflare’s Firewall for AI, we are helping build security into the AI landscape from the start. We will provide one of the first-ever shields for AI models that will allow businesses to take advantage of the opportunity that the technology ..."
+    publishedDateTime: 2024-03-04T17:37:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/press-release/53098113/cloudflare-announces-firewall-for-ai-to-secure-ai-applications"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
     quality: 37
     images:
-      - url: "https://media.king5.com/assets/KING/images/7dd345e6-a958-4d91-8df6-72e7adedc0ac/7dd345e6-a958-4d91-8df6-72e7adedc0ac_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/03/65e6033779a201001efcb16d-292256720e86fc17f2801f0e9bedebaa.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Conference on AI application in Qatar's supervision, financial sectors kicks off"
+    excerpt: "A conference on Artificial Intelligence (AI) applications in the supervision and ... its prospects, risks, standards, ethics, and how to benefit from it in supervision work. In his opening remarks, Assistant President for Performance and Compliance Control ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://www.gulf-times.com/article/678368/business/conference-on-ai-application-in-qatars-supervision-financial-sectors-kicks-off"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 34
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/03/04/thumbs/300x300/149093.jpg"
+        width: 300
+        height: 224
+        isCached: true
+  - title: "Dataloop Marketplace aims to streamline AI application development"
+    excerpt: "Israeli artificial intelligence dataset startup Dataloop Ltd. today announced the launch of a marketplace designed to enhance AI development processes and slash time to market. The Dataloop Marketplace includes an extensive array of tools and resources ..."
+    publishedDateTime: 2024-03-05T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/03/05/dataloop-marketplace-aims-streamline-ai-application-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "vf6zYXJS8vdg+Ut0blUCpQbC64db1ZLeqlGoXUlyXYNWjuC1yCbpkSTWyTqpf7T6ZSWvFHBr1Jv786qArXqgdd6XVUhx8UJfTpWkqOZytf9PxR1y/0axNQapOoM0K2+cv2+S5aJmJY42+M2Z7LB4LBWMC62vbLVFoTORRop3lp5mn17q6vmqziOZJs99BSXbLVXGg0VYn3nleuAQJx4lpuS49F+rar6J5MxvhNfk85jKd72N+V05Svm25kg3sIYOdJc5d8XZ5d/r4lRYseUtnRGWKPyTRAMrdFfmLbq29ZMm7z0rOYUsv/zPvNnoCq2ZvnTVdTlKNQqn9YIuq6Rhz6ncAORN9v1zxtkhU1CYGos=;yxY17FFHYe2V0OD1JHOoUg=="
 ---

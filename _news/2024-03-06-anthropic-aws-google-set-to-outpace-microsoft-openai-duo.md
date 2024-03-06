@@ -41,22 +41,6 @@ related:
         height: 299
         isCached: true
   - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T14:57:00Z
-    webUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"
-    ampWebUrl: "https://www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 81
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2024/03/Figure_Humanoid_Robots_56398.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Humanoid robot maker partners with OpenAI, gets backing from Jeff Bezos, Microsoft, Nvidia"
     excerpt: "Sunnyvale-based Figure is less than two years old and doesn’t yet have a commercial product but aims to ship billions of human-like robots to the world’s workplaces and homes."
     publishedDateTime: 2024-03-01T21:38:00Z
     webUrl: "https://www.dailynews.com/2024/03/01/humanoid-robot-maker-figure-partners-with-openai-and-gets-backing-from-jeff-bezos-and-tech-giants/"

@@ -119,15 +119,6 @@ related:
         width: 1200
         height: 657
         isCached: true
-  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
-    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
-    publishedDateTime: 2024-03-03T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "d6ltGvplzZTGoXnrj4P1/cxL2+QlOITERthKxx3vxaL6YPUpkv335SOK3+s7Tnmy7dTbKLOLwh5mWn6jQ5R2lhwZjkQqNVtDxRTupc40tRfOL0I53AOSXAzs102SEXhvUkvtOUjMQLNauS7ocB0gF6TkopbSJiwYDhzwCF7QUriRVysXzxskO8nZJ05aEW/xGe0djLZtu73KVLI6BNHoADBzZLVsQ41Pp+pwdrNa4QEL8SAvDWcqejwWgLKGjTxQNUirBhdWWPmy0hDd6Tx/ku93GhSk7OqfMhf9YE3uWjqKDLVtvAelRaT3EZUtfnRmGEdlPqz5PgSR29Cxe7IVZmR2HZq5URXRVWNlT49UfB/yVQsgHXx9j+nI3vlec84KP44uWZP/B1KSXUecMQvtsyL9Y5pFr66TssQc8MF3aoZYGu4Ly5lyg6zamdihnqmFtgl4RwOQD+a27Nm2G58YxaPUk3QovinjqDYIoaXcpeTbmxHxzO2jB/rspP4xCftqnyDyk1MeY2t1HOBknY78zg==;iHJTzwaFrf7Fk2f5f86OrQ=="
 ---

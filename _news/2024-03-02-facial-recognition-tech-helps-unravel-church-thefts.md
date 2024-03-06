@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Chinese official says facial recognition in hotels is hurting tourism"
+    excerpt: "The prevalence of facial recognition in China's hotels is drawing complaints from tourists, prompting policy-makers to consider boundaries for the technology."
+    publishedDateTime: 2024-03-06T15:55:00Z
+    webUrl: "https://www.biometricupdate.com/202403/chinese-official-says-facial-recognition-in-hotels-is-hurting-tourism"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/24164622/Henn-na-Hotel-facial-recognition-room-key.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "When it Comes to Facial Recognition, There is No Such Thing as a Magic Number"
     excerpt: "BKC Affiliate Marissa Gerchick and Matt Cagle argue that facial recognition test scores mislead communities about the technology's harms."
     publishedDateTime: 2024-03-04T03:10:00Z

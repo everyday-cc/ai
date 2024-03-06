@@ -2,6 +2,207 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-25-the-wonder-filled-year-of-generative-ai.md",
+      "title": "The wonder-filled year of generative AI",
+      "excerpt": "A real challenge for the AI world is finding a way to unlock all of the grand opportunities without running up a yuge electricity bill. There is some hope that new chips, better algorithms, and more judicious use of layering in the networks will save a few supertankers filled with oil. Will that be enough?",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/12/shutterstock_1209641578-100951456-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html",
+      "publishedDateTime": "2023-12-25T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-24-chip-giant-micron-is-becoming-another-ai-play-for-investors.md",
+      "title": "Chip giant Micron is becoming another AI play for investors",
+      "excerpt": "Micron Technology Inc.'s return to revenue growth last quarter as it recovers from the memory-chip downturn was in part due to the boom in AI-related chips, putting more of a spotlight on the chip maker as another potential AI investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002834162?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002834162?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-319090/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-23T16:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting.md",
+      "title": "AWS Chief Talks AI, Amazon’s Investment In Anthropic And Cloud Cost Cutting",
+      "excerpt": "Adam Selipsky is shepherding Amazon’s cloud unit at one of the most important moments in tech history. Selipsky, the CEO of the company’s cloud computing unit AWS, has been behind the various generative AI offerings Amazon has rolled out over the past few months as it aims to compete with Microsoft and others in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/",
+      "originalUrl": "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/12/22210814/Faster-Deliveries-441x300.jpg",
+          "width": 441,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-23T07:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Post-Journal",
+        "domain": "post-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-a-first-look-at-windows-ai-studio.md",
+      "title": "A first look at Windows AI Studio",
+      "excerpt": "Windows AI Studio offers an interesting hybrid of Windows and Linux tools, working across both your CPU and GPU, using the Windows Subsystem for Linux (WSL) to host and run models. It’s an approach that does demand capable hardware, with plenty of memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
+      "originalUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/user_in_thought_thinking_consideration_intelligence_strategy_by_rowan_jordan_gettyimages-1090113184_2400x1600-100858483-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html",
+      "publishedDateTime": "2023-12-21T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-tech-slips-as-ai-speculation-slows-tech-roundup.md",
       "title": "Tech Slips as AI Speculation Slows -- Tech Roundup",
       "excerpt": "Shares of technology companies fell slightly as a speculative rush into AI stocks slowed. The semiconductor rally is set to resume Friday after",
@@ -1243,181 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-slowing-sales.md",
-      "title": "Top 10 Biggest AWS News Stories Of 2023: AI, Layoffs And Slowing Sales",
-      "excerpt": "AWS top news from 2023 included generative AI, Amazon layoffs, Anthropic investment, cloud computing sales, chips, AWS Marketplace and new AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales",
-      "originalUrl": "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T14:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-china-chip-firms-vie-to-take-sales-from-nvidia.md",
-      "title": "China chip firms vie to take sales from Nvidia",
-      "excerpt": "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T10:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-intel-working-with-vertiv-on-liquid-cooling-for-gaudi3-ai-chip.md",
-      "title": "Intel working with Vertiv on liquid cooling for Gaudi3 AI chip",
-      "excerpt": "The Intel Gaudi3 AI accelerator will enable both liquid-cooled and air-cooled servers, supported by Vertiv pumped two-phase (P2P) cooling infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
-      "originalUrl": "https://www.itweb.co.za/content/6GxRKMYQNGGMb3Wj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/12/Vertiv-Intel-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKMYQNGGMb3Wj",
-      "publishedDateTime": "2023-12-12T09:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-yoon-begins-dutch-state-visit-vows-enhanced-ties-in-chips-logistics-ai.md",
-      "title": "Yoon begins Dutch state visit, vows enhanced ties in chips, logistics, AI",
-      "excerpt": "President Yoon Suk Yeol arrived Monday in Amsterdam to forge stronger bilateral ties with the Netherlands, South Korea's emerging European trade partner in terms of logistics, artificial intelligence and semiconductor chip cooperation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20231212000568",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231212000568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F12%2F12%2F20231212000555_0.jpg",
-          "width": 630,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231212000568",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231212000568",
-      "publishedDateTime": "2023-12-12T05:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

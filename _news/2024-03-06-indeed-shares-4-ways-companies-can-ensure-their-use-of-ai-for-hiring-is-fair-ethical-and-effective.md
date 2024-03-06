@@ -54,6 +54,15 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 54
+  - title: "Here’s How to Use Mistral AI Right Now"
+    excerpt: "Even Microsoft (an existing investor in Open AI) is backing this AI startup by pouring $16 million into it. If you’re an AI enthusiast like me and have already used text models like ChatGPT, you’d definitely be looking to test Mistral AI. In this guide ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.gizmochina.com/how-to/how-to-use-mistral-ai/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 47
 
 secured: "27TOP2EunM2IcBLqsQao6wIilNewI7C4YPuS+JqzMDRrJvNw6EP+DPQaLINPXaxifWZTQ/y2NaoTgee2AxfqPSMmeIIwP94qSr/pkEzwY8pAUIaWJ9tt9bRNKH9pix/5fU0ro2/mr1tVY5b5yzbwOKUKnjJWJGGQ7/USvluXdsRJR4TviqhqruCwbODxrv2zljTyyNkyH7CxoodZp2JzLWI0jYYAwlyIJs6WONGTMrbqmy6QVADNrGijn16LyrSx/nimmxlUZyaUujH/eK6haOIH/FynXwimgsuodPJQ2MT+sB7uDqCSe7KtkaaSEJs2yhkCp0QnBcYj3qWRYuOaeEy9C9wphhr7xOIkDj3hEKzFhE077+R39IeRtFL7hCSpX34A0H2pXPvvDb5mqfZUXxZlzbvNAS8ZSw/zjM2JSG9UOw3GkIuY00rsRb8L8vAia5emiORiiIYQW68fbo5GerZppTzY5x9tj72pxKhc5TE1CndPYcv7oynfxplN2NWphtxm4XyCH7BpFG/r+tMaOw==;2pHmfBb+d7YKL4wsUDxaww=="
 ---

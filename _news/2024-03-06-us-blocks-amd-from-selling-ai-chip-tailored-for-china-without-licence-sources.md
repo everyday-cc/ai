@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-s
 webUrl: "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources"
 type: article
 quality: 80
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -159,6 +159,15 @@ related:
     provider:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
+    quality: 34
+  - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
+    excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
+    publishedDateTime: 2024-03-06T16:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-china-focused-ai-chip-blocked-from-sale-by-us-commerce-department/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 34
 
 secured: "tV0Ju3+JnLZSndHW3Hzh/ELV1UaWozFbr3hCMVvu8HrsO5ntczihnjPkSf1bqDnImbO2zwdw6at4navVeWkZ+flQsliZUuhQ9yafyCQFlzgotrHEZPcOJl/wvSoGX0lXah9OBZgnBkdPKVcxOS9MRp8US7Hd9BrLjzKuKBjOOFi8yIKCcFrIDhVAw1BZDNndwom+tDTrrqzKeg1vkxD9FAfdvtXZtMDPmB3nn0LnolM1+qHtasUsI6zugh/WVJGOwIDlmE/6PqJidEsh+4BU3Ch1NBPtq3goWSquArhMLiVi0n8aBgD4st6wqu6ilPFBi+aa6Lu9EOh7MyXMkYnztuNl+uo8UXzdwtK48H3ibYr58H83/QUTejauLtjnocNSNUvHoiuMv7wyq2tW9f/kIkIXOxD0YfWIcPaEgQZBRGsJ3n/z/iGPcFhZXD7f/S1Ls4eTPlJJdUE8/AQIZeQJP4lyuE/G5n7snF1TiWb7iaYZNZyTF0s/cYN7IcBKHx6v9pVdT8uQX6BgHnvaWTcwcg==;3svKzDQnOxfZ+KvZJhqEaw=="

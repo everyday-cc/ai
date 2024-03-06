@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-05-the-future-of-ai-and-ml-in-cybersecurity.md",
-      "title": "The Future Of AI And ML In Cybersecurity",
-      "excerpt": "The buzz around ChatGPT’s rise is actually about the potential that the architecture of Open AI promises. This is the combination of two tried and true machine learning approaches: large language models ... is to train by translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
       "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
       "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
@@ -160,7 +116,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -438,6 +394,58 @@
         "AI",
         "AWS AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-ai-wont-replace-humans-in-the-workplace-heres-why.md",
+      "title": "AI won’t replace humans in the workplace - here’s why",
+      "excerpt": "Innovations such as automated machine learning (AutoML) hold the promise of accelerating progress even beyond the dizzying pace of AI innovation we are experiencing now, but humans will remain central to the safe use and efficient operation of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/ai-wont-replace-humans-in-the-workplace-heres-why",
+      "originalUrl": "https://www.techradar.com/pro/ai-wont-replace-humans-in-the-workplace-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {

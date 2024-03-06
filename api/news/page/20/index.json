@@ -2,6 +2,643 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-20-ai-eu-agrees-landmark-deal-on-regulation-of-artificial-intelligence.md",
+      "title": "AI: EU agrees landmark deal on regulation of artificial intelligence",
+      "excerpt": "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "originalUrl": "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far.md",
+      "title": "The revolution that wasn’t: How AI drones have fizzled in Ukraine (so far)",
+      "excerpt": "Last fall, both Russia and Ukraine boasted of fielding drones that tracked targets using AI algorithms. Now new expert analysis suggests that neither side got it to work well enough for war — but the US and China might.",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/",
+      "originalUrl": "https://breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2024/02/ukraine-drone-operators-scaled-e1708097134246.jpg",
+          "width": 2560,
+          "height": 1442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/?amp=1",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/?amp=1",
+      "publishedDateTime": "2024-02-20T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-lee-healths-healthpark-medical-center-named-among-the-top-50-hospitals-for-heart-care-in-the-us-for-the-11th-time.md",
+      "title": "Lee Health’s HealthPark Medical Center Named Among the Top 50 Hospitals for Heart Care in the U.S. for the 11th Time",
+      "excerpt": "This marks the 11th year that HealthPark Medical Center has won the award. Formerly known as the IBM Watson award, the PINC AI™ 50 Top Cardiovascular Hospitals™ represent the highest standard of cardiovascular care in the United States. Premier Inc ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lee-health-s-healthpark-medical-center-named-among-the-top-50-hospitals-for-heart-care-in-the-u-s-for-the-11th-time-1033084697",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lee-health-s-healthpark-medical-center-named-among-the-top-50-hospitals-for-heart-care-in-the-u-s-for-the-11th-time-1033084697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T14:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing.md",
+      "title": "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing",
+      "excerpt": "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37218987",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987",
+      "publishedDateTime": "2024-02-20T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity.md",
+      "title": "An Approach For Leadership Teams To Balance AI Risk Versus Opportunity",
+      "excerpt": "We all have a responsibility to ensure the responsible use of AI. Here's my advice on how to make strides towards responsible-by-design AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6037c3e74880e0aa679f79b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1045,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/",
+      "publishedDateTime": "2024-02-20T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-how-to-build-generative-ai-agents-with-joon-sung-park.md",
+      "title": "How to Build Generative AI Agents with Joon Sung Park",
+      "excerpt": "Joon’s research seeks to answer this question by applying LLMs to a long-standing challenge in computer science: the creation of AI agents that can authentically simulate human behavior. This ambition traces back to the earliest days of AI in the 1950s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/",
+      "originalUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d560ded33037465f55d4ad/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joannechen/2024/02/20/how-to-build-generative-ai-agents-with-joon-sung-park/amp/",
+      "publishedDateTime": "2024-02-20T12:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ai-will-change-the-way-business-leaders-think-about-time.md",
+      "title": "AI Will Change The Way Business Leaders Think About Time",
+      "excerpt": "My advice to businesses looking to implement AI in a thoughtful way is simple: Start with people. What do you want people to achieve more of—or do less of—by using AI? Implementing technology for technology's sake is not a sound long-term strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/20/ai-will-change-the-way-business-leaders-think-about-time/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/20/ai-will-change-the-way-business-leaders-think-about-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641a1774e7bf3c6a9e0aff98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/20/ai-will-change-the-way-business-leaders-think-about-time/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/20/ai-will-change-the-way-business-leaders-think-about-time/amp/",
+      "publishedDateTime": "2024-02-20T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-taylor-swift-the-pope-putin-in-the-age-of-ai-and-deepfakes-who-do-you-trust.md",
+      "title": "Taylor Swift, the pope, Putin: in the age of AI and deepfakes, who do you trust?",
+      "excerpt": "Rumours and gossip changed the course of French history. Now they’re weapons for ‘newsfluencers’ and dictators in the 21st-century information wars, says Guardian Europe columnist Alexander Hurst",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/00c7a3193fea3250fe6c30f206c7be0f31629e09/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=cf0b54c2ff3c77c1833ce44629b652a8",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin",
+      "publishedDateTime": "2024-02-20T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-the-data-differentiator-unlocking-the-power-of-unstructured-data-to-fuel-ai.md",
+      "title": "The Data Differentiator: Unlocking The Power Of Unstructured Data To Fuel AI",
+      "excerpt": "In the rapidly evolving digital era, unstructured data has become a key player in businesses’ digital transformation journeys. Encompassing a vast array of information forms (from videos and audio clips to images and text),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-data-differentiator-unlocking-the-power-of-unstructured-data-to-fuel-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-data-differentiator-unlocking-the-power-of-unstructured-data-to-fuel-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625eb89d623c547301c5efa7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/the-data-differentiator-unlocking-the-power-of-unstructured-data-to-fuel-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/the-data-differentiator-unlocking-the-power-of-unstructured-data-to-fuel-ai/amp/",
+      "publishedDateTime": "2024-02-20T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-ai-comes-to-the-world-of-beauty-as-eyelash-robot-uses-artificial-intelligence-to-place-fake-lashes.md",
+      "title": "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes",
+      "excerpt": "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-beauty-eyelash-extension-robot-artificial-intelligence-place-fake-lashes.amp",
+      "publishedDateTime": "2024-02-20T10:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-looking-for-artificial-intelligence-ai-investments-this-etf-could-be-for-you.md",
+      "title": "Looking for Artificial Intelligence (AI) Investments? This ETF Could Be for You.",
+      "excerpt": "The fund's managers change its holdings without requiring you to do any due diligence or research whatsoever. This is where long-term thinking comes in handy. While use cases for AI are unfolding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/20/looking-for-artificial-intelligence-ai-investments/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/20/looking-for-artificial-intelligence-ai-investments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/765151/stock-market-data-with-uptrend-vector.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T10:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond.md",
+      "title": "Navigating Retail's New Reality: Omnichannel, Hyper-Personalization And Beyond",
+      "excerpt": "While AI has been touted by many as a silver bullet for addressing key challenges, it is not the only solution available and may not work for every retail company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f105d41e465530006d5ac69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/navigating-retails-new-reality-omnichannel-hyper-personalization-and-beyond/amp/",
+      "publishedDateTime": "2024-02-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-watch-out-workers-this-billionaires-ai-is-coming-for-blue-collar-jobs.md",
+      "title": "Watch Out, Workers: This Billionaire’s AI Is Coming For Blue Collar Jobs",
+      "excerpt": "John Fish built Boston’s largest construction firm, Suffolk, on the backs of laborers. Now, fighting a never-ending worker shortage, he’s betting the future is filled with hardwired hard hats and AI foremen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
+      "originalUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf6450dd61f42d45dca929/0x0.jpg?format=jpg&crop=1786,1005,x134,y75,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-inside-the-funding-frenzy-at-anthropic-one-of-ais-hottest-start-ups.md",
       "title": "Inside the Funding Frenzy at Anthropic, One of A.I.’s Hottest Start-Ups",
       "excerpt": "The company raised $7.3 billion over the last year, as the lure of artificial intelligence changes Silicon Valley deal-making.",
@@ -559,640 +1196,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-embracing-ai-transforming-fear-into-opportunity-for-your-teams.md",
-      "title": "Embracing AI: Transforming Fear Into Opportunity For Your Teams",
-      "excerpt": "Open communication about your company's AI strategy and its implications for the workforce can build trust and engagement among employees. It's essential for us corporate leaders to navigate this transition responsibly, embracing AI while investing in upskilling and reskilling employees to work alongside these technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/",
-      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3afc79a5bb99433115e55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/amp/",
-      "publishedDateTime": "2024-02-19T19:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints.md",
-      "title": "Run ML inference on unplanned and spiky traffic using Amazon SageMaker multi-model endpoints",
-      "excerpt": "Amazon SageMaker multi-model endpoints (MMEs) are a fully managed capability of SageMaker inference that allows you to deploy thousands of models on a single endpoint. Previously, MMEs pre-determinedly allocated CPU computing power to models statically regardless the model traffic load, using Multi Model",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/30/ML-15023-image001-1260x460.png",
-          "width": 1260,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T18:13:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-stunning-new-ai-adds-realistic-sound-effects-to-any-video.md",
-      "title": "Stunning new AI adds realistic sound effects to any video",
-      "excerpt": "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
-      "originalUrl": "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T17:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock.md",
-      "title": "Build a contextual chatbot application using Knowledge Bases for Amazon Bedrock",
-      "excerpt": "Modern chatbots can serve as digital agents, providing a new avenue for delivering 24/7 customer service and support across many industries. Their popularity stems from the ability to respond to customer inquiries in real time and handle multiple queries simultaneously in different languages. Chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/11/ml-15933-001-1260x571.jpg",
-          "width": 1260,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T16:43:30Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
-      "title": "I tested Meta's Code Llama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
-      "excerpt": "A few weeks ago, Meta CEO Mark Zuckerberg announced via Facebook that his company is open-sourcing its large language model (LLM) Code Llama, which is an artificial intelligence (AI) engine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-llama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
-      "publishedDateTime": "2024-02-19T16:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-what-are-the-best-ai-stocks-in-february-2024-our-top-3-picks.md",
-      "title": "What Are the Best AI Stocks in February 2024? Our Top 3 Picks",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in AI stocks is thrilling, especially now in February 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T16:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-softbanks-son-reportedly-seeks-100b-for-ai-chip-venture.md",
-      "title": "Softbank’s Son reportedly seeks $100B for AI chip venture",
-      "excerpt": "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
-      "originalUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
-      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
-      "publishedDateTime": "2024-02-19T16:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep.md",
-      "title": "Should You Stay Awake In A Self-Driving Car Or Can You Sleep?",
-      "excerpt": "Drivers have been dreaming of self-driving cars for decades. A way for them to get to their destinations without having to spend time and energy focused on the road (or other drivers). Maybe even ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
-      "originalUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep/l-intro-1707915398.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
-      "title": "How real estate listings and potentially jobs are shifting to AI",
-      "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "originalUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643",
-          "width": 1024,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "publishedDateTime": "2024-02-19T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-now-that-artificial-intelligence-can-clone-voices-video-game-actors-must-weigh-their-options.md",
-      "title": "Now that artificial intelligence can clone voices, video game actors must weigh their options",
-      "excerpt": "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
-      "publishedDateTime": "2024-02-19T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs.md",
-      "title": "Empowering Small Dreams: The Essence Of A Great AI Solution For SMBs",
-      "excerpt": "For these smaller businesses, the right AI solution isn't merely a tool; it's a partner that helps them dream bigger and reach higher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ab0fa2b3d7aa6801dcd938/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
-      "publishedDateTime": "2024-02-19T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-ai-and-robotics-to-play-key-roles-in-space-exploration.md",
-      "title": "AI and Robotics to Play Key Roles in Space Exploration",
-      "excerpt": "AI and Robotics to play pivotal roles in space, driving innovation in interstellar travel and research. Unveil the exciting future of exploration with us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
-      "originalUrl": "https://www.electropages.com/blog/2024/02/ai-and-robotics-play-key-roles-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electropages.com/storage/app/media/2024/2.Feb/weather-satellite-in-space-og.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T14:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electropages",
-        "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-employing-your-cloud-data-warehouse-to-scale-up-aiml.md",
-      "title": "Employing your cloud data warehouse to scale up AI/ML",
-      "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
-      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/05/17/cloud_shutterstock.jpg",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
-      "publishedDateTime": "2024-02-19T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

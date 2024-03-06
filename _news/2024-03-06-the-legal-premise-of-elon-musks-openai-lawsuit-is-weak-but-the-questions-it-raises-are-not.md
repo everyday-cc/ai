@@ -3,8 +3,8 @@ category: news
 title: "The legal premise of Elon Musk’s OpenAI lawsuit is weak. But the questions it raises are not"
 excerpt: "OpenAI was founded as a nonprofit lab that pledged to keep superpowerful “artificial general intelligence”—defined as AI software that could perform most economically valuable cognitive tasks as well or better than a person—out of the hands of ..."
 publishedDateTime: 2024-03-05T19:13:00Z
-originalUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/"
-webUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/"
+originalUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/?taid=65e7bdcf72a63d00014bf63c"
+webUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/?taid=65e7bdcf72a63d00014bf63c"
 type: article
 quality: 38
 heat: -1
@@ -37,21 +37,7 @@ related:
         width: 749
         height: 420
         isCached: true
-  - title: "Weekly AI recap: Musk sues OpenAI, Google (sorta) apologizes for Gemini controversy"
-    excerpt: "Elon Musk filed a lawsuit on Thursday against OpenAI and its founder, Sam Altman, claiming that the company has abandoned its founding mission to build AI that benefits humanity and has instead chosen to prioritize its own financial interests."
-    publishedDateTime: 2024-03-01T17:47:00Z
-    webUrl: "https://www.thedrum.com/news/2024/03/01/weekly-ai-recap-musk-sues-openai-google-sorta-apologizes-gemini-controversy"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 33
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/adobestock_588907775_editorial_use_only.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 853
-        isCached: true
 
-secured: "kp3SsPiESDvqx+VmpQ6YhuvNjH73TGG6yai9znwN73toDGdbZQbwD0W3OvYCdAa+hDU2eEYkf6XyzPQIl7e0KT6r2urClspx2KSQK3old2cKSysVqgHOQmJZZYE8ZoEdbQ2ACV7TAocTUqncjJa1Aw6KaPv3x/RWBCcn9ZBl6MXOKEgUx17JaMPZGdKzx293ILxGF66hvd7LIJPhmr1zByPH0rkINDx09n1gaVFCga9u5tuqz/feSEqBOvM9p+Wbfp1xng6fYLA5I5FqQkIPG7nbf0s3stjFjUspJfLebVmHK/x9KOZSHwE/JuP5WQx94IbEPQjFiNSvNmV1ND4OnqYtSCRNDWyU6Lx6dEo/654=;Vre/FzDLmc/GRxa3FeKnAw=="
+secured: "cCrFwS4T59h9ujqbxBmuwVC0ND4kkNCw+pJNbNy2ZotvrZb4z5sgqPo2D2ET30hBsdcNQxoIu6Fka+g7EkLThcr3zYVQtXWqA8QHTNQMCmDGe9eLCfH0vEsVpkDq8KPoDqHY/K7hl9eU5Ub7WG6ExJIfoHBAdMBeNPUYwcKkmjMVLt7coe0WOi2d+6KyMFuV9zn812H0TJDpwNDEThREeF9nt8EkUiHjjGVZqIQWABNuh0JfdpTByo+X2Zj0yiVfRh7gV67LTdcqww2lmw0vQNxVlam5HQgMYzi7+Hb2Lvp3uVqtAyiw1xAPN0RwmnmWqp7SEoOAyPTl62awOaDkHAdihTeIu7ZhNTzd4S3jeiE=;ZVavF4MfQ5KlxGyQUm2rUg=="
 ---
 

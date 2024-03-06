@@ -45,6 +45,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies"
+    excerpt: "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -"
+    publishedDateTime: 2024-03-06T15:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Navigating The Risks And Opportunities Of Generative AI In Insurance"
     excerpt: "The rise and rise of generative AI poses new questions for those of us working in insurance. Every day, people like us are finding new ways to use the technology’s uncanny abilities to process huge quantities of complex text, audio and video, as well as to generate ideas and usable first drafts across those three formats."
     publishedDateTime: 2024-03-05T14:30:00Z
@@ -58,6 +72,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e5dc201ac5262af8449269/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1489
         height: 900
+        isCached: true
+  - title: "AI Tools Are Still Generating Misleading Election Images"
+    excerpt: "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud."
+    publishedDateTime: 2024-03-06T14:32:00Z
+    webUrl: "https://www.wired.com/story/genai-images-election-fraud/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined"
+        width: 800
+        height: 450
         isCached: true
   - title: "Using Generative AI For Figuring Out Your Astrological Horoscope Raises Pesky Questions About Whether We Might Become Starstruck"
     excerpt: "Let's together take a close look at the use of generative AI for generating astrological horoscopes. Turns out that some worry this has mental health implications."
@@ -89,51 +117,15 @@ related:
         width: 1469
         height: 980
         isCached: true
-  - title: "How generative AI is changing Infosys from within"
-    excerpt: "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ..."
-    publishedDateTime: 2024-03-05T09:43:00Z
-    webUrl: "https://www.forbesindia.com/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
+  - title: "Informatica Claims Data Fragmentation Is Standing in the Way of APAC Generative AI"
+    excerpt: "Data management and cloud architecture have become critical to drawing value from generative AI, according to research from Informatica."
+    publishedDateTime: 2024-03-06T13:59:00Z
+    webUrl: "https://www.techrepublic.com/article/apac-survey-findings-informatica-generative-ai/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
-    images:
-      - url: "https://www.forbesindia.com/media/images/2024/Mar/img_229855_mohammedrafeetarafdar.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Legal transparency in AI finance: facing the accountability dilemma in digital decision-making"
-    excerpt: "Like hidden gears whirring behind the Emerald City facade, AI algorithms are transforming finance by unlocking efficiencies, predicting trends and personalizing financial experiences. From fighting fraud to streamlining transactions,"
-    publishedDateTime: 2024-03-01T16:58:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/legal-transparency-ai-finance-facing-accountability-dilemma-digital-decision-2024-03-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 52
-  - title: "What Comes Next For Banks With Generative AI"
-    excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
-    publishedDateTime: 2024-03-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/michaelabbott/2024/03/04/what-comes-next-for-banks-with-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
-    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
-    publishedDateTime: 2024-03-04T03:30:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 43
   - title: "Redefining Content Storage: How AI is Meeting the Demand for High-Quality, Personalized Content"
     excerpt: "Many media assets lack appropriate metadata tagging, posing significant challenges for M&E companies aiming to repurpose and monetize their content"
     publishedDateTime: 2024-03-05T14:36:00Z

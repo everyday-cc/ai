@@ -1,0 +1,61 @@
+---
+category: news
+title: "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant"
+excerpt: "Plus, at the Trailblazer TDX 2024 conference, Salesforce introduced the Slack Developer Program and showed research into AI adoption and IT."
+publishedDateTime: 2024-03-06T13:00:00Z
+originalUrl: "https://www.techrepublic.com/article/salesforce-trailblazer-tbx-generative-ai/"
+webUrl: "https://www.techrepublic.com/article/salesforce-trailblazer-tbx-generative-ai/"
+type: article
+quality: 42
+heat: -1
+published: false
+
+provider:
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Meta AI
+  - AI
+
+related:
+  - title: "Business Tech Roundup: Salesforce’s Einstein Copilot Brings AI To CRM"
+    excerpt: "1 – Salesforce announced the public beta availability of Einstein Copilot."
+    publishedDateTime: 2024-03-03T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 99
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e1fc852def75c204325244/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "OpenAI, Salesforce Sign Pledge to Build AI for Good of Humanity"
+    excerpt: "OpenAI, Salesforce Inc. and other tech companies signed an open letter highlighting a “collective responsibility” to “maximize AI’s benefits and mitigate the risks” to society, in the tech industry’s latest effort to call for building artificial intelligence responsibly."
+    publishedDateTime: 2024-03-04T17:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-04/openai-salesforce-sign-pledge-to-build-ai-for-good-of-humanity"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Salesforce aims to blaze new generative AI trail for developers with Einstein 1 Studio"
+    excerpt: "Einstein 1 Studio provides a set of tools that can enable developers to customize the Salesforce Einstein Copilot gen AI assistant."
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-aims-to-blaze-new-generative-ai-trail-for-developers-with-einstein-1-studio/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
+
+secured: "84+HOPBtZU/LkFp6C7IumkFELSXNaq4MOG5E+LXo7fwko+SPZNi7kEI4u6C6qugdj9PwCbgyrO/xtA5X685UHsfDWpvkIezQXce5TwVGyQonzw00urmKy/48qZz/nMZ4dUQ6nSbzPbiaYq460Q1m72W8nMPT7O2nM0ixQKZdcg2+atHQ1R5TjOdutIkG4+9844Uh1bEp2fRzVa+T5ztTNzLgsNCJs/2luXJEXti2twcZYavnVB+Epe6HCZZGdO9bOq7BqDkkKTOpH/r+Fv5qdXHNFGj3jGgQpj1VdrxiDcnaANTFXNz6oEUQRAmI6pbhPPl0CYWUMoEfT5R8P2DsY84KVtibjGvF0ktehmAg7mc3IDF5AdhRnFl83dBQ+u2lrxNKFAYtkjpo3jKAK2qQeNlLI2vmLASYiUhaQGqgB01SZClVp6QeoXyQzLX4COookU8dWK0FELXQcZyoKbmDEB30JXt/RYV/yDc7oYiOmgtgrU4qoWExnp2Faxyv/sPnB5ZVEhqKSf/VeYNyh2LJjg==;xjv3j+RVZtX7X0f7Zs0cYQ=="
+---
+

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-03-10-must-have-tools-for-your-firearm-workspace.md",
+      "title": "10 Must-Have Tools For Your Firearm Workspace",
+      "excerpt": "The Federal Bureau of Investigation (FBI) is initiating Project Tyr, an effort to employ Amazon’s artificial intelligence-driven Rekognition cloud service to identify firearms—among other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanrifleman.org/content/10-must-have-tools-for-your-firearm-workspace/",
+      "originalUrl": "https://www.americanrifleman.org/content/10-must-have-tools-for-your-firearm-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanrifleman.org/media/i2qb4rnw/tools_gunsmith_carter_workbench.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Rifleman",
+        "domain": "americanrifleman.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence.md",
       "title": "AWS has its mojo back thanks in part to artificial intelligence",
       "excerpt": "The tech giant's cloud computing unit is back to re-accelerating growth after seven straight quarters of flat sales, due in part to rapidly rising benefits from artificial intelligence.",
@@ -1401,49 +1444,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-accelerating-sustainable-modernization-with-green-it-analyzer-on-aws.md",
-      "title": "Accelerating sustainable modernization with Green IT Analyzer on AWS",
-      "excerpt": "Businesses are increasingly embracing high-performance computing, artificial intelligence and machine learning.\nThe post Accelerating sustainable modernization with Green IT Analyzer on AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "originalUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
       ]
     }
   ],

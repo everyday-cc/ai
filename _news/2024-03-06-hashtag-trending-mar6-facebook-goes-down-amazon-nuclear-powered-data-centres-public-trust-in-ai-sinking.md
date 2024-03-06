@@ -26,17 +26,6 @@ images:
     height: 1500
     isCached: true
 
-related:
-  - title: "The women still falling prey to Facebook dating scams with Danish doctor’s face"
-    excerpt: "Deep in rural Missouri, Lauren McEwen thought little of it when she received a Facebook friend request from an attractive ... to this kind of fraud in the first six months of last year. Research shows that 60 per cent of all reported “authorised push ..."
-    publishedDateTime: 2024-03-01T18:50:00Z
-    webUrl: "https://www.thetimes.co.uk/article/7e8196b8-b1e5-498e-894b-0844ee4d527a?shareToken=4ccfea5d3ac13e07764237b098a802a9"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 0
-
 secured: "Cvof5XR88oLxfpmzHyQnf/dJkM8+edYOKLKaH/fhkTbgS0ip8+EouxCLRpbl4rsAkiOD+moqBp7FNPC9R6CwmXGZWoR7comSc1jKoGXZpIQ4A1Qfa+rzcWxXU6+5na0w+9EWvuayZmb9grlTdzLY+LKSevuHjF+b0ArRX9LuICR7AlphKYbX/ZHRkX0NqLK7wN4/8TIxS1TUcfV5UoO3gCrFOl+jODuGGv46G+MRcO6JorA8wGUNZWQdbpRdWhfvkWDDnyvtBHgH+7N3OLrciX2Uv3SIY3U5LkZuIGUp8TMno1Y4MtLkepDNW+5ORX5jzOQZF+u8UKZLLQgqriVcmPVBwHl42Dxe3woegrH3Qnb6eQ2AWWue6r2yAGFNk7LuguEMvOmjKSkKBi05d0HUmIwL4n+KZBBSoM42CmnIWWaJF1gpfATunyQmImMeyW0JI2OHZix55rwJ2PJkG+WG18Lys4zVAYQBSGFcdytGlGJs+Ia7D507MKpeoHNCbhjqF1p1MSNSRKG4/RJXjQ4A/w==;ZkasEeDiCi4hqozAVm4fLg=="
 ---
 

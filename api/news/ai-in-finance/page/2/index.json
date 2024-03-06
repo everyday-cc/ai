@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-equity-bret-taylor-has-a-brand-new-ai-startup.md",
+      "title": "Equity: Bret Taylor has a brand new AI startup",
+      "excerpt": "The AI agent space is busy, but Sierra has already raised $110 ... and it’s working on payments in Latin America. So this is a big FinTech round in a region that was once absolutely bonkers for FinTech and given the venture pullback we’ve seen in ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
+      "originalUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
+      "publishedDateTime": "2024-02-14T16:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-dresner-advisory-services-announces-2023-technology-innovation-awards.md",
       "title": "Dresner Advisory Services Announces 2023 Technology Innovation Awards",
       "excerpt": "Dresner Advisory Services today announced the winners of its 2023 Technology Innovation Awards, presented annually to top",
@@ -1336,49 +1388,6 @@
         "IBM AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career.md",
-      "title": "Why Attending a Financial Technology Bootcamp Can Skyrocket Your Career",
-      "excerpt": "A financial technology bootcamp provides participants with cutting-edge training on important concepts such as blockchain technology, data analytics, artificial intelligence (AI), machine learning (ML ... lines between banking services and technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career/",
-      "originalUrl": "https://techbullion.com/why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2024/01/financial-technology-bootcamp.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T21:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

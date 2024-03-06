@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-06-the-dark-side-of-open-source-ai-image-generators.md",
+      "title": "The Dark Side of Open Source AI Image Generators",
+      "excerpt": "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg",
+          "width": 1280,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-security-researchers-prove-they-can-exploit-chatbot-systems-to-spread-ai-powered-worms.md",
       "title": "Security researchers prove they can exploit chatbot systems to spread AI-powered worms",
       "excerpt": "What makes matters worse is that generative AI (GenAI) systems, even large language models (LLMs) like Bard and the others, require massive amounts of processing, so",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": null,
       "content": "",
@@ -54,7 +107,7 @@
       "originalUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1393,58 +1446,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity.md",
-      "title": "An Approach For Leadership Teams To Balance AI Risk Versus Opportunity",
-      "excerpt": "We all have a responsibility to ensure the responsible use of AI. Here's my advice on how to make strides towards responsible-by-design AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6037c3e74880e0aa679f79b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1045,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/",
-      "publishedDateTime": "2024-02-20T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
