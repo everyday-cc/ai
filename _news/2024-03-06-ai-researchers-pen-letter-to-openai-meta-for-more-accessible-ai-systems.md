@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/302335/20240305/ai-researcher
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI developing fully autonomous robots powered by AI"
-    excerpt: "OpenAI has joined forces with Figure to develop autonomous robots that are powered by artificial intelligence. To be used as a workforce to"
-    publishedDateTime: 2024-03-01T10:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-robot-figure/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/OpenAI-Figure-autonomous-humanoid-robot.jpg"
-        width: 1280
-        height: 860
-        isCached: true
   - title: "New research aims to ensure future AI healthcare systems are free of gender bias"
     excerpt: "Researchers are setting out to help ensure that the artificial intelligence behind the healthcare monitoring systems of the future is capable of providing the best possible care for both men and women."
     publishedDateTime: 2024-03-05T06:40:00Z

@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "As Facebook turns 20, news is out, fun is in"
-    excerpt: "The site displayed randomly selected pairs of students’ mugshots, harvested from the university’s intranet, and allowed users to vote on who was hotter. It caused a stir and was promptly shut down. But before long, a successor was in the making. On February 4, 2004 Mr Zuckerberg launched a new site: TheFacebook.com."
-    publishedDateTime: 2024-03-04T00:21:00Z
-    webUrl: "https://www.afr.com/technology/as-facebook-turns-20-news-is-out-fun-is-in-20240304-p5f9hc"
+  - title: "Hashtag Trending Mar.6- Facebook goes down; Amazon nuclear-powered data centres; Public trust in AI sinking"
+    excerpt: "Imagine a world without Facebook. For just half an hour. A group of AI leaders get together but don’t seem to invite Elon Musk. Amazon takes data centres nuclear. A new competitor for ChatGPT and Google."
+    publishedDateTime: 2024-03-06T09:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-mar-6-facebook-goes-down-amazon-nuclear-powered-data-centres-public-trust-in-ai-sinking/560107"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-mar-6-facebook-goes-down-amazon-nuclear-powered-data-centres-public-trust-in-ai-sinking/560107?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-mar-6-facebook-goes-down-amazon-nuclear-powered-data-centres-public-trust-in-ai-sinking/560107?amp=1"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 41
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.3449%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f4693025b0a1c4dc05eaf405e46e1c401a4e493c"
-        width: 1200
-        height: 628
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
         isCached: true
 
 secured: "LYh4Uwjae6DOAGXP4vdRfyj/qq+TjH0roLKjKJmIi2ACoGhgMFvxyXnoUuF8CtyZs+QTzxUoqhSBL5yJZPxu6+arQ6rJgVbN1FAybXEI+qaWDA24ojZsPejpX2ZMZcyrVx3/CdjXARkDryEQEBJc0Xx95JLrXkLkpDBqLlr9Szj+e+6qBRkd3ichbIdCAT7QE4GYTIeroDTw5RBsw0aH6ZTRoJQ2naHimkp+PIpctqL9EV5Q88F2w4gOU4oh1jG37gGMPIrdBj8bEASMgqolw71IiB/BMZhh1U7WJVmDJ0v/M388Plr5tkARhCUXZ9+/Etd/fXNnQZKeMTBO9RvyxXNRy6J4KNQmpuhAIhVIOVcNgKXNNgRRTI+k6tqhWamr/ROOeT6sWQPGtPUkgUrOLreJDIIQQhgipgd8ZPB/i/UIJwIfz88fgGmXv+Opptta4e7CAz/Fy27Ha659YwDnTtvkTQ4Jd+o/FRRikKBFFzxdNVofSrdl9Q+LL2mfspq9rzdH05YhHQIxTSyhzt+ZOA==;nT/CaA6G2C5xFOe57bvjAw=="

@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-and-nvidia-to-partner-on-new-ai-supercomputing-infrastructure.md",
+      "title": "AWS and Nvidia to partner on new AI supercomputing infrastructure",
+      "excerpt": "WHAT IS ARTIFICIAL INTELLIGENCE (AI)? Nvidia will also integrate its NeMo Retriever microservice into AWS to help users boost their development of generative AI tools like chatbots and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure",
+      "originalUrl": "https://www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d85da770-f5a3-4d04-8436-6dab6b0f035f/fba7a5cd-3828-4a38-ba39-7935e027c9df/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure.amp",
+      "publishedDateTime": "2023-11-28T23:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-amazon-q-gen-ai-assistant.md",
       "title": "AWS Widens Data Pipelines + Creates Amazon Q Gen-AI Assistant",
       "excerpt": "vice president of data and Artificial Intelligence at AWS. “In addition to having the right tool for the job, customers need to be able to integrate the data that is spread across their ...",
@@ -1124,49 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-these-60-extended-amazon-cyber-monday-are-still-available-airpods-to-ninja.md",
-      "title": "These 60+ extended Amazon Cyber Monday are still available: AirPods to Ninja",
-      "excerpt": "Amazon has a widespread collection of extended Cyber Monday offers still available for an unforeseeable (we’re going to bet very little) amount of time. To commemorate one of the biggest — if ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/",
-      "originalUrl": "https://nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/11/amazon-cyber-monday-extended.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/shopping/amazon-cyber-monday-2023-extended-deals-sales/amp/",
-      "publishedDateTime": "2023-11-28T13:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

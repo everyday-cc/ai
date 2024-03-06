@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Under-the-Radar AI Stocks With Long-Term Growth Plans"
+    excerpt: "The slow and heavy vetting IBM's prospective clients apply to the Watson AI systems today will result in lucrative, hard-to-replace, multiyear contracts. \"The early work for clients around data ..."
+    publishedDateTime: 2024-03-03T07:51:00Z
+    webUrl: "https://www.fool.com/investing/2024/03/03/3-under-the-radar-ai-stocks-with-long-term-growth/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/767572/ai-robot-whispers-secrets-to-smiling-human.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "AI Job Growth: Let’s Get Specific, Starting With Health Care"
     excerpt: "There’s no need to imagine this anymore. The innovation is in the organ chips. AI algorithms can analyze medical images such as X-rays, MRIs, and CT scans to assist radiologists – actually, improve their readings – in detecting abnormalities and ..."
     publishedDateTime: 2024-03-04T19:56:00Z

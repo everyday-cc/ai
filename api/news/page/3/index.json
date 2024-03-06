@@ -640,6 +640,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-03-3-under-the-radar-ai-stocks-with-long-term-growth-plans.md",
+      "title": "3 Under-the-Radar AI Stocks With Long-Term Growth Plans",
+      "excerpt": "The slow and heavy vetting IBM's prospective clients apply to the Watson AI systems today will result in lucrative, hard-to-replace, multiyear contracts. \"The early work for clients around data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/03/3-under-the-radar-ai-stocks-with-long-term-growth/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/03/3-under-the-radar-ai-stocks-with-long-term-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/767572/ai-robot-whispers-secrets-to-smiling-human.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-03T07:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-03-driving-with-artificial-intelligence-ai-to-survive.md",
       "title": "Driving with Artificial Intelligence (AI) to Survive",
       "excerpt": "AI is set to penetrate into mobility with higher levels of autonomous driving technologies currently under development.",
@@ -648,7 +700,7 @@
       "originalUrl": "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -794,7 +846,7 @@
       "originalUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -950,7 +1002,7 @@
       "originalUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1239,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-tech-jumps-as-ai-rally-resumes-tech-roundup.md",
-      "title": "Tech Jumps as AI Rally Resumes -- Tech Roundup",
-      "excerpt": "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "originalUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "publishedDateTime": "2024-03-01T21:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

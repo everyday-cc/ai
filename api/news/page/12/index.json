@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-24-aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock.md",
+      "title": "AWS will add Mistral open source AI models to Amazon Bedrock",
+      "excerpt": "It makes total sense for AWS to offer a wide range of models, and the move follows its cloud competitor Microsoft adding Meta's open-source",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/",
+      "originalUrl": "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_Amazon_Bedrock_with_a_server_in_the_middle_148a2a0c-76a0-4b9e-b66e-11d18d68cf1c-transformed.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T23:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-using-ai-to-modernize-drug-development-and-lessons-learned.md",
       "title": "Using AI To Modernize Drug Development And Lessons Learned",
       "excerpt": "This article discusses AI uses cases, in drug development and interviews the CEO of BioPhy and provides insights on being an entrepreneur, and guiding our youth.",
@@ -1160,49 +1213,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai-in-action-transforming-announcement-strategies-in-financial-trading.md",
-      "title": "AI in action transforming announcement strategies in financial trading",
-      "excerpt": "After financial announcements, AI plays a critical role in post-announcement analysis by aiding traders in deciphering the market's reaction. This analysis helps in refining strategies for future events, as AI models evaluate the effectiveness of previous approaches and suggest adjustments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115",
-      "originalUrl": "https://www.fxstreet.com/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/EconomicIndicator/EconomicHealth/GDP/Growth/man-drawing-a-growing-graph-gm493075642-76712039_Small.jpg",
-          "width": 320,
-          "height": 232,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-in-action-transforming-announcement-strategies-in-financial-trading-202402231115",
-      "publishedDateTime": "2024-02-23T11:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
+      "title": "Humanoid robot-maker Figure partners with OpenAI",
+      "excerpt": "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
+      "originalUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/2/73/273a2c51-e6df-5dca-a76b-ab278f9d1e77/65e1032903339.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T23:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tdn",
+        "domain": "tdn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai.md",
       "title": "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI",
       "excerpt": "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges.",
@@ -1170,57 +1213,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-how-nvidia-came-to-rule-ai.md",
-      "title": "How Nvidia Came to Rule AI",
-      "excerpt": "This week we chart the rise of Nvidia, the company whose chips, servers, and data centers have fueled the growth of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-634/",
-      "originalUrl": "https://www.wired.com/story/gadget-lab-podcast-634/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65dfba3e82529b73aa508215/191:100/w_1280,c_limit/Gadget-Lab-Jensen-Huang-Gear-GettyImages-1730512657.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

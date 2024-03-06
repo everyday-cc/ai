@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
-    excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
-    publishedDateTime: 2024-03-01T11:00:00Z
-    webUrl: "https://www.therecord.com/news/waterloo-region/how-a-facial-recognition-error-on-a-waterloo-vending-machine-led-to-an-international-debate/article_db1ff12a-55e2-5aa9-a180-dfef6c575720.html"
-    type: article
-    provider:
-      name: Waterloo Region Record
-      domain: therecord.com
-    quality: 23
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/7/d3/7d352126-1ac4-554c-8445-b8a41bac8b87/65e0ff3713264.image.jpg?crop=1524%2C800%2C157%2C85&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Hq1YrC7pdoE2fNL9QDeXZKsQwMcsIFgpZc2N/MSdJNF3Rz5RoPtHN4kxqORFRYyQ1Gx+aHwlYaciOrHhAPHVw/pyrsIFgI47cwBD43puDNmmHXBz1EUG4vaftkmWEV04hsqiDov+/mnCcsy3QJf58Hfj9ENFjp5gVZWvys3XdYBdmW6IlbvQCWfYNdtwSVlQjUCQcm03U37QJv3h5vWzPdIs/PCYH92xV6CZqcxtlbxQHFsCilKBtbB5732H1IL4vDaXVKXP2sQ2wpmEu7dRphcB6hyDsN8UG8AecmixtXn0f1RBj1vy9/cl9oN7R5yCIOKQO4N2RqeRO50y3F4icNY1yvs72dK1xl3o0WyA9Io=;yQ2sm+aGK2bQaxBeSKbEMA=="
 ---

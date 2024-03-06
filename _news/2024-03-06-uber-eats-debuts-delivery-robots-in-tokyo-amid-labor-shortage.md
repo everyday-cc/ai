@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Self-Driving Robots Begin Deliveries In Tokyo"
+    excerpt: "Caution: robot! chirps the green self-driving delivery vehicle as it trundles down the street to a restaurant in Tokyo to"
+    publishedDateTime: 2024-03-06T09:28:00Z
+    webUrl: "https://menafn.com/1107940819/Self-Driving-Robots-Begin-Deliveries-In-Tokyo"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/06/TP_a9eb3image_story.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Uber Eats Japan begins deliveries with self-driving robots"
     excerpt: "The company has rolled out the service in Tokyo's Nihonbashi area and plans to introduce it in other places as well."
     publishedDateTime: 2024-03-06T06:51:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-edge-of-network-computing-and-ai-how-ai-may-fill-gaps-in-5g-tech.md",
+      "title": "Edge-Of-Network Computing And AI: How AI May Fill Gaps In 5G Tech",
+      "excerpt": "Edge and AI are transforming vehicles into true self-driving machines, filling any gaps in low-latency 5G tech and enabling companies to pioneer advanced autonomy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a57380e07eea1def9805d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
+      "publishedDateTime": "2024-02-13T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars.md",
       "title": "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars",
       "excerpt": "Bryant Walker Smith, a professor at the University of South Carolina with expertise in autonomous-vehicle law, said the episode raises a fair question about whether self-driving cars can or should be able to detect areas crowded with pedestrians and navigate around them.",
@@ -1240,40 +1292,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-why-elon-musks-self-driving-of-teslas-board-and-its-decision-to-pay-him-56b-collided-with-the-law-and-what-happens-next.md",
-      "title": "Why Elon Musk’s ‘self-driving’ of Tesla’s board and its decision to pay him $56B collided with the law – and what happens next",
-      "excerpt": "(THE CONVERSATION) Delaware Chancery Court Judge Kathaleen St. Jude McCormick has blocked Elon Musk’s US$55.8 billion pay package, which Tesla’s board of directors approved in 2018 through a process she found to be “deeply flawed.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/why-elon-musk-s-self-driving-of-tesla-s-18648693.php",
-      "originalUrl": "https://www.chron.com/news/article/why-elon-musk-s-self-driving-of-tesla-s-18648693.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
         "images": null,
         "publishers": null,
         "authors": null

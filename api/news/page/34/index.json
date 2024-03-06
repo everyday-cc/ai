@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2024-02-09-concerns-over-ai-moral-panic-or-mindful-caution.md",
+      "title": "Concerns Over AI: Moral Panic or Mindful Caution?",
+      "excerpt": "With increasingly accessible tools bringing artificial intelligence (AI) platforms to the masses, an inevitable cycle of hype, fear, and misunderstanding of AI stands to outpace bona fide developments in the technologies themselves. For example, with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-deep-learning-for-real-time-molecular-imaging.md",
       "title": "Deep learning for real-time molecular imaging",
       "excerpt": "(Nanowerk News) National University of Singapore (NUS) researchers have demonstrated that deep learning allows them to observe the dynamics of single molecules more precisely and with less data than traditional evaluation methods. They used convolutional ...",
@@ -1040,49 +1074,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one.md",
-      "title": "Google Bard is now Gemini, and Gemini Advanced is bundled with Google One",
-      "excerpt": "After all, Google Gemini is Google’s best answer to ChatGPT, so it’s not a surprise to see Google want to forget all about Bard and Duet AI. These brands are going to be replaced by Google Gemini across the board, including on desktop and mobile devices.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one/",
-      "originalUrl": "https://bgr.com/tech/google-bard-is-now-gemini-and-gemini-advanced-is-bundled-with-google-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2024/02/google-gemini-2.jpg?quality=82&strip=all",
-          "width": 1600,
-          "height": 995,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

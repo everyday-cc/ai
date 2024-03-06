@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-05-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up.md",
+      "title": "AI pervades everyday life with almost no oversight. States scramble to catch up",
+      "excerpt": "While artificial intelligence made headlines with ChatGPT, behind the scenes, the technology has quietly pervaded everyday life — screening job resumes, rental apartment",
+      "sourceUrl": null,
+      "webUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
+      "originalUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2024/03/65e6ae7207fcf6.55539367.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
+      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
+      "publishedDateTime": "2024-03-05T04:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN Radio",
+        "domain": "wgnradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-nvidia-becomes-teslas-successor-as-market-flips-from-electric-vehicles-to-artificial-intelligence.md",
       "title": "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence",
       "excerpt": "Nvidia Corp.’s rise is captivating the stock market and driving the S&P 500 Index to new highs. But it also raises cautionary reminders of another investor darling that soared on dreams of a technological transformation, only to tumble back to earth when ...",
@@ -592,19 +635,19 @@
     {
       "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
       "title": "Apple unplugs self-driving electric car project, reports say",
-      "excerpt": "Apple has reportedly cancelled its plans to build electric vehicles (EV) a decade after the iPhone maker was rumoured to be working on the project. The firm has never publicly acknowledged the project, which involves around two thousand people.",
+      "excerpt": "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a comment. The Apple car team was reportedly known as the Special ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-68420817",
-      "originalUrl": "https://www.bbc.com/news/business-68420817",
+      "webUrl": "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html",
+      "originalUrl": "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7ED1/production/_132756423_gettyimages-2009083580.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2",
+          "width": 976,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -612,23 +655,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-68420817.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-68420817.amp",
-      "publishedDateTime": "2024-02-28T06:50:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1374,59 +1408,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-chinas-rush-to-dominate-ai-comes-with-a-twist-it-depends-on-us-technology.md",
-      "title": "China’s Rush to Dominate A.I. Comes With a Twist: It Depends on U.S. Technology",
-      "excerpt": "In interviews, Mr. Lee presented his A.I. system as an alternative to options like Meta’s generative A.I. model, called LLaMA. There was just one twist: Some of the technology in 01.AI’s system came from LLaMA. Mr. Lee’s start-up then built on Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/21/business/21CHINA-AI/21CHINA-AI-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T16:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

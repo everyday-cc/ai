@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
-    excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
-    publishedDateTime: 2024-03-01T11:00:00Z
-    webUrl: "https://www.therecord.com/news/waterloo-region/how-a-facial-recognition-error-on-a-waterloo-vending-machine-led-to-an-international-debate/article_db1ff12a-55e2-5aa9-a180-dfef6c575720.html"
-    type: article
-    provider:
-      name: Waterloo Region Record
-      domain: therecord.com
-    quality: 23
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/7/d3/7d352126-1ac4-554c-8445-b8a41bac8b87/65e0ff3713264.image.jpg?crop=1524%2C800%2C157%2C85&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "nlQed5Z9RpqUrH2EOzL9dp7+17cFBIqr1WLYQ40sZhzpgm1uF8NygpfM/POgYt+NuEiVa7jWYHTVj8g9xbFMZNqFB5hJ44zbaD94v290x/RNil3cH0ZtmbpVJE25yWfDAhr67suiSWrYXRe2+Yyk3oZuiUHIF16yTVLC3uQ52CiQ69UiVpg4hO3+Lu1MlC+Tn7RphxiNgVTkX7RRNpRqCWyWOl4M097K66yVlKEq/Ay9m9EpDppxYeLR59luuDECiz18M7H7DWsEPukcb++jf1bg8obj7+LjfrIWq5UxMmwAAKqi/cm/IZtwIWsv0LxVEeZoFILBRUbvja+Kp6eQ2B3oHUH4hFlfDDchK1x/YkoZMOWEr4yeER/qRVwliyb76CAQwLtYJvG57XR3inyAVygKf25Pam3Wm7zWwq1U6f5R6LQZtdwQpzxZn63Aw2tn2AQkfWoWrZqygc+Tr/M1nJV0WffKpNbVRwgvSTAoEpHO+SIeClqCkH6qVrFKU1/o5Pq4nvIs3iC3FE8XKbOHig==;J0BQCvkYtSaa5p8vNyz66A=="

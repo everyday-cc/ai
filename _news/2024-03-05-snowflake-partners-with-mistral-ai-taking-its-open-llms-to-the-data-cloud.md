@@ -23,22 +23,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "French startup Mistral AI attracts big cloud players amid growing demand for diverse models"
-    excerpt: "In a move highlighting the market's increasingly diversified demand for AI models, Microsoft recently announced its collaboration with Mistral AI, following in the footsteps of Google Cloud and Amazon's AWS. Save my User ID and Password Some subscribers ..."
-    publishedDateTime: 2024-03-01T10:49:00Z
-    webUrl: "https://www.digitimes.com/news/a20240229PD208/mistral-ai-microsoft-csp-aws-google.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 27
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240229pd208_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-
 secured: "jj4FNO86ZNj56liQxRZkePklvDqE17LETZshTQNLJVgV/Eerh6SrfFdtjEBgglv0U/FMjvrufE3dHJtidLKq3A3Xrc8UaNlmJHf3v3SH4QFYsnwByRqNT/PCdTPzsNY0kViyQE5/O0RQNsnnnJz0mzx2wx/lxJkiA/Et5mJQLkFhzVOqvf5KMqxX9ut78UvlPNCdZ6+2K2oiSgBNlIX75lY4VNxgW63SaFHBX5qrMounwJa+DdIewsCI3aSetj3vPKRZ3TMzF2RQ4dColgjIdnVmPln7b0MDooPrXnsYmT0OcRCO9TpwBC5mDVdH1w7FBxK5QmyQ7jCMCbDZB1T5iFW32fSLwQIl3saG4d7a66o=;Oks3FbHsJKlJxsPxMiPQVw=="
 ---
 

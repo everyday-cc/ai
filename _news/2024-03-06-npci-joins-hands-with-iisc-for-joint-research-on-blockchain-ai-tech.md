@@ -39,6 +39,45 @@ related:
         width: 6285
         height: 4190
         isCached: true
+  - title: "NPCI and IISc Collaborate on Blockchain and AI Research"
+    excerpt: "The collaboration aims to harness the immense potential of deep technologies like blockchain and AI to enhance the landscape of digital ... blockchain platforms and multi-modal analytics over fintech data. Faculty members from five departments at IISc ..."
+    publishedDateTime: 2024-03-06T10:05:00Z
+    webUrl: "https://www.siliconindia.com/news/general/npci-and-iisc-collaborate-on-blockchain-and-ai-research-nid-228285-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/StVYZKgl.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "NPCI, IISc join hands to conduct joint research on blockchain, AI"
+    excerpt: "National Payments Corporation of India (NPCI) on Wednesday announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru,"
+    publishedDateTime: 2024-03-06T10:22:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/npci-iisc-join-hands-to-conduct-joint-research-on-blockchain-ai-863015"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/03/06/1427979-npci.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "NPCI Inks Pact With IISc To Conduct Research On AI, Blockchain"
+    excerpt: "NPCI's pact with Indian Institute of Science (IISc) will propel further innovation through the establishment of the a Centre of Excellence"
+    publishedDateTime: 2024-03-06T09:47:00Z
+    webUrl: "https://inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/"
+    ampWebUrl: "https://inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
   - title: "NPCI Joins Hands With IISc For Joint Research On Blockchain, AI"
     excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
     publishedDateTime: 2024-03-06T07:08:00Z
@@ -53,6 +92,17 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "NPCI joins hands with IISc to conduct joint research on blockchain, AI"
+    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement"
+    publishedDateTime: 2024-03-06T09:05:00Z
+    webUrl: "https://www.business-standard.com/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
     excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
     publishedDateTime: 2024-03-05T08:00:00Z
@@ -63,6 +113,6 @@ related:
       domain: businessinsider.com
     quality: 11
 
-secured: "UCcfrJhgzQhGlK6aImUgAXNOnxQjHEWcJm/ch0HuBQhGBA08pyd7rZQMd/jchrWJDBCnHVZXAtW+ZngwKqBafbhiul6Z7Ej4JefEE42rRzY6c/LCE7oTwvKvMF2ofvyxsjznPrcauK5F8TC+SH7vcNUiIfQjqzhJ5VOa6KRQvtaTVo6lYMVcmn5GE/F3GLasQqQMdkYm1hzF2L8lBbJ1ZeSkdWKJPtpEyVjRMxDiK1sk9xghyBZ5r52U/chXOY3P2xz1fWqRq9tzxqgmsVenB5vIFKQ46mQbKdWTTz+mfHyVGUf34UPKsHxg4UKCHFh7DiB5W45aZZ9Wi94jSW/w4XJBonWwLknq/cSDKIgEGs0=;hxphF7e+bTlvQhkXD4YYCw=="
+secured: "6pt70KPvjaWnaE95bgzkEJJ/9fPs4hOl22OEc6F5TJftSQT9r/7h33R37qVyiXb6ESPwOa3OtWVN2Ek8r9Mg9oqZs7Bz21hCz9vTfeRpPxrtsEqubaIsF6bTXa8WBr2swmCir/erZL4yBrP2sJHaLhpSQvAOa+G5xppion6wBE6XnR0/TxjoUSgj7SvtbmvE1yBM3rbH/M8+h/KN65Hfg7ZvrC965CNbjnv/gwrNExZcAaqUiNNy1Xcx2Ky+LZ4wc4kpd3SHq/AazFpgAPujyTXUPsrUGctGFoHbeRfGB9r66IO8nbIC5kKGQz6fO96oeBgEUH80pFNxDurta5REDuqr38SHfNmYF3Fupkt/sm2Bo/+wiS5tBpacvPa0lEzL+lh+CgrubryMgAF0NRoqfbbQQZbAs4q0A4VlEz63i0rHeNxKcHdy5eKQ4UHdqAwwzYp7PuvhHzASopjL0IMk24O6E3on44Jd6tzqD/yI3r178xCyYQzCWCwuF1BsKAFdfds7c3pdhA7v4YDmJnS7FA==;tI4Ofyj2+S0qB7F8nBSvcw=="
 ---
 

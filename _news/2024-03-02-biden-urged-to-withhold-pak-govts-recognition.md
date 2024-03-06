@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US lawmakers urge President Biden to withhold 'recognition' of Pakistan's new govt until 'credible' poll rigging probe is conducted"
-    excerpt: "Citing \"strong evidence\" of election rigging in Pakistan, a group of influential lawmakers, including Muslim legislators, belonging to the ruling Democratic Party has urged US President Joe Biden to withhold \"recognition ... in political speech or activity ..."
-    publishedDateTime: 2024-03-01T10:00:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/us-lawmakers-urge-president-biden-to-withhold-recognition-of-pakistans-new-govt-until-credible-poll-rigging-probe-is-conducted-12384441.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/us-lawmakers-urge-president-biden-to-withhold-recognition-of-pakistans-new-govt-until-credible-poll-rigging-probe-is-conducted-12384441.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/us-lawmakers-urge-president-biden-to-withhold-recognition-of-pakistans-new-govt-until-credible-poll-rigging-probe-is-conducted-12384441.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 14
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/joe-biden-us-bbo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "US lawmakers call on Biden to withhold recognition of Pakistan's new government"
     excerpt: "Over two dozen members of Congress want the Biden administration to conduct an audit of Pakistan's recent election"
     publishedDateTime: 2024-03-01T19:02:00Z

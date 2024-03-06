@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission"
-    excerpt: "The new Board consisted of members with more experience in profit-centric enterprises or politics than in AI ethics and governance,” the lawsuit adds."
-    publishedDateTime: 2024-03-01T10:30:00Z
-    webUrl: "https://techcrunch.com/2024/03/01/elon-musk-openai-sam-altman-court/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "Sam Altman-backed startup to bring AI smart pin to Japan, South Korea"
     excerpt: "BARCELONA, Spain -- AI device maker Humane is bringing its smart pin to Japan and South Korea as the U.S. startup backed by Microsoft and Sam Altman makes its first overseas push, its co-founders told Nikkei Asia. San Francisco-based Humane's AI Pin was ..."
     publishedDateTime: 2024-03-05T01:49:00Z

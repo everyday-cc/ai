@@ -37,20 +37,6 @@ related:
         width: 749
         height: 420
         isCached: true
-  - title: "OpenAI and Microsoft focus on robotics with Figure AI deal"
-    excerpt: "Figure AI said it will also leverage Microsoft Azure for AI infrastructure, training, and storage. The tech giant supported OpenAI on its development of ChatGPT – one of the major products that launched the recent focus on generative AI technology."
-    publishedDateTime: 2024-03-01T10:47:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/figure-ai-openai-microsoft-funding-humanoid-robotics"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/figure-ai.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft unveils new AI tools for Windows 11"
     excerpt: "The deeper integration of Copilot and other AI capabilities into Windows is a key part of Microsoft ... \"As businesses become more [familiar] with what it does, [Microsoft will] start bringing more to the table.” Matthew Finnegan covers Microsoft ..."
     publishedDateTime: 2024-03-01T16:34:00Z

@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission"
-    excerpt: "The new Board consisted of members with more experience in profit-centric enterprises or politics than in AI ethics and governance,” the lawsuit adds."
-    publishedDateTime: 2024-03-01T10:30:00Z
-    webUrl: "https://techcrunch.com/2024/03/01/elon-musk-openai-sam-altman-court/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "Altman Ups AI Arms Race"
     excerpt: "Altman has been courting Middle Eastern sovereign wealth funds (SWFs), including Saudi Arabia’s Public Investment Fund (PIF) and Abu Dhabi’s Mubadala Investment Company, Abu Dhabi Investment Authority,"
     publishedDateTime: 2024-03-02T23:35:00Z

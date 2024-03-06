@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo"
+    excerpt: "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight."
+    publishedDateTime: 2024-03-06T10:05:00Z
+    webUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
     excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
     publishedDateTime: 2024-03-04T18:14:00Z
@@ -80,15 +94,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 47
-  - title: "Humanoid robot-maker gets backing from Jeff Bezos"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, Calif.-based Figure announced the partnership Thursday along with $675 million in venture capital funding from a group that includes Amazon founder Jeff Bezos as well as Microsoft,"
-    publishedDateTime: 2024-03-01T11:00:00Z
-    webUrl: "https://www.avpress.com/business/humanoid-robot-maker-gets-backing-from-jeff-bezos/article_6da291fa-d773-11ee-a6f1-eb5e53058e51.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 19
 
 secured: "E1rsvuytoTaosuLFfJRM2n48ke4hfMFzNEfObXHa3Tr9g92+VJA3pVfwJfws1EWY6K9h23x9gfZPT32MaIQiuToqGEQuX/atMNJEW5swS4iAXZ0P6lLu+CbAfRVmBP4iKLRf/bobmWvfcxm0c5ByaAxsDFmUeCId1AstMWLTV2EFg8SGCU4x3zDVMoRa+hCFor3xju5QQcfKjM+1bbswUXXfuHq+vzLJEBGQBY2W736qwRYWbCWZdltgCt/j6JC5BJ6s2T4iY9RtVWta6FPx7mtQF9Xik1UiLQoVfDcanrwiRL70W6eW7/Crti+E4T39mGrbT4s94D5GLw+ocYyXpyoZzKqnuWBkFMw2DRhhjGqPUG3ywy3AexlG5S9hFABK2PDoFGYqJ82fzWg/0PuiX3XZ+77m5aamMxelnV8xaDwehut1SgXl/cCUwHPJKHAwrod19pi+MjdOEk6PXuMlLdXlxh/RhWNybcUrrm4a3/NgFr8h7wew1UxJiXwgt0ee+Ta5omo9hjw+dcR/DYMGbg==;oYYBku0Q1ENFDMdTBOOUPg=="
 ---

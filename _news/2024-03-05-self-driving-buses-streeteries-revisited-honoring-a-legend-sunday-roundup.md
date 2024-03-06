@@ -7,7 +7,7 @@ originalUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundu
 webUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Sunderland launches self-driving shuttle"
+    excerpt: "Sunderland prepares to launch Britain's inaugural self-driving city centre bus service this spring, supported by a government-backed pilot scheme"
+    publishedDateTime: 2024-03-06T09:00:00Z
+    webUrl: "https://www.energylivenews.com/2024/03/06/sunderland-launches-self-driving-shuttle/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 24
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2024/03/blank-720-x-412-2024-03-06t074842-934.jpg"
+        width: 720
+        height: 412
+        isCached: true
 
 secured: "EKWB6+K2fOBLAKwz9YnyoXJhgaR086G4oSyujXzrge0WmwmM4udfLwZUtf+T+xC4lHFC15cbKADYC04wiO3xVB28cVELa2ihZm2X9PvUlGT4taURFwUQnGbhuOinvQAnl/2DbgDcR18HgxlF3oQkr2WINDmcxegJ1REih+AKIq25A+m2isiTz/DTATxGNfCjZykjz4E8DPPk8I7W0Bj0ooooJdB1E6Qf2OLvWlmwNAMyDcK7PnxdgtJKhCRmsKHSw8P2m2Wt1qFaqPXAoCHqISnjFcyG2vfgAiZ1+mFLWVGMQs3BoEOP0NdCvN8a9tXtFYKhIsLHisYey/xT+Jik1QPYci7ClpL1o9LZ2xgcAZQ=;yt1107F29/t91Cpr0cNtRw=="
 ---

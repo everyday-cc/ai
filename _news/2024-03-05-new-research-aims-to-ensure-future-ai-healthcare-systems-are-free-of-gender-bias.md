@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "OpenAI developing fully autonomous robots powered by AI"
-    excerpt: "OpenAI has joined forces with Figure to develop autonomous robots that are powered by artificial intelligence. To be used as a workforce to"
-    publishedDateTime: 2024-03-01T10:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-robot-figure/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/OpenAI-Figure-autonomous-humanoid-robot.jpg"
-        width: 1280
-        height: 860
-        isCached: true
   - title: "Researchers, legal experts want AI firms to open up for safety checks"
     excerpt: "More than 150 researchers, ethicists, legal experts and professors signed onto a letter asking generative AI companies to open up their technology to outside evaluations for safety reasons."
     publishedDateTime: 2024-03-05T18:10:00Z

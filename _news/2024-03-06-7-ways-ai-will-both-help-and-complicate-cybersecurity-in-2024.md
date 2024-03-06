@@ -57,20 +57,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 51
-  - title: "Why cybersecurity skills are coveted in fintech"
-    excerpt: "In areas such as AI and cybersecurity, those with the necessary skills and ... that new solutions are found to deal with online fraud, particularly within the fintech sector. While the above stats sound positive, the one thing getting in the way of the ..."
-    publishedDateTime: 2024-03-01T10:02:00Z
-    webUrl: "https://www.finextra.com/the-long-read/959/why-cybersecurity-skills-are-coveted-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/959.jpg"
-        width: 799
-        height: 449
-        isCached: true
 
 secured: "Pa91LdybPOU484or8/xb9j5vUwEXcwRRF0jJYP1SsY3Sl1vhD8iCfX7/LOv5gyxvzv9+5tliS7AzQ7yH4oDs4nOuMCcj+pcBYw9YG3PdGYo2skgKsKj8dnRF9rxXO2LYUEzBv0vSUnLHfdT0usm0+UM3sVTN2+psK8NH99EMMcnFvJyx1kh6AcL4cAnVeGpeMFVn2yAhup3/ZRUtBhvLDRS+SLB0R37xu/ukw6hIBW4EKAZImyCgjkPFPOzcLjpK1vju93fu05LyAX+TqLX1opqYeNy9HHprXkt/z97lKemd5dPI2AngxU4wM6TtUBIbBDsJF5innNc0Aa3NDTsi3jPLxwuZTRi4eyWO5RRFd2Y=;ZAL8p128+4vKof6WAVeLlA=="
 ---

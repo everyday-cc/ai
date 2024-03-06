@@ -9,8 +9,8 @@ ampWebUrl: "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life
 cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: WGN Radio
@@ -38,6 +38,20 @@ related:
     quality: 35
     images:
       - url: "https://sentinelcolorado.com/wp-content/uploads/2024/03/AP24064511586694.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "AI pervades everyday life with almost no oversight. Colorado and other states are scrambling to catch up."
+    excerpt: "Lawmakers in at least seven states are taking big legislative swings to regulate bias in artificial intelligence, filling a void left by Congress’ inaction"
+    publishedDateTime: 2024-03-06T09:55:00Z
+    webUrl: "https://coloradosun.com/2024/03/06/colorado-ai-regulations-national-conversation/"
+    type: article
+    provider:
+      name: coloradosun
+      domain: coloradosun.com
+    quality: 22
+    images:
+      - url: "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/AP24064511651687.jpg?fit=1024%2C683&ssl=1"
         width: 1024
         height: 683
         isCached: true

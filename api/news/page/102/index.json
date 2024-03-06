@@ -2,6 +2,57 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-12-08-not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps.md",
+      "title": "Not Sure Where To Start With Your AI Strategy? Here Are 3 Steps",
+      "excerpt": "As the parenthetical mantra in the section title suggests, you need to feed the beast that is AI, and data is the food of choice. That requires a critical first step of knowing the data your company produces or can access, and what will be most helpful for AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/",
+      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62b4c60b1c32ef4eb55bfc24/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1372,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/12/07/not-sure-where-to-start-with-your-ai-strategy-here-are-3-steps/amp/",
+      "publishedDateTime": "2023-12-07T16:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-ibm-was-early-to-ai-then-lost-its-way-ceo-arvind-krishna-explains-whats-next.md",
       "title": "IBM was early to AI, then lost its way. CEO Arvind Krishna explains what's next",
       "excerpt": "IBM is angling hard for an AI comeback story, and CEO Arvind Krishna is counting on a recent pivot to get it there. Since May, the company has reintroduced the Watson brand as part of the ...",
@@ -1032,58 +1083,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-google-pins-its-hopes-on-gemini-ai-to-redeem-troubled-assistant-bard.md",
-      "title": "Google pins its hopes on Gemini AI to redeem troubled assistant Bard",
-      "excerpt": "After a disappointing launch, Google hopes its new Gemini AI model can improve the capabilities of its AI assistant Bard and help it compete with leading chatbots like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-pins-its-hopes-on-gemini-ai-to-redeem-troubled-assistant-bard/",
-      "originalUrl": "https://venturebeat.com/ai/google-pins-its-hopes-on-gemini-ai-to-redeem-troubled-assistant-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Abstract_painting_of_Google_Search_on_a_laptop_70f78645-f2d0-4fe2-9bde-f9ea6aece0b0-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

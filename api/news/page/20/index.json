@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-20-three-ways-cloud-can-drive-a-smarter-era-of-education.md",
+      "title": "Three ways cloud can drive a smarter era of education",
+      "excerpt": "New technologies are transforming education by driving a shift towards more accessible, flexible and engaging educational experiences for students and faculty members, while simultaneously delivering an easier-to-manage and more secure IT environment for administrators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/article/three-ways-cloud-can-drive-a-smarter-era-of-education",
+      "originalUrl": "https://www.technologyrecord.com/article/three-ways-cloud-can-drive-a-smarter-era-of-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4852/Education_laptop_Microsoft-1.jpg",
+          "width": 975,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T09:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologyrecord.com",
+        "domain": "technologyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-this-new-ai-assistant-from-adobe-lets-you-chat-with-your-pdfs-at-no-additional-cost.md",
       "title": "This new AI Assistant from Adobe lets you chat with your PDFs at no additional cost",
       "excerpt": "Getting started is easy. All Acrobat and Reader users will have to do is open the applications, where they will find the AI Assistant in beta, which they can then use for a range of tasks, including providing answers to recommended or user-generated questions through a chatbot.",
@@ -1140,48 +1184,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-unlocking-financial-benefits-through-data-monetization.md",
-      "title": "Unlocking financial benefits through data monetization",
-      "excerpt": "Empowering organizations to use their data assets and artificial intelligence (AI) capabilities to create tangible economic value.\nThe post Unlocking financial benefits through data monetization appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unlocking-financial-benefits-through-data-monetization/",
-      "originalUrl": "https://www.ibm.com/blog/unlocking-financial-benefits-through-data-monetization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

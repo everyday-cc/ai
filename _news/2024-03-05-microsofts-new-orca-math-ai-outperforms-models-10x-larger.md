@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms
 webUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/"
 type: article
 quality: 103
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI and Microsoft focus on robotics with Figure AI deal"
-    excerpt: "Figure AI said it will also leverage Microsoft Azure for AI infrastructure, training, and storage. The tech giant supported OpenAI on its development of ChatGPT – one of the major products that launched the recent focus on generative AI technology."
-    publishedDateTime: 2024-03-01T10:47:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/figure-ai-openai-microsoft-funding-humanoid-robotics"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/figure-ai.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Elon Musk sues ChatGPT-maker OpenAI over Microsoft links"
     excerpt: "Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015. The lawsuit - which has also been filed against OpenAI boss Sam Altman - says the firm has departed from its original non-profit, open source mission."
     publishedDateTime: 2024-03-01T14:27:00Z

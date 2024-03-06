@@ -2,6 +2,49 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-12-13-health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants.md",
+      "title": "Health Plan: A snake-like robot, real-time heart health and soft robotic implants",
+      "excerpt": "In the final part of our Health Plan series, we see how a snake-like robot developed for remote inspection has been adapted for use in throat cancer surgery, look at a wearable ECG monitor, hear how soft robotic implants could be used for drug delivery, and speak to the company behind a device that continually monitors IV therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
+      "originalUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/jj_viscero_ecg-vest_context_podaqua.jpg?sfvrsn=2b754411_0&size=705",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institution of Mechanical Engineers",
+        "domain": "imeche.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-ai-in-healthcare-are-people-losing-or-gaining-control.md",
       "title": "AI In Healthcare: Are People Losing Or Gaining Control?",
       "excerpt": "In healthcare and beyond, the rise of artificial intelligence should give pause to both businesses and consumers—even as we learn to move forward.",
@@ -1100,49 +1143,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-light-stimulated-adaptive-artificial-synapse-based-on-nanocrystalline-metal-oxide-film.md",
-      "title": "Light-stimulated adaptive artificial synapse based on nanocrystalline metal-oxide film",
-      "excerpt": "A new publication from Opto-Electronic Science; DOI  <a href=\" target=\"_blank\">10.29026/oes.2023.230016  discusses light-stimulated adaptive artificial synapse based on nanocrystalline metal-oxide film.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1011030",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1011030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/77863e73-0c4c-435f-bf90-7acb9181cdf7/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

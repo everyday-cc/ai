@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-08-5-books-to-help-you-understand-artificial-intelligence.md",
+      "title": "5 books to help you understand Artificial Intelligence",
+      "excerpt": "According to Russell, the starting points of this downwards economic pressure can already be seen in products like self-driving cars and AI personal assistants. Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
+      "originalUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/AI-Books-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
+      "publishedDateTime": "2024-01-07T22:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-artificial-intelligence-stirs-privacy-challenges-for-schools.md",
       "title": "Artificial intelligence stirs privacy challenges for schools",
       "excerpt": "A commercial boom around using artificial intelligence in the classroom is creating a slew of privacy and safety hazards well before Washington grapples with the fast-moving technology.",
@@ -1326,58 +1369,6 @@
         "name": "EconoTimes",
         "domain": "econotimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-teslas-self-driving-tech-has-competition.md",
-      "title": "Tesla’s Self-Driving Tech Has Competition",
-      "excerpt": "A mass recall of Tesla’s Autopilot feature and crisis at General Motors’ autonomous-taxi business might give the impression that self-driving cars have hit a roadblock. In fact, the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2",
-      "originalUrl": "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-900927/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-16T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

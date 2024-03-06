@@ -53,7 +53,21 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Self-Driving Robots Begin Deliveries In Tokyo"
+    excerpt: "Caution: robot! chirps the green self-driving delivery vehicle as it trundles down the street to a restaurant in Tokyo to"
+    publishedDateTime: 2024-03-06T09:28:00Z
+    webUrl: "https://menafn.com/1107940819/Self-Driving-Robots-Begin-Deliveries-In-Tokyo"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/06/TP_a9eb3image_story.jpg"
+        width: 1000
+        height: 666
+        isCached: true
 
-secured: "HyTkw4mHp640Y0+rUnxGiCJn+WVC9dCjBI3rFBJ7m6D9Ct1uBedI25PkEqwzOYu8A6PgCQAwg8L8h4AeJyZr8BPbTVBirfvzY/FGAG7ejIihIPL3V2lvJD7UZG+8qTgwmgs1O4N158Hhnehspsog1qdTG2qqSjOLaYsjiF62ROdgfn+qW9mjU/n0KG0JKPye6NLki5B0YLUBt9dXpuUVkUMa68ezTDpeEJMo5QgL2VjUMn+pNwZ9NLGeg14aNYVDS4SMPPseFZtNYJmJZLmd5C4A+bTr+KNYZzLGtjVOXdM91vEH35qnwz1MOmhMcUrh1Dpy1bodrenzsp/HpXPklyqTwNdI2FdBU9xFIsbqwAk=;NOYrATV2eXGadlvWhWesuA=="
+secured: "8Ro37aggr8DLsOKvvDaLsGhF0T+4UOAA5Z0f5xjjxlCWEHqYtE1+k/Dwn+6Gq0uU07rhi8JyDQ3366ZHMm0BY2poNfnU7k5KIheco+sL5Us0XSoLwivggx7JRDxNDA240VYLq8PU8o69XeJvlDkN+1av4dVsqLyrmdLbk3HJ6rDGmmyfwM9jZr7QsVyJTCOtULDrVpY66LE6pfOI4yTCVrZ31g7IUIElDs0aMeU4Mh/uaPYjMEjnYs7fp90s5wrdJrfDToHSiBlkCIYCET3vv0jYsK7uUB4fmSLlQ9Y9I0aSMGtz/sUtnu1rOanXNojwfBoLcfpw/7wU3ojkkKm3DgW5Son4z110j9e3hDlclxWbw9Q0VHc0r5mbjuCr1AlvnoflG2Y/yRwJshm+3Hzq7uL65GnltgBmLWPLh1HOT5YcUvJrsyhW5agcFM+/d4sPYag0l7j3L1PwfZeYzY5RNISab4U7o5oCeSH9xjfUGivanMyUTSzOiZIYAahyK0L33sLPszrUy1e3oVs000Ml/Q==;xNVpJk824KII2bIYFuJ2mA=="
 ---
 

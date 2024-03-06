@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-futu
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-future-of-ai-and-ml-in-cybersecurity/"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
         width: 600
         height: 260
-        isCached: true
-  - title: "Why cybersecurity skills are coveted in fintech"
-    excerpt: "In areas such as AI and cybersecurity, those with the necessary skills and ... that new solutions are found to deal with online fraud, particularly within the fintech sector. While the above stats sound positive, the one thing getting in the way of the ..."
-    publishedDateTime: 2024-03-01T10:02:00Z
-    webUrl: "https://www.finextra.com/the-long-read/959/why-cybersecurity-skills-are-coveted-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/959.jpg"
-        width: 799
-        height: 449
         isCached: true
 
 secured: "dDZv4DLNPAKFLXT5RNlymOxTp+sCgVlQDpJevNanhE4pKNqSi5jP2vtO+SYKo+LqCS4yC/x6XIdUQijIBOD8SYAsI2nQgw5v8Mnz+j8nnfCNSpwRCcs4paHhWQLvLW7qS0gtkyrcXC/J9ssW5MYr1Fa0lXvwUs5v1HoaIct2kPgmtTE7bUA/OIBaax2UStyWors6S8Rj1xPpDJm+YwQfWKvlVzV1nvywG65SvdagUc69K7WtewICoAhJpce249KF1bwmqCX8XpFn3jSZsK6VNhVhTS++IAV7Q6OJsDAS1Z+4iiKS60EC/hm6MQJcbFGZ+LhZohhGusEkEDmU/GAe+b4XULMb5ErSNM0bVg8iym8=;nmU0Gc7hxdmW2MxupFiBkQ=="
