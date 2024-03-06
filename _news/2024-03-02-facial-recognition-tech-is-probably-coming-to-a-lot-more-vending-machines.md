@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://c.ndtvimg.com/2024-03/ie1611mo_vending-machine-generic_625x300_01_March_24.jpeg?ver-20240117.07"
         width: 1200
         height: 738
-        isCached: true
-  - title: "Complaints filed with privacy commissioner over facial recognition vending machines"
-    excerpt: "Two complaints have been filed with the Office of the Information and Privacy Commissioner of Ontario over facial recognition software in smart vending machines on ..."
-    publishedDateTime: 2024-02-29T23:28:00Z
-    webUrl: "https://kitchener.ctvnews.ca/complaints-filed-with-privacy-commissioner-over-facial-recognition-vending-machines-1.6790047"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 48
-    images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
-        width: 1020
-        height: 574
         isCached: true
   - title: "When it Comes to Facial Recognition, There is No Such Thing as a Magic Number"
     excerpt: "BKC Affiliate Marissa Gerchick and Matt Cagle argue that facial recognition test scores mislead communities about the technology's harms."

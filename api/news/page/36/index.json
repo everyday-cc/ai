@@ -2,49 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2024-02-07-researchers-predict-more-autonomous-vehicles-by-2030-better-adas-tech-needed.md",
-      "title": "Researchers predict more autonomous vehicles by 2030, better ADAS tech needed",
-      "excerpt": "ABI Research has reviewed the current state of autonomous driving technology within the automotive industry in conjunction with artificial intelligence (AI), high-performance computing, mapping,",
-      "sourceUrl": null,
-      "webUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
-      "originalUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2024/02/iStock-1437737518.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Repairer Driven News",
-        "domain": "repairerdrivennews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-07-70-fascinating-baidu-statistics-and-facts-2024-trends.md",
       "title": "70+ Fascinating Baidu Statistics and Facts [2024 Trends]",
       "excerpt": "Instead of relying on Google and other foreign solutions, the government provided Baidu for its citizens to help them navigate the Chinese web. The question in your mind will probably be ...",
@@ -1091,6 +1048,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-maine-residents-urged-to-keep-an-eye-out-for-missing-llama.md",
+      "title": "Maine Residents Urged to Keep an Eye Out for Missing Llama",
+      "excerpt": "Authorities suspect that a young llama has been stolen, and are urging Mainers to watch for any signs of its whereabouts.",
+      "sourceUrl": null,
+      "webUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "originalUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://townsquare.media/site/997/files/2020/10/logo-1.png",
+          "width": 711,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T14:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seacoastcurrent",
+        "domain": "seacoastcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     }

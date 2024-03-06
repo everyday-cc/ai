@@ -1,67 +1,26 @@
 ---
 category: news
 title: "Humanoid robot-maker Figure partners with OpenAI"
-excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ..."
-publishedDateTime: 2024-03-01T00:19:00Z
-originalUrl: "https://buffalonews.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_2f500ec3-d1fc-5db9-83fc-7057ea05298d.html"
-webUrl: "https://buffalonews.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_2f500ec3-d1fc-5db9-83fc-7057ea05298d.html"
+excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
+publishedDateTime: 2024-02-29T22:30:00Z
+originalUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
+webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: The Roanoke Times
+  domain: roanoke.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/2/f5/2f500ec3-d1fc-5db9-83fc-7057ea05298d/65e1032635818.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-related:
-  - title: "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids"
-    excerpt: "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software."
-    publishedDateTime: 2024-03-01T05:43:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-  - title: "OpenAI developing fully autonomous robots powered by AI"
-    excerpt: "OpenAI has joined forces with Figure to develop autonomous robots that are powered by artificial intelligence. To be used as a workforce to"
-    publishedDateTime: 2024-03-01T10:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-robot-figure/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/OpenAI-Figure-autonomous-humanoid-robot.jpg"
-        width: 1280
-        height: 860
-        isCached: true
-  - title: "HCL Technologies launches genAI platform AI Force"
-    excerpt: "HCL Technologies (HCLTech) has launched AI Force, a generative AI platform that accelerates time-to-value for software development, productivity, and quality. The patented AI platform is built on Azure OpenAI and can be integrated with Microsoft GitHub Copilot,"
-    publishedDateTime: 2024-03-05T06:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/hcl-technologies-launches-ai-force/article67915963.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/hcl-technologies-launches-ai-force/article67915963.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/hcl-technologies-launches-ai-force/article67915963.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
-
-secured: "152giOX92RLbfROzQ0mTT0Ur3YP2HeS8Jh1SuTSQxOo0IsOAnC18vsLkPmgnbRAo4/mLRUofj/jV2i/fqu0fTbgUYXQhly69E++wo7suJHsh+5Olu8Hz763erK9f2Tx7HfRB1nQbnnrQKf9oZMZAUI5SFc8I8lav4ggXrlmcKXd1UfKQ/0SVzgOvWJzoduNm/FJJWLJHcK6q28WayIIpcgj6Qag6JD6ZMLoF4kTChYh/rCzMYy7f0RXsjwn84884ypZ9aygnY7i3VCEvWMAWt4RYgvWuoS6yRE7Nogm2JCWoOqMvpz83cUFhcnMI4ovdltXCdeE1pTx98+UrmVCCXv4dOjwPAEuVyZv1ZaZs4Zg=;sJMV05E55NyOrMFrWzeZjw=="
+secured: "DLUNE+ROt4niWzRnLKbqeqkLiVNszOKDfqJlYHH25hciurTw+0Fz5df4j2ebw1vWqtcPR1XXHWOWwb0+bIaMRD/V5UzjFkkizdT4Rjv9DWmr1Pco1rZ8vS8lYbnPUTWk2kuSBxGpUKXa/KCocR4Q+YhAOljl0vKTyRXE+UBFeJAfJWo0TmL/KGJJWxFBWm0BZ14QviP8usWN9/Ss9G0CXCuRyqpmg1Xmw85ZsPDAw065KnYvh+gX1Edh726YYtIZeY6th3Qy3RZReHgR/YReEK6drPHp+rhB9ep4UluuXIj70Z5ceVdXFqYA6QTchjX+yPx0BI824nLsg4mTiikGw1lIOaWv33ZfVkF5j7oTB3I=;xq4RkQDegJFF1DfRF6JlSg=="
 ---
 

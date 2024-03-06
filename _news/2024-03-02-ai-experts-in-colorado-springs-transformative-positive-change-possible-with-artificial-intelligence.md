@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
-    excerpt: "Following the release of OpenAI’s Chat-GPT in November 2022, questions and concerns surrounding the use of artificial intelligence and how it will change our lives as we know it erupted from the general public. Is now the time robots will begin taking ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://gazette.com/news/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/b/9c/b9cc95fa-d825-11ee-8e75-b73da9c57223/65e2687fbb61b.image.png?crop=1912%2C1004%2C0%2C1&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lancaster AI founder: 2024 will be transformative year"
     excerpt: "“It’s only a few additional steps to start learning how to tune the way you frame questions to the AI and try to push the technology to its limits.” Driven by a fascination with technology, Evry taught himself AI. “The advent of ChatGPT in December ..."
     publishedDateTime: 2024-03-03T00:00:00Z

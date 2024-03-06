@@ -2,57 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2024-02-18-ethiopias-250-million-tech-expansion-in-bitcoin-and-ai.md",
-      "title": "Ethiopia's $250 Million Tech Expansion In Bitcoin And AI",
-      "excerpt": "Aiming to become a global digital economy leader, Ethiopia is leveraging its renewable energy sources to power the advancement of bitcoin mining and AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d2341d5d5e9962346adb36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
-      "publishedDateTime": "2024-02-18T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-18-paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week.md",
       "title": "PayPal Ventures’ first AI investment, a credit-based dating app and Robinhood’s good week",
       "excerpt": "FlowFi, a startup creating a marketplace of finance experts for entrepreneurs ... Rasa, an enterprise-focused conversational generative AI platform with financial services companies as clients, raised $30 million in a Series C round co-led by StepStone ...",
@@ -1182,6 +1131,57 @@
         "AI Hardware",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-what-are-breach-and-attack-simulations.md",
+      "title": "What are Breach and Attack Simulations?",
+      "excerpt": "Breach and attack simulation (BAS) provides organizations with continuous offensive security testing. See how it works and why it's important.\nThe post What are Breach and Attack Simulations? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/breach-attack-simulation/",
+      "originalUrl": "https://www.ibm.com/blog/breach-attack-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/c8b7f5c7-c9f9-4595-904efee58de463ef.blog-lead-space-40x21-1.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

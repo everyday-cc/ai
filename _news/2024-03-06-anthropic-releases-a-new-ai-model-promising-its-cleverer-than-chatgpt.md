@@ -55,6 +55,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini"
+    excerpt: "AI startup Anthropic said Monday that the latest version of ... Opus, on the other hand, can plan and execute complex actions across APIs and databases and perform research and development tasks like brainstorming and hypothesis generation and even drug ..."
+    publishedDateTime: 2024-03-06T00:45:00Z
+    webUrl: "https://www.cnet.com/tech/anthropic-ups-its-ai-chatbot-game-with-claude-3-rival-to-chatgpt-and-gemini/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 83
+    images:
+      - url: "https://www.cnet.com/a/img/resize/6a110345d1f9a94f4a40d55bab492847a9dc8b19/hub/2024/03/05/d74b3cfb-af75-44d2-85c4-115f110de078/claude-3-launch.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Anthropic reveals Claude 3 AI LLMs, claims it beats Gemini and GPT-4 in many benchmarks"
     excerpt: "Anthropic, the startup AI large language model (LLM) company that was launched in part by a number of former OpenAI team members, has just launched its latest family of LLMs. The Claude 3 lineup includes one that the company claims beats OpenAI's GPT-4 and ..."
     publishedDateTime: 2024-03-04T16:10:00Z
@@ -250,6 +264,6 @@ related:
       domain: nbcnewyork.com
     quality: 5
 
-secured: "gIjccFmQFa4DfIWc/7HsH3KoH0LbV33fsoSSzKDLMedjplXcT8/D1kNy75qKg2I+cFL3OZ83ofJG/ntuDZ6Rl78YOl5hNdixZuVmNckNggA0+MJKdVXZlAsZnupOXt8q2dyb/kkF358UGudHRb5eCfTwa1aJ0NMNXouREazm17Yempt2x6Fu9buyme4gl4wN6IQn4UQ5VrA7BAswpZImYHwgElY22Z9bCV8QCW3tGOuiGWVNxcCO6cEQgx3gWiKrl/UhXhNW+bL53qQN520lLfVhVE8/XR3LSDEqNMOmgIrEdRy2apFZ8MjDt8pYSUs46Ym6Eku3GHVFND1tHOZIBhN6mpByUC+mbfZfKe3GQDU=;RCWeXtYcgDEW9k6gQXmZOg=="
+secured: "v+vSm8N1quB7N+uNkE3ZCD3h7G4roKlfFnAlttHiEw3j8WNfxA3auBzjn14hS9swwINIm+NR03VsUIp9qonotjPkilchRAES2X2mYxlsMmBgop18iAninDgF5QAAqrCxs+AAzCQo593JaF0ZbpRabXiwoK7s81gmdsRf8R4gqTqmIYDYzYmaESRnAPXxoVYQK/TNAvW3fwtcePwtjje25gKxKD0zFI4Z00FwkZc3zKYjZyFMD5pBxtTmFHXW+bPNcx3TpKRe2iAbsSUA9UK1ooQCoBQDKaJF9OMMIWe48ymCpyfQfHiuM1luUYBUg079vtr9jnB3JAE2EaMHRF3pIuJwWcVGBbAbyjv0EX2y+vHqvXC5am9Vj3GdgDNgIi1v2vlHXoo/UIULGVap/0P44EVnRvYkPpTo2TAezu17XxksCoNlNl/CXAtWffhH6XzhhCOpA5y7aaH+BsitjVxj90qh1rBONFz54GzRHsSFzjhmgn/dzNK5M0e11pGAAqMIiGeg45et7H3OoD8i3fQhyA==;gjruWnDBmRO0U1uNtGqTTw=="
 ---
 

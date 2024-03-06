@@ -2,109 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-03-01-the-rise-of-ai-tutors.md",
-      "title": "The Rise Of AI Tutors",
-      "excerpt": "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/",
-      "publishedDateTime": "2024-03-01T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-soundhound-ai-shares-tumble-19-on-4q-miss.md",
-      "title": "SoundHound AI Shares Tumble 19% on 4Q Miss",
-      "excerpt": "Analysts polled by FactSet expected a per-share loss of 6 cents. Shares of SoundHound AI have shot up since chip giant Nvidia reported an ownership stake in the company. The stake was first reported in a filing in February. The company said with the fourth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
-      "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
-      "publishedDateTime": "2024-03-01T12:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-01-ai-in-fintech-marketing-let-the-robots-do-what-they-do-best.md",
       "title": "AI In Fintech Marketing: Let The Robots Do What They Do Best",
       "excerpt": "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ...",
@@ -521,7 +418,7 @@
       "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "",
@@ -955,6 +852,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
+      "title": "Humanoid robot-maker Figure partners with OpenAI",
+      "excerpt": "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding.",
+      "sourceUrl": null,
+      "webUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
+      "originalUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T22:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Roanoke Times",
+        "domain": "roanoke.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-tech-advances-as-ai-craze-resumes-tech-roundup.md",
       "title": "Tech Advances as AI Craze Resumes -- Tech Roundup",
       "excerpt": "Nvidia shares rallied, testing all-time highs, as investors continued to pile into the high-performance chip maker on AI growth hopes. Other major AI players, including Amazon.com and Microsoft rose, too. The Securities and Exchange Commission is ...",
@@ -1244,6 +1184,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-figure-ais-675-million-breakthrough-in-humanoid-robotics.md",
+      "title": "Figure AI’s $675 Million Breakthrough in Humanoid Robotics",
+      "excerpt": "In the ever-evolving landscape of technology, humanoid robotics stands as a frontier teeming with potential and promise. The concept, once confined to the realms of science fiction, is rapidly materializing into a tangible reality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
+      "originalUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2024/02/alex_mc9997_a_robotic_flying_insect_in_nature_4f742cc4-0f5e-456d-9b1f-479e6bf0a829-400x240.png",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T19:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

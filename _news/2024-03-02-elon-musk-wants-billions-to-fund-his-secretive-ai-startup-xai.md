@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk: AI will run out of electricity and transformers in 2025"
-    excerpt: "\"I've never seen any technology advance faster than this.\" The chip shortage may be behind us, but AI and EVs are expanding at such a rapacious rate that the world will face supply crunches in electricity and transformers next year, says Elon Musk."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://newatlas.com/technology/elon-musk-ai"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/27ca86b/2147483647/strip/true/crop/1136x757+121+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F5e%2F2a832fc94918a562a5ccdef4b0a3%2F6.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "How Elon Musk Is Using His AI Startup to Help Turn Around X"
     excerpt: "When Elon Musk created his artificial-intelligence startup xAI last year ... joining forces with his social-media company X. The AI company, for example, says it has an advantage of having ..."
     publishedDateTime: 2024-03-01T14:33:00Z

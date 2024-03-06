@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Complaints filed with privacy commissioner over facial recognition vending machines"
-    excerpt: "Two complaints have been filed with the Office of the Information and Privacy Commissioner of Ontario over facial recognition software in smart vending machines on ..."
-    publishedDateTime: 2024-02-29T23:28:00Z
-    webUrl: "https://kitchener.ctvnews.ca/complaints-filed-with-privacy-commissioner-over-facial-recognition-vending-machines-1.6790047"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 48
-    images:
-      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/2/22/vending-machine-facial-recognition-1-6779840-1708642383265.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "How a facial recognition error on a Waterloo vending machine led to an international debate on privacy"
     excerpt: "An error message on a vending machine on a university campus has led to an international conversation about third-party surveillance and the ineffectiveness of privacy laws."
     publishedDateTime: 2024-03-01T11:00:00Z

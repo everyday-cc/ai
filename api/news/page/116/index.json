@@ -2,57 +2,6 @@
   "page": 116,
   "value": [
     {
-      "path": "_news/2023-11-29-us-cybersecurity-official-urges-safeguards-against-artificial-intelligence-threats-moving-too-fast.md",
-      "title": "US cybersecurity official urges safeguards against artificial intelligence threats: 'Moving too fast'",
-      "excerpt": "The potential threat posed by the rapid development of artificial intelligence (AI) means safeguards need to be built in to systems from the start rather than tacked on later, a top U.S. official said on Monday. \"We've normalized a world where technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast",
-      "originalUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/367176d7-5269-4f16-bc88-2c715ae4fb4b/65b136b9-c40d-47d4-b08f-8fff5f5d6578/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp",
-      "publishedDateTime": "2023-11-28T16:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-29-ai-unleashed-scientists-use-machine-learning-to-decode-origins-of-life.md",
       "title": "AI unleashed: Scientists use machine learning to decode origins of life",
       "excerpt": "Scientists use cutting-edge AI and machine-learning tools to unravel the mysteries of life's origins. Researchers employ AI to navigate the complex pathways from chemical soups to living cells. AI analysis and prediction of patterns accelerate discoveries ...",
@@ -1137,6 +1086,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth.md",
+      "title": "Aussie startup Leonardo.Ai leverages AWS to manage explosive growth",
+      "excerpt": "Leonardo.Ai tapped AWS to manage a rapid influx of users on its platform, which its previous cloud provider could not accommodate. The startup migrated its workloads to AWS in less than two weeks, and the resiliency, security, and scalability of AWS's global infrastructure allowed it to efficiently manage the continuous surge in user growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2019_17_54_20_6413942.jpg?width=1280",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth?amp",
+      "publishedDateTime": "2023-11-28T04:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

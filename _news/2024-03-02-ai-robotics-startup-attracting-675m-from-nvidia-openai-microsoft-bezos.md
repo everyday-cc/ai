@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-
 webUrl: "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/"
 type: article
 quality: 84
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Jeff Bezos, tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.semissourian.com/story/3031054.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 44
-    images:
-      - url: "https://www.semissourian.com/photos/39/36/50/3936500-G.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Humanoid robot-maker gets backing from Jeff Bezos"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, Calif.-based Figure announced the partnership Thursday along with $675 million in venture capital funding from a group that includes Amazon founder Jeff Bezos as well as Microsoft,"
     publishedDateTime: 2024-03-01T11:00:00Z
@@ -134,15 +120,6 @@ related:
       name: Antelope Valley Press
       domain: avpress.com
     quality: 19
-  - title: "OpenAI rival Cohere says some AI startups build Bugatti sports cars, ‘We make F-150s'"
-    excerpt: "Cohere, the Nvidia-backed startup founded by ex-Google AI researchers, is betting on generative AI for enterprise use, rather than on consumer chatbots. In June, the company raised a $270 million round at a $2.2 billion valuation. COO Martin Kon told CNBC ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/openai-rival-cohere-says-some-ai-startups-build-bugatti-sports-cars-we-make-f-150s/3468774/"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 10
 
 secured: "25OxcAsoEhkObijkuC4HlP2KZEdOSoJxPqoMVB/+K7f6HmLb2d7MKSyajRSH73Qu1LXfJwLVPLfk1W0dyurEqr33kFOyzotYuKs+wiDxeRFcumGhv5MIFHjkoCTeYPqamiokpSAi//xImx8uCXbtgPOECjLFdL0T0FHKdLC2P97wkpVWvIHFHtJtn7QzDkPHKLJHffgbt3E4WBmtcvCqa6W4PkTcvfhwtWiKe1s1JagtWMM8ISJsRwsev5afvJCfNlTdPSOppRIOq5BygckBgqrxQb59ok8vFbc7ZgVcR5MhqYaAdOLEmOt2WAjlrxPHwDbQXp8ZNbB5g0A6lQVfTaIlV4fAKdIxIftrnXYDBOP4QMkgibOb+3n42aeYV5uksK4++3A795MOjXwKbPodsPU1ATnB+DCdQq3ffFXDyiUlMgKPWxNeqA2fuDcP7m34hJ1spiO+jN14hF++lXwDI2/rYewQF+bkxHzorrNCXy/lWoTf3uiZ85kzzf4XM3/upQTwBYSPBFzQD+fnHr/8Yw==;OIF+qRN20WJw6wDjd0mshw=="
 ---

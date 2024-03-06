@@ -53,15 +53,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Generative AI in Litigation"
-    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "New type of voice assistant for production works according to the rules of AI ethics"
     excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
     publishedDateTime: 2024-03-05T04:16:00Z

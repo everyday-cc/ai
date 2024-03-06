@@ -46,20 +46,6 @@ related:
         width: 1280
         height: 860
         isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ..."
-    publishedDateTime: 2024-03-01T00:19:00Z
-    webUrl: "https://buffalonews.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_2f500ec3-d1fc-5db9-83fc-7057ea05298d.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/2/f5/2f500ec3-d1fc-5db9-83fc-7057ea05298d/65e1032635818.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VLTyB6wxvtge7illv1W1WWwN2ieQggrvpXnxt4AEhIyKOmvu5Jj4TkZaQFES25vYDGfi1e1/yW3hENipcibg2wdH3SgFYGQ2OHpUwrTF94V2PnDzrqoN+cii+FLqXWJ6MNPi9xrXvGAIUZ7TP+fpc4phEVUuwGaGqVw4lDLC0YpTj4iSmsoAzj7e/854bzr5naQfpxq22Mr8cPJP3/IQFfgG9ZFlUETfWJoxT+FiEgMhu7zoxvShRAO/3/ZjDlqKicGqn8RKGc+wvlbP5kH6QdL2KfOWXyjPcGN9mc/Vm+VSAR90asZcHu6zAjjQtY+73XKj41u+vvmsluyivVKEsfG9V7sa9QS1XUdy2ttZKubdZ3WNlIsGdO4Ykvzgv9LVu3nR5VJiNL70vd55cXfUvUIvFlTfk5Nmfs661h44tBztfmNZiNFHhNMaw55txEcegrysrLdegLj7R/4TMlxDIvknFmPTz5etisObRH05b5IjGPskVA044q/yvYVLMZMmdZZ5F2dWCGs7Hj+DuH7C0g==;k4I8TAGcUYiQA7crRmr0Uw=="
 ---

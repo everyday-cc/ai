@@ -2,40 +2,6 @@
   "page": 87,
   "value": [
     {
-      "path": "_news/2023-12-19-artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts.md",
-      "title": "Artificial intelligence can find your location in photos, worrying privacy experts",
-      "excerpt": "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfdd.org/story/artificial-intelligence-can-find-your-location-photos-worrying-privacy-experts",
-      "originalUrl": "https://www.wfdd.org/story/artificial-intelligence-can-find-your-location-photos-worrying-privacy-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T08:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFDD",
-        "domain": "wfdd.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-19-tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation.md",
       "title": "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation",
       "excerpt": "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India",
@@ -1192,6 +1158,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-artificial-intelligence-billionaires-death-prompts-stock-selloff.md",
+      "title": "Artificial Intelligence Billionaire's Death Prompts Stock Selloff",
+      "excerpt": "Tang Xiao’ou, seen here speaking at a 2019 conference, has died at 55. (Xinhua/Zuma Press) Stock in SenseTime hit a record low Monday after the Chinese artificial-intelligence specialist said its controlling shareholder, billionaire academic Tang Xiao ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-18-2023/card/artificial-intelligence-billionaire-s-death-prompts-stock-selloff-TN3WO8bOsufAn2ygMHMi",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-18-2023/card/artificial-intelligence-billionaire-s-death-prompts-stock-selloff-TN3WO8bOsufAn2ygMHMi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-902108/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T11:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

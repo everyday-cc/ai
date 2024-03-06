@@ -2,58 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2024-01-30-elevate-azure-expertise-with-new-ai-and-optimization-video-episodes.md",
-      "title": "Elevate Azure expertise with new AI and optimization video episodes",
-      "excerpt": "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-31-three-questions-every-enterprise-ai-startup-should-ask.md",
       "title": "Three Questions Every Enterprise AI Startup Should Ask",
       "excerpt": "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that.",
@@ -1186,6 +1134,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse.md",
+      "title": "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse",
+      "excerpt": "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai_kid-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T23:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

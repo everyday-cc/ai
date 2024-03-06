@@ -118,29 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Jeff Bezos, tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.semissourian.com/story/3031054.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 44
-    images:
-      - url: "https://www.semissourian.com/photos/39/36/50/3936500-G.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "OpenAI rival Cohere says some AI startups build Bugatti sports cars, ‘We make F-150s'"
-    excerpt: "Cohere, the Nvidia-backed startup founded by ex-Google AI researchers, is betting on generative AI for enterprise use, rather than on consumer chatbots. In June, the company raised a $270 million round at a $2.2 billion valuation. COO Martin Kon told CNBC ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/openai-rival-cohere-says-some-ai-startups-build-bugatti-sports-cars-we-make-f-150s/3468774/"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 10
 
 secured: "BiFtqTlvWyIPFBPd5w9wuvbl9TmBLouKwV9nEIEIX/sJ4iMLbo/DD4eVZZJTXbnQXQii1TsdbxliYSWM5CdjggV0XOI50r/FGfJWgPDzTJrSBJ5F8+7RHAaOpNclcEn7RKpl48nY+n8XVUU+OSiDtgWPX5ecxc6Bbkxz352OEM2nLiW2R4TcxQ6AKj5HxIIVple3Y/iBiUQaMwNjD5RpxrKEGwg8akyeqF1O6SMt5UgBtmyESFWH+JTiVaRZJvxE5BXqSb04Qcsr1ClvVpba7BFz9tQ1iFIiq8Ocvv98chWnorqg/JZenq9El0HKNQY3d79JvemsullamnB5mOxA+m+77sIZet+E4zJPmo+tyFm1sKldBf9nj3oU7XrW2+aqXRz54aG9EcwYl3FxQs29a4jbUfPQowTw7aeG8vyxnoa5elu6/fvBoZyLQbwFaINiB2AQS86IA97aPexgtIzWo17gabVgPNBpUiNQT7d3guQv5L1R8bnHVwDxJmFnRw+TX4QmHjoYo531C0YUt7yqPQ==;uvc+be+VSy6PmPKUPLNjJA=="
 ---

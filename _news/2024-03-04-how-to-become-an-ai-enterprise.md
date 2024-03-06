@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/"
 webUrl: "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:

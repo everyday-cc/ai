@@ -1016,49 +1016,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-29-meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports.md",
-      "title": "Meta plans launch of new AI language model Llama 3 in July, The Information reports",
-      "excerpt": "Feb 28 (Reuters) - Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/",
-      "originalUrl": "https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-29-meet-verdie-an-electric-ai-powered-robot-that-can-do-all-your-landscaping-video.md",
       "title": "Meet Verdie – An electric, AI-powered robot that can do all your landscaping [Video]",
       "excerpt": "Electric Sheep – an artificial intelligence and robotics company specializing in large-scale landscaping operations, has announced a new autonomous robot to its fleet – Verdie. This electric robot can work alongside Electric Sheep’s other products ...",
@@ -1159,6 +1116,48 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-the-difference-between-alias-and-cname-and-when-to-use-them.md",
+      "title": "The difference between ALIAS and CNAME and when to use them",
+      "excerpt": "The difference between a CNAME record and an ALIAS record is not in the result, but in how they resolve the target DNS record when queried.\nThe post The difference between ALIAS and CNAME and when to use them appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
+      "originalUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T14:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

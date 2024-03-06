@@ -2,58 +2,6 @@
   "page": 95,
   "value": [
     {
-      "path": "_news/2023-12-13-ai-generated-news-anchors-show-off-superhuman-abilities.md",
-      "title": "AI-generated news anchors show off superhuman abilities",
-      "excerpt": "There's a new global news network launching in 2024 which completely ditches humans for AI-generated newsreaders – and they're showing off some superhuman capabilities that make it very clear: the days of the human news presenter are numbered.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
-      "originalUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e4d9007/2147483647/strip/true/crop/1060x707+0+17/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F54%2F3377995f4ac19af24de6a4f90e95%2Fscreenshot-2023-12-13-at-1.33.59%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
-      "publishedDateTime": "2023-12-13T02:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-13-artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024.md",
       "title": "Artificial Intelligence, Quantum Computing, and Space are 3 Tech areas to Watch in 2024",
       "excerpt": "There is much to explore! In this article, I focus on three evolving technology areas that are already impacting our future but are only at the early stages of true potential: artificial intelligence, quantum computing, and space systems. In addition to my ...",
@@ -1167,6 +1115,48 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-5-ways-ai-changed-the-internet-in-2023.md",
+      "title": "5 ways AI changed the internet in 2023",
+      "excerpt": "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/ways-ai-changed-the-internet-2023",
+      "originalUrl": "https://mashable.com/article/ways-ai-changed-the-internet-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03vL2Cl6Sc7AAwgoGb6nyEF/hero-image.fill.size_1200x675.v1702332338.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

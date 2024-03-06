@@ -2,49 +2,6 @@
   "page": 105,
   "value": [
     {
-      "path": "_news/2023-12-06-aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility.md",
-      "title": "AWS Unveils Major Bedrock Upgrade: More AI Models and Enhanced User Flexibility",
-      "excerpt": "As the generative AI landscape continually evolves with new use cases emerging, Amazon Web Services (AWS) is keeping pace by enhancing its Bedrock",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/12/05/aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility/",
-      "originalUrl": "https://www.datanami.com/2023/12/05/aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/11/layers_shutterstock_AIgenerated.jpg",
-          "width": 1545,
-          "height": 1004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-06-another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-us.md",
       "title": "Another blow for self-driving trucks as former industry leader abandons the US",
       "excerpt": "When TuSimple went public in 2021 it was flying high as the leading self-driving trucks developer in the United States. Now — after a string of internal controversies and the loss of a critical ...",
@@ -1030,6 +987,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-next-generation-generative-ai-updates-for-altair-rapidminer.md",
+      "title": "Next-Generation Generative AI Updates For Altair RapidMiner",
+      "excerpt": "Sam Mahalingam, Altair’s CTO, said, “Altair RapidMiner’s upgrades take it to a new level, making it a unique, end-to-end offering in data analytics and AI. It empowers users of all levels with powerful low- and no-code tools, reducing friction and speeding up digital transformation for organizations in all sectors.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/altair-india-unveils-next-generation-generative-ai-updates-for-altair-rapidminer",
+      "originalUrl": "https://www.electronicsforu.com/news/altair-india-unveils-next-generation-generative-ai-updates-for-altair-rapidminer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png",
+          "width": 370,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T06:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronicsforu",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

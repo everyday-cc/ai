@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-23-almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows.md",
-      "title": "Almost half of adults on TikTok have never posted a video, research shows",
-      "excerpt": "Adults on TikTok lean camera-shy, a new study from Pew Research Center suggests. A survey of 2,745 adults who use TikTok revealed that 48% of respondents",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/amp/",
-      "publishedDateTime": "2024-02-22T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-nonprofits-and-ai-determining-governance-and-corporate-structures.md",
       "title": "Nonprofits And AI: Determining Governance And Corporate Structures",
       "excerpt": "When it comes to emerging technologies like AI, innovative governance models are needed to ensure ... Impartial governance boards overseeing and certifying various dimensions like data practices, ethics reviews, model integrity assessments and adherence ...",
@@ -1497,6 +1445,58 @@
         "Meta AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-meta-unmasks-hundreds-of-ai-spies-on-facebook-and-instagram-made-by-italian-surveillance-dealers.md",
+      "title": "Meta Unmasks Hundreds Of AI Spies On Facebook And Instagram Made By Italian Surveillance Dealers",
+      "excerpt": "Nearly 1,000 AI-generated fake profiles have been posing as protesters, journalists and young women, Meta warns, and they appeared to be targeted at reporters and political activists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2024/02/14/ai-spies-on-facebook-instagram-meta-warns/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2024/02/14/ai-spies-on-facebook-instagram-meta-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ccd9194b2f2d2cd17581e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     }
   ],

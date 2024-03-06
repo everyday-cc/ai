@@ -41,22 +41,6 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "US lawmakers urge President Biden to withhold 'recognition' of Pakistan's new government until 'credible' poll rigging probe is conducted"
-    excerpt: "Citing \"strong evidence\" of election rigging in Pakistan, a group of influential lawmakers, including Muslim legislators, belonging to the ruling Democratic Party has urged US President Joe Biden to withhold \"recognition ... in political speech or activity ..."
-    publishedDateTime: 2024-03-01T01:03:00Z
-    webUrl: "https://www.telegraphindia.com/world/us-lawmakers-urge-president-joe-biden-to-withhold-recognition-of-pakistans-new-government-until-credible-poll-rigging-probe-is-conducted/cid/2004068"
-    ampWebUrl: "https://www.telegraphindia.com/amp/world/us-lawmakers-urge-president-joe-biden-to-withhold-recognition-of-pakistans-new-government-until-credible-poll-rigging-probe-is-conducted/cid/2004068"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/us-lawmakers-urge-president-joe-biden-to-withhold-recognition-of-pakistans-new-government-until-credible-poll-rigging-probe-is-conducted/cid/2004068"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 11
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2024/Jan/1706529606_1702556302_1698293448_joe-biden.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "US lawmakers call on Biden to withhold recognition of Pakistan's new government"
     excerpt: "Over two dozen members of Congress want the Biden administration to conduct an audit of Pakistan's recent election"
     publishedDateTime: 2024-03-01T19:02:00Z

@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "The race for powerful computer chips and AI will change the face of global politics and security"
+    excerpt: "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security."
+    publishedDateTime: 2024-03-06T00:30:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 58
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2024/03/AdobeStock_189358603.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Chip Race Reshaping Global Politics And Security"
     excerpt: "(MENAFN- Asia Times) A global race to build powerful computer chips that are essential for the next generation of artificial intelligence (AI) tools could have a major impact on global politics and security. The US is currently leading the race in the ..."
     publishedDateTime: 2024-03-05T08:47:00Z
@@ -43,6 +57,20 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 51
+  - title: "7 ways AI will both help and complicate cybersecurity in 2024"
+    excerpt: "Every new AI technology brings a fresh wave of interest and enthusiasm and new ways to apply it to bolster network defences, from machine learning (ML) to Natural Language Processing (NLP) and generative AI such as ChatGPT. Amongst all this enthusiasm ..."
+    publishedDateTime: 2024-03-06T00:44:00Z
+    webUrl: "https://itwire.com/business-it-news/security/7-ways-ai-will-both-help-and-complicate-cybersecurity-in-2024.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
+        width: 600
+        height: 260
+        isCached: true
 
 secured: "/RB5+iHlJ7p6fRCR0vqElTBKxF1PWYuFRr+rG75dFo8xIUo/KvTkD9t4fcMR4ITKozX6uP9i57j2GXTFBCDNtlz/IBzwicF5KfYLxil6QD/7lEFODmhzNn3cNtY+cR3Nj7KMNHMyIXSFVylypmZKtoB0DkFdxxTfMp7KQuoQ1nzB/ewSVfKkI/4C2UnZ7LEtptGLhXABWkMCkes3qp5i8OHkOQ7lFyaOp1TYSdvELymFRBzLSOsLlYWnCSgwmsHZ1l5gwSy0pW5iNhQ5ZoRTwuYGi+yzVLem/1YJZsZUVNIuiBDcPuaLWLs3g4qW0WT0YgESoAO9MqdWh+rzBhRuOIZcXm07FRu4JQOehVw5qbE=;8gzGg1RHsMTIqWVrAvZjZQ=="
 ---

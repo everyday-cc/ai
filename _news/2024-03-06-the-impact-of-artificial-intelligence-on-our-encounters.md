@@ -123,20 +123,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "The future of artificial intelligence in trucking"
-    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 41
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dell says on-prem is the future of AI"
     excerpt: "AI tracks to where the data is created, which is on-prem or out at the edge of the network,\" the COO Jeff Clarke said Thursday."
     publishedDateTime: 2024-03-01T21:24:00Z
@@ -230,6 +216,6 @@ related:
       domain: wftv.com
     quality: 8
 
-secured: "ATUZQpEAxrWuwarj8Qs3QCsKmUf9unEw6FvjePpKAgss8XEtsh+8kxY9lh+tMoxrxCe5ti9rvMn2Ytbd8hqZUWJ6rOatC0co9dPOhUiKiUAD3bubLZH0RKN1Ps59eVgEc3Acregb1mREZV/4Wl2nBfFW+yOqweef1gZg0f3QhQBIInrayNEXrZNfAOqNzG9uHwk9Iqrjr3SyzxVZRitNH/ITgJDdoNZd8DMJMuevkj5rRB7/YR4DstE3uANZp5XQj9dKnjQ6M/ywzEtYWBWYfV8p09W+RfdJZ8qAy210FMpLGF0PuVyUGuuf7jwnj+xFXZ5rbXURvRQmj5/VU9UCLBkmygybfpYeQD/vLgnOAA0=;QDMYwhbRDCpKPV8KAnAE2A=="
+secured: "+qkj+mPFYVsvqo92XhzmfjjESou0+chZfid8BLd3IWACcmtFp63VHiv7u9Sq16+QvPX7qi1ZewEHhfdhnU/gdWQYFKD1cpiLKe1MUGb7a3v8dId7a/7qCgMEXAH2OxKF1kOy1RCMHm4CgeLT4TTZekfCQ5z0c548SknyqmmYrlvXCoZRLjyGuUHC4pPZsIzUtzwvQoegGzgMLxmqPXAEFGZoWYTPH/cjCXyWR+p50XgoBUOJtsTvmvlHqX31SNfW5GckIUCMf9izd8iKZLlmV/kHH2vKFdvubfnveYUBo6H6R2YEfmk1ktMbSiqOD75KVN2d1sQzYA5yN01S5TSRkOLfdKbCRY526yLwuR04DBDXUxkkhph169rB60PtHGP0oA6G3FkY0Dgg4K5vZkNX0OdMeE9Avo/DPm6lh4VO2PpHUjGLayA3P/LRX57tA5ivClT5/Eiga4oZzFkbm5vzsRRjbvUvkYCHtsiIEmx/K36zn4j26bYwqv/tK50iu96kEIFoyDRo+09B7Bf+YLbJtA==;EQxqcQfmwAmlYCSZQgRsUg=="
 ---
 

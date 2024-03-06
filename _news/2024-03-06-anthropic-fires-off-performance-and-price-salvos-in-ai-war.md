@@ -28,20 +28,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 77
-  - title: "Harvesting innovation: The story behind Tortuga’s autonomous harvesting robots"
-    excerpt: "Learn how Tortuga AgTech is innovating with autonomous harvesting solutions for grapes, tomatoes, and strawberries."
-    publishedDateTime: 2024-02-29T23:37:00Z
-    webUrl: "https://www.therobotreport.com/harvesting-innovation-the-story-behind-tortugas-autonomous-harvesting-robots/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 65
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/02/episode-143-featuredRobotics.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Anthropic gives its flagship generative AI models a facelift"
     excerpt: "One of the hottest startups in the generative AI (genAI) market, Anthropic, has updated its flagship models to a new 3.0 standard, bringing improvements across a range of common tasks and faster processing speeds. The improvements in Claude 3 are broad ..."
     publishedDateTime: 2024-03-04T21:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/raquel-leviss-suing-her-vanderpump-071907
 webUrl: "https://www.aol.com/news/raquel-leviss-suing-her-vanderpump-071907990.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1199
     height: 674
     isCached: true
-
-related:
-  - title: "‘Vanderpump Rules' alum Raquel Leviss sues Tom Sandoval and Ariana Madix for revenge porn"
-    excerpt: "\"Due to a narrative fomented by Bravo, Evolution [production company], and the cast, Leviss became an object of public scorn and ridicule ... and the rest of the cast enjoyed unseen levels of public recognition and professional opportunity."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/vanderpump-rules-alum-raquel-leviss-sues-tom-sandoval-and-ariana-madix-for-revenge-porn/5183400/"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/vanderpump-rules-alum-raquel-leviss-sues-tom-sandoval-and-ariana-madix-for-revenge-porn/5183400/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/vanderpump-rules-alum-raquel-leviss-sues-tom-sandoval-and-ariana-madix-for-revenge-porn/5183400/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 35
-    images:
-      - url: "https://media.nbcnewyork.com/2024/02/image_29c49d.png?resize=1200%2C675&quality=85&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "QSKg4JNbpv+ZpN8DoliEIMLa0q6RYmEC6RI0d0Ip3s/HMiyMPkVgw+VGQEeV4HLX1095tZ9Tx8PnVMcs4SkyI3Pp6lRD3Aia6XiQNnfenEwcVBXsd/UFUUDiyCyUZZvj+7zMrHppDvJcHCcjFFgMZeZKyhJrJA64qQrc07f1LmW1m7Qb2MMvKGXRowpJ0/Q22dyJBg1lKg83SyCWxPQae4K+mlRjGc0+hxk6pJ7/w1y26g1xLCpeyb0WCZHJZUDt4C7esGJg0amrmOM9s/a8Rf/2I4LzT1WjPSSah8hepJCaFAsS/KtcJYlV1as625/a96nmxTQ2j1o32f0J33limMxawHypytBtl2dcjHpxVV1KzMVwKQW+250cS2PtPkbLTR1TOZ/c/9HmEQdPLwuSFIdqWMLT2Vs7uDPy3ZbOKJiuWQ1I8Xg2R07/KJ9/p0v+lVpYvDixQ/qZ6JYlDEx9rz3vLkQIxO/0vjkmyCFf8rtwElHM4eVsGWdEFY9xTlIPVJdLsdlN3E41tFHnbQZhNw==;/BdYFkG8EeSrnnFoYvzZPA=="
 ---

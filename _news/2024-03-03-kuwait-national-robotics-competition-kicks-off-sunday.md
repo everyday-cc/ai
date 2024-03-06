@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1107927790/Kuwait-National-Robotics-Competition
 webUrl: "https://menafn.com/1107927790/Kuwait-National-Robotics-Competition-Kicks-Off-Sunday"
 type: article
 quality: 69
-heat: 72
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mena FN

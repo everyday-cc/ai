@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/OpenAI-Figure-autonomous-humanoid-robot.jpg"
         width: 1280
         height: 860
-        isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ..."
-    publishedDateTime: 2024-03-01T00:19:00Z
-    webUrl: "https://buffalonews.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_2f500ec3-d1fc-5db9-83fc-7057ea05298d.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/2/f5/2f500ec3-d1fc-5db9-83fc-7057ea05298d/65e1032635818.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "HCL Technologies launches genAI platform AI Force"
     excerpt: "HCL Technologies (HCLTech) has launched AI Force, a generative AI platform that accelerates time-to-value for software development, productivity, and quality. The patented AI platform is built on Azure OpenAI and can be integrated with Microsoft GitHub Copilot,"

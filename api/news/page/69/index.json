@@ -2,49 +2,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_news/2024-01-12-hpc-in-the-cloud-is-growing-ensure-your-organization-benefits.md",
-      "title": "HPC in the cloud is growing, ensure your organization benefits",
-      "excerpt": "This is driven partly by the demands of artificial intelligence (AI) and machine learning (ML ... infrastructure Featuring a technology spotlight on Amazon Web Services (AWS) and NVIDIA working together to provide performant and easy to use solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
-      "originalUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2024/01/AWS_Cover_72Ver3.jpg",
-          "width": 685,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-12-the-eight-coolest-inventions-from-the-2024-consumer-electronics-show.md",
       "title": "The Eight Coolest Inventions From the 2024 Consumer Electronics Show",
       "excerpt": "This year was as sci-fi cool as always, with translucent televisions, wall-crawling robots, artificial-intelligence-powered vehicles and more. We’ve chosen eight of the neatest and most function ...",
@@ -1031,6 +988,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-llama-pro-ai-progressive-llama-with-block-expansion-research-paper.md",
+      "title": "LLaMA Pro AI progressive LLaMA with block expansion research paper",
+      "excerpt": "Artificial intelligence (AI) is constantly evolving, and researchers are always on the lookout for ways to improve how these systems learn. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "originalUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/LLaMA-Pro-AI-model.jpg",
+          "width": 1280,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     }

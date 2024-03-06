@@ -2,49 +2,6 @@
   "page": 76,
   "value": [
     {
-      "path": "_news/2024-01-03-profits-up-at-tuam-firm-developing-driverless-technology.md",
-      "title": "Profits up at Tuam firm developing driverless technology",
-      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
-      "originalUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/00042444-1600.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-03-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024.md",
       "title": "Shift Robotics to Unveil Moonwalkers X at CES 2024",
       "excerpt": "LAS VEGAS, NV / ACCESSWIRE / January 3, 2024 / Significantly lighter, quicker, and smarter than the original Moonwalkers model introduced in the spring of 2023, Moonwalkers X have six wheels instead o",
@@ -1122,6 +1079,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-28b.md",
+      "title": "Shield AI expands massive Series F with another $300M in equity, debt, scaling valuation to $2.8B",
+      "excerpt": "Defense tech startup Shield AI has expanded its latest funding round with another $300 million in equity and debt, bringing its total Series F to $500 million, TechCrunch has exclusively learned. This total amount reflects $200 million in equity closed in ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/",
+      "originalUrl": "https://techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/12/5.1int.jpg?resize=1200,918",
+          "width": 1200,
+          "height": 918,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/amp/",
+      "publishedDateTime": "2023-12-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -49,15 +49,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Generative AI in Litigation"
-    excerpt: "When using generative AI in the litigation process, counsel must ensure compliance with ethical rules while applying their own legal judgment and experience. Counsel should: Consult their jurisdiction’s ethics or professional conduct rules, opinions ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.reuters.com/practical-law-the-journal/litigation/generative-ai-litigation-2024-03-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
     excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
     publishedDateTime: 2024-03-04T08:41:00Z

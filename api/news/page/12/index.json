@@ -2,57 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2024-02-23-new-orleans-magician-says-he-made-ai-biden-robocall-for-aide-to-challenger.md",
-      "title": "New Orleans magician says he made AI Biden robocall for aide to challenger",
-      "excerpt": "Paul David Carpenter says he was paid by consultant for Democrat Dean Phillips to mimic Biden’s voice during New Hampshire primary",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news",
-      "originalUrl": "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/85b9bcd7e3ff51ae576931202a82643999beb84a/0_117_3513_2108/master/3513.jpg?width=620&quality=85&auto=format&fit=max&s=ffd921ab2e83d531bc5e26f5eda61f30",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans",
-      "publishedDateTime": "2024-02-23T13:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-23-ai-chip-sales-are-driving-stock-markets-to-new-records.md",
       "title": "AI chip sales are driving stock markets to new records",
       "excerpt": "Nvidia's unprecedented leap in revenue from higher chip sales for AI and cloud use speaks volumes about the future of the technology and its impact on the economy.",
@@ -1174,6 +1123,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-reddit-seals-60m-deal-with-google-to-boost-ai-tools-report-claims.md",
+      "title": "Reddit seals $60M deal with Google to boost AI tools, report claims",
+      "excerpt": "Up to now, most AI models that underpin tools like OpenAI’s ChatGPT or Google’s Gemini (formerly Bard) have been trained mainly on content scraped from the web. But the method has caused alarm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "originalUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/reddit.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

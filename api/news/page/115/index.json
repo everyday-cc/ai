@@ -2,40 +2,6 @@
   "page": 115,
   "value": [
     {
-      "path": "_news/2023-11-29-gms-self-driving-cruise-origin-indefinitely-delayed-amid-major-setbacks.md",
-      "title": "GM's Self-Driving Cruise Origin Indefinitely Delayed Amid Major Setbacks",
-      "excerpt": "But a series of mishaps for Cruise's fleet of self-driving Chevrolet Bolt EV prototypes have not only prevented the start of Origin production, but have also set back the company's entire ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a45989501/gm-self-driving-cruise-origin-delayed/",
-      "originalUrl": "https://www.caranddriver.com/news/a45989501/gm-self-driving-cruise-origin-delayed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-29-google-ai-and-robots-join-forces-to-build-new-materials.md",
       "title": "Google AI and robots join forces to build new materials",
       "excerpt": "Google DeepMind tool predicts nearly 400,000 stable substances, and an autonomous system learns to make them in the lab.",
@@ -1134,6 +1100,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-us-cybersecurity-official-urges-safeguards-against-artificial-intelligence-threats-moving-too-fast.md",
+      "title": "US cybersecurity official urges safeguards against artificial intelligence threats: 'Moving too fast'",
+      "excerpt": "The potential threat posed by the rapid development of artificial intelligence (AI) means safeguards need to be built in to systems from the start rather than tacked on later, a top U.S. official said on Monday. \"We've normalized a world where technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast",
+      "originalUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/367176d7-5269-4f16-bc88-2c715ae4fb4b/65b136b9-c40d-47d4-b08f-8fff5f5d6578/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp",
+      "publishedDateTime": "2023-11-28T16:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

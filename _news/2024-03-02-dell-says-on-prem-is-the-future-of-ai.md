@@ -135,20 +135,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "The future of artificial intelligence in trucking"
-    excerpt: "Yoav Amiel: It started in the past by object recognition, image recognition, then it evolved into insights and system that came with recommendation like matching loads with carriers. And in today's world, I'm excited about things like task completion."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.ccjdigital.com/technology/video/15665349/the-future-of-artificial-intelligence-in-trucking"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 41
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Staggering Environmental Toll of Artificial Intelligence"
     excerpt: "Between its water use, energy use, e-waste, and need for critical minerals that could better be used on renewable energy, A.I. is a really dumb way to trash our chances of a sustainable future."
     publishedDateTime: 2024-03-05T11:00:00Z

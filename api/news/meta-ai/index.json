@@ -249,50 +249,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-04-buy-rating-affirmed-for-powerschool-amid-strong-ai-growth-prospects-in-k-12-education.md",
-      "title": "Buy Rating Affirmed for PowerSchool Amid Strong AI Growth Prospects in K-12 Education",
-      "excerpt": "PowerSchool (PWSC – Research Report), the Technology sector company ... potential in leveraging artificial intelligence within the K-12 educational sector. Thill’s assessment is grounded in the company’s significant market reach, as PowerSchool ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-powerschool-amid-strong-ai-growth-prospects-in-k-12-education-1033127172",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-powerschool-amid-strong-ai-growth-prospects-in-k-12-education-1033127172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T05:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
       "title": "US stock markets close at record highs amid continued enthusiasm for AI",
       "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
@@ -443,34 +399,34 @@
     {
       "path": "_news/2024-02-29-meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports.md",
       "title": "Meta plans launch of new AI language model Llama 3 in July, The Information reports",
-      "excerpt": "Feb 28 (Reuters) - Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better ...",
+      "excerpt": "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/",
-      "originalUrl": "https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/",
+      "webUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T16:31:00Z",
+      "publishedDateTime": "2024-02-29T12:31:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1485,6 +1441,58 @@
       "topics": [
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows.md",
+      "title": "Almost half of adults on TikTok have never posted a video, research shows",
+      "excerpt": "Adults on TikTok lean camera-shy, a new study from Pew Research Center suggests. A survey of 2,745 adults who use TikTok revealed that 48% of respondents",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/amp/",
+      "publishedDateTime": "2024-02-22T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     }
   ],

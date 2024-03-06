@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Jeff Bezos, tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.semissourian.com/story/3031054.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 44
-    images:
-      - url: "https://www.semissourian.com/photos/39/36/50/3936500-G.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Humanoid robot-maker gets backing from Jeff Bezos"
     excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, Calif.-based Figure announced the partnership Thursday along with $675 million in venture capital funding from a group that includes Amazon founder Jeff Bezos as well as Microsoft,"
     publishedDateTime: 2024-03-01T11:00:00Z
@@ -134,15 +120,6 @@ related:
       name: Antelope Valley Press
       domain: avpress.com
     quality: 19
-  - title: "OpenAI rival Cohere says some AI startups build Bugatti sports cars, ‘We make F-150s'"
-    excerpt: "Cohere, the Nvidia-backed startup founded by ex-Google AI researchers, is betting on generative AI for enterprise use, rather than on consumer chatbots. In June, the company raised a $270 million round at a $2.2 billion valuation. COO Martin Kon told CNBC ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/openai-rival-cohere-says-some-ai-startups-build-bugatti-sports-cars-we-make-f-150s/3468774/"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 10
 
 secured: "6f/iJ3OEApPvbJEnuswlcfQX5gO4zr24fhUe1qv1dMxudn80y9mc6HBNEwbKVHYO6ZScCC69AkYRbXMA3HSmIo8HlhcUCXWRS7b9InJcMMw+JmLIQIfAIinq1DXDvmkumCW4clijL0vJLxjggKZfYHn4uDVQR2UL6x228ya5Uu5QLKu76KrY3DMAdeiGMyWdsG87f6AWHFj+sr6cKVkkNOOqrpsVn5LQ2gPHsSZGjFtJBezstqt6UaWi1lOaCJd4N74hTV7ScNtWSeutdkzt7O6M6+o/GHkBnr/rdU0Dbc/P++O84bZB4NATk/1S4bK+jeIZjuw2Wx+GFhb0VwwQ6OpHWU2L+hza9faLKttKXjY=;X4ujEAicOHTLYFwlBsg4Vw=="
 ---

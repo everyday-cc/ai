@@ -49,22 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "US lawmakers urge President Biden to withhold 'recognition' of Pakistan's new government until 'credible' poll rigging probe is conducted"
-    excerpt: "Citing \"strong evidence\" of election rigging in Pakistan, a group of influential lawmakers, including Muslim legislators, belonging to the ruling Democratic Party has urged US President Joe Biden to withhold \"recognition ... in political speech or activity ..."
-    publishedDateTime: 2024-03-01T01:03:00Z
-    webUrl: "https://www.telegraphindia.com/world/us-lawmakers-urge-president-joe-biden-to-withhold-recognition-of-pakistans-new-government-until-credible-poll-rigging-probe-is-conducted/cid/2004068"
-    ampWebUrl: "https://www.telegraphindia.com/amp/world/us-lawmakers-urge-president-joe-biden-to-withhold-recognition-of-pakistans-new-government-until-credible-poll-rigging-probe-is-conducted/cid/2004068"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/us-lawmakers-urge-president-joe-biden-to-withhold-recognition-of-pakistans-new-government-until-credible-poll-rigging-probe-is-conducted/cid/2004068"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 11
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2024/Jan/1706529606_1702556302_1698293448_joe-biden.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "eFEnKnp+1onlNTJhVgJdGFl1yO8Jb4w3xMbgLbWNqkfROs/pW3ITtPW92TWT68QTXZK5Xy4/2FfIDFF/iRvxtGuhy7rlpoHW7vVjrl8887BMuOxHtJAF1BOvamJvZFGkwL4MNStjet9ti6mIZK++u6KF5067voKvigo94LUZo3VfP6DQjqJsdDnMTJsEQJj3Q9cCgDX1QjADYD1HQW4Z/8/zxk1a+CdRwiQR8so37j/BrE2HEXuWaJLCrJuhsfSd/buQfhR1w8IJVp6HoQDoxdukM0eAG+hPXI7VCorUBCPZy8lD2q5JbPLq8lZHfAzqZOqenCGFTp+99wi1kic7izr9vVy1U1CWi4MqkA3JKR/VdY+KeR1GHN188zAmUbKr3EjCTPKthZzU7uJbm6iBmHDoFNKF+FTo766heouRMsj617VJTby7Jf5wgU90BqiOTamI81+EfT6V9+UgSqmN61at0U3mOaUKyzxqfhSgv7bVmpyRZ4JGDl0U0uSHYtV7zw0iIzkQ5iZM6NJfQrTRjA==;8pB1g5KJXgQj4vWNKnW9vA=="
 ---

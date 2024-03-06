@@ -19,6 +19,22 @@ topics:
   - AI
   - AI in Security
 
+related:
+  - title: "Apple stock falls to lowest level this year, while other tech companies see AI-fuelled rally"
+    excerpt: "Apple’s stock price has been taking a beating in the last few weeks, hitting a low for the year today, closing at $170.12."
+    publishedDateTime: 2024-03-06T00:11:00Z
+    webUrl: "https://9to5mac.com/2024/03/05/apple-stock-falls-march-year/?extended-comments=1"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 28
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/apple-stock-price-decline.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+
 secured: "uKKz8EcetgbBvSPbfLfSHDrpnmbPQBq6R1hkJ2I0MuyprHeTDVPoOThhcyRQyDlxIQ+VjQZlHBeYgrIJMET7UBqpZPXYWeZMIbBdzAUtdKg7HC95Kmu2gqk7kAOqMWco6lLZm1Qf8BP/xhFM/r0ZFXoTbskIsyQlIBAMJvu26VqzkPnbnKl+ohFNzo7lKmtdkVYipFEt3rfSMbmETtnDkE7w1XuLCja9NHEGqbC+D0O9bqiiGCjGIFkyPc98a25Pot9fIS4XQpVE0u5vH9iGyfUzsuzj2/6IQG9OpMwH4I5P+iNnSUse1EKvyKFXzddyI3dE4n0f+TVIVqFjBFqUxlXn68nylxp/6Vd+aSxlrd1ppHYaAEgFwWs5Y2TWJtFPg0nGoiXJK6Z663t22OYPNZX22SJV0rVsS+6mDHI7930ttryCWro4AZtvZ8QLEMGCJtxJXh/zPoA+dPH5yIF/NzBbcJ7PCdSvM5i6eHOYI5W7re7pQbi5CN0AAVNR/MeZYySyaEe1iHaVj+Tswh3Cgg==;I/UTVHBVdgIDILcxqn4puA=="
 ---
 

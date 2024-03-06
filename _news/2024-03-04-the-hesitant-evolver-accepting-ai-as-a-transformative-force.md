@@ -23,20 +23,6 @@ topics:
 
 related:
   - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
-    excerpt: "Following the release of OpenAI’s Chat-GPT in November 2022, questions and concerns surrounding the use of artificial intelligence and how it will change our lives as we know it erupted from the general public. Is now the time robots will begin taking ..."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://gazette.com/news/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/b/9c/b9cc95fa-d825-11ee-8e75-b73da9c57223/65e2687fbb61b.image.png?crop=1912%2C1004%2C0%2C1&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
     excerpt: "According to David Bernstein, software developer and president of The Passionate Programmer, the software industry will be among the first industries to transform with the help of AI. While software can take years to perfect, with the help of AI that process can be cut more than in half."
     publishedDateTime: 2024-03-02T12:30:00Z
     webUrl: "https://gazette.com/news/local/ai-experts-in-colorado-springs-transformative-positive-change-possible-with-artificial-intelligence/article_bb0e91c2-d814-11ee-aef9-e701db596e3e.html"

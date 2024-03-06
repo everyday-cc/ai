@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/elon-musks-x-leans-on-his-ai-startup-9
 webUrl: "https://www.wsj.com/tech/ai/elon-musks-x-leans-on-his-ai-startup-9038380d"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk: AI will run out of electricity and transformers in 2025"
-    excerpt: "\"I've never seen any technology advance faster than this.\" The chip shortage may be behind us, but AI and EVs are expanding at such a rapacious rate that the world will face supply crunches in electricity and transformers next year, says Elon Musk."
-    publishedDateTime: 2024-03-01T00:00:00Z
-    webUrl: "https://newatlas.com/technology/elon-musk-ai"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/27ca86b/2147483647/strip/true/crop/1136x757+121+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F5e%2F2a832fc94918a562a5ccdef4b0a3%2F6.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Elon Musk Wants Billions to Fund His Secretive AI Startup, xAI"
     excerpt: "The company would reportedly be valued up to $20 billion, despite only having one product under its belt so far."
     publishedDateTime: 2024-03-01T21:40:00Z
