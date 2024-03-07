@@ -6,9 +6,9 @@ publishedDateTime: 2024-03-06T20:42:00Z
 originalUrl: "https://www.techrepublic.com/article/linkedin-learning-ai-courses/"
 webUrl: "https://www.techrepublic.com/article/linkedin-learning-ai-courses/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: TechRepublic
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Meta AI
 
 images:
   - url: "https://assets.techrepublic.com/uploads/2024/03/AdobeStock_353163602_Editorial_Use_Only.jpeg"

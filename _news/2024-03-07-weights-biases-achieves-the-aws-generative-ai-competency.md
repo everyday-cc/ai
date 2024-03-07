@@ -55,6 +55,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "DoiT Achieves the AWS Generative AI Competency"
+    excerpt: "Over the past year, DoiT has leveraged technologies like Amazon Bedrock and Amazon SageMaker to build AI foundations for its customers and ensure their environments are regularly optimized based on emerging best practices. The AWS Generative AI Competency ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.01net.it/doit-achieves-the-aws-generative-ai-competency/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 34
 
 secured: "0ym84XlQH88EuyVdvA8EijeDVlD1YdXeS8jms7E8k8c1zImin6EH/nH9BeHsJq2bTg5kUabdc0ANFNE1ioi3Ip/Pg3nk8K27X7PoqJucSGSB2TnIWym/ihHEi8si8H5M4kTK7ktUxxZAaQbii6oTx2KU5/AtQrVVcc8aUW9HlbIFZqsj4Xe6b7iqajsVdtEzv4TMsU5aDtH9VVVmuEJLucwar/P3iAbYHYL3zWH7Mx2U96LCjIFEsJ0QDq51eaMMJrGFG2f3e9qMQIjfWzSbPSiV2qHbaBKgd15T/pVZ029Pj0EY7P4FNjEo8n9R7pD95oIVXUF4rA4zA1VXLAZZL+80A4aE77MeRzx5ZSFqGOM=;NTGXruOWq7R+uWoxb+4lmA=="
 ---

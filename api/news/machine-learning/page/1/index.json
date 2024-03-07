@@ -116,7 +116,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -348,6 +348,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-deepsig-announces-commercial-release-of-industrys-first-neural-receiver-software-for-open-ran-5g-networks.md",
+      "title": "DeepSig Announces Commercial Release of Industry's First Neural Receiver Software for Open RAN 5G Networks",
+      "excerpt": "This press release features multimedia. View the full release here:  The OmniPHY 5G software transforms 5G Physical Uplink Shared Channel (PUSCH) processing in an Open Distributed Unit (O-DU), replacing conventional algorithms with a Deep Neural Network (DNN),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/28/9969438.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/28/9969438.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T07:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -729,10 +763,10 @@
     {
       "path": "_news/2024-02-22-silicon-microresonators-for-artificial-neural-networks.md",
       "title": "Silicon microresonators for artificial neural networks",
-      "excerpt": "Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient ...",
+      "excerpt": "(Nanowerk News) Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient artificial intelligence systems. These ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1035234",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1035234",
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64706.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64706.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -745,8 +779,8 @@
       "publishedDateTime": "2024-02-22T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1369,49 +1403,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-neural-prosthetic-device-can-help-humans-restore-memory.md",
-      "title": "Neural prosthetic device can help humans restore memory",
-      "excerpt": "A team of scientists have demonstrated the first successful use of a neural prosthetic device to recall specific memories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

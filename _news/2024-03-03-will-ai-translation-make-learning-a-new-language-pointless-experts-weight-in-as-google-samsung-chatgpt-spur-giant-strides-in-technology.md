@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Will AI translation make learning a new language pointless? Experts weight in as Google, Samsung, ChatGPT spur ‘giant strides’ in technology"
-excerpt: "How AI development has fostered a digital ... which generates humanlike text and whose applications include language translation. They will “transform the learning process as well as the ..."
+excerpt: "With AI-powered language translation apps becoming evermore advanced, linguists give their opinions on whether it will ever make the act of learning a foreign language pointless."
 publishedDateTime: 2024-03-02T19:15:00Z
-originalUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=latest&pgtype=homepage"
-webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=latest&pgtype=homepage"
+originalUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=top_story&pgtype=homepage"
+webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=top_story&pgtype=homepage"
 type: article
 quality: 51
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7VwH3J7Ol0SVr6fD68obHyj7JdvIz/YuAwC455o7pa3krKeK+8JWepcCANAgC555I0NnkP4sRzxkLpcmWStQCpiHiiQXQLK6nHx+ChhaxwzkQG31NjS3T3DNG6lo+yOHnDwMUApjefCBA/tLg9cW+hU4j90KmcjhJoqsGdZ4ibJnqOUeV0YltvY4BFwl4qPHEyck8XowYRsnoxC6B8IT9Zao0srL79rJ0EoZYRZBIGR+teEQXnFTNDWpAoNRtzQT/fj9nNAgbAPz62bXHJBabZHAZVh7c4+z+OsdcaW7izhfzB6yCOgu0+cGfrkkcJAQ9ALi+HbBCeQAye8HSFAizLSjSc9VJcmCdMXsdi986to=;rbwW7WK7BHzF/yxTxr0h4w=="
+secured: "/hrLyD9C1W+OfyP9TvHhOP8bVC0VNvxvBOnCc9DsGqII4vyk+HvWotWQNcV4a4Ih7d3ouex7EZxtqZM+hjWADep19Czj5IbGOkad2hMS27e1+vYVZu+3+5qF/d8t1uOJbC6OfS0cycend6aL1VjAC3KRtFF+zC9Hx7nYUPI2JlBfFSw/gPcvFhuQjpakqUYHwknMHCP/4kQ6Am3CoSfCSNq4Ruui/Rswg1JqURrgxstc+vIib4PwcfdrtYq1e4S5Z5QKtoaa3TgBiG6Sud5Rkqsp+c/Yj/Qn2Rj9PRUIs3EqHCthZHsJb12EBCDN+NmJQqX5YYDMVUhkmAmE9VFHBEeZ7VDr9wTNHX65SLe6Fxg=;Z57VTFe7b8jSTWFIGbk60g=="
 ---
 

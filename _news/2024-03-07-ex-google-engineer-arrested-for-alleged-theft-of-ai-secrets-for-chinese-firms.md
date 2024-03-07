@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/chinese-google-en
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Google engineer charged with stealing AI secrets"
+    excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
+    publishedDateTime: 2024-03-07T01:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ex-Google Engineer Charged With AI Tech Theft for Chinese Firms"
     excerpt: "A Chinese software engineer working for Alphabet Inc.’s Google was charged by the US Justice Department with stealing trade secrets for developing artificial intelligence from the company’s supercomputing data centers."
     publishedDateTime: 2024-03-06T20:54:00Z

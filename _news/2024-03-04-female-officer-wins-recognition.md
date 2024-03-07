@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/community/good-news-community/female-officer-
 webUrl: "https://www.oaoa.com/community/good-news-community/female-officer-wins-recognition/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Unlock Your Device Using Face Recognition? Check Out These Easy Steps"
-    excerpt: "Learn how face recognition works, and how to set it up on your smartphone. (Image: Abhijay Singh Rawat/india.com) New Delhi: Facial recognition, or face recognition technology, is a biometric ..."
-    publishedDateTime: 2024-03-02T02:00:00Z
-    webUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/"
-    ampWebUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 56
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2024/03/IDC-Story.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Female officer wins recognition"
     excerpt: "Police Officer Georgia Reyes is being recognized for the great work she's doing for the University of Texas Permian Basin. Recently, she was named Officer of the Year for the UTPB Police Department as well as Officer of the Month for the entire UT System."
     publishedDateTime: 2024-03-05T08:03:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "‘We want equality and recognition’, say 100 older women in new project"
+    excerpt: "Equal rights, good work and recognition of unpaid labour are some of the demands from a collective voice of 100 diverse Manchester women aged fifty-plus, following a research project involving experts from The University of Manchester."
+    publishedDateTime: 2024-03-06T12:17:00Z
+    webUrl: "https://www.manchester.ac.uk/discover/news/we-want-equality-and-recognition/"
+    type: article
+    provider:
+      name: University of Manchester
+      domain: manchester.ac.uk
+    quality: 24
+    images:
+      - url: "https://content.presspage.com/uploads/1369/5796dc82-d654-4b88-8832-9aecd5f458ea/1920_uncertainfutures-2.jpg?10000"
+        width: 1293
+        height: 643
         isCached: true
 
 secured: "MZCEnJw9h/5k4QblVk0GjYkixO+o5f5sSnQmNIgrXhMbR4lG1c3L3oSLU7t3VNy0XgFfRVeJEjNFugHtetqqH88/OynPC80im96ZQtFL5v7XRbn+bAtKU0uJ4/73thEkD0W7D4dzKMc5KcQy6++3WMl6M4LnJalTcIUE7/uNsl8x6WOnZLsriUbHCGZdg+Ia6Nz96cKbQHu5SDwdTp0G+0ianRPnMe8ip5JiBNDlW8zG0ElldRhz71KXtArnKYHF1A4QhwIkPpE8Nd3RNd5nh5bIdP/myy3aeCjQ1Pk1Uc5Kcl54URApo1HkA5PZOCxkeCHrD9NYP+d7jxcrtpgszrVqdKUjE3xzip9THInwRgo=;NE7Gwx6kdR8qX+Vcfdw2KQ=="

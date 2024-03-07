@@ -34,6 +34,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The speech and those transformative days of March ‘71"
+    excerpt: "March 7, the day Bangabandhu brought the nation to its feet and had us all shouting from the top of our voice \"Joy Bangla\" as he delivered a historic speech. It marked that unique moment when our dreams found a most powerful,"
+    publishedDateTime: 2024-03-07T03:20:00Z
+    webUrl: "https://www.thedailystar.net/opinion/views/the-third-view/news/the-speech-and-those-transformative-days-march-71-3560896"
+    ampWebUrl: "https://www.thedailystar.net/opinion/views/the-third-view/news/the-speech-and-those-transformative-days-march-71-3560896?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/the-third-view/news/the-speech-and-those-transformative-days-march-71-3560896?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 44
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/03/07/march_7_speech.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Lancaster AI founder: 2024 will be transformative year"
     excerpt: "“It’s only a few additional steps to start learning how to tune the way you frame questions to the AI and try to push the technology to its limits.” Driven by a fascination with technology, Evry taught himself AI. “The advent of ChatGPT in December ..."
     publishedDateTime: 2024-03-03T00:00:00Z

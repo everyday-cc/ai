@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/learn-about-generative-ai-impact-on
 webUrl: "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "DoiT Achieves the AWS Generative AI Competency"
+    excerpt: "Over the past year, DoiT has leveraged technologies like Amazon Bedrock and Amazon SageMaker to build AI foundations for its customers and ensure their environments are regularly optimized based on emerging best practices. The AWS Generative AI Competency ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.01net.it/doit-achieves-the-aws-generative-ai-competency/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 34
 
 secured: "xoKuNdL/Cn/ppIJTTWsScn92t33wBaHLm67LQ5QtM00812S2WM0Rcpga3+spB+wKTu9r4XSlBZENa/umuk15pPQkNVmxX5QA6xW+243+3QpaVQXo/h0uLGpcn3fO/dtbV3e6WCGVrwr/MaButvfryYyT1GoTmM3F3jViOeNDUBWjjDQwqPchnodBXBSbw5IPQ9b/WzEiPhfpQnptff/tWSfZvb40VX9EfxUIG762fi8am3cof79s0e0II2fuzxqciU/ldabZCVBDOUCbY8v5m612sb87sESMtdVucKIEJ9XCfVdMyXVhReaV0msPnAHMvrHVwTn/0J+8e0ZQiWPhgLEy9Y7PDnlLqVtLe+q/R7GKqugdbHB73MdV2FvJaImQpXtJ4WaJqc+a7AYsHijU/uucbZddlXAOnnwckcrUKF6tIh0mDoXd2v3C7frG9qu/p5VUsU0sUhmkHNMcRxCXiFw0PuXAlBF29Mv6cmySn4tMVTho9WuxlTmNCRVmaycb7fxZiBlqE9NjUIB4oafhpQ==;QIVMXjRnzFiO0i21ts6bEA=="
 ---

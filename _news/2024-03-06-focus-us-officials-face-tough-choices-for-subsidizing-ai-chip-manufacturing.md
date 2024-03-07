@@ -53,6 +53,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Backend houses gearing up for AI chip boom"
+    excerpt: "The arrival of the Artificial Intelligence (AI) age has underscored the increasing importance of semiconductor packaging and testing, with makers stepping up efforts to expand advanced backend capacity to capitalize on strong demand for AI chips."
+    publishedDateTime: 2024-03-07T01:43:00Z
+    webUrl: "https://www.digitimes.com/news/a20240306PD214/ai-chips-semiconductors-packaging-testing.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "Eqz28cdrjaD8fcXYcO5v1kMnzi2hjywwdbHFXyXxZU5eVby9imwXCjF6ouzyixNCxkNcVgtcc/yFWTfgJYGwgO+7OA8Iytuq0X1xqxMpdhw+tHSMX84qkR4nf3n3VEoSdlQnp2U9WTO9s+Kc77Vuiyun0Am8Wpg5BKxByt9PXMc7UbW/EJiArio5THcI/C+w/x/YsvZxt7ng0K1zszFURS0dSR5X8Jt/WXc1iOO4HFeHInVGjvJwau9OuqysxD7ddbJL/Q7qD6c/HsAQbNh2+s4WIYxutncmfYol+s2P2ZsQquboE8+S1HxULpAxbq+3+CdzGKltLSJbOa3V6aVHzpa/1cgImTQyhgATq5nN7setAEIgXsMRA3vN6wN82E+uM403xgPoqs1sBqWOqN73EoZ6Lk7PabNyVFWapM9cMah0fdynC8rJYBe7pKbGevvcDvhLwIKeO6fykfZ1Et83rK77XEddYCFmyi1XwVwMzRa5Et15bqmwjrk+Rm6chpg2eqnVk3kcYqh0BLPjBTXwtQ==;gzupAZaX0UMd5UCNayQtSw=="
 ---

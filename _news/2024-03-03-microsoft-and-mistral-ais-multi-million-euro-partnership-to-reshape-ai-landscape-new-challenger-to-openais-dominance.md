@@ -57,22 +57,6 @@ related:
         width: 3603
         height: 2402
         isCached: true
-  - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
-    excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
-    publishedDateTime: 2024-03-06T20:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
-    images:
-      - url: "https://i.guim.co.uk/img/media/9e4118dc065eee0fe9f0668bbb3e7cbc854d1954/0_397_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=44d52307107ca9c20c2625956de63744"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
     excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
     publishedDateTime: 2024-03-05T21:28:00Z
@@ -119,6 +103,17 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 59
+  - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
+    excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
+    publishedDateTime: 2024-03-06T20:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
   - title: "Q&A: Microsoft research head explains how generative AI could help doctors be more human"
     excerpt: "Generative AI is having a moment. Peter Lee ... The OpenAI services on Microsoft’s Azure cloud provide HIPAA compliance. We’re very proud of that but our cloud is not unique. AWS and Google Cloud provide the same sort of compliance to enterprise ..."
     publishedDateTime: 2024-03-05T00:00:00Z

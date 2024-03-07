@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arre
 cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 6630
         height: 5304
         isCached: true
+  - title: "Self-driving car company Waymo begins testing without drivers just days before SXSW"
+    excerpt: "Formerly known as Google’s self-driving car project, the autonomous vehicle company has operated off and on in Austin since 2015."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.kvue.com/article/money/economy/boomtown-2040/austin-texas-self-driving-car-company-begins-testing-before-sxsw/269-1f4e40c7-9abb-4af1-a5a3-b2ee2dd79450"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 13
   - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
     excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
     publishedDateTime: 2024-03-03T21:38:00Z

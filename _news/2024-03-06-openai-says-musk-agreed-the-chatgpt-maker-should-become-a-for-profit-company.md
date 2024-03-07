@@ -39,6 +39,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Elon Musk sues Open AI and co-founder over alleged switch to for-profit"
+    excerpt: "Elon Musk has sued the non-profit Open AI and it's co-founder Sam Altman over the company allegedly moving to a for-profit company. Open AI responded to the claims by releasing e-mails between the company and Musk."
+    publishedDateTime: 2024-03-07T03:28:00Z
+    webUrl: "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo205623365638"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo205623365638"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_03/1709782067597_now_topstory_musk_open_ai_240306_1920x1080-na2ess.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "a1xpt23IMO7j5rz6e+xFBFZFWhUKPP0+tFUhGhSCh5dWEwNI7CyzI7FuqE+O8tk8OKROOdiAzFvNgU/uegumbhg+7eZwpOZW0pJeZdrGmpTaS1xIOP9wRCtdXFVo1WTeMzGcKJHQq38sqeDexhRWY1C6OlWayewkER3pDStIAW2UqPdJ3admBJQtNm/f6GjwiTvFFQOK7m8Jc3Y9ZDaRBUmZLFXuEiTGF1HXPjYStO6INLQnQwCtYXIej4S5oktd0t/L+GsOPyKVoPgAfVeBwXt2HsqCTKGoZhMYr1S3sN2e256NIqhdMo7SdYVL6aguO6M71U4tzoDhH158iqxTczMhNGUJQ0owXuqMFL6adZV6AqMbhhI3hJMoWYnLTEDAvZJnYLdy6gLWI2QNeytKVUc6Bcnjerndvop8PShfrjs5CXkzPLaK8kIdAWQEbnCN9J6eGwW082xf2WnSo596dHvE8TnhyhzccqeFbhGG7BQ9h75v0427gu30TgkyRe6RHqZAZIMv4Wn7ORkLm9wjjA==;4QAQsHsa3vAGlWAVRG5G0g=="
 ---

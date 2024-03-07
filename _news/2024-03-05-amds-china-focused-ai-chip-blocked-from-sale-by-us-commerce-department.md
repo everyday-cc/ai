@@ -165,6 +165,15 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 34
+  - title: "AMD’s Chinese AI chip plan halted by US govt: What’s next?"
+    excerpt: "AMD finds itself at a standstill as it faces hurdles from the US in its endeavor to sell AI chips explicitly tailored for the Chinese market"
+    publishedDateTime: 2024-03-07T01:30:00Z
+    webUrl: "https://techwireasia.com/03/2024/amd-chinese-ai-chips-plan-halted-by-us-govt-whats-next/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 34
 
 secured: "PO+8fmA3QJJJ0bNHQOueaUcoDARyILZ+MeJm2kGpwH0InK8diWOyoQPe8p8pbeTLpBZzxD0FcI7XK0aiZs+xdWCU9+k41pYV4NTY9quNkoIh6YwnlDzctdzcxDVEphSgWePMS6FhJJkmKbHOmcJ9vnDSinSTiIqztL5TNZ+TTUG08IBNdpUfX9Td9UWPK0EEBxw5XalROhEzi6Rf00PcjNh7tH9xF8m1Rf8JTGjGPBfJXtPMJ+0shTLiGPcbdtz8Feorn1TEgc22TISSFPhOrcZO431saXbW8+IDE4iqtrfJ57/7c28pxvqtK+HHOVHbint7cq0rlhh8yJ/RFphaz6Bf260eSRZVty9z0Miw2YFoGdGiCfB8cYxn4WB/js9VVH1sdhmz6VpUnd3LJoWb4Mzll7kTN13EUBfvoBr/VTT1HUgCChN3GoOHK7HcEqsTriPRgX19r+CyWA99qDaLpSMcqcstMmHj9vmOzI21IgAP0FFzurvqRLC+CflHmWELe7m71+8Ho9Yyoi2GMX+5pw==;1NyTl/6UgaaozNPkHTGVWA=="
 ---

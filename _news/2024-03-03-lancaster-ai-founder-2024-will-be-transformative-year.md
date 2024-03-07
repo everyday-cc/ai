@@ -33,6 +33,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The speech and those transformative days of March ‘71"
+    excerpt: "March 7, the day Bangabandhu brought the nation to its feet and had us all shouting from the top of our voice \"Joy Bangla\" as he delivered a historic speech. It marked that unique moment when our dreams found a most powerful,"
+    publishedDateTime: 2024-03-07T03:20:00Z
+    webUrl: "https://www.thedailystar.net/opinion/views/the-third-view/news/the-speech-and-those-transformative-days-march-71-3560896"
+    ampWebUrl: "https://www.thedailystar.net/opinion/views/the-third-view/news/the-speech-and-those-transformative-days-march-71-3560896?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/the-third-view/news/the-speech-and-those-transformative-days-march-71-3560896?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 44
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/03/07/march_7_speech.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "AI experts in Colorado Springs: Transformative positive change possible with artificial intelligence"
     excerpt: "According to David Bernstein, software developer and president of The Passionate Programmer, the software industry will be among the first industries to transform with the help of AI. While software can take years to perfect, with the help of AI that process can be cut more than in half."
     publishedDateTime: 2024-03-02T12:30:00Z

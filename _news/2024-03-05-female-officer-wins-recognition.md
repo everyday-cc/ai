@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Unlock Your Device Using Face Recognition? Check Out These Easy Steps"
-    excerpt: "Learn how face recognition works, and how to set it up on your smartphone. (Image: Abhijay Singh Rawat/india.com) New Delhi: Facial recognition, or face recognition technology, is a biometric ..."
-    publishedDateTime: 2024-03-02T02:00:00Z
-    webUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/"
-    ampWebUrl: "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 56
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2024/03/IDC-Story.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Female officer wins recognition"
     excerpt: "It comes as no surprise to those who know Reyes that’s she’s being recognized. “Officer Reyes always comes to work with a smile on her face and a positive attitude ready to go above and beyond to assist her fellow officers and the citizens of Odessa, ..."
     publishedDateTime: 2024-03-04T00:00:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://www.oaoa.com/wp-content/uploads/2024/03/utpb-all-female-shift.jpg"
         width: 799
         height: 533
+        isCached: true
+  - title: "‘We want equality and recognition’, say 100 older women in new project"
+    excerpt: "Equal rights, good work and recognition of unpaid labour are some of the demands from a collective voice of 100 diverse Manchester women aged fifty-plus, following a research project involving experts from The University of Manchester."
+    publishedDateTime: 2024-03-06T12:17:00Z
+    webUrl: "https://www.manchester.ac.uk/discover/news/we-want-equality-and-recognition/"
+    type: article
+    provider:
+      name: University of Manchester
+      domain: manchester.ac.uk
+    quality: 24
+    images:
+      - url: "https://content.presspage.com/uploads/1369/5796dc82-d654-4b88-8832-9aecd5f458ea/1920_uncertainfutures-2.jpg?10000"
+        width: 1293
+        height: 643
         isCached: true
 
 secured: "+7PvJrUz61N54G0l57zvvvpMEKOXO1CoeYxlT0wpu1B7dr03hJarGy9h23tU748eVenBUXuHtQ1W0uswoHbDpPikVX/xOy6dSGNRGdh9Aui7N9GLrMSL/t+yhAlTZVsl7pD7PXZHVNAsbiGlQayxM0TvAau5sdaEMft9kHyOYJSsnBDmW0vlvlO/4Wdl1PIUI+/qLnEnwh7FlvMFKZNdGjMX6TBOnz7wQ6JXrPMC4pbD/X+lv9hCWb3VRQBAgdYCbmhrWoQ6v+usZRVE1aRJviXimMWgNTdfL8ls+5HB5U07HcdBbllGvxGpcvcz9Lt7/scHsGhPCJ2s5tspRVwO4nB99qPETq6emy3y5DBFKlo=;SK0yQDrH6RKAgaaEesPcuQ=="

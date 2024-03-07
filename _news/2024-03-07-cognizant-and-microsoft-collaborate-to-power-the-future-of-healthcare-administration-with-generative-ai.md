@@ -50,22 +50,6 @@ related:
         width: 3603
         height: 2402
         isCached: true
-  - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
-    excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
-    publishedDateTime: 2024-03-06T20:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
-    images:
-      - url: "https://i.guim.co.uk/img/media/9e4118dc065eee0fe9f0668bbb3e7cbc854d1954/0_397_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=44d52307107ca9c20c2625956de63744"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
     excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
     publishedDateTime: 2024-03-05T21:28:00Z
@@ -112,6 +96,17 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 59
+  - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
+    excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
+    publishedDateTime: 2024-03-06T20:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
   - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
     excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
     publishedDateTime: 2024-03-03T15:31:00Z

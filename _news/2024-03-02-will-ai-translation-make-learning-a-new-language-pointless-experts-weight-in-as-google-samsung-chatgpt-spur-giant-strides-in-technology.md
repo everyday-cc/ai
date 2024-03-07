@@ -33,9 +33,9 @@ images:
 
 related:
   - title: "Will AI translation make learning a new language pointless? Experts weight in as Google, Samsung, ChatGPT spur ‘giant strides’ in technology"
-    excerpt: "How AI development has fostered a digital ... which generates humanlike text and whose applications include language translation. They will “transform the learning process as well as the ..."
+    excerpt: "With AI-powered language translation apps becoming evermore advanced, linguists give their opinions on whether it will ever make the act of learning a foreign language pointless."
     publishedDateTime: 2024-03-02T19:15:00Z
-    webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=latest&pgtype=homepage"
+    webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur?module=top_story&pgtype=homepage"
     type: article
     provider:
       name: scmp.com

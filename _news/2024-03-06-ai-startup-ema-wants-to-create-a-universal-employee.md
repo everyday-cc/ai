@@ -23,6 +23,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "University of Tartu to help Nõo Meat Factory use artificial intelligence in production"
+    excerpt: "As the first company in the Estonian food industry, Nõo Meat Factory, together with the Institute of Computer Science at the University of Tartu, will start testing novel artificial intelligence and robotics solutions that will help optimise production and improve product quality control."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1036803"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
+
 secured: "X1F+CSphRjojqRyBXZCZffmPIP/NUCLfcCvdAUtUTLvYb8OL7zTU566LsvD1iWBNJP7kfW2Oh7JcThht1jJAwNOC9h7/i9kmHTzrA+Qrt43Z1piOODPjnai90zwOU2kLh+HDpw8+B3smavTOWBTOKPt5iNtFLpjxnu5Rzy8r6NNwwnQX4l9OdDplLTVfWtV4mOWLf6Xo7AqztLU/gtwTa1mXx4eOD422vCw8BprphyFMfb7DSxlisWoUMDe7WDnkaxIednJ9ztBmlhwzWdplx1lf+4WyEQ46tFTZF99IRZLXS87Fy9h1ktzlNHsMCNzc1auICKDcU036AoOTX3oQXn6+Ptto5KNVdNlcp4Zvw8M=;Kyv0WUnwLnVxotFJldTj7Q=="
 ---
 

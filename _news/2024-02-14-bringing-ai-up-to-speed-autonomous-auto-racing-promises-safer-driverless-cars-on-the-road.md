@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Bringing AI up to speed – autonomous auto racing promises safer driverless cars on the road"
-excerpt: "Imagine that scene, but without the driver – the car alone, guided by the invisible hand of artificial intelligence ... autonomous vehicle technology as driverless cars begin to hit the streets."
-publishedDateTime: 2024-02-14T13:24:00Z
-originalUrl: "https://theconversation.com/bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208"
-webUrl: "https://theconversation.com/bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208"
+excerpt: "I am a computer science professor who studies artificial intelligence ... ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208."
+publishedDateTime: 2024-02-14T14:06:00Z
+originalUrl: "https://www.timesunion.com/news/article/bringing-ai-up-to-speed-autonomous-auto-18666913.php"
+webUrl: "https://www.timesunion.com/news/article/bringing-ai-up-to-speed-autonomous-auto-18666913.php"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/575049/original/file-20240212-18-4epn1w.jpg?ixlib=rb-1.1.0&rect=217%2C307%2C1712%2C854&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
-    isCached: true
-
-secured: "tos035sKD3AWnSnl6Mnvd454iNxV59I9CvpCeuTT4umq0tZiVhMUo/t0iYQiQjmh1urQ3kvETtwgqu9W0s1LV6xkDVoDlT9iAs6dQFfnrDvkunrGITB2Oy/EXN+xonDrS/Vvcb2Nkhh9Z9ixpSaKye6HzUrBMHB4KPKY0Xh8qcZq5MuHcAYQA6QB+/BUYY9nZqzdvsC+8oR422spXKLVo9rliFBzfyrmI/OnjwAb7W7d4IPVPizuKwJGdEJuRQmQwossbWm6vBmyy2wIfgCC8cKCf1sCd2EYjxvYAo0rkT0CV9MIF+Hb8AxjAFZ73z3XFYFoXMyE1NQT7oRHshKm+qab0nl4ijNCvuWGqMRzz+c=;3fLh4GmdlP3knlScxe9PJA=="
+secured: "t9nTD5yUdC0DQmGl1ZPhypGf97DUPErp6fBCYSspvufTZX1Xv4VXkenJDzpk7kIq0gNPCV0NxXYWBJ5XdkQEmEVDkeBGNQoRst4vg3fj3pNK3d3L/m88jWL9EbREREzDWwmq7omdog27AlZ9V/nPSkztS/9gc0oLJpE/ihTbHu9TgmVWCp0HQ6DdxQyQTvWUD3klNg0HkYMr34cgZ0uM9qg5KvJL2u9U+5rGuhapm3kmJ/DXDHnw2ST/CU5WYBF0JcvkWaZ11R/Y3FRph0hac7i1gUCySrWENr/VfeyIVghAeOAqZW7D7zZA0ZOUO6GGfJZr19HjJOn0eAFUwzUicwKaYA6dflgqkunDt7nGano=;4hx1uXUKMj3Kbq4vYx1wEA=="
 ---
 

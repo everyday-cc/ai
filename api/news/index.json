@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-ex-google-engineer-charged-with-stealing-ai-secrets.md",
+      "title": "Ex-Google engineer charged with stealing AI secrets",
+      "excerpt": "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-68497508.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-68497508.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-68497508.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp",
+      "publishedDateTime": "2024-03-07T01:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design.md",
+      "title": "How a two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design",
+      "excerpt": "Bengaluru Metro's Electronics City Metro, connecting RV Road and Bommasandra, is expected to commence operations with a 15-minute frequency by December 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/03/EC1-435x435.jpg",
+          "width": 435,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp",
+      "publishedDateTime": "2024-03-07T01:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
       "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
       "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
@@ -149,57 +234,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-ex-google-engineer-arrested-for-alleged-theft-of-ai-secrets-for-chinese-firms.md",
-      "title": "Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms",
-      "excerpt": "Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
-      "originalUrl": "https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/73542196b66918bc54328a744fa04107495ecbb9/0_288_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=f3ee6931ab7c6f2b72574068e252d693",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets",
-      "publishedDateTime": "2024-03-06T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-07-this-startup-figures-the-best-way-to-control-drones-is-talking-to-them.md",
       "title": "This Startup Figures the Best Way to Control Drones Is Talking to Them",
       "excerpt": "Connecticut-based Primordial Labs has developed a voice-based interface for small UAVs. A soldier simply speaks into a radio and tells the drone what to do.",
@@ -292,6 +326,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-linkedin-learning-unlocks-250-free-ai-courses-for-a-limited-time.md",
+      "title": "LinkedIn Learning Unlocks 250 Free AI Courses for a Limited Time",
+      "excerpt": "LinkedIn Learning is offering 250 AI courses for free through April 5. Get the details about the offer and LinkedIn's new Workplace Learning Report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/linkedin-learning-ai-courses/",
+      "originalUrl": "https://www.techrepublic.com/article/linkedin-learning-ai-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/03/AdobeStock_353163602_Editorial_Use_Only.jpeg",
+          "width": 1400,
+          "height": 931,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Meta AI"
       ]
     },
     {
@@ -448,7 +535,7 @@
       "originalUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -543,7 +630,7 @@
       "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -976,7 +1063,7 @@
       "originalUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1028,7 +1115,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1120,101 +1207,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-the-race-for-powerful-computer-chips-and-ai-will-change-the-face-of-global-politics-and-security.md",
-      "title": "The race for powerful computer chips and AI will change the face of global politics and security",
-      "excerpt": "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
-      "originalUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartcompany.com.au/wp-content/uploads/2024/03/AdobeStock_189358603.jpg?resize=1200,630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T00:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-google-now-wants-to-limit-the-ai-powered-search-spam-it-helped-create.md",
-      "title": "Google now wants to limit the AI-powered search spam it helped create",
-      "excerpt": "Google's post describes a \"March 2024 core update\" to the ranking algorithms that it says will show fewer results that \"are unhelpful, have a poor user experience or feel like they were created for search engines instead of people.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
-      "originalUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

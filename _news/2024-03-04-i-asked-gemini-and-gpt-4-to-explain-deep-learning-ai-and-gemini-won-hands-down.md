@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
 type: article
 quality: 100
-heat: 160
+heat: 157
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd584d93-bee9-4c65-9365-84169b9b7b77/a50ecf78-d8cf-4b00-8be3-5233a7d92790/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google Gemini product lead retreats from social media after troubled AI product launch led to harassment"
-    excerpt: "Jack Krawczyk, Google's Gemini product lead, has gone dark on some of his social media profiles after facing online harassment."
-    publishedDateTime: 2024-03-02T02:02:00Z
-    webUrl: "https://www.cnbc.com/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/google-gemini-head-removes-social-media-profiles-after-product-launch.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107374413-1708024437471-gettyimages-1992338676-AA_10022024_1525083.jpeg?v=1709322946"
-        width: 7373
-        height: 4918
         isCached: true
   - title: "Move over Gemini, open-source AI has video tricks of its own"
     excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."

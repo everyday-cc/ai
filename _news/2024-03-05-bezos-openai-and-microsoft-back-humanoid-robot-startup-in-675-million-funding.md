@@ -34,20 +34,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
-    excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
-    publishedDateTime: 2024-03-05T03:55:00Z
-    webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
+  - title: "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others"
+    excerpt: "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ..."
+    publishedDateTime: 2024-03-04T16:49:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 53
-    images:
-      - url: "https://i.nextmedia.com.au/News/media_1cc1c11e9039504f571f1c21793c05f1627244c87.png"
-        width: 611
-        height: 458
-        isCached: true
+      name: CRN
+      domain: crn.com
+    quality: 33
 
 secured: "IH5jDGmzksjrH4ug6I14k/EKD1bdJOmlJwpKKIhqUTeyvGVi6D5otc+Zl8//u07R1iEO4dzDEsg+jifiX6cih9BMo4xQwNu8telNYd+sL0zDKF6D/7WVfBDP/3Tk3/I7gUTwJO6gQpLUIHrWIlI+BH/hQ6ddfxJc5F4nxC9a2UrCbR+5YPbts/M/M7vaxmFC3x+LxuwCAkBgSGmeNPMtctktyhPCJnVS6ui/VJnCVpsb6/uiQ1IlPKDiAoI7F1VqMEU2lzGSRl0y13q8/F1bgyHUtdbsc1ZG8gnikDiIdBvloXKtXqXzpPoqQnJcJVRFHe99LwHLfeoOggMQOvfkER8fetZeiQC/KcLER7OZKvGyWeD725ghxNyWUgAj57OfUTcbslzeYqkql2g7uZljLUHkPV7sPRLhwMPvuRKw/LF77i0M8lJAglaiuGaGjq374pJpCrLFGQ0/UFmcFFBjQITdjce2lFVZMEq8FjQRTEaa4kQpoMNkoXDEhXOm03kU9YZkIgg7n7hipVuoC0ZjFQ==;xzhpVKoMjyLdvG4FhpBJYg=="
 ---

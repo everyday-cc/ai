@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Google engineer charged with stealing AI secrets"
+    excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
+    publishedDateTime: 2024-03-07T01:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms"
     excerpt: "Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account"
     publishedDateTime: 2024-03-06T21:40:00Z

@@ -50,6 +50,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
+  - title: "Backend houses gearing up for AI chip boom"
+    excerpt: "The arrival of the Artificial Intelligence (AI) age has underscored the increasing importance of semiconductor packaging and testing, with makers stepping up efforts to expand advanced backend capacity to capitalize on strong demand for AI chips."
+    publishedDateTime: 2024-03-07T01:43:00Z
+    webUrl: "https://www.digitimes.com/news/a20240306PD214/ai-chips-semiconductors-packaging-testing.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "W62kBbubP+rMR7+g7JW2L4SSDVmrIBiE0h18KzeddWzKvu6VaPn+G0NzeVih9/IGQ9Cbh84w+9RgQWsOur/Tb1r16JvQJvnRwiJUl44e1LOx9ZSgeX/Gnr/9+j8dO1Y7l/bVaKoDlojZkk0LsFhPNiYNyzXD5dVyhevN2aG0TV+iPjBV4Z+KXwAh2oPsGOCwdTBS8PcjskDid2vISAZARLBN1/okq02GTP/LDEIv7xUvwXwpNqtDL+l6fzF3YhzVXPif74+g71c49XG/R1NthGyy3juBchKYQCF6HSvQSt4RkqBHekY//ue2c3XPRsYeN/Vmu4/Rgm7gg3Zy3eoKyMxXnqY06cPM1yTI/DcXKD4X/rfQU9sSdyCL9/2QnI9wwJKQzqVBshbD2PT3feO+WH4QXi3FGK2CdV3MCV7tpyOiXGZVmsw8jktu0qPuVyjDPn24CZYSSOcfRUeyvLPbNvV5dpLaI0MB7aR/Xatm2yCKZP8oEHt0VNnFP8cF1DKCb22tXdHCaWfYXxTaPxOkeA==;QxlC+Uy9Favu88a0/diyrA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Backend houses gearing up for AI chip boom"
+    excerpt: "The arrival of the Artificial Intelligence (AI) age has underscored the increasing importance of semiconductor packaging and testing, with makers stepping up efforts to expand advanced backend capacity to capitalize on strong demand for AI chips."
+    publishedDateTime: 2024-03-07T01:43:00Z
+    webUrl: "https://www.digitimes.com/news/a20240306PD214/ai-chips-semiconductors-packaging-testing.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "+InQ9Qpq/VLLfq3daOyiJnBeAh0BaaEyd18fZT24x7mJO8cg4GQe/L4HVVB7EPiCH5ycb8N22E9Wcs1EYTzYduX+Uo0X0GeYgc8UpXn5051Aiz4cUkwNvg2H3omcc2pF0mAXybh2RVHJBIi1bVxN9iPfVZzv1/4y4c5lr/bt5NSPxxhq6+aMtpkizgTAT878tWv/xghlYlrYpkRTQE86c2PZYyvjGPJqK0QPF45UozOPvguSImSg2AOyeIy8ZR7772LaE78g+dY4PNk3EtOjw45ZNZGaDAPQQ/dIuWxPSbBpmSpuhQsz/JnwSK+iFZh/J9OBE1uqD2Ozy0CzH3kog3rqQn5A1duVw7tZol/dUkXvx+bSDU4SpKnsfGYZ8xo3foTCZjUwMG0g2Ml37S+rh4bTSSmXT8H8pi4yQDy1wPzGTZOSjyBvphrAF6za8+AaUILtjoAYmh16yposWNk/th8RqWmA4B4v4Xp8n5Pnrq2y9pI0E4Ee/W2vfFH9H5GcsQx5hFf0NHsyOcRaTHn1RA==;NPCVSYJakOC+TJsXw8DQ7w=="
 ---

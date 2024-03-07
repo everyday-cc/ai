@@ -164,6 +164,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "AMD’s Chinese AI chip plan halted by US govt: What’s next?"
+    excerpt: "AMD finds itself at a standstill as it faces hurdles from the US in its endeavor to sell AI chips explicitly tailored for the Chinese market"
+    publishedDateTime: 2024-03-07T01:30:00Z
+    webUrl: "https://techwireasia.com/03/2024/amd-chinese-ai-chips-plan-halted-by-us-govt-whats-next/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 34
 
 secured: "CvmCU8yLcH725nSPGaeqfbiAVWWw8Ww5HStW9Mqu6YXPU8uz95ZiqbbfMLWrWjP2b8GtbfDwdeOdE6N18MusEFkXcBJhpNIzAJQrEf5CHZA1/jF86rVR71CIQ+E8Mr8IZyPRuQHn4fJYRvX9zBziRV09cJhMHa4WtCEZiGL9XDS/G1VIUI5T/SrxLNsBRmM8V1Oy8m2i3s5CeTLZOLtUVYmGe1a+pPTCZV8yixr2todSKEvK9+UKif1WwcV4pkSpxmguqZJIEw3uSlBsluIe+RLmiO/3TWIhLoAoJhNiN8GmIWkSJDz2j/6FA77isku4fmOtxeASRr92YrU7Y3HKQ+f5U6Sr2sfKQwSQ60XmtCQ=;K3SsriWCwhfWy1z/FAJL4g=="
 ---

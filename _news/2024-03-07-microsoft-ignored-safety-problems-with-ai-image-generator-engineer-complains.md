@@ -3,12 +3,12 @@ category: news
 title: "Microsoft ignored safety problems with AI image generator, engineer complains"
 excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
 publishedDateTime: 2024-03-06T20:58:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=mc.news"
+webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/9e4118dc065eee0fe9f0668bbb3e7cbc854d1954/0_397_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=44d52307107ca9c20c2625956de63744"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "Microsoft’s new Orca-Math AI outperforms models 10x larger"
@@ -174,6 +168,6 @@ related:
       domain: stockhouse.com
     quality: 17
 
-secured: "kfmKk3AMIam8hNMVsQrGetSMdi0verXCb7FSankK7Lf7DSyvF5jxsGwMa6BdD+aKx65qgX1YEkyFMTEY19RFJXqL4fqCR5U/mWg2Z1N9bKS/UTKno5i0o44EIJlpxKWbQ28POpKGX2x4YQteWApuLzc6L2bLskMCY8Ir8psjgyqT3bi/X0WiYe+SyYcsc4LOEtfTGwgZ852sIkN28Cpw+FAC90JutOUDsQsGL7Ff6HwQVd8y/QtN1hGyuQto2E6PgrfG6ar+eAFQY+aK5rOwkG1I6N4rYhZlk5MvQAyTBHhVtFyyxVIuuJxGVfCIlAOlAXnfRJuHDZYSRcTDIGeTY5KdqAvP3pzJ6SU04aFYJMc=;QI1Wm6RiKkE2LsUxRTJ6ow=="
+secured: "VWC2RH/aPeZ5WiTVUuuUhwaM2jEC2dsuZeJDVThm81+zDdGXdaGdY8xKieWd2OooZP4OR0zwXD8g+9sxRjCkpGFbquDQtAUT0YV3bQVo0tnPtZ7lP29r1nimcYP42NHUlym2Bs2T8qhMENp2QpBZXpZSI/h1pbnzzmXKBXsswm487/feKoHkn117NOY41AMO4oRaisbwS3HZdXnblPhgb+B7zI2I7+CbG4SCP2qOWypqwIuBggft7V2eFn9OVVfLPI4a3xKLeNPwE1s00oFg4S8OsbKg9DyWaO9ur/4FXsByBvwsRS+hrAl7X3G+HJZ9UWszrz/zhWdf7k5ANXvkxLAqecJ4GEN2GjcH/mSVfsaMLw+wDxrpQzFJMY3L6jXPGwaGTShsqbUAecpUqes1d3lrt2rbxkoQXwwMggUZBqCAzGf2FyL5JiBgKet8Vt9A4WG81fNLdmmrzCkm9wHE8WnyBEuSS4n7IXU/366HgIhdBuuQnvpjGOOofXgCnFoNc1yvNdSvG5zIqBnnEkRo4g==;UG0EASR0FC1M2WlKQMOvjA=="
 ---
 
