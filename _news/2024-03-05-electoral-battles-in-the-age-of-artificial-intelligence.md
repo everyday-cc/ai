@@ -48,6 +48,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Reshape Automation aims to reduce barriers of robotics adoption"
+    excerpt: "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects."
+    publishedDateTime: 2024-03-07T14:56:00Z
+    webUrl: "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 79
   - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
     excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
     publishedDateTime: 2024-03-07T00:00:00Z
@@ -104,6 +113,20 @@ related:
         width: 1570
         height: 884
         isCached: true
+  - title: "How healthcare organizations should prepare for generative AI"
+    excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
+    publishedDateTime: 2024-03-07T18:25:00Z
+    webUrl: "https://www.healthcaredive.com/news/healthcare-generative-ai-adoption-deloitte/709397/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
+    images:
+      - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "BU's new robotics and AI center is now open"
     excerpt: "The center aims students from the undergraduate to doctorate levels to be better positioned to enter industry or start their own ventures."
     publishedDateTime: 2024-03-05T18:17:00Z
@@ -136,6 +159,15 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
+    excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
+    publishedDateTime: 2024-03-07T13:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974571.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "niimHckYxzbVuhcVDi/srFKJQcqAAXVjX4hlQP1VNNOAB7GqpvA+eFJmlo894DQDLsnSTYEVn5t871cUNfq6WIqiNfdg1ha2nKjvEZT8GGM4GGciPimmYJWa/+IYhOCQcPT+3DiSu98UJiOtb4/JQRTPh1eRgkJ1bHUR4dPy4RnCfvMKc8N6cYxytNQnUVfnC97+FCJvJKd2XMtPhYA6HxMtuTTWXUpzgMJ6CJTpwd5/FD+3ol7SBmRWd6dvt13DRT0Sb5xpf29acdQkJYnIgzaxXR4w0X7US9JPo5p9ePrWq16bYPt633o9WABiQLgo/Zznya8h8IMFrUNlrHHryNDD/I1vXKaJvsam3mWd+L9uz5D4bT0skhG4Z1qTfVmrc2shxfYqNIuXGUQgTtDNwe5wefq7yRY4JwWjGDlzj5HWblK0SF5gvv8RdxilGVg5XB4W4fWAM+/rhEztRwcKgNq7JCQ/13oBrNq961+iVtavqzZmtF6V2xmS88hur3cA+jtQZNM3nvqeJcJSJkiZzg==;ACHeoexgNk0daqyeigiL/Q=="
 ---

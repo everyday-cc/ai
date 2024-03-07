@@ -43,6 +43,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 47
+  - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
+    excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
+    publishedDateTime: 2024-03-07T16:17:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/veeam-announces-strategic-partnership-microsoft-integrate-copilot-ai-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
 
 secured: "DHrtfJ8MdBOOaztvfkppVJ13ndNpPiSNicpoQEHmIWYV+tn7+DaurVFbVko4Qxg5SGSazMFk1sKolxpTretQ+V+r0R8HBy1qesv2xe2H/bVMFfLn5HjyiHYduh66kWrlGGv1VisVBAQHgBOs6fzVC+dOArsjC90B3046GCccf3Yiri04Rk+0E9BTZxj9TljtGAy75KRdKRJ54nv3P7NAMfr1ti9B3JxrbURCGzswnBAu3zQ4A5AzsLcWyxFvy3mP4vbb9unQfF53oVS5kwDkb6o1fVTp195myf7M6cExPC2fYkMjxcjxFZuBX32P2ixtazCPsR8q3iUWby59s88muqG1qM052OrTLzU2a5K6u5vTLDEk1QpPGkuYJE+bBx+w5n6sPgpZbSaI+bKe/+oOBaRu4ISuwy6tSVgSRY7jYcc/qYMqd3NMsL+BiY2g6rgSVJtdk4FAeJ3rz0mFZEjc9d9VWCW6Km3Sr3nn+sn0xaxAc3rwZRyoUJPuOQgtUk4bQRPbpkou+N0pFsjNpYgR3A==;R4zlS/Qkt5nz5KyLzVhVdg=="
 ---

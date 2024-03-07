@@ -53,6 +53,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Salesforce Launches AI Solutions for Healthcare Professionals to Ease Administrative Burden"
+    excerpt: "Salesforce introduced new data and artificial intelligence solutions tailored for healthcare professionals, intending to ease their administrative burdens. One key tool, Einstein Copilot: Health Actions, enables doctors to streamline tasks like appointment ..."
+    publishedDateTime: 2024-03-07T12:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 64
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444500/salesforce-to-report-quarterly-earnings.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "OpenAI, Salesforce Sign Pledge to Build AI for Good of Humanity"
     excerpt: "OpenAI, Salesforce Inc. and other tech companies signed an open letter highlighting a “collective responsibility” to “maximize AI’s benefits and mitigate the risks” to society, in the tech industry’s latest effort to call for building artificial intelligence responsibly."
     publishedDateTime: 2024-03-04T17:09:00Z
@@ -71,6 +87,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 42
+  - title: "Salesforce launches Einstein 1 Studio to support admin and developers"
+    excerpt: "Salesforce has announced the availability of Einstein 1 Studio. The solution is a set of low-code tools that enables Salesforce admins and developers to"
+    publishedDateTime: 2024-03-07T13:56:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2024/03/07/salesforce-launches-einstein-1-studio-to-support-admin-and-developers/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 4
 
 secured: "WaVZaxF+Y5R7cNEMxUR7rtq0jT7a6h2psUekDvj/q+90aC9XiCjWhY830/iXUaUQko6bGupqt+O+wnNb0MmL5f09N6ZykKUCqF8LmwRa2l/HWf7PunBSYNrVIhaG6W26hAjEKckeN5fsGQzHTKushVs0Xi8EdccUPXTc9rTfJa5c2EmbxzSZpp6jn/lqYtXT84mqM0acz6zZv1RI2DnXYZo3hkfzdKHQGXzfYIAX9+n7BKK6euBaYv+brYUGZtUL+J1ol6KxTdCHY6DzNmeiCS7tOjjm/9BCzHt34KRrh+rHTWMXaiJgyBza2GC6q9tgteSf2wbpt281hpqpr5GGypyR/Q3vRr8mYIb5P4k44Wc=;jo4c1uklONezo35BJeVyKQ=="
 ---

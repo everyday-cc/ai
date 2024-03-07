@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation
 webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
 type: article
 quality: 77
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 19
+  - title: "A Little Less Conversation, A Little More Action: How to Accelerate Generative AI Deployment in the Next 6 Months"
+    excerpt: "Enough daydreaming, enough speculation, enough hype – this is a year of action. According to the McKinsey Global Institute, nearly 50% of typical business activities can now be automated by generative AI (GenAI),"
+    publishedDateTime: 2024-03-07T17:05:00Z
+    webUrl: "https://www.unite.ai/a-little-less-conversation-a-little-more-action-how-to-accelerate-generative-ai-deployment-in-the-next-6-months/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 18
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2024/02/Capture-1-400x240.png"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
     excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
     publishedDateTime: 2024-03-06T13:00:00Z

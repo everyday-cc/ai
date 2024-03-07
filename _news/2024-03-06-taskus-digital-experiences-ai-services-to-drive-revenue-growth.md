@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "SAP Sees AI as Shortcut to Faster Cloud Revenue Growth"
+    excerpt: "SAP SE has pegged its hopes for faster growth in cloud revenues to customer demand for artificial intelligence."
+    publishedDateTime: 2024-03-07T11:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-07/sap-sees-ai-as-shortcut-to-faster-cloud-revenue-growth"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Apple AI and why investors should expect revenue growth"
     excerpt: "AI can move the earnings needle. Apple has 2.2B active devices, which I estimate are owned by 1.4B active users. If 20% of Apple’s active base subscribe to an AI product (personalized AI) at $10 a month, that’s $33B a year in 80% margin revenue, which would increase operating income by 16%. ($155B in operating income in CY23)."
     publishedDateTime: 2024-03-04T20:51:00Z

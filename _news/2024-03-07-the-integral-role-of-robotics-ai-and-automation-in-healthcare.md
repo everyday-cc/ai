@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024
 webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
 type: article
 quality: 116
-heat: 206
+heat: 236
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Reshape Automation aims to reduce barriers of robotics adoption"
+    excerpt: "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects."
+    publishedDateTime: 2024-03-07T14:56:00Z
+    webUrl: "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 79
   - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
     excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
     publishedDateTime: 2024-03-07T00:00:00Z
@@ -102,6 +111,20 @@ related:
         width: 1570
         height: 884
         isCached: true
+  - title: "How healthcare organizations should prepare for generative AI"
+    excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
+    publishedDateTime: 2024-03-07T18:25:00Z
+    webUrl: "https://www.healthcaredive.com/news/healthcare-generative-ai-adoption-deloitte/709397/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
+    images:
+      - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "BU's new robotics and AI center is now open"
     excerpt: "The center aims students from the undergraduate to doctorate levels to be better positioned to enter industry or start their own ventures."
     publishedDateTime: 2024-03-05T18:17:00Z
@@ -134,6 +157,15 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
+    excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
+    publishedDateTime: 2024-03-07T13:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974571.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
   - title: "Electoral Battles In The Age Of Artificial Intelligence"
     excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
     publishedDateTime: 2024-03-04T20:44:00Z
@@ -144,6 +176,6 @@ related:
       domain: menafn.com
     quality: 17
 
-secured: "okKR+T7gquTRqPZuAabhFywpI7+PgTyQY4W4puoEfijZiwuTpjh9kxqlxOp01FoWYHQIPyLkeUBo5CzxTXdshDdujHnJlfZpe3qKJyEvdwbpntVAHE95mOcPIGQalWAvU1od93OrWbXEeZp3uhtVPwyolA0tWfS/EsYduH+U5C8b8oJqd2tSVnX5PZI0uyI3cURJFkukYJhxoL/jgp0SlzqTg64o226mAfZiZrslc5FrNw0Vaj2+HTw0LKh7r7wAnUToWWQIzG4mO00dGP0evaRQIH6YmF302aMvSfqexweaobE6OrWOsTWdvuGgjlnpDTRJO/wW6GfVzQ6nLDqGBzW+YcuSKZnP5XOJ1hhRBuE=;Gq8RjJOMNUelf3mRf9zZJA=="
+secured: "xZet9sxJj0vL6pG5T/kZjXboWwec4xcop346K3uoZH9eaIK9k02MEKBToxbpkvjxRzz95r5ZK7OrYOEFmlizylSjNEIllanghZ8Gh2RB9/ZIP1dvSrczBVMN5LdW8A7hnpP5bW8vWIJ3wYm2JwS0+ik/Mr/Aj1+GBMnIqIPfigl3TouWEGjWaa5KKltSCWpgu/viaec0Ray70Nbew118H38qSuMYATu5M52cQ+jBR9coKguh34DkGp2jwVtCyzLanbI73ik8HJDAaXOeiAkvBo+6FggH6upcAMu/pr7d2gWLW7z69fTdJcWn+k21bqZoUc9wc3dsBQDzpuoZF7hbEgen/iuBjF4GOWKRS12Twjqen9A7ia4PgFM8GFogZMx7QG3uVnqDzQrbqAKEnC20c1K3hamq9H+rsc2dqr7MQGIpxsi0OTc4PXGpgzwYRof2jBJsn5uGysQbShdqTmo0U3E6G7vUqKrliYtgbiCMXs7TnmagzWoPdlZSvRIYHR9Eio1XmvSSBIvScaw6dFqKdw==;lcImVl5ZnU3D2AevB8GcFQ=="
 ---
 

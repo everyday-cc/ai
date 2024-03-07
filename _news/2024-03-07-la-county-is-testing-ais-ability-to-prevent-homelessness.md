@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Los Angeles County Uses AI to Prevent Homelessness and Offers Assistance"
+    excerpt: "It’s an experiment still in progress: machine learning predicts who will end up on the street — and then social workers step in to offer help. So far, nearly 90% of participants kept their housing."
+    publishedDateTime: 2024-03-07T15:30:00Z
+    webUrl: "https://www.kqed.org/news/11978448/los-angeles-county-uses-ai-to-prevent-homelessness-and-offers-assistance"
+    type: article
+    provider:
+      name: KQED
+      domain: kqed.org
+    quality: 18
 
 secured: "5N9wZDNVBDRE6OG4OIrsHJZva3hW49aOLXrj7VW6H3yt30aJbYNwQSCcwhRNZKi5+ptuz+3KoyhUdU7fcYnT1z6knzj8jgZWlUVirZak8QsvKogjI9nJC4AO3ZJ6q7rudsWyeHRKapZOnNevOeTXo5wvnpXBoWllvkb+SolKQqxjpxY3cJ4lMahUSP/lKTljEJRbirDmwuvKmL2zy4/aHsgFMKPMBw7eykirz4w3y8CEXqwvKVXAvBNOeF0a+Jc6RUlonBn2bA/95wvKdNB5qT7gPDrX18TEo7vNDDZGmZRtip8IEAVMckQspoy1rkSnmB8TW6rz4P5u5U3GItoWDIZSUjfGW8NybOV1UpkPj8KVOxsio3UFH9HcBLtLCY/v0Ogk+d4vbYuJjpG3nWnL3VEmUOt0Znoj9ls3+rDY9JGnW+TvouUmatW8aXiMCpE05oZS0plcF3gaAYg5U3IRhwMVfa9fIr/F9BlN3S1vthnZowIZIiLV01KymD//5wukT12TUEnicAOWTQgRapXR4A==;+RkON4xEwONtvZVlICK/GA=="
 ---

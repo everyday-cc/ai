@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple MacBook Air 15-inch M3 hands-on review: Big on AI, bigger on battery life"
+    excerpt: "Apple's big-screen MacBook Air goes big on AI with the new M3 chip, but it's the battery life that really impresses"
+    publishedDateTime: 2024-03-07T14:00:00Z
+    webUrl: "https://www.tomsguide.com/computing/macbooks/apple-macbook-air-15-inch-m3-review-"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 15
   - title: "MacBook Air M3 announced — pre-orders open now for ‘world’s best consumer laptop for AI’"
     excerpt: "Prices for the 13-inch MacBook Air M3 start at $1,099 while the 15-inch MacBook Air M3 starts at $1,299. Both models are available in Midnight, Starlight, Space Gray and Silver. Pre-orders are open now over on the Apple website, with release day scheduled for March 8 — also known as this Friday."
     publishedDateTime: 2024-03-04T14:16:00Z

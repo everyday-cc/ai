@@ -28,14 +28,12 @@ related:
   - title: "Chatbots Do Not Hallucinate, They Confabulate"
     excerpt: "LLMs like ChatGPT are a type of artificial intelligence that run algorithms that decode content ... This was a form of cognitive behavior therapy to help her see that she was, in fact, safe to be around. We were sharing the meal to test out the validity ..."
     publishedDateTime: 2024-03-06T00:00:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 24
+    quality: 4
   - title: "How A.I. Health-Care Chatbots Learn From The Questions Of An Indian Women’s Organization"
     excerpt: "Women learn to use a chatbot powered by artificial intelligence developed by Myna Mahila ... represents what many hope will be part of the impact of A.I. on health care around the globe: to deliver accurate medical information in personalized responses ..."
     publishedDateTime: 2024-03-07T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-
 webUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 33
+  - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
+    excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
+    publishedDateTime: 2024-03-07T16:17:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/veeam-announces-strategic-partnership-microsoft-integrate-copilot-ai-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
 
 secured: "xwrL7UPSfVwSoW4OXKYEmCgYX7TfWX33cnpTGRImStGhdBzgoIr7yfV2fqKfaqd/aBtKiLHqnD24HIU2p5K5u3WIKKvoc3qPbj6eOA1To6I346wkF6yBCpOi5AsRLt0bAjdJdfKmpusQKh6VxG+rNX8TUMfBGsz4seavqPhkNDxuH8i+5XNdtxXnEY3QGNrejq1zmRs1vJiWdlYk3l3MP5QSvrJ7xFQHwfSn71CKn7o/70+YocDIFmEiwvKc275XYug14617gbtoT9TySPXtsXGIZjW/cAt5U+CjHAUonzH9c0I6oGog8iPu5WqMjvEsUm5G9mzdSNokwoRplH2OUWpl9qF0hQdKZpLDR43UsxTCMJVhbfaCJaHtMzzM2ukbSCtox0sbRO1nCYI7BRfLeqidHxjJpUj4l8urrsgmhFH4cWL5Xj6FgnbLZCJjAUIKa8sUcdGFHv22NrWOXZLuM3WC6+4qFdfqe/NK6sm5uJJsaYLDnpuEdnTQxl9d0HkS9ubvDV2B6mjJObAMDFeDrA==;pSiui1EXRZqwAY7smNCVvQ=="
 ---

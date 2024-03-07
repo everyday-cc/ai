@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms"
+    excerpt: "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment."
+    publishedDateTime: 2024-03-07T08:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 61
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Ex-Google engineer charged with theft of AI tech for Chinese firms"
     excerpt: "The stolen trade secrets were critical to Google’s AI prowess, involving the specialized hardware and software that power the company’s supercomputing centers."
     publishedDateTime: 2024-03-07T10:31:00Z
@@ -41,6 +55,22 @@ related:
       - url: "https://www.csoonline.com/wp-content/uploads/2024/03/hacker-laptop-digits-computer-screen-cyber-crime-cyber-crime-theft-money-digital-100937829-orig-100947552-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Google engineer caught stealing AI tech secrets for Chinese firms"
+    excerpt: "The charges allege that Ding stole proprietary information about Google's artificial intelligence (AI) technologies and transferred it ... The architecture and functionality of GPU (Graphics Processing Unit) and TPU (Tensor Processing Unit) chips and ..."
+    publishedDateTime: 2024-03-07T09:56:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 59
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2024/02/07/Google.jpg"
+        width: 1600
+        height: 897
         isCached: true
   - title: "Former Google engineer indicted for stealing AI secrets while secretly running a startup in China"
     excerpt: "Read our ethics statement. WTF?! There's been another case of a tech ... has been indicted by a federal grand jury for pilfering confidential AI tech while secretly working for Chinese AI firms. He even launched a startup in his home country without ..."
@@ -127,6 +157,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
+    excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
+    publishedDateTime: 2024-03-07T17:32:00Z
+    webUrl: "https://www.inc.com/associated-press/ex-google-engineer-charged-with-stealing-ai-trade-secrets-for-chinese-companies.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-1240718346_538223_shl4pt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
     excerpt: "He also separately founded and served as chief executive of a China-based startup company that aspired to train “large AI models powered by supercomputing chips,” the indictment said. Prosecutors say Ding did not disclose either affiliation to Google ..."
     publishedDateTime: 2024-03-06T00:00:00Z
@@ -155,6 +199,33 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Former Google engineer charged with stealing AI trade secrets"
+    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
+    publishedDateTime: 2024-03-07T16:10:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
+    excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
+    publishedDateTime: 2024-03-07T14:30:00Z
+    webUrl: "https://www.tweaktown.com/news/96703/google-engineer-faces-10-years-in-prison-for-stealing-ai-secrets-china/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
+  - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
+    excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
+    publishedDateTime: 2024-03-07T18:22:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/google-engineer-allegedly-stole-ai-secrets-then-became-ceo-of-a-chinese-startup-here-s-how"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 7
 
 secured: "NfBaUzOk/CMeIA0dnRlN81no/ww4Y2+O5P3BrHr1XNMGa5LK/O7EKoNTGWZ+z9gDrM5qRRBayW2kq2tOIT4wCKlFAjrDZgsfn3SaLXDZDGLTq1DrNWJbCNTFVXNz+veIjV3wD46xgBGNxwhcdlKbKx2c3FT6saqYxbFGQdbv1GlIBOfLsV2CWCLMWNU41RFDJuCHNIW46MNNtmusEOng28+bAEw99vBl9zmOYAlCzt/i4MnbzH7QWIMVFVLvNN0ebkXeaHjSa1TY7he/IdWeKfSZUMp00uTm4tUd+3tMRBFeNFmfnWV3qdg4MuJiSKmxmdJwAdv1CcLCI5ApKJYnmjIzOEZyeudcEIwZhBe4mYA=;/TjS6bFC2Fu6Hzx+8AEQTQ=="
 ---

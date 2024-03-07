@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-unveiling-the-transformative-ai-technology-behind-watsonx-orders.md",
+      "title": "Unveiling the transformative AI technology behind watsonx Orders",
+      "excerpt": "With IBM® watsonx™ Orders, we have created an AI-powered voice agent to take drive-thru orders without human intervention.\nThe post Unveiling the transformative AI technology behind watsonx Orders appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "originalUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T17:10:28Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-climate-change-examples.md",
       "title": "Climate change examples",
       "excerpt": "A wide range of organizations from the public and private sector are working on climate actions to address the causes of climate change. \nThe post Climate change examples appeared first on IBM Blog.\n",
@@ -1252,58 +1295,6 @@
         "name": "WTOP News",
         "domain": "wtop.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-looking-outside-the-magnificent-seven-stocks-could-be-a-good-idea-for-artificial-intelligence-ai-investors-heres-1-stock-that-ive-got.md",
-      "title": "Looking Outside the \"Magnificent Seven\" Stocks Could Be a Good Idea for Artificial Intelligence (AI) Investors: Here's 1 Stock That I've Got My Eye On",
-      "excerpt": "IBM's Watson governance tools have garnered interest as it pertains to compliance with AI practices. The company's consulting operation is serving as a bellwether for generative AI software revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/763057/it-solutions-server-room-data-management.jpg",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T07:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -43,6 +43,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 33
+  - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
+    excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
+    publishedDateTime: 2024-03-07T16:17:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/veeam-announces-strategic-partnership-microsoft-integrate-copilot-ai-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
 
 secured: "IH5jDGmzksjrH4ug6I14k/EKD1bdJOmlJwpKKIhqUTeyvGVi6D5otc+Zl8//u07R1iEO4dzDEsg+jifiX6cih9BMo4xQwNu8telNYd+sL0zDKF6D/7WVfBDP/3Tk3/I7gUTwJO6gQpLUIHrWIlI+BH/hQ6ddfxJc5F4nxC9a2UrCbR+5YPbts/M/M7vaxmFC3x+LxuwCAkBgSGmeNPMtctktyhPCJnVS6ui/VJnCVpsb6/uiQ1IlPKDiAoI7F1VqMEU2lzGSRl0y13q8/F1bgyHUtdbsc1ZG8gnikDiIdBvloXKtXqXzpPoqQnJcJVRFHe99LwHLfeoOggMQOvfkER8fetZeiQC/KcLER7OZKvGyWeD725ghxNyWUgAj57OfUTcbslzeYqkql2g7uZljLUHkPV7sPRLhwMPvuRKw/LF77i0M8lJAglaiuGaGjq374pJpCrLFGQ0/UFmcFFBjQITdjce2lFVZMEq8FjQRTEaa4kQpoMNkoXDEhXOm03kU9YZkIgg7n7hipVuoC0ZjFQ==;xzhpVKoMjyLdvG4FhpBJYg=="
 ---

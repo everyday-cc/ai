@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-07-learn-about-generative-ais-impact-on-robotics-at-the-robotics-summit-expo.md",
+      "title": "Learn about generative AI’s impact on robotics at the Robotics Summit & Expo",
+      "excerpt": "Researchers are already using generative AI to make robots faster learners, and a summit panel will discuss how it can be applied at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
+      "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/generative-AI-panel-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-a-microsoft-employee-warns-that-the-companys-ai-tool-can-generate-offensive-images.md",
+      "title": "A Microsoft employee warns that the company’s AI tool can generate ‘offensive images’",
+      "excerpt": "A Microsoft software engineer on Wednesday warned of shortcomings in the company’s artificial intelligence systems that could lead to the creation of harmful images in a letter sent to the US Federal Trade Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "originalUrl": "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
+      "publishedDateTime": "2024-03-06T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker.md",
+      "title": "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how to efficiently fine-tune a state-of-the-art protein language model (pLM) to predict protein subcellular localization using Amazon SageMaker. Proteins are the molecular machines of the body, responsible for everything from moving your muscles to responding to infections.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/28/ML-15387-fine-tune-esm.png",
+          "width": 750,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:28:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-digital-bank-monzo-raises-340m-amid-uk-push-to-remain-fintech-leader.md",
+      "title": "Digital bank Monzo raises £340M amid UK push to remain fintech leader",
+      "excerpt": "Amid a tough funding environment, UK digital bank Monzo has raised £340mn to accelerate product development and market expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
+      "originalUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-39.jpg&signature=3ecc10adb6813a3ffbf59e293045c26c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-ai-predicts-immunotherapy-risks-for-cancer-patients.md",
       "title": "AI Predicts Immunotherapy Risks for Cancer Patients",
       "excerpt": "Globally by 2050, the number of cancer cases globally is projected to increase by 77% to more than 35 million compared to 20 million in 2022 according to 2024 estimates by the Wor",
@@ -41,6 +231,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation.md",
+      "title": "AI In Hospitality: Elevating The Hotel Guest Experience Through Innovation",
+      "excerpt": "In an industry where personalized experience is key, AI offers a myriad of opportunities to enhance guest satisfaction and streamline operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e6acbe7f26240238ff9c04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -209,7 +451,7 @@
       "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -555,7 +797,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -607,7 +849,7 @@
       "originalUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -703,7 +945,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -754,7 +996,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -996,255 +1238,6 @@
         "Meta AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-the-future-of-ai-skill-and-talent-development-in-the-workforce.md",
-      "title": "The Future Of AI Skill And Talent Development In The Workforce",
-      "excerpt": "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1271,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-the-ai-main-event-redefining-b2b-business-models.md",
-      "title": "The AI Main Event: Redefining B2B Business Models",
-      "excerpt": "In the rapidly evolving tech landscape, what once gave companies a competitive edge can quickly become their Achilles' heel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5e6e1fff396a96ef086a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1175,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/05/the-ai-main-event-redefining-b2b-business-models/amp/",
-      "publishedDateTime": "2024-03-05T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-microsofts-new-orca-math-ai-outperforms-models-10x-larger.md",
-      "title": "Microsoft’s new Orca-Math AI outperforms models 10x larger",
-      "excerpt": "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 263,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all",
-          "width": 749,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-nobody-knows-how-ai-works.md",
-      "title": "Nobody knows how AI works",
-      "excerpt": "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
-      "originalUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/",
-      "publishedDateTime": "2024-03-05T10:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-avoiding-the-swinging-pendulum-in-the-great-ai-debate.md",
-      "title": "Avoiding The Swinging Pendulum In The Great AI Debate",
-      "excerpt": "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "publishedDateTime": "2024-03-05T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

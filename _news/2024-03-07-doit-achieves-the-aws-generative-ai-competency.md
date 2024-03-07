@@ -57,12 +57,16 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+    quality: 34
+  - title: "How Marketing at the BBC is exploring generative AI to increase experimentation and improve Doctor Who promotion"
+    excerpt: "Experimentation is at the heart of how we approach marketing at the BBC. Testing and learning on how we let audiences know what BBC content is most relevant to them and we know they might love underpins our digital marketing strategy."
+    publishedDateTime: 2024-03-07T13:38:00Z
+    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/bbc-marketing-generative-ai-doctor-who-promotion"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 13
 
 secured: "Gm6VpQL5NwwcDV/AlW74/2RgPt7vi0zsX8AAEscBEcR969WyseSDVks0tk6CC8Gi7BrKkKCj5y0leV97wp3WiyQI4x99BekGxnOMibSZF92A/ES2dP9BWSjciPiDkatydegh9X8qKr8vizwaQMg69rIknSXAeNKURCF73VJXmtiFVHy/e5G9IVAbNonw3I0q6p+bDHrw6pwtFCIihdnYicNJih+5md1rneJC9wtS6RjNdte3fl5mK1ke8siyMjAapNd952caVlVzMcmJcgkCU2ZfOukvnFOEM/QTGk0WlGDs0NiH+ZvlzS4owZXQJcJ6+6f/wMMTsihjfSWtci620PjBlFIxEPfj1uXsw6GSarE=;Op+nLAt8BS6aFiKqU0xHEw=="
 ---

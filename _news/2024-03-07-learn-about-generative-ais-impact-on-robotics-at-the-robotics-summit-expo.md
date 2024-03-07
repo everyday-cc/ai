@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/learn-about-generative-ai-impact-on
 webUrl: "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/"
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Weights & Biases Achieves the AWS Generative AI Competency"
-    excerpt: "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications."
-    publishedDateTime: 2024-03-06T18:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "DoiT Achieves the AWS Generative AI Competency"
     excerpt: "Over the past year, DoiT has leveraged technologies like Amazon Bedrock and Amazon SageMaker to build AI foundations for its customers and ensure their environments are regularly optimized based on emerging best practices. The AWS Generative AI Competency ..."
     publishedDateTime: 2024-03-07T00:00:00Z
@@ -64,6 +50,24 @@ related:
       name: 01Net
       domain: 01net.it
     quality: 34
+  - title: "Weights & Biases Achieves the AWS Generative AI Competency"
+    excerpt: "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications."
+    publishedDateTime: 2024-03-06T18:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "How Marketing at the BBC is exploring generative AI to increase experimentation and improve Doctor Who promotion"
+    excerpt: "Experimentation is at the heart of how we approach marketing at the BBC. Testing and learning on how we let audiences know what BBC content is most relevant to them and we know they might love underpins our digital marketing strategy."
+    publishedDateTime: 2024-03-07T13:38:00Z
+    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/bbc-marketing-generative-ai-doctor-who-promotion"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 13
 
 secured: "xoKuNdL/Cn/ppIJTTWsScn92t33wBaHLm67LQ5QtM00812S2WM0Rcpga3+spB+wKTu9r4XSlBZENa/umuk15pPQkNVmxX5QA6xW+243+3QpaVQXo/h0uLGpcn3fO/dtbV3e6WCGVrwr/MaButvfryYyT1GoTmM3F3jViOeNDUBWjjDQwqPchnodBXBSbw5IPQ9b/WzEiPhfpQnptff/tWSfZvb40VX9EfxUIG762fi8am3cof79s0e0II2fuzxqciU/ldabZCVBDOUCbY8v5m612sb87sESMtdVucKIEJ9XCfVdMyXVhReaV0msPnAHMvrHVwTn/0J+8e0ZQiWPhgLEy9Y7PDnlLqVtLe+q/R7GKqugdbHB73MdV2FvJaImQpXtJ4WaJqc+a7AYsHijU/uucbZddlXAOnnwckcrUKF6tIh0mDoXd2v3C7frG9qu/p5VUsU0sUhmkHNMcRxCXiFw0PuXAlBF29Mv6cmySn4tMVTho9WuxlTmNCRVmaycb7fxZiBlqE9NjUIB4oafhpQ==;QIVMXjRnzFiO0i21ts6bEA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/"
 type: article
 quality: 87
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 880
     isCached: true
+
+related:
+  - title: "How Finance Leaders Can Turn AI Optimism Into Results"
+    excerpt: "Leaders are right to be optimistic about AI. By focusing on an incremental approach, sensible technology choices, careful collaboration with stakeholders and careful communication across the organization, business leaders can turn that optimism into a successful AI transformation."
+    publishedDateTime: 2024-03-07T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/how-finance-leaders-can-turn-ai-optimism-into-results/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "d7LeIW4kEDiIALlhPLERLqWNsNiGfo7OLeHf4rHG9xuRTIndbpjkhE5I9U1vtXSval2fv4edtfzOPB/aNS+5ApthQb24DuCCjBiHTVyy0ckmT2Date2xc2iTdn8tipz1i1/VXArMElM8tYqYgXO0G31+VGUVRLSBuRqq4LqVkRRORNh8hmxnuRVzBly5PsP0I7C59DrL2HvKb27suARnDPh2HZYTrubGAZrFTWP841pvs+GEAGlrBGHupeZF5QnwXkeYBAgLNkoM/3fZPO9jBTtBzAbJxFBDWE+ZB8AB6I25LyV08bOJjMrE3Uw0ln4DMCS1YhJk2vrnq2I/v3BNAWdzBGPHjjZxcxkmd0WF2Qg=;hC4Z2oSCcFovVS2CNR4nww=="
 ---

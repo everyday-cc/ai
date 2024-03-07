@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
+      "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
+      "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/07/ML-16177-social.jpg",
+          "width": 766,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T18:46:26Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-whats-up-with-ai-chip-rd-netomnia-telecom-italia.md",
+      "title": "What’s up with… AI chip R&D, Netomnia, Telecom Italia",
+      "excerpt": "In today’s industry news roundup: South Korean scientists claim to have developed an AI chip that uses 625 times less power than Nvidia’s technology; UK fibre access altnet Netomnia accesses additional rollout funds; Telecom Italia has a new post-NetCo plan; and much more!",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
+      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/south-korea-flag-adobestock-17995.jpeg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
+      "publishedDateTime": "2024-03-07T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
+      "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
+      "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_interior_of_an_industrial_assembly_line_manufacturing_t_5c2d1f37-2f10-41ef-addf-7f2dfdd77d21.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-the-integral-role-of-robotics-ai-and-automation-in-healthcare.md",
       "title": "The Integral Role Of Robotics, AI And Automation In Healthcare",
       "excerpt": "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined.",
@@ -10,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -149,49 +297,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.md",
-      "title": "Ex-Google engineer charged with theft of AI tech for Chinese firms",
-      "excerpt": "The stolen trade secrets were critical to Google’s AI prowess, involving the specialized hardware and software that power the company’s supercomputing centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html",
-      "originalUrl": "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.csoonline.com/wp-content/uploads/2024/03/hacker-laptop-digits-computer-screen-cyber-crime-cyber-crime-theft-money-digital-100937829-orig-100947552-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/",
-      "publishedDateTime": "2024-03-07T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-07-how-to-try-samsungs-galaxy-ai-on-any-iphone-or-android-phone.md",
       "title": "How to try Samsung’s Galaxy AI on any iPhone or Android phone",
       "excerpt": "Galaxy AI is a major selling point for the Galaxy S24. Now, you can take Galaxy AI for a test drive on any Android phone or iPhone. Here's how.",
@@ -295,6 +400,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms.md",
+      "title": "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms",
+      "excerpt": "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt.md",
       "title": "Microsoft hosts ‘AI: Egypt Pathway to a New Frontier’ summit to advance AI deployment in Egypt",
       "excerpt": "AI: Egypt Pathway to a New Frontier featured opening remarks by several esteemed dignitaries including the Honorable Herro Mustafa Garg, US Ambassador to Egypt; Dr. Rania Al-Mashat, Minister of International Cooperation; Dr. Amr Talaat, Minister of Communications and Information Technology, and renowned Egyptologist Dr. Khaled El-Anany.",
@@ -381,6 +538,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
+      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
+      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-ai-solutions-at-leap.md",
       "title": "Sahm Capital showcases latest fintech, AI solutions at LEAP",
       "excerpt": "featuring an AI presenter named 'Aliyah', at LEAP 2024. The cirm also showcased its all-in-one comprehensive trading solutions at the four-day event. With focus on fintech innovation, the company provides comprehensive trading solutions, including the Sahm ...",
@@ -389,7 +598,7 @@
       "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -432,7 +641,7 @@
       "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -484,7 +693,7 @@
       "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -880,7 +1089,7 @@
       "originalUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1015,196 +1224,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-learn-about-generative-ais-impact-on-robotics-at-the-robotics-summit-expo.md",
-      "title": "Learn about generative AI’s impact on robotics at the Robotics Summit & Expo",
-      "excerpt": "Researchers are already using generative AI to make robots faster learners, and a summit panel will discuss how it can be applied at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
-      "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/generative-AI-panel-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-a-microsoft-employee-warns-that-the-companys-ai-tool-can-generate-offensive-images.md",
-      "title": "A Microsoft employee warns that the company’s AI tool can generate ‘offensive images’",
-      "excerpt": "A Microsoft software engineer on Wednesday warned of shortcomings in the company’s artificial intelligence systems that could lead to the creation of harmful images in a letter sent to the US Federal Trade Commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
-      "originalUrl": "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html",
-      "publishedDateTime": "2024-03-06T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker.md",
-      "title": "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker",
-      "excerpt": "In this post, we demonstrate how to efficiently fine-tune a state-of-the-art protein language model (pLM) to predict protein subcellular localization using Amazon SageMaker. Proteins are the molecular machines of the body, responsible for everything from moving your muscles to responding to infections.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/28/ML-15387-fine-tune-esm.png",
-          "width": 750,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T16:28:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-digital-bank-monzo-raises-340m-amid-uk-push-to-remain-fintech-leader.md",
-      "title": "Digital bank Monzo raises £340M amid UK push to remain fintech leader",
-      "excerpt": "Amid a tough funding environment, UK digital bank Monzo has raised £340mn to accelerate product development and market expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
-      "originalUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-39.jpg&signature=3ecc10adb6813a3ffbf59e293045c26c",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T16:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

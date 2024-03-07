@@ -40,6 +40,31 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How Load N Go uses AI and neural networks in the trucking industry"
+    excerpt: "In 2023, prices rose for many products, including groceries, utilities, retail merchandise and fuel. This price uptick is explained by the inflation going on in the United States. Its impact has"
+    publishedDateTime: 2024-03-07T14:54:00Z
+    webUrl: "https://www.mcall.com/2024/03/07/how-load-n-go-uses-ai-and-neural-networks-in-the-trucking-industry/"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 54
+    images:
+      - url: "https://www.mcall.com/wp-content/uploads/2024/03/unnamed-2-1.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Why educators should embrace artificial intelligence"
+    excerpt: "Schools must get on board with AI and start figuring out how to utilize this new technology to increase productivity and efficiency. Educators must figure out what students should be taught,"
+    publishedDateTime: 2024-03-07T14:30:00Z
+    webUrl: "https://thehill.com/opinion/4515076-why-educators-should-embrace-artificial-intelligence/"
+    ampWebUrl: "https://thehill.com/opinion/4515076-why-educators-should-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/4515076-why-educators-should-embrace-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
 
 secured: "1Kq2kk3J6ol2zvlgG85Y/2dMK/i5ZibI8szRg4SUFgwEdbBz0Whtvc3vGhwnZJ+D/ZRsq8HmXZr+z+yY2mv4m6uwgJuM1uDOiPQTU/PJrJBuLdxWbVNmVyNTg/Gim6MrNIG5LXDk0JfYIWKndjiJaLarbcz37msDTf1xlMXT0tpUyFPGdDDquGGzGfbXitqAIuRP93UU0B4rIARqjQ7Pz2WifwrQkK0hb9ox1NbyUj+izZOIJpb98CEJC3z4i+YHFlUnuFgCBH3fUbevMFAfCjqbJWMwkJwDARKd7lWpgNm3Drj3BuhdnZ+7dYN3/a/OBq61kSeB3tTplr/LsxMnKqvdNdl30q9fOpUCUXuZfLs=;sNbgIw4AxamVfKRutggC7w=="
 ---

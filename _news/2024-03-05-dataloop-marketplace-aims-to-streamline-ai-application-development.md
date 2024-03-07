@@ -83,6 +83,24 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "SingleStore Partners with AWS to Advance Real-Time Data Analytics and AI Applications"
+    excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, announced it"
+    publishedDateTime: 2024-03-07T14:32:00Z
+    webUrl: "https://www.datanami.com/this-just-in/singlestore-partners-with-aws-to-advance-real-time-data-analytics-and-ai-applications/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 27
+  - title: "Six AI Applications to Transform Your Clinical Operations"
+    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
+    publishedDateTime: 2024-03-07T15:00:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 19
   - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
     excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
     publishedDateTime: 2024-03-07T11:47:00Z

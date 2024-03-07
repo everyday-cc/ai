@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/san-francisco-banned-face-recognition-
 webUrl: "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/"
 type: article
 quality: 62
-heat: 72
+heat: 84
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "San Francisco Voters Approve Facial Recognition Drones"
+    excerpt: "Voters were projected to approve a ballot measure that will ease restrictions on vehicle pursuits, allowing for the use of more surveillance technology and reducing oversight from the Police Commission."
+    publishedDateTime: 2024-03-07T16:43:00Z
+    webUrl: "https://www.govtech.com/products/san-francisco-voters-approve-facial-recognition-drones"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "piImQZkey4NWCxqAkWtkgciO0I3rErjHY7lZnyew43EbrffikHspfPaLbWGvUidbl0vhqg0SnfM6UNjF16JYFiOlatwGaFkQILCq/yzugVJNlyp/fXFf3ol66W4BtD2RZTK46XeXKDKn0TWm3k/VOex5jthIbqU3EhtHKoSxLB2grTjpD7yhn5ihpudIi7TZynPkgVqjUJXHge8ED/dKylnBzqNRee7s8ibfNbomsS7+Lx60YwmLyvDpIG6DfOnH6CtJC64EV/+ryr0OqCkpgush7N5t8XR+z+niWIOjqUyiOhuqW+n7oGn7yX5zvO8aDPoFntWhs518K+zG2NRfuXB0fwzeP3lrKJARp6lDPwOUHaFTU6qyJLNL1hKaaXgd4v8xzbvQ1VtnwMJjv4GS6J3WDmvwZo7RW1iSPRz2HMH0MreB6KNMDjWTce/yvjKQGijwUSanlmm86w7riP8iql+HTQ8vZBJ3vCEWOkDOHOIeXOy/VSQPhL71ByZOJHvr8ASUkrjcd6+HJSKEwG+Zxw==;ubMjZUME0HqNZ43ZTZWm2A=="
 ---

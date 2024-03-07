@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-22-ais-massive-power-consumption-demands-innovative-energy-solutions.md",
+      "title": "AI's Massive Power Consumption Demands Innovative Energy Solutions",
+      "excerpt": "\"Fundamentally speaking, if you do want to save the planet with AI, you have to consider also the environmental footprint,\" Sasha Luccioni, researcher of ethics at the open-source machine learning platform Hugging Face, was quoted by The Guardian.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-01-22_czjv0drkow.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
+      "publishedDateTime": "2024-01-22T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-21-on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt.md",
       "title": "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT",
       "excerpt": "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ...",
@@ -1355,49 +1398,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation.md",
-      "title": "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation",
-      "excerpt": "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html",
-      "originalUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp",
-      "publishedDateTime": "2023-12-19T08:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

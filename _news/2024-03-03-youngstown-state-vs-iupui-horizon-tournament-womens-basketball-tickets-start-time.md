@@ -136,15 +136,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kennesaw State vs. Jacksonville ASUN Tournament Tickets & Start Time"
-    excerpt: "Preview the ASUN Tournament Kennesaw State Owls vs. Jacksonville Dolphins game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-03-02T14:50:00Z
-    webUrl: "https://www.wtoc.com/sports/betting/2024/03/04/kennesaw-state-vs-jacksonville-buy-asun-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WTOC-TV
-      domain: wtoc.com
-    quality: 2
   - title: "Mercer vs. Citadel SoCon Tournament Tickets & Start Time"
     excerpt: "Preview the SoCon Tournament Mercer Bears vs. Citadel Bulldogs game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-03-03T14:07:00Z

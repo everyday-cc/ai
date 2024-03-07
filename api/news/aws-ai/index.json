@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
+      "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
+      "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/07/ML-16177-social.jpg",
+          "width": 766,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T18:46:26Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-rackspace-technology-achieves-the-aws-generative-ai-competency.md",
       "title": "Rackspace Technology Achieves the AWS Generative AI Competency",
       "excerpt": "Achieving the AWS Generative AI Competency in the categories of Consulting Services, Generative AI Applications, and Infrastructure and Data differentiates Rackspace Technology as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting key use cases for knowledge management,",
@@ -105,7 +157,7 @@
       "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -255,7 +307,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": null,
       "content": "",
@@ -1366,40 +1418,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions.md",
-      "title": "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions",
-      "excerpt": "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T16:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

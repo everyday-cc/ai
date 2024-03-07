@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 843
         isCached: true
+  - title: "India announces $1.2 bln investment in AI projects"
+    excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
+    publishedDateTime: 2024-03-07T13:50:00Z
+    webUrl: "https://www.reuters.com/technology/india-announces-12-bln-investment-ai-projects-2024-03-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "Start-Ups Red-Flag Prior Govt Approval For AI Deployment Dub Move Anti-Innovation"
     excerpt: "(MENAFN- KNN India) New Delhi, Mar 4 (KNN) The government's directive mandating“explicit permission of the government” for the deployment of artificial intelligence (AI) and large language models (LLMs) on the Indian internet has stirred significant ..."
     publishedDateTime: 2024-03-04T04:18:00Z

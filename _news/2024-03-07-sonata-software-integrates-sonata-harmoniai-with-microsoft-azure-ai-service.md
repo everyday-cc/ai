@@ -51,6 +51,26 @@ related:
         width: 3603
         height: 2402
         isCached: true
+  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
+    excerpt: "The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the artificial intelligence field and validated capabilities in facilitating customer adoption of AI, as well as executing Azure solutions for AI-powered ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
+    ampWebUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 84
+  - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
+    excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
+    publishedDateTime: 2024-03-07T14:43:00Z
+    webUrl: "https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 66
   - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
     excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
     publishedDateTime: 2024-03-05T21:28:00Z
@@ -152,6 +172,17 @@ related:
         width: 400
         height: 279
         isCached: true
+  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
+    excerpt: "The leading Modernization Engineering company, Sonata Software (NSE: SONATSOFTW), (BSE: 532221) in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni."
+    publishedDateTime: 2024-03-07T18:35:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 44
   - title: "Hi Auto Conversational AI Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Hi Auto’s Voice AI Technology to take advantage of the scalability, reliability, and agility of Azure to shape business strategies Hi Auto ..."
     publishedDateTime: 2024-03-04T16:19:00Z

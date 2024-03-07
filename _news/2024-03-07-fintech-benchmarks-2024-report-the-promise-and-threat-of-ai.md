@@ -64,6 +64,15 @@ related:
       name: London Evening Standard
       domain: standard.co.uk
     quality: 4
+  - title: "The Investment Associations signs fintech agreement with Canada"
+    excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."
+    publishedDateTime: 2024-03-07T14:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99940/the-investment-associations-signs-fintech-agreement-with-canada"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "NSvMPpesEyIdYoi00B6upymyNT7TQSoAPPrLK+z1z3D0Z1KXJnub7pbcfD+CUdHQnBhTZUJjU+gDCaKGuV+ILElYNlCVfjNCUxuxlANkJ8R/sDqOzelqNqaIfjg0P4V+Jc7dI+qduwQna7Yb53AUi1X11IeGGrfXYcuWzhZ0QM1mVz7vWQBF3Z69N2gj/0kcLIIPTBTJDgH1eIFDW78/Kp8uzWGRz1j4+29TjxL7VCyxemgdjTMR/gfdzCn6VypZrDw9JIRPnO/j9Yxu++GE6eUTThQ5PncZnHnWHkpke6lHNIC8KRxME4ezRx0m0m8B7ZIDyW4SYlo2AL8j3pM9xW3bq9485XrcPSnNssbu11KZnGVrPNMkId3GE8HesmFu9orSCArOpXT7zanhSvp7Y5vdhHZHRAU4azI/W+9DhsfqtnbfFB8/ZEQIlMlR/7Pqrcyo1m40PTAFOnD+tuQ0JLx/jU6th/LG9skRz2G1aqVX3uLDJ9rAsxtfRltwfERVTolmAbdKUk7QpvqoN9XL/g==;fsT8ylNze2z37+y11J6ctg=="
 ---

@@ -67,6 +67,20 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 19
+  - title: "A Little Less Conversation, A Little More Action: How to Accelerate Generative AI Deployment in the Next 6 Months"
+    excerpt: "Enough daydreaming, enough speculation, enough hype – this is a year of action. According to the McKinsey Global Institute, nearly 50% of typical business activities can now be automated by generative AI (GenAI),"
+    publishedDateTime: 2024-03-07T17:05:00Z
+    webUrl: "https://www.unite.ai/a-little-less-conversation-a-little-more-action-how-to-accelerate-generative-ai-deployment-in-the-next-6-months/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 18
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2024/02/Capture-1-400x240.png"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "cvai1uyt2ibRAE6k9RDnJ4JV6KZTcmg7ElyZKbko4lp9Em7bbzTLzZpf3Lp4p4kQifEOCQEOT4erYJNH81GH26zIpMxB/2kjNNSGkrqZjbau1zmoeSnpilKYH6g4MYIOruvFiETgNe4al2cbklIJYz8gVljWr/ZwQekM4hTb/0zJ2B8rhvA9LtFOYdCmREcJ0WhpE0qLQDAPFeDV8GK/0CAmKerOjbo/AkN2E1r7hkZvU1tHKMRvIAhR4u6W9+jN/oDxnZPOvUSzuwU2mIVrVKSPwGDfAzrfYi98UbIdo3+Fesh70ZzEJm23TaZbOHWp0oBhgd5hawzikUNUxlsYVB/xzDmzQ0pqgDqYoUvlg0k=;QrBIrI5aP8MmI9YKOTgFww=="
 ---

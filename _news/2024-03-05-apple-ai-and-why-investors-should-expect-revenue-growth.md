@@ -7,7 +7,7 @@ originalUrl: "https://9to5mac.com/2024/03/04/aapl-ai-bullish/"
 webUrl: "https://9to5mac.com/2024/03/04/aapl-ai-bullish/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "SAP Sees AI as Shortcut to Faster Cloud Revenue Growth"
+    excerpt: "SAP SE has pegged its hopes for faster growth in cloud revenues to customer demand for artificial intelligence."
+    publishedDateTime: 2024-03-07T11:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-07/sap-sees-ai-as-shortcut-to-faster-cloud-revenue-growth"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "TaskUs: Digital Experiences, AI Services To Drive Revenue Growth"
     excerpt: "TaskUs’ focus on digital experiences, trust and AI services will most likely drive revenue stream. Read more to see an overview and analysis of TASK stock."
     publishedDateTime: 2024-03-06T12:30:00Z

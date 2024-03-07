@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-06T18:11:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Learn about generative AI’s impact on robotics at the Robotics Summit & Expo"
@@ -64,7 +58,16 @@ related:
       name: 01Net
       domain: 01net.it
     quality: 34
+  - title: "How Marketing at the BBC is exploring generative AI to increase experimentation and improve Doctor Who promotion"
+    excerpt: "Experimentation is at the heart of how we approach marketing at the BBC. Testing and learning on how we let audiences know what BBC content is most relevant to them and we know they might love underpins our digital marketing strategy."
+    publishedDateTime: 2024-03-07T13:38:00Z
+    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/bbc-marketing-generative-ai-doctor-who-promotion"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 13
 
-secured: "zZFDVyTqKra6JN9I1Qk5uXk4peYyffJ0tvRw8+TG2KcqtZhJFhnF2eB2ti2pDsWjZ4vRAZSAzogcTDg+llTcC77g4dY34V0n0smTm4M2sg3sQmyDQyDgB7mGJ3zq0FTWDyGe4C6RWekWjCNJC+Dhw8o0YFBH0eacAUEZacnPTBS1Eg3U0bDMFtBHCN/+f1UB6001D6fO8iteYVb3ybLXlXan/BX+dCnGNNkbCWYf+yh2omwhO0yfWMWBsaJZXeBfPWUgmoNbtO939lGw0vzfGyIMTeUzHvA02Suvns7XA7FqpHrG5WZpuLq47PbCScIjwVrCttdvi5w33joHDPOTDJSD7cPUvLUXDyLC4EP+t3c=;/Jq0FhlOE7iTUO47Os8L8A=="
+secured: "7sZedft5un/NKbcOgM5n2o3FbkRNZp9egwR18OWG8/Rz1nnXCiDzSH0d3LDUBupBb6+2IDEapV/Cwxk2zyEiTTEzY3S9dXfiUz9yIDctat46pHg7EvdAhptg49m/t4/7j4lbTcbtgzBx3E/hN7boTDESip6iWZekGM82G3adE0iKfuaS9TouAHF3grJ8HYbOI80B2QXI4PCmcfvMpIuJaAq7tbQDWSja6zJBUlj35yZs9hE8AdUdAH+1Rzzy31sVKAyDtsAhH2/Rsw2T59t5qYBfIE+UDNMBUVa5TvRukq2OmR19hQ0AEoiSiJviEXvNOmuwvdAX/GneR3q3t8AQrbcNkQDZyz6saDke8HCk9tI=;miw3rTDDTTuw+iJi/xt3gw=="
 ---
 

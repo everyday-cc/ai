@@ -1,0 +1,23 @@
+---
+category: news
+title: "Transforming Risk Management: Quantifind's Innovative Approach to Precision Language Models Sets New Industry Standards"
+excerpt: "Quantifind, the leader in AI-powered Risk Intelligence, has published a comprehensive white paper titled \"Precision LLMs in Risk"
+publishedDateTime: 2024-03-07T15:16:00Z
+originalUrl: "https://www.newswire.ca/news-releases/transforming-risk-management-quantifind-s-innovative-approach-to-precision-language-models-sets-new-industry-standards-840123599.html"
+webUrl: "https://www.newswire.ca/news-releases/transforming-risk-management-quantifind-s-innovative-approach-to-precision-language-models-sets-new-industry-standards-840123599.html"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: Newswire
+  domain: newswire.ca
+
+topics:
+  - Natural Language Processing
+  - AI
+
+secured: "5uETGn48xeLHPAq87RsVlELIomc9+aEb17IKbAJge1JeKe5APx3TRfW+hJkOZIukB8gz1JGfkOzHsmWGgfvDME0yeyKGvCgYkcUeAuwsUBFNK4+voAigOYfAJ+081EvUE8L5Wu3cVoMWEhCBQf8oa7AQJggBlAcc+MDI+jnrLLyjZ58gmCjAuOjh4Q0huMvNSRYM94mgLtkBxfADYKb9Cc7kwfun0FQOlK6Ck90cltnbmZHJwgLJzlhvUI9Jz+IWdE1/ke0kBM1BoetgnN2MRL5OoPn7hrlYjDGo6VKwCYlr/K79BzSBjaHVsUBKHVbKzfkeIwDSbSQt1zenJ3Qy9DlVfM4nXcB5X3Ikfz9yvCwXMNWHzXRSkp9Wx4VqbvKMgxo5UFZq90Rxdb7c9vnN75SnYiPF1xGfp/JWZ784h3sY1jijhNMVOvvz5Sbol5+MzJ8J62dtaPJ4ajTldgN7FVzC7ZHVEjbbKGByrm1o2e1JfCSQsVU0eg4EihlXnXHH3KMKERE0ztvk4TeMtBsCew==;iSufvIoxVDr/X9L3VJY4jw=="
+---
+

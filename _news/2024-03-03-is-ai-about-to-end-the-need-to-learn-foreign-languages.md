@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2024/03/03/is-ai-about-t
 webUrl: "https://www.thestar.com.my/tech/tech-news/2024/03/03/is-ai-about-to-end-the-need-to-learn-foreign-languages"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Careers in languages and translations"
-    excerpt: "The language translation and localisation industry in India has been ... Even product labels have instructions written in regional languages. Despite the entry of AI in the field, there is a need for human translators. Machines cannot capture the nuances ..."
-    publishedDateTime: 2024-03-02T16:51:00Z
-    webUrl: "https://www.thehindu.com/education/careers-in-languages-and-translations/article67878404.ece"
-    ampWebUrl: "https://www.thehindu.com/education/careers-in-languages-and-translations/article67878404.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/careers-in-languages-and-translations/article67878404.ece/amp/"
+  - title: "Beyond Language: How Multimodal AI Sees the Bigger Picture"
+    excerpt: "What distinguishes between the ChatGPT versus multimodal varieties of artificial intelligence? How may such multimodal systems further extend machine learning’s capacities? And by what means might novel implementations leveraging multiple modalities secure patent rights?"
+    publishedDateTime: 2024-03-06T21:16:00Z
+    webUrl: "https://www.law.com/2024/03/06/beyond-language-how-multimodal-ai-sees-the-bigger-picture/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://th-i.thgim.com/public/incoming/bm2oeh/article67891171.ece/alternates/FREE_1200/IMG_iStock-1398807603_2_1_4SB48D26.jpg"
-        width: 1200
-        height: 960
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2023/06/artificial_intelligence9_767.jpg"
+        width: 768
+        height: 633
         isCached: true
-  - title: "Language expert warns against the risk of free translation tools for high stakes tasks"
-    excerpt: "Still, when it comes to translating legal documents, contracts, or sensitive business materials, relying solely on automated tools can lead to unintended - and unwanted - consequences."
-    publishedDateTime: 2024-03-05T20:11:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/03/05/language-expert-warns-against-the-risk-of-free-translation-tools-for-high-stakes-tasks/72856067007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 11
 
 secured: "1EDu81C/HEmzg2+Cg6EdrZcybW7J6QcB8p7AkxrUyX486tmRJKa9KUvJ60nRrGpVvteomi4wbGXSHHMbl15weDdt/VtdYtC+qFL992pzGc0aZt5bX71NAKpDLp3E/efkJYMyiMTwWfyxgMsciArWhIIMzTANqLe2nLKybQzJ4Fi7qG7u6FN1HGEb9nm3bs1ForpQPT/cIx/bCqlGPQQ+2/8PvlOE3O8DCt6iJzBqaGYMs72JcIwXoOzT8lPnXgmlx4cl5DrFHx3/1IsxOCC04Kn0wyqvMDWCGS4fCpGvakSGrccjYcyRPWuPj95aMjsgMNA9qXrwws4taD8ZMKmFN6JcPNLBS2cFVDoJPT6QFAQ=;z3ieDhraRJnHoz7nKBOm5A=="
 ---

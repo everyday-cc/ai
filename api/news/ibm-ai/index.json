@@ -53,6 +53,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation.md",
+      "title": "AI In Hospitality: Elevating The Hotel Guest Experience Through Innovation",
+      "excerpt": "In an industry where personalized experience is key, AI offers a myriad of opportunities to enhance guest satisfaction and streamline operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e6acbe7f26240238ff9c04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
       "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
       "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
@@ -1291,49 +1343,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-16T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-unveiling-the-transformative-ai-technology-behind-watsonx-orders.md",
-      "title": "Unveiling the transformative AI technology behind watsonx Orders",
-      "excerpt": "With IBM® watsonx™ Orders, we have created an AI-powered voice agent to take drive-thru orders without human intervention.\nThe post Unveiling the transformative AI technology behind watsonx Orders appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
-      "originalUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T17:10:28Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

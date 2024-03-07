@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificia
 webUrl: "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The unplanned genius of Broadcom’s route to AI dominance"
-    excerpt: "In our view, Broadcom, along with Nvidia, has become one of the top two AI plays in the public market ... along with alternative processors such as the GPU, the neural processing unit, the language processing unit and the like – let’s call them ..."
-    publishedDateTime: 2024-03-02T18:56:00Z
-    webUrl: "https://siliconangle.com/2024/03/02/unplanned-genius-broadcoms-route-ai-dominance/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "jSoOvzeOPyxMxhpzVX+uGMLoSJpPRSlU80H0K33DSQsRUUbHM85hwTR/G6RZm77Hv227yZA//iMpql2fWvitKZE2InRVy2ysARmG3vv5reHoz4lu6iL/bNnnQkTIsuiglWgXWRa+hWSYPOLnNGKjpfylCdayuWfO7P3AZdosjCKqWT0Y94HxjR7Km0KZ+moEj6+zoAadVE9BlQ40PSzJg0RWCIE7PhLjw4qy/9/4v8GVfD/iA5sonXMLixrtme4+hNVc7J6F6kNyJ/0bsTkrij3eA4nt8jQNgw0WDfNAVPzhaxA1SyTL7Ljm0z1be+myI7Yx6tR2uaSDTfAWIrFkv61Ux4Qk/huLpj13BkxTOw8=;Hm3/dxZChWgg6YmPbVW2nw=="
 ---

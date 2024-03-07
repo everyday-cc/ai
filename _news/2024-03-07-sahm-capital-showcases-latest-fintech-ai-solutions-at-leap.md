@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-lat
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     provider:
       name: London Evening Standard
       domain: standard.co.uk
+    quality: 4
+  - title: "The Investment Associations signs fintech agreement with Canada"
+    excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."
+    publishedDateTime: 2024-03-07T14:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99940/the-investment-associations-signs-fintech-agreement-with-canada"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 4
 
 secured: "MmLCjp89V+fEDZlTrQGsnP1r3+urjqb4RozjnNnA02X9uXLbRZfR7MjYIIbZpYt7+dEFupGqg33M7ln8b6etP50jPB3/3664fq/NJEIJfhkgAFoAHV6xhFHX7koGQOqZSpLSTfF5AV43fmF975HvNnBOV2Zr5v1PQTJmCDfoNLhErJSC8QZqibw8SQx1BX/JUVzNIydXPMfggROXAinATuOoL6vAzTxtdlQCMO3B0xHkHk9nIDjdXgYlTVTw6Dmv2bkXYkMOZyIsLQpTzg8SYHSbuOXoU8LyV/YNOPy0wRBrduALYNVSwMBmQ4P3I2NIhZ/tBcPpTlyn9cZgFTX+P/LWY+J5Z+y2sjp/6920+bc=;1yFHJ66ISkqfbPvs8JW0wA=="

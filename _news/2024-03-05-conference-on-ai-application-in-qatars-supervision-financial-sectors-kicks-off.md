@@ -76,6 +76,24 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "SingleStore Partners with AWS to Advance Real-Time Data Analytics and AI Applications"
+    excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, announced it"
+    publishedDateTime: 2024-03-07T14:32:00Z
+    webUrl: "https://www.datanami.com/this-just-in/singlestore-partners-with-aws-to-advance-real-time-data-analytics-and-ai-applications/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 27
+  - title: "Six AI Applications to Transform Your Clinical Operations"
+    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
+    publishedDateTime: 2024-03-07T15:00:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 19
   - title: "Dataloop Marketplace aims to streamline AI application development"
     excerpt: "Israeli artificial intelligence dataset startup Dataloop Ltd. today announced the launch of a marketplace designed to enhance AI development processes and slash time to market. The Dataloop Marketplace includes an extensive array of tools and resources ..."
     publishedDateTime: 2024-03-05T14:00:00Z

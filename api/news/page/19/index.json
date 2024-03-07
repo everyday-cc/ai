@@ -2,6 +2,438 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-21-5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024.md",
+      "title": "5 AI Accounting Tools For Freelancers Running A Side Hustle In 2024",
+      "excerpt": "Tracking expenses is not exactly what you set out to do as a freelancer. But with these AI-powered accounting tools, you'll be able to get back to doing what you love.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d5b9044c575d8bd5bc0be8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/21/5-ai-accounting-tools-for-freelancers-running-a-side-hustle-in-2024/amp/",
+      "publishedDateTime": "2024-02-21T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-opinion-ai-elections-and-law-why-no-country-can-tackle-ai-alone.md",
+      "title": "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone",
+      "excerpt": "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "originalUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "publishedDateTime": "2024-02-21T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
+      "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
+      "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
+      "originalUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2024-02/86jsk76g_mark-zuckerberg-bloomberg_625x300_02_February_24.jpeg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips-5098939/amp/1",
+      "publishedDateTime": "2024-02-21T08:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains.md",
+      "title": "Arm unveils Arm Neoverse CSS V3 chip designs for AI efficiency gains",
+      "excerpt": "In a leap forward for AI infrastructure, Arm announced the latest advancements in its Neoverse chip technology based on the Arm computing architecture. The company unveiled two new Arm Neoverse Compute Subsystems (CSS) built on third-generation Neoverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
+      "originalUrl": "https://venturebeat.com/ai/arm-unveils-arm-neoverse-css-v3-chip-designs-for-ai-efficiency-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/arm-neoverse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-you-can-now-use-your-voice-to-launch-galaxy-ai-features.md",
+      "title": "You can now use your voice to launch Galaxy AI features",
+      "excerpt": "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
+      "originalUrl": "https://www.androidauthority.com/samsung-bixby-galaxy-ai-features-3417345/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-GalaxyAI-Transcription-Summary.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T07:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-first-human-to-receive-neuralink-chip-can-control-mouse-with-mind-claims-musk.md",
+      "title": "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk",
+      "excerpt": "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
+      "originalUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T06:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform.md",
+      "title": "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform",
+      "excerpt": "NewsVoir Mumbai Maharashtra [India] February 21 In a pioneering move Assert AI proudly announces the launch of Pratham a groundbreaking platform that is patented for its innovative approach to democra",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform",
+      "originalUrl": "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ZDU1MWViMGUtOGU.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T06:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan.md",
+      "title": "Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan",
+      "excerpt": "Uber, Mitsubishi Electric and autonomous robotics startup Cartken are launching a service in Japan using self-driving sidewalk robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/",
+      "originalUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/cartken-uber.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/",
+      "publishedDateTime": "2024-02-21T06:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-3-artificial-intelligence-ai-stocks-billionaires-sold-way-too-early.md",
+      "title": "3 Artificial Intelligence (AI) Stocks Billionaires Sold Way Too Early",
+      "excerpt": "It designs central processing units (CPUs), and major chip companies pay Arm for the right to use its designs. It's a fantastic gig that generates incredibly high margins. A number of major AI players, including Nvidia (which has invested directly in Arm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/765866/artificial-intelligence-ai-machine-learning-facial-recogniition-getty.jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T05:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
       "title": "Robot inventor: 'We had to adapt to the AI revolution'",
       "excerpt": "Produced, filmed and edited by Dougal Shaw Sandy Enoch of Robotical explains why he had to pivot his educational robot company due to AI. Hovhannes ... shares advice for start-ups for our CEO ...",
@@ -780,437 +1212,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-self-driving-startup-recogni-nabs-102-million-to-design-ai-chip.md",
-      "title": "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip",
-      "excerpt": "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI. The San Jose, California-based company raised a Series C ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-20/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-20/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T22:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-ai-as-startup-catalyst-what-it-can-and-cannot-deliver.md",
-      "title": "AI As Startup Catalyst: What It Can And Cannot Deliver",
-      "excerpt": "There is little doubt that artificial intelligence (AI) is and will continue to be a significant asset to existing businesses and a driver of new business creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d522ab8a87e06bb1fc93e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 563,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/20/ai-as-startup-catalyst-what-it-can-and-cannot-deliver/amp/",
-      "publishedDateTime": "2024-02-20T22:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16.md",
-      "title": "Working On Those Obscure Verticals: More From The AI For Impact Class Feb. 16",
-      "excerpt": "I wrote about last week’s special guests in the previous posts, but here’s more on what happened in our class Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d520094dc046145061ba84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1456,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/20/working-on-those-obscure-verticals-more-from-the-ai-for-impact-class-feb-16/amp/",
-      "publishedDateTime": "2024-02-20T22:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-the-ai-craze-is-highlighting-the-cooling-crunch.md",
-      "title": "The AI Craze Is Highlighting The Cooling Crunch",
-      "excerpt": "Direct-to-chip and immersion cooling come in two subtypes ... But it’s coming. Until then, all the AI and HPC workloads flying around require alternative cooling methods—now, today, already. So what are you going to do? Moor Insights & Strategy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d526d643a30a9ca3ffb4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/20/the-ai-craze-is-highlighting-the-cooling-crunch/amp/",
-      "publishedDateTime": "2024-02-20T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-3-startup-opportunities-in-marketing.md",
-      "title": "3 Startup Opportunities In Marketing",
-      "excerpt": "AR advertising? Let's explore three promising startup opportunities in marketing that have the potential to disrupt the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/abdoriani/2024/02/20/3-startup-opportunities-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/abdoriani/2024/02/20/3-startup-opportunities-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d51409a3660b606a9b3f15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T21:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-viral-career-trend-takes-place-of-interview-small-talk-plus-eyelash-robot-enters-ai-beauty-space.md",
-      "title": "Viral career trend takes place of interview small talk, plus eyelash robot enters AI beauty space",
-      "excerpt": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
-      "originalUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/job-interview-newsletter-split.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
-      "publishedDateTime": "2024-02-20T20:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-climate-change-predictions-anticipating-and-adapting-to-a-warming-world.md",
-      "title": "Climate change predictions: Anticipating and adapting to a warming world",
-      "excerpt": "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
-      "originalUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios.md",
-      "title": "Elemental Cognition Sets New Standard for Generative AI, Achieves 100% Accuracy in Complex Reasoning Scenarios",
-      "excerpt": "Elemental Cognition (EC) is the next wave of enterprise AI that delivers the reliability, accuracy, and transparency businesses need. EC combines the fluency of large language models with the rigor of formal reasoning to create a neuro-symbolic AI architecture that can solve complex problems when businesses can't afford to be wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1709350515787.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T18:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar.md",
-      "title": "Discussion on draft AI framework by July: MoS IT Rajeev Chandrasekhar",
-      "excerpt": "India aims to combat deepfakes with new regulations and promote trust in technology through talent-driven innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
-      "originalUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/20/1600x900/PTI09-05-2023-000257B-0_1694712861521_1708439367943.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
-      "publishedDateTime": "2024-02-20T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

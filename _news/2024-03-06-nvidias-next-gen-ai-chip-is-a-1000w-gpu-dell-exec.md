@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
+    excerpt: "NVIDIA CUDA-X Speeds Data Science on HP Workstation Solutions Pandas provides a powerful data structure, called DataFrames, which lets developers easily manipulate, clean and analyze tabular data."
+    publishedDateTime: 2024-03-07T17:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Nvidia wants to democratize AI with new RTX 500, RTX 1000 laptop GPUs — but I cannot help wonder whether Nvidia RTX 4000 GPUs are a better choice"
     excerpt: "Nvidia wants to make AI more accessible to everyone with the launch of its new RTX 500 and RTX 1000 Ada Generation Laptop GPUs. These GPUs, tailored for professionals on the go, will be offered in portable mobile workstations, broadening the Ada Lovelace architecture-based selection."
     publishedDateTime: 2024-03-03T16:19:00Z
@@ -61,15 +70,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Dell Exec Confirms NVIDIA’s Monster Blackwell AI Accelerator Is Coming"
-    excerpt: "In a statement to analysts during an investor call, Dell's COO says Blackwell will be massive when it hits next year."
-    publishedDateTime: 2024-03-02T18:30:00Z
-    webUrl: "https://hothardware.com/news/dell-exec-says-blackwell-2025"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 19
   - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
     excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."
     publishedDateTime: 2024-03-05T14:34:00Z

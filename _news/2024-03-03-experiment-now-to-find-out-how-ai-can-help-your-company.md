@@ -40,6 +40,20 @@ related:
         width: 1504
         height: 900
         isCached: true
+  - title: "How Artificial Intelligence Tools Can Increase Diversity"
+    excerpt: "Artificial intelligence (AI) continues to dominate headlines and even the most recent Super Bowl advertisements. The use of AI in the workplace is rapidly expanding in a wide variety of ways throughout the hiring process, including scanning and filtering ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/how-artificial-intelligence-tools-can-8944922/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.644_3635.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "od6n7Nq9CE9cPtPdt8mSvpTClV1hMqO4Z7LpZDV/I16H0gio0EmUj2aFQQ7EAxeXgSSm7uzbyCEBBfhAC5269torJJv0/OnxQ1FlFKqEfdPVIveIazTPI++HWvK4j19/XiYVISvGOrpSF11POjYsZA7H+Cj4F9AXRGyzPdPpzBYZcuImKjT9x/imsmiMtOKdwKzato6Oo4uZ0zOntA7JdCoxCUjCNYQn8a7QYRiZZQJO9jZyNibtfesy5x9+LVGr+SukBk4mMhmVKEd7FxYmfggworESvCrAYG17kPTqVPSb5Yew5JMi8zRD7ax9Qeb32aWWTNEsPRATkMuLbvr5kbDsFy8/kb0Gj1lJTLfoyYNumfl1RYkujSRncXAlP1SPEYSUnKybXYSzPlaOo+xlOR+f/kOExfyel8U8GUpY46vqWK6XhZxHnYM8DHWcbgn36sv57LhXrX4l4v5WjyH8WBp9CggDbqjdP/PCe5HJMK9S7qItXaEr4antJrxZCSfNBHHFpKf38Ooai5ln5cXANA==;D0c6duFwXNYRSiOb0ej2Gg=="
 ---

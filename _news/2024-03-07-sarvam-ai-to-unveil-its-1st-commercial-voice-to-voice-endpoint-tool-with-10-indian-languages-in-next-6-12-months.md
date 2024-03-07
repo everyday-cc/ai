@@ -26,6 +26,17 @@ images:
     height: 720
     isCached: true
 
-secured: "ZpEzbBJXRwUwX98YrA7wPPebxCMbWJQb4qMasIdEUTD8ezcLme4lN5ptucuZsC0TAwU5oTO+9aFT8zo2F++vIueXkpk130Epy+SkgYJM0ntrx+OxqCLpcTSq4na6pWg70JV8PPL3YU1iQHsHhQY1VL0Gg9hp+nORp8ZU5m3bMXEYH43t1ZP3K6EKjgyesbiBgXEyv4JFGuKFt/BbkkUaNSeQm58Q+cl+quL8sCxuvaDx3f4broi2Zf97BzsmKvgYCf5+AcvZ8RjjG4O5di1EaOXS9HdUPHENWCKib9HFRd6aa9quGWR4T6Z6R3Kv/Ug14G5hwT5Y4XUxoD5D3IDXo3CobjB0zo9tOfu8GdF0Ep4=;TLWEOD/akNw3kqGmmKw7aw=="
+related:
+  - title: "Sarvam AI to launch voice-to-voice endpoint tool in the next six to twelve months"
+    excerpt: "Sarvam AI released its first open-source Hindi language model called OpenHathi-Hi-0.1 in December last year. The firm said the AI model is the first in a series of models which will “make contributions to the ecosystem with open models and datasets to encourage innovation in Indian language AI."
+    publishedDateTime: 2024-03-07T14:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/sarvam-ai-to-launch-voice-to-voice-endpoint-tool-in-the-next-six-to-twelve-months/articleshow/108304544.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 14
+
+secured: "RtAbCxva7s9MMEsyb77YfOJ2asiYYVYS8sNxOWDaRuedUD5ZmpiaphSk8ln3AwuiCpEv8vsVxbZTyqiVFG8bJ8e+aKT20vmmU3pYRL9L/HJgZZnmxhvpNC95YJAfFIrUV6ZI4fiOxUFrnE7dqT3yP0eDzxyH44ION50/t3Xh5TgND3SCpjdhCWlQriyMd9X2AC2ci0FxTgcpE3K9FUtQPoYLVDlzs1FetbjvZgra+x5JdGMimPvSWmfbl3HkyXjlT1cdFNf+8GMbnhG62qFUDfgWZruETnQp+zJk6DzklSv0G1Nb6sb0EWG/vsDID9OTVRlWhB8Ok1bWmWTXnLGOVAIwkIktA+E3hfLNBjMS6+RNkNNjw32eham2vGKa15mNdvBjS5kRwyCpi1RrlMdqzkriqmP3ZC2FkK8eOmRqRhkkC/f+jPQWMynDT0yC1Z+YewOB+zkwR65BTeN2msm8BeWEzxBF4dWrzg8HbbDFIiolARRKhPsapFPum4K+1/q1kpP0X9EhLpKEDSRCqMZkxg==;TVlhfRTkYsuSdc6/n2EyYQ=="
 ---
 

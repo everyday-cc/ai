@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2024/03/producing-more-but-underst
 webUrl: "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Lessons For Startups And Small Businesses On Patenting AI"
+    excerpt: "Ultimately, in any technological field, a strong patent is enforceable—you can count on it being upheld in court, and the patent will allow you to recuperate losses from infringement. When it comes to determining the worth of owning a patent (i.e., a patent’s enforceability), these are the questions you should ask."
+    publishedDateTime: 2024-03-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/07/lessons-for-startups-and-small-businesses-on-patenting-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Understanding IP Matters – IP and AI: Lessons for Students, Businesses and Governments"
     excerpt: "They empahisize that AI law and ethics are not for lawyers only, but for most students. Are the lawyers who don’t focus on IP exposed to intellectual property law? Is it through contracts or are there specific courses for them? Megan Carpenter ..."
     publishedDateTime: 2024-03-06T07:15:00Z

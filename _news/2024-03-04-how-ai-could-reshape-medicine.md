@@ -41,17 +41,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "How AI could reshape medicine"
-    excerpt: "On a recent international trip, I found myself running late to the airport. Not being fluent in the local language, I used a translation app"
-    publishedDateTime: 2024-03-02T15:20:00Z
-    webUrl: "https://www.omanobserver.om/article/1150414/opinion/how-ai-could-reshape-medicine"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1150414"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1150414"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 39
   - title: "Roundtables: How does AI work?"
     excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
     publishedDateTime: 2024-03-04T00:00:00Z

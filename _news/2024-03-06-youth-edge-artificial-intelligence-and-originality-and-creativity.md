@@ -56,22 +56,6 @@ related:
         width: 1348
         height: 900
         isCached: true
-  - title: "Is AI More Creative Than Humans?"
-    excerpt: "A new study compared human and AI performance on various creative tasks. It found AI excelled in originality and elaboration, sparking debate about the \"soul” of AI creativity. The study used objective scoring to evaluate creativity, avoiding human rating biases. Suggests a collaborative future where AI enhances human creativity."
-    publishedDateTime: 2024-03-02T17:44:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/is-ai-more-creative-than-humans"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/is-ai-more-creative-than-humans?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202403/is-ai-more-creative-than-humans?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/AIPainter.png.jpg?itok=oKYrvEqU"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "7rdRZYIpcqupQFaeohFGfJFP9ov9tJKZlzOY86nYfjXXEzmoAxiVVIXMjknEEXI3EQIawSJECvEevMT1UicRjulwinLl+GUQAouKQy7C8cGGFK9dW9NoNyFbal4qE0oF5UTcZVM05069waQXhfhh1nWrJupPcj46AnLAM386o33/W7YUZ2paF6fNZjWMG1sQuwC5kA5EJvYlwnf5vxAWsHZgVBzptvEaige89F4JIzHA17o6WZQi6rAEKnbbMU5U1WPRZKuHk7dKg/PcZ1SYCaKvpd+L0nJ6e2HmdmZX31UDjwA3H4EaJoD85DFqUZ2sBPcHWUEnkG2nPrqYPrEpn//lDRBK2mJ0DCGN7veOf1Q=;9XEH1JxbpBAt/eo4wQ/VuQ=="
 ---

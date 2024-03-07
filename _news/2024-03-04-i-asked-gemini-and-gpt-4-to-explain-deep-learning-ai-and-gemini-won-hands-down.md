@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
 type: article
 quality: 100
-heat: 157
+heat: 158
 published: true
 
 provider:

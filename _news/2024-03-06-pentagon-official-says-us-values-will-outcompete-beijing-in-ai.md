@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "\"Outcomes will be better but we remain masters...\": AIIMS Director on Artificial Intelligence and its use in identifying therapies"
-    excerpt: "\"Quality healthcare down the line and at an affordable prices, that is where technology and Artificial Intelligence and algorithms and telemedicine is going to play a role,\" he said. He asserted that in the future all the healthcare activities may not be ..."
-    publishedDateTime: 2024-03-02T14:29:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20240302/4174487.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 6
-
 secured: "4cKvHVwQAe8qH3RpgsWfQGwKsDymmGI1xqEU7NnVZmmwUFS/E4Y3WkR8ALzNvaL3jhlJYXsZspZ68Xjn2XWicjRzxQXO+c4cL7fdjN6LGUFbwMs46/SxsVKjknpH/n2XxYkf3atQcC9k/37ShvUT4afeb4h0iiIbmJ17hMEA7OSw0c2aTSVW/5N3g1Dh1w6ZH2hCAcLqwftk6P/+VHS6xORWqA7srhPnmQE58OayIBs+4SsSfaU3YFiHnnBVb5N4NZpEPei6a4RTfaLwXh9nFdIM/xYngokDl/egyTJlO9bNaKFydNnTVYWV3Pse9s+sS4pJ7omSVeNOAfOIY1MKw0PLh9y5UE59RGjsA2ZklrIc33SCEUdUriCa+qjRJTZkcEr5Enr42v8AfAj1rIY9KJGj1CSZz7G7FV5KWG/pf0gGd1J/TqHQCakhW7PtMc2AQLduw5T9AF9o6RH67PNd1KFNJ3G/4SWctMAzcquyxCQHljeq72qmheQAAMrZAS6/2O+eXT29QkTq+2NGRcIM9w==;/n4K/YONj6yRBdGQ1laJgA=="
 ---
 

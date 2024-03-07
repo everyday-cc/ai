@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
+      "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
+      "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_interior_of_an_industrial_assembly_line_manufacturing_t_5c2d1f37-2f10-41ef-addf-7f2dfdd77d21.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-the-integral-role-of-robotics-ai-and-automation-in-healthcare.md",
       "title": "The Integral Role Of Robotics, AI And Automation In Healthcare",
       "excerpt": "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -115,7 +168,7 @@
       "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -413,17 +466,17 @@
     {
       "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
       "title": "Humanoid robot-maker Figure partners with OpenAI",
-      "excerpt": "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ...",
+      "excerpt": "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding.",
       "sourceUrl": null,
-      "webUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
-      "originalUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
+      "webUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
+      "originalUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/2/73/273a2c51-e6df-5dca-a76b-ab278f9d1e77/65e1032903339.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -435,11 +488,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T23:40:00Z",
+      "publishedDateTime": "2024-02-29T22:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "tdn",
-        "domain": "tdn.com",
+        "name": "The Roanoke Times",
+        "domain": "roanoke.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -536,6 +589,49 @@
       "provider": {
         "name": "unite",
         "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-humanoid-robot-startup-figure-ai-valued-at-26-billion-as-bezos-openai-nvidia-join-funding.md",
+      "title": "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding",
+      "excerpt": "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
+      "originalUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1275,101 +1371,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you.md",
-      "title": "Stop loading the dishwasher; this robot aims to do all the cleanup for you",
-      "excerpt": "Developed by scientists, OK-Robot can clean up a your house on command, dismissing the suggestion that robots can only do factory work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you",
-      "originalUrl": "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/1-Stop-loading-the-dishwasher.-This-robot-aims-to-do-all-the-clean-up-for-you.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup.md",
-      "title": "Bezos, Nvidia Join OpenAI in Funding Humanoid Robot Startup",
-      "excerpt": "Jeff Bezos, Nvidia Corp. and other big technology names are investing in a business that’s developing human-like robots ... applications for artificial intelligence. The startup Figure AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T18:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

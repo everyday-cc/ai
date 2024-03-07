@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Australian news media could seek payment from Meta for content used to train AI"
+    excerpt: "News media bargaining code could apply to tech companies using massive amounts of online information for generative AI, researchers say"
+    publishedDateTime: 2024-03-07T13:00:00Z
+    webUrl: "https://www.theguardian.com/media/2024/mar/08/australian-news-media-could-seek-payment-from-meta-for-content-used-to-train-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
+
 secured: "fYp7/pghecURYuw/EEcnI7udVzdBEmoKTTu4bL45OsNPcnoUrWePjhKUvgCLmUXBMik3eic8KSBno/qSSX1RECz//GJ+P+tm5BSYrPrX264PLtrMCxN5h2fKyRfNud7HOwYiQqdU6O1Sh8QGw9BpKHUJNyn67KYpWAtBiEgaTHgxOq7lDmjfpBwxVBqeY/2h3Z/Rw5U5oxPVkwX/Z0SliD0S71EN0WHxZcNjVGwgxdWcjKFqj0L+fdazW7AoMjn58FvZCcWotzaWPobP7dXkQzKr+Rz/NUerC0rfO4iU+6d8WoVh1JLHhDcN4DQvC9sPXuGtroipn+cfrp8qoEWgZoRMwhgs6S8FW40MH9msmwo=;ytUT+2kWuLrI2BARfESEpQ=="
 ---
 

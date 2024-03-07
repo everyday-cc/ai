@@ -2,6 +2,472 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-23-justice-department-taps-former-kamala-harris-adviser-as-1st-ever-artificial-intelligence-officer.md",
+      "title": "Justice Department taps former Kamala Harris adviser as 1st-ever artificial intelligence officer",
+      "excerpt": "The Justice Department named its first-ever official focused on artificial intelligence (AI) on Thursday in anticipation of the rapidly evolving technology's impact on the criminal justice system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer",
+      "originalUrl": "https://www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/340/340/Danielle-Wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-department-taps-former-kamala-harris-adviser-first-ever-artificial-intelligence-officer.amp",
+      "publishedDateTime": "2024-02-22T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-google-halts-ai-tools-ability-to-produce-images-of-people-after-backlash-over-historically-inaccurate-depictions-of-race.md",
+      "title": "Google halts AI tool’s ability to produce images of people after backlash over historically inaccurate depictions of race",
+      "excerpt": "The incident is also yet another setback for Google as it races to take on OpenAI and other players in the competitive generative AI space. In February, shortly after introducing its generative AI tool — then called Bard and since renamed Gemini ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "originalUrl": "https://www.cnn.com/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1835957780.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/22/tech/google-gemini-ai-image-generator/index.html",
+      "publishedDateTime": "2024-02-22T16:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap.md",
+      "title": "Care.com Founder Launches AI Startup Aimed At $10.9 Trillion Labor Gap",
+      "excerpt": "Their story and journey create powerful references in helping us understand how to pave the path forward for gender parity and address this seismic gap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/",
+      "originalUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d66426b566a26356499580/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 897,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gemmaallen/2024/02/22/carecom-founder-launches-ai-startup-aimed-at-109-trillion-labor-gap/amp/",
+      "publishedDateTime": "2024-02-22T16:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-digs-puts-ai-in-the-center-of-building-a-home.md",
+      "title": "Digs Puts AI In The Center Of Building A Home",
+      "excerpt": "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
+      "publishedDateTime": "2024-02-22T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-operationalizing-responsible-ai-principles-for-defense.md",
+      "title": "Operationalizing responsible AI principles for defense",
+      "excerpt": "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "originalUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/coding_1-2-1.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T15:35:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute.md",
+      "title": "Women In AI: Krystal Kauffman, research fellow at the Distributed AI Research Institute",
+      "excerpt": "Krystal Kauffman, profiled as part of TechCrunch's series on women in AI, is a research fellow at the Distributed AI Research Institute.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-Kauffman.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/amp/",
+      "publishedDateTime": "2024-02-22T15:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps.md",
+      "title": "The Nvidia app launches in beta form that will merge several of the company's GPU apps",
+      "excerpt": "The Nvidia app will also have more info on what's been added and what has been fixed for new GPU driver updates. Other changes for the new Nvidia app include improvements in the In-Game Overlay UI, and support for new AI-powered visual filters. One of them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708611177_nvidia-app-key-visual_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "publishedDateTime": "2024-02-22T14:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-three-event-essentials-for-exhibitors.md",
+      "title": "Three Event Essentials For Exhibitors",
+      "excerpt": "Having a three-stage plan for before, during and after the show will mean you are prepared at every stage of the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654d08e05b675e40b8026d1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1394,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/amp/",
+      "publishedDateTime": "2024-02-22T13:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator.md",
+      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
+      "excerpt": "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard.md",
       "title": "I confused Google's most advanced AI - but don't laugh because programming is hard",
       "excerpt": "Just a quick recap. Google's version of ChatGPT (its generative AI) was called Bard and is now called Gemini Advanced. What Gemini is to ChatGPT, Gemini Advanced is to ChatGPT Plus, including the $20/month fee. I went ahead and signed up for Gemini Advanced, adding it to my collection of monthly AI-related bills.",
@@ -793,428 +1259,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-best-web-hosting-services-for-2024.md",
-      "title": "Best Web Hosting Services for 2024",
-      "excerpt": "Zach began writing for CNET in November, 2021 after writing for a broadcast news station in his hometown, Cincinnati, for five years. You can usually find him reading and drinking coffee or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/best-web-hosting/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/best-web-hosting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/696e771748c077d78ebf3b49e96efbd53db73f3a/hub/2021/02/01/d03f0d49-5fd3-47b5-8e65-be844c6c3aa9/gettyimages-1152758741.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-ai-tool-to-aid-organ-transplants-nominated-for-nhs-award.md",
-      "title": "AI tool to aid organ transplants nominated for NHS award",
-      "excerpt": "A method using artificial intelligence (AI) to assess potential transplant organs has been shortlisted for a national NHS award. Known as OrQA - Organ Quality Assessment - the technology scans images of organs to look at suitability for kidney and liver transplants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "originalUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2313/production/_132697980_optheatre.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
-      "publishedDateTime": "2024-02-22T06:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-nvidia-to-wall-street-artificial-intelligence-is-just-getting-started.md",
-      "title": "Nvidia to Wall Street: Artificial intelligence is just getting started",
-      "excerpt": "The tensions rose. Investors seemed more than just worried that Nvidia, the maker of high-end chips used in artificial intelligence applications, would miss analysts' estimates for its fourth quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/nvidia-to-wall-street-artificial-intelligence-is-just-getting-started",
-      "originalUrl": "https://www.thestreet.com/investing/nvidia-to-wall-street-artificial-intelligence-is-just-getting-started",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T05:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
-      "excerpt": "TSMC's revenue in January 2024 increased substantially, and the trend is here to stay thanks to the robust demand for AI chips. SoundHound AI shares have shot up big time of late, and the company's potential growth could help it sustain the rally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/22/artificial-intelligence-ai-stock-ready-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/765982/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T05:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-antlers-founder-on-its-vertical-ai-bet-in-southeast-asia.md",
-      "title": "Antler’s founder on its vertical AI bet in Southeast Asia",
-      "excerpt": "A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance. Singapore-based venture capital A growing roster of vertical AI startups is emerging in Southeast Asia to serve sectors ranging from seafood to finance.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/antler-ai/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/antler-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1318237749.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/antler-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/antler-ai/amp/",
-      "publishedDateTime": "2024-02-22T05:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets.md",
-      "title": "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets",
-      "excerpt": "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
-      "originalUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast.md",
-      "title": "Buy Rating on Amazon: Strategic Capex Reductions and AI-Driven AWS Growth Forecast",
-      "excerpt": "Amazon (AMZN – Research Report), the Consumer Cyclical sector company ... particularly with a projected increase in AWS capital spend to support burgeoning Generation AI initiatives. Despite this increase, the forecasted capital expenditures remain ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-on-amazon-strategic-capex-reductions-and-ai-driven-aws-growth-forecast-1033092040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T01:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-artificial-intelligence-ai-in-vietnam-statistics-and-facts.md",
-      "title": "Artificial Intelligence (AI) in Vietnam - statistics and facts",
-      "excerpt": "Artificial Intelligence ... involvement of human intelligence. Using algorithms, statistics, and machine learning, AI applications of today range from voice control to self-driving cars and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/topics/10631/artificial-intelligence-ai-in-vietnam/",
-      "originalUrl": "https://www.statista.com/topics/10631/artificial-intelligence-ai-in-vietnam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-cbb-autocorpai-partnership-makes-trade-in-process-easier-for-dealers-consumers.md",
-      "title": "CBB, AutoCorp.ai partnership makes trade-in process easier for dealers, consumers",
-      "excerpt": "Canadian Black Book is ramping up its presence in the fintech space through a new partnership with Autocorp.ai. CBB’s integration on the Autocorp.ai platform is designed to make the online car buying and trade-in process more efficient for consumers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoremarketing.com/arcanada/cbb-autocorp-ai-partnership-makes-trade-in-process-easier-for-dealers-consumers/",
-      "originalUrl": "https://www.autoremarketing.com/arcanada/cbb-autocorp-ai-partnership-makes-trade-in-process-easier-for-dealers-consumers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autoremarketing.com/wp-content/uploads/2024/02/dealership-cars_17_0_1_0-1-1.jpg",
-          "width": 880,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Remarketing",
-        "domain": "autoremarketing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

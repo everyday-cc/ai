@@ -52,6 +52,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Salesforce Launches AI Solutions for Healthcare Professionals to Ease Administrative Burden"
+    excerpt: "Salesforce introduced new data and artificial intelligence solutions tailored for healthcare professionals, intending to ease their administrative burdens. One key tool, Einstein Copilot: Health Actions, enables doctors to streamline tasks like appointment ..."
+    publishedDateTime: 2024-03-07T12:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 64
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444500/salesforce-to-report-quarterly-earnings.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant"
     excerpt: "Plus, at the Trailblazer TDX 2024 conference, Salesforce introduced the Slack Developer Program and showed research into AI adoption and IT."
     publishedDateTime: 2024-03-06T13:00:00Z
@@ -70,6 +86,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
+  - title: "Salesforce launches Einstein 1 Studio to support admin and developers"
+    excerpt: "Salesforce has announced the availability of Einstein 1 Studio. The solution is a set of low-code tools that enables Salesforce admins and developers to"
+    publishedDateTime: 2024-03-07T13:56:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2024/03/07/salesforce-launches-einstein-1-studio-to-support-admin-and-developers/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 4
 
 secured: "KA+Pz6HNIHeMXPXdqiBKynHqfdsWO6XMC3cRusd6UboPEYxesAjkj8cO9orJKZrHyB8+wIr1ZSdzndt20TP1IeQzKGJCHEEn1sFwpceHyP6ep7+hU0EW/REKg9YnGOkexxDGLBwkquSaldFbijyBBOvZPPCS2T1ycjmawj/bCbL0Kulz9f4o6hMToXWPHf9wr//W7/fVtJAiKXMYW1hpKvvjdKIn5JM8JqQxZiRpD3mDvh1dOdgJfbPFbxawea2ML+EBdYM4bQcF3sDD1BQPTlBciFiD8kDroWR89DwGt+dfk+xrIVpsCMWiwIaGgGC+Y++yG3NDEny4VTzbrGXX2rwhC5SW8icqwRCFql8KwEV8bcBiMQIlj4UipBmh0+XGMbRQ/CpMCZ3v0dgOwKgyJV7+avAjQ/SwARK7Z4AbP66mJcFT4o7lhZ8zDa43rShdz0Wn+JPu19aVrOB+i8ZWNin++JxQ98ZSkoMNLAdF5YvqElPNFQtGGTZrmxNe4cmKa+7dqF8Xz7ldCU6FyTJ+HA==;Ghp65PRkt9Tqtz/lUc07kw=="
 ---

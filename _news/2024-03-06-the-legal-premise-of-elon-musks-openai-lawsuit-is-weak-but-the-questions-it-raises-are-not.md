@@ -3,8 +3,8 @@ category: news
 title: "The legal premise of Elon Musk’s OpenAI lawsuit is weak. But the questions it raises are not"
 excerpt: "OpenAI was founded as a nonprofit lab that pledged to keep superpowerful “artificial general intelligence”—defined as AI software that could perform most economically valuable cognitive tasks as well or better than a person—out of the hands of ..."
 publishedDateTime: 2024-03-05T19:13:00Z
-originalUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/?taid=65e7bdcf72a63d00014bf63c"
-webUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/?taid=65e7bdcf72a63d00014bf63c"
+originalUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/"
+webUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/"
 type: article
 quality: 38
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 420
         isCached: true
 
-secured: "cCrFwS4T59h9ujqbxBmuwVC0ND4kkNCw+pJNbNy2ZotvrZb4z5sgqPo2D2ET30hBsdcNQxoIu6Fka+g7EkLThcr3zYVQtXWqA8QHTNQMCmDGe9eLCfH0vEsVpkDq8KPoDqHY/K7hl9eU5Ub7WG6ExJIfoHBAdMBeNPUYwcKkmjMVLt7coe0WOi2d+6KyMFuV9zn812H0TJDpwNDEThREeF9nt8EkUiHjjGVZqIQWABNuh0JfdpTByo+X2Zj0yiVfRh7gV67LTdcqww2lmw0vQNxVlam5HQgMYzi7+Hb2Lvp3uVqtAyiw1xAPN0RwmnmWqp7SEoOAyPTl62awOaDkHAdihTeIu7ZhNTzd4S3jeiE=;ZVavF4MfQ5KlxGyQUm2rUg=="
+secured: "miLgCJtjcB2nicxLdOCZ+sx+ELrSuP1sFkhKNcdCtXbt0IM5Qa0xHfjLtQr8D8za4MEEfq0eRgJu6y/4kb4lD2p/9BCf4nD7d4L7k9crrJUCr9PiGe9H1N3hTpLktXiD8r0C+xFNYDn46m1HoooSga5Q9eDb0H1Zjr/RwfJ//AtStCq4yxI3L5xZxJ17t5oYb7FlUFaBdwF+/Bw1In+xU4YPP5gogQ7KFbJTAmK/yohwSLl71BokfoWvMFM35Tty9euKohJTkO4OG1Vw9dvtN38Ij69EZ60+E2H8jHy9XUCRgwt13rTCkLuJso8/YcL/QgtA/QSUSOCGizeWQG2u4d194XKfvc7IBrTqFVS7wv0=;TKcSJQI1ElQy+ACqC7TXiw=="
 ---
 

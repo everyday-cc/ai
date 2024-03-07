@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Tools Can Increase Diversity"
+    excerpt: "Artificial intelligence (AI) continues to dominate headlines and even the most recent Super Bowl advertisements. The use of AI in the workplace is rapidly expanding in a wide variety of ways throughout the hiring process, including scanning and filtering ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/how-artificial-intelligence-tools-can-8944922/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.644_3635.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Experiment Now to Find Out How AI Can Help Your Company"
     excerpt: "That will allow for process improvements based on feedback and results. AI as a mindset Dolly Parton once said, \"If you don't like the road you're walking, start paving another one.\" There are a lot of folks who fear the potential of AI -- who avoid it ..."
     publishedDateTime: 2024-03-03T00:00:00Z

@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "29 healthcare leaders reveal top priorities for the next 12 months"
-    excerpt: "Recognizing the transformative potential of these technologies, my team is committed to implementing data-driven strategies to address current healthcare challenges. This includes harnessing artificial intelligence and machine learning to improve ..."
-    publishedDateTime: 2024-03-05T16:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/hit-speaker-series-q-a/29-healthcare-leaders-reveal-top-priorities-for-the-next-12-months.html"
+  - title: "Fijoya is bringing AI to employer-sponsored healthcare benefits. Here's the pitch deck it used to raise $8.3 million."
+    excerpt: "Digital health benefits startup Fijoya is betting on AI to optimize access to employer-sponsored health benefits."
+    publishedDateTime: 2024-03-07T13:45:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-ai-health-benefits-startup-fijoya-seed-funding-2024-3"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "TC48b+UvTT/h0Lv29PndQq4ykUqmcL/MAWTjE2X0N9t/ZkmbchGYXT5BalJnft0XuzAec1rB9BFVcoHJGbKsWqQeBs5tOiV/M7iHqp6HreIEPY0vsrK4sMR/uP09FyKgc1WREPsynIjqpFJZt41Zw51e64JQloMf/CsXN8cW0dwMlfpFE6mnwiXXCxMYsKA6KQYJsJwYHlbMoI3kSfWPH9Fc64yPSGEkDxnOA19Bc6bgG/Fjmm6cirFvzMFXu40lAwBO8UsVBUk7qJFNzflqDm9PIQYmZAd7smexGcEE6vB+o6hXoDGd9sJDRNxTx9GyzoRwI2ZeGMMBUh0FMAkLS9uRGSSLoQwhQiFQh06hnYOvkvEO2rv7Nzz/cqZqr+9sMcfXU/e0YeWM6Yd1Z6NuYzRjsEKqzwjRV0x51IXwz2ZuJ8oK22HLBxyAbGy4t1zR+gXITu3kXF3uFLqPjERtIo2Zfw+Sg13VRdEELwaHj0atwB/iuoXGnHE1sUKQGwONs3Ap6cnl7CbxN5MIejDyyg==;MR/Zb13bePGdLTiNq3Z/3Q=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
+      "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
+      "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_interior_of_an_industrial_assembly_line_manufacturing_t_5c2d1f37-2f10-41ef-addf-7f2dfdd77d21.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-all-you-need-to-know-about-bengalurus-first-driverless-metro-train-aided-by-ai.md",
       "title": "All you need to know about Bengaluru’s first driverless metro train, aided by AI",
       "excerpt": "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes.",
@@ -295,7 +348,7 @@
       "originalUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1337,49 +1390,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-artificial-intelligence-ai-in-vietnam-statistics-and-facts.md",
-      "title": "Artificial Intelligence (AI) in Vietnam - statistics and facts",
-      "excerpt": "Artificial Intelligence ... involvement of human intelligence. Using algorithms, statistics, and machine learning, AI applications of today range from voice control to self-driving cars and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/topics/10631/artificial-intelligence-ai-in-vietnam/",
-      "originalUrl": "https://www.statista.com/topics/10631/artificial-intelligence-ai-in-vietnam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

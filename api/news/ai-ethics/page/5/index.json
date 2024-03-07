@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-19-tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation.md",
+      "title": "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation",
+      "excerpt": "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html",
+      "originalUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp",
+      "publishedDateTime": "2023-12-19T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-unlocking-a-world-of-possibilities-how-ai-is-revolutionizing-real-estate-and-empowering-your-life-choices.md",
       "title": "Unlocking A World Of Possibilities: How AI Is Revolutionizing Real Estate And Empowering Your Life Choices",
       "excerpt": "When I first launched my company, I wanted AI to be at the center of our innovation. The idea was to leverage this super-intelligent technology to better ourselves. As a result, we witnessed an 80% spike in output and productivity. Automation has reduced our manual labor, minimized errors and improved user experiences.",
@@ -1328,50 +1371,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-google-bard-director-talks-usage-ethics-and-competitive-advantage.md",
-      "title": "Google Bard Director Talks Usage, Ethics, And Competitive Advantage",
-      "excerpt": "In an exclusive interview, the Director of Product Management for Google Bard discusses usage, ethical challenges, and synergy with Search. Google created Bard primarily to assist with creative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
-      "originalUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-bard-director-interview-656e427053e80-sej.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "AI Ethics"
       ]

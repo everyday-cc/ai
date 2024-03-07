@@ -2,6 +2,351 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-02-openais-sam-altman-says-ai-is-a-tool-not-a-creature.md",
+      "title": "OpenAI's Sam Altman says AI is a tool, not a 'creature'",
+      "excerpt": "There are \"risks\" to artificial intelligence, but calling AI a \"creature\" is the stuff of sci-fi movies, Sam Altman told The Advocate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3",
+      "originalUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e286bc90413ab8e1d899f6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp",
+      "publishedDateTime": "2024-03-02T05:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-how-to-unlock-your-device-using-face-recognition-check-out-these-easy-steps.md",
+      "title": "How To Unlock Your Device Using Face Recognition? Check Out These Easy Steps",
+      "excerpt": "Learn how face recognition works, and how to set it up on your smartphone. (Image: Abhijay Singh Rawat/india.com) New Delhi: Facial recognition, or face recognition technology, is a biometric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/",
+      "originalUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2024/03/IDC-Story.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/",
+      "publishedDateTime": "2024-03-02T02:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-apple-loop-iphone-17-details-leak-apples-ai-promise-ios-fixes-iphone-15-problems.md",
+      "title": "Apple Loop: iPhone 17 Details Leak, Apple’s AI Promise, iOS Fixes iPhone 15 Problems",
+      "excerpt": "This week’s Apple headlines; leaked iPhone 17 details, iPhone 15 features fixed, Apple’s AI promise, iOS long-term support, MacBook Pro repair details, Apple Arcade’s future, a potential iRing, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65173674770347df44065c12/0x0.jpg?format=jpg&crop=931,524,x130,y83,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
+      "publishedDateTime": "2024-03-01T22:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search.md",
+      "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
+      "excerpt": "At AWS re:Invent 2023, we announced the general availability of Knowledge Bases for Amazon Bedrock. With a knowledge base, you can securely connect foundation models (FMs) in Amazon Bedrock to your company data for fully managed Retrieval Augmented Generation (RAG). In a previous post, we described how",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/knowledge-bases-for-bedrock-hybrid-search-1117x630.jpg",
+          "width": 1117,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T22:29:55Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
+      "title": "US stock markets close at record highs amid continued enthusiasm for AI",
+      "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "originalUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dd523ec21e76471b1119e8dbd02c6e0a3adc83dd/0_6_3000_1799/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=507f237be7acada08ea257cdcca739f3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "publishedDateTime": "2024-03-01T21:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-tech-jumps-as-ai-rally-resumes-tech-roundup.md",
+      "title": "Tech Jumps as AI Rally Resumes -- Tech Roundup",
+      "excerpt": "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "originalUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "publishedDateTime": "2024-03-01T21:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos.md",
+      "title": "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos",
+      "excerpt": "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
+      "originalUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png",
+          "width": 600,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T20:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-there-are-growing-calls-for-google-ceo-sundar-pichai-to-step-down.md",
       "title": "There are growing calls for Google CEO Sundar Pichai to step down",
       "excerpt": "Analysts believe Google's search business is keeping it safe for now, but that could change soon with generative AI rivals proliferating.",
@@ -898,361 +1243,6 @@
         "AI in Healthcare",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-googles-ai-first-strategy-brings-vector-support-to-cloud-databases.md",
-      "title": "Google's AI-First Strategy Brings Vector Support To Cloud Databases",
-      "excerpt": "Google’s move towards native support for vector storage in existing databases simplifies building enterprise GenAI applications relying on data stored in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e164c8dc9b212627792945/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/03/01/googles-ai-first-strategy-brings-vector-support-to-cloud-databases/amp/",
-      "publishedDateTime": "2024-03-01T05:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
-      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
-      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/",
-      "originalUrl": "https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/tech-layoffs-2023-list/amp/",
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-elon-musk-ai-will-run-out-of-electricity-and-transformers-in-2025.md",
-      "title": "Elon Musk: AI will run out of electricity and transformers in 2025",
-      "excerpt": "\"I've never seen any technology advance faster than this.\" The chip shortage may be behind us, but AI and EVs are expanding at such a rapacious rate that the world will face supply crunches in electricity and transformers next year, says Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/elon-musk-ai",
-      "originalUrl": "https://newatlas.com/technology/elon-musk-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/27ca86b/2147483647/strip/true/crop/1136x757+121+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F5e%2F2a832fc94918a562a5ccdef4b0a3%2F6.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-openai-categorically-disagrees-with-elon-musks-lawsuit-against-it-suggests-tesla-ceo-has-regrets.md",
-      "title": "OpenAI ‘categorically disagrees’ with Elon Musk’s lawsuit against it, suggests Tesla CEO has ‘regrets’",
-      "excerpt": "Mike Windle/Getty Images for Vanity Fair OpenAI “categorically disagrees” with the lawsuit Elon Musk filed against the company, according to an internal memo sent to employees of the artificial intelligence startup. Musk, a cofounder of OpenAI who is ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "originalUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-491587260-e1709336480973.jpg?w=840",
-          "width": 840,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-cryptocurrencies-are-the-frontier-to-watch-in-2024.md",
-      "title": "AI Cryptocurrencies Are The Frontier To Watch In 2024",
-      "excerpt": "Cryptocurrency is the cornerstone for constructing AI systems that engender trust and reliability in their operations, heralding a new era of technological advancement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e094ddafab52dfdac33283/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
-      "publishedDateTime": "2024-02-29T23:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
-      "title": "Humanoid robot-maker Figure partners with OpenAI",
-      "excerpt": "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
-      "originalUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/2/73/273a2c51-e6df-5dca-a76b-ab278f9d1e77/65e1032903339.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T23:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tdn",
-        "domain": "tdn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai.md",
-      "title": "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI",
-      "excerpt": "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
-      "originalUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Modern_art_of_the_Microsoft_Excel_spreadsheet_f04aba4b-e5b4-42c2-a3a3-d49749990db4-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
       ]
     }
   ],

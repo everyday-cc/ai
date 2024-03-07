@@ -2,6 +2,366 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-29-baidu-ai-profiteer-positioned-for-long-term-growth.md",
+      "title": "Baidu: AI Profiteer Positioned For Long-Term Growth",
+      "excerpt": "Baidu is still trading for extremely low valuation multiples and seems to be undervalued. Although Baidu stock declined 8% following Q4 earnings and investors were clearly disappointed, Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4674744-baidu-ai-profiteer-positioned-for-long-term-growth",
+      "originalUrl": "https://seekingalpha.com/article/4674744-baidu-ai-profiteer-positioned-for-long-term-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1650781819/image_1650781819.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-generative-ai-and-the-big-buzz-about-small-language-models.md",
+      "title": "Generative AI and the big buzz about small language models",
+      "excerpt": "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-and-the-big-buzz-about-small-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_580417436_Preview.jpeg?w=1200&strip=all",
+          "width": 1000,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-marketings-new-power-duo-generative-ai-meets-generative-empathy.md",
+      "title": "Marketing’s New Power Duo: Generative AI Meets Generative Empathy",
+      "excerpt": "Generative AI meets generative empathy. High tech meets high touch. Ethical tech & deep human connection unlock new possibilities for marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gillianoakenfull/2024/02/29/marketings-new-power-duo-generative-ai-meets-generative-empathy/",
+      "originalUrl": "https://www.forbes.com/sites/gillianoakenfull/2024/02/29/marketings-new-power-duo-generative-ai-meets-generative-empathy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-ai-is-rapidly-transforming-drug-discovery.md",
+      "title": "AI Is Rapidly Transforming Drug Discovery",
+      "excerpt": "The biopharmaceutical industry stands on the cusp of a revolution, with artificial intelligence emerging as a transformative force in drug development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/ai-is-rapidly-transforming-drug-discovery/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/29/ai-is-rapidly-transforming-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65df740a3b3676bced4c0950/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-tsa-precheck-will-try-using-your-face-as-your-id-at-these-airports.md",
+      "title": "TSA PreCheck will try using your face as your ID at these airports",
+      "excerpt": "\"Further development with facial recognition technology will continue to occur organically as TSA deploys technology to checkpoints nationwide, states adopt mobile driver’s licenses, and additional airports and airlines recognize an opportunity to serve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports",
+      "originalUrl": "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/02/932/470/tsa-getty.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/tsa-precheck-id-boarding-pass-not-required-airports.amp",
+      "publishedDateTime": "2024-02-29T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-empowering-the-digital-first-business-professional-in-the-foundation-model-era.md",
+      "title": "Empowering the digital-first business professional in the foundation model era ",
+      "excerpt": "With rapid technological changes such as cloud computing and AI, learn how to thrive in the foundation model era.\nThe post Empowering the digital-first business professional in the foundation model era  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/empowering-the-digital-first-business-professional-in-the-foundation-model-era/",
+      "originalUrl": "https://www.ibm.com/blog/empowering-the-digital-first-business-professional-in-the-foundation-model-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-how-nvidia-came-to-rule-ai.md",
+      "title": "How Nvidia Came to Rule AI",
+      "excerpt": "This week we chart the rise of Nvidia, the company whose chips, servers, and data centers have fueled the growth of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-634/",
+      "originalUrl": "https://www.wired.com/story/gadget-lab-podcast-634/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65dfba3e82529b73aa508215/191:100/w_1280,c_limit/Gadget-Lab-Jensen-Huang-Gear-GettyImages-1730512657.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-pup-launches-research-program-establishing-ethics-in-ai-use.md",
+      "title": "PUP launches research program establishing ethics in AI-use",
+      "excerpt": "Polytechnic University of the Philippines launched a research program which aims to develop ethical guidelines for artificial intelligence | PHOTO: Official facebook page of Polytechnic University ...",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/132555/pup-on-launching-a-research-program-establishing-ethics-in-ai-use",
+      "originalUrl": "https://technology.inquirer.net/132555/pup-on-launching-a-research-program-establishing-ethics-in-ai-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-pc-gpu-shipments-increased-20-last-quarter-ai-tipped-to-drive-future-growth.md",
       "title": "PC GPU shipments increased 20% last quarter, AI tipped to drive future growth",
       "excerpt": "On a quarterly basis, total PC GPU shipments increased 5.9 percent over Q3, but not all the GPU manufacturers benefited from the growth. While Intel's shipments",
@@ -65,7 +425,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -745,343 +1114,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-indias-first-gene-therapy-trial-in-haemophilia-conducted-at-cmc-vellore-dr-jitendra.md",
-      "title": "India’s first gene therapy trial in Haemophilia conducted at CMC Vellore: Dr Jitendra",
-      "excerpt": "India has conducted the first human clinical trial of gene therapy in Haemophilia A (FVIII deficiency) at Christian Medical College (CMC) Vellore. This was disclosed here today by Union Science & Technology Minister (Independent Charge) Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyexcelsior.com/indias-first-gene-therapy-trial-in-haemophilia-conducted-at-cmc-vellore-dr-jitendra-2/",
-      "originalUrl": "https://www.dailyexcelsior.com/indias-first-gene-therapy-trial-in-haemophilia-conducted-at-cmc-vellore-dr-jitendra-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2024/02/dr-4.jpg",
-          "width": 630,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T00:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Excelsior",
-        "domain": "dailyexcelsior.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-dubai-robot-to-detect-e-scooter-cycle-violations.md",
-      "title": "Dubai: Robot to detect e-scooter, cycle violations",
-      "excerpt": "The robot will monitor the use of bicycles and electric scooters. Powered by artificial intelligence, the robot will identify a range of violations, including failure to adhere to personal safety protocols like wearing helmets; scooters parked in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzcyNjM5ZjctZGU4NC00/11/201209063314qlkc-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility.md",
-      "title": "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility",
-      "excerpt": "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-machine-learning-vs-ai-vs-deep-learning-the-differences-explained.md",
-      "title": "Machine learning vs AI vs deep learning: The differences explained",
-      "excerpt": "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
-      "originalUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-microsoft-openai-and-nvidia-back-26bn-robot-start-up.md",
-      "title": "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up",
-      "excerpt": "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the global labour market. Figure AI said on Thursday it had raised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
-      "originalUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-palatin-pummelled-as-dry-eye-therapy-underwhelms-in-phase-3.md",
-      "title": "Palatin pummelled as dry eye therapy underwhelms in phase 3",
-      "excerpt": "Palatin Technologies’ therapy for dry eye disease (DED ... and which met both primary sign and symptom efficacy endpoints in pivotal trials. Artificial intelligence (AI) has become an omnipresent force in our lives. From our homes to workplaces, from ...",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/news/palatin-pummelled-dry-eye-therapy-underwhelms-phase-3",
-      "originalUrl": "https://pharmaphorum.com/news/palatin-pummelled-dry-eye-therapy-underwhelms-phase-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/sites/default/files/2024-02/fa-barboza-hands-over-eyes-unsplash.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum",
-        "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-recent-healthcare-related-artificial-intelligence-developments.md",
-      "title": "Recent Healthcare-Related Artificial Intelligence Developments",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/recent-healthcare-related-artificial-intelligence-developments",
-      "originalUrl": "https://www.natlawreview.com/article/recent-healthcare-related-artificial-intelligence-developments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-tsmc-founder-foresees-the-need-for-up-to-10-new-fabs-for-ai-chip-manufacturing.md",
-      "title": "TSMC founder foresees the need for up to 10 new fabs for AI chip manufacturing",
-      "excerpt": "Read our ethics statement. A hot potato ... Chang recently stated that the current demand for AI hardware accelerators is so high that his company will soon have to multiply its production capacity at staggering rates. Chang spoke during the inauguration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
-      "originalUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

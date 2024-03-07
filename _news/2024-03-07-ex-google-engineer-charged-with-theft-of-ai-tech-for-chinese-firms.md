@@ -9,8 +9,8 @@ ampWebUrl: "https://www.csoonline.com/article/1312173/ex-google-engineer-charged
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/"
 type: article
 quality: 59
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: CSOonline
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms"
+    excerpt: "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment."
+    publishedDateTime: 2024-03-07T08:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 61
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Google engineer caught stealing AI tech secrets for Chinese firms"
+    excerpt: "The charges allege that Ding stole proprietary information about Google's artificial intelligence (AI) technologies and transferred it ... The architecture and functionality of GPU (Graphics Processing Unit) and TPU (Tensor Processing Unit) chips and ..."
+    publishedDateTime: 2024-03-07T09:56:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 59
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2024/02/07/Google.jpg"
+        width: 1600
+        height: 897
+        isCached: true
   - title: "Ex-Google engineer charged with stealing AI secrets"
     excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
     publishedDateTime: 2024-03-07T01:08:00Z
@@ -128,6 +158,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
+    excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
+    publishedDateTime: 2024-03-07T17:32:00Z
+    webUrl: "https://www.inc.com/associated-press/ex-google-engineer-charged-with-stealing-ai-trade-secrets-for-chinese-companies.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-1240718346_538223_shl4pt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
     excerpt: "He also separately founded and served as chief executive of a China-based startup company that aspired to train “large AI models powered by supercomputing chips,” the indictment said. Prosecutors say Ding did not disclose either affiliation to Google ..."
     publishedDateTime: 2024-03-06T00:00:00Z
@@ -156,7 +200,34 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Former Google engineer charged with stealing AI trade secrets"
+    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
+    publishedDateTime: 2024-03-07T16:10:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
+    excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
+    publishedDateTime: 2024-03-07T14:30:00Z
+    webUrl: "https://www.tweaktown.com/news/96703/google-engineer-faces-10-years-in-prison-for-stealing-ai-secrets-china/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
+  - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
+    excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
+    publishedDateTime: 2024-03-07T18:22:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/google-engineer-allegedly-stole-ai-secrets-then-became-ceo-of-a-chinese-startup-here-s-how"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 7
 
-secured: "qWIIGxeOMcS/cIrTtViP6kFS8BxyNoO4r1r45yMYGwsI3evbhL5pB4bFI4PhdHZm6U5bMtLoitmaXgfYF4asYxWDAluGmBZ1JSd4wtdubq/QTkuz0SYLauzzHTJ+vHmcjbdK8K6/uSyJM4uftZiw+bdG/MZyrUjB/OubB4E8C6mm6kUnaa/gS4gmKx9W9woEpAKKxabj/xEl8DJBOG/FU/EgbhSDcA1U1rQQ1YBjKWbMJeHbP4DPp4QoHxV/YtjSLmulUOahoSrUN0lJ/inmOTrze0757HUkqgTEKkIawMw3dupaulmAI8Q/p76l0+OmcHLMOTBvMfygD6YUp6tG750ato6aM1SuIdIq0hKapdc=;LSNq6+H+/g3ndn1XhAQ12Q=="
+secured: "PHNWLuwzrOof+K6Y8guFaPBKLJXinqY9fvdVgKqunShuu3yBO02QBwb+K6vDHajIayo5Yj0r5xMeKYujkEdllarrkTsYhCKP8OeIw5X9JcC41M4+sQmuGmOcdDoy/q5phUr5Nlpx3pD1dz+xBOyMG1cDVVBgNzdqwFXjWOl4jHGtYBltMZ1nWWkAhClenxf6SlEGy0WH57mNoNrI196MomtcPypcVCkMMbMvUIRhb6AJKwzIa35oLeyi48M0hXtpHChprc4V7MEDc+Ne52dUG/09uP46N3TdIDM2nfXE71z9zMDFGWjgZAaT8G9yfTZa9sUA5DYiBZ3Bv3g/DdKTEAeJ+4gS8X2ivW7BPn/GKCE7HyhUusVIy5RGBfqalTycjCZ9C05IZWdK6FTm8AWTxBSea1ndwZnl31/NAykNJ6mnmmSKmJqF0ZFdhM112DAM2NSpVIG16/AHIV+75792/uEqvA6e5JQ1HhSVc5MxYwyGMF8ychepseqbpr9nk50Xjf1NHwMSx5BKG56rKKEGGA==;IlTV1PRfvCMKcbUVm3zuCQ=="
 ---
 

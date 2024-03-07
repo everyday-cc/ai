@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
+    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
+    publishedDateTime: 2024-03-07T17:48:00Z
+    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Anthropic unveils Claude 3, its latest and most powerful AI model"
     excerpt: "and this powerful AI model is powerful enough to trade blows with GPT-4 and Gemini. Anthropic has been doing a lot of work and research on its AI. However, it just didn’t stand out amongst the competition. However, it just debuted Claude 3, the company ..."
     publishedDateTime: 2024-03-04T00:00:00Z

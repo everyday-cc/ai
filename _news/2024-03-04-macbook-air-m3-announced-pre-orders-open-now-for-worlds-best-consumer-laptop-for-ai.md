@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple MacBook Air 15-inch M3 hands-on review: Big on AI, bigger on battery life"
+    excerpt: "Apple's big-screen MacBook Air goes big on AI with the new M3 chip, but it's the battery life that really impresses"
+    publishedDateTime: 2024-03-07T14:00:00Z
+    webUrl: "https://www.tomsguide.com/computing/macbooks/apple-macbook-air-15-inch-m3-review-"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 15
 
 secured: "13rQWGlIEcrlpygAoYkeFTYk+UxrsgTwrF6TFBThpazrvaWXJnCoxeNP8mwm8EuRDxvP3GZDj0uLovXIs2DiiKPlopUZcXfKdagJ5Yh3QUUq4v4fXRrGLlDUkESelBia40lTBF7NLKL3h+aI4A/+HFr9ZooInGC/z55zEnAMFaW3QSU0seLxyFFy9DyVzCtFFS0x23/4EqL1PD2qVqbrxd7Z+1NjZ+0BhcMNmtPr23CZ8+K+v4GYEPnLeWc5+LqZ7RfLHWR9Jx4PhyhIBf5pib3eR8idyayB7ogAavJHjHpJUnvx+hEFt4xmtlyYK5E9+sqTtW7gGsLV3TawyKqgNqj8juNW85i4cTYBgkzmwrTovE9YKoMjtlqBqlRmbsr6W6HXUVNVUbXxiZP/C75nZHDEA/486zGSFylVN7aRsvtlnyBI8GTC3GfyoicTOJzD+4grqV5tiEg4liPiOUNVYz1hr9aT55KSJMZgDuaQ4f7zWmz2ibKrHxuBajb2MzlhTURJ9jGxqPe1uJQQt+F7Gw==;Y4uFbGXiJuhwR9qQF+Dyow=="
 ---

@@ -63,6 +63,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "The Investment Associations signs fintech agreement with Canada"
+    excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."
+    publishedDateTime: 2024-03-07T14:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99940/the-investment-associations-signs-fintech-agreement-with-canada"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "jhN2+dCI03VL2UXhIoJk5fqaJV+TVCzc27fZh7Hhw50+SIRF+dA4Gy5+sn89WUDAKDJiJXRX3h1eWW6wR3ox0Ns9m55aUYOyXEMKdU6RMrSshppYoxzbADtoFHH18f1Q+XNdlyQkVSU/4JYQb98kXK4FnMISi3Pe16qCPq+knuxvrJDDJ7mAzd2Lnqd5ahLcmScH8d08kGsYKgE+xrjpm94aR19e2aMuyKebZK3LGQxnFiTkLuXbG96AG/OR9LKvUkoTegeyCZvMqCpCg5inbdJ317Ohv0VTyjeVNxDRjZQsmPrPZxxiVEphqHkrnTIp6luKRpJ7oIzBNulwn61AcFPi/b8NcI4hllvxYFRTmMJdal/A4T2/B6dp6b8kBmAaFFCEA6OuxRFciDhaSW32VHARkEslYjzgaDoN31x2SlWwjdxCO+n/l604Ug3HYKc7iKHuUivslFiywph1BkAd0ozRODLi0wJxzL/XFThQMn0DPLM/c0gozRW+dxQL6NKGtRXLrJ1YaFCHsDe46SYgZQ==;K9/BUVr9GP3nH8m/ZNL2YQ=="
 ---

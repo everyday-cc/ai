@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "San Francisco Voters Approve Facial Recognition Drones"
+    excerpt: "Voters were projected to approve a ballot measure that will ease restrictions on vehicle pursuits, allowing for the use of more surveillance technology and reducing oversight from the Police Commission."
+    publishedDateTime: 2024-03-07T16:43:00Z
+    webUrl: "https://www.govtech.com/products/san-francisco-voters-approve-facial-recognition-drones"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "0AXJUXcBTi4PpT3k57yCzclqFRMZ8xD0nFqzQso3xdb1gOdZ+q98a2ido44BMSeKDI/bsYc8fqwKKTOW/76lwCKeTycmYq8v8tU4vLD8xr9QCz0vxGbAl2Gs1Stk0rKCmsa9ZYku1zElR3mXH8TNBJUpyjCjB4YDeoQmk0DnJVV1oxXMYVMLYgOK8+l8+WpDoQYbfSl7idRY7vBjo7QECeZ5hlam3bUfpemo1b7aSKMQaxueu3SOZm52pDXIMMG02pK6CgNPA5vmIrqwMqDrm/elDmV/S8V5wnjadAmwhbnwDypUwoaG5cAYxtOXNgT6KBPrTloMafX0AqdbItp0fZv4F+IKtETgIevcRV3gJwFNzbtvpMD+1gjTvpcsuv1PlW9pmAPzhAAtIY4dDNKTdgFrPL3OXTWtUPo749ke3eC9pclQE5R7HoCHWlBC56BRZLgdkUJ4h+oui52thy07/LkJXkcd0tWRMPq0p2pGn3OGL2CMOLbYUnR66g03Xwx+Ijlt9vJeiFpbNhcnmmIj5w==;tek9dGC1z7JmPEwUoSM9mg=="
 ---

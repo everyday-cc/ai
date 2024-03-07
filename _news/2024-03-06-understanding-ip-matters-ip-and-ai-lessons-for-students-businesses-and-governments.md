@@ -39,6 +39,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Lessons For Startups And Small Businesses On Patenting AI"
+    excerpt: "Ultimately, in any technological field, a strong patent is enforceable—you can count on it being upheld in court, and the patent will allow you to recuperate losses from infringement. When it comes to determining the worth of owning a patent (i.e., a patent’s enforceability), these are the questions you should ask."
+    publishedDateTime: 2024-03-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/07/lessons-for-startups-and-small-businesses-on-patenting-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "l5G4yGMFGfXcq//MSOg5qXLGC4e48sbfT4uUZL7EaQ1/et3DzS2bBkr2T181zgE+1qIb/sojMBNcEXdUjRxA4FmV7L95rtm0R8GWZ+hJQJ3pOtgyLd8DUMvcTpT3cuB9cbDvv4ngWQvqa1U+XtwVlNuTMrMKHfsPX/x9+e5mRqmCcSySW5sNJkJKoyOCgaUToQ7czVG6YRFQCOt4A+pRrzY8TR0osIAqQl3+vUYVnZzBplcYq2rfpnhnnNTgUKLIL7+PII07dpZk90IxeAnmLA0YTRdnWXp6QYHl/JjxCLMdeNBW6TbthH/wbbWVePDqJxJ/YmqHKTMi5CfH06NySyRX/bh3wZfFF+dzWMrLYkc=;y6pu9j8xdVgi88YUx8S4hg=="
 ---

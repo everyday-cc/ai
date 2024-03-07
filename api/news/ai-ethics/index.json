@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
+      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
+      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-linkedin-learning-unlocks-250-free-ai-courses-for-a-limited-time.md",
       "title": "LinkedIn Learning Unlocks 250 Free AI Courses for a Limited Time",
       "excerpt": "LinkedIn Learning is offering 250 AI courses for free through April 5. Get the details about the offer and LinkedIn's new Workplace Learning Report.",
@@ -1422,50 +1474,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-uncovered-unknown-and-uncertain-guiding-ethics-in-the-age-of-ai.md",
-      "title": "‘Uncovered, unknown, and uncertain’: Guiding ethics in the age of AI",
-      "excerpt": "and nongovernmental organizations on novel questions concerning digital ethics. In a recent conversation with Yale News, Floridi discussed his work with the European Union to establish protections in the use of artificial intelligence, the center’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.yale.edu/2024/02/21/uncovered-unknown-and-uncertain-guiding-ethics-age-ai",
-      "originalUrl": "https://news.yale.edu/2024/02/21/uncovered-unknown-and-uncertain-guiding-ethics-age-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/ynews-2024_02_01_yale_luciano_floridi_lavitt_z72_6039.jpg?itok=KDP4yDfC",
-          "width": 766,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yale Environment 360",
-        "domain": "yale.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

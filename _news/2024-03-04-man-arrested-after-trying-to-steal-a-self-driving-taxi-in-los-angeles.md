@@ -83,6 +83,20 @@ related:
         width: 6630
         height: 5304
         isCached: true
+  - title: "Unhoused man accused of trying to steal a Waymo self-driving car in downtown L.A."
+    excerpt: "An unhoused man was taken into custody on suspicion of grand theft auto after police said he tried to steal a Waymo self-driving car in downtown Los Angeles on Saturday night. The man entered and ..."
+    publishedDateTime: 2024-03-03T21:51:00Z
+    webUrl: "https://www.latimes.com/california/story/2024-03-03/man-allegedly-tries-to-steal-waymo-self-driving-car-in-downtown-l-a"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 34
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1fe6648/2147483647/strip/true/crop/3900x2048+0+5/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2F69%2F5f88d0bf4c88b6d8d46b0f046d57%2F1257451-fi-waymo-self-driving-car-0495-ajs.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving car company Waymo begins testing without drivers just days before SXSW"
     excerpt: "Formerly known as Google’s self-driving car project, the autonomous vehicle company has operated off and on in Austin since 2015."
     publishedDateTime: 2024-03-07T00:00:00Z

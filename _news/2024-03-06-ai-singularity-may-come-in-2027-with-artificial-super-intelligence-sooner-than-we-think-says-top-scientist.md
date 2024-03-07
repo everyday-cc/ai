@@ -7,7 +7,7 @@ originalUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-
 webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-agi-singularity-in-2027-artificial-super-intelligence-sooner-than-we-think-ben-goertzel"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "NVIDIA CEO Makes Daring Prediction that AI will Reach “General Intelligence” in 5 Years"
-    excerpt: "This confidence stems partly from NVIDIA's leading role in developing the powerful AI chips used in systems like OpenAI's ChatGPT."
-    publishedDateTime: 2024-03-02T17:59:00Z
-    webUrl: "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nvidia CEO Jensen Huang says AI could pass most human tests in 5 years"
-    excerpt: "The Nvidia CEO also addressed a question about how many more chip factories, called \"fabs\" in the industry, are needed to support the expansion of the AI industry. Media reports have indicated that OpenAI CEO Sam Altman thinks many more fabs will be needed ..."
-    publishedDateTime: 2024-03-03T14:45:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-ceo-jensen-huang-says-194455132.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/LoZQbsBT.fwcA7U5dRAXng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/8d4d891f1c89f79406513cf62f1c666d"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "IFBG8zJ+w9MVajmYtKKDNmSj6xuyzs0WGgYBP52ZdJdSP+1ZZew7971JaLmuQGoUF97w80R+eDgUNCJYpB61C3VWi1F8aU1HIXrHoEsIaN3dKxtANtuIz6E4US5F26ttVdU0bPxxFo9OTPyxVrKzsKJ8gTU6uBIEWxvXWk2xwO3KI2t9sP6tgisCpNVd1n4/BDQVxD+IYReVcClmkUYI6zZ1QCmv0JojZFQX5FpljfV1jkAgJhwEbbGhxSq6/4ncqt64ZzVaghrY5y/0TwtEOK9MPoMvtBiGQhiQWx+lQfUW7eGcFEn45BODbFW3n8iemGR/jW2yiL1rxpYk7eabju1bmdjKI6avkdGTcVj75+w=;XAn7ZEwHLzkADNcdA9spiA=="
 ---

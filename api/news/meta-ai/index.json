@@ -106,7 +106,7 @@
       "originalUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -203,7 +203,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -547,7 +547,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,

@@ -43,20 +43,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Weights & Biases Achieves the AWS Generative AI Competency"
-    excerpt: "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications."
-    publishedDateTime: 2024-03-06T18:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "DoiT Achieves the AWS Generative AI Competency"
     excerpt: "Over the past year, DoiT has leveraged technologies like Amazon Bedrock and Amazon SageMaker to build AI foundations for its customers and ensure their environments are regularly optimized based on emerging best practices. The AWS Generative AI Competency ..."
     publishedDateTime: 2024-03-07T00:00:00Z
@@ -66,6 +52,24 @@ related:
       name: 01Net
       domain: 01net.it
     quality: 34
+  - title: "Weights & Biases Achieves the AWS Generative AI Competency"
+    excerpt: "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications."
+    publishedDateTime: 2024-03-06T18:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "How Marketing at the BBC is exploring generative AI to increase experimentation and improve Doctor Who promotion"
+    excerpt: "Experimentation is at the heart of how we approach marketing at the BBC. Testing and learning on how we let audiences know what BBC content is most relevant to them and we know they might love underpins our digital marketing strategy."
+    publishedDateTime: 2024-03-07T13:38:00Z
+    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/bbc-marketing-generative-ai-doctor-who-promotion"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 13
 
 secured: "+qkj+mPFYVsvqo92XhzmfjjESou0+chZfid8BLd3IWACcmtFp63VHiv7u9Sq16+QvPX7qi1ZewEHhfdhnU/gdWQYFKD1cpiLKe1MUGb7a3v8dId7a/7qCgMEXAH2OxKF1kOy1RCMHm4CgeLT4TTZekfCQ5z0c548SknyqmmYrlvXCoZRLjyGuUHC4pPZsIzUtzwvQoegGzgMLxmqPXAEFGZoWYTPH/cjCXyWR+p50XgoBUOJtsTvmvlHqX31SNfW5GckIUCMf9izd8iKZLlmV/kHH2vKFdvubfnveYUBo6H6R2YEfmk1ktMbSiqOD75KVN2d1sQzYA5yN01S5TSRkOLfdKbCRY526yLwuR04DBDXUxkkhph169rB60PtHGP0oA6G3FkY0Dgg4K5vZkNX0OdMeE9Avo/DPm6lh4VO2PpHUjGLayA3P/LRX57tA5ivClT5/Eiga4oZzFkbm5vzsRRjbvUvkYCHtsiIEmx/K36zn4j26bYwqv/tK50iu96kEIFoyDRo+09B7Bf+YLbJtA==;EQxqcQfmwAmlYCSZQgRsUg=="
 ---

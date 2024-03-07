@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-cod
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
 type: article
 quality: 119
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Salesforce Launches AI Solutions for Healthcare Professionals to Ease Administrative Burden"
+    excerpt: "Salesforce introduced new data and artificial intelligence solutions tailored for healthcare professionals, intending to ease their administrative burdens. One key tool, Einstein Copilot: Health Actions, enables doctors to streamline tasks like appointment ..."
+    publishedDateTime: 2024-03-07T12:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 64
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444500/salesforce-to-report-quarterly-earnings.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "OpenAI, Salesforce Sign Pledge to Build AI for Good of Humanity"
     excerpt: "OpenAI, Salesforce Inc. and other tech companies signed an open letter highlighting a “collective responsibility” to “maximize AI’s benefits and mitigate the risks” to society, in the tech industry’s latest effort to call for building artificial intelligence responsibly."
     publishedDateTime: 2024-03-04T17:09:00Z
@@ -72,6 +88,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
+  - title: "Salesforce launches Einstein 1 Studio to support admin and developers"
+    excerpt: "Salesforce has announced the availability of Einstein 1 Studio. The solution is a set of low-code tools that enables Salesforce admins and developers to"
+    publishedDateTime: 2024-03-07T13:56:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2024/03/07/salesforce-launches-einstein-1-studio-to-support-admin-and-developers/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 4
 
 secured: "+ycO4oLadhfa7gBfo7B5/bbM1E0NWqk6t1dhWvo4ivU8ECJfcv/voqH/pyx6BFsQf/h30oZ2Bd0/iwXp6AnT78KqkKraxCRjyDXwGppxXxnCEBnCADubLSbxm+9AATPSXZr1Vn/WEkLtkrn8pgoQ8PEattOfTngSai2zCU7sahQrtq2s8QFRSBbBmrlWEv8I7CCcy2slPASJFtQQq+6zPr/8I1ZBc8eWHkpsoReaBx4DeIH3miQ/skHLm50Ufqklin52wXXxC7tF57BC3PxD7EJ+nmKVL1OBlNU3gsL7QWHIcUxVYb/ibrXDlFOzJWp+f0ASa44QnVQi5fX5zDtiNXXQ2SpZ6MQPNkP+WjruurxNzualzZVVOR5K2hP+6/s4EUI5kfH6YVPBTyyN+KrrZfQrCXisALsA3ZVNLX5SZ0n5lCexugptrEEoEZFe/jZKMSZHaGv2sL7UUvf2RZAS1ysZEzUTiXEJYOzqVWHkNNOc8u1gzaoiLbhYMtKmJjUiojb8RrSVn7iBJ2ZQIIveCg==;QboVDDeXRprxMNfJrz2UdQ=="
 ---

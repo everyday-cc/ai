@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
+      "title": "Global Forum on the Ethics of AI 2024",
+      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-how-ethics-regulations-and-guidelines-can-shape-responsible-ai.md",
       "title": "How Ethics, Regulations And Guidelines Can Shape Responsible AI",
       "excerpt": "Ethics plays a crucial role in guiding the development of artificial intelligence (AI), as does outlining fundamental principles such as fairness, transparency and accountability. However, principles alone may not be sufficient, and the challenge lies in bringing clarity to these ethical foundations.",
@@ -1454,49 +1497,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-ais-massive-power-consumption-demands-innovative-energy-solutions.md",
-      "title": "AI's Massive Power Consumption Demands Innovative Energy Solutions",
-      "excerpt": "\"Fundamentally speaking, if you do want to save the planet with AI, you have to consider also the environmental footprint,\" Sasha Luccioni, researcher of ethics at the open-source machine learning platform Hugging Face, was quoted by The Guardian.",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-01-22_czjv0drkow.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
-      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
-      "publishedDateTime": "2024-01-22T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

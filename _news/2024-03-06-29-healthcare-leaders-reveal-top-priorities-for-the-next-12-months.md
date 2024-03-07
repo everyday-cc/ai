@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Healthee Raises $32M for its AI-Powered Health Benefits Naviation and Management Platform"
-    excerpt: "Healthee offers a groundbreaking digital health platform, powered by AI. It simplifies healthcare consumerism by providing streamlined access to health and wellness benefits. Zoe, the built in digital benefits expert, assists in navigating healthcare benefits, finding affordable care, and optimizing choices, particularly during Open Enrollment."
-    publishedDateTime: 2024-03-05T14:32:00Z
-    webUrl: "https://www.alleywatch.com/2024/03/healthee-ai-digital-benefits-platform-employer-health-care-navigation-enrollment-zoe-omer-maman/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 8
-
 secured: "CquJWuMtjJUG4mWc5DXg6XGrhClHezQJghlUREese3buuWcKD54t3C62RxO0rFzTd5xY3LzQok0ccxUNLKplxy4FKfyRbXDBEJKgQrv1sXPZMGb0+hE8m1wBf65EKA3jE92ICFe+0mAsRXEOhOGAJVmXhoUSIWyJe4DH9rFeZ4F05yh6DyaNTxV3jArgyTaDBOvuibqFYL2dw6dTpMnae62egfv4HcqHw238ErtFKYQd/Xv0bAKyVrnV+sPM2g9ABfxexkQfjdtjT2XCOlAkZNMVKfZ+CCLMD5JPifFU5Q0C60Ns3XHYHhsAhYErqD53gaPOqy4HDmMPvZaFE4mZNs1dWG1PXd3FPWrmVzxfcRI=;P9PaPI/LAakA3mEzIwTyKw=="
 ---
 
