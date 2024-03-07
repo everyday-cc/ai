@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/chinese-google-en
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets"
 type: article
 quality: 54
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ex-Googler Stole AI Secrets for Chinese Companies: Feds"
+    excerpt: "An indictment alleges that Linwei Ding quietly began stealing confidential information about the company’s machine learning processes two years ago."
+    publishedDateTime: 2024-03-07T00:17:00Z
+    webUrl: "https://www.thedailybeast.com/ex-google-engineer-linwei-ding-charged-with-stealing-ai-secrets-for-chinese-companies"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2989,w_5315,x_0,y_133/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709759552/GettyImages-1149449071_cr37wo"
+        width: 1480
+        height: 832
+        isCached: true
   - title: "Ex-Google engineer charged with stealing artificial intelligence technology while working with China-based companies"
     excerpt: "Ex-Google engineer charged with stealing artificial intelligence technology while working with China-based companies"
     publishedDateTime: 2024-03-06T21:09:00Z
@@ -71,7 +85,21 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
+    excerpt: "He also separately founded and served as chief executive of a China-based startup company that aspired to train “large AI models powered by supercomputing chips,” the indictment said. Prosecutors say Ding did not disclose either affiliation to Google ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.wandtv.com/news/national/ex-google-engineer-charged-with-stealing-ai-trade-secrets-while-working-with-chinese-companies/article_4d2c07c4-dc1b-11ee-bb51-0312192a3d0d.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/6/76/67693788-dc1b-11ee-b43f-7fbed9da7815/65e90d44b1d2b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "ATC5N9C6S8UL/d02U6oqKJGuQs8+rUUNcjW9xTRRWRlDRC1LV2+NxhE/NQM/9tV2HYCN/Zl9Fi6WBpktCQnEO3eAzaSZb2wffa+aSoQFOh982fBbxFQibVm0LWLAoLy+rSiMo72RV1hliDe8rURQq5ywF76Cu4AM89RFnGJimcN+/04YLWuVajT8fZVDpBvY9Ujpguogt1h51Mkq+WzEHgZtiNdJ+lTXFWOzU/gO6GEsVolrMNJZ6UZrXReGW713ozT7sah/J3/IV5ZVVNJhCH8X9etdrJYiF708DivRmFk2NzwB8gqRXXi8Mk1Rt9930lRwAvZlM3DEOauWyoQ7WiftVhycy1vEg7JVgfiCAwM=;z+FPcXsbG9z6Mp4SUw/Cfg=="
+secured: "WPMzH4qkVQvHpspxMp3pM8SLuUNo/4Cq/Dhoo1KT35k52UWdI97x84+veKj2MnVGbp6AI60WIYPec6hrYndAdco+oUSwkERzjJ6SZX3xIUvUHSwoBBz+szR3a/PGYq44RfVuH99gyBEnYd1XdYY5ru6hOnuj5XmMU6NoCwxb6fX6dQBxsVYQnH67ylAWF60aoo5OQBcDAsLYlx2KMWJPqovtX3L7Z0QFoT973aD/aex3d8kzsQMlBPgaTY9lUtAaAZl+7N/Ib1Gctdk1gFng/+XiZ1Dd/7UIRgDRrs9u+VygHSMGRfXB8PclrPuhyv4r2zsCroKYtT2oaMMVDm0oCPWjf2l9D5lIG6BVm6Uxytdn2NmZLC7FlvUeHeY+N/h/brEvXn3gx7CHW8qm4c9bzvQnM6zgGL4FAkh5A0se5czTNTnopIAsECbTBW5mOiJ0028n9Vx+VfN0KvrnOT4rtrY/bWsVi/9QI+beBIqG4QeUUd+Qa7OD66zQo7BAtSldPZGNOEQf3xx0JPJRcM6rDw==;QZSp6LIDmp9c91L2sCFsFQ=="
 ---
 

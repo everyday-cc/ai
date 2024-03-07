@@ -28,7 +28,7 @@ related:
   - title: "ETT | iByond™ Asia Division Signs $1.2B Deal with Knightsbridge Bringing Digitization and Fintech to Asia and the World"
     excerpt: "ETT | iByond™ and Knightsbridge Group have sealed a monumental deal projected to be worth as much as $1.2 billion, marking a significant stride in advancing digitization and fintech solutions globally. The collaboration signifies a pivotal moment in harnessing cutting-edge technologies to drive innovation and transformation across industries."
     publishedDateTime: 2024-03-04T19:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/04/9972272.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-ett-ibyondtrade-asia-division-signs-12b-deal-with-/2024/03/04/9972272.htm"
     type: article
     provider:
       name: TMCnet

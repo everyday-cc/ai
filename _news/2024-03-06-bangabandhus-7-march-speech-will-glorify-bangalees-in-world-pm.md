@@ -7,7 +7,7 @@ originalUrl: "https://www.tbsnews.net/bangladesh/bangabandhus-march-7-speech-wil
 webUrl: "https://www.tbsnews.net/bangladesh/bangabandhus-march-7-speech-will-glorify-bangalees-world-pm-804658"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Bangabandhu's March 7 speech: A linguistic marvel"
+    excerpt: "To truly comprehend the greatness of Bangabandhu, we must delve into his speeches, which were the cornerstone of his persona."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.thedailystar.net/opinion/views/news/bangabandhus-march-7-speech-linguistic-marvel-3560596"
+    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/bangabandhus-march-7-speech-linguistic-marvel-3560596?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/bangabandhus-march-7-speech-linguistic-marvel-3560596?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 44
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/03/06/d65d7thmarch197101_4_06032024_31b6_afi.jpg"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "tIzWmvIr1zZGt72YqBPkHRBRe9DhIqMRgCZul07iooEsyGTNZfWGjkeqsDV+BlBGK5QH10wrM7w5UiLK6+DgIapOPZaP1zzYfoI6QWlTugA95s8Cb41yQ07/BGdAnyz5iLwBNSoFguKXgA/tYrBN59cpPc2t1wD3Lwgb1kFfpwIe1ejDMTy2dqORGpByPfjwzQQ9WBmBOx53gWSugN2tLTeyBGJbNgYzhBqh//qAi3SYuvkR/WLPgqmiSy0ptnvctfm8RQ2HFferOVAkOsOEtp+FykpnDGqm/62zyn8olnIRHA0EbhN0QvKwM4C/PtbbLeQB3w4bY0v+yRatzLdwlUPKkSFm7xRl5c2GSbRl2yQ=;xm8nz7q65pdlrK8yPR19fA=="
 ---

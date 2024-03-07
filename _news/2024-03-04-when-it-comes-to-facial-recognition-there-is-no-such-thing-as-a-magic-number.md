@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facial recognition tech helps unravel church thefts"
-    excerpt: "ST. LOUIS – Since the historic Mt. Olive Lutheran Church in the Shaw neighborhood caught fire last July, it has since been continuously vandalized by citizens. One neighbor, Daniel Romano, has ..."
-    publishedDateTime: 2024-03-02T00:00:00Z
-    webUrl: "https://fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/"
-    ampWebUrl: "https://fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/amp/"
-    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/amp/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 59
-    images:
-      - url: "https://fox2now.com/wp-content/uploads/sites/14/2024/03/snapshot-2024-03-01T210826.504.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Chinese official says facial recognition in hotels is hurting tourism"
     excerpt: "The prevalence of facial recognition in China's hotels is drawing complaints from tourists, prompting policy-makers to consider boundaries for the technology."
     publishedDateTime: 2024-03-06T15:55:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facial recognition tech helps unravel church thefts"
-    excerpt: "ST. LOUIS – Since the historic Mt. Olive Lutheran Church in the Shaw neighborhood caught fire last July, it has since been continuously vandalized by citizens. One neighbor, Daniel Romano, has ..."
-    publishedDateTime: 2024-03-02T00:00:00Z
-    webUrl: "https://fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/"
-    ampWebUrl: "https://fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/amp/"
-    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/fox-files/facial-recognition-tech-helps-unravel-church-thefts/amp/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 59
-    images:
-      - url: "https://fox2now.com/wp-content/uploads/sites/14/2024/03/snapshot-2024-03-01T210826.504.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "When it Comes to Facial Recognition, There is No Such Thing as a Magic Number"
     excerpt: "BKC Affiliate Marissa Gerchick and Matt Cagle argue that facial recognition test scores mislead communities about the technology's harms."
     publishedDateTime: 2024-03-04T03:10:00Z

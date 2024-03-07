@@ -53,6 +53,20 @@ related:
         width: 633
         height: 332
         isCached: true
+  - title: "Taalas raises $50M to develop chips optimized for specific AI models"
+    excerpt: "Taalas is led by Chief Executive Officer Ljubisa Bajic, who previously launched AI chip startup Tenstorrent Inc. in 2016. The latter company received a $1 billion valuation after its most recent $200 million funding round. Bajic founded Taalas last August ..."
+    publishedDateTime: 2024-03-06T23:09:00Z
+    webUrl: "https://siliconangle.com/2024/03/06/taalas-raises-50m-develop-chips-optimized-specific-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/chip.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Tenstorrent founder reveals new AI chip startup Taalas with $50 million in funding"
     excerpt: "Toronto-based artificial intelligence chip development startup Taalas has launched out of stealth with $50 million in funding."
     publishedDateTime: 2024-03-05T22:09:00Z

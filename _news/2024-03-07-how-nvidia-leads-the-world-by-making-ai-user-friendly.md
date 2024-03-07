@@ -46,6 +46,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 49
+  - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
+    excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2024-03-06T10:51:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/24585796/nvidia-and-7-other-semiconductor-stocks-that-can-benefit-from-artificial-intelligence-ai-robots/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
   - title: "Jim Cramer Picks These 4 Stocks As Better AI Investments Alongside Nvidia, Skips Super Micro Computer"
     excerpt: "CNBC’s “Mad Money” host Jim Cramer has suggested that there are better investment options in the artificial intelligence (AI) sector than Super Micro Computer Inc. (NASDAQ:SMCI). What Happened: Cramer identified four stocks that he believes are superior AI investments compared to Super Micro Computer, CNBC reported on Monday."
     publishedDateTime: 2024-03-05T12:07:00Z

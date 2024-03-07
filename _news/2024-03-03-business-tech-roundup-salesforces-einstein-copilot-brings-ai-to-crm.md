@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business
 webUrl: "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm/"
 type: article
 quality: 99
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce unveils low-code AI toolkit for CRM"
+    excerpt: "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps."
+    publishedDateTime: 2024-03-06T23:00:00Z
+    webUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html"
+    ampWebUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 119
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "OpenAI, Salesforce Sign Pledge to Build AI for Good of Humanity"
     excerpt: "OpenAI, Salesforce Inc. and other tech companies signed an open letter highlighting a “collective responsibility” to “maximize AI’s benefits and mitigate the risks” to society, in the tech industry’s latest effort to call for building artificial intelligence responsibly."
     publishedDateTime: 2024-03-04T17:09:00Z

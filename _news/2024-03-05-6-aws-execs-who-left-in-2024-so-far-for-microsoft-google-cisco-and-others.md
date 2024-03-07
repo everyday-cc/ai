@@ -1,23 +1,29 @@
 ---
 category: news
-title: "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others"
-excerpt: "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ..."
-publishedDateTime: 2024-03-04T16:49:00Z
-originalUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
-webUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
+title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
+excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
+publishedDateTime: 2024-03-05T03:55:00Z
+originalUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
+webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - AWS AI
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/media_1cc1c11e9039504f571f1c21793c05f1627244c87.png"
+    width: 611
+    height: 458
+    isCached: true
 
 related:
   - title: "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo"
@@ -43,16 +49,7 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 47
-  - title: "Atlanta wants Microsoft to bring city 15,000 jobs or return land"
-    excerpt: "Atlanta's mayor is pressing Microsoft about the future of a 90-acre site. The tech giant says it's reevaluating its global real estate portfolio post-pandemic."
-    publishedDateTime: 2024-03-01T23:44:00Z
-    webUrl: "https://www.seattletimes.com/business/atlanta-wants-microsoft-to-bring-city-15000-jobs-or-return-land/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
-secured: "abkQ2NKPnnIARK713mRTw+3MiXaDbal/NHKi3xoKdzyQl9eJUhY7NPqfVOA1d98ToyW9OmyQpfBtkcu9WzSHCywsQ7xDfo61hkh/1X6k1CY/K+X0wcwWSpa4It8LwF34GwEY4u8hUiJsrc7L7fl7cqEznRBz0MmvImtWJGQVuzC79pKHdvZFaKCLLZXNk/oYdP1Y93MQcvewx2Hx54eKCxBxAneXfphRUzIhqH7VrJrwUVJSs3cQIxIAdo4xNVAue/V71IhuDb3fMUrSf28YRCoJiGRc8Gl4DSroTZ2mLX7t0dRtLyB1rs729TTDjRLTOKvVOzvTdp5h/Lgh431RbdUYfSffnNLDvnBEVNtbwVaSw0aqu9HEaYFlNsbeuhYXq5na/cqwlR6oyHVosjUZ3S+DPerYDCuqf7d+Wz1l03gcN64ajUbb7a8yB73lv3snXjzL4yS+JUwDfYjy67BGoOKbbYEA7Drmydvsf2yOoEYtS85osHeVPaLMw4fj1KPoEVlT2Ow5xjDkOsEedoyF/A==;R2US0kzgfvyXXWZEe296Yw=="
+secured: "si4vSunYVRonaWzd2+KVRuArzT7lHR/B6CE21TlDa0j9LO1ZJvoZpdF5YF+H6Ofs9nrBRdUTKpBYXQoDi4nggPG3U51kNCW6TCX2QciMUlVeH6mbEPbkeIpKtZGmBrUaVVJg/OuUYNuW2C1zQG0KGDb19rhNOo8dOkOuBdG+vJv8QVhPi9+zgTOkljV7tcZ4JRd6pTw6bhN/N95r7BccGo3en1BgfXXWtRF/Rd1Nm7JYIRUM01Rfmdit+9IugVdEd2mOeGstAMyWXJmTJM0RKKsede0JoHBz5p0eck75mHf1ZonieP5+Rw/m8sQ6QRsuNDvDP03QHvQ7sfkv9gd20n5/uNH3JTczpBOfXxpGeLU=;ZyVqTQZJuDICNyhJSFzA7A=="
 ---
 

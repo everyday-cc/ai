@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce unveils low-code AI toolkit for CRM"
+    excerpt: "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps."
+    publishedDateTime: 2024-03-06T23:00:00Z
+    webUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html"
+    ampWebUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 119
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Business Tech Roundup: Salesforce’s Einstein Copilot Brings AI To CRM"
     excerpt: "1 – Salesforce announced the public beta availability of Einstein Copilot."
     publishedDateTime: 2024-03-03T12:00:00Z

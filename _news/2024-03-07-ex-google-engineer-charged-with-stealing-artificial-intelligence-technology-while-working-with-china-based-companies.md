@@ -67,7 +67,35 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ex-Googler Stole AI Secrets for Chinese Companies: Feds"
+    excerpt: "An indictment alleges that Linwei Ding quietly began stealing confidential information about the company’s machine learning processes two years ago."
+    publishedDateTime: 2024-03-07T00:17:00Z
+    webUrl: "https://www.thedailybeast.com/ex-google-engineer-linwei-ding-charged-with-stealing-ai-secrets-for-chinese-companies"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2989,w_5315,x_0,y_133/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709759552/GettyImages-1149449071_cr37wo"
+        width: 1480
+        height: 832
+        isCached: true
+  - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
+    excerpt: "He also separately founded and served as chief executive of a China-based startup company that aspired to train “large AI models powered by supercomputing chips,” the indictment said. Prosecutors say Ding did not disclose either affiliation to Google ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.wandtv.com/news/national/ex-google-engineer-charged-with-stealing-ai-trade-secrets-while-working-with-chinese-companies/article_4d2c07c4-dc1b-11ee-bb51-0312192a3d0d.html"
+    type: article
+    provider:
+      name: WAND
+      domain: wandtv.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/6/76/67693788-dc1b-11ee-b43f-7fbed9da7815/65e90d44b1d2b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "9HlSDwNuw0lTcT64avJDz6KhgTa9i/VbWozQZgNn1/fjZ3It776CHgoCp7kear3j0wgL/zV/BGAAxZ6hJfGphQf0CqkRjnStgkeF6bQ0IBY9dyUWSwQgXRGGz/VQIt1VU9OUmWTyfto+4v8ycswocGEPPBwpIlKcl/gAjvlpM9YgaZLmd2WdzzC9qBG7IAGz9254nAWMaGBF8SaNlke1qh5GLyKG0lnDUOWHnl3idpDVGXOgcyWKv48dhwhiYmmFmAQ4zTPE1awY7xe50adQYirFx1ieTRoD+PFg4d6hnLdRqryvFl2rMqxFENIgSje2l0Li9EuYxjXcizFUex8qup+YpK+hRrF2dMhUcYn+9uo=;ouwfi5Z1rYoLKvHSscOnjw=="
+secured: "Di+eWQyI3T7VT4gx2xGFtbwkyYW9LNau4Z9fiovKoP85RO6Iddmz/spt4esqdBTRYUZyBL9PseQcVro/Joi7xzuGZr0p8hyXX0NElvRzbAxhB/zuevaSuuNe4a6Eqt1GQhTHQeEJHYpyBZ0TG4WnR3fsXiNwAU7Ti6bslbAxi68TFolqXmIPyS5/xsATzYR6zygcUSUq6FaY0EAawTMarm86F3D37CLxbGvtpmc8v9pmPBvi20rYiQPFSBtHJR/MKbMnyFnqihiVZmsS7rV7Eo9HrH1j9RkgZwlrggnbhZ898rAJ9o8nVEIZcY6H10Ep+Mc40t5y/N1M2AsCdRFE9tojS+sxEuydr8MzwO3TW2o65kg1S1G1zT0pM2ao1+HXIoTZCt4qTpPAJHTTeP/oewbRkZzPiV2T04cqeXSiQjR4hstSVF5G85+9yIqoK+QQ0WOBhFQ0vca8eapehaiH3pgJ3VhRu4xlfulL1enCwVZg1I4Z2Oik5lRMzVE9OPnhAxQaS4SEFyrcTaxPxBFHpA==;nPPVfsefvcWZGIwmCxEN/g=="
 ---
 

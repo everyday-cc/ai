@@ -41,20 +41,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Humanoid robot-maker Figure partners with OpenAI, gets backing from Bezos and tech giants"
-    excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based Figure announced the partnership Thursday along with $675 million ..."
-    publishedDateTime: 2024-03-02T00:00:00Z
-    webUrl: "https://www.postregister.com/features/smart_living/humanoid-robot-maker-figure-partners-with-openai-gets-backing-from-bezos-and-tech-giants/article_c4f2e9b0-d759-11ee-a96e-abd31258bd6e.html"
-    type: article
-    provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 45
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/3/a0/3a075678-d75a-11ee-86ac-1775c69d2e80/65e11357bc009.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UsmzQ8475y0DfNhFcTkExORxA5NFrgTEAdzxjiqx7Nqz27Nhrkv0iEdZ4wmYmQoLav5NG0DSdg7P8DhGA9ovLvDdd1ZoBiLPvK6K/IMnUGf1SfILnt3ISjJIJLA3ieUKhorWTyWtZgtLpl04JUYvifOgKMRtTk9W1yq4GOd8wjsWV9J6Dtm5RjRsL3OCaIWzOZbaheQQk8iWlnlr+cjrOkOcP+vMjsYKI+cuiiS/0p1MUz6KQmqojnhAwPRBxGQr9sKi410we0acwu9itgEqj00nQAOHUEh5/PuGMwkYvVsMQHynpDgltmsDb1nLSbjexLyvGF30gmuqUHg2+SVqe+z6ld5Vzq9HeH9nWfxPtBk=;8gRO033tB9O7o4/dsyDT0Q=="
 ---
