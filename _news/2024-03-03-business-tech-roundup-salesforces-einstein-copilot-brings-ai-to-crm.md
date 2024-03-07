@@ -88,6 +88,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
+  - title: "UNESCO Welcomes Salesforce to Business Council for Ethics of AI to Promote Responsible Technology"
+    excerpt: "UNESCO and Salesforce, the #1 AI CRM, have announced a new partnership to advance the responsible development and deployment of AI for the benefit of humanity."
+    publishedDateTime: 2024-03-07T21:05:00Z
+    webUrl: "https://www.unesco.org/en/articles/unesco-welcomes-salesforce-business-council-ethics-ai-promote-responsible-technology"
+    type: article
+    provider:
+      name: UNESCO
+      domain: unesco.org
+    quality: 41
+    images:
+      - url: "https://www.unesco.org/sites/default/files/styles/best_image/article/2024-03/UNESCO%20Salesforce%20partnership%20for%20Artificial%20Intelligence.png.jpg?itok=WsuZ9oJ-"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Salesforce launches Einstein 1 Studio to support admin and developers"
     excerpt: "Salesforce has announced the availability of Einstein 1 Studio. The solution is a set of low-code tools that enables Salesforce admins and developers to"
     publishedDateTime: 2024-03-07T13:56:00Z

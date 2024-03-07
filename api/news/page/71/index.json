@@ -2,6 +2,143 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2024-01-12-application-development-software-market-2024-size-industry-shares-revenue-business-opportunities-and-forecast-till-2032.md",
+      "title": "Application Development Software Market 2024 Size, Industry Shares, Revenue, Business Opportunities And Forecast Till 2032",
+      "excerpt": "Report Ocean published the latest research report on the  Application Development Software Market  . In order to comprehend a market holistica",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
+      "originalUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528",
+          "width": 258,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T14:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-how-to-pick-a-name-for-your-ai-startup.md",
+      "title": "How to pick a name for your AI startup",
+      "excerpt": "Where should you be driving brand attribution and awareness long-term? Should you use “AI” in your product or company name? Let’s start with “AI” itself. In this world of exploding innovation in the AI industry, a great name paired with a great ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/12/how-to-pick-a-name-for-your-ai-startup/",
+      "originalUrl": "https://techcrunch.com/2024/01/12/how-to-pick-a-name-for-your-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1054956204.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T14:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-ces-2024-older-seniors-are-happily-living-with-aiin-the-form-of-chatty-robot-elliq.md",
+      "title": "CES 2024: Older seniors are happily living with AI—in the form of chatty robot ElliQ",
+      "excerpt": "But it's probably not the generation that would first come to mind. ElliQ, a voice-operated, AI-enabled care companion robot, is gaining traction with ... This is primarily used to better control the context and flow of the conversation, decide when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
+      "originalUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/quartz/qcloud5/media/image/ElliQ%203.0%20D.jpg?VersionId=MA8l7w6puA0nUMFm4f41g8svtQC1uMoa",
+          "width": 2835,
+          "height": 1890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-how-beamr-technology-can-boost-machine-learning.md",
       "title": "How Beamr Technology Can Boost Machine Learning",
       "excerpt": "Beamr BMR is advancing on a new front and reveals its capability to boost Machine Learning for video. Machine Learning and Artificial Intelligence for video have demonstrated immense achievements and have even more tremendous potential.",
@@ -901,135 +1038,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-william-sitwell-reviews-llama-inn-london-the-best-thing-to-come-out-of-peru-since-paddington.md",
-      "title": "William Sitwell reviews Llama Inn, London: ‘The best thing to come out of Peru since Paddington’",
-      "excerpt": "My pal Adam got the wrong animal. If he was playing a game of word association and he’d yelled out “alpaca”, then someone else might have replied, “llama”, and the game would have been won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
-      "originalUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/food-and-drink/2024/01/08/TELEMMGLPICT000361981409_17047242113440_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
-      "title": "Educators raise concerns over the ethics of AI in the classroom",
-      "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "originalUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2023/03/858a2aeed551f87b6dce829de26ddd2aa6a18da3.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-abb-acquires-ai-based-navigation-startup.md",
-      "title": "ABB Acquires AI-Based Navigation Startup",
-      "excerpt": "ABB announced that it has acquired Swiss start-up Sevensense, a provider of AI-enabled 3D vision navigation technology for autonomous mobile robots (AMRs). Sevensense was founded in 2018 as a spin-off from Swiss technical University, ETH Zurich.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
-      "originalUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2024/01/ABB_Sevensense_I.65a00cd4d0ff2.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C200%2C2249%2C1265&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T15:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

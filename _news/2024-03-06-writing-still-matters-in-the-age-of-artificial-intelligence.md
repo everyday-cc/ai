@@ -73,15 +73,6 @@ related:
       name: Geelong Advertiser
       domain: geelongadvertiser.com.au
     quality: 10
-  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
-    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
-    publishedDateTime: 2024-03-02T19:16:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 6
 
 secured: "p3GSAiWPJkDIn3tp35R78YbYGsUFniq9GZXlh0Te4c//37Ew2x2Vr5OhYE72GVYqUhYKo+rQrpz/FjuLvg06FwR3eB7UUpqiyFPX13iLW91BHaiNrrMSjmiQ+F5mBg8gZufJjSyQVmyyS1DJVjf62VFKJAVH82Er1tjqPoRe0svcwjL63Qqna94CRlYal8sZh+7VeICIfpXTPs+WjfN53bAQcDzh2TScXioLyRKO9RdQl1GgiKpUBNteSdeRXa0LsGydXLPHap/FaA+8abB6U/8FfmSAyxawBk0rSe0QmIFgDZ3P0jHwCjmdRS5ngWZtFxrcKm+ABfTaRDEC1OJByjsRba0wvfWiR+Cx94IFAJvRaVZ7rwVUjsaaHoh+GgUKFsr4Z3cGpWGEqaRhr401NpVP0ss/1dDwKgteFWBxDCvspuBR3HBR+cY6UfXA5naHCnA9g4Nr6Yrd5G6nlAe2XTVWYr8aZyTp//qIL53bzKKDXU2hFWCOXU4H+nkAn9b5PrKxHte/2vUXH19qVJ1z+Q==;fUmLhjYXoUfUiqEJrMUfaQ=="
 ---

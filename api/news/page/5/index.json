@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-02-dysolve-using-ai-to-beat-dyslexia-through-generative-games.md",
+      "title": "Dysolve: Using AI To Beat Dyslexia Through Generative Games",
+      "excerpt": "Dysolve is the first AI computer program for dyslexia that does not use preset testing kits but instead uses AI to diagnore and treat using dynamically generated games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/",
+      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e2446ba47afbd0fd1072bc/0x0.jpg?format=jpg&crop=3840,1800,x0,y179,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
+      "publishedDateTime": "2024-03-02T12:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-will-ai-translation-make-learning-a-new-language-pointless-experts-weight-in-as-google-samsung-chatgpt-spur-giant-strides-in-technology.md",
+      "title": "Will AI translation make learning a new language pointless? Experts weight in as Google, Samsung, ChatGPT spur ‘giant strides’ in technology",
+      "excerpt": "When the protagonist in the British cult sci-fi novel The Hitchhiker’s Guide to the Galaxy sticks a creature called a Babel fish in his ear, it translates all alien speech for him. Can artificial intelligence (AI) give us something similar? Thanks to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
+      "originalUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/01/01858272-8262-4613-866c-c0d687f2be01_1a777b83.jpg?itok=a_pmWP6-&v=1709289565",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
+      "publishedDateTime": "2024-03-02T11:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-openais-sam-altman-says-ai-is-a-tool-not-a-creature.md",
       "title": "OpenAI's Sam Altman says AI is a tool, not a 'creature'",
       "excerpt": "There are \"risks\" to artificial intelligence, but calling AI a \"creature\" is the stuff of sci-fi movies, Sam Altman told The Advocate.",
@@ -1165,84 +1269,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-openai-collaborates-with-robotics-firm-figure-ai-to-share-next-gen-ai-models-for-humanoids.md",
-      "title": "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids",
-      "excerpt": "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/",
-      "publishedDateTime": "2024-03-01T05:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook.md",
-      "title": "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook",
-      "excerpt": "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T05:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

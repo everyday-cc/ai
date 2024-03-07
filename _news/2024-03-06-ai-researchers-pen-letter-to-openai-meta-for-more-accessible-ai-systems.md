@@ -41,6 +41,15 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Musk’s Lawsuit Against OpenAI Sparks Heated Debate Over AI Transparency"
+    excerpt: "The controversy began when Musk, the CEO of Tesla and SpaceX, filed a lawsuit against OpenAI, alleging that the company had misused his contributions and violated"
+    publishedDateTime: 2024-03-07T19:38:00Z
+    webUrl: "https://www.forbes.com/sites/jemmagreen/2024/03/07/musks-lawsuit-against-openai-sparks-heated-debate-over-ai-transparency/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "UsmzQ8475y0DfNhFcTkExORxA5NFrgTEAdzxjiqx7Nqz27Nhrkv0iEdZ4wmYmQoLav5NG0DSdg7P8DhGA9ovLvDdd1ZoBiLPvK6K/IMnUGf1SfILnt3ISjJIJLA3ieUKhorWTyWtZgtLpl04JUYvifOgKMRtTk9W1yq4GOd8wjsWV9J6Dtm5RjRsL3OCaIWzOZbaheQQk8iWlnlr+cjrOkOcP+vMjsYKI+cuiiS/0p1MUz6KQmqojnhAwPRBxGQr9sKi410we0acwu9itgEqj00nQAOHUEh5/PuGMwkYvVsMQHynpDgltmsDb1nLSbjexLyvGF30gmuqUHg2+SVqe+z6ld5Vzq9HeH9nWfxPtBk=;8gRO033tB9O7o4/dsyDT0Q=="
 ---

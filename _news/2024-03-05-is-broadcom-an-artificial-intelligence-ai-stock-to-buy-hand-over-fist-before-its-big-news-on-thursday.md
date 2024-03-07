@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificia
 webUrl: "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "1 No-Brainer Artificial Intelligence (AI) Semiconductor Stock to Buy Right Now"
-    excerpt: "But there's one company that can benefit from growing demand for all types of semiconductors from just about every chipmaker in the world. Its stock trades at a very attractive price compared to some soaring names in the AI semiconductor industry. That makes it a no-brainer buy in my book."
-    publishedDateTime: 2024-03-04T10:58:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24516660/1-no-brainer-artificial-intelligence-ai-semiconductor-stock-to-buy-right-now/"
+  - title: "Broadcom 1Q Revenue Surges on Artificial Intelligence Demand"
+    excerpt: "Broadcom's revenue rose more than expected in the fiscal first quarter as artificial intelligence continued to boost demand. The Palo Alto, Calif.-based semiconductor company reported a profit of $1.33 billion, or $2.84 a share, in the quarter ended Feb. 4 ..."
+    publishedDateTime: 2024-03-07T21:25:00Z
+    webUrl: "https://www.marketwatch.com/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 50
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/d8857adb33e52f1af0e122f0e014cdcf/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f767636%252fgettyimages-ai-artificial-intelligence-chip-semiconductor-circuit.jpeg%26amp%3Bw%3D700"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Broadcom’s AI Outlook Is Key When It Reports Earnings Today"
     excerpt: "An analyst estimates Broadcom will generate $8 billion to $9 billlion in AI chip revenue for fiscal 2024."

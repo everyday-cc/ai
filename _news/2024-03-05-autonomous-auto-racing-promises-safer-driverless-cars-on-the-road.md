@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/autonomous-auto-racing-safer-driverles
 webUrl: "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars 'will be safer than cars driven by humans'"
-    excerpt: "MPs will tomorrow begin debating new laws allowing self-driving cars to operate in the UK. The Government has added a measure to the Automated Vehicles Bill which will require every driverless car to be at least as good at navigating the roads as a ..."
-    publishedDateTime: 2024-03-02T19:10:00Z
-    webUrl: "https://www.express.co.uk/news/politics/1872960/Self-driving-cars-will-be-safer-than-cars-driven-by-humans"
-    ampWebUrl: "https://www.express.co.uk/news/politics/1872960/Self-driving-cars-will-be-safer-than-cars-driven-by-humans/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1872960/Self-driving-cars-will-be-safer-than-cars-driven-by-humans/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 44
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/newsletterwidgets/2/01612364312.jpg"
-        width: 590
-        height: 271
-        isCached: true
   - title: "Apple is not the only company backing away from driverless cars"
     excerpt: "In some regards, Apple had the right idea. The market for EVs has ballooned since its project began and self-driving vehicles are now on the streets. With over $155bn in cash at the plan’s inception, Apple had the funds and reputation to pose a credible threat to the car industry."
     publishedDateTime: 2024-03-07T05:00:00Z

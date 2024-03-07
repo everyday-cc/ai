@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "The Pros And Cons Of Protecting AI As Trade Secrets"
+    excerpt: "Trade secrets have become a de facto intellectual property right for securing valuable artificial intelligence information ... that information when she or he leaves the company. The Waymo LLC v. Uber Technologies Inc. litigation in the U.S. District ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-pros-and-cons-of-protecting-ai-as-3161472/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "dHKNEAUM9uMDFTUD+v5HZkju6Br1TmSuEVRnsuFtTGa2PLumWv8CgC7HcMW0tNWkGupbGJNDwtm6n5zp9BVq2SRW/cOpchQuau3QDMOOs/21F72MLhTl9m59lzGm6YKoHg1i9haHqe2E+IbW/GuPhKWhX1HngwnzWpEgbxtV0CPHM5mHUhKsIpQr8Zw0ns0dYcpXTbmbtTGEekFhiAydnChITwr6zyozIaiX4o3gwblbdqYIDBRXmbrkgIhApo4nsQMy7NDISO0mpQP+cEFNmrbkuf8ir+hWZ65YU4uZ4fN588/9X850w3a6aNnCG1htP3ruv/AMQyE5IALz8g2qWLfv7s/8RqtLAC/D5zwH9cY=;mpgIkJLBq//hhBZf5Smgmg=="
 ---

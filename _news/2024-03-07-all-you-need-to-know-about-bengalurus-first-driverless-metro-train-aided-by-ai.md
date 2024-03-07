@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverle
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
 type: article
 quality: 69
-heat: 109
+heat: 111
 published: true
 
 provider:

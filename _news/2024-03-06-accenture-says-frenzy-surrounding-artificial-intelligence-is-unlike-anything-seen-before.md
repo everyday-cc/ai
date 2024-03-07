@@ -72,15 +72,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
-    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
-    publishedDateTime: 2024-03-02T19:16:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 6
 
 secured: "hkzdvjCjjwewbyDyBRGqs9LvRWc5QzYJLpc4K8Zk/fAr9fx7Ang3qzLxz9dY4uuTsHWxGT7izaJSNEoFf+Wi4/ewMF44jRbsrnWaEL0v17p8b3mdoY4WOni17Jj4fxz3wAz7NE4vKDTWhBgvUQP5b1m830RpS8YF/OtyHVldj9jFtJtPHpXSEObuOLQiA8Y8wql+wYckSa08cm6O+XmvgcszyuCzfAlp8TrfpHbFyoCKebtp+Ti5ub32jk8JTfyNHnsCbv2pUEBg6nM/BLINoJYq6HCEpY5j8E+YX1Qv2iQCmAWL7KEVOhXG6slFAeGf3HGWqjj8KsHsbhK3pMX224bgzmTfOVd0zJhqZtFlC+FMxC3vgQUFH9FOx9J8Pe4duVNoexCzIN9vNcWGwSaISQWv28d18yKJwfjnF0oV4MNWuRMj5VkqwRdZ/UNm9VqAucgdEuCEENrEcgrr9fkfKBNhX0+j4TXuTXWRQ4vGkgnxN74EqtEc3J+nZGLc4E3wpo43QcyHUosxpeesmqEaRA==;ZzcJtTczPFyLfViRTF+WvA=="
 ---

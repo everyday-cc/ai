@@ -41,6 +41,29 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Cognizant launches state-of-the-art San Francisco lab to boost enterprise AI adoption"
+    excerpt: "Cognizant launches Advanced AI Lab in San Francisco to drive innovation and research in AI systems and technologies, as part of its $1 billion investment in generative AI."
+    publishedDateTime: 2024-03-07T20:15:00Z
+    webUrl: "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
+  - title: "Voters likely pass facial recognition freedoms for police in San Francisco"
+    excerpt: "A ballot proposition in San Francisco to reduce the regulation of police facial recognition use, just as a bill in the state legislature to add limits advances."
+    publishedDateTime: 2024-03-07T20:46:00Z
+    webUrl: "https://www.biometricupdate.com/202403/voters-likely-pass-facial-recognition-freedoms-for-police-in-san-francisco"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
+        width: 2048
+        height: 792
+        isCached: true
   - title: "San Francisco Voters Approve Facial Recognition Drones"
     excerpt: "Voters were projected to approve a ballot measure that will ease restrictions on vehicle pursuits, allowing for the use of more surveillance technology and reducing oversight from the Police Commission."
     publishedDateTime: 2024-03-07T16:43:00Z

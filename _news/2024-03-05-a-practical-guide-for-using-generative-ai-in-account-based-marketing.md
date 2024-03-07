@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-pr
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e5679f992204df61c911c3/0x0.jpg?format=jpg&crop=3671,2752,x330,y0,safe&height=900&width=1600&fit=bounds"
         width: 1201
         height: 900
+        isCached: true
+  - title: "Widening lead in AI memory chips"
+    excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."
+    publishedDateTime: 2024-03-07T22:11:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2024/03/08/widening-lead-in-ai-memory-chips"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/08/2581151.jpg"
+        width: 1240
+        height: 827
         isCached: true
   - title: "Informatica Claims Data Fragmentation Is Standing in the Way of APAC Generative AI"
     excerpt: "Data management and cloud architecture have become critical to drawing value from generative AI, according to research from Informatica."

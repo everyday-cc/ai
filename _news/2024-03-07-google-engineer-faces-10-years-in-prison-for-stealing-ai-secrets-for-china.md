@@ -180,6 +180,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Former Google engineer charged with stealing AI trade secrets for Chinese startups"
+    excerpt: "as well as those chips’ software. Other records contained data about the graphics cards in the company’s AI infrastructure. Ding was also charged with stealing information about Google’s cluster management system. That’s a software platform ..."
+    publishedDateTime: 2024-03-07T22:44:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/former-google-engineer-charged-stealing-ai-trade-secrets-chinese-startups/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/IMG_3819-800x533-1.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
     excerpt: "He also separately founded and served as chief executive of a China-based startup company that aspired to train “large AI models powered by supercomputing chips,” the indictment said. Prosecutors say Ding did not disclose either affiliation to Google ..."
     publishedDateTime: 2024-03-06T00:00:00Z

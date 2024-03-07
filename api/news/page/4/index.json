@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-04-5g-advantages-and-disadvantages-what-business-leaders-need-to-know.md",
+      "title": "5G advantages and disadvantages: What business leaders need to know",
+      "excerpt": "5G, the latest high-speed cellular network standard, is poised to transform wireless connectivity and usher in a new age of digital transformation.\nThe post 5G advantages and disadvantages: What business leaders need to know appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5g-advantages-and-disadvantages-what-business-leaders-need-to-know/",
+      "originalUrl": "https://www.ibm.com/blog/5g-advantages-and-disadvantages-what-business-leaders-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/img_8762copy_blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T16:46:58Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious.md",
+      "title": "Super Micro’s stock is a clear ‘AI winner,’ but here’s why Goldman is cautious",
+      "excerpt": "Super Micro Computer Inc. is a proven “AI winner” according to Goldman Sachs analyst Michael Ng, but that doesn’t necessarily mean you should buy the stock. With the shares up nearly 1,000% since the start of 2023, they’re “fairly valued,” in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
+      "originalUrl": "https://www.marketwatch.com/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-832221/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/super-micros-stock-is-a-clear-ai-winner-but-heres-why-goldman-is-cautious-57137f56",
+      "publishedDateTime": "2024-03-04T16:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together.md",
       "title": "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together",
       "excerpt": "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking",
@@ -1135,110 +1237,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-dysolve-using-ai-to-beat-dyslexia-through-generative-games.md",
-      "title": "Dysolve: Using AI To Beat Dyslexia Through Generative Games",
-      "excerpt": "Dysolve is the first AI computer program for dyslexia that does not use preset testing kits but instead uses AI to diagnore and treat using dynamically generated games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/",
-      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e2446ba47afbd0fd1072bc/0x0.jpg?format=jpg&crop=3840,1800,x0,y179,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
-      "publishedDateTime": "2024-03-02T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-will-ai-translation-make-learning-a-new-language-pointless-experts-weight-in-as-google-samsung-chatgpt-spur-giant-strides-in-technology.md",
-      "title": "Will AI translation make learning a new language pointless? Experts weight in as Google, Samsung, ChatGPT spur ‘giant strides’ in technology",
-      "excerpt": "When the protagonist in the British cult sci-fi novel The Hitchhiker’s Guide to the Galaxy sticks a creature called a Babel fish in his ear, it translates all alien speech for him. Can artificial intelligence (AI) give us something similar? Thanks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "originalUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/01/01858272-8262-4613-866c-c0d687f2be01_1a777b83.jpg?itok=a_pmWP6-&v=1709289565",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "publishedDateTime": "2024-03-02T11:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer
 webUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/"
 type: article
 quality: 61
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -176,6 +176,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Former Google engineer charged with stealing AI trade secrets for Chinese startups"
+    excerpt: "as well as those chips’ software. Other records contained data about the graphics cards in the company’s AI infrastructure. Ding was also charged with stealing information about Google’s cluster management system. That’s a software platform ..."
+    publishedDateTime: 2024-03-07T22:44:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/former-google-engineer-charged-stealing-ai-trade-secrets-chinese-startups/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/IMG_3819-800x533-1.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
     excerpt: "He also separately founded and served as chief executive of a China-based startup company that aspired to train “large AI models powered by supercomputing chips,” the indictment said. Prosecutors say Ding did not disclose either affiliation to Google ..."
     publishedDateTime: 2024-03-06T00:00:00Z
@@ -232,6 +246,6 @@ related:
       domain: crn.com
     quality: 7
 
-secured: "3Ggns4GcSGWSFbACZQf4N+dGcp2a8IFAyRyk37F9rouhcSMs3LijbbaUFPz0th+QpTx+2sMh7oxbdbhsSz1s2CvTDAn9UYWZnX7tD1coYed/BRq7Z883/Kalbh4q97D6NsB1JZJXh0sO9mvxIkGK3QZHC4/MjFL7TvsMvn1JuFh2P4ExEL2e5V0jF6YkkCu+zijjTmokbbFEI8TGCqV1Wr5Za98Yn5R/yH/b99Qlr/l0qFqzwnCQszLZLhRl6az+ZGteXyLBg6XFaTHWHymm1iQeA8hrpwnsB7t6LmagPD7t3APLt3wfb+PRYvrZfSNIKUBGyxPSD3cEwgxSvGb9TIljNHMkMKPwe3OLkZQk52A=;Cl4QyApvWZBp4cbIeNTWhA=="
+secured: "XW4bLyItjfHRr6yGpVGjpuoHKinoL2aGSOQAQhFZBzb8Znw1neUaIoc7IXPkoigFGw75/sw9rMcdVsr+Q5Fq45Gw+zT1JydqErQcUiWfEgWUGOaIiDp5z2OrhbbYuv2VtVV+B9kMp1lsfW24XLjaJlX/erA+xBAQWSVLILFxcH/80yQGOfwwLu31DztT4wv0FgpH1bpMxVS+CX0ozxWMmg+iWo/kBqsG858qt3XY53svSMWESZVgLIcslKnAFV0wqWJuRnKkHLwvpUKpu+iFR1LGPfbhXFAx7pVYW/GlvK7cRiQzg5apVRX/4m1O0typRMlOIg7ANh6M2wLXyBcq7Nl2fAcnTKyD9gHzOFnkLDGYUVEHejk2TbHA4G6kUOsuOM6qdL239It7JlwpGOYpQPkhg++JdUR2Cs1GJZ0iq+94F4Nd0OY2T1N+M1QjkKh+zfpWCUqZdPvo5gFLPsgFGM2Vl3qKn2RgHUVouN8BPfK5fFQk3P5hMZlR3LlSrQwqrbyYxaHXEmofYMUr4PnLjQ==;bSf3spS1TjFMNtvOmLIxZg=="
 ---
 

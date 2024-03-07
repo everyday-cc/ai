@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/gadgets/2024/03/googles-genie-model-create
 webUrl: "https://arstechnica.com/gadgets/2024/03/googles-genie-model-creates-interactive-2d-worlds-from-a-single-image/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Ars Technica
@@ -27,6 +27,17 @@ images:
     width: 760
     height: 380
     isCached: true
+
+related:
+  - title: "A Google AI Watched 30,000 Hours of Video Games—Now It Makes Its Own"
+    excerpt: "Beyond video games, Google and OpenAI seem focused on algorithms that can simulate worlds—such algorithms may be better at planning and interaction."
+    publishedDateTime: 2024-03-07T19:47:00Z
+    webUrl: "https://singularityhub.com/2024/03/07/a-google-ai-watched-30000-hours-of-video-games-now-it-makes-its-own/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 19
 
 secured: "my8V5MxOlngAgV47lreEHheQ6hkPnoYTyY3rMHA3WB6Xbni10hEVg4ozbihyZwrdMg49tzx/gTMUfv+diJMfeyB+3d4dtsbLl+gQYFGv4imxBbOiCgBdDJXmQfOb+5dxA/ESNHZ0dthahUHc4pQJ4G7lhbQB2I4BzlnlZMCEEVpa2cqKwXC4kxirY7Czls6pmxqs1O0rCocdLDkL9vC3wKsz9yl1+/68VhFONlsfxuR/ecNQsOozLmaptRs74lScX0NT8T2VlzHRrNjsf47JYuR/gKEd4RwJdBLHL6RITCwKR9U4yi4y1ZgKxwZy5QA67Cn/HWWRueOuqGLvln3wlWvyiHYer+GtxAKK+KmcmFU=;VFYZe46/Qfu+eAPCKqkrVg=="
 ---

@@ -57,6 +57,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "The Pros And Cons Of Protecting AI As Trade Secrets"
+    excerpt: "Trade secrets have become a de facto intellectual property right for securing valuable artificial intelligence information ... that information when she or he leaves the company. The Waymo LLC v. Uber Technologies Inc. litigation in the U.S. District ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-pros-and-cons-of-protecting-ai-as-3161472/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "z/a0n69I6pM5NjTIzgYNfYYE0Y1IcwMoKksZrrUUvhzqxi6QG0/JDlriFoIsw0XQCc7fubmR9CikFC+/g6XNSt+1B9Ghv3aTKVI+N1y1wAx4pGWC60Ipxsp/9xLY/MCYdHYETldtUFFfNqLjlnO7LJwao0uL20NevJ2UKVmeKux6Ym6uuZ1Z4BdNEyqfpNgruf0prffNj3smvs6bRUHm5wpRwo8o7fJHh2b3nOTXVcpENI2uQuZdquidoSnSPvCnQqzeMMpzPcE2gC9afhRAigzhO49gsm2gbvCm3bpB5eIKys0We1GYzLbz/74OqZ4JgmUdPZgEXI6qCKyH0jVHkvzc+prHCNomFr8J0TGhrcn9JsR1YlxgPVl5PYgdkmcemMqLLDZeXNsXXT2vA/eS7vD6qfbRMsVNhm4rUDgiPbhBCRzQdASx5h4mM6H4SJvD+i27t6yyYnkHx4qMEennadjyMB9Zpv2D10yG61WyWg5JSR1jesp7p6+76oX7dmBa8SPQxtBw0GUvhWWkIOGP3g==;kCb3gbHZiFcavz52ekKJJw=="
 ---

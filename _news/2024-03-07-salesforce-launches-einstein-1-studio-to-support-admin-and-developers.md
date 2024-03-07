@@ -92,6 +92,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
+  - title: "UNESCO Welcomes Salesforce to Business Council for Ethics of AI to Promote Responsible Technology"
+    excerpt: "UNESCO and Salesforce, the #1 AI CRM, have announced a new partnership to advance the responsible development and deployment of AI for the benefit of humanity."
+    publishedDateTime: 2024-03-07T21:05:00Z
+    webUrl: "https://www.unesco.org/en/articles/unesco-welcomes-salesforce-business-council-ethics-ai-promote-responsible-technology"
+    type: article
+    provider:
+      name: UNESCO
+      domain: unesco.org
+    quality: 41
+    images:
+      - url: "https://www.unesco.org/sites/default/files/styles/best_image/article/2024-03/UNESCO%20Salesforce%20partnership%20for%20Artificial%20Intelligence.png.jpg?itok=WsuZ9oJ-"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "FhYZPWm1nq2pE510uPPTZ2AjhkiLoZElqEtAZA/xLleqJEgcLtfyJ3Ph82l/T9HPNSgnGhseePJ/wyUrbTVLoTqIAfUJSK/XrN4J4gkScu7nzf9MrF8XJTPM0562k4GggNW1gLPT5+BLn3P+F+qaHf2lCANmFpIqDu7FbmUhC4Ali+4Gouw1v2UAiJ4yKM8RNH/VJsPztdnAAgK3ZAMmff/EIhnq5ad531JMJ0itIJCAO9R65iDuCF6t3/FfFZ7j46AKBNmv0uscJS7yTvsbvXlmzZy8oUxRIjhoF+Tnr7MkEC7nBz0JEl4ddWSijq0R8NFZp40AQZt4RPtSURb7sQ60YxCNHFTfhIovQbyv1CrzWP1n/FhRxVKIlt3y8UrXJ1CfZNE1T9uLN5DaPwpalrdSfF3Mb2vtRM53EBzmioxvBBPxar5Gdp8lBo5vnOn6+rHxVLGGgRkJzeeakricUYGqicbjEBXiOaRdbS8wcXPkD1E+MvQ0LRVvG2jgyN4U9QVKMQ4/0nkcy9lCF7HNFQ==;2HYXA8IONMkRsdIyvRFdqA=="
 ---

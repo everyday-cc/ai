@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-driving cars 'will be safer than cars driven by humans'"
-    excerpt: "MPs will tomorrow begin debating new laws allowing self-driving cars to operate in the UK. The Government has added a measure to the Automated Vehicles Bill which will require every driverless car to be at least as good at navigating the roads as a ..."
-    publishedDateTime: 2024-03-02T19:10:00Z
-    webUrl: "https://www.express.co.uk/news/politics/1872960/Self-driving-cars-will-be-safer-than-cars-driven-by-humans"
-    ampWebUrl: "https://www.express.co.uk/news/politics/1872960/Self-driving-cars-will-be-safer-than-cars-driven-by-humans/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1872960/Self-driving-cars-will-be-safer-than-cars-driven-by-humans/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 44
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/newsletterwidgets/2/01612364312.jpg"
-        width: 590
-        height: 271
-        isCached: true
 
 secured: "U+iBG30j9ChJ3VL0J/uBL1uoOTjq8vxgXaRwTdRf3oYLCjFcHs4vIFySfiEk8pB4751hcNuX0Qw9J9tRMNliexPbvVI8RkuQGBdNr9a2HjBb7bMMkG8zAa46b/T6gbPw484rJna6btVVbXgXURtbraGkEaMNo9xwsGmMAMJfUQ4m981ZEQYZy7+XqvC+aUYe1yVLcvxsX1CzAi5NkY1HGT7uHgaT3NqL1B8HX+Hx3Sbzk4xr+wiiZ5r3JwwFKcAwiagoEsvP1NuGhWYjiyhE0Gc89ju9jXjVgBtdcZTflgye2LQnYLHD2BgJtAf51PtZznmxNG2r/F0RIyr7k+6CD6gTVac/andTC2IW0gZWSq4=;vzanYHIXM+CImRY1/JO0GQ=="
 ---

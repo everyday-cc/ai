@@ -34,6 +34,20 @@ related:
         width: 749
         height: 420
         isCached: true
+  - title: "Microsoft’s Mistral deal beefs up Azure without spurning OpenAI"
+    excerpt: "Microsoft’s multiyear deal with French AI company Mistral signaled that the company wants longevity in the space. The company invested €2 billion ($2.1 billion) into Mistral and announced it ..."
+    publishedDateTime: 2024-03-04T17:36:00Z
+    webUrl: "https://www.theverge.com/24087008/microsoft-mistral-openai-azure-europe"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/UGvk4qajE_FgNUhysIGb1SkCVLs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft engineer warns company's AI tool creates violent, sexual images, ignores copyrights"
     excerpt: "Shane Jones, who's worked at Microsoft for six years, has found a plethora of disturbing images that are being created by the company's Copilot Designer tool."
     publishedDateTime: 2024-03-06T20:18:00Z

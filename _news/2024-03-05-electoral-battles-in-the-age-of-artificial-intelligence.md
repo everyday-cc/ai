@@ -32,6 +32,22 @@ related:
         width: 1346
         height: 900
         isCached: true
+  - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
+    excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
+    publishedDateTime: 2024-03-07T13:49:00Z
+    webUrl: "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
     excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
     publishedDateTime: 2024-03-07T12:30:00Z
@@ -145,20 +161,6 @@ related:
       name: Recycling Today
       domain: recyclingtoday.com
     quality: 46
-  - title: "Media and Artificial Intelligence"
-    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
-    publishedDateTime: 2024-03-02T21:00:00Z
-    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
-    type: article
-    provider:
-      name: standardmedia.co.ke
-      domain: standardmedia.co.ke
-    quality: 37
-    images:
-      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
     excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
     publishedDateTime: 2024-03-07T13:27:00Z

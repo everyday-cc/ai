@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: Geelong Advertiser
       domain: geelongadvertiser.com.au
     quality: 10
-  - title: "Artificial intelligence in improving infection control and responding to and preventing outbreaks"
-    excerpt: "The European Congress of Clinical Microbiology and Infectious Diseases (ECCMID 2024), scheduled to be held in Barcelona from April 27th to April 30th, will feature discussions highlighting the potential of artificial ... network graph theory and graph ..."
-    publishedDateTime: 2024-03-02T19:16:00Z
-    webUrl: "https://www.thedailystar.net/star-health/news/artificial-intelligence-improving-infection-control-and-responding-and-preventing-outbreaks-3557531"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 6
 
 secured: "bMU8N6S5CFsKY5ErF3oAW1b4AzJBYhAUzo97FJ4mR0PQHyY2jgp4gMS6Rrb1iF6RtWfQ6INApzQ8J/8ps8i5HeluMJ6vXDNXgXFZewgnln/dzr2BUGTYdhg3CFwVOe9RCWXHpXff9+RkbIDmjZcmLeTWd3Z67NIhjMgOnEFWDIuNYPVfGuudCW95NSSDdNoXeTY4o/9ihQhKt273NxwUfgYl/yfi+SLgs1qkMwNdj+F5/7rWFoXKoqFmDyWr9OSGzDzluzDANdwns3iQHgRo8StvSd/QcjOBaoQJbuLj2GBtySuov5Z0J4tBIlQgwxKAJG7idWb7LA7e+vU1YEab0K8caKdApilc1810dOyc5Fg=;3/8hF+tXyQBX24UyYLxfUw=="
 ---

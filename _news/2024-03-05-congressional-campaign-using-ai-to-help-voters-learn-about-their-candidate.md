@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/congressional-campaign
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/congressional-campaign-using-ai-to-help-voters-learn-about-their-candidate/"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Dating apps use AI to help users find their dream partner"
+    excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."
+    publishedDateTime: 2024-03-07T20:39:00Z
+    webUrl: "https://www.nbcnews.com/now/video/dating-apps-use-a-i-to-help-users-find-their-dream-partner-205672005516"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
 
 secured: "qbv5CcXTmAFdoR0pekZFayNssjSMmfjoussmaFsuTsbRh7TYCZyRqamA3IX6FP+1iY8XAM53mfOOAtdNaGFNGmMKgRGYHnyFliJDYhMFZAW92DsDMY5uds4B3x/F87ukWr/FaHA6a0tU66L3fTFAtGWv34HsOc6IdEoAE/r7qv/eouwFr9BmvC2P6ygvkPtzSBDy6FP4ejpF9S0ZcBrM1y2uFdtkYZu3jdpgMf7Tj6C8kXzJRQ00TAh1BSy3QE0nUSgF0s/EJnem3s+jbPyFqSloJYaX9IUpwBDoTYN9EPA8CdvxguQUfGDzu/UzbQXCAezOZElg8VVYnViPW+qDF0ljiSk/H417NEbGzhf7N2CXGk/Kc+KvMYZQTY1lkOLBd3AaSonBLqfL0Nt0DDm5rVhzYvCgrXagU4U5ytyg3/GdEhCvBbxXXYY3GZdkc1BvqiZhVzYXO3KSverbD9LkEXV5IKtgoKgwmqUFhDdjy2uWHLxJdmPxEx75Ok0yswGzpveiM0ajLffy/hwa0k/iiA==;0uuKRHnPbC3YiBwaFAuY9g=="
 ---

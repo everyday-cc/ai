@@ -86,6 +86,20 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Widening lead in AI memory chips"
+    excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."
+    publishedDateTime: 2024-03-07T22:11:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2024/03/08/widening-lead-in-ai-memory-chips"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/08/2581151.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Informatica Claims Data Fragmentation Is Standing in the Way of APAC Generative AI"
     excerpt: "Data management and cloud architecture have become critical to drawing value from generative AI, according to research from Informatica."
     publishedDateTime: 2024-03-06T13:59:00Z

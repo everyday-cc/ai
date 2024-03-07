@@ -2,6 +2,162 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-22-explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc.md",
+      "title": "Explore cutting-edge AI solutions with Microsoft at NVIDIA GTC",
+      "excerpt": "Join Microsoft at the NVIDIA GTC AI Conference March 18–21 at booth #1108 in San Jose, CA (or virtually) to discover how these cutting-edge Azure AI services and supercomputing infrastructure in the cloud can help power your AI transformation. \nThe post Explore cutting-edge AI solutions with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 604,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/AzureSEO-image-2.15.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows.md",
+      "title": "Almost half of adults on TikTok have never posted a video, research shows",
+      "excerpt": "Adults on TikTok lean camera-shy, a new study from Pew Research Center suggests. A survey of 2,745 adults who use TikTok revealed that 48% of respondents",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/",
+      "originalUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/amp/",
+      "publishedDateTime": "2024-02-22T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-intels-ceo-says-ai-is-the-key-to-the-companys-comeback.md",
+      "title": "Intel’s CEO Says AI Is the Key to the Company’s Comeback",
+      "excerpt": "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/",
+      "originalUrl": "https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65d679d633ef175be68cdac6/191:100/w_1280,c_limit/Pat-Glesinger-Intel-CEO-Q&A-Business-1767731700.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T16:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-justice-department-taps-former-kamala-harris-adviser-as-1st-ever-artificial-intelligence-officer.md",
       "title": "Justice Department taps former Kamala Harris adviser as 1st-ever artificial intelligence officer",
       "excerpt": "The Justice Department named its first-ever official focused on artificial intelligence (AI) on Thursday in anticipation of the rapidly evolving technology's impact on the criminal justice system.",
@@ -1113,153 +1269,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview.md",
-      "title": "Get ready for the age of sovereign AI | Jensen Huang interview",
-      "excerpt": "The AI Impact Tour – NYC We’ll be in New York on February 29 ... they would not be software-hackable and that took some time. Now the company is sampling chips to China again, within the restrictions of the government. I asked if the China market ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
-      "originalUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T08:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-google-launches-gemma-a-family-of-open-source-lightweight-ai-models-for-developers.md",
-      "title": "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers",
-      "excerpt": "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465",
-      "originalUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp",
-      "publishedDateTime": "2024-02-22T07:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-backed-by-chinese-carmaker-great-wall-haomo-raises-14m-for-autonomous-driving-tech.md",
-      "title": "Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech",
-      "excerpt": "After a few years of funding frenzy, autonomous driving companies in China are experiencing a slowdown in investment. Some companies are still hauling in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/haomo.png?w=1080",
-          "width": 1080,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "publishedDateTime": "2024-02-22T07:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
