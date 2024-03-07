@@ -2,6 +2,110 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-20-streamline-workflows-with-devops-solutions-from-github-and-azure.md",
+      "title": "Streamline workflows with DevOps solutions from GitHub and Azure",
+      "excerpt": "The joint solution of GitHub and Azure, combined with the power of Visual Studio, can create order for previously staggered workflows and delayed deployments.\nThe post Streamline workflows with DevOps solutions from GitHub and Azure appeared first on Microsoft Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB14_316903_Blog_Blogheader_240213_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology.md",
+      "title": "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology",
+      "excerpt": "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
+      "originalUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1362476720.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
+      "publishedDateTime": "2024-02-20T16:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.md",
       "title": "How to stand out from the crowd when everyone uses generative AI",
       "excerpt": "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more.",
@@ -1081,110 +1185,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-watch-out-workers-this-billionaires-ai-is-coming-for-blue-collar-jobs.md",
-      "title": "Watch Out, Workers: This Billionaire’s AI Is Coming For Blue Collar Jobs",
-      "excerpt": "John Fish built Boston’s largest construction firm, Suffolk, on the backs of laborers. Now, fighting a never-ending worker shortage, he’s betting the future is filled with hardwired hard hats and AI foremen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
-      "originalUrl": "https://www.forbes.com/sites/johnhyatt/2024/02/20/watch-out-workers-john-fish-and-his-ai-is-coming-for-blue-collar-jobs-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf6450dd61f42d45dca929/0x0.jpg?format=jpg&crop=1786,1005,x134,y75,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-inside-the-funding-frenzy-at-anthropic-one-of-ais-hottest-start-ups.md",
-      "title": "Inside the Funding Frenzy at Anthropic, One of A.I.’s Hottest Start-Ups",
-      "excerpt": "The company raised $7.3 billion over the last year, as the lure of artificial intelligence changes Silicon Valley deal-making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/00-anthropic-funding-jpvz/00-anthropic-funding-jpvz-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T10:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

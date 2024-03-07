@@ -2,6 +2,83 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-26-amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-ai-gpu-refresh-in-the-works.md",
+      "title": "AMD's next-gen MI400 AI GPU expected in 2025, MI300 AI GPU refresh in the works",
+      "excerpt": "AMD's next-gen Instinct MI400X AI accelerator expected in 2025, will compete directly against NVIDIA's next-gen Blackwell B100 AI GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96428_802_amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works_full.jpg",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T00:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation.md",
+      "title": "Artificial intelligence already plays a part in Kansas City health care, without much regulation",
+      "excerpt": "It’s an increasingly common scenario: Patients are looking to artificial intelligence for health care answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newspressnow.com/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_883e97c8-d518-11ee-beec-336eda698f20.html",
+      "originalUrl": "https://www.newspressnow.com/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_883e97c8-d518-11ee-beec-336eda698f20.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News-Press NOW",
+        "domain": "newspressnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-become-an-ft-subscriber.md",
       "title": "Become an FT subscriber",
       "excerpt": "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 $468 $279 for ...",
@@ -1145,101 +1222,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
-      "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
-      "excerpt": "in-depth research, investing resources, and more. Learn More Nvidia isn't the only artificial intelligence stock to put on your radar. Artificial intelligence (AI) is an exciting investment trend ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/24/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/24/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766347/gaming-2022.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-ai-chip-maker-nvidias-huge-rise-sparks-market-frenzy.md",
-      "title": "AI chip maker Nvidia's huge rise sparks market frenzy",
-      "excerpt": "The share price of AI chip maker Nvidia has surged 60 percent since the start of the year as the company's value crossed the $2 trillion mark today. Nvidia is now the third-largest U.S. company by market capitalization. Some analysts say they've never seen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-chip-maker-nvidia-s-huge-rise-sparks-market-frenzy-204826693867",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-chip-maker-nvidia-s-huge-rise-sparks-market-frenzy-204826693867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/1708735066005_nn_bch_nvidia_240223_1920x1080-vyqxjo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo204826693867",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204826693867",
-      "publishedDateTime": "2024-02-24T00:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

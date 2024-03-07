@@ -47,6 +47,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "AWS Exec: Demand for Nvidia Chips Will Stay High"
+    excerpt: "Nvidia’s rapid climb to become the third most valuable company has drawn comparisons to Cisco, whose success in selling routers during the dot-com boom briefly made it the world’s most valuable public company in 2000."
+    publishedDateTime: 2024-03-07T05:04:00Z
+    webUrl: "https://www.theinformation.com/articles/aws-exec-demand-for-nvidia-chips-will-stay-high"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 39
+    images:
+      - url: "https://tii.imgix.net/production/articles/12405/008465e6-1460-41e0-8712-146d00a768d9.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Dell Exec Confirms NVIDIA’s Monster Blackwell AI Accelerator Is Coming"
     excerpt: "In a statement to analysts during an investor call, Dell's COO says Blackwell will be massive when it hits next year."
     publishedDateTime: 2024-03-02T18:30:00Z

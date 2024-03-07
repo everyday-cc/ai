@@ -2,6 +2,83 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-12-08-google-deepmind-gemini-is-the-worlds-best-ai.md",
+      "title": "Google Deepmind Gemini Is the World’s Best AI",
+      "excerpt": "Google Deepmind believe that the new capabilities of Gemini models in cross-modal reasoning and language understanding will enable a wide variety of use cases and we discuss our approach toward deploying them responsibly to users. Gemini gets us closer to AGI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/12/google-deepmind-gemini-is-the-worlds-best-ai.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/12/google-deepmind-gemini-is-the-worlds-best-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/12/Screen-Shot-2023-12-08-at-12.10.56-AM.jpg",
+          "width": 1004,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T10:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-ms-driven-transparity-ai-services-promise-intelligence-over-artifice.md",
+      "title": "MS-driven Transparity AI Services promise Intelligence over Artifice",
+      "excerpt": "Using Transparity to explore AI use cases that will improve team efficiency and employee experience, BMT is now \"actively engaged in exploring bespoke AI solutions built in the Microsoft Cloud alongside Microsoft's co-pilot offerings\", says Simon Willmore, Head of Digital Strategy at BMT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ms-driven-transparity-ai-services-promise-intelligence-over-/2023/12/08/9930657.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T09:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
       "title": "AWS re:Invent 2023: 7 takeaways from the big annual event",
       "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
@@ -995,101 +1072,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-ai-horizons-ethics-risks-and-the-road-ahead.md",
-      "title": "AI Horizons: Ethics, Risks, and the Road Ahead",
-      "excerpt": "We’re at a historic inflection point in AI regulation, but from algorithmic bias to privacy issues, the ethical concerns grow. In this panel, moderated by WIRED’s Khari Johnson, we explore how tech companies and lawmakers are examining future existential risks and building safety measures in a rapidly evolving technological landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
-      "originalUrl": "https://www.wired.com/video/watch/ai-horizons-ethics-risks-and-the-road-ahead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1701968651/wired_ai-horizons-ethics-risks-and-the-road-ahead.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T17:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-say-chipmaker-maturing-fast-after-gpu-launch.md",
-      "title": "Advanced Micro Devices Projects $45B AI Chip Market In 2023: Analysts Say Chipmaker 'Maturing Fast' After GPU Launch",
-      "excerpt": "Advanced Micro Devices launches Instinct MI300X Data Center GPU targeting AI and ML workloads. AMD increases its 2027 data center accelerator TAM from around $150bn to around $400bn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/12/36142456/advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-take-a-look-at-",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/12/36142456/advanced-micro-devices-projects-45b-ai-chip-market-in-2023-analysts-take-a-look-at-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/12/07/amd-headquarters-santa-clara.site_.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36142456",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36142456",
-      "publishedDateTime": "2023-12-07T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

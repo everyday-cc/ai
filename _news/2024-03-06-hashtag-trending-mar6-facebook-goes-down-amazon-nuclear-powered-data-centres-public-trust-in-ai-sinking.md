@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Facebook head says company is building giant AI model to power all video recommendations"
-    excerpt: "Tom Alison, the head of Facebook, said on Wednesday that the company is working on a AI model to “power our entire video ecosystem.”"
-    publishedDateTime: 2024-03-06T22:00:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/?amp=1"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 50
-    images:
-      - url: "https://media.nbcmiami.com/2024/03/107279979-1690906950125-gettyimages-1569404479-Omarques_01082023_techPOL_3_of_21.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "As Facebook turns 20, news is out, fun is in"
     excerpt: "The site displayed randomly selected pairs of students’ mugshots, harvested from the university’s intranet, and allowed users to vote on who was hotter. It caused a stir and was promptly shut down. But before long, a successor was in the making. On February 4, 2004 Mr Zuckerberg launched a new site: TheFacebook.com."
     publishedDateTime: 2024-03-04T00:21:00Z

@@ -2,6 +2,110 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-12-23-apple-is-working-on-running-ai-on-iphones-and-ipads.md",
+      "title": "Apple is Working on Running AI on iPhones and iPads",
+      "excerpt": "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/apple-llm-iphone/",
+      "originalUrl": "https://www.techrepublic.com/article/apple-llm-iphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/apple-store-dec-23.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T17:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera.md",
+      "title": "Deploy foundation models with Amazon SageMaker, iterate and monitor with TruEra",
+      "excerpt": "This blog is co-written with Josh Reini, Shayak Sen and Anupam Datta from TruEra Amazon SageMaker JumpStart provides a variety of pretrained foundation models such as Llama-2 and Mistal 7B that can be quickly deployed to an endpoint. These foundation models perform well with generative tasks, from crafting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/21/truera-intro.jpg",
+          "width": 469,
+          "height": 248,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T16:42:51Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-build-generative-ai-agents-with-amazon-bedrock-amazon-dynamodb-amazon-kendra-amazon-lex-and-langchain.md",
       "title": "Build generative AI agents with Amazon Bedrock, Amazon DynamoDB, Amazon Kendra, Amazon Lex, and LangChain",
       "excerpt": "Generative AI agents are capable of producing human-like responses and engaging in natural language conversations by orchestrating a chain of calls to foundation models (FMs) and other augmenting tools based on user input. Instead of only fulfilling predefined intents through a static decision tree,",
@@ -1112,92 +1216,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go.md",
-      "title": "Humanoid robots with artificial intelligence have a long way to go",
-      "excerpt": "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T181440.060.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
-      "publishedDateTime": "2023-12-22T00:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-a-look-back-us-diplomatic-recognition-of-ukraine.md",
-      "title": "A Look Back: US Diplomatic Recognition of Ukraine",
-      "excerpt": "Former US Ambassador to Ukraine recalls the day the United States granted diplomatic recognition to independent Ukraine 32 years ago, on December 25, 1991.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wilsoncenter.org/article/look-back-us-diplomatic-recognition-ukraine",
-      "originalUrl": "https://www.wilsoncenter.org/article/look-back-us-diplomatic-recognition-ukraine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wilsoncenter.org/sites/default/files/styles/embed_text_block/public/media/uploads/images/IMG_0122.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wilson Center",
-        "domain": "wilsoncenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

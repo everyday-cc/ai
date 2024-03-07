@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
 type: article
 quality: 57
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/6/76/67693788-dc1b-11ee-b43f-7fbed9da7815/65e90d44b1d2b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Former Google Engineer Charged With Trade Secret Theft"
+    excerpt: "A former Google software engineer was charged with four counts of federal trade secret theft for an alleged plan to steal artificial intelligence technol"
+    publishedDateTime: 2024-03-07T06:53:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274148894/former-google-engineer-charged-with-trade-secret-theft"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/voa1709791599.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "NfBaUzOk/CMeIA0dnRlN81no/ww4Y2+O5P3BrHr1XNMGa5LK/O7EKoNTGWZ+z9gDrM5qRRBayW2kq2tOIT4wCKlFAjrDZgsfn3SaLXDZDGLTq1DrNWJbCNTFVXNz+veIjV3wD46xgBGNxwhcdlKbKx2c3FT6saqYxbFGQdbv1GlIBOfLsV2CWCLMWNU41RFDJuCHNIW46MNNtmusEOng28+bAEw99vBl9zmOYAlCzt/i4MnbzH7QWIMVFVLvNN0ebkXeaHjSa1TY7he/IdWeKfSZUMp00uTm4tUd+3tMRBFeNFmfnWV3qdg4MuJiSKmxmdJwAdv1CcLCI5ApKJYnmjIzOEZyeudcEIwZhBe4mYA=;/TjS6bFC2Fu6Hzx+8AEQTQ=="

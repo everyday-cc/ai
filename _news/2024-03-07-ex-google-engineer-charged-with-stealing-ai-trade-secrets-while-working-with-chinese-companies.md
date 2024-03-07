@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Google Engineer Charged With Trade Secret Theft"
+    excerpt: "A former Google software engineer was charged with four counts of federal trade secret theft for an alleged plan to steal artificial intelligence technol"
+    publishedDateTime: 2024-03-07T06:53:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274148894/former-google-engineer-charged-with-trade-secret-theft"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/voa1709791599.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "MG8kFbWhzSBs4vXp4paVtoalTbQnXnlrkATCeYQl1BZYn34bzJa08LhSqrL5Wm864mhd+AFNCem8eFFyG0mZF9l06eaL3kstuhjl2SLcS8BRRLZhhAOijI+pNJjoFwA0mvEqZ5OemPFosdjXEWMMntrElVFTFD+DMAGKIV7N3N1QaCDM+nddPYMZxbgII8kMr+X4gFZ9lM+cHkf8Sso+BpmTkjGgM8FOqo+/a9CIvwNx/csJ1/bt+QhRJW0MNNhJ6Vu1DqG7T4oH37IJ02B33TJRgh9a/IWhGXuD0Yy8fuICifYiI5v2vRSn+XW76CRll3+OR/4AFy+GOYWytjeWlvsn8QQB49dQjlUKX9dLHiA=;tLYOh2GbF+bGXou+ognlig=="
 ---

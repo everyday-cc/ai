@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "How two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design"
+    excerpt: "Bengaluru Metro's Electronics City Metro, connecting RV Road and Bommasandra, is expected to commence operations with a 15-minute frequency by December 2024."
+    publishedDateTime: 2024-03-07T01:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/how-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 62
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/03/Metro-Train-Iinspiration.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How a two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design"
     excerpt: "Bengaluru Metro's Electronics City Metro, connecting RV Road and Bommasandra, is expected to commence operations with a 15-minute frequency by December 2024."
     publishedDateTime: 2024-03-07T01:07:00Z

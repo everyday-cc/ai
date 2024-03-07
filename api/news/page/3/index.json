@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-05-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up.md",
+      "title": "AI pervades everyday life with almost no oversight. States scramble to catch up",
+      "excerpt": "While artificial intelligence made headlines with ChatGPT, behind the scenes, the technology has quietly pervaded everyday life — screening job resumes, rental apartment",
+      "sourceUrl": null,
+      "webUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
+      "originalUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2024/03/65e6ae7207fcf6.55539367.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
+      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
+      "publishedDateTime": "2024-03-05T04:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN Radio",
+        "domain": "wgnradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
+      "title": "AI trends in CRM: The future of customer relationships",
+      "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-108213040,imgsize-36082,width-1200,height=765,overlay-etbrandequity/digital/ai-trends-in-crm-the-future-of-customer-relationships.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "publishedDateTime": "2024-03-05T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-agility-robotics-new-ceo-is-focused-on-the-here-and-now.md",
       "title": "Agility Robotics’ new CEO is ‘focused on the here and now’",
       "excerpt": "Melonee Wise — who had most recently worked at Zebra after the logistics firm acquired her AMR startup ... can the robot do today to deliver value? Obviously, there’s a roadmap of features ahead that incorporate elements of AI, that incorporate ...",
@@ -53,7 +140,7 @@
       "originalUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1000,7 +1087,7 @@
       "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1144,100 +1231,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-india-reverses-ai-stance-requires-government-approval-for-model-launches.md",
-      "title": "India reverses AI stance, requires government approval for model launches",
-      "excerpt": "India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models. India's India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1096026706.jpg?resize=1200,843",
-          "width": 1200,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "publishedDateTime": "2024-03-04T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs.md",
-      "title": "Mark Cuban Says 'Tax The Robots' Amid Fears Of AI Taking Over People's Jobs",
-      "excerpt": "See Also: Elon Musk Has Gone To War With Sam Altman, But OpenAI CEO Once Thought It Would Be ‘Really Helpful’ To Ha Why It Matters: Cuban’s call for taxing robots comes amid growing concerns about the impact of artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
-      "originalUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/Mark-Cuban_4.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37448729",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37448729",
-      "publishedDateTime": "2024-03-04T03:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

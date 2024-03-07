@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "Saudi Arabia’s First Male Robot Sparks Outrage For Inappropriately Touching Female Reporter During Live Interview"
+    excerpt: "During the unveiling, Muhammad was dressed in traditional attire, wearing a white thawb and red keffiyeh. Addressing the audience fluently in Arabic, Muhammad proudly introduced himself as Saudi Arabia's first male robot, underscoring his roots and development within the kingdom as a showcase of advancements in artificial intelligence."
+    publishedDateTime: 2024-03-07T08:25:00Z
+    webUrl: "https://in.mashable.com/culture/70948/saudi-arabias-first-male-robot-sparks-outrage-for-inappropriately-touching-female-reporter-during-li"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 48
+    images:
+      - url: "https://sm.mashable.com/mashable_in/seo/default/img-1815_v5ut.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 bln"
     excerpt: "to support the growing adoption of artificial intelligence technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Advt Apple and Amazon, led by its AWS ..."
     publishedDateTime: 2024-03-05T02:28:00Z

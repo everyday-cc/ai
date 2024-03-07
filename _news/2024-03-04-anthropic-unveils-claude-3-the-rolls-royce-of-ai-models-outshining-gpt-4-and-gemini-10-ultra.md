@@ -155,6 +155,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
+    excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
+    publishedDateTime: 2024-03-05T15:12:00Z
+    webUrl: "https://nypost.com/2024/03/05/business/ai-startup-anthropic-unveils-new-chatbot-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 45
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/moynihan.png?w=400"
+        width: 400
+        height: 363
+        isCached: true
   - title: "Anthropic Launches Chatbot To Rival ChatGPT and Google Bard"
     excerpt: "Artificial Intelligence startup Anthropic has launched its most powerful generative AI as a major competitor to ChatGPT and Google Bard"
     publishedDateTime: 2024-03-04T18:23:00Z

@@ -2,6 +2,92 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-12-06-ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners.md",
+      "title": "IBM announces global Call for Code artificial intelligence hackathon winners",
+      "excerpt": "The David Clark Cause, IBM, the United Nations Human Rights Office of the Commissioner and the Linux Foundation announced the winners of the 2023 Call for Code hackathon on Dec. 6.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
+      "originalUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-driverless-cars-were-the-future-but-now-the-truth-is-out-theyre-on-the-road-to-nowhere.md",
+      "title": "Driverless cars were the future but now the truth is out: they’re on the road to nowhere",
+      "excerpt": "The dream of these vehicles ruling the roads remains just that. Focusing on public transport would be much smarter, says transport writer Christian Wolmar",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?trk=public_post_comment-text",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5291364373b5744b4612a080ab6c07e5252e7884/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0ee4f3d02bf13739c3b2f02182e21827",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport",
+      "publishedDateTime": "2023-12-06T12:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-augmenting-human-capabilities-with-ai-and-computer-vision-for-healthcare.md",
       "title": "Augmenting Human Capabilities With AI And Computer Vision For Healthcare",
       "excerpt": "AI and CV are transforming modern healthcare, making it more accessible and accurate. The healthcare industry has been applying CV since the 20th century through the use of medical imaging. However, current solutions allowed it to evolve and improve.",
@@ -1037,101 +1123,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup.md",
-      "title": "Red Hat cofounder Bob Young invests in new ‘liquid neural network’ AI startup",
-      "excerpt": "RESEARCH TRIANGLE PARK – Red Hat cofounder and Triangle tech legend Bob Young is making a new investment play, this time in artificial intelligence ... is based on what’s called a liquid neural network. Here’s how MIT describes the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
-      "originalUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/04/BobYoung_5_HR-e1555938946676.jpg",
-          "width": 2922,
-          "height": 1643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-the-best-robot-vacuums-for-2023.md",
-      "title": "The best robot vacuums for 2023",
-      "excerpt": "Just say “Alexa” or “OK, Google, ask Roomba to start cleaning,” and your S9 ... of debris before needing to be emptied, impressive AI navigation skills, and support for Alexa, Siri ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/06/eufy-robovac-g30-verge.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums/?amp",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

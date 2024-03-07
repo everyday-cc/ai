@@ -2,6 +2,91 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-12-21-reply-storm-reply-launches-rag-based-ai-chatbot-for-audi-revolutionising-internal-documentation.md",
+      "title": "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation",
+      "excerpt": "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231221707249/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231221707249/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T07:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud.md",
+      "title": "Apple wants AI to run directly on its hardware instead of in the cloud",
+      "excerpt": "Apple’s latest research about running large language models on smartphones offers the clearest signal yet that the iPhone maker plans to catch up with its Silicon Valley rivals in generative artificial intelligence. The paper, entitled “LLM in a Flash ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me",
+      "originalUrl": "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.59.20-PM-760x380.jpeg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T06:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai.md",
       "title": "The New HR Playbook: Catalyze Innovation With Analytics And AI",
       "excerpt": "Explore the exciting advancements in HR analytics powered by data and AI. Gain insights into how no-code solutions, along with metaverse and blockchain.",
@@ -1055,111 +1140,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-llama-guard-is-now-available-in-amazon-sagemaker-jumpstart.md",
-      "title": "Llama Guard is now available in Amazon SageMaker JumpStart",
-      "excerpt": "Today we are excited to announce that the Llama Guard model is now available for customers using Amazon SageMaker JumpStart. Llama Guard provides input and output safeguards in large language model (LLM) deployment. It’s one of the components under Purple Llama, Meta’s initiative featuring open trust",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/20/llama-guard-sagemaker.jpg",
-          "width": 1010,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T18:20:44Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker.md",
-      "title": "Identify cybersecurity anomalies in your Amazon Security Lake data using Amazon SageMaker",
-      "excerpt": "In this post, you learn how to prepare data sourced from Amazon Security Lake, and then train and deploy an ML model using an IP Insights algorithm in SageMaker. This model identifies anomalous network traffic or behavior which can then be composed as part of a larger end-to-end security solution.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/04/ml-14050-amazon-securitylake-sagemaker-ipinsights-architecture-906x630.png",
-          "width": 906,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T18:10:24Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Security"
       ]
     }
   ],

@@ -137,6 +137,15 @@ related:
         width: 328
         height: 328
         isCached: true
+  - title: "Hi Auto Conversational AI Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Hi Auto’s Voice AI Technology to take advantage of the scalability, reliability, and agility of Azure to shape business strategies Hi Auto ..."
+    publishedDateTime: 2024-03-04T16:19:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20240304517486/hi-auto-conversational-ai-platform-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 43
   - title: "Epiq Service Cloud Integrates With Microsoft's Gen AI Platform to Launch New Service Categories"
     excerpt: "On Tuesday, alternate legal service provider Epiq announced the expansion of its Epiq Service Cloud with three new categories of services it has been building out over the past year: professional services, Azure OpenAI Solutions and Azure OpenAI Platform."
     publishedDateTime: 2024-03-07T04:36:00Z

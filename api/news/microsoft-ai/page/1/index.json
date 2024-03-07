@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt.md",
+      "title": "Microsoft hosts ‘AI: Egypt Pathway to a New Frontier’ summit to advance AI deployment in Egypt",
+      "excerpt": "AI: Egypt Pathway to a New Frontier featured opening remarks by several esteemed dignitaries including the Honorable Herro Mustafa Garg, US Ambassador to Egypt; Dr. Rania Al-Mashat, Minister of International Cooperation; Dr. Amr Talaat, Minister of Communications and Information Technology, and renowned Egyptologist Dr. Khaled El-Anany.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
+      "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MWI5ODg1MTMtNjUzNC00/0/microsofthostsai-egyptpathwaytoanewfrontiersummittoadvanceaideploymentinegypt-jpg.jpeg?f=3%3A2",
+          "width": 898,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
+      "publishedDateTime": "2024-03-07T07:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure.md",
       "title": "6 ways generative AI helps improve accessibility for all with Azure ",
       "excerpt": "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft",
@@ -305,7 +348,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -412,7 +455,7 @@
       "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1443,58 +1486,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc.md",
-      "title": "Explore cutting-edge AI solutions with Microsoft at NVIDIA GTC",
-      "excerpt": "Join Microsoft at the NVIDIA GTC AI Conference March 18–21 at booth #1108 in San Jose, CA (or virtually) to discover how these cutting-edge Azure AI services and supercomputing infrastructure in the cloud can help power your AI transformation. \nThe post Explore cutting-edge AI solutions with Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/explore-cutting-edge-ai-solutions-with-microsoft-at-nvidia-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 604,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/AzureSEO-image-2.15.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

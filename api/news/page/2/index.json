@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
+      "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
+      "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/06/17dbafef-d2ea-4e14-9aad-c157ae6799bb_f578f2f2.jpg?itok=1P5ZJByg&v=1709694364",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T03:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit.md",
+      "title": "OpenAI ‘intend[s] to move to dismiss all’ claims of Elon Musk’s lawsuit",
+      "excerpt": "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here. OpenAI just fired back at the lawsuit filed last week by former co-founder turned rival Elon Musk over claims the company abandoned its founding principles and identity as a non-profit.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
+      "originalUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_a_silhouette_of_a_white_male_tech_founder_standing_and__17b304cf-7dea-4359-844b-82d790380910.png?fit=750%2C420&#038;strip=all",
+          "width": 749,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T02:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-the-race-for-powerful-computer-chips-and-ai-will-change-the-face-of-global-politics-and-security.md",
       "title": "The race for powerful computer chips and AI will change the face of global politics and security",
       "excerpt": "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security.",
@@ -54,7 +158,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -710,7 +814,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -1107,7 +1211,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1147,93 +1251,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up.md",
-      "title": "AI pervades everyday life with almost no oversight. States scramble to catch up",
-      "excerpt": "While artificial intelligence made headlines with ChatGPT, behind the scenes, the technology has quietly pervaded everyday life — screening job resumes, rental apartment",
-      "sourceUrl": null,
-      "webUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
-      "originalUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2024/03/65e6ae7207fcf6.55539367.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
-      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
-      "publishedDateTime": "2024-03-05T04:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN Radio",
-        "domain": "wgnradio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
-      "title": "AI trends in CRM: The future of customer relationships",
-      "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-108213040,imgsize-36082,width-1200,height=765,overlay-etbrandequity/digital/ai-trends-in-crm-the-future-of-customer-relationships.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
-      "publishedDateTime": "2024-03-05T02:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

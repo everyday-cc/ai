@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-02-ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence.md",
+      "title": "AI chip startup Groq forms new business unit, acquires Definitive Intelligence",
+      "excerpt": "Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise — and public sector. Today, Groq announced that it’s forming a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "originalUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341418748.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "publishedDateTime": "2024-03-01T17:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-why-snowflake-reeled-in-ai-hype.md",
+      "title": "Why Snowflake Reeled In AI Hype",
+      "excerpt": "“With the onslaught of generative AI, Snowflake needs a hard-driving technologist to navigate the challenges the new world represents,” said Slootman on the call. The departing CEO, who denied rumors of his potential departure last year, will remain chairman of the board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e21d7d1ef2712dca54a75e/0x0.jpg?format=jpg&crop=3998,2248,x0,y206,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/",
+      "publishedDateTime": "2024-03-01T17:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer.md",
       "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
       "excerpt": "The rise of artificial intelligence (AI) has created opportunities to improve the customer experience in the contact center space. Machine learning (ML) technologies continually improve and power the contact center customer experience by providing solutions for capabilities like self-service bots, live",
@@ -909,49 +1012,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
-      "title": "Humanoid robot-maker Figure partners with OpenAI",
-      "excerpt": "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
-      "originalUrl": "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/2/73/273a2c51-e6df-5dca-a76b-ab278f9d1e77/65e1032903339.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T23:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tdn",
-        "domain": "tdn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-01-microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai.md",
       "title": "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI",
       "excerpt": "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges.",
@@ -1057,6 +1117,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
+      "title": "Humanoid robot-maker Figure partners with OpenAI",
+      "excerpt": "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding.",
+      "sourceUrl": null,
+      "webUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
+      "originalUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T22:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Roanoke Times",
+        "domain": "roanoke.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-tech-advances-as-ai-craze-resumes-tech-roundup.md",
       "title": "Tech Advances as AI Craze Resumes -- Tech Roundup",
       "excerpt": "Nvidia shares rallied, testing all-time highs, as investors continued to pile into the high-performance chip maker on AI growth hopes. Other major AI players, including Amazon.com and Microsoft rose, too. The Securities and Exchange Commission is ...",
@@ -1157,102 +1260,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-richmond-international-airport-begins-using-facial-recognition-technology.md",
-      "title": "Richmond International Airport begins using facial recognition technology",
-      "excerpt": "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight",
-      "sourceUrl": null,
-      "webUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
-      "originalUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wric.com/wp-content/uploads/sites/74/2024/02/ric-feature-img-new-tech.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
-      "publishedDateTime": "2024-02-29T21:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRIC",
-        "domain": "wric.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker.md",
-      "title": "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker",
-      "excerpt": "OpenAI is joining Microsoft, Nvidia, and Jeff Bezos in investing in Figure, a company that's developing human-like robots to rival Tesla's Optimus project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
-      "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01FnhSXxnrPPY6kLTdhKZHF-1.fit_lim.size_1200x630.v1709238414.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T21:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

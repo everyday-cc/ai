@@ -2,6 +2,83 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2024-01-12-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition.md",
+      "title": "Robot vendor ABB adds AI-based navigation technology with latest acquisition",
+      "excerpt": "The Swiss industrial robotics vendor ABB Ltd. is continuing to grow its footprint as a provider of mobile robotic solutions, announcing today that it has acquired Sevensense, a Swiss start-up that provides AI-based navigation technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
+      "originalUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T21:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-microsofts-ai-found-a-new-material-to-replace-li-ion-batteries.md",
+      "title": "Microsoft's AI found a new material to replace li-ion batteries",
+      "excerpt": "Microsoft collaborated with the Department of Energy's Pacific Northwest National Laboratory (PNNL) to discover a novel material that could alleviate the global dependence on lithium in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
+      "originalUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
       "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
       "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
@@ -946,84 +1023,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-toyota-combines-voice-gesture-recognition-in-new-operating-system.md",
-      "title": "Toyota combines voice, gesture recognition in new operating system",
-      "excerpt": "Toyota will pair voice and gesture recognition with predictive artificial intelligence in its Arene operating system. The result will be the ability to point and ask a question and get an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
-      "originalUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T04:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
-      "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T03:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,113 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2024-01-25-from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy.md",
+      "title": "From Human Touch To Machine Learning: How Robotics Are Changing Massage Therapy",
+      "excerpt": "AI-based robots have the potential to deliver precise procedures, eliminate human errors and cut down the cost of a massage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b117ea1c46497f21155c9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "publishedDateTime": "2024-01-25T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations.md",
+      "title": "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations",
+      "excerpt": "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
+      "publishedDateTime": "2024-01-25T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-building-ai-agents-with-semantic-kernel.md",
       "title": "Building AI agents with Semantic Kernel",
       "excerpt": "How can you be sure that it remains grounded, and avoids inaccuracies and errors? One option is to work with the Prompt Flow tool in Azure AI Studio to build a test framework that evaluates the accuracy of your planners and plugins. It’s able to use a ...",
@@ -1031,110 +1138,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-apple-is-working-on-ai-models-that-can-run-on-device-rather-than-on-the-cloud.md",
-      "title": "Apple is working on AI models that can run on-device rather than on the cloud",
-      "excerpt": "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html",
-      "originalUrl": "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-16-image-19.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T18:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024.md",
-      "title": "How Blockchain And AI Are Set To Transform Small Businesses In 2024",
-      "excerpt": "Blockchain and AI integrations in SMBs were evident in 2023, and their influence has continued to spread across enterprises globally in 2024 as well. With the global business blockchain adoption rate standing at 10%, it is likely that small businesses are on their way to catch up to large conglomerates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14fe78b7bfa33c952a2b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1354,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/",
-      "publishedDateTime": "2024-01-24T17:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

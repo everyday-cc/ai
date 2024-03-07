@@ -2,6 +2,111 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-12-15-what-businesses-should-know-about-data-privacy-and-ai-younger-consumers-lead-the-way.md",
+      "title": "What Businesses Should Know About Data Privacy And AI — Younger Consumers Lead The Way",
+      "excerpt": "Artificial Intelligence (AI) is not new, but the launch of Generative AI (Gen AI) tools like ChatGPT in 2022 brought AI to millions of new users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6579e9e572d21fb9f7c932ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
+      "publishedDateTime": "2023-12-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-three-uses-for-artificial-intelligence-in-financial-services-in-2024.md",
+      "title": "Three Uses For Artificial Intelligence In Financial Services In 2024",
+      "excerpt": "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65562db3daaf3fc3487ed9b7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1354,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/three-uses-for-artificial-intelligence-in-financial-services-in-2024/amp/",
+      "publishedDateTime": "2023-12-15T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-medical-text-written-by-artificial-intelligence-outperforms-doctors.md",
       "title": "Medical Text Written By Artificial Intelligence Outperforms Doctors",
       "excerpt": "Here, I will examine their findings and discuss the impact on the future of artificial intelligence in healthcare. Rather than build an entirely new large language model from scratch, Peng and colleagues used the skeleton of ChatGPT-3. In other words ...",
@@ -1094,110 +1199,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-intel-kicks-off-the-ai-pc-era-with-core-ultra-chips.md",
-      "title": "Intel kicks off the ‘AI PC’ era with Core Ultra chips",
-      "excerpt": "Intel Core Ultra 7 165H: 16 cores/22 threads (6P/8E/2LPE) at 5.0GHz P-core Turbo; Arc GPU (8 Xe, 2.3GHz); 2X Gen3 AI Boost Intel Core Ultra 7 155H: 16 cores/22 threads (6P/8E/2LPE) at 4.8GHz P ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/2169875/intel-core-ultra-meteor-lake-ai-pc-era.html",
-      "originalUrl": "https://www.pcworld.com/article/2169875/intel-core-ultra-meteor-lake-ai-pc-era.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/12/Intel-Core-Ultra-4-5.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T21:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools.md",
-      "title": "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools",
-      "excerpt": "Amazon SageMaker Studio offers a broad set of fully managed integrated development environments (IDEs) for machine learning (ML) development, including JupyterLab, Code Editor based on Code-OSS (Visual Studio Code Open Source), and RStudio. It provides access to the most comprehensive set of tools for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/ML-16046-image001-879x630.jpg",
-          "width": 879,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T21:48:11Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

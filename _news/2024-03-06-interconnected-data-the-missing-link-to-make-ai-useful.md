@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/interconne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/06/interconnected-data-the-missing-link-to-make-ai-useful/amp/"
 type: article
 quality: 87
-heat: 91
+heat: 92
 published: true
 
 provider:

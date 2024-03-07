@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Anti-liberation forces failed to erase Bangabandhu's March 7 speech: PM"
+    excerpt: "Prime Minister Sheikh Hasina today said the international recognition of Bangabandhu's historic March 7 speech proves that history cannot be obliterated, although the anti-liberation forces tried it"
+    publishedDateTime: 2024-03-07T08:41:00Z
+    webUrl: "https://www.thedailystar.net/news/bangladesh/news/anti-liberation-forces-failed-erase-bangabandhus-march-7-speech-pm-3561026"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 19
   - title: "Bangabandhu's 7 March speech will glorify Bangalees in world: PM"
     excerpt: "Till 25 March, all the people in the country ignored Yahya's rule and obeyed Sheikh Mujib's orders precisely as he said, she stated. Bangabandhu was arrested by Pakistani authorities that night, the premier said, adding that he formally announced the Declaration of Independence before he was arrested."
     publishedDateTime: 2024-03-06T12:58:00Z

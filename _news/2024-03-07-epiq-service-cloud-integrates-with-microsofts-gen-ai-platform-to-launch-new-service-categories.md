@@ -142,6 +142,15 @@ related:
         width: 328
         height: 328
         isCached: true
+  - title: "Hi Auto Conversational AI Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Hi Auto’s Voice AI Technology to take advantage of the scalability, reliability, and agility of Azure to shape business strategies Hi Auto ..."
+    publishedDateTime: 2024-03-04T16:19:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20240304517486/hi-auto-conversational-ai-platform-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 43
   - title: "Cognizant and Microsoft Collaborate to Power the Future of Healthcare Administration with Generative AI"
     excerpt: "The TriZetto platform, powered by Azure OpenAI Service, will help payers and providers reduce hidden costs and enable better patient outcomes for millions of Americans. TEANECK, N.J., March 6, 2024"
     publishedDateTime: 2024-03-06T16:23:00Z
@@ -179,6 +188,6 @@ related:
       domain: stockhouse.com
     quality: 17
 
-secured: "TfpBiotZp3PqDVyUJsY7SlJnZREPwuKWBCmNnBkmJkQZ230cUzE8uL7wsrm39neKcDJpRtfpFgf7BD3vKzCW8gDadLhCnjCDPEfDMYT/HsVcril+Ldy5EQb/VqJsLy/DUqbTjTGVP/AXBCUUJwxxDfNpYsTtbN9yxKikcqSumTz7zE4W0Ne3Cy1L3szP/qE67Eljx638PgUybyUrgyC+ET7BiiaqroGsVvAlJJfsJ49r+F8mV7ncVLXdoRCsYUynP7D1iyDMppDcbJ+04zQyNcn/ANje8P3hUdVkJ6PBOlewxCGwVJCjcT3Cz8iVP85S03AR1fyo/aLEGnbKTiI1ZB/sR0bmG+ULwPux7yPh55A=;4t8tI2fnP4pcqsEJ4650Mg=="
+secured: "beQFUd/3KLMH8nkgy882PiOJXI/mS20oyDJpJNshGrow4GdZFTFOPMcSaj0rk8JSTC4nUV88Pmmt9UCP2suo+hNHxGTBOF8LbheASWqdgkYvrYa6DpF5ejJVR2hipOE3dDlSBD/89ae6NvxqO/UU1U88v/pLyu1zdHKc9SQn9RBfX5O+2UOef9ycfRv2PMAuwFaI7AhbVz5dRqsZJR4dT/RunU4O06AKiZ/juaWKZI2erwUzd9zOFxs90KeVoaTsV0HG6MVm8zFGhgX8FlJLuaf27BfTWk4s1ftZcj19ylERUoNg1Ihjcsj/R8C1T0dhc4knqo8zeH55//AlsxAomKuh6bh/Qj9cEcu6tgGJOvQeEQKcCG0bp71zChBPXlVV2V2f16Sydyj5bW1WM7xMnsukFLsw6/lfJZPp579MEbg3ok0RCH24mhlbdLsvfQdBfdqRrAkIXlUY0Rhyqw4Z8xpknOot+nmXIg4OCvCOTdBx6qgGHxhJLLYMe8K0zwL1dRCCQA8OjiQlqCBSBnoyyQ==;FKlf5qAEWxMjns59dGZOeQ=="
 ---
 

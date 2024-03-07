@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-cent
 webUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2019_17_54_20_6413942.jpg?width=1280"
         width: 1280
         height: 854
+        isCached: true
+  - title: "Saudi Arabia’s First Male Robot Sparks Outrage For Inappropriately Touching Female Reporter During Live Interview"
+    excerpt: "During the unveiling, Muhammad was dressed in traditional attire, wearing a white thawb and red keffiyeh. Addressing the audience fluently in Arabic, Muhammad proudly introduced himself as Saudi Arabia's first male robot, underscoring his roots and development within the kingdom as a showcase of advancements in artificial intelligence."
+    publishedDateTime: 2024-03-07T08:25:00Z
+    webUrl: "https://in.mashable.com/culture/70948/saudi-arabias-first-male-robot-sparks-outrage-for-inappropriately-touching-female-reporter-during-li"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 48
+    images:
+      - url: "https://sm.mashable.com/mashable_in/seo/default/img-1815_v5ut.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AWS to launch an infrastructure region in the Kingdom of Saudi Arabia"
     excerpt: "AWS Region will enable customers to run workloads and securely store customer content in the Kingdom of Saudi Arabia while serving end users with even lower latency. Amazon Web Services (AWS), an Amazon."

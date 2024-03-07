@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-07-microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt.md",
+      "title": "Microsoft hosts ‘AI: Egypt Pathway to a New Frontier’ summit to advance AI deployment in Egypt",
+      "excerpt": "AI: Egypt Pathway to a New Frontier featured opening remarks by several esteemed dignitaries including the Honorable Herro Mustafa Garg, US Ambassador to Egypt; Dr. Rania Al-Mashat, Minister of International Cooperation; Dr. Amr Talaat, Minister of Communications and Information Technology, and renowned Egyptologist Dr. Khaled El-Anany.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
+      "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MWI5ODg1MTMtNjUzNC00/0/microsofthostsai-egyptpathwaytoanewfrontiersummittoadvanceaideploymentinegypt-jpg.jpeg?f=3%3A2",
+          "width": 898,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
+      "publishedDateTime": "2024-03-07T07:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-facebook-soon-to-have-fully-ai-powered-video-recommendation-algorithm-meta-confirms.md",
       "title": "Facebook Soon to Have Fully AI-Powered Video Recommendation Algorithm, Meta Confirms",
       "excerpt": "Facebook's Head, Tom Alison, has announced that the platform's video recommendation system will soon be AI-powered.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -53,7 +96,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-68497508.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -87,21 +130,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design.md",
-      "title": "How a two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design",
+      "path": "_news/2024-03-07-how-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design.md",
+      "title": "How two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design",
       "excerpt": "Bengaluru Metro's Electronics City Metro, connecting RV Road and Bommasandra, is expected to commence operations with a 15-minute frequency by December 2024.",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html",
+      "webUrl": "https://www.moneycontrol.com/news/technology/how-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/how-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/03/EC1-435x435.jpg",
-          "width": 435,
-          "height": 435,
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/03/Metro-Train-Iinspiration.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -231,6 +274,57 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-meta-is-building-a-giant-ai-model-to-power-its-entire-video-ecosystem-exec-says.md",
+      "title": "Meta is building a giant AI model to power its 'entire video ecosystem,' exec says",
+      "excerpt": "Tom Alison, the head of Facebook, said on Wednesday that the company is working on an artificial intelligence model to \"power our entire video ecosystem.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
+      "originalUrl": "https://www.cnbc.com/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107279979-1690906950125-gettyimages-1569404479-Omarques_01082023_techPOL_3_of_21.jpeg?v=1709761960",
+          "width": 5000,
+          "height": 3327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
+      "publishedDateTime": "2024-03-06T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -916,7 +1010,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/interconnected-data-the-missing-link-to-make-ai-useful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1104,110 +1198,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
-      "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
-      "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/06/17dbafef-d2ea-4e14-9aad-c157ae6799bb_f578f2f2.jpg?itok=1P5ZJByg&v=1709694364",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T03:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit.md",
-      "title": "OpenAI ‘intend[s] to move to dismiss all’ claims of Elon Musk’s lawsuit",
-      "excerpt": "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here. OpenAI just fired back at the lawsuit filed last week by former co-founder turned rival Elon Musk over claims the company abandoned its founding principles and identity as a non-profit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
-      "originalUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_a_silhouette_of_a_white_male_tech_founder_standing_and__17b304cf-7dea-4359-844b-82d790380910.png?fit=750%2C420&#038;strip=all",
-          "width": 749,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],
