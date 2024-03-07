@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pand
 webUrl: "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

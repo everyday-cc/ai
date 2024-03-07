@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/facebook-head-sa
 cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/facebook-head-says-company-is-building-giant-ai-model-to-power-all-video-recommendations/3251893/?amp=1"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC 6 South Florida
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Soon to Have Fully AI-Powered Video Recommendation Algorithm, Meta Confirms"
+    excerpt: "Facebook's Head, Tom Alison, has announced that the platform's video recommendation system will soon be AI-powered."
+    publishedDateTime: 2024-03-07T03:09:00Z
+    webUrl: "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 52
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444283/meta-is-removing-facebook-news-tab-in-us-australia.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Hashtag Trending Mar.6- Facebook goes down; Amazon nuclear-powered data centres; Public trust in AI sinking"
     excerpt: "Imagine a world without Facebook. For just half an hour. A group of AI leaders get together but don’t seem to invite Elon Musk. Amazon takes data centres nuclear. A new competitor for ChatGPT and Google."
     publishedDateTime: 2024-03-06T09:00:00Z

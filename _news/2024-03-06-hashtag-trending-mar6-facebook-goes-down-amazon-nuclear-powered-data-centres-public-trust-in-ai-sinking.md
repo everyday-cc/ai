@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Soon to Have Fully AI-Powered Video Recommendation Algorithm, Meta Confirms"
+    excerpt: "Facebook's Head, Tom Alison, has announced that the platform's video recommendation system will soon be AI-powered."
+    publishedDateTime: 2024-03-07T03:09:00Z
+    webUrl: "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 52
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444283/meta-is-removing-facebook-news-tab-in-us-australia.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Facebook head says company is building giant AI model to power all video recommendations"
     excerpt: "Tom Alison, the head of Facebook, said on Wednesday that the company is working on a AI model to “power our entire video ecosystem.”"
     publishedDateTime: 2024-03-06T22:00:00Z

@@ -44,7 +44,7 @@ related:
   - title: "Weights & Biases Achieves the AWS Generative AI Competency"
     excerpt: "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications."
     publishedDateTime: 2024-03-06T18:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-weights-biases-achieves-aws-generative-ai-competency-/2024/03/06/9974204.htm"
     type: article
     provider:
       name: TMCnet

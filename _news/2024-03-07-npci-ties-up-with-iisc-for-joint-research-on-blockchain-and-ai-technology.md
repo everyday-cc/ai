@@ -35,6 +35,15 @@ related:
         width: 6285
         height: 4190
         isCached: true
+  - title: "French Startup Raises $73 Million for Blockchain, AI Privacy"
+    excerpt: "Paris-based startup Zama has raised $73 million to further develop its cryptography technology aimed at enhancing data privacy for both blockchain and artificial-intelligence projects."
+    publishedDateTime: 2024-03-07T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-07/french-startup-raises-73-million-for-blockchain-ai-privacy"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "NPCI and IISc Collaborate on Blockchain and AI Research"
     excerpt: "The collaboration aims to harness the immense potential of deep technologies like blockchain and AI to enhance the landscape of digital ... blockchain platforms and multi-modal analytics over fintech data. Faculty members from five departments at IISc ..."
     publishedDateTime: 2024-03-06T10:05:00Z
@@ -113,6 +122,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
+    excerpt: "The collaboration includes the establishment of NPCI-IISc Centre of Excellence for Deep Tech Research & Development. It focuses on scalable blockchain platforms, multi-modal analytics, neural networks,"
+    publishedDateTime: 2024-03-07T05:27:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech/108286817"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108286817,imgsize-9466,width-1200,height=765,overlay-etcio/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
     excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
     publishedDateTime: 2024-03-05T08:00:00Z

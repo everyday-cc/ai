@@ -39,6 +39,15 @@ related:
         width: 6285
         height: 4190
         isCached: true
+  - title: "French Startup Raises $73 Million for Blockchain, AI Privacy"
+    excerpt: "Paris-based startup Zama has raised $73 million to further develop its cryptography technology aimed at enhancing data privacy for both blockchain and artificial-intelligence projects."
+    publishedDateTime: 2024-03-07T05:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-07/french-startup-raises-73-million-for-blockchain-ai-privacy"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "NPCI, IISc join hands to conduct joint research on blockchain, AI"
     excerpt: "National Payments Corporation of India (NPCI) on Wednesday announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru,"
     publishedDateTime: 2024-03-06T10:22:00Z
@@ -103,6 +112,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
+    excerpt: "The collaboration includes the establishment of NPCI-IISc Centre of Excellence for Deep Tech Research & Development. It focuses on scalable blockchain platforms, multi-modal analytics, neural networks,"
+    publishedDateTime: 2024-03-07T05:27:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech/108286817"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108286817,imgsize-9466,width-1200,height=765,overlay-etcio/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "NPCI ties up with IISc for joint research on blockchain and AI technology"
     excerpt: "National Payments Corporation of India (NPCI) has announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru, for conducting joint research on Blockchain and Artificial Intelligence (AI) technology."
     publishedDateTime: 2024-03-06T16:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
 type: article
 quality: 95
-heat: 115
+heat: 117
 published: true
 
 provider:

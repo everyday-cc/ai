@@ -3,10 +3,10 @@ category: news
 title: "Compass UOL Achieves the AWS Generative AI Competency"
 excerpt: "Achieving the AWS Generative AI Competency differentiates Compass UOL as an AWS Partner that has demonstrated technical proficiency and proven customer success in solving optimization and efficiency challenges in business processes and driving automation and intelligence across the entire customer operational journey."
 publishedDateTime: 2024-03-06T14:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-compass-uol-achieves-aws-generative-ai-competency-/2024/03/06/9974035.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-compass-uol-achieves-aws-generative-ai-competency-/2024/03/06/9974035.htm"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Rackspace Technology Achieves the AWS Generative AI Competency"
@@ -43,6 +49,6 @@ related:
         height: 7200
         isCached: true
 
-secured: "bx7ALZHsX/1sQWjIqNc1NPl1coYFjyGIUvaYZRHW/Cm/ZW3oTPmTGmUOOlNt+fZaeu9bxA/xl7z+LxHQrzBlgjQq9T+6ovl71RvMN0Z931cq+KbmF9aU83UwwCKhV734nakZue1LX95P5gRwLtsMYo9ON2fAQXYzahW++zveq2OqSEE/xgixjJBeEsqJ16YmsylZuZzdSodlUDiyiW+UDFZq4T7Et9LyGxiqeFKBm39dkQ0ozA5eVtm+XoNO+SllYdE0iuvsvg132YHAK4EnPRUryzOu0b01akhkW3rO0Kzn5ph1FcmQcGfDa+RYF1RTX0IKjRBmg4hR/67O28Ym96QjwBZu4qRTPxCauZmeGV0=;Xtm5stnWUVwPe8Fa4cVC1A=="
+secured: "mLcz2G2CStNELpyzv6z8VKOpxgI9fXwi7o7nM2dwMYyqWwAzcM6tVNNYMrUTnoDIRGEDU6JgJ86R0zWIFAl3i/D+6MHXH/w/JrDmccdVe7Y3PB8xJsmBW+B3McQZH69oXwv+Z1f20rwXTulmB9JAjUPup7LJba8JSDsxWb65c8hyhtdJueCn9XdTZhviwZLunjvmomtHiGgN9a3xn3leg64HmPifc4xCEWkzmkqjitlO0trt1UQX4hqQqDhqqnlnK1m24UIK1FHBXWDy3820Bk2NpG2gMFvKPhQUXCdG6ewQy2KsCHJX6X9T9lX+5exRKwNp80HMHUHVPF3XfYhane2yuUV/MTqk4f+ea8SEiPM=;KlhtZaGxzGdZc3E8UNhIXA=="
 ---
 

@@ -1,0 +1,154 @@
+---
+category: news
+title: "French Startup Raises $73 Million for Blockchain, AI Privacy"
+excerpt: "Paris-based startup Zama has raised $73 million to further develop its cryptography technology aimed at enhancing data privacy for both blockchain and artificial-intelligence projects."
+publishedDateTime: 2024-03-07T05:00:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2024-03-07/french-startup-raises-73-million-for-blockchain-ai-privacy"
+webUrl: "https://www.bloomberg.com/news/articles/2024-03-07/french-startup-raises-73-million-for-blockchain-ai-privacy"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round"
+    excerpt: "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ..."
+    publishedDateTime: 2024-03-05T15:02:00Z
+    webUrl: "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg"
+        width: 6285
+        height: 4190
+        isCached: true
+  - title: "NPCI and IISc Collaborate on Blockchain and AI Research"
+    excerpt: "The collaboration aims to harness the immense potential of deep technologies like blockchain and AI to enhance the landscape of digital ... blockchain platforms and multi-modal analytics over fintech data. Faculty members from five departments at IISc ..."
+    publishedDateTime: 2024-03-06T10:05:00Z
+    webUrl: "https://www.siliconindia.com/news/general/npci-and-iisc-collaborate-on-blockchain-and-ai-research-nid-228285-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/StVYZKgl.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "NPCI, IISc join hands to conduct joint research on blockchain, AI"
+    excerpt: "National Payments Corporation of India (NPCI) on Wednesday announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru,"
+    publishedDateTime: 2024-03-06T10:22:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/npci-iisc-join-hands-to-conduct-joint-research-on-blockchain-ai-863015"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/03/06/1427979-npci.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "NPCI Inks Pact With IISc To Conduct Research On AI, Blockchain"
+    excerpt: "NPCI's pact with Indian Institute of Science (IISc) will propel further innovation through the establishment of the a Centre of Excellence"
+    publishedDateTime: 2024-03-06T09:47:00Z
+    webUrl: "https://inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/"
+    ampWebUrl: "https://inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
+  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
+    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
+    publishedDateTime: 2024-03-06T07:08:00Z
+    webUrl: "https://yourstory.com/2024/03/npci-joins-hands-iisc-joint-research-blockchain-ai-tech"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/98e25df018b511e988ceff9061f4e5e7/Image21vt-1687328418129.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "NPCI Joins Hands With IISc For Joint Research On Blockchain, AI"
+    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
+    publishedDateTime: 2024-03-06T07:08:00Z
+    webUrl: "https://www.ndtvprofit.com/technology/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 39
+    images:
+      - url: "https://media.assettype.com/bloombergquint%2F2023-09%2F79a21d8a-fce8-41fc-83b5-5d03a11a9220%2FF5P4iQzbQAA51CA.jpg?rect=0%2C115%2C1024%2C538&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "NPCI joins hands with IISc to conduct joint research on blockchain, AI"
+    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement"
+    publishedDateTime: 2024-03-06T09:05:00Z
+    webUrl: "https://www.business-standard.com/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
+    excerpt: "The collaboration includes the establishment of NPCI-IISc Centre of Excellence for Deep Tech Research & Development. It focuses on scalable blockchain platforms, multi-modal analytics, neural networks,"
+    publishedDateTime: 2024-03-07T05:27:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech/108286817"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108286817,imgsize-9466,width-1200,height=765,overlay-etcio/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "NPCI ties up with IISc for joint research on blockchain and AI technology"
+    excerpt: "National Payments Corporation of India (NPCI) has announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru, for conducting joint research on Blockchain and Artificial Intelligence (AI) technology."
+    publishedDateTime: 2024-03-06T16:26:00Z
+    webUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece"
+    ampWebUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 38
+  - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
+    excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
+    publishedDateTime: 2024-03-05T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/sahara-raises-6-million-seed-round-to-democratize-global-knowledge-capital-access-through-ai-and-blockchain-technologies-led-by-polychain-capital-1033133215"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
+
+secured: "7loKd4n77b6y6BtJgnAylZpX8dKDPldKOJKwKQui2oJcy6gX+hfU2ZgMhQo0pWsx8EqYDD/8R/A6wEJ8kBD6c8jdQcRjVHOgfvdNGDlpXNwJbLOa5dyADC0HAggft1aCICvSzTbsEhhQ2fE/Tlv1kwB0v3MOhXjKMO8g2IcQvnG3RizjZblNzAVu2rFahyM5Z4eppzfAYj43/BGSMX3DbhRxXUXUBdm1mVSmIMmQ2tnPzTJ5qXk/OD716BH9riHduaolo9G508pp7yJKh2rS7++YIYx6z6psWzNdz9uRhNHb1ytr6HxiYawciaDyXIEAQP79UZBaWuaGi/h2FHVVVD9ZBcR5816EC3AeIoC8mbsQCJ+505rt2FIMs0SOuojDTd+XkwPcZV+jkukPr+kIGlSGs7/ET5dbTHXgbxMsE4+b9iCnsyb8kLm6iKg1kCBONWgGZ4tR+1D9N79pH9q1sQF923X9w7o+fuGfhiGEpIS1WV1eoSRBPDpdm8OPmYFi6de1Bhv2H7cnxTUYunjzBw==;Tm6OihNOVapxy8ovv4mzBw=="
+---
+

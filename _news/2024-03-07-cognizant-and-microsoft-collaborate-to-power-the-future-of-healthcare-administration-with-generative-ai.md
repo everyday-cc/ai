@@ -137,6 +137,20 @@ related:
         width: 328
         height: 328
         isCached: true
+  - title: "Epiq Service Cloud Integrates With Microsoft's Gen AI Platform to Launch New Service Categories"
+    excerpt: "On Tuesday, alternate legal service provider Epiq announced the expansion of its Epiq Service Cloud with three new categories of services it has been building out over the past year: professional services, Azure OpenAI Solutions and Azure OpenAI Platform."
+    publishedDateTime: 2024-03-07T04:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/03/05/epiq-service-cloud-integrates-with-microsofts-ai-suite-to-launch-three-ai-pillars/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 42
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/12/Epiq_Logo_Update-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Why Claude 3 Is Bad News for Microsoft Azure"
     excerpt: "Now, AWS and Google Cloud’s generative AI pal and OpenAI’s rival, Anthropic, might have brought them back into the game. The company recently released the Claude 3 model family, which comprises Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus."
     publishedDateTime: 2024-03-06T12:56:00Z

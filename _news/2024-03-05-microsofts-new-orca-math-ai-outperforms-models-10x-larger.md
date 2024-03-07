@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms
 webUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/"
 type: article
 quality: 103
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2024/02/Peter_Lee-328x328.jpg"
         width: 328
         height: 328
+        isCached: true
+  - title: "Epiq Service Cloud Integrates With Microsoft's Gen AI Platform to Launch New Service Categories"
+    excerpt: "On Tuesday, alternate legal service provider Epiq announced the expansion of its Epiq Service Cloud with three new categories of services it has been building out over the past year: professional services, Azure OpenAI Solutions and Azure OpenAI Platform."
+    publishedDateTime: 2024-03-07T04:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/03/05/epiq-service-cloud-integrates-with-microsofts-ai-suite-to-launch-three-ai-pillars/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 42
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/12/Epiq_Logo_Update-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Cognizant and Microsoft Collaborate to Power the Future of Healthcare Administration with Generative AI"
     excerpt: "The TriZetto platform, powered by Azure OpenAI Service, will help payers and providers reduce hidden costs and enable better patient outcomes for millions of Americans. TEANECK, N.J., March 6, 2024"

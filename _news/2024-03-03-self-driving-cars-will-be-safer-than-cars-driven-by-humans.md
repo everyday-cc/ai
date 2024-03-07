@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Apple is not the only company backing away from driverless cars"
+    excerpt: "In some regards, Apple had the right idea. The market for EVs has ballooned since its project began and self-driving vehicles are now on the streets. With over $155bn in cash at the plan’s inception, Apple had the funds and reputation to pose a credible threat to the car industry."
+    publishedDateTime: 2024-03-07T05:00:00Z
+    webUrl: "https://www.ft.com/content/0ccd1769-51dd-4fa8-b4ed-3f0548d7a425"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "fqPGptl+bSR3MCEFmdTAw28dK2Dl7kErcv+4U5xZz3kKTrC7fQCXQN1Jd3yi5A/6KhHpSkxOAV3p6rlgX3kLiW1JB0v1dzM8gfxI7RXIKbaBfCRlfy7DuArQ9lZhG7Bv3IXcAYNELejv4q+vyeWeHUokb6+Njwx8FPtPE6y/f6smZ3Jk9gnQw2sS63DgqMBUkX8DnKxEKY4BaZVGdzfQF5TKx27o06kfeVAGAZWpKlgVEqfesFN909fB7QY4vFx4/c/NgQ5xCXCdEBYsbdriZ1gpa1vpFSCksNAaZ711/WoYNhTxNBt5oxb7k6tlUS9Y4bGitiWtJP7tX/ti/94YO/hXJHgR2g8bfmoYk2KOpuHV3zpQ0Pkxlm5TLMl9kQG+8KtLdAnKI7AV8y+w05bn4drO8ylxvPxDi6frVUnQXW4mvQZeEfGMGY5u2J2UyBlHGMXZ59MrNGq6rrXTZKapJkw/6Uuram5R3OG8d7eiB7yJE0bZuSL6YlB934Ea/Ge7lW+HbW2XCq2kK/gKqruHgw==;/jYG66fsPg7EPAvKxco7+Q=="
 ---
