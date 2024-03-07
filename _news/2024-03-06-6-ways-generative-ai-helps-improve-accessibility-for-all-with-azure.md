@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-
 webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://www.forbesindia.com/media/images/2024/Mar/img_229855_mohammedrafeetarafdar.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "AWS Unveils Generative AI Competency for Customers"
+    excerpt: "The program is designed to facilitate customer innovation with enterprise-grade security, privacy, foundation models, and high-performance, low-cost infrastructure."
+    publishedDateTime: 2024-03-07T12:11:00Z
+    webUrl: "https://analyticsindiamag.com/aws-unveils-generative-ai-competency-for-customers/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/1-How-Amazons-Silicon-Innovation-Is-Instrumental-in-AWS-Success-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
     excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."

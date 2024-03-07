@@ -75,6 +75,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AWS Unveils Generative AI Competency for Customers"
+    excerpt: "The program is designed to facilitate customer innovation with enterprise-grade security, privacy, foundation models, and high-performance, low-cost infrastructure."
+    publishedDateTime: 2024-03-07T12:11:00Z
+    webUrl: "https://analyticsindiamag.com/aws-unveils-generative-ai-competency-for-customers/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/1-How-Amazons-Silicon-Innovation-Is-Instrumental-in-AWS-Success-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "What Comes Next For Banks With Generative AI"
     excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
     publishedDateTime: 2024-03-04T13:00:00Z

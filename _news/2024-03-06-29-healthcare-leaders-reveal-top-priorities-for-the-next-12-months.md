@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/hit-speaker-series-q-a/29-he
 webUrl: "https://www.beckershospitalreview.com/hit-speaker-series-q-a/29-healthcare-leaders-reveal-top-priorities-for-the-next-12-months.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,43 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare: New Avenues for Liability"
-    excerpt: "Artificial Intelligence (AI), specifically generative AI technologies, hold significant promise for improving the healthcare industry by streamlining clinical operations, freeing service providers from mundane tasks, and diagnosing life-threatening diseases."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "The potential effects of AI healthcare"
-    excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
-    publishedDateTime: 2024-03-07T10:58:00Z
-    webUrl: "https://technology.inquirer.net/132544/ai-healthcare-impacts"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 54
-    images:
-      - url: "https://technology.inquirer.net/files/2024/02/ai-healthcare-potential-effects.png.jpg"
-        width: 1570
-        height: 884
-        isCached: true
-  - title: "AI Model Maps Medical Diagnoses, Boosting Transparency in Healthcare"
-    excerpt: "bridging the understanding gap and improving healthcare delivery. Medical diagnostics expert, doctor’s assistant, and cartographer are all fair titles for an artificial intelligence model developed by researchers at the Beckman Institute for Advanced ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.labmanager.com/ai-model-maps-medical-diagnoses-boosting-transparency-in-healthcare-31884"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
   - title: "Healthee Raises $32M for its AI-Powered Health Benefits Naviation and Management Platform"
     excerpt: "Healthee offers a groundbreaking digital health platform, powered by AI. It simplifies healthcare consumerism by providing streamlined access to health and wellness benefits. Zoe, the built in digital benefits expert, assists in navigating healthcare benefits, finding affordable care, and optimizing choices, particularly during Open Enrollment."
     publishedDateTime: 2024-03-05T14:32:00Z

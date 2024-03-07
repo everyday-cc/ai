@@ -86,20 +86,6 @@ related:
         width: 1201
         height: 900
         isCached: true
-  - title: "Navigating the Ethical Horizon: My Exploration into the Realm of Ethical AI in Healthcare"
-    excerpt: "As I stepped into the intriguing realm of ethical AI in healthcare, I found myself on a transformative path illuminated by the burgeoning potential of healthcare generative AI. The field, a promising convergence of artificial intelligence (AI) and ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2024/03/05/458882-navigating-ethical-horizon-my-exploration-into-realm-ethical.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 62
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-mar/8364476476-ai90.jpg"
-        width: 1469
-        height: 980
-        isCached: true
   - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
     excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
     publishedDateTime: 2024-03-02T14:29:00Z

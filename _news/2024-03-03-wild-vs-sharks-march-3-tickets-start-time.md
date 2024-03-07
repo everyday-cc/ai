@@ -7,7 +7,7 @@ originalUrl: "https://www.valleynewslive.com/sports/betting/2024/03/03/wild-vs-s
 webUrl: "https://www.valleynewslive.com/sports/betting/2024/03/03/wild-vs-sharks-buy-nhl-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "FGCU vs. Queens ASUN Tournament Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 7 seed Florida Gulf Coast Eagles (14-17, 8-8 ASUN) will hit the court in the ASUN tournament against the No. 8 seed Queens Royals (13-18, 7-9 ASUN), Monday at 7:00 PM ET live on ESPN+. Watch college basketball ..."
-    publishedDateTime: 2024-03-02T11:51:00Z
-    webUrl: "https://www.wjhg.com/sports/betting/2024/03/04/fgcu-vs-queens-buy-asun-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WJHG
-      domain: wjhg.com
-    quality: 22
-    images:
-      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/5WZRJUGLJBJUPFEHA6PJAYZ7AY.jpg?auth=565122e7465b0fe671137a683f6e2279cced7a984e226f20f23f8b17fbf5674a&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Texas State vs. Old Dominion Sun Belt Tournament Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 11 seed Texas State Bobcats (14-17, 7-11 Sun Belt) and the No. 14 seed Old Dominion Monarchs (7-24, 3-15 Sun Belt) will look to advance in the Sun Belt tournament on Tuesday as they square off at 8:30 PM ET."
-    publishedDateTime: 2024-03-02T11:50:00Z
-    webUrl: "https://www.kcbd.com/sports/betting/2024/03/05/texas-state-vs-old-dominion-buy-sun-belt-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KCBD
-      domain: kcbd.com
-    quality: 22
-    images:
-      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/NJKI5TSKJ5P53EIIQ4FXU6IEXM.jpg?auth=d8ca27b0a01ae821ea304b17d4aeee8d22838240a8d756eb06cdd69a90463d58&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Blackhawks vs. Avalanche March 4 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Colorado Avalanche's Cale Makar and the Chicago Blackhawks' Jason Dickinson will be two of the best players to keep an eye on when these teams meet on Monday at 9:00 PM ET, at Ball Arena. Connor Bedard's 17 goals and ..."
     publishedDateTime: 2024-03-03T22:00:00Z

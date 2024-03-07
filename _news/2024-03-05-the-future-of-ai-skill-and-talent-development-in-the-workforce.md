@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Eye On AI: Oh The Humanity — Everybody’s In A Rush To Reassure AI Development Will Help Us"
+    excerpt: "The big AI news this week is Elon Musk’s lawsuit against OpenAI and its executives — including co-founder and CEO Sam Altman — claiming breach of OpenAI’s founding agreement."
+    publishedDateTime: 2024-03-07T12:00:00Z
+    webUrl: "https://news.crunchbase.com/ai/musk-openai-lawsuit-altman-msft/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 27
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Interdisciplinary degree takes aim at artificial intelligence skills shortage in the workforce"
     excerpt: "Applications are open for Purdue University’s new 100% online Master of Science in artificial intelligence degree, which features two majors, one for people who build AI systems and one for people who make use of them."
     publishedDateTime: 2024-03-04T14:56:00Z

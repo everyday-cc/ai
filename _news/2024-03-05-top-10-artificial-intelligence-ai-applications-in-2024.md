@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
-    excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://semiengineering.com/ai-performance-and-real-time-control-in-robotics-and-autonomous-applications/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 68
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-Performance-Realtime-Control-Robotics-fig1.jpg?fit=575%2C504&ssl=1"
-        width: 575
-        height: 504
-        isCached: true
   - title: "Cloudflare announces Firewall for AI to secure AI applications"
     excerpt: "“With Cloudflare’s Firewall for AI, we are helping build security into the AI landscape from the start. We will provide one of the first-ever shields for AI models that will allow businesses to take advantage of the opportunity that the technology ..."
     publishedDateTime: 2024-03-04T17:37:00Z
@@ -101,6 +87,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 17
+  - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
+    excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
+    publishedDateTime: 2024-03-07T11:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974513.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "cB8y+JxNd+Ye8rQIy6yCPwpwscw+MJjQy76SDn6MtH4tZ4wQrVz7Fge+MKAMgLaoLW2BnrwxH3JpUx98An9nsGEsLjt+KxMyeNX7lcBnHYRWa8hEEMGp6wxWZXtGnFq5eEdLFqj4seqie62kzimW6Rwy0eCPRPqiptzu5adPe2CkiT+BGEhtRpFXPz/ql8ppq0ng5VHsK645iRwxdl224ldWhorOKmDvng/CxITqaLAM4B2YoLD9CddMySE0IYtcoyCf2Qp6ZwFBAgeND8PIMrGXMVHPcR2yP4GwTHi2wfrJKvGku8ckQm/c1br/8rp8TnhsIe/22f+Pg7dK9TId5zlzqcxiwZlO90514xJ9l8qA5dS0y52ivyrEDOa6xqfXYVT1fM4QQBtbKIwWBdLSSD1RdmUr7k/XxvZ63DZWguOjxX2fjzWkHoiyD/06pFZkFK9bT1OO7kzWzj40drW1nhIeOopzTmVPUAEEFlLWIKAf0PIWgVXZJCKu6lT8B+Ji2Wi2rsYFh5VL0AK6bLml4A==;FqM1ZbwVqfyoH1f5wrHAVw=="
 ---

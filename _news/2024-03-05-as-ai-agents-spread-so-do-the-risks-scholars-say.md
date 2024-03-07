@@ -57,20 +57,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Media and Artificial Intelligence"
-    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
-    publishedDateTime: 2024-03-02T21:00:00Z
-    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
-    type: article
-    provider:
-      name: standardmedia.co.ke
-      domain: standardmedia.co.ke
-    quality: 37
-    images:
-      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "8ufZwHMwuHNamQ0IHWTjTSY/I/1WVpiLHlawgb+Oa3AVTe/BmCoBCu+HACC6f7jEbdA/QquyQ4MG7/d7tbOxUA2u1o/XTD3/jtWzQOHpaQSNaOyYq1iTKgH0XhAtrp9GtpG04hLoyeK0U4PhzLljkINgHA9izgn2XY2uzgp6ADoLQtFI+yT27cPovS26I3t0gY1WlIeucDyJ4Tx3+pam1DWd6rIcF1JEzf4VkKg/xG8ahNC6lppvS3KaePb+uPoqyOoxG6ecjPFvFWVv3CAFkyUgkrV2XGHbYAEmpy2Cn4SE2bokYt2ypCdRxIm1W3g9JiC8t6u7h3GYaDk+axQ9pk+SOh4dlfiGdPvPecGReC08vcJTHLsd5gAwk5WtjO2NiDC5nSNZRvcwRylGkdrgAPBfDSUOzL+MOGqZ5/59N2JGwVbs/qqLPDItzAnL+OyN541Hf4FCK6bA+bH4TAurBtpblvTWpjhnPM1BUa1/CIsT3FERf2Ph2gXuli6gKssxibu7JNUhcpL1xsJ8emoWYw==;ItbY7AiYkh3pkwdYpYqI7Q=="
 ---

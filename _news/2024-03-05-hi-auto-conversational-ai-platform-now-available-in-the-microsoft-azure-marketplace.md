@@ -49,6 +49,17 @@ related:
         width: 3603
         height: 2402
         isCached: true
+  - title: "Sonata Software integrates Sonata Harmoni.AI with Microsoft Azure AI service"
+    excerpt: "Sonata Software in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni.AI with Microsoft Azure AI service. This integration complements Sonata's collaboration with Microsoft Fabric and its position as a Microsoft AI Partner Council member."
+    publishedDateTime: 2024-03-07T11:00:00Z
+    webUrl: "https://www.business-standard.com/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 66
   - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
     excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
     publishedDateTime: 2024-03-05T21:28:00Z
@@ -135,6 +146,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2024/02/Peter_Lee-328x328.jpg"
         width: 328
         height: 328
+        isCached: true
+  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
+    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
+    publishedDateTime: 2024-03-07T12:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg"
+        width: 400
+        height: 279
         isCached: true
   - title: "Epiq Service Cloud Integrates With Microsoft's Gen AI Platform to Launch New Service Categories"
     excerpt: "On Tuesday, alternate legal service provider Epiq announced the expansion of its Epiq Service Cloud with three new categories of services it has been building out over the past year: professional services, Azure OpenAI Solutions and Azure OpenAI Platform."

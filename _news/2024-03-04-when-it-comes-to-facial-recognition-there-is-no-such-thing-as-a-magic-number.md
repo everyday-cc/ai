@@ -7,7 +7,7 @@ originalUrl: "https://cyber.harvard.edu/story/2024-02/when-it-comes-facial-recog
 webUrl: "https://cyber.harvard.edu/story/2024-02/when-it-comes-facial-recognition-there-no-such-thing-magic-number"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1000
     height: 500
     isCached: true
-
-related:
-  - title: "Facial recognition tech is probably coming to a lot more vending machines"
-    excerpt: "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common."
-    publishedDateTime: 2024-03-02T12:13:00Z
-    webUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3"
-    ampWebUrl: "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Chinese official says facial recognition in hotels is hurting tourism"
-    excerpt: "The prevalence of facial recognition in China's hotels is drawing complaints from tourists, prompting policy-makers to consider boundaries for the technology."
-    publishedDateTime: 2024-03-06T15:55:00Z
-    webUrl: "https://www.biometricupdate.com/202403/chinese-official-says-facial-recognition-in-hotels-is-hurting-tourism"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/24164622/Henn-na-Hotel-facial-recognition-room-key.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "5D5FRJxTvBvFNuC3/RW9Tz0QAF9pO1NtVkRBOZUrIeuqIbVNgwzMkwDRG6UmegsIj/8i6+EtC/Nh+S99VA5IcGF+q1Z5tonIxx+L0LqUNdXFF7StC82+6rZbkbGD1pWqWe6/wAQ9Rkg7N6xycbXpNV+KZdeB5CtYD/t0InpUKEouYvBITVqYUVA4yy5KDL+k2CRmU42VIx5uelvx0jyWq1oVvV/9x5gHbCoTMCq+ngC9T6PBfoziX9gqyXraL2oYE4ohxyJsdx0jktwr/XJ4m/U1N1wKs6hU0zhKKk/0hE/zAMSGK6WIS0Ru4aJ75vxAROSZr2H60i0yAdXSTR58bAZnWfU15n30Zs3+eD8LqOk=;odfDeQZomQ8o4Yq0o5SOkg=="
 ---

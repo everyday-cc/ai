@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
-    excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://semiengineering.com/ai-performance-and-real-time-control-in-robotics-and-autonomous-applications/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 68
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-Performance-Realtime-Control-Robotics-fig1.jpg?fit=575%2C504&ssl=1"
-        width: 575
-        height: 504
-        isCached: true
   - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
     excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
     publishedDateTime: 2024-03-04T16:51:00Z
@@ -98,6 +84,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 17
+  - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
+    excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
+    publishedDateTime: 2024-03-07T11:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974513.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "gPpWkoJ4AkS6L959JF7FajXKNeL2V2takeKW71nV5RPjyT3Uej2mBEPgtlQUf7OyKbCub5zy1TTccgeyE3LESlRqaQE79axtUBTqc7WvVNgIxQ+eyeC8QJnugPKnFlkZZWVCdv88CWp8NimgLFPj+F6onLjN4SLxlfMGhH/pj7h3Kn7IA2l+8Hd8XkMJrwduAw+XS0pfCi0DQecQAp4bb7wf0wWnQUCwQNhisJty84fPZeKvOClEvcFy7PiXfqvKfrdGJmh+cktmQMXOaxvqppiigSL+NaxHri/P1M3d1OR6RSfM01y0CU/KbjMqHQQ9prmal1qwrntfvneBDwyWNNX+ivWBMzxgEW3Wzi0IkuA=;XtRYHRAd+TTHtmuMslRiIQ=="
 ---

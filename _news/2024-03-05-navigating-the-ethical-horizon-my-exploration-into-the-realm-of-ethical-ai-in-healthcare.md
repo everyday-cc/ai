@@ -26,117 +26,119 @@ images:
     isCached: true
 
 related:
-  - title: "A Practical Guide For Using Generative AI In Account-Based Marketing"
-    excerpt: "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results."
-    publishedDateTime: 2024-03-05T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/"
+  - title: "The Integral Role Of Robotics, AI And Automation In Healthcare"
+    excerpt: "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined."
+    publishedDateTime: 2024-03-07T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 116
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5db42c2c694a887568254/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8cb84703655ecfeca6379/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1346
+        height: 900
+        isCached: true
+  - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
+    excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
+    publishedDateTime: 2024-03-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies"
-    excerpt: "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -"
-    publishedDateTime: 2024-03-06T15:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486"
+  - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
+    excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://semiengineering.com/ai-performance-and-real-time-control-in-robotics-and-autonomous-applications/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 68
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg"
-        width: 512
-        height: 341
+      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-Performance-Realtime-Control-Robotics-fig1.jpg?fit=575%2C504&ssl=1"
+        width: 575
+        height: 504
         isCached: true
-  - title: "Navigating The Risks And Opportunities Of Generative AI In Insurance"
-    excerpt: "The rise and rise of generative AI poses new questions for those of us working in insurance. Every day, people like us are finding new ways to use the technology’s uncanny abilities to process huge quantities of complex text, audio and video, as well as to generate ideas and usable first drafts across those three formats."
-    publishedDateTime: 2024-03-05T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/navigating-the-risks-and-opportunities-of-generative-ai-in-insurance/"
+  - title: "Artificial Intelligence in Healthcare: New Avenues for Liability"
+    excerpt: "Artificial Intelligence (AI), specifically generative AI technologies, hold significant promise for improving the healthcare industry by streamlining clinical operations, freeing service providers from mundane tasks, and diagnosing life-threatening diseases."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5dc201ac5262af8449269/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1489
-        height: 900
-        isCached: true
-  - title: "AI Tools Are Still Generating Misleading Election Images"
-    excerpt: "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud."
-    publishedDateTime: 2024-03-06T14:32:00Z
-    webUrl: "https://www.wired.com/story/genai-images-election-fraud/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Using Generative AI For Figuring Out Your Astrological Horoscope Raises Pesky Questions About Whether We Might Become Starstruck"
-    excerpt: "Let's together take a close look at the use of generative AI for generating astrological horoscopes. Turns out that some worry this has mental health implications."
-    publishedDateTime: 2024-03-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/04/using-generative-ai-for-figuring-out-your-astrological-horoscope-raises-pesky-questions-about-whether-we-might-become-starstruck/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/04/using-generative-ai-for-figuring-out-your-astrological-horoscope-raises-pesky-questions-about-whether-we-might-become-starstruck/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/04/using-generative-ai-for-figuring-out-your-astrological-horoscope-raises-pesky-questions-about-whether-we-might-become-starstruck/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5679f992204df61c911c3/0x0.jpg?format=jpg&crop=3671,2752,x330,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
-        isCached: true
-  - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
-    excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."
-    publishedDateTime: 2024-03-02T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/02/new-prompt-engineering-technique-for-generative-ai-surprisingly-invokes-star-trek-trekkie-lingo-and-spurs-live-long-and-prosper-results/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2428,1820,x235,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
-        isCached: true
-  - title: "Informatica Claims Data Fragmentation Is Standing in the Way of APAC Generative AI"
-    excerpt: "Data management and cloud architecture have become critical to drawing value from generative AI, according to research from Informatica."
-    publishedDateTime: 2024-03-06T13:59:00Z
-    webUrl: "https://www.techrepublic.com/article/apac-survey-findings-informatica-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 43
-  - title: "Redefining Content Storage: How AI is Meeting the Demand for High-Quality, Personalized Content"
-    excerpt: "Many media assets lack appropriate metadata tagging, posing significant challenges for M&E companies aiming to repurpose and monetize their content"
-    publishedDateTime: 2024-03-05T14:36:00Z
-    webUrl: "https://www.tvtechnology.com/opinion/redefining-content-storage-how-ai-is-meeting-the-demand-for-high-quality-personalized-content"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 27
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YE8gNw25LqTwiGPBBs9hbR-1200-80.jpeg"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
         width: 1200
-        height: 765
+        height: 900
         isCached: true
+  - title: "The potential effects of AI healthcare"
+    excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
+    publishedDateTime: 2024-03-07T10:58:00Z
+    webUrl: "https://technology.inquirer.net/132544/ai-healthcare-impacts"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
+    images:
+      - url: "https://technology.inquirer.net/files/2024/02/ai-healthcare-potential-effects.png.jpg"
+        width: 1570
+        height: 884
+        isCached: true
+  - title: "BU's new robotics and AI center is now open"
+    excerpt: "The center aims students from the undergraduate to doctorate levels to be better positioned to enter industry or start their own ventures."
+    publishedDateTime: 2024-03-05T18:17:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2024/03/05/bus-new-robotics-center-opens.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
+  - title: "Glacier receives $7.7M to expand its AI and robotics in the recycling sector"
+    excerpt: "Artificial intelligence (AI) and robotics company Glacier, based in San Francisco, has raised $7.7 million in funding from New Enterprise Associates (NEA), Menlo Park, California, and Amazon's Climate Pledge Fund, with additional participation by AlleyCorp ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.recyclingtoday.com/news/glacier-receives-7-million-from-amazon-to-expand-ai-robotics-in-recycling/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 46
+  - title: "Media and Artificial Intelligence"
+    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
+    publishedDateTime: 2024-03-02T21:00:00Z
+    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
+    type: article
+    provider:
+      name: standardmedia.co.ke
+      domain: standardmedia.co.ke
+    quality: 37
+    images:
+      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Electoral Battles In The Age Of Artificial Intelligence"
+    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
+    publishedDateTime: 2024-03-04T20:44:00Z
+    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
 
 secured: "mdcRZ+TCIDz/xLPM+g4o8duQmrZ7jPwc6ZDgWhAIJQjxq4y2v0LA4vgUFYqflPK7eOuIrwcgrWBU42G6k9YT0EEocvFb9rJjZjOTI2Z5NWCYccDTXVKgGnO7XVO7sspBnuDrUbCVNTgqBlHNPoMYxZnrdJMas/b4WY4SSPz684UYpcYFP4xzk0cr0yFYB2qD/+8lDOCyqXDL3ItLRf15DVnegkVPw+nrdbDGyk/A7GNlkq1EMOsTN+AYSkxhCSTFRyxo+s7FnfStXoD8wrdr7KE8FqucZc2etnU0GqmJWCQkpW53yxfpCalzOywEi0IsluMMWFAJk/BNoPUedJcPP7JfihJ6DZeSP3aPS8+21j8=;w9C0do6XpOQ1ac0E5pIS4g=="
 ---

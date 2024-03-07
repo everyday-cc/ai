@@ -103,20 +103,6 @@ related:
         width: 1201
         height: 900
         isCached: true
-  - title: "Navigating the Ethical Horizon: My Exploration into the Realm of Ethical AI in Healthcare"
-    excerpt: "As I stepped into the intriguing realm of ethical AI in healthcare, I found myself on a transformative path illuminated by the burgeoning potential of healthcare generative AI. The field, a promising convergence of artificial intelligence (AI) and ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2024/03/05/458882-navigating-ethical-horizon-my-exploration-into-realm-ethical.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 62
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-mar/8364476476-ai90.jpg"
-        width: 1469
-        height: 980
-        isCached: true
   - title: "Informatica Claims Data Fragmentation Is Standing in the Way of APAC Generative AI"
     excerpt: "Data management and cloud architecture have become critical to drawing value from generative AI, according to research from Informatica."
     publishedDateTime: 2024-03-06T13:59:00Z

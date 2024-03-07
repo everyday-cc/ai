@@ -58,20 +58,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Media and Artificial Intelligence"
-    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
-    publishedDateTime: 2024-03-02T21:00:00Z
-    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
-    type: article
-    provider:
-      name: standardmedia.co.ke
-      domain: standardmedia.co.ke
-    quality: 37
-    images:
-      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "i5dKo1K7iVcynGppSo2xmO9cHoi2smWWnZdN2oFayBBsmO9uRhRW5HxlfNoZEVeU5pxx6LahIkLdecu/tPap3mVV5JUFCmvFGTy4cHU2OEL9/fnVC2JtBNC/9chi01QclHd+e2Xqf3b5LjLMTspTrod95Ed5QOoVn2zC0MkPXDWaLnH39yX/FYfvZS6LkEyba2xiIq6tT8ywlANBArP4XY9BeYMNq/DjPiMv0D7u57u60pgYMmBq+8IIUkb0+7Y3kns2SPA7qGm8p4y82YjS3OiEJGzClNUPJZqPyCbElXnBxZy9Vqu5EMh2jql+zJkIf0UuXHNK3RFPeiRYnJxROCNfYPs+kyD8JRz4CnM32ML3zhY7PXRyG5b4vF2n88nVxurY04FDjFJHKPvlCiznV4HVubm4VVdghNiDXhvjxmkbFd/FoSfpHRlRkWpltVNTCPqWUv3hiNmtbKeTi8PN6BsskL7ixA5MO4alTIDfpcum+e8VLShYl/oR/FaY8+OZje22C9eqVh0REJKK4vC/0A==;sSpHk5dGPgdQK1nZ2C+zvg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.greenbiz.com/article/amazon-funding-recycling-robots-s
 webUrl: "https://www.greenbiz.com/article/amazon-funding-recycling-robots-startup"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Glacier receives $7.7M to expand its AI and robotics in the recycling sector"
-    excerpt: "Artificial intelligence (AI) and robotics company Glacier, based in San Francisco, has raised $7.7 million in funding from New Enterprise Associates (NEA), Menlo Park, California, and Amazon's Climate Pledge Fund, with additional participation by AlleyCorp ..."
-    publishedDateTime: 2024-03-06T00:00:00Z
-    webUrl: "https://www.recyclingtoday.com/news/glacier-receives-7-million-from-amazon-to-expand-ai-robotics-in-recycling/"
-    type: article
-    provider:
-      name: Recycling Today
-      domain: recyclingtoday.com
-    quality: 46
 
 secured: "OZDMyxNG7m8kv23RyHOfBH6PWJTg7r8r2brsbS8mnYJ1y+gildFMmcfmwhKzU769y+qjLxxfqlJRl0sQLvc1hnevPogM7diG0kd9UNkl/deSQuH7fw49h/ENlffA2ABpr3AR/01+3WruiDsHrP9XfX+/dwCe949KrhehS6cLx7QLPtiNg9Y7PdoO/KipTdpkYKJbj+xn5VFKRLFqUOH/1gRimsB4k4gzO0alwFm8iOyNLoYE3Uzio0ERC/4bFgFKA8vxVEJQEAZBi9eSoINQgZ+EDxzqpk6qcSOu59Z3Bo0zxtarKCvUoXN995890ua0fbC1PSNvT+Y22CzB5JSVCMZOyqLCH1nFXdEOJ+GfGVxfgCOr0qSYigJHG6W1Z2IocGp8tFWf8AXfOf9FvtfHRTCbiBAa1mT1m1pLo9IRQGXsD/2SzP+d9I7CYXM8Irr56wt473GUu3Ojpvga8GW+TOWG1bCP3P63n+XbsvTjTvRQUos9EI5Qc+1TWAhYEnzVBNAvUNMOIYlMIzi4eU9iWg==;EoZrsKzmCopbinVkvyKDLQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healt
 webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: JD Supra
@@ -25,6 +25,64 @@ images:
     isCached: true
 
 related:
+  - title: "The Integral Role Of Robotics, AI And Automation In Healthcare"
+    excerpt: "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined."
+    publishedDateTime: 2024-03-07T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 116
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8cb84703655ecfeca6379/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1346
+        height: 900
+        isCached: true
+  - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
+    excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
+    publishedDateTime: 2024-03-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
+    excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://semiengineering.com/ai-performance-and-real-time-control-in-robotics-and-autonomous-applications/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 68
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-Performance-Realtime-Control-Robotics-fig1.jpg?fit=575%2C504&ssl=1"
+        width: 575
+        height: 504
+        isCached: true
+  - title: "Navigating the Ethical Horizon: My Exploration into the Realm of Ethical AI in Healthcare"
+    excerpt: "As I stepped into the intriguing realm of ethical AI in healthcare, I found myself on a transformative path illuminated by the burgeoning potential of healthcare generative AI. The field, a promising convergence of artificial intelligence (AI) and ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2024/03/05/458882-navigating-ethical-horizon-my-exploration-into-realm-ethical.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 62
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-mar/8364476476-ai90.jpg"
+        width: 1469
+        height: 980
+        isCached: true
   - title: "The potential effects of AI healthcare"
     excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
     publishedDateTime: 2024-03-07T10:58:00Z
@@ -39,38 +97,47 @@ related:
         width: 1570
         height: 884
         isCached: true
-  - title: "29 healthcare leaders reveal top priorities for the next 12 months"
-    excerpt: "Recognizing the transformative potential of these technologies, my team is committed to implementing data-driven strategies to address current healthcare challenges. This includes harnessing artificial intelligence and machine learning to improve ..."
-    publishedDateTime: 2024-03-05T16:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/hit-speaker-series-q-a/29-healthcare-leaders-reveal-top-priorities-for-the-next-12-months.html"
+  - title: "BU's new robotics and AI center is now open"
+    excerpt: "The center aims students from the undergraduate to doctorate levels to be better positioned to enter industry or start their own ventures."
+    publishedDateTime: 2024-03-05T18:17:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2024/03/05/bus-new-robotics-center-opens.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
+  - title: "Glacier receives $7.7M to expand its AI and robotics in the recycling sector"
+    excerpt: "Artificial intelligence (AI) and robotics company Glacier, based in San Francisco, has raised $7.7 million in funding from New Enterprise Associates (NEA), Menlo Park, California, and Amazon's Climate Pledge Fund, with additional participation by AlleyCorp ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.recyclingtoday.com/news/glacier-receives-7-million-from-amazon-to-expand-ai-robotics-in-recycling/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 46
+  - title: "Media and Artificial Intelligence"
+    excerpt: "Panellists at the exclusive event also stressed the need for training in Artificial Intelligence tools in keeping with changing trends in the media and the critical role of decisive leadership in the industry. The panel featured the Standard Group’s Edit ..."
+    publishedDateTime: 2024-03-02T21:00:00Z
+    webUrl: "https://www.standardmedia.co.ke/business/business/article/2001490805/media-and-artificial-intelligence"
+    type: article
+    provider:
+      name: standardmedia.co.ke
+      domain: standardmedia.co.ke
+    quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+      - url: "https://cdn.standardmedia.co.ke/images/articles/thumbnails/dovbUuh775F4pgk1Sy98IEiveZlUb6NNQBf3aCO5.jpg"
         width: 800
-        height: 600
+        height: 500
         isCached: true
-  - title: "AI Model Maps Medical Diagnoses, Boosting Transparency in Healthcare"
-    excerpt: "bridging the understanding gap and improving healthcare delivery. Medical diagnostics expert, doctor’s assistant, and cartographer are all fair titles for an artificial intelligence model developed by researchers at the Beckman Institute for Advanced ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.labmanager.com/ai-model-maps-medical-diagnoses-boosting-transparency-in-healthcare-31884"
+  - title: "Electoral Battles In The Age Of Artificial Intelligence"
+    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
+    publishedDateTime: 2024-03-04T20:44:00Z
+    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
     type: article
     provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-  - title: "Healthee Raises $32M for its AI-Powered Health Benefits Naviation and Management Platform"
-    excerpt: "Healthee offers a groundbreaking digital health platform, powered by AI. It simplifies healthcare consumerism by providing streamlined access to health and wellness benefits. Zoe, the built in digital benefits expert, assists in navigating healthcare benefits, finding affordable care, and optimizing choices, particularly during Open Enrollment."
-    publishedDateTime: 2024-03-05T14:32:00Z
-    webUrl: "https://www.alleywatch.com/2024/03/healthee-ai-digital-benefits-platform-employer-health-care-navigation-enrollment-zoe-omer-maman/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 8
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
 
 secured: "bUFzxrG8P/woLLMMqzWJE6/NSBFAnr/ux1cWQ0qiDsiww5uat8OY3gDZG9mtlsPBlK9796hsNhNg6IXgbzxepCotZppWejYqRkVfo+19UnB/aIjEviwvNsv2R+13ixVVEidtZbWC9xTFitP2tBo/R7SeOv0IE+XAG/WJ+11nBLCyHyj8bkiMRZZk7PMjbK2i7OGbXp1ysD1XDzmpcNphuubNtHMxE1Pn70E+MuWNVHBQ8Z7vlEsTlZ2WOkdmzTBrMkr89DqkjJj1MILyg2v7ZHg0VMCQso1kP0BTeCIhsHwu2eIPkvdWx22zlkAcSyZA5j0TOwXn6l8XFpomvST4aSdFtJhEW9u/LTOxLwVh1is=;zT8GlDlgtiHmaCITwnDy0A=="
 ---

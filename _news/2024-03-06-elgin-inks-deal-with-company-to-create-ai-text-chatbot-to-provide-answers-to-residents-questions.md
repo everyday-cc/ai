@@ -28,6 +28,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 58
+  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
+    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-07T12:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 48
+    images:
+      - url: "https://financialit.net/sites/default/files/justpaid.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "What do shoppers think of AI-powered chatbots?"
     excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
     publishedDateTime: 2024-03-05T17:35:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
 type: article
 quality: 57
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Google engineer charged with theft of AI tech for Chinese firms"
+    excerpt: "The stolen trade secrets were critical to Google’s AI prowess, involving the specialized hardware and software that power the company’s supercomputing centers."
+    publishedDateTime: 2024-03-07T10:31:00Z
+    webUrl: "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html"
+    ampWebUrl: "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 59
+    images:
+      - url: "https://www.csoonline.com/wp-content/uploads/2024/03/hacker-laptop-digits-computer-screen-cyber-crime-cyber-crime-theft-money-digital-100937829-orig-100947552-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Former Google engineer indicted for stealing AI secrets while secretly running a startup in China"
+    excerpt: "Read our ethics statement. WTF?! There's been another case of a tech ... has been indicted by a federal grand jury for pilfering confidential AI tech while secretly working for Chinese AI firms. He even launched a startup in his home country without ..."
+    publishedDateTime: 2024-03-07T06:58:00Z
+    webUrl: "https://www.techspot.com/news/102164-former-google-engineer-indicted-stealing-ai-secrets-while.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 56
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-3.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms"
     excerpt: "Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account"
     publishedDateTime: 2024-03-06T21:40:00Z

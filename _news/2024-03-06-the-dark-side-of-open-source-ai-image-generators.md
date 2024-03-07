@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generat
 webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Electoral Battles In The Age Of Artificial Intelligence"
-    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
-    publishedDateTime: 2024-03-04T20:44:00Z
-    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
 
 secured: "VB/OgB/dXlzPWKgE0ph4ttYdCkoYeAHnH1SpqDYg/Qkx1EjuBhqW4jMp3w5iMnpkIuDGmlYDtbT6Hc3864L5laPf8CBki+K28mxoXXyU/xs5hQFYRC8FhG0amNXf4iMescTV4FVkPqxqMabm/dozX1vL94prn54VEZnizB4wupMIdIWd4S6bI+oSrYkCezGq5PtV7ZcIOXdswbDBWIA5Z3B09WJbxZ/jSYrNHQUSoyS+3ISxmp5ie9YmMifPodpnUh1w0zFuQ9YXkY+LVwoCIwGsfc21xp1h/X/sXhtmiA2Yjrl6KiS3K3X6N876m8iLbQh51P1IgIY+Brt3lqQ9vW2ij8TutAyxZ4eeOKkkEYz6XJXE2Agct4UxPf5oXIhIIMqSX0DbOG9bpYwY+z090usYnmo0cZYinYnN/Qyo979y4Ofmv1pxIOpgeQ4SoWmuCcaFUuBaUInfv5HPBODsURy6qT0m1dVKurDlVbHuXjwsKEwl2kvwHboE4FYqfVXsRVfB415lWHMLQ8ZMFD8+Ag==;TI0T8g8+3/p3yA+nYkBoUQ=="
 ---

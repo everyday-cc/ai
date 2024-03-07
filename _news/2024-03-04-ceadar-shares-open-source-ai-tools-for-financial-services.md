@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 671
         isCached: true
-  - title: "Electoral Battles In The Age Of Artificial Intelligence"
-    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
-    publishedDateTime: 2024-03-04T20:44:00Z
-    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
 
 secured: "R5ezlQ4MXpMSyKT7iVCBo/xfsWxiezQnP66LHi1W1yPlo9/BAZcf/B9sHKPUPy/bEXE99UwOWqICB0Vl42WRGgJ1rvw47CUvpMRpcKGHlC+hXlXS8sTbMXnTcBPN4ErHhJqvBS7Bb9ZqCCQly7KxjMdHZifKykczi7pQG9bTVOOkeIuU3HVnx1ku6m2qYUzDrNdAy91ReHiTQHKzydrR+cNnEpXbuIrBHZtam5qxRbFkT5Xe0KM9oCtxQXnQ901Sk/Q7kjETA4lSusTVSS7Zc2HB7Aa6TLVOl+QjlOZMK7Oa6aAwcmxP7VzLZNrsdjsHiq0FZyJDsTtBm5mFql7M3FEB3c38w07Jak4IsuTnc7Q=;ExIMPhavntK5He/7aDJzpQ=="
 ---

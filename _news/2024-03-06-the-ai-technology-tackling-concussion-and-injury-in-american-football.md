@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "EQS-News: GFT strengthens growth with artificial intelligence and expansion in Latin America"
+    excerpt: "The acquisition of Sophos Solutions S.A.S. was already successfully closed on 01 February, exactly one week after its announcement. This acquisition has expanded GFT’s client base, as well as its global footprint and team by almost 20 percent. Sophos is expected to be fully integrated into GFT by the end of the year."
+    publishedDateTime: 2024-03-07T07:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eqs-news-gft-strengthens-growth-with-artificial-intelligence-and-expansion-in-latin-america-1033140538"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Can AI technology tackle concussion and injuries in American football?"
     excerpt: "The NFL has developed an artificial intelligence tool that uses TV imagery and sensors embedded in helmets, mouth guards and shoulder pads to try to reduce concussions and injury among American football players."
     publishedDateTime: 2024-03-06T12:36:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/etf/tsmc-samsung-lead-rec
 webUrl: "https://markets.businessinsider.com/news/etf/tsmc-samsung-lead-recovery-in-asia-s-emerging-markets-with-ai-and-chip-sector-growth-1033132754"
 type: article
 quality: 77
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,29 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "Meta switches from TSMC to Samsung Foundry for AI chips, 'uncertainty and volatility' at TSMC"
-    excerpt: "Meta CEO Mark Zuckerberg has said that he will be working with Samsung in the AI semiconductor sector ... Popular Now: NVIDIA RTX 5090 could launch in Q3 2024 to crush AMD in the gaming GPU arena Zuckerberg attended a dinner at Samsung's VIP guest house ..."
-    publishedDateTime: 2024-03-04T10:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96628/meta-switches-from-tsmc-to-samsung-foundry-for-ai-chips-uncertainty-and-volatility-at/index.html"
+  - title: "How to try Samsung’s Galaxy AI on any iPhone or Android phone"
+    excerpt: "Galaxy AI is a major selling point for the Galaxy S24. Now, you can take Galaxy AI for a test drive on any Android phone or iPhone. Here's how."
+    publishedDateTime: 2024-03-07T09:59:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/"
+    ampWebUrl: "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96628_101_meta-switches-from-tsmc-to-samsung-foundry-for-ai-chips-uncertainty-and-volatility-at_full.jpg"
-        width: 1500
-        height: 857
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2024/01/galaxy-s24-ultra-chat-assist.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "TSMC surges to record high on AI optimism, global chip rally"
-    excerpt: "Taiwan Semiconductor Manufacturing Co. rose to its highest-ever level, tracking a global rally in chip stocks fueled by optimism about artificial intelligence."
-    publishedDateTime: 2024-03-04T08:57:00Z
-    webUrl: "https://www.digitimes.com/news/a20240304VL206.html"
+  - title: "iOS 18 is all about iPhone AI, and Apple’s M3 MacBook Air announcement is proof"
+    excerpt: "Enhancing an image with AI using Photomator’s Super Resolution feature is up to 40 percent faster than the 13-inch model with the M1 chip, and up to 15x faster for customers who haven’t upgraded to a Mac with Apple silicon.1 Later, Apple calls the M3 ..."
+    publishedDateTime: 2024-03-04T18:32:00Z
+    webUrl: "https://bgr.com/tech/ios-18-is-all-about-iphone-ai-and-apples-m3-macbook-air-announcement-is-proof/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
+      name: BGR
+      domain: bgr.com
+    quality: 35
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/08/macbook-air-2023-7.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1406
+        isCached: true
 
 secured: "JiojihVzDGNlUzf3XE/aGSxEcRDZgk9QmljinJwAk0OjW1bZJ2dvxb4r0F/nydkFcaOcwEdklGg2Gu0YYLKMiTDGawNj1/VWdF/eSAs3PVtZcd2a/WRsd+z2tMbgWDaYY+wexsAEfjYfT6HVZcMs0p03J1Fs1nH3JPhG6JXBAwKeGeuuvOkCSMZrcJDnxptr7w5pZleL8soX7TRdCpdLJg5PWNIBhdxs9mwd+1dZiDw0uW/xZwZHzG31pLlhIw9A1fOLH3SYPqw36L0sAu2VPZuKrhOsCyCWQLOfkg5Zo0bp8Cg29tajU63eb4SAmPkDDPw3Sc92R7HkJFQh+bvOQv1V7L9x6tIi14oHq5Q6hHHfSCpM0+uBGvHw9ND0hj0sf0PLu2szZUB/mZmaWUSKt/DDMO1ZAzA+QNTdA5NlzSnTbgMMZT0X04JhkqitPKZXdPw/xbWqadEgFbJbWsslOUpwXV4hVPcMnsPhjGZIEaP7h/h5C90VE4hJoFcNAu4MRvfeyarcYlaYMMjZPy/wPA==;2rgMzHrZNpaySuYmeLefGA=="
 ---

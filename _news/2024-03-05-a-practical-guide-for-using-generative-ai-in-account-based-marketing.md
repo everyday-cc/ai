@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-pr
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e5679f992204df61c911c3/0x0.jpg?format=jpg&crop=3671,2752,x330,y0,safe&height=900&width=1600&fit=bounds"
         width: 1201
         height: 900
-        isCached: true
-  - title: "Navigating the Ethical Horizon: My Exploration into the Realm of Ethical AI in Healthcare"
-    excerpt: "As I stepped into the intriguing realm of ethical AI in healthcare, I found myself on a transformative path illuminated by the burgeoning potential of healthcare generative AI. The field, a promising convergence of artificial intelligence (AI) and ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2024/03/05/458882-navigating-ethical-horizon-my-exploration-into-realm-ethical.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 62
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-mar/8364476476-ai90.jpg"
-        width: 1469
-        height: 980
         isCached: true
   - title: "New Prompt Engineering Technique For Generative AI Surprisingly Invokes Star Trek Trekkie Lingo And Spurs Live Long And Prosper Results"
     excerpt: "You can almost toss away all the other trappings associated with Star Trek. It isn’t that the generative AI is going to mimic Dr. McCoy or start spouting about the Federation, instead, the crux is that you want to have responses based on being methodical."

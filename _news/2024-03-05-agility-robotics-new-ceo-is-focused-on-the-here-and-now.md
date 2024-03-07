@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2024/03/05/agility-robotics-new-ceo-is-focu
 webUrl: "https://techcrunch.com/2024/03/05/agility-robotics-new-ceo-is-focused-on-the-here-and-now/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TechCrunch
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "BU's new robotics and AI center is now open"
-    excerpt: "The center aims students from the undergraduate to doctorate levels to be better positioned to enter industry or start their own ventures."
-    publishedDateTime: 2024-03-05T18:17:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2024/03/05/bus-new-robotics-center-opens.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
 
 secured: "uyJ8R82go0mTpTVWvdyKWYixEv6w5bwaI29uI4Q3vJk5j0TnyKS3TuGg5FRMhyAgWOfsV89Xk/Ui8yIod0gdCMtI/GUUZ1mgTPjoTAVSr12IgAige/ECD/WuuNk8aVI4VFSmHXO1gjLgmsn/K4z94CokOdpH7A8KoyF8vew4ka5I5E5TX8Nb4X7HybS6DP8P/xRSj94ALJbis6Tu387ilDHQViE7XTuXRf/sqHCfZtln5XoTAiref/bWleYZ/t7u15u5sJvp2NTo+397aiIS1QnV/by7LotoXbnd/3mT+DnujpilJV5idfEMkT3ud1VCk7j6z8FLnVzqp4OpetbDzO6X/PE+3UAVCPNo5DL+kkI=;mB3x6yDb+VEUrMqerA5lGQ=="
 ---
