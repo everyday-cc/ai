@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Artificial Intelligence in the telecommunication Market to hit $13,496 million by 2031: Market Research Intellect"
+    excerpt: "Artificial Intelligence in the telecommunication Market to hit $13,496 million by 2031: Market Research Intellect The global artificial intelligence in telecommunication market size is projected to be valued at US$ 1,"
+    publishedDateTime: 2024-03-06T17:36:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-in-the-telecommunication-market-to-hit-13496-million-by-2031-market-research-intellect/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 0
+
 secured: "ntOvgnPi21NULI0Hy6c3lWvhCWy9Dg0v2d3iXJiWcnmFvNBftELCD4DuKcC9VtlY3zjeleX5doqyAkgmirYDH9VGWi49PwvsuChwv4zkwnn7Tz6HJrZiH3q/c5M5dY79fhGZi2nK1tNjAqC+WhLKtkNRAOD5gjOyuATso61Qblh05+UKtYWuKd0bUoGUK3Wezja+VF4/0r9MrJoCEO8/HVbfZrsoo0aMqJU+PWL0uOFh5eEgt4DU3rkSjWotdAAKAWfSXBImUBuJxmSHVs/VYuyEDOmp9E+vNSR0WcGjYKurUWnI6kAvRbaRwJudunAePWTyLph4poO/RK6znXITku+KQncqwhTqSjRVm31VWV+mD3R3n9lJ3cxuiPt1zNCRMkUFAO69lVU1R85kSCanGnFrJAT9aR3K92g6hrzJxDGtNMpGwz573Q9DoicAsRWz2ULfSc5Z30EDyhKebI3AoRPH+6SSB+1tsB53oUGlVA0eXONdya4a+iDzO1YNxKYJ4qbcL68AtOfw4jjeLrZqeg==;CkMFO1FyH7lhFNFdhFTu1Q=="
 ---
 

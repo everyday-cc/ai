@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is AI about to end the need to learn foreign languages?"
+    excerpt: "Can artificial intelligence (AI) give us something similar ... which generates human-like text and whose applications include language translation. They will \"transform the learning process ..."
+    publishedDateTime: 2024-03-03T11:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/03/03/is-ai-about-to-end-the-need-to-learn-foreign-languages"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/01/2570584.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Language expert warns against the risk of free translation tools for high stakes tasks"
     excerpt: "Still, when it comes to translating legal documents, contracts, or sensitive business materials, relying solely on automated tools can lead to unintended - and unwanted - consequences."
     publishedDateTime: 2024-03-05T20:11:00Z

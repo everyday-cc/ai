@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The potential effects of AI healthcare"
+    excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
+    publishedDateTime: 2024-03-07T10:58:00Z
+    webUrl: "https://technology.inquirer.net/132544/ai-healthcare-impacts"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
+    images:
+      - url: "https://technology.inquirer.net/files/2024/02/ai-healthcare-potential-effects.png.jpg"
+        width: 1570
+        height: 884
+        isCached: true
   - title: "AI Model Maps Medical Diagnoses, Boosting Transparency in Healthcare"
     excerpt: "bridging the understanding gap and improving healthcare delivery. Medical diagnostics expert, doctor’s assistant, and cartographer are all fair titles for an artificial intelligence model developed by researchers at the Beckman Institute for Advanced ..."
     publishedDateTime: 2024-03-05T00:00:00Z

@@ -15,12 +15,6 @@ topics:
   - Meta AI
   - AI
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y"
-    width: 1200
-    height: 676
-    isCached: true
-
-secured: "bJZgGFtjFUxLYLqi6+DmSincl9Al5idlWGpfu/UwmWrtJI7SMfhmutrrYmZaaFQDLtR6VXQ7vx3Cqf61nNLyCPeeRFQUvHx7UvImYvuX2EeDT8G3i78+dUOcy/EtXi8ldm8AJ2ETzTTdqOHXVDIJWiuu91DYujQdE+DnTyjbSbcDUmmu53O5Bfqjowe4ptE1DD7wq1zCu06d/GlTgtu1fH+EH27JcBJXuY0KVfgTrTR/KwMSTdz9tmN+M/Lbz0L85eaDsM108iHanGdq8kepLjwxOgFTTHKlUOBD4Lm+usjtaukx8OjVMAvrm+EXj8g14S/Lw85HEayympwr1N12yFulyTCFL7yRWPfGvSqbCjQ=;a3Ayy1mk1uNMmEgBZpH6gQ=="
+secured: "Cu4DVworoNsKKdWxtVAFWGT3vgmPaiAMkQtw6TVJUC+7jY7xiasx+7M39kBbGPmq+tKZ/AC+zRDdbm4M18qjlKW9Pgf2KZXaKXS/gqUjFgXrLLp4DVVuKzy/NDnp4ygKK+hUBe0F+xMZemTUnNCbABTaLLC5yg8yspyzLnFDfTgEArKZgA9bEUF4UoNYL1+6PwhmU1f9ssBqh5crjUm0AReoNrngCdBO5dooHZ6ullFIQkIsEhNvfjTXyYaX0E3/IZmHHxDCSAT1fJyYF7/7uQnMXXN7mLgGkF2JYbzJPaytiDePj8uzkN5aOhQcFOg8OHeXQ9krwQVOD12JoUDE3dqKtCFCsEUKb3yQiDhMMZs=;s9Vl7QpAJKcR2KZ/tsfU8g=="
 ---
 

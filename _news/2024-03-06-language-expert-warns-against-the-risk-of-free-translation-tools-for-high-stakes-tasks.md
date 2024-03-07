@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "Is AI about to end the need to learn foreign languages?"
+    excerpt: "Can artificial intelligence (AI) give us something similar ... which generates human-like text and whose applications include language translation. They will \"transform the learning process ..."
+    publishedDateTime: 2024-03-03T11:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/03/03/is-ai-about-to-end-the-need-to-learn-foreign-languages"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/01/2570584.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "OJ/NA7nBzPKCienltpOafE8apWb/KSQiq2c55I7xoNzj8b6M+oPdq4184pMO2WsUmdV+A9VCU+GrEHseVhgWYfWLXEldi7F5QrF+Jyxn/2J2BWAQCwIqErgpCTNnYubrAOCQgVeC3qadMwBTiIrsJK58+AunwOC4HRngh/jj8N/z0WTl6KICHM1cUTcjeIK7qyAQLFe8UdUYNhRQdPq5pGl9z7OIja1h4UyLsF8Mlfb1oY5/iEmHMxKyxtdVc8FEKxYQg0BZcpjXZ8SNIL9DmZpGv55/suxxbzUPYDwADCBWa8fSOJHbfH5eVeo1IrG5KL7qP5f/uUXy8KKvmjYDgoRT/3GKjJscoztfNOCfLyQMXvShOQp30jw2k0SET6ij36UoIH2DulrqjurDr03DQEzH7YD4TT9vVQ/hZ01AUiTdijwRpynaI6vUHar6sA2QGxUeFPbclSl3EkpUlYvn0mKnVtAyRlFvZzZ+vcEhT/RAFDF9W7jdNvLi2GyiprAydYNDWqyZahT0HOFqBFgnhw==;xWKA5DFgyNFjsrIVkpEPkQ=="
 ---

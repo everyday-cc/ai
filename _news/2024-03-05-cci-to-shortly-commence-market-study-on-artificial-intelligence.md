@@ -40,6 +40,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Commission considers security company"
+    excerpt: "Members of the Preston County Commission were provided information about the Rank One Computing (ROC) Smart Community Initiative during their Tuesday meeting. Jessica Sell, vice president of Congressional Affairs and Community Outreach,"
+    publishedDateTime: 2024-03-07T10:32:00Z
+    webUrl: "https://www.aol.com/news/commission-considers-security-company-033200438.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 41
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EW8Qk9O2PkrKVlcoDH431LAsq7Zvu5S+x6gN51chB4RY1SKj2h0IRlvEy8hWXoJ+rcObRg5cFoUnkyWCaON/SinDNUjbJr5kCTGGKWf3crDM/iu+/s8eOGQjcgQKM4Fg+dEN8zmAPfY2UX2DanrPa6fckswMOhCF6As8NUqdMtm7Ldd2dvFZZPliNTzj5Nfffrrb+NOlzcnMBIIBObuthY7Mb6wPshWHY/yYFI2fJDzbC/ymPJL2n4gdecGB8hRVPyfNQbBFthgdeODcTNoBWaGVZLwwPbhL6LpKQCulzZV+b9+h/fM/g2sl1ZRDe7TlXx7xqc9/pVqBMuMlafle9jmJwjXfgadPewGh7EdIgVs=;DhXlPAdLDg8FaggrhFc9+Q=="
 ---

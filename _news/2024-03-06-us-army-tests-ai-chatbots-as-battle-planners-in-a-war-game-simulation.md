@@ -36,6 +36,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 24
+  - title: "How A.I. Health-Care Chatbots Learn From The Questions Of An Indian Women’s Organization"
+    excerpt: "Women learn to use a chatbot powered by artificial intelligence developed by Myna Mahila ... represents what many hope will be part of the impact of A.I. on health care around the globe: to deliver accurate medical information in personalized responses ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.philanthropy.com/article/how-a-i-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization"
+    type: article
+    provider:
+      name: The Chronicle of Philanthropy
+      domain: philanthropy.com
+    quality: 0
 
 secured: "ttDfUm+GI1XFMqrBVMb8SzwGSgcrLTBFKyk4praLtte3psEZDy8l1kQSV0aEc7QHglzStbIynk2c84TL0S6ltaTTPQQCePgYOk7ms0OnqjHewwnzl/24ZMkHfIW9JW+7NBJKkizqCTk+3ADC9/8FLrBpA43iRtYNjm3aodigyw314S29ja+QW33/RUt2HBkXvIxkWRBKdYyF8O4zMG8CRycrapo105nca18SRDcBFbOzIChqTCpxRayOAHhV47f+OdrNTes9oUcuwMVJ7wsVLFM2K9GkxuqrK06Y8d14+Vrcuqo7v/B72WBg66MNGq51HwFQ9GHN20LadUqFVExCJPqK62w/mnsO2x6eNaHOulKg1hkdkulyLQ8aLT7r7MECynAggq10WOH0W7rGmboVwc+o1uoMkiHcO1jGtixpXV08xpYqwweG4Ywlh2H/1F55HZ4oqve6Ixj4h7GLMehEE4KXjg0bkhMoDFuGTjG94kAHpgU3Jah43Uq5slZIEHtU1ZkirmMeQpPcYW26Y4jsyw==;RW8msnrvvsIfHRyQZ3tZ8A=="
 ---

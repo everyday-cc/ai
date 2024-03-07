@@ -39,6 +39,20 @@ related:
         width: 2120
         height: 1414
         isCached: true
+  - title: "Broadcom’s AI Outlook Is Key When It Reports Earnings Today"
+    excerpt: "An analyst estimates Broadcom will generate $8 billion to $9 billlion in AI chip revenue for fiscal 2024."
+    publishedDateTime: 2024-03-07T10:25:00Z
+    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-030724/card/broadcom-s-ai-outlook-is-key-when-it-reports-earnings-today-ZtJPPfGtGMjI89eIuXqj"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-96564995/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The unplanned genius of Broadcom’s route to AI dominance"
     excerpt: "In our view, Broadcom, along with Nvidia, has become one of the top two AI plays in the public market ... along with alternative processors such as the GPU, the neural processing unit, the language processing unit and the like – let’s call them ..."
     publishedDateTime: 2024-03-02T18:56:00Z

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Commission considers security company"
+    excerpt: "Members of the Preston County Commission were provided information about the Rank One Computing (ROC) Smart Community Initiative during their Tuesday meeting. Jessica Sell, vice president of Congressional Affairs and Community Outreach,"
+    publishedDateTime: 2024-03-07T10:32:00Z
+    webUrl: "https://www.aol.com/news/commission-considers-security-company-033200438.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 41
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "CCI to shortly commence market study on artificial intelligence"
     excerpt: "New Delhi: Fair trade regulator CCI will shortly initiate a market study on Artificial Intelligence (AI) to gain a thorough understanding of antitrust concerns, the regulator's chief Ravneet Kaur said on Tuesday. AI applications are becoming more common ..."
     publishedDateTime: 2024-03-05T07:21:00Z

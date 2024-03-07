@@ -55,15 +55,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "2 Millionaire-Maker Artificial Intelligence (AI) Stocks"
-    excerpt: "Artificial intelligence (AI) has emerged as the next big growth opportunity for investors. Bloomberg estimates that the generative AI market, which was worth $40 billion in 2022, could generate a whopping $1.3 trillion of annual revenue in 2032."
-    publishedDateTime: 2024-03-02T10:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-millionaire-maker-artificial-intelligence-ai-stocks-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
 
 secured: "4IhYFUItro3wkSL2Rc8x/yuNjOhoXaBxUaFGhhNbn12/LBce4hGV5hIYbhr0e9sJpQA30E/f4S6jZWeLmY3aLA6H2WYNCPUPnxD5E0OSPpea1ldq9LSxq2UlKc0ztotu0f0FnIBNdwq1BXrSTZtxZsrfouvq3Z8WTBJupJzsJ8BAZdq7qXeU51btCVENuCl4sA5DmIzJmHe2VzN453OB+dGFWENnii3g2dr595CU1B2Yn41QS2li7oVa0OQTIAX3sQh7xUSPYuCZDa9MBNXAF+7IXgL18MAGeOvE+9ozMMLNJS8WXgOsDgegR9STL+bnMeioYb/LUZ6LxGR/Y+GLFDCyI700RZ2TvfujWDOvetU=;HEe6qLGA0eLSlnRYi9Slvg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp"
 type: article
 quality: 62
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: moneycontrol.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "All you need to know about Bengaluru’s first driverless metro train, aided by AI"
+    excerpt: "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes."
+    publishedDateTime: 2024-03-07T10:53:00Z
+    webUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/"
+    ampWebUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 69
+    images:
+      - url: "https://images.indianexpress.com/2024/03/bengaluru-metro-yellow-line.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How a two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design"
     excerpt: "Bengaluru Metro's Electronics City Metro, connecting RV Road and Bommasandra, is expected to commence operations with a 15-minute frequency by December 2024."
     publishedDateTime: 2024-03-07T01:07:00Z
@@ -54,7 +70,21 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 24
+  - title: "Bengaluru Metro’s Yellow Line deadline pushed to year-end, trial runs start this weekend"
+    excerpt: "Bengaluru: The deadline for the Yellow Line appears to have been pushed further, with the authorities stating on Wednesday that the crucial metro corridor is expected to open by the end of this year. The current official deadline — set out in the state budget last month — is July 2024."
+    publishedDateTime: 2024-03-06T21:40:00Z
+    webUrl: "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-metros-yellow-line-deadline-pushed-to-year-end-trial-runs-start-this-weekend-2925498"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 15
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2024-03%2Ff1479af7-692f-49ae-9bc4-db8e996fa7d7%2Ffile7ufuo1awpyh120jezlk9.jpg?rect=0%2C0%2C3873%2C2033&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "ON1OsPLB4CoY2e8xfu74Eh53hgxrh2iRIst9regdcx20ktDXShJi7YNUqpx6kterOIIQ6vVhnFilH1XNIx0FErEbdbxBz0AMITu+NvqMPQzmH4lvGapM26BFuRewCaDFMcjhGwlB6YDzPourmHxtX+GIx3rsmTZrqrTn1ECNc+JwSxSBmXEnygQ19kS3/QzB6NyA/2EIHTE/K12askIbAom38ovPYX6wBqvSYVaqlPF4VI4vn3XPPGf3ejMsd9H1sJGRUBZ4qFi2/TTz7ZB3p8/Jd3fmURT0jbxP0ZtHAxf0d06H9mTKCWrnmBtJu+JPRCzMxnetfxaVvXaYXJkFiuhhfi34ukKZyZWA0JXdaQE=;8gzJGB0ymvkBkgqIeQAlIw=="
+secured: "VpMlLpKyUfoaBgMx9MleT1qFu8e6ZkLzRAhUC+aJ2L/xMoOUO6N3LnpNqDR7CmRDKGhitCIc5h7oILBmLM+hYQWacGpf8C0qNTYVppyQNphLHQRxVC7kK1WlE7O4tBNX7gZW0nKABkhsFJfBXIOsBc1shLSRwAGdaW43oCYt0EMlg5aGQTVfObAxVNuixMNiTxz5/srlBmTbqCrAfw2RQlpJTcAb9XLSQoeQee7ymGp6d5ommmzIgzlPgkyt2ONQgzq8I1rpFrhdxzt1AmO75WMmgRYEOCx7do+SE7J5PkIDZMbXtBsklzTr034yvaVWfa8y7sYYX2WJ+kxT4MhvpOccZzE57Buzes4JbvJr5062wjtxXWpo4IdscCIQ5sn180mgkE+G5Ef1FM3HVzamIVviCwOGcsfD6bAeE9k0u8FwoQ4kPEREjOZX9hW2xV30t5vJHd5gewHDnBQ/huHydtwYEiIaH5xlvWk/F0XNimPzoTkZrwC+IU7NA+2sDJeV25y0P3FBL4Or6UTlKtuCRQ==;2t86QsmDwDM2rdbX39Qa+Q=="
 ---
 

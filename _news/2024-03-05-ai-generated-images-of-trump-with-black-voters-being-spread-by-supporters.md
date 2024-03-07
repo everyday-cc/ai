@@ -88,6 +88,20 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "How Porn Stars Are Fighting Back Against AI"
+    excerpt: "The AI boom is creating a minefield for adult performers. Do they fight it, or accept it as part of the new reality?"
+    publishedDateTime: 2024-03-07T09:30:00Z
+    webUrl: "https://www.thedailybeast.com/porn-stars-like-blake-blossom-are-fighting-back-against-ai"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709768608/030724-ai-hero_onjujl"
+        width: 1480
+        height: 833
+        isCached: true
 
 secured: "h/o/B56I1x6BJDpXAgr2UeTcX6+ykXLUHaOvXNKzL02WBKb8nVxuoATbGLgr84/9WfWuNpK9q7u9Qb2EhyJNCbioHJFGGED/eAVNLKLb6s01qzt+BAyENv61Ei/Zjm46JyGvLjP2itDkgTpMlfmzNaOJBoTCfTkIRIwb8uwqARlwTr0BEwuHigECMbtkVrqWaGzEmnVGHw/CUcZ5E2Rcmr6maoSGNT/wL/vk/OE+L+qHr9SIXNvaw4QDd5J24Wz6L5+rQ/BwC7o9B/zNDvhIZiXUg+k8vO6saPMXeCkhi+b7y2OIH/mfTedTTWr9BWEHzA6v1pHSt466qL6GtdH4ULXHnsfDx99i1kDH6UhHv+M=;sS8Y3UNFl8tjDkbV9tKk0Q=="
 ---
