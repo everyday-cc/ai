@@ -48,20 +48,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "NVIDIA's next-gen B200 AI GPU uses 1000W of power per GPU, drops in 2025, confirmed by Dell"
-    excerpt: "NVIDIA has its beefed-up H200 AI GPU coming soon, while its next-gen B100 AI GPU should be revealed at GTC 2024 in less than two weeks time, but now it looks like we should expect a beefed-up B200 AI GPU in the future thanks to comments from Dell's Chief ..."
-    publishedDateTime: 2024-03-03T08:05:00Z
-    webUrl: "https://www.tweaktown.com/news/96591/nvidias-next-gen-b200-ai-gpu-uses-1000w-of-power-per-drops-in-2025-confirmed-by-dell/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 44
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96591_62_nvidias-next-gen-b200-ai-gpu-coming-in-2025-uses-up-to-1000w-of-power-confirmed-by-dell_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
     excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
     publishedDateTime: 2024-03-08T00:02:00Z

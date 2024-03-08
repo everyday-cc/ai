@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-video-startup-haiper-emerges-from-st
 webUrl: "https://venturebeat.com/ai/ai-video-startup-haiper-emerges-from-stealth-plans-to-build-agi-with-full-perceptual-abilities/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1199
     height: 596
     isCached: true
-
-related:
-  - title: "AI startup Haiper raises $13.8M and releases video creation foundation model"
-    excerpt: "Video-generative artificial intelligence startup Haiper said today it has raised $13.8 million in seed funding led by Octopus Ventures to help the company build its foundation model designed for animated visual content."
-    publishedDateTime: 2024-03-05T18:46:00Z
-    webUrl: "https://siliconangle.com/2024/03/05/ai-startup-haiper-raises-13-8m-releases-video-creation-foundation-model/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
 
 secured: "zG6XJkxYlAiX7a8oXnzYQws3D1iykxiAnhTYw+uQ/7hJ+wcVzQdSlxvmeS/ARq7QPplSA37aKhSNwUvLq6aUy1hd0wgvvnHUZ9tSOmS9rxEyvX60lH7ax7bDEf7tL0UNa7GQFO4K5M7Fx37bX8+jhArcfhH1V0Tijc7qn+53yJjKyZvRjkBX80vs2/4faOGs37GjID6J3HK8nvQpyA5LEy+jtWIVUWYnzyv/Z+x4G0caZ+56lLJRDR49FI3cGRj0gSdSy5VUl6unvlOe6f803wpeqx7QELtx3QrrMmK248EH/ma3ZII/gojHutXktdxJ0nIt2Xh0mepLAB4V5pM9e1oALw0eAJvczvUO8VPNlv4=;mpo/QbCQOKuA4Xrxog3fjQ=="
 ---

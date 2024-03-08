@@ -34,6 +34,15 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
+  - title: "Australian news media could seek payment from Meta for content used to train AI"
+    excerpt: "News media bargaining code could apply to tech companies using massive amounts of online information for generative AI, researchers say"
+    publishedDateTime: 2024-03-07T13:00:00Z
+    webUrl: "https://www.theguardian.com/media/2024/mar/08/australian-news-media-could-seek-payment-from-meta-for-content-used-to-train-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
 
 secured: "lN/Qvwk244TJQBXyKR6cXXLpisig45p0WhQr0nT8RThzqb0U06J9HjKjP2rNvcLUfduwebp3LlFL2eladFQHunbEV0fB8GBW2jp+41hZCB6ngb6oIosvEDReEVgcpGCbJm2ZjqIWrjEuAEmkc/cTbKXNjMm7e2argDVku1hyed95ox+ZPOLvuloSB1ueoB8KM47NiA1unmktbCy7LblwrdNfO12E44u59DUenRoHdQCRU0Sc/ztEODR56Ye7SPAWvoLRsdOOkndAtHlBZa6AxnkyyYIilCcwuAYvMX21T6TTvDW6+m3NSABKTLKDhVD1bsHmdXNjQtsX75xKqJSRkQ0paAonZlZRRFy+qTO3t3lMHIAayResvdXj5zpRa5eoF6qp0DdkGz4uELj9GhKSXcGQeu2BCBELg9kphQ55FD0IFxMydh0nSKguH2+NHFREYndbtJ1AH5uoVFpDnvXMYIXIysfyFASFOdV7fxzRr8L7LVdEWekLdx3K3OcUYhC7bmIvYFiaPTUgWEdGiWE4ow==;M9uOYIOBR2zbBbBpRsZJag=="
 ---

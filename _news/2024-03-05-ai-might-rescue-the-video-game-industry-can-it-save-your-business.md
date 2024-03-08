@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/ben-sherry/ai-might-rescue-video-game-industry
 webUrl: "https://www.inc.com/ben-sherry/ai-might-rescue-video-game-industry-can-it-save-your-business.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "How SA businesses can unlock the power of AI"
+    excerpt: "IBM’s research in AI goes back to the 1950s and includes significant milestones like the Deep Blue supercomputer defeating chess grandmaster Garry Kasparov. In 2011, IBM Watson defeated Brad Rutter and Ken Jennings in the Jeopardy!"
+    publishedDateTime: 2024-03-08T07:04:00Z
+    webUrl: "https://it-online.co.za/2024/03/08/how-sa-businesses-can-unlock-the-power-of-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 41
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2024/03/Ria-Pinto.jpg"
+        width: 1075
+        height: 900
+        isCached: true
 
 secured: "VQSPKBERh5L4oMyzXvdqnrdQeTsuDWaN3WVOvnbpU9d7BP8H14dExIixJo/agv6BnYuz+r/Xu/PRCOW7nT+LVyUnneJDCX6JKQNWGZ/fDfGh4HZLx/3hAPpv5bbbDsOUoefpGTy0kHHjQSAa5jWU69XOG9Gsu99N1vm0oPfhe1TrE16rZobJ0MoITufLcWS7is71xsa1m5NQp0PGvOxo9a92giTh5qxyUH4F36V8TPpg1Zr9LpQxdqWT5H+hlaLA/RJnbA5AfWUrYaLF8g7jODykCJv2d5mfC96VutgzrsTlvSIqE80pDEJ/NN2aYNGSxP5yAi4DX10+oJOT70nvaRGV2eknazdeUxmgGtaa8g91JwvX7UXh4bALDHHHehfypYc+FdBhJAU3BbIr/VenFIMqLNNxbcZwybW2j+Fp67OktVsX4tR1RHK3NjdEe2KTQpv1m9QRYK/G5E5ZnccKSmkdRUQ7Vh873OFKRCgiYHmfr/BFmN3Yl24kqzTOfOC6fmlTum0LUJEt/MF3r7IpJw==;1KCFhYEMX5zNuSoDxaWdpw=="
 ---

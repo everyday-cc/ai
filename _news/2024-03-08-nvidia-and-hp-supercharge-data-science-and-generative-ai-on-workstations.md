@@ -48,20 +48,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "NVIDIA's next-gen B200 AI GPU uses 1000W of power per GPU, drops in 2025, confirmed by Dell"
-    excerpt: "NVIDIA has its beefed-up H200 AI GPU coming soon, while its next-gen B100 AI GPU should be revealed at GTC 2024 in less than two weeks time, but now it looks like we should expect a beefed-up B200 AI GPU in the future thanks to comments from Dell's Chief ..."
-    publishedDateTime: 2024-03-03T08:05:00Z
-    webUrl: "https://www.tweaktown.com/news/96591/nvidias-next-gen-b200-ai-gpu-uses-1000w-of-power-per-drops-in-2025-confirmed-by-dell/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 44
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96591_62_nvidias-next-gen-b200-ai-gpu-coming-in-2025-uses-up-to-1000w-of-power-confirmed-by-dell_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "AWS Exec: Demand for Nvidia Chips Will Stay High"
     excerpt: "Nvidia’s rapid climb to become the third most valuable company has drawn comparisons to Cisco, whose success in selling routers during the dot-com boom briefly made it the world’s most valuable public company in 2000."
     publishedDateTime: 2024-03-07T05:04:00Z
@@ -86,6 +72,6 @@ related:
       domain: channelvisionmag.com
     quality: 19
 
-secured: "umTHUUerlntz46rZq51VHp2GWnuQkSlaewhgPcOuUGOsgJ/Z9jTn8ASZI5RwiGoEZBYwPLcQurW1PtV5XlAQPEMYcXeAXgNM4ASbWdnchAqKE7z6gLPMKadxbjvO4858r4b4jQcXSlWs6xLZYp4RtpHSqQY+MZ+3sNwRgSYQvhFH2wgXZ5t4K5C1U7TP41AcqLFvC50AMqicICevfRXIJIgABrLb/TruAt3cGJyfKRx9sRBc5SbtLE3eASUVbXDeD6gwwZDq5h23xRpkobU00cVSbvjvpz+pbdGhVOYFCfIMkvRYzTbMAa0EGua509t8dRt6TXAzT9pWapwRDvoO4gF+JihB8MnKVOsijh0iPSQ=;NSJ3Svambv7sEsEce2q8wA=="
+secured: "5cXPFR9K0D4QawleZSFkidI4TuEW+m60j6FNqBmqtpBBxEKhjNdO6av5LnkHVwoJxVHCFdTEP8GAxIjlNRyq7jJ7+ftlopfSxN5jnh4O+yZwZR3kxiUaYIvEyYnSoBijVQUhC7qHpyWqjMFXYR9xzm55iXyoQvMz4PEezqHvASAzDNfNbwplgQ6UXDMzDJdMe0JBFAfxt1ptrMFgOw4gGZfHIeW1d892f4TRvLRu6mZOPaMu02rjkTlKKK9hyDpTbieQJZHno3jN3jrZayGUu1nUNaEJBIxlyGWShpimV7mQv2zJ3135IPJl20n3ViBe6vj1p1MXaj32ANYyawFTt+8pPn8L2NbVt6NjkROx0pth3CjXL6HE+xjwHJ+FTJw2F+9sNTU/H3rlU3BKm8bvcs23Xr4ye6Fu6l4+WpvyzJHyncG3vXfiNByv3PNjqu4CbH2opERyLHiqhEu6ztyp9uBCQCKHi+FuFzDhOiGDR2u7IDglgxm7edpxY32l3Y6sd9MXx7Siw7BLi2qoJFSmfA==;+8tXIOOVKmv8zjR2iE766w=="
 ---
 

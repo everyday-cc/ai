@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-let
 webUrl: "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Under-the-Radar AI Stocks With Long-Term Growth Plans"
-    excerpt: "The slow and heavy vetting IBM's prospective clients apply to the Watson AI systems today will result in lucrative, hard-to-replace, multiyear contracts. \"The early work for clients around data ..."
-    publishedDateTime: 2024-03-03T07:51:00Z
-    webUrl: "https://www.fool.com/investing/2024/03/03/3-under-the-radar-ai-stocks-with-long-term-growth/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/767572/ai-robot-whispers-secrets-to-smiling-human.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "3 Under-the-Radar AI Stocks With Long-Term Growth Plans"
     excerpt: "The slow and heavy vetting IBM's prospective clients apply to the Watson AI systems today will result in lucrative, hard-to-replace, multiyear contracts. \"The early work for clients around data architecture, security, and governance is critical and hard ..."
     publishedDateTime: 2024-03-05T15:31:00Z

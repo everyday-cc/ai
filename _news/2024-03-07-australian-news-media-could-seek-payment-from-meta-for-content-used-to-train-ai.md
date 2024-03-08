@@ -23,19 +23,28 @@ topics:
   - AI
 
 related:
-  - title: "Australians unconvinced about AI safety: survey"
-    excerpt: "There is a wide disparity in those who trust AI across different Australian regions, according to a new survey on trust in government services."
-    publishedDateTime: 2024-03-03T07:26:00Z
-    webUrl: "https://www.afr.com/politics/federal/australians-unconvinced-about-ai-safety-survey-20240229-p5f8o5"
+  - title: "Swimming Australia to turn on computer vision at training"
+    excerpt: "Since 2019 — when Swimming Australia released its bespoke athletic improvement system “Swim Performance and Race Tactical Analysis” (Sparta 2) — computer vision has tracked Dolphins, but only at competitions."
+    publishedDateTime: 2024-03-04T20:15:00Z
+    webUrl: "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 34
+  - title: "The 'No' Voice Result Showed Us We Need To Prioritise Truth-Telling In Australia"
+    excerpt: "The Indigenous Voice to Parliament could have been a chance to address issues First Nations people often face, such as domestic and family violence,"
+    publishedDateTime: 2024-03-06T05:54:00Z
+    webUrl: "https://menafn.com/1107940383/The-No-Voice-Result-Showed-Us-We-Need-To-Prioritise-Truth-Telling-In-Australia"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.2973%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/a2726f55b95d61f6be4a406d610f68cfc2ce4e11"
-        width: 1200
-        height: 628
+      - url: "https://menafn.com/updates/pr/2024-03/06/TC_5bc98image_story.jpg"
+        width: 960
+        height: 641
         isCached: true
 
 secured: "Rguz3Jeo3BUhdM+LUJ1b73EKSq2PEFDJoFZmkgGkWDxVbn8M5YbtoXzOtQx9gR+S1XMhjdruKtVIGzi5F9ia6KKPbKNZvH5R4JyhrgI1y/SzCsBcg0Ub8+EsgIfvxDMQkmYwIXz82JcZnCC8XqH8sLjtXXi3vGbmCxWOBvZKxgdjoSto54RTGJPaH/SQ8JfL1n614Hm6+9ZJT3hf4ecsBYgbM0P+XavkzcL8ZaxyzqMinJTQxeBjr774lMnraxfaSiMIbOLFdryLuPxnMIz6w9dpv2/ApMADQ+FGItjcqaeooQ4TuPMELaG4Q5PL82IlkebKTYJJIXWgEm25NY7meoXKcvPJ56QwMe+eNKHOTyhobvpC6TMX+lAt5oiq4eVmF3QpuBQszO1phFZ84XlOZ7flC8yU5Eiv+nZOxIgwrq1WVqQvKplA0cgiIA6DVTUNOjdueO+tyTfj1swZ4MbCV3pLE0rdPcOZa5tuuR1DZupRKvlrvfw/jns9pIYnxSXPoj9hZGDQS263WoGok4Pv8g==;sY9YNGXVV/N1YFH2MepWsg=="

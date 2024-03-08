@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip"
-excerpt: "Broadcom said on Thursday it expects US$10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company’s full-year forecast failed to impress investors."
-publishedDateTime: 2024-03-08T04:20:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
+excerpt: "A 26 per cent rally in Broadcom's stock in 2024, fueled largely by AI optimism, has come with high growth expectations for the Palo Alto, California-based company. The stock dipped more than 1 per cent in after-hours trading after not raising its forecast."
+publishedDateTime: 2024-03-08T05:50:00Z
+originalUrl: "https://www.crn.com.au/news/broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip-605911"
+webUrl: "https://www.crn.com.au/news/broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip-605911"
 type: article
-quality: 101
-heat: 151
-published: true
+quality: 71
+heat: -1
+published: false
 
 provider:
-  name: scmp.com
-  domain: scmp.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - AI Hardware
@@ -24,9 +20,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/08/aca0ec53-7b33-408f-8d3d-d58d1e8781fb_31b6e3d9.jpg?itok=M-6jUhF_&v=1709871585"
-    width: 1200
-    height: 630
+  - url: "https://i.nextmedia.com.au/News/2024-03-07T212055Z_1_LYNXNPEK260V6_RTROPTP_4_BROADCOM-RESULTS.JPG"
+    width: 1000
+    height: 665
     isCached: true
 
 related:
@@ -74,6 +70,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Is Broadcom an Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before Its Big News on Thursday?"
+    excerpt: "Missed Out on Nvidia Stock's Terrific Surge? Buy This Cheap Artificial Intelligence (AI) Stock That Could Jump Another 25% in the Next Year Artificial Intelligence (AI) Could Make Semiconductors a $1 Trillion Market by 2030: Here Are 3 Top Stocks to Buy Now"
+    publishedDateTime: 2024-03-05T05:50:00Z
+    webUrl: "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 65
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/767825/computer-chip-engineer.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
   - title: "Broadcom’s AI Outlook Is Key When It Reports Earnings Today"
     excerpt: "An analyst estimates Broadcom will generate $8 billion to $9 billlion in AI chip revenue for fiscal 2024."
     publishedDateTime: 2024-03-07T10:25:00Z
@@ -103,6 +113,6 @@ related:
         height: 533
         isCached: true
 
-secured: "OSqiVFANCHYCs59QHZTWLNEvaAUrANj6CBbMDQaqrms3H7ts7nHqiyopJNHs5Pe5jdajGdA1OULhZkEXkAjg/8olZ+tdgxRiG+lNV41uFC8fUpOQQVLOaolN52k419ZASKKBUg+CdUNAYpzgL7Uwqnqeu/oMyPaL1E/4NK3sg1kZOR3fVkbg40TsYZxtRo3Tc0FbQEZNjQew6LOABMhc1nqiFmWhfGtOsAhiJ7zxuw3x+byKJtbq2hZ1TN3vUgz7u4djrPDhv7fiiL2lBgKFRNgq6x3UOt0K2q4BadBjBcgEdKMvN2tD4+CfagNNf609/I6j5VzOaxdvui+T6Olbtg++OleIy04vcv95O9VTwpQ+pFU19AoT728i0EhExXdt0RrOtRf0l2efMJmhN3IS9o81+g7Yr47xQBRqnSmdkWvB8sxFxGDF8Oim/Sx5KIVXNSAZasAZ8rDzrvqWQNJrh3f1sUZJ0QiqlmdQoA7qVmUCvk6HP4WkJCb9MKYxbi6IslIx8CoqswLSpdf+TKWqHQ==;Xj90BnnOUp/03M3rMM80OA=="
+secured: "f2mmiwAm1hf1iPlcP83T8UTy+/JvTshPqFcZwN/J1Z5K52IWobQak/mavZhCYyHWCsnsddMa4059tl4lxc+upRTJbmZUw7q38NK8aua2WfnHB7/mumDAANlBj0mZi80GC9ENDPwMoWy7MVcT/I8PzRTpvVhymJ5rEMkKHlh8Cd+y0jNKR8Q/JdALpa0XFXmDVMgtnLMrfZMBcu8GMukL8+0RVR+2WSWt1PSTEYjyqnNMUsuqc7CnAZbqqn4emLXdlE/kxOHet5RKoKtYqK2f4yLwFlUBdu3SFbbif7aJ6XJAiGRGqSduUb+eDjkgdw0L5Vh8qineN4M38wo8p9FjTI4UOJW1WHVGVMFG9d3UMsY=;Np23FzbJjvff/28I30rWCg=="
 ---
 

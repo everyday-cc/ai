@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New chip built for AI workloads attracts $18M in government funding for 'revolutionary' tech"
-    excerpt: "Naveen Verma and his team have unleashed a new paradigm in AI hardware that promises to move AI off the server rack and out of the data center."
-    publishedDateTime: 2024-03-06T21:38:00Z
-    webUrl: "https://www.princeton.edu/news/2024/03/06/new-chip-built-ai-workloads-attracts-18m-government-funding-revolutionary-tech"
+  - title: "Not Science Fiction: How Optical Neural Networks Are Revolutionizing AI"
+    excerpt: "A novel architecture for optical neural networks utilizes wavefront shaping to precisely manipulate the travel of ultrashort pulses through multimode fibers, enabling nonlinear optical computation. Pr"
+    publishedDateTime: 2024-03-08T06:35:00Z
+    webUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/"
     type: article
     provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 43
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 54
     images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2024/03/Verma-chip-prototype-01-3000x1687.jpg?itok=jBK60AJt"
-        width: 1440
-        height: 810
+      - url: "https://scitechdaily.com/images/Quantum-ComputingTechnology-Art-Concept-Illustration.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "9ch9j0KUvWWB5Ev1RmBu3uoRGr7L7we1UlPHx/V8Z16u8uyasohxmlJ52Lscf5XB9V5cKFtK2XdDurjhdajRocWqu9F8WphaLFrZcFMMhiOc9mPX2uk9qDLIFAwVbxolnz2VQ0F4q4hAxogUv7DXyPRTC8RdiuwgQo5X6PVW6RiIQHV6ybdekBANkg3sqAtPaJIScy7EBTnIWL/VBOmVZJzCNceFCpMkRV6bAghmQ+zuuIyMyh8qa4KWrSwx6RyRJggnfGvMWln+XJMbP0iKuDQt4S9kujqjXQjpVdxwzKlqSyV5kQ02SG/JumoazGcipF+IuxB3p16Ie3EBx9Pl0813YkOLcb5gYkr7Sgrbs2M=;VFw3/pJwA1FSO6+B4d8itw=="

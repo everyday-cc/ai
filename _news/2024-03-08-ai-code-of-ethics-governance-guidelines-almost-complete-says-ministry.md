@@ -41,7 +41,21 @@ related:
         width: 1000
         height: 679
         isCached: true
+  - title: "AI ETHICS AND GOVERNANCE GUIDELINES NEARING COMPLETION - MOSTI"
+    excerpt: "KUALA LUMPUR, March 8 (Bernama) -- The development of the artificial intelligence (AI) code of ethics and governance guidelines has now reached 90 per cent, according to the Ministry of Science, Technology and Innovation (MOSTI). It said the document is scheduled to be presented to the Cabinet this month before its official launch in April."
+    publishedDateTime: 2024-03-08T07:02:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=2277255"
+    type: article
+    provider:
+      name: bernama
+      domain: bernama.com
+    quality: 54
+    images:
+      - url: "https://www.bernama.com/storage/photos/d248d6cae68685a7060d70307846e2ae65eab51f8ecc6"
+        width: 1110
+        height: 694
+        isCached: true
 
-secured: "Q2ULsnfygtnAeqaTeKWsmJoQOZnqpblo5368N2J5AlUrRLeKJGyzZslz1wOQ9gUBe89yDs/MzHIaoK5fcPsIGULm4QHkxSjP4RB7bIPA25BGh5TPCHVqHxBIfbweuXQSDOFbOMFmOBhjY+YQHll6uOF4hgIXtxKS1YnLuWvILA5d4Li+y3nWx2B4gOHrvSNALpHFlDJTlahxrCjDI90gpEETajYD424Q/FIhRxdUQSo98SuBfPPPxuUyEtBfwVUIY/fz8O0/9Fu7OUupPHslUcSLE5xpqmTMhKAD03clH2TA6+aXfFhfky5GhVkaEtOTupmVQXwkthKtvxTddBY47q94QU/xZQpp1OZ2H1XgR6E=;0Bug0+9+yDvr/BLzc0u/fA=="
+secured: "NgGUCRxWzjHLMV7UwhnkGBdBMOT9FHpbP9lcNNNt7x5mZmOjKzrYEVJwKArdD87G8xbjfye2uU9Ddd5SB/S1uoWTYSp7F35wYpDBWXSInNR92rHwt+Efx5kMJm2RSHPxiXPmnCgwltiybpOWXXY4VjUWhaF7dtnfnGAiJz+oaaf37Ov3bF2pe0wK66luHSLZJoTrNSm3y/2ELYYH7+Wa/U/0PgD49bcA+tC3kOPOJ/T53aIJt+1XKbgjLcL4yX7iRqlsuv99ZYEVImTavwhXVNHeGQnzbtwlt/bMEOusowD4MoGP0FTiea4E/QAMIHNVXIP1iYVAnwtPXCGEICmf3WKcW/YdAG9Th6HCPWwV/YyOJu3HTa54TbClHUJNls2l3fp1Z59d9+pyXeuoJtIaWBMoOjLbFzmXs5GErSbSnX671S1g/5neOW66VgXYf14vlBPdt5gGQwc9SoDuxTRmN9OQ4EheSJXBYx78vXvAvVHnxugVdk98M2Rdw3Pr7FdtMn0lKYEQWoM6OiRK0vVVGg==;N6Bzh77xbF5uQuIf4FWqJA=="
 ---
 
