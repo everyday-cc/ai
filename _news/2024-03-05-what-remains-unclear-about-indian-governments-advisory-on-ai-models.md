@@ -67,6 +67,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Lenovo Launches Yoga Slim 7i Laptop for Content Creators in India with AI Innovation"
+    excerpt: "Lenovo has introduced the Yoga Slim 7i laptop in India, specifically designed for content creators. Boasting a slim profile with a thickness of 14.9 mm, the laptop features a MIL-810H military-grade aluminum chassis for durability. The highlight of the device is its 400 nits 100% DCI-P3 OLED display, optimized for content creation tasks."
+    publishedDateTime: 2024-03-08T10:58:00Z
+    webUrl: "https://www.siliconindia.com/gadget/news/lenovo-launches-yoga-slim-7i-laptop-for-content-creators-in-india-with-ai-innovation-nid-228328.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/lenevo1.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Serial entrepreneur launches Denver AI startup for regulated industry"
     excerpt: "Several regulated industries and companies have banned their employees from using generative AI tools like ChatGPT, fearing that proprietary information will be leaked. Denver startup Liminal aims to address those security concerns."
     publishedDateTime: 2024-03-06T11:57:00Z

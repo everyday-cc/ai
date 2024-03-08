@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -276,6 +276,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1702217813_538101_ijkvbw.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
+    excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
+    publishedDateTime: 2024-03-08T06:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20240307PD209/anthropic-claude-3-chatbot-ai-amazon-google.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 13
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240307pd209_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Google-backed Anthropic debuts its most powerful chatbot yet, as generative AI battle heats up"
     excerpt: "This time last year, Anthropic was seen as a promising generative AI startup founded by ex-OpenAI research executives. It had completed Series A and B funding rounds, but it had only rolled out the first version of its chatbot without any consumer access ..."

@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Airports using biometric facial recognition in Washington"
-    excerpt: "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ..."
-    publishedDateTime: 2024-03-07T02:17:00Z
-    webUrl: "https://www.bellinghamherald.com/news/local/article286376695.html"
-    type: article
-    provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
-    quality: 34
 
 secured: "yBqumjAlotEvarkv95cS+D2LJwqTnoRPbAikoDqWMb5bwcf9/OnH1aMhNvkQZQr+vErMGzIE0+YGkfLkzReyAUMb57wbNllzCq/GJQahiERoBrASqA1dLJXYoSV2x+3WDCPYldy7QyUTPT15CoazXxjCY24h77bGSO8EsZWOhmHl47hSem0+IS+nRHOnGjtVe6xxCYrXk/IPxhKGc1hYk9t1O05sWA2GndRbo4j6XJd2L9sIT9h3Cq9SiHhnoFlHFoJt3U11C8UMob/a17kZK4DBC+IZo0oeUyHDgjX+6lW4MpHKCF4ktI0mHAwMYnovZiLyvhZmKYb1Doyp3VbGKgJ25qvLyH8T8nLWvb6WmWKHY+ukwu6Ez93JmIHpFBpJBYg0yA92x1JZobHXSEDCvNOA/tnxmQb8dKK7jc28RUnvw9cFh6ui9phgoXvv56ddPxKARC45amtPXvMVBiLO87Xw8Cv+J/LniyoJkl64jfigzH8xBisvkVoutiJohTOA2Wr/9gr5HLovz4GR8dQ6+Q==;6Gio92AUDeftIjWRdMiMaQ=="
 ---

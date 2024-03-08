@@ -2,6 +2,101 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2023-11-28-artificial-neural-network-market-to-reach-14-billion-by-2032-at-199-cagr-allied-market-research.md",
+      "title": "Artificial Neural Network Market to Reach $1.4 Billion by 2032 at 19.9% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research published a report, titled, \"Artificial Neural Network Market by Component (Solution and Service), Deployment",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-neural-network-market-to-reach-1-4-billion-by-2032-at-19-9-cagr-allied-market-research-301999358.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-neural-network-market-to-reach-1-4-billion-by-2032-at-19-9-cagr-allied-market-research-301999358.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
+          "width": 2000,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T15:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age.md",
+      "title": "Ensuring Data Privacy: 20 Best Practices For Businesses In The AI Age",
+      "excerpt": "Ian Gotts, Elements.cloud The fusion of AI and transparency leads to trust. By publishing an AI ethics charter, an organization illuminates its dedication to data privacy. A transparent AI ethics charter is more than a document; it’s a promise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fa5af64c1571671084b661d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/",
+      "publishedDateTime": "2023-11-28T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-why-physical-operations-are-uniquely-positioned-for-ai-transformation.md",
       "title": "Why physical operations are uniquely positioned for AI transformation",
       "excerpt": "With physical operations, companies deal with massive, petabyte-scale data in the cloud -- AI is the natural fit for extracting value from it.",
@@ -1017,100 +1112,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-generative-ai-used-by-three-quarters-of-young-brits-ofcom-says.md",
-      "title": "Generative AI Used By Three-Quarters Of Young Brits, Ofcom Says",
-      "excerpt": "AI has been a major topic of discussion ... according to Ofcom’s ranking. Ofcom’s research also found that YouTube was visited more than Facebook by UK adults last year, knocking Mark ...",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/#!",
-      "originalUrl": "https://deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1794514589-e1701096953854.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/11/ofcom-generative-ai-young-brits-research-1235638092/amp/",
-      "publishedDateTime": "2023-11-28T00:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-dutch-biotech-startup-bags-22m-for-proprietary-generative-ai-model.md",
-      "title": "Dutch biotech startup bags €22M for proprietary generative AI model",
-      "excerpt": "It has been nearly a year since OpenAI unleashed ChatGPT on the world, and it seems as if no one (at least in tech) has stopped talking about generative AI since. Meanwhile, the applications of GenAI",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/dutch-biotech-startup-bags-e22m-for-proprietary-generative-ai-model",
-      "originalUrl": "https://thenextweb.com/news/dutch-biotech-startup-bags-e22m-for-proprietary-generative-ai-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F11%2Fsequence-structure-function.jpg&signature=c45d1095de7f37cfebd21c17fa39a3a9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-r
 webUrl: "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
+    quality: 19
+  - title: "The Top 50 Language AI Companies to Watch in 2024"
+    excerpt: "Florian and Esther discuss the language industry news of the week, with Head of Research Anna Wyndham joining to give a breakdown of the 2024 Slator Language AI 50 Under 50, a list highlighting 50 of the newest and most notable language AI companies."
+    publishedDateTime: 2024-03-08T08:30:00Z
+    webUrl: "https://slator.com/top-50-language-ai-companies-to-watch-2024/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
     quality: 19
 
 secured: "SYutL0sKLLtSnNSYGk4GzFD2UV21yszdsdODyVdDS/ahb2MInmSj7SKtqgt/OR4zPO8rPLC174I1ha84mCKRaAWa73LU0TJR/mE3P+MmlGrt9JBYbyK38O1u29Usw+7R9fuRcavJLFUreOmEklSGCbRWk67CToo+WuWYewFVGsuD6irLVmBunIg90JQBcnMDmXh22Pn2BtXVpPv2Eao2rdlBl2GZqWdU+y6YRpmBokq3kHwMC3M+0aruYjn4UO/U4LO6CcyKhRLr+XT58ozZlLJ7HsgKrXxhMY2q5ZHFKNWFNeC+ESuojUM6X7gLadk2tk1GPe5B3TiAmCuNB+zKtlaQSvW1HpZU5vjSNNoMr68=;uALOHEUlAy23eQyBfBYHzw=="

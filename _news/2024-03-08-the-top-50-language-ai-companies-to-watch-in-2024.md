@@ -1,0 +1,48 @@
+---
+category: news
+title: "The Top 50 Language AI Companies to Watch in 2024"
+excerpt: "Florian and Esther discuss the language industry news of the week, with Head of Research Anna Wyndham joining to give a breakdown of the 2024 Slator Language AI 50 Under 50, a list highlighting 50 of the newest and most notable language AI companies."
+publishedDateTime: 2024-03-08T08:30:00Z
+originalUrl: "https://slator.com/top-50-language-ai-companies-to-watch-2024/"
+webUrl: "https://slator.com/top-50-language-ai-companies-to-watch-2024/"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Slator
+  domain: slator.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+related:
+  - title: "3 Ways to Succeed in the Rapidly Changing AI Landscape"
+    excerpt: "Some of the practices include storing data locally and ensuring adherence to ideology, laws, ethics, and data security at national and enterprise levels. To bring the business to the next level, AI-based LLMs should adapt to customers' specific ..."
+    publishedDateTime: 2024-03-04T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1709324194-ai-tech-landscape-startup-g-825151062.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Five Top Game-Changing AI Stocks to Buy and Hold Today"
+    excerpt: "All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE: VERS) (OTCQB: VRSSF), Nvidia (NASDAQ: NVDA), Microsoft (NASDAQ ... VRSSF), For Example VERSES AI Inc., a cognitive computing company developing next-generation ..."
+    publishedDateTime: 2024-03-07T20:07:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24627003/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
+
+secured: "380VUT0HDla/FTlICiUmeL7QE5e3znhoYrOnqIYtSDXnrXptG+cOBFl4HT+lX7AWFLSpXyVShnISu4/bqMC5hcalVTCsURqxDMea/PqVrULhbGDUJmjKTQOgi/bfMkOEx+CAUFTAwxE3swfSHBWqYSvJk+FVnR0rj4UqOQfZuV5m/up9mxXd8+vTA+Y4cVUPHtv18HsuuUbia5YVenMjoU3G2DvoYnbhKrnATV79OYXajB9gn9ZpEmJ/5tzqDAiG9JHE9JIcng3kqkCusuYLnnDbapRT5S8dkgfUkyt1gdq8JSZoPGF84qO45U3+XLx+g/bkToIG2ALBVDFS6/sOMmFQRdE8r7Mz4C4RMu56qWU=;H52SQpG2b9wS2GprbSTwag=="
+---
+

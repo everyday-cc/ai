@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-03-01-figure-ais-675-million-breakthrough-in-humanoid-robotics.md",
+      "title": "Figure AI’s $675 Million Breakthrough in Humanoid Robotics",
+      "excerpt": "In the ever-evolving landscape of technology, humanoid robotics stands as a frontier teeming with potential and promise. The concept, once confined to the realms of science fiction, is rapidly materializing into a tangible reality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
+      "originalUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2024/02/alex_mc9997_a_robotic_flying_insect_in_nature_4f742cc4-0f5e-456d-9b1f-479e6bf0a829-400x240.png",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T19:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use.md",
       "title": "Apple CEO Tim Cook set to unveil plans to expand generative AI use",
       "excerpt": "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,",
@@ -1127,40 +1170,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh.md",
-      "title": "India leads first human clinical trial of gene therapy for haemophilia A: Dr Jitendra Singh",
-      "excerpt": "Union Minister Dr Jitendra Singh addressing the ''National Science Day 2024'' programme at Vigyan Bhawan, New Delhi on Wednesday. India has conducted the first human clinical trial",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "originalUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "publishedDateTime": "2024-02-29T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

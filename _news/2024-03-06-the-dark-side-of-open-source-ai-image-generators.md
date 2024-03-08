@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generat
 webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The 10 Best AI Writers & Content Generators Compared"
+    excerpt: "Following the introduction of these generative AI tools and their mainstream adoption, there have been plenty of discussions about ethics, the impact on creativity, and the impact on jobs. In a meta self-referential message, Gemini (Bard) even offers this ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.searchenginejournal.com/best-ai-writers-content-generators-compared/506218/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 41
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2022/05/ai-content-generators-6273d3bbc7264-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "CeADAR shares open-source AI tools for financial services"
     excerpt: "CeADAR says its open-source tools are tailored to help the financial services sector incorporate the benefits of generative AI."
     publishedDateTime: 2024-03-04T09:47:00Z

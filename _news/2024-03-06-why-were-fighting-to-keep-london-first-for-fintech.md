@@ -49,19 +49,33 @@ related:
         width: 1200
         height: 743
         isCached: true
-  - title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
-    excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
-    publishedDateTime: 2024-03-07T07:00:00Z
-    webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
+  - title: "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024"
+    excerpt: "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ..."
+    publishedDateTime: 2024-03-07T09:02:00Z
+    webUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Mena FN
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/464663-Screenshot-2024-01-18-225.jpeg?h=bde28bee&itok=Hgla7csP"
-        width: 600
-        height: 316
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?327208"
+        width: 357
+        height: 250
+        isCached: true
+  - title: "Anne Boden on supporting female fintech founders"
+    excerpt: "The book contains contributions from leading women in fintech including June Angelides ... phase will be focused far more on technologies like artificial intelligence (AI) and deep learning, she comments: “We've also got the additional change that ..."
+    publishedDateTime: 2024-03-08T10:19:00Z
+    webUrl: "https://www.finextra.com/the-long-read/972/anne-boden-on-supporting-female-fintech-founders"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/972.jpg"
+        width: 799
+        height: 449
         isCached: true
   - title: "The Investment Associations signs fintech agreement with Canada"
     excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."

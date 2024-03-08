@@ -50,6 +50,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "How Stitch Fix Is Using Generative AI To Help Us Dress Better"
+    excerpt: "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities."
+    publishedDateTime: 2024-03-08T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "Accenture partners with Cohere to bring generative AI to enterprises"
     excerpt: "The collaboration between Accenture and Cohere, announced today, aims to provide enterprise clients with tailored generative AI solutions that can significantly boost productivity and efficiency across industries."
     publishedDateTime: 2024-03-06T06:29:00Z

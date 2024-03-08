@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-08T05:50:00Z
 originalUrl: "https://www.crn.com.au/news/broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip-605911"
 webUrl: "https://www.crn.com.au/news/broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip-605911"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Sales
+  - Meta AI
 
 images:
   - url: "https://i.nextmedia.com.au/News/2024-03-07T212055Z_1_LYNXNPEK260V6_RTROPTP_4_BROADCOM-RESULTS.JPG"

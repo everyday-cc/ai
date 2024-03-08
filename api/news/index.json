@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-08-airports-using-biometric-facial-recognition-in-florida.md",
+      "title": "Airports using biometric facial recognition in Florida",
+      "excerpt": "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ensure your ID isn't fake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/",
+      "originalUrl": "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DVRK2BHLAZGBXGV3QJLBZQF2B4.jpg?_a=ATAPphC0",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 6 WKMG",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-bjp-to-use-ai-to-translate-pms-speeches.md",
       "title": "BJP to use AI to translate PM’s speeches",
       "excerpt": "BJP is using 'Bhashini', an AI-powered tool, launched under the National Language Translation Mission, to translate PM Narendra Modi's Lok Sabha campaign speeches into regional languages, bridging the language gap and connecting with audiences in southern ...",
@@ -421,7 +464,7 @@
       "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -871,7 +914,7 @@
       "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1153,59 +1196,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-linkedin-learning-unlocks-250-free-ai-courses-for-a-limited-time.md",
-      "title": "LinkedIn Learning Unlocks 250 Free AI Courses for a Limited Time",
-      "excerpt": "LinkedIn Learning is offering 250 AI courses for free through April 5. Get the details about the offer and LinkedIn's new Workplace Learning Report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/linkedin-learning-ai-courses/",
-      "originalUrl": "https://www.techrepublic.com/article/linkedin-learning-ai-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/03/AdobeStock_353163602_Editorial_Use_Only.jpeg",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Meta AI"
       ]
     }
   ],

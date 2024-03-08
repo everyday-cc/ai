@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-05-ai-job-growth-lets-get-specific-starting-with-health-care.md",
+      "title": "AI Job Growth: Let’s Get Specific, Starting With Health Care",
+      "excerpt": "There’s no need to imagine this anymore. The innovation is in the organ chips. AI algorithms can analyze medical images such as X-rays, MRIs, and CT scans to assist radiologists – actually, improve their readings – in detecting abnormalities and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e653692c81167a157e0694/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1501,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-black-trump-supporters-are-being-ai-generated.md",
       "title": "Black Trump Supporters Are Being AI-Generated",
       "excerpt": "Donald Trump supporters are creating and sharing AI-generated images of the former president with Black voters. The photos appear to be an attempt to inflate Trump’s popularity with the Black community, which may be irreparably harmed by his ties to white supremacist groups, but the photos are nothing but fakes.",
@@ -509,7 +561,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -759,7 +811,7 @@
       "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -915,7 +967,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1061,7 +1113,7 @@
       "originalUrl": "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1239,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it-as-potential-rival.md",
-      "title": "Tech war: Huawei’s AI chip capabilities under intense scrutiny after market leader Nvidia taps it as potential rival",
-      "excerpt": "The chip can compete with Nvidia’s A100 in terms of powering AI algorithms, according to Dylan Patel, chief analyst at San Francisco-based semiconductor research firm SemiAnalysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/02/35eac653-b835-4edb-9b5b-918e6ada3b4f_ee267289.jpg?itok=QNfkaJH9&v=1709376743",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "publishedDateTime": "2024-03-03T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -28,6 +28,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
+  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
+    excerpt: "NVIDIA CUDA-X Speeds Data Science on HP Workstation Solutions Pandas provides a powerful data structure, called DataFrames, which lets developers easily manipulate, clean and analyze tabular data."
+    publishedDateTime: 2024-03-07T17:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Nvidia wants to democratize AI with new RTX 500, RTX 1000 laptop GPUs — but I cannot help wonder whether Nvidia RTX 4000 GPUs are a better choice"
     excerpt: "Nvidia wants to make AI more accessible to everyone with the launch of its new RTX 500 and RTX 1000 Ada Generation Laptop GPUs. These GPUs, tailored for professionals on the go, will be offered in portable mobile workstations, broadening the Ada Lovelace architecture-based selection."
     publishedDateTime: 2024-03-03T16:19:00Z
@@ -55,20 +64,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/12405/008465e6-1460-41e0-8712-146d00a768d9.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 674
-        isCached: true
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
-    publishedDateTime: 2024-03-08T00:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 38
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
         isCached: true
 
 secured: "ipdFgNa13RBuUXfPp71GaiscN64XCBXXG0PydMuLNVnbKEM6OsjyD5Hh78FL7KBJv1C3RxLAozj8b26iG0zHplN3Sou0atDIpRNnQu1h38RILn598DSCFsuZ4OER5Wfw4L35lcRJZTA4iRqH/IEJ6mOsXEsuwejv0LkmTd83TesxMCjD8PJ0bowQiV7F/KIUqOV9sEdkt/+50+OGsOVVRzBD+TROi1SSexmYm9aOVVTBjn8Kqls83inY8QGE9H1L40rpBX9gFZnnzDl9Ne76iAAjQldtsgap4N7uihioEc5lagdb//DGDCMZCO/lz5ivn07jpi9/d+9QmE0F6T3FtyLCl+pQ5BgYGJ/BYYM/iWk=;TC4TLcnqRraJ7lI+uDZQ6Q=="

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip"
+    excerpt: "A 26 per cent rally in Broadcom's stock in 2024, fueled largely by AI optimism, has come with high growth expectations for the Palo Alto, California-based company. The stock dipped more than 1 per cent in after-hours trading after not raising its forecast."
+    publishedDateTime: 2024-03-08T05:50:00Z
+    webUrl: "https://www.crn.com.au/news/broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip-605911"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 73
+    images:
+      - url: "https://i.nextmedia.com.au/News/2024-03-07T212055Z_1_LYNXNPEK260V6_RTROPTP_4_BROADCOM-RESULTS.JPG"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "Broadcom sees US$10 billion in AI chip sales in 2024"
     excerpt: "About US$7 billion of the firm’s AI chip revenue in 2024 would come from helping just two major clients design custom AI chips Read more at straitstimes.com."
     publishedDateTime: 2024-03-08T02:10:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/03/08/aibroadcom080324.JPG"
         width: 860
         height: 573
-        isCached: true
-  - title: "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip"
-    excerpt: "A 26 per cent rally in Broadcom's stock in 2024, fueled largely by AI optimism, has come with high growth expectations for the Palo Alto, California-based company. The stock dipped more than 1 per cent in after-hours trading after not raising its forecast."
-    publishedDateTime: 2024-03-08T05:50:00Z
-    webUrl: "https://www.crn.com.au/news/broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip-605911"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 71
-    images:
-      - url: "https://i.nextmedia.com.au/News/2024-03-07T212055Z_1_LYNXNPEK260V6_RTROPTP_4_BROADCOM-RESULTS.JPG"
-        width: 1000
-        height: 665
         isCached: true
   - title: "Is Broadcom an Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before Its Big News on Thursday?"
     excerpt: "Missed Out on Nvidia Stock's Terrific Surge? Buy This Cheap Artificial Intelligence (AI) Stock That Could Jump Another 25% in the Next Year Artificial Intelligence (AI) Could Make Semiconductors a $1 Trillion Market by 2030: Here Are 3 Top Stocks to Buy Now"

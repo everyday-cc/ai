@@ -65,7 +65,7 @@ related:
     provider:
       name: CRN Australia
       domain: crn.com.au
-    quality: 71
+    quality: 73
     images:
       - url: "https://i.nextmedia.com.au/News/2024-03-07T212055Z_1_LYNXNPEK260V6_RTROPTP_4_BROADCOM-RESULTS.JPG"
         width: 1000

@@ -306,6 +306,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-27-google-genie-and-the-ais-set-to-revolutionize-gaming.md",
+      "title": "Google Genie and the AIs set to revolutionize gaming",
+      "excerpt": "DeepMind's Genie AI is a relatively small 11 billion-parameter model, trained on more than 200,000 hours of video of people playing 2D platformer-style games, without human supervision.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/ai-video-games-genie",
+      "originalUrl": "https://newatlas.com/technology/ai-video-games-genie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f44d12d/2147483647/strip/true/crop/1789x939+0+41/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F70%2F18256a5543dda1fc77854be1b965%2Fscreenshot-2024-02-27-at-5.57.18%20pm.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T00:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-google-deepmind-unveils-ai-genie-to-instantly-conjure-playable-games.md",
       "title": "Google DeepMind Unveils AI ‘Genie’ to Instantly Conjure Playable Games",
       "excerpt": "Trained on over 200,000 hours of gameplay videos, the experimental model can turn any image or idea into a 2D platformer.",
@@ -1470,49 +1522,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-rockies-reliever-daniel-bard-will-have-surgery-to-repair-a-torn-meniscus-in-left-knee.md",
-      "title": "Rockies reliever Daniel Bard will have surgery to repair a torn meniscus in left knee",
-      "excerpt": "DENVER (AP) — The Colorado Rockies said reliever Daniel Bard will have surgery Wednesday to repair a torn meniscus in his left knee. There's no timetable for Bard's return. Rockies pitchers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
-      "originalUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/Pi1kBm9qROM0y7bvm_Gxww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/aol_associated_press_484/b92da6361ba653ffa2fe50cb96656412",
-          "width": 1199,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

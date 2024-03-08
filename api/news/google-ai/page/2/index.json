@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-rockies-reliever-daniel-bard-will-have-surgery-to-repair-a-torn-meniscus-in-left-knee.md",
+      "title": "Rockies reliever Daniel Bard will have surgery to repair a torn meniscus in left knee",
+      "excerpt": "DENVER (AP) — The Colorado Rockies said reliever Daniel Bard will have surgery Wednesday to repair a torn meniscus in his left knee. There's no timetable for Bard's return. Rockies pitchers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
+      "originalUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/Pi1kBm9qROM0y7bvm_Gxww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/aol_associated_press_484/b92da6361ba653ffa2fe50cb96656412",
+          "width": 1199,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-pixel-is-now-the-official-mobile-phone-of-the-national-womens-soccer-league.md",
       "title": "Pixel is now the Official Mobile Phone of the National Women’s Soccer League",
       "excerpt": "Google Pixel and National Women’s Soccer League announce a multi-year partnership, with Pixel becoming the league’s official mobile phone.",
@@ -1274,58 +1317,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-google-bards-latest-update-turns-your-words-into-ai-images.md",
-      "title": "Google Bard's latest update turns your words into AI images",
-      "excerpt": "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

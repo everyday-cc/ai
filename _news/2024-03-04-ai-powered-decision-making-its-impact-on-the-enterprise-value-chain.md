@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1351
     height: 900
     isCached: true
+
+related:
+  - title: "How women are navigating challenges and taking centre stage in the AI-powered technology landscape"
+    excerpt: "By working together, we can move towards the common goal of shaping a progressive future of AI that has diverse perspectives, equal representation and an inclusive landscape"
+    publishedDateTime: 2024-03-08T10:43:00Z
+    webUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 45
+    images:
+      - url: "https://images.firstpost.com/uploads/2024/03/AI1200WC-2024-03-c90ec9571c28ed98d00b0a500e35c3d6.jpg?im=FitAndFill=(1200,675)"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "j6jczIWQcwQU4Prv4XS0wB9759P8hDJh1hkcjIXdwgpsoFOdLngKXqbF9pbFIa7ZNC18Z+t+eIReJr2FmCeNGqBiy6bn9YVjED1uGDX763gB+Bk1zgJy8tdloP6NIpebskoi199ydozWBNjJpUKZupcKH3s2MPlJKSlX3TdLqJ03T0FiLqLKAJFxEAnTcG2K4fEKO4TKCVXcYoFWsgilmysbIp1DcEQXQOdd4+N9hjF6pVcDadCnFv80p+2lHR5tm5u5U7cQc/0dJ4AcKMkst6kSSCHkdZSvgoBYQtnDnNl7Wd6p7Gc9DCoDFeoR97Wd5X/zM8g+NmfnB0K/ZMSB+yIEZdJ7WEgai40/Lbn5u/U=;tI6SY5fDkRJfgZOk3lJQEg=="
 ---

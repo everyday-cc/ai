@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-06-how-does-ai-support-creativity-a-marketing-perspective.md",
+      "title": "How does AI support creativity? A marketing perspective",
+      "excerpt": "Some might argue that creativity and AI only go together because leveraging AI for routine work paves the way to being more creative. But it's not as simple as that. AI can play a strategic role in creativity, and James Manderson, SVP of Customer Success at Braze, helps explain how.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
+      "originalUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2024-01/Untitled%20design-3.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp",
+      "publishedDateTime": "2024-03-05T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy.md",
       "title": "Tackle large volumes of data with new solution from SLB for Azure Data Manager for Energy",
       "excerpt": "The Microsoft partner ecosystem is a key component in how Microsoft delivers technology, services, and cloud-to-edge solutions for our customers. SLB—one of Microsoft’s strategic partners in the energy sector—designed the Enterprise Data Solution to work seamlessly with Azure Data Manager for Energy,",
@@ -1180,58 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-job-growth-lets-get-specific-starting-with-health-care.md",
-      "title": "AI Job Growth: Let’s Get Specific, Starting With Health Care",
-      "excerpt": "There’s no need to imagine this anymore. The innovation is in the organ chips. AI algorithms can analyze medical images such as X-rays, MRIs, and CT scans to assist radiologists – actually, improve their readings – in detecting abnormalities and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e653692c81167a157e0694/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1501,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T19:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
