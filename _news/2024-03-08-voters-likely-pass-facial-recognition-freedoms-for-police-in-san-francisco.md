@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Waymo gets approval to expand self-driving taxi service on the San Francisco Peninsula"
-    excerpt: "Waymo's self-driving taxis, which are seen frequently in San Francisco, received the green light to operate on the Peninsula."
-    publishedDateTime: 2024-03-02T23:24:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 51
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/03/85024e22-1846-42fb-9ccc-13455d502369/thumbnail/1200x630g7/81b547ee10263baeb18cc4274bd3dfca/waymocar.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognizant launches state-of-the-art San Francisco lab to boost enterprise AI adoption"
     excerpt: "Cognizant launches Advanced AI Lab in San Francisco to drive innovation and research in AI systems and technologies, as part of its $1 billion investment in generative AI."
     publishedDateTime: 2024-03-07T20:15:00Z
@@ -63,7 +47,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 42
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_San_Francisco_labratory_for_artificia_a849076e-45df-47e4-9cf0-3080b0c86784-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "San Francisco Voters Approve Facial Recognition Drones"
     excerpt: "Voters were projected to approve a ballot measure that will ease restrictions on vehicle pursuits, allowing for the use of more surveillance technology and reducing oversight from the Police Commission."
     publishedDateTime: 2024-03-07T16:43:00Z
@@ -74,6 +63,6 @@ related:
       domain: govtech.com
     quality: 19
 
-secured: "6VY6QTpY57f0dSO9b3ZKr1tpmXpsnnBOT+2tKcmabq97iZoPqjXWSisewPn5AuqMQ5b+S+62UKcSUX4fas+HuK+W6+JkzUCJyPGhOyHafjOsw4nOhvPW0vb7BHWyTWGnVBUesn/Yxny2WdqOEzOUs9Et10Jd7gl5mlpoDV22LB4h9FzFW/3yA9bcTpfO0lDOb/LDaaiC6JewHPqRxgIHwViODvZIOs15h39z3JM9j8En0sJCWeWgeTgEGctunv6Ug6drm2JIt+lj9rYNlThj6HALwqo7ZPlnolEryqzptc1aq1hSvzQfm06moPjV2BbR9RE/0FXbSqUrYf0NsbpgB+wTX31N5wN+O/ekkRS5lUI=;ChMwYrB2vITp2mX0IGYYLA=="
+secured: "pziQvrXE5kQSiMaYj4QoCuMeHHyqGIN1/uEw8XhWDRcJzgAMD9rkl9YZvrtU/TD16vEN5uoHv/kWB/RdrtJJEMIOfe7cOgft5FUxWU3va6Btji+YJb43Xai0TtgPL6U5hNGjd2NReR2i5pnBN1OHieuvJ7Ea2viFLkrvMyGbj8lRcafrj4QXRiMniCdYfQyyNNFH/womBdT/km7NyLI5lG+D/5kDgn7vd7Ft4XRR6HDgtv/X36Rr5GoA6zMjGZ5lu4p5+APUh35R6WahSionK9rH1MeNWuP2UU7y5kdZBYumWrPuOaKuDT3kCuL2h27ewvAJe3l1pQjvN9n8F1mMkTMANDoHEyPJ5askpNgRdwuLg2u4JpFCjtw5swu8Z5QyeWgLMRjFdlFD3wz4171IEDjSx3loreTPf1g7MlGYOPrvBv4qr17tuuMYYmHYQSbPs/IJAXiGykWxbu/4uv43ewaf0YSYZrMuiy+79L016oQTkmZ+omi+rS/FhiEjarI9tuR+xgT4YlTe4JU/pu+c0A==;UnNKOFWqCwgKwAXajRjE7g=="
 ---
 

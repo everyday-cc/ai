@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Waymo gets approval to expand self-driving taxi service on the San Francisco Peninsula"
-    excerpt: "Waymo's self-driving taxis, which are seen frequently in San Francisco, received the green light to operate on the Peninsula."
-    publishedDateTime: 2024-03-02T23:24:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 51
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/03/85024e22-1846-42fb-9ccc-13455d502369/thumbnail/1200x630g7/81b547ee10263baeb18cc4274bd3dfca/waymocar.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognizant launches state-of-the-art San Francisco lab to boost enterprise AI adoption"
     excerpt: "Cognizant launches Advanced AI Lab in San Francisco to drive innovation and research in AI systems and technologies, as part of its $1 billion investment in generative AI."
     publishedDateTime: 2024-03-07T20:15:00Z
@@ -57,7 +41,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 42
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_San_Francisco_labratory_for_artificia_a849076e-45df-47e4-9cf0-3080b0c86784-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Voters likely pass facial recognition freedoms for police in San Francisco"
     excerpt: "A ballot proposition in San Francisco to reduce the regulation of police facial recognition use, just as a bill in the state legislature to add limits advances."
     publishedDateTime: 2024-03-07T20:46:00Z

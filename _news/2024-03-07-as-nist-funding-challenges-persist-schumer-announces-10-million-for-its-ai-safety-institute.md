@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-07T08:36:00Z
 originalUrl: "https://venturebeat.com/ai/as-nist-funding-challenges-persist-schumer-announces-10-million-for-its-ai-safety-institute/"
 webUrl: "https://venturebeat.com/ai/as-nist-funding-challenges-persist-schumer-announces-10-million-for-its-ai-safety-institute/"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/03/150723-nist_campus-sign.webp?w=1200&strip=all"

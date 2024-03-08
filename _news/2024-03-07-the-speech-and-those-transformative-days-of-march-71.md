@@ -36,20 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Lancaster AI founder: 2024 will be transformative year"
-    excerpt: "“It’s only a few additional steps to start learning how to tune the way you frame questions to the AI and try to push the technology to its limits.” Driven by a fascination with technology, Evry taught himself AI. “The advent of ChatGPT in December ..."
-    publishedDateTime: 2024-03-03T00:00:00Z
-    webUrl: "https://lancasteronline.com/business/local_business/lancaster-ai-founder-2024-will-be-transformative-year/article_11687b2c-d262-11ee-b2ee-7b49d704e9db.html"
-    type: article
-    provider:
-      name: LancasterOnline
-      domain: lancasteronline.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/d/91/d912e7d0-b6d7-11ee-8f7d-2b17f7dec53a/65aa88731dcbf.image.jpg?crop=1609%2C845%2C0%2C221&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "bbzd+O/VPE3iSiO/n7CnT7DrGaMq0cFHsYXsO9ZvkCS5wAjoEMZ8ZY+q3V6p9sRQQE/eRXJa0oMVffJKDTGlEM6Hcgh9V9/bliJNjuuhQwLbSSX/2o58up0stolH41ueXAIN9ADmVeQrVH2ecnz1SXGJBWx7QOjlWh7ojI7TpjmTKQ8kRr3+VcZW6Z64E4Tp346f9/sgNSZc5ve6kYlGLsQ6A58pDqATRYjetdNp4zWYQDPcP70bVLelDFBD1+4CeO8hq5KdrjmRMeBU5ppL+IVq3AhwCQvNkzmB9hOaRfY5UGEyS3+1ParQlh9yIXrSvbt3DX5/cYC2lFiANO40poQX3E0AeJZciohHrtJ69MXcdcdgOQp1gsXXbLaZEhSV32qfgWpzRZWoVttf6wkMXDXxOXnSNOorFW/hkh86L0jFrt1TKs7o78HPGG7hcV9dB+6hCaFXMviwu4Edh3bWnBY0gRdR2wX6ryMCx+nBQUBTbguZ9a1jFIQTIhgoyAQvWYtA4cY4tK30QtW+znCibQ==;8ks1MO+woevCZ/X/zLlofg=="
 ---

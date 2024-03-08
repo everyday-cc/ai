@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-c
 webUrl: "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/"
 type: article
 quality: 69
-heat: 82
+heat: 79
 published: true
 
 provider:

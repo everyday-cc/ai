@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/302370/20240306/facebook-soon
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
 type: article
 quality: 52
-heat: 72
+heat: 74
 published: true
 
 provider:

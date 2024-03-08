@@ -69,16 +69,14 @@ related:
         height: 2402
         isCached: true
   - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-    excerpt: "The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the artificial intelligence field and validated capabilities in facilitating customer adoption of AI, as well as executing Azure solutions for AI-powered ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
-    ampWebUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+    excerpt: "TORONTO, March 07, 2024 (GLOBE NEWSWIRE) -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in ..."
+    publishedDateTime: 2024-03-07T08:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
   - title: "Sonata Software integrates Sonata Harmoni.AI with Microsoft Azure AI service"
     excerpt: "Sonata Software in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni.AI with Microsoft Azure AI service. This integration complements Sonata's collaboration with Microsoft Fabric and its position as a Microsoft AI Partner Council member."
     publishedDateTime: 2024-03-07T11:00:00Z

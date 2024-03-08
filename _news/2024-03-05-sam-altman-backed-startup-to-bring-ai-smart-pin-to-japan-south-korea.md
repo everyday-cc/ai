@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Altman Ups AI Arms Race"
-    excerpt: "Altman has been courting Middle Eastern sovereign wealth funds (SWFs), including Saudi Arabia’s Public Investment Fund (PIF) and Abu Dhabi’s Mubadala Investment Company, Abu Dhabi Investment Authority,"
-    publishedDateTime: 2024-03-02T23:35:00Z
-    webUrl: "https://gfmag.com/technology/openai-seeks-trillions-funding/"
-    type: article
-    provider:
-      name: Global Finance
-      domain: gfmag.com
-    quality: 41
-    images:
-      - url: "https://s44650.pcdn.co/wp-content/uploads/2024/03/OpenAI.jpg"
-        width: 1400
-        height: 700
-        isCached: true
 
 secured: "b9zzXjLLRJ423zSejFAPFYR0VuKCds0pqp9NB0TXNRHAkgSO61yMbus99ZChkItCvb6QKK8Xn98g3op4CpdVDXpcrl/qKv0POMWjQyHo7kHGq7gQOFfiDJL2jGM+f4QEMfYZQlhFD/hLARIe/vFnR633zbDWB4cDPyDrqVKh9UtPm8vFSy0in+hsasFewgYbKfRGNQIGqJRWVT7rxw87tT6eBbdKqZIW8alvqirtmLNaI3Xpi+88TGLd/MTY8yeYLsKqpBzBk6STtX6WKWFqF4+OJ/EwOSceQBV20xqNcS/jbLuTWxCXNMVI/kanQk/QQGGNjxFz+oI/f7yXOdcqxpisUNoN8NGEyFaza0J6HEk=;9bCkTiK8bifr1sErfGDkEw=="
 ---

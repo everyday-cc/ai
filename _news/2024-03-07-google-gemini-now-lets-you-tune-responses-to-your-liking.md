@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google confirms Gemini Nano will not come to the Pixel 8"
+    excerpt: "Google has confirmed that the Pixel 8 will not get Gemini Nano, which the more powerful Pixel 8 Pro already has"
+    publishedDateTime: 2024-03-07T22:05:00Z
+    webUrl: "https://www.androidpolice.com/gemini-nano-not-coming-pixel-8/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Co-Founder Sergey Brin Admits Google's Image Generation Mishap with Gemini"
     excerpt: "Google co-founder Sergey Brin admits to image generation errors with Gemini due to inadequate testing, addressing recent controversy."
     publishedDateTime: 2024-03-05T12:09:00Z

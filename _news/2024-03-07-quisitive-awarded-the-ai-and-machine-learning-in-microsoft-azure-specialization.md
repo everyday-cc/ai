@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-excerpt: "The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the artificial intelligence field and validated capabilities in facilitating customer adoption of AI, as well as executing Azure solutions for AI-powered ..."
-publishedDateTime: 2024-03-07T00:00:00Z
-originalUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
-webUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
-ampWebUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+excerpt: "TORONTO, March 07, 2024 (GLOBE NEWSWIRE) -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in ..."
+publishedDateTime: 2024-03-07T08:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
+webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
 type: article
-quality: 84
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
-  - AI in Finance
+  - AI
+  - Microsoft AI
 
 related:
   - title: "Microsoft’s new Orca-Math AI outperforms models 10x larger"
@@ -259,6 +260,6 @@ related:
       domain: stockhouse.com
     quality: 17
 
-secured: "JKrjl+4RNGfT/0lUMmGCfx4DWliAh54T8ePgVL4WBshU1Hy4APxRLP/hHo/xd6kJTUzMrW/dSy8w9LGvJRK2NuW4KAN91CZJn50rUF7T5bLsnb2G3djGmjuCQjVVRPAszz4whM4k+BfIPgS4eQJx17A2PDuOtKaZ6a9Brxuaghy2PgxqvFlNClC/XQCZ4qbQ3AlcB7McJsrkCfapnGJvo+g/35/xQN0EUq7dUfGxFRJFmNy4oXquU9SIjV0LlPeANLW40L9cS5kxZhD7B5HS2ZbzB6AwBjiLGbae/+xOBu3QOzet8q33xJMdtkr/KJiRTjW1IvXl6JaYIZSgGg0GDk3hiPltcrI4BqjyT2sZqUM=;4RlMUjaoMNDCWcvajLmo0g=="
+secured: "j8IZHiZwRUzcJEZqrnTfiYgAYRdk7Ko8oe8OqVN/Gmv99m/bPksjC/Z7cz66mi/VqxubQCnks3nYtr6QnzMArlrMBruS5WWkohG59Z47n2AaNtm39clF0jAPdG5NIOSmz49DNZXavZQ0F5FTsenkM3XtkeKSoEzmudjncqjWvbhfdD91jgaUIwGleADfmgKV1tiAyX+rems4qJoZ+4DcoBkYeu/MTIrEfNFpakj5dSbvJrly4L4EqeyK5xXg5hL+YPNJeuRt6wJwjjVZbPKbmPrLDMCuxnjG8+FcDXsMLFmGJ65CBbrFkSTYXjkA+bYRdN7Xu2/UyUZabuyA4xYoDGXqjgKv2nvdfqYNbeBuoTI=;ldzppyT1I+9fV87DME+avA=="
 ---
 

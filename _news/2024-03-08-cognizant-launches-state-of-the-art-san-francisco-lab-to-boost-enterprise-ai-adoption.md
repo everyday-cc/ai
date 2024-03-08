@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-07T20:15:00Z
 originalUrl: "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/"
 webUrl: "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ topics:
   - Meta AI
   - AI
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_San_Francisco_labratory_for_artificia_a849076e-45df-47e4-9cf0-3080b0c86784-transformed.webp?w=1200&strip=all"
+    width: 1200
+    height: 672
+    isCached: true
+
 related:
   - title: "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance"
     excerpt: "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology."
@@ -36,22 +42,6 @@ related:
       - url: "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "Waymo gets approval to expand self-driving taxi service on the San Francisco Peninsula"
-    excerpt: "Waymo's self-driving taxis, which are seen frequently in San Francisco, received the green light to operate on the Peninsula."
-    publishedDateTime: 2024-03-02T23:24:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/waymo-gets-approval-expand-self-driving-taxi-service-san-francisco-peninsula/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 51
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/03/85024e22-1846-42fb-9ccc-13455d502369/thumbnail/1200x630g7/81b547ee10263baeb18cc4274bd3dfca/waymocar.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Voters likely pass facial recognition freedoms for police in San Francisco"
     excerpt: "A ballot proposition in San Francisco to reduce the regulation of police facial recognition use, just as a bill in the state legislature to add limits advances."
@@ -77,6 +67,6 @@ related:
       domain: govtech.com
     quality: 19
 
-secured: "0V6ZIHqAzkrnuCSOlByq+GgGuNxC5FS50oBa72hzbNcq55lqE47Q7QWjESOnbkbmS58PL1qEM7UNaw+/EYR5RDUfAzCvVN64m4NrX66Xoq/ooF5H8CNZSa0VQStv2L/ESZ8DwsTEKgG08uexv+/6rgUfdJiQQe2ilEQo6f5ndua5L4pfaiEnbGdGfu8cb0NzRNWKFNvybN6259K1n/4Yp8Yc2WlIPn0TdpNnk1X9wggV5ZlguTiGdGKuARXfMAI9aUkP5hoRjy+OWn9fR0kDhAQfFBNCaXAH49t3wWZ+TK6m6mwcCckstsqhY4LiLIKJWFj73IlE+f0/il+4t2zIKscpjrex03jfq1qF6GqkguI=;IDewDj8Q0CSqZQDC5HfYYA=="
+secured: "u/bxUmZ7+bKSn9tRBfuQz6ZZLRYHQEHcxHANiZvzLjRfX258tmRYdkmLwrZA07dZ3jjr+X0I1qIR+QSpguaVz5opMfnWdToDL+85HT0d2oAKAXTuqwUMSR9qkiHN5EzCPnadZ4QsIkwhTAcyeEsmbwIfhkUmzLn7sWRaHJcm3KIDSRozP3qX5uDaIDfTFswwyTxpMxsJC1H1R0x5zW5u48gCWlnpCPqtFUNxwMbbGnAkzNgf6uIjYtbB3RDBnJ1VgPeJh0H/Yv3dGiODuOAr7sIGUJ/VBsAqVko9/n6JtPGdmZDJ/ilPXzC0eFyPn5Jt+WnuI/m9KnmfRN2em0YKBDlWPczPWFlhjTD++njMWEw=;sCIXRByRDFp8y6gNfS1pmg=="
 ---
 

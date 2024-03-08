@@ -61,22 +61,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Jim Jordan, House Republicans demand Google explain if Biden administration influenced ‘woke’ Gemini AI"
-    excerpt: "Rep. Jim Jordan wrote a letter to Google's parent company on Saturday demanding the company provide information on whether the White House influenced Gemini AI's \"bias.\""
-    publishedDateTime: 2024-03-03T00:07:00Z
-    webUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai"
-    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 71
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd584d93-bee9-4c65-9365-84169b9b7b77/a50ecf78-d8cf-4b00-8be3-5233a7d92790/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google AI in Turmoil: Layoffs, Overtime and Gemini Fiasco"
     excerpt: "Despite shrinking, Google relies more on its trust and safety teams. Some employees have been encouraged to volunteer for weekend testing to avoid further issues with Gemini"
     publishedDateTime: 2024-03-05T06:03:00Z

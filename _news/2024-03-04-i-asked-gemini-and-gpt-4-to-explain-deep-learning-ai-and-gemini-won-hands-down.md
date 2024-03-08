@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
 type: article
 quality: 100
-heat: 158
+heat: 147
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-108212561,width-1280,height-720,resizemode-4/108212561.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Jim Jordan, House Republicans demand Google explain if Biden administration influenced ‘woke’ Gemini AI"
-    excerpt: "Rep. Jim Jordan wrote a letter to Google's parent company on Saturday demanding the company provide information on whether the White House influenced Gemini AI's \"bias.\""
-    publishedDateTime: 2024-03-03T00:07:00Z
-    webUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai"
-    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-house-republicans-demand-google-explain-biden-administration-influenced-woke-gemini-ai.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 71
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd584d93-bee9-4c65-9365-84169b9b7b77/a50ecf78-d8cf-4b00-8be3-5233a7d92790/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Move over Gemini, open-source AI has video tricks of its own"
     excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."

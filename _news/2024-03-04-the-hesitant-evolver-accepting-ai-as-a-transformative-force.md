@@ -38,20 +38,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Lancaster AI founder: 2024 will be transformative year"
-    excerpt: "“It’s only a few additional steps to start learning how to tune the way you frame questions to the AI and try to push the technology to its limits.” Driven by a fascination with technology, Evry taught himself AI. “The advent of ChatGPT in December ..."
-    publishedDateTime: 2024-03-03T00:00:00Z
-    webUrl: "https://lancasteronline.com/business/local_business/lancaster-ai-founder-2024-will-be-transformative-year/article_11687b2c-d262-11ee-b2ee-7b49d704e9db.html"
-    type: article
-    provider:
-      name: LancasterOnline
-      domain: lancasteronline.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/d/91/d912e7d0-b6d7-11ee-8f7d-2b17f7dec53a/65aa88731dcbf.image.jpg?crop=1609%2C845%2C0%2C221&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PGylLaodp1hDUyImpOrQW6ijVr4zZv8RWcuQVZC2a4USUXpjeNAzK2+eSzClsZVi4seNx1GGV2gD39Pt5O8y6HjuYBJTXqS7+BP9D3CULEJR6goO+98e9rpfdq8EcQpQNSA7XXOfOhsVZQTfMsOkxDBBNCAM7C64hqjr/p4Dvmz6OW+7Armi95eVjmSXUhiy0FOog4U4J8BtaAUdPwgqyGnjJNDJ8zOq5QZzGa8WKlvt3nFN1lCotrwrtJ7E5RVoi73POPvVSpVB0k9qQKNMcsxRC1uOj5OBbVYf8MyF8bi4jGgMY0tSHVGuVgLKDtdIT8vI+Psmemu2gj7t2HxAu/MXSLnlCu4CUUSivu/jRfUYZkgzfMpHT5RncoklUo5kgafxBuEX+3s8PMH85H5t0ERnBTLSBTAEeypsmNgYxoBACB5IJ1Tna+KCPUzrDNAX+Zv32C3RMMAsjHERbt1TSbKRtFvOilwAV0/UW4IlY+LWioP9m4yYiHGVRQX1sd0bjM7N2mwmvMBkGmBgiZYvRg==;AsB0KwktNvv14YblilvPTQ=="
 ---

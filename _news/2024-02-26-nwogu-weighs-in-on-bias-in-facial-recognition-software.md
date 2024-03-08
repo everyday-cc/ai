@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nwogu weighs in on bias in facial recognition software"
-excerpt: "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ..."
-publishedDateTime: 2024-02-25T23:59:00Z
-originalUrl: "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
-webUrl: "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
+excerpt: "UB computer scientist Ifeoma Nwogu spoke with UBNow about how AI has evolved through the years and offers her perspective on bias in facial recognition programs."
+publishedDateTime: 2024-02-26T13:17:00Z
+originalUrl: "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
+webUrl: "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "UZ6sgMUR1C51AdrlgV7Bf21bdzYoEkRru8Y4DDnlLQhFnKTdmeCJ/REX3Z0TPv8sY5VQFRyGZmbM0YX3bAXpQUg0fpg9iw6EGZbXZpi5DwlPY9fseE1t0fipN4DIdu+nX87MCDzNLk/UhNBbE8PBOHXLNdnbtZ7dwk5ag3/N61WhOPsq+WHM3ACAZYTZGqEjJPXLeEEmGBa3SqDE/gkhBGx5yMVdAj/oK6RzwUkAXDojuW8G1R2xfgaN8DSwxw1ISSc12SjYZ0dwlnH8HH+cvUyAjQE2eU/5UghnOkWZCt2MrUpsehXKuRVPvpXr/Rd3BGlyqJs/y165vURrduAAX36sgNxiSdSLJEwbTSTWrpA=;+io6desZvbBD1YSYmMCr4g=="
+images:
+  - url: "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition/_jcr_content/teaser.img.512.auto.jpg/1708706762075.jpg"
+    width: 512
+    height: 315
+    isCached: true
+
+secured: "j3KG1oXtzyyfh6XA+VsTOKG5OLFZ0FhdJPX2qY4BBDDggGy5ahbo2qM/BwborUuEQ7pQT7gr1l3B4Hj1FxrZfBQWfntGba0ukSk7HqWRRNz6BU7kFR3CIKEdPpgUgzv1gFURr9QSJk1E0puh0o8lV3n4bm7SEkF90ppKXZ2jwp3zAsr0MmbZodFJ3V568kP8HD1DbgyJbTyWQAiFnJXO5XbJZE5XolHk/IC+Z5HQApECNuVXlBjvfXtmnAEOKcTYw+WZl2Z9OyYJ5GINuqWIKL7x0HKchdPS2GPuna6o/hXxZmxqXLeoRrwM4zgTW6grUclwotK95H317hsHGoX5qJOdJlwdAiZ6RyL/HOiLb90=;6DQ6qOvBN6KEXUnvOJDj1A=="
 ---
 

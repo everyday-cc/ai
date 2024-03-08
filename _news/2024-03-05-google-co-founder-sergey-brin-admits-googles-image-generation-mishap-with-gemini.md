@@ -35,6 +35,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google confirms Gemini Nano will not come to the Pixel 8"
+    excerpt: "Google has confirmed that the Pixel 8 will not get Gemini Nano, which the more powerful Pixel 8 Pro already has"
+    publishedDateTime: 2024-03-07T22:05:00Z
+    webUrl: "https://www.androidpolice.com/gemini-nano-not-coming-pixel-8/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "gFBjAxU3KGw8P1M7CvuxgF9QW1dr+pkFLJuWPRig6gYQxAbge9HqURIj5KHHKjpfhOc0aUFVw2E3HiD5eXPF1xztadHHSpbT1OZYHJxft1zQCIw7jyj5rjSkZ4+53HG5emtGevLU93tqxd7NkCUvr3z216SL1FWdDPUhir+UiTvYdh0f7YM+/blUvdbKhYGT9wlxkkCaLGXU0An+K3ZwKBMOq6TeLmMZ8GbILL+jV9dsWvGXZhPdV8PyneJDycytDkRCFwge1oh0zp7OllDe9m3lvKBEbBnaTyCJVSGkqqIhon/AUh9gHl91UEdkxsoX3cj/KUBaaE9GAK3e4TRqCG5IcbC9a6Snmh6ryB8cOPQ=;ljPk6Tz/Nw9CI0REdBVb/w=="
 ---
