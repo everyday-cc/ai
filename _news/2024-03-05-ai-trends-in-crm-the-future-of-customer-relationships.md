@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 765
     isCached: true
+
+related:
+  - title: "Innovations in Travel: How AI Technologies are Shaping Future Tourism Trends"
+    excerpt: "Explore how AI is revolutionizing travel with personalized experiences and streamlined operations, as showcased at ITB Berlin."
+    publishedDateTime: 2024-03-08T14:14:00Z
+    webUrl: "https://ftnnews.com/travel-news/technology/innovations-in-travel-how-ai-technologies-are-shaping-future-tourism-trends/"
+    type: article
+    provider:
+      name: News
+      domain: ftnnews.com
+    quality: 36
+    images:
+      - url: "https://static.shareasale.com/image/30200/ppc_corp_300x250_00.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "tIzjlfqoPavGAA0TMXAal4c67cBEfL6VlDhIqJq4eo7DQFYiAcz0flMkSOMKlur1jjmB/xSSrpOE1udN1xHebdwsM/7iZyla0E8VIbNpyV47hKY7A91+jXT9GRCBrS1fEV4OhbMU65Ve8Ur5j9TVVxzGLFSnmQDGq7AZ/3Z6BD9I6xbVV6TZ1WQiJcKUk12DBx31lf9H+r8uT+ijj5gZqXt4wh0O11kIHY0LJpX0cei0D0j7Zrd4XSoEIOxCSawv0TvbTVzrFjmNoIf81LLV0P20Ar/cPL2Y0x6xP9bLftWwWRh966fzj+JAKTz+o9l2AbOfpc/qP8BJKRon66i+vn5MZyKUfn+X5s9Ar1Qi5hc=;g8eSIh3zdt7Rzua+BKUOPg=="
 ---

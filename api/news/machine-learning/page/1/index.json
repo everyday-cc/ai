@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-08-not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai.md",
+      "title": "Not Science Fiction: How Optical Neural Networks Are Revolutionizing AI",
+      "excerpt": "A novel architecture for optical neural networks utilizes wavefront shaping to precisely manipulate the travel of ultrashort pulses through multimode fibers, enabling nonlinear optical computation. Pr",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
+      "originalUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Quantum-ComputingTechnology-Art-Concept-Illustration.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T06:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
       "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
       "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
@@ -1351,58 +1394,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess.md",
-      "title": "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess",
-      "excerpt": "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

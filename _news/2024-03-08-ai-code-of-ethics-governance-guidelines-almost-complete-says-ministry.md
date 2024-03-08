@@ -55,6 +55,15 @@ related:
         width: 1110
         height: 694
         isCached: true
+  - title: "AWANI Tonight: ai ethics, governance guidelines almost complete - MOSTI"
+    excerpt: "According to MOSTI, the code of ethics and governance guidelines for artificial intelligence is 90% complete and will be presented the cabinet this month before its official launch in April."
+    publishedDateTime: 2024-03-08T15:55:00Z
+    webUrl: "https://www.astroawani.com/videos/awani-tonight-x7ko7j/awani-tonight-ai-ethics-governance-guidelines-almost-complete-mosti-x8u2nha"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 34
 
 secured: "NgGUCRxWzjHLMV7UwhnkGBdBMOT9FHpbP9lcNNNt7x5mZmOjKzrYEVJwKArdD87G8xbjfye2uU9Ddd5SB/S1uoWTYSp7F35wYpDBWXSInNR92rHwt+Efx5kMJm2RSHPxiXPmnCgwltiybpOWXXY4VjUWhaF7dtnfnGAiJz+oaaf37Ov3bF2pe0wK66luHSLZJoTrNSm3y/2ELYYH7+Wa/U/0PgD49bcA+tC3kOPOJ/T53aIJt+1XKbgjLcL4yX7iRqlsuv99ZYEVImTavwhXVNHeGQnzbtwlt/bMEOusowD4MoGP0FTiea4E/QAMIHNVXIP1iYVAnwtPXCGEICmf3WKcW/YdAG9Th6HCPWwV/YyOJu3HTa54TbClHUJNls2l3fp1Z59d9+pyXeuoJtIaWBMoOjLbFzmXs5GErSbSnX671S1g/5neOW66VgXYf14vlBPdt5gGQwc9SoDuxTRmN9OQ4EheSJXBYx78vXvAvVHnxugVdk98M2Rdw3Pr7FdtMn0lKYEQWoM6OiRK0vVVGg==;N6Bzh77xbF5uQuIf4FWqJA=="
 ---

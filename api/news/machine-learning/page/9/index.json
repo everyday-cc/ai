@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-11-27-the-10-most-in-demand-skills-in-2024.md",
+      "title": "The 10 Most In-Demand Skills In 2024",
+      "excerpt": "Discover the top 10 skills that will dominate the job market in 2024, and learn why these skills are not just essential for future success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6564411aae52b0d21bf9dacd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "publishedDateTime": "2023-11-27T06:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-accelerating-aiml-development-at-bmw-group-with-amazon-sagemaker-studio.md",
       "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
       "excerpt": "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the",

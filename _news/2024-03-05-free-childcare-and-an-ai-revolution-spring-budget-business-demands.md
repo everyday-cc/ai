@@ -39,6 +39,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How AI Will Revolutionize Supply Chains"
+    excerpt: "Even the sturdiest supply chains are vulnerable to seismic shocks, whether due to groundbreaking technological advancements, geopolitical shifts, or global crises. Amid these sources of turbulence, artificial intelligence (AI) can be a game-changer, offering a source of rapid response and sustainable solutions to keep supply chains strong."
+    publishedDateTime: 2024-03-08T13:51:00Z
+    webUrl: "https://www.inc.com/sap/how-ai-will-revolutionize-supply-chains.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "9ch9j0KUvWWB5Ev1RmBu3uoRGr7L7we1UlPHx/V8Z16u8uyasohxmlJ52Lscf5XB9V5cKFtK2XdDurjhdajRocWqu9F8WphaLFrZcFMMhiOc9mPX2uk9qDLIFAwVbxolnz2VQ0F4q4hAxogUv7DXyPRTC8RdiuwgQo5X6PVW6RiIQHV6ybdekBANkg3sqAtPaJIScy7EBTnIWL/VBOmVZJzCNceFCpMkRV6bAghmQ+zuuIyMyh8qa4KWrSwx6RyRJggnfGvMWln+XJMbP0iKuDQt4S9kujqjXQjpVdxwzKlqSyV5kQ02SG/JumoazGcipF+IuxB3p16Ie3EBx9Pl0813YkOLcb5gYkr7Sgrbs2M=;VFw3/pJwA1FSO6+B4d8itw=="
 ---

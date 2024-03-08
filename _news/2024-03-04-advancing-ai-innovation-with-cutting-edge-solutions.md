@@ -43,6 +43,31 @@ related:
         width: 1223
         height: 900
         isCached: true
+  - title: "Navigating The Risks Of AI Weaponization"
+    excerpt: "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention."
+    publishedDateTime: 2024-03-08T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1456
+        height: 864
+        isCached: true
+  - title: "How AI is helping advance women’s health around the world"
+    excerpt: "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide."
+    publishedDateTime: 2024-03-08T14:00:00Z
+    webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
   - title: "The Future of Work: How Artificial Intelligence Training is Shaping Job Markets"
     excerpt: "Introduction: The advent of Artificial Intelligence (AI) has ushered in a new era in the job market, transforming the way we work and reshaping traditional employment landscapes. As AI technology continues to advance,"
     publishedDateTime: 2024-03-05T08:18:00Z

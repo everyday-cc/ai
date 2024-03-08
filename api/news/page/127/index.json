@@ -2,6 +2,443 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2023-11-21-aws-wants-to-train-2-million-people-as-ai-specialists.md",
+      "title": "AWS wants to train 2 million people as AI specialists",
+      "excerpt": "AWS wants to train 2 million people as AI specialists by 2025. To this end, Amazon has presented the free AI Ready training program. The program targets",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
+      "originalUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techzine.eu/wp-content/uploads/2023/11/shutterstock_2263545623.jpg",
+          "width": 1000,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo.md",
+      "title": "Polish company employs world's first ever AI humanoid robot CEO",
+      "excerpt": "During an interview with Fox Business over a video call, it was noted that there was a “significant delay” in Mika’s response time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
+      "originalUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/21/dictador_mika_.jpg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
+      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
+      "publishedDateTime": "2023-11-21T07:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-mid-range-phones-will-get-generative-ai-thanks-to-this-new-chipset.md",
+      "title": "Mid-range phones will get generative AI thanks to this new chipset",
+      "excerpt": "MediaTek has announced the Dimensity 8300 smartphone chipset. This is the first mid-range smartphone chip touting on-device generative AI support. Qualcomm and MediaTek have both announced flagship smartphone processors with support for generative AI features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/",
+      "originalUrl": "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/03/MediaTek-Dimensity-logo.jpg",
+          "width": 1694,
+          "height": 953,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T07:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-how-ai-became-a-cloud-workload.md",
+      "title": "How AI Became A Cloud ‘Workload’",
+      "excerpt": "AI puts on the cloud should make us think about AI as a cloud workload more directly and consider how we run it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655c0ccfa3cff1f243d07864/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/amp/",
+      "publishedDateTime": "2023-11-21T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-west-berkshire-council-uses-ai-to-predict-where-potholes-will-appear.md",
+      "title": "West Berkshire Council uses AI to predict where potholes will appear",
+      "excerpt": "Artificial Intelligence (AI) is being used to predict where potholes will appear on a county's roads. The pilot, run by West Berkshire Council, will use the technology to digitally capture images of road conditions to help anticipate where holes or cracks could form in tarmac.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365",
+      "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/165B7/production/_131757519_9faf0b8c-02ef-4634-81b8-0d2d847439d0.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-67457365.amp",
+      "publishedDateTime": "2023-11-21T05:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-the-art-of-selling-persuading-and-influencing-in-an-ai-world.md",
+      "title": "The Art Of Selling, Persuading, And Influencing In An AI World",
+      "excerpt": "As we witness a transformative era in trade and collaboration, it is essential for leaders to adapt and thrive in the evolving landscape of sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/",
+      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655c40d36f6c19838150e0e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1213,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/",
+      "publishedDateTime": "2023-11-21T05:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-ai-needs-a-startup-mentality-with-plenty-of-hand-holding.md",
+      "title": "AI Needs A Startup Mentality — With Plenty Of Hand-Holding",
+      "excerpt": "That’s why a startup mentality may be needed to promote any super-innovative concepts the technology could bring and move them to market quickly. But, contrary to popular belief, AI has its limits. To date, innovation with AI has been tepid at best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655bec0464e4057ef130f9cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1165,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
+      "publishedDateTime": "2023-11-21T05:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-llast-llama-back-at-home-bringing-an-end-to-the-trios-traipse.md",
+      "title": "Llast Llama back at home, bringing an end to the trio's traipse",
+      "excerpt": "Lluka and Todd were captured and returned home by professional livestock wranglers and volunteers on Nov. 16 but Llewis evaded capture until this morning. His evasive manoeuvres have included, but were not limited to, army crawling under a catch pen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baytoday.ca/local-news/llast-llama-back-at-home-bringing-and-end-to-the-trios-traipse-7858343",
+      "originalUrl": "https://www.baytoday.ca/local-news/llast-llama-back-at-home-bringing-and-end-to-the-trios-traipse-7858343",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/collingwoodtoday/images/llamasmissing.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Baytoday.ca",
+        "domain": "baytoday.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024.md",
+      "title": "Uncovering 4 Leading AI Blockchain Projects To Watch In 2024",
+      "excerpt": "Among them, there are four AI blockchain projects that often find themselves ranked among the top 10 AI and big data tokens. These projects are redefining AI within the blockchain space, and have gone through major updates that make them the AI crypto projects to watch in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655b9ef10d3005d977df8404/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/",
+      "publishedDateTime": "2023-11-20T22:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-fortune-50-ai-innovators.md",
       "title": "Fortune 50 AI Innovators",
       "excerpt": "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,",
@@ -737,427 +1174,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai.md",
-      "title": "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI",
-      "excerpt": "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world.md",
-      "title": "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World",
-      "excerpt": "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35873661",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661",
-      "publishedDateTime": "2023-11-20T13:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-is-meta-llama-truly-open-source.md",
-      "title": "Is Meta Llama Truly Open Source?",
-      "excerpt": "Explore the authenticity of Meta LLaMA as an open-source LLM, dissecting the criteria and larger implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
-      "originalUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/11/Is-Metas-Llama-Truly-Open-Source-952x600.jpg",
-          "width": 952,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T12:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-how-to-build-a-successful-talent-management-strategy.md",
-      "title": "How to build a successful talent management strategy",
-      "excerpt": "Explore how to build a talent management strategy that identifies top talent and cultivates their ability to produce business value.\nThe post How to build a successful talent management strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/talent-management-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/talent-management-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/9e21203c-fbbb-4c94-8a10c7986e951bc5.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-live-fire-cooking-arrives-in-aventura-with-amalfi-llama.md",
-      "title": "Live-Fire Cooking Arrives in Aventura With Amalfi Llama",
-      "excerpt": "He's referring to his latest venture: the Amalfi Llama, a wood-fire-inspired coastal Italian restaurant set to open next month in Aventura. Since opening his first restaurant in Mexico City in 2007, Gomez and his groups have nearly 60 restaurants to their name across both the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.browardpalmbeach.com/restaurants/the-amalfi-llama-is-coming-to-aventura-16407684",
-      "originalUrl": "https://www.browardpalmbeach.com/restaurants/the-amalfi-llama-is-coming-to-aventura-16407684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.browardpalmbeach.com/images/air/newsletter-insiders-bpb.png",
-          "width": 438,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Times Broward-Palm Beach",
-        "domain": "browardpalmbeach.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions.md",
-      "title": "What’s In Store For 2024? Innovations In B2C And B2B Fintech Solutions",
-      "excerpt": "To excel in the dynamic fintech landscape of 2024, businesses must prioritize innovation and customer-centricity while embracing automation and adaptability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6557c6c8274bff58c483c9d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1178,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "publishedDateTime": "2023-11-20T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-aws-technology-vp-what-cloud-does-next.md",
-      "title": "AWS Technology VP: What Cloud Does Next",
-      "excerpt": "Mai-Lan Tomsen Bukovec, vice president of technology at Amazon Web Services, Inc. (AWS) explains where cloud is now... and what comes next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655abde6a11a58717db567ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "publishedDateTime": "2023-11-20T10:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts.md",
-      "title": "Save up to 45% with Roborock Black Friday robot vacuum and mop discounts",
-      "excerpt": "Invest in a Roborock vacuum and mop to help with holiday cleaning by taking advantage of huge discounts for Black Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
-      "originalUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/57157-116216-1-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
-      "publishedDateTime": "2023-11-20T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai.md",
-      "title": "Pro Take: VCs Ignore Their Own Advice in Pursuit of Generative AI",
-      "excerpt": "Venture investors are diving into generative AI—and breaking some of their own rules in the process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai-8fedcc09",
-      "originalUrl": "https://www.wsj.com/articles/pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai-8fedcc09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-882321/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T10:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

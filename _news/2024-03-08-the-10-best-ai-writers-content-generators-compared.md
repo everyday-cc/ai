@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 671
         isCached: true
+  - title: "The Rise Of Open Artificial Intelligence: Open-Source Best Practices"
+    excerpt: "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem."
+    publishedDateTime: 2024-03-08T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "CeADAR shares open-source AI tools for financial services"
     excerpt: "CeADAR says its open-source tools are tailored to help the financial services sector incorporate the benefits of generative AI."
     publishedDateTime: 2024-03-04T09:47:00Z

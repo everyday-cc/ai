@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-07-is-this-the-year-artificial-intelligence-dominates-healthcare.md",
+      "title": "Is This the Year Artificial Intelligence Dominates Healthcare?",
+      "excerpt": "Artificial intelligence (AI) is well suited to improving healthcare outcomes. Some companies are already starting to use AI to help advance drug discovery and development. \"Where do I think the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/07/artificial-intelligence-ai-dominates-health/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/07/artificial-intelligence-ai-dominates-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/761653/ai-health-care-stock-investment.jpg",
+          "width": 2122,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes.md",
+      "title": "Voice-based conversational artificial intelligence may improve insulin management for diabetes",
+      "excerpt": "This randomized clinical trial demonstrated that compared with the standard of care, voice-based conversational artificial intelligence (VBAI) improved time to optimal insulin dosing, insulin adherence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
+      "originalUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707213623.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
       "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
       "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
@@ -1283,92 +1378,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence.md",
-      "title": "Davos 2024: Top quotes from tech world’s leading minds on artificial intelligence",
-      "excerpt": "In all, about 60 heads of state and 800 CEOs were in attendance among a total of 2,800 participants, as they discussed wide-ranging issues — from climate change to economic slowdowns — at both formal and informal gatherings.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/articleshow/107017806.cms?from=mdr",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/articleshow/107017806.cms?from=mdr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-124830,msid-107017807/switzerland-davos-forum.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/amp_articleshow/107017806.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/amp_articleshow/107017806.cms",
-      "publishedDateTime": "2024-01-21T00:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-artificial-intelligence-in-personalized-cancer-medicine-new-therapies-require-flexible-and-safe-approval-conditions.md",
-      "title": "Artificial intelligence in personalized cancer medicine: New therapies require flexible and safe approval conditions",
-      "excerpt": "Personalized therapies could improve the treatment of many diseases in the future. Cancer medicine in particular has made significant progress in recent years. Applications of artificial intelligence (AI) will allow to adapt personalised therapies in an even more targeted manner.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news827773",
-      "originalUrl": "https://idw-online.de/de/news827773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T09:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

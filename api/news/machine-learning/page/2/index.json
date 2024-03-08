@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess.md",
+      "title": "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess",
+      "excerpt": "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-neural-prosthetic-device-can-help-humans-restore-memory.md",
       "title": "Neural prosthetic device can help humans restore memory",
       "excerpt": "A team of scientists have demonstrated the first successful use of a neural prosthetic device to recall specific memories.",
@@ -1229,49 +1281,6 @@
         "name": "idw",
         "domain": "idw-online.de",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering.md",
-      "title": "WiMi Announced Multi-View Representation Learning Algorithm for Data Stream Clustering",
-      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a multi-view representation learning algorithm is to deal with the data stream clustering problem.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

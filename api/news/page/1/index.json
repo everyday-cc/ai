@@ -2,6 +2,238 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-09-wipros-health-care-deals-get-an-artificial-intelligence-booster-shot.md",
+      "title": "Wipro's health care deals get an artificial intelligence booster shot",
+      "excerpt": "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm",
+      "originalUrl": "https://www.rediff.com/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/money/2024/feb/28ai-pc1.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm",
+      "publishedDateTime": "2024-03-08T16:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-5g-use-cases-that-are-transforming-the-world.md",
+      "title": "5G use cases that are transforming the world",
+      "excerpt": "A look at the applications and use cases that 5G is enabling to transform the world.\nThe post 5G use cases that are transforming the world appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5g-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/5g-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/ma74481_blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T15:41:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-the-power-and-peril-of-ai-in-digital-health.md",
+      "title": "The Power (And Peril) Of AI In Digital Health",
+      "excerpt": "Artificial intelligence technologies are rapidly being adopted into all facets of society, and digital health is no exception.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9f2643e62634b0affa493/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
+      "publishedDateTime": "2024-03-08T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence.md",
+      "title": "The AI Takeover In Cinema: How Movie Studios Use Artificial Intelligence",
+      "excerpt": "The film industry, always at the forefront of technological innovation, is increasingly embracing artificial intelligence (AI) to revolutionize movie production, distribution, and marketing. From script analysis to post-production,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e92d973e62634b0affa472/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks.md",
+      "title": "Cambrian Robotics obtains seed funding to provide vision for complex tasks",
+      "excerpt": "Cambrian will use the funding to continue its mission of giving industrial robots human-level capabilities for complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks/",
+      "originalUrl": "https://www.therobotreport.com/cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip.md",
       "title": "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip",
       "excerpt": "Broadcom said on Thursday it expects US$10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company’s full-year forecast failed to impress investors.",
@@ -244,6 +476,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-08-not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai.md",
+      "title": "Not Science Fiction: How Optical Neural Networks Are Revolutionizing AI",
+      "excerpt": "A novel architecture for optical neural networks utilizes wavefront shaping to precisely manipulate the travel of ultrashort pulses through multimode fibers, enabling nonlinear optical computation. Pr",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
+      "originalUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Quantum-ComputingTechnology-Art-Concept-Illustration.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T06:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train.md",
       "title": "Bengaluru driverless Metro trials begin: How AI will help steer this train",
       "excerpt": "Bengaluru Metro Rail Corporation has started slow trial runs of its driverless trains on the newly-constructed yellow line. The trains equipped with Communication-Based Train Control system will run on the 18.",
@@ -337,7 +612,7 @@
       "originalUrl": "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -559,7 +834,7 @@
       "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -611,7 +886,7 @@
       "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -656,6 +931,57 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-can-you-spot-ai-generated-images-take-our-quiz-to-test-your-skills.md",
+      "title": "Can You Spot AI-Generated Images? Take Our Quiz to Test Your Skills",
+      "excerpt": "Determining whether or not an image was created by generative AI is harder than ever, but it's still possible if you know the telltale signs to look for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/articles/how-to-detect-ai-created-images",
+      "originalUrl": "https://www.pcmag.com/articles/how-to-detect-ai-created-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01lTyBxcS2L9vruDcS4D2Ho-1.fit_lim.size_1200x630.v1692729678.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-the-integral-role-of-robotics-ai-and-automation-in-healthcare.md",
       "title": "The Integral Role Of Robotics, AI And Automation In Healthcare",
       "excerpt": "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined.",
@@ -664,7 +990,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -768,7 +1094,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -860,343 +1186,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms.md",
-      "title": "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms",
-      "excerpt": "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt.md",
-      "title": "Microsoft hosts ‘AI: Egypt Pathway to a New Frontier’ summit to advance AI deployment in Egypt",
-      "excerpt": "AI: Egypt Pathway to a New Frontier featured opening remarks by several esteemed dignitaries including the Honorable Herro Mustafa Garg, US Ambassador to Egypt; Dr. Rania Al-Mashat, Minister of International Cooperation; Dr. Amr Talaat, Minister of Communications and Information Technology, and renowned Egyptologist Dr. Khaled El-Anany.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
-      "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MWI5ODg1MTMtNjUzNC00/0/microsofthostsai-egyptpathwaytoanewfrontiersummittoadvanceaideploymentinegypt-jpg.jpeg?f=3%3A2",
-          "width": 898,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
-      "publishedDateTime": "2024-03-07T07:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-facebook-soon-to-have-fully-ai-powered-video-recommendation-algorithm-meta-confirms.md",
-      "title": "Facebook Soon to Have Fully AI-Powered Video Recommendation Algorithm, Meta Confirms",
-      "excerpt": "Facebook's Head, Tom Alison, has announced that the platform's video recommendation system will soon be AI-powered.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
-      "originalUrl": "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/444283/meta-is-removing-facebook-news-tab-in-us-australia.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
-      "publishedDateTime": "2024-03-07T03:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
-      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
-      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
-      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-ai-solutions-at-leap.md",
-      "title": "Sahm Capital showcases latest fintech, AI solutions at LEAP",
-      "excerpt": "featuring an AI presenter named 'Aliyah', at LEAP 2024. The cirm also showcased its all-in-one comprehensive trading solutions at the four-day event. With focus on fintech innovation, the company provides comprehensive trading solutions, including the Sahm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
-      "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/38/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
-      "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
-      "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-salesforce-unveils-low-code-ai-toolkit-for-crm.md",
-      "title": "Salesforce unveils low-code AI toolkit for CRM",
-      "excerpt": "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "publishedDateTime": "2024-03-06T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

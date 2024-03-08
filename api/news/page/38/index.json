@@ -2,6 +2,404 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-02-08-google-bard-is-now-gemini-all-the-info-you-need.md",
+      "title": "Google Bard is now Gemini: All the info you need",
+      "excerpt": "Google is going all-in on Gemini. Bard is getting rebranded to Gemini and a new Android app will replace Assistant on your phone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
+      "originalUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-google-rebrands-bard-ai-to-gemini-and-launches-a-new-app-and-subscription.md",
+      "title": "Google rebrands Bard AI to Gemini and launches a new app and subscription",
+      "excerpt": "Google on Thursday announced a major rebrand of Bard, its AI chatbot and assistant, including a fresh app rollout and new usage and subscription options. Bard, a chief competitor to OpenAI's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107344639-1701966994127-gettyimages-1829227396-porzycki-googlege231206_npI8C.jpeg?v=1701967024",
+          "width": 3543,
+          "height": 2362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "publishedDateTime": "2024-02-08T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile.md",
+      "title": "Google rebrands Bard to Gemini, now available for the first time in mobile",
+      "excerpt": "When Google Bard first launched almost a year ago, the AI-powered chatbot had some major flaws. Since then, it has grown significantly with two large language model (LLM) upgrades and several updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
+      "originalUrl": "https://www.zdnet.com/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/167ca1b907ac7f8dce9a8ef2fbfafeaf1b98b2b8/2024/02/07/5374e91a-e8ae-4337-84ac-b9eb9c977453/screenshot-2024-02-07-at-5-08-13pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rebrands-bard-to-gemini-now-available-for-the-first-time-in-mobile/",
+      "publishedDateTime": "2024-02-08T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
+      "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
+      "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "originalUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-the-ethics-of-ai-balancing-innovation-with-responsibility.md",
+      "title": "The Ethics Of AI: Balancing Innovation With Responsibility",
+      "excerpt": "If you don’t follow the news of new AI products even for one day, you might miss something important. As a seasoned entrepreneur with more than 15 years of experience in IT consulting, I have noticed that we should delve into the ethics of AI implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3a7e6d64deeeba6f83f98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/08/the-ethics-of-ai-balancing-innovation-with-responsibility/amp/",
+      "publishedDateTime": "2024-02-08T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning.md",
+      "title": "D-Wave and Zapata AI Announce Strategic Technical and Commercial Collaboration to Advance Quantum-Enabled Machine Learning",
+      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, and Zapata Computing, Inc. (operating as Zapata AI ),",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment.md",
+      "title": "Simpson Associates become the key delivery partner for newly launched TOEX Capabilities Environment",
+      "excerpt": "Simpson Associates, leading data transformation consultancy and managed service provider, are thrilled that the Tackling Organised Exploitation (TOEX)",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T11:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-1-artificial-intelligence-ai-growth-stock-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street.md",
+      "title": "1 Artificial Intelligence (AI) Growth Stock With More Upside Than Nvidia to Buy Now, According to Wall Street",
+      "excerpt": "Some analysts have called artificial intelligence (AI) the fourth industrial revolution, citing its potential to improve productivity and efficiency with predictive insights and automation. Similar to the third industrial revolution -- which was driven by digital technologies like the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/8e7684296fe079a184271a11ff614dad/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764162%252falphabet-revenue-wheel.png%26amp%3Bw%3D700",
+          "width": 3512,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-gpu-prices-and-availability-q1-2024-how-much-are-gpus-today.md",
+      "title": "GPU prices and availability (Q1 2024): How much are GPUs today?",
+      "excerpt": "The only current-gen GPU that suffers from some stock and pricing issues is the RTX 4090. Due to the high demand for AI chips, as well as scalpers buying the card out to export to China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "publishedDateTime": "2024-02-08T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-the-top-10-google-bard-prompts-to-elevate-your-productivity.md",
       "title": "The Top 10 Google Bard Prompts to Elevate Your Productivity",
       "excerpt": "This guide will show you how to improve your productivity with Google Bard. In the constantly evolving and rapidly accelerating digital age, maintaining",
@@ -664,411 +1062,6 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-who-publishes-guidance-for-ethics-and-governance-of-ai-for-healthcare-sector.md",
-      "title": "WHO Publishes Guidance for Ethics and Governance of AI for Healthcare Sector",
-      "excerpt": "We collaborate with the world's leading lawyers to deliver news tailored for you. Sign Up to receive our free e-Newsbulletins Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
-      "originalUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/healthcare%20insurance%20technology%20telemedicine%20medical%20chart%20doctor%20digital%20health.jpg?h=c0041bcf&itok=Oaxm9xAo",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-dhs-is-recruiting-techies-for-the-ai-corps.md",
-      "title": "DHS Is Recruiting Techies for the AI Corps",
-      "excerpt": "The U.S. Department of Homeland Security is recruiting dozens of artificial intelligence experts to integrate AI abilities into government work such as defending",
-      "sourceUrl": null,
-      "webUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
-      "originalUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/dhs-recruiting-techies-for-ai-corps-showcase_image-10-a-24297.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T22:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HHS",
-        "domain": "govinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-electric-medicine-ai-startup-reads-brainwaves-to-fix-sleep-pain.md",
-      "title": "‘Electric Medicine:’ AI Startup Reads Brainwaves To Fix Sleep, Pain",
-      "excerpt": "\"We can actually guide the brain precisely, and that leads to a behavior change. So like a drug, but much smarter and without the side effects.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/02/07/electric-medicine-ai-startup-reads-brainwaves-to-fix-sleep-pain/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/02/07/electric-medicine-ai-startup-reads-brainwaves-to-fix-sleep-pain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3de55b4817eba86f50845/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2024/02/07/electric-medicine-ai-startup-reads-brainwaves-to-fix-sleep-pain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2024/02/07/electric-medicine-ai-startup-reads-brainwaves-to-fix-sleep-pain/amp/",
-      "publishedDateTime": "2024-02-07T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn.md",
-      "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
-      "excerpt": "But, as The New York Times asks, are people legitimately attempting to use the headset while driving, or is it all a stunt? \"Several of the videos taken in cars appear staged, and in many, it is clear that someone other than the driver is recording,\" writes Jesus Jiménez for The New York Times. \"The videos are not widespread.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
-      "originalUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T19:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-40-amazing-ibm-statistics-and-facts-for-2024.md",
-      "title": "40 Amazing IBM Statistics and Facts for 2024",
-      "excerpt": "Explore the dynamic realm of IBM statistics in 2024, revealing the latest in technology usage that redefine the industry landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/statistics/ibm-statistics/",
-      "originalUrl": "https://techreport.com/statistics/ibm-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2024/01/IBM-Statistics-and-Facts.jpg?_t=1707330166",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T18:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-amazons-cloud-boss-likens-generative-ai-hype-to-the-dotcom-bubble.md",
-      "title": "Amazon’s Cloud Boss Likens Generative AI Hype to the Dotcom Bubble",
-      "excerpt": "As CEO of Amazon's dominant cloud computing platform AWS, Adam Selipsky is one of ... the industry is racing to adopt generative artificial intelligence. Although a fan of the technology, he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
-      "originalUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65c2ca0dbafb5fecca35880c/191:100/w_1280,c_limit/Adam-Selipsky-AWS-CEO-Business-1245214128.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-meet-tara-the-ai-digital-worker-whos-helping-financial-institutions-stop-the-bad-guys.md",
-      "title": "Meet Tara - the AI Digital Worker who's helping financial institutions \"stop the bad guys\"",
-      "excerpt": "To that end, towards the end of last year the firm announced the rollout of its no code Work.AI platform and a partnership deal with a legal software company Epiq. Based in New York, Epiq wanted to build its own legal Digital Workers and is now using WorkFusion’s no code Work.AI platform. Famularo comments:",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "originalUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2024-02/Screenshot%202024-02-07%20at%2010.41.02.png",
-          "width": 1422,
-          "height": 1014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "publishedDateTime": "2024-02-07T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-webpt-wins-2024-best-in-klas-recognition.md",
-      "title": "WebPT Wins 2024 Best in KLAS Recognition",
-      "excerpt": "\"This accolade from KLAS Research validates WebPT's commitment to excellence and innovation as we aim to advance Practice Experience Management in outpatient therapy,\" said Ashley",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-microsoft-ceo-satya-nadella-in-india-to-meet-with-villagers-helping-develop-microsoft-ai-tools.md",
-      "title": "Microsoft CEO Satya Nadella in India, to meet with villagers helping develop Microsoft AI tools",
-      "excerpt": "Microsoft CEO Satya Nadella is in India to meet with villagers helping develop Microsoft AI tools. Learn how he aims to provide skilling opportunities and make technology accessible in under-resourced languages.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-ceo-satya-nadella-in-india-developing-microsoft-ai-tools/articleshow_new/107492543.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-ceo-satya-nadella-in-india-developing-microsoft-ai-tools/articleshow_new/107492543.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/107492543.cms",
-          "width": 1432,
-          "height": 955,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T12:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

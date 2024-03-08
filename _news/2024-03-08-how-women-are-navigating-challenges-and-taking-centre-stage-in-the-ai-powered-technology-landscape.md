@@ -43,6 +43,15 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
+    excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
+    publishedDateTime: 2024-03-08T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/renewing-corporate-gifting-the-impact-of-ai-on-personalization/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "1n+LidSr5Vr5pXXOBKRywYKp1WCLj3uytXSJpVEZBJOxq1tMlGYhvwgsf16Y605TZ5fhuRD9r08J/pxHE3aLbY2a2KAU5FHRQiBNNGb3+GS4s6Gckh1YNwMCSDtZK5avI/FZUUistl/HuK864hYjiNCANjIC31pMIjhAJs+3l068HXBUJT8RYvsikuDpuryJ8eG4Qx+qyMI/4MKfjuH8HjjkF5TONZVHh+8N/G0wWmAmPQZVScFUFCYG5z4RC3f0fC8Juj/oJI16K3nu39Ze8Mb89lK4Zk4KVCLjKgx/13Uq0d9ovYFBrpeH8v2lC5bqhN+umlM6/S6pMWdyZNaDZmpvgNhKnmeh6J7uBk4MPo4=;gUlq35pMFIf49DJqlITD4w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/san-francisco-banned-face-recognition-
 webUrl: "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/"
 type: article
 quality: 62
-heat: 94
+heat: 92
 published: true
 
 provider:

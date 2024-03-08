@@ -2,6 +2,360 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-04-i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down.md",
+      "title": "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down",
+      "excerpt": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/eb501fa7b639781afa61e6952318ef6629691191/2024/03/01/d9070712-3fd3-42bb-8871-19d5474295c4/gemini-versus-chatgpt-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "publishedDateTime": "2024-03-04T10:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-nvidia-becomes-teslas-successor-as-market-flips-from-electric-vehicles-to-artificial-intelligence.md",
+      "title": "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence",
+      "excerpt": "Nvidia Corp.’s rise is captivating the stock market and driving the S&P 500 Index to new highs. But it also raises cautionary reminders of another investor darling that soared on dreams of a technological transformation, only to tumble back to earth when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
+      "originalUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
+      "publishedDateTime": "2024-03-04T10:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk.md",
+      "title": "A CISO’s guide to AI: Embracing innovation while mitigating risk",
+      "excerpt": "5. Invest in security research — Support research into robust security solutions for AI. Contribute to industry initiatives and collaborate with academic institutions to accelerate the development of effective safeguards. Remember, it’s not AI vs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
+      "originalUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/AdobeStock_718847427.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T09:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini.md",
+      "title": "Anthropic's Claude 3 chatbot claims to outperform ChatGPT, Gemini",
+      "excerpt": "The latest version of Claude AI promises quicker results, greater accuracy, and improved ease of use, and will now analyze uploaded images, documents, and other files.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ee5190160d7515bc2e0b36e0d5ec07ee2d847af7/2024/03/04/aede71d1-80de-4922-a0d7-10e27b1d223f/anthropics-next-generation-claude-3-ai-claims-to-outperform-chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "publishedDateTime": "2024-03-04T08:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers.md",
+      "title": "South Korean Chip Stocks Climb in Line With Rally in Japanese Peers",
+      "excerpt": "SK Hynix and Hanmi Semiconductor have recently drawn keen attention from investors because both have teamed up to package high bandwidth memory chips for clients to power AI applications, KB Securities analyst Juyoung Park said in a research note.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "originalUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "publishedDateTime": "2024-03-04T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update.md",
+      "title": "Nikkei Stock Average Rises Above 40000 for First Time, Driven by AI Optimism -- 2nd Update",
+      "excerpt": "By Kosaku Narioka Japan's benchmark stock index rose above 40000 for the first time ever, driven by stronger corporate earnings and a surge in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "originalUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "publishedDateTime": "2024-03-04T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-india-reverses-ai-stance-requires-government-approval-for-model-launches.md",
+      "title": "India reverses AI stance, requires government approval for model launches",
+      "excerpt": "India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models. India's India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
+      "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1096026706.jpg?resize=1200,843",
+          "width": 1200,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
+      "publishedDateTime": "2024-03-04T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs.md",
       "title": "Mark Cuban Says 'Tax The Robots' Amid Fears Of AI Taking Over People's Jobs",
       "excerpt": "See Also: Elon Musk Has Gone To War With Sam Altman, But OpenAI CEO Once Thought It Would Be ‘Really Helpful’ To Ha Why It Matters: Cuban’s call for taxing robots comes amid growing concerns about the impact of artificial intelligence (AI ...",
@@ -877,336 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search.md",
-      "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
-      "excerpt": "At AWS re:Invent 2023, we announced the general availability of Knowledge Bases for Amazon Bedrock. With a knowledge base, you can securely connect foundation models (FMs) in Amazon Bedrock to your company data for fully managed Retrieval Augmented Generation (RAG). In a previous post, we described how",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/knowledge-bases-for-bedrock-hybrid-search-1117x630.jpg",
-          "width": 1117,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T22:29:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
-      "title": "US stock markets close at record highs amid continued enthusiasm for AI",
-      "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "originalUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/dd523ec21e76471b1119e8dbd02c6e0a3adc83dd/0_6_3000_1799/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=507f237be7acada08ea257cdcca739f3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "publishedDateTime": "2024-03-01T21:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-tech-jumps-as-ai-rally-resumes-tech-roundup.md",
-      "title": "Tech Jumps as AI Rally Resumes -- Tech Roundup",
-      "excerpt": "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "originalUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "publishedDateTime": "2024-03-01T21:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos.md",
-      "title": "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos",
-      "excerpt": "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
-      "originalUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png",
-          "width": 600,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T20:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-there-are-growing-calls-for-google-ceo-sundar-pichai-to-step-down.md",
-      "title": "There are growing calls for Google CEO Sundar Pichai to step down",
-      "excerpt": "Analysts believe Google's search business is keeping it safe for now, but that could change soon with generative AI rivals proliferating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3",
-      "originalUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e2308f90413ab8e1d877dd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp",
-      "publishedDateTime": "2024-03-01T20:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula.md",
-      "title": "California authorizes expansion of Waymo’s driverless car services to LA, SF peninsula",
-      "excerpt": "SAN FRANCISCO (AP) — California regulators on Friday authorized Waymo to expand services of its fleet of robotaxis into Los Angeles and to cities on the peninsula south of San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
-      "originalUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million.md",
-      "title": "$675 Million For Humanoid ChatGPT Robot, Ideogram Gen AI Raises $80 Million",
-      "excerpt": "Ideogram Text-to-Image Midjourney competitor Raises $80 M. This values the company well north of $1 Billion. Andressen Horowitz led the round. Ideogram 1.0 has an amazingly effective feature called Magic Prompt, which created the image above.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T18:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

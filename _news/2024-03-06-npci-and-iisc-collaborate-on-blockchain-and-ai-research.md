@@ -137,6 +137,20 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 38
+  - title: "WiMi Is Researching Blockchain Optimized Data Storage Model Based on Extreme Learning Machine (ELM) Sharding"
+    excerpt: "In addition, the ELM-based sharding technology can also provide higher data privacy and security. Since the data is partitioned into multiple segments and managed by different ELM nodes, even if one node is attacked or the data is leaked, it will not have an impact on the data integrity of the whole system."
+    publishedDateTime: 2024-03-08T16:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/08/9975451.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
     excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
     publishedDateTime: 2024-03-05T08:00:00Z

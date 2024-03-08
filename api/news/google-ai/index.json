@@ -392,6 +392,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-27-google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks-not-working-the-way-we-intended.md",
+      "title": "Google to relaunch ‘woke’ Gemini AI image tool in few weeks: ‘Not working the way we intended’",
+      "excerpt": "We are hoping to have that back online very shortly in the next couple of weeks, few weeks,” Google DeepMind CEO Demis Hassabis said Monday. The tool was not “working the way we intended ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/26/business/google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks/",
+      "originalUrl": "https://nypost.com/2024/02/26/business/google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T18:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-google-deepmind-ceo-addresses-the-gemini-debacle-and-says-image-generator-could-be-back-in-a-couple-of-weeks.md",
       "title": "Google DeepMind CEO addresses the Gemini debacle and says image generator could be back in a 'couple of weeks'",
       "excerpt": "Google DeepMind CEO Demis Hassabis said the company hopes to relaunch its artificial intelligence image generator as soon as the next \"couple of weeks.\" Google paused access to its image generator ...",
@@ -1463,58 +1497,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-googles-flagship-ai-model-gets-a-mighty-fast-upgrade.md",
-      "title": "Google’s Flagship AI Model Gets a Mighty Fast Upgrade",
-      "excerpt": "Demis Hassabis, CEO of Google DeepMind, which developed the new model, compares its vast capacity for input to a person’s working memory, something he explored years ago as a neuroscientist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-deepmind-gemini-pro-ai-upgrade/",
-      "originalUrl": "https://www.wired.com/story/google-deepmind-gemini-pro-ai-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cd787e5cf740439249b2fb/191:100/w_1280,c_limit/Google-Deepmind-Business-1353069623.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

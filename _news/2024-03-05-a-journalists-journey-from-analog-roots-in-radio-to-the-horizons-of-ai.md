@@ -7,7 +7,7 @@ originalUrl: "https://current.org/2024/03/a-journalists-journey-from-analog-root
 webUrl: "https://current.org/2024/03/a-journalists-journey-from-analog-roots-in-radio-to-the-horizons-of-ai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1170
     height: 669
     isCached: true
+
+related:
+  - title: "Sharing the AI journey: Amplifying female founder voices"
+    excerpt: "In October last year, researchers at the Alan Turing Institute sounded the alarm that there was an “urgent issue” of gender imbalance in artificial intelligence investment. No one, unfortunately, was surprised."
+    publishedDateTime: 2024-03-08T14:16:00Z
+    webUrl: "https://thenextweb.com/news/ai-amplifying-female-founder-voices"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 47
 
 secured: "tHoL3QNw91p1WB+4DZztO91OmM3nYPJRy6X7FlPWHeZGnYGV5OxdHvZASRBeICqD5VTk0IJnENPithiyhJm+TTCoO3vOqE9vw4+4ywTp/v4oIa1MnFgZhkm6QufyYiwtNau0UUHOLFcab8g+IdzQrMkLigPzuAAzuQ2mJJ6JB2ljPRErS6YXD5/HvS2r+ZvqPU/Io065HWGHAuzvzNmyY7S78ofFV/geVQx9rmH14ABx0TXayZA2tJ2S0CxJtrEo2KgUlmFfycCrAgIhXGyv3OfOsltC2Vjrp/Gt0MpKr/JFFc2iHonuzsjApkb1BP4lZKBPqbSRV4tHT/xuQfzVHa+7OuKCjWGfw39oMU6th5o=;1qGJ1I9Z0GJPgLi/7cBoug=="
 ---

@@ -149,6 +149,20 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 38
+  - title: "WiMi Is Researching Blockchain Optimized Data Storage Model Based on Extreme Learning Machine (ELM) Sharding"
+    excerpt: "In addition, the ELM-based sharding technology can also provide higher data privacy and security. Since the data is partitioned into multiple segments and managed by different ELM nodes, even if one node is attacked or the data is leaked, it will not have an impact on the data integrity of the whole system."
+    publishedDateTime: 2024-03-08T16:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/08/9975451.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "wL1/NV989OpWbzSvJxW78Reu0poa21kAnL61gehtY5r+cfft3BYYr6dwR5vVxhCFSeyiOsIGMhgPR15C9+czJsF6FtZj/akI6rhEziR2khvcUzOru4BFU7qD9NmMneEb64VFXNGOeezl/UqljDvU1ChHT9PB/Q1gBU4IUEj+Ajm4jeC5GoNIOPpfuvmN2y9Tw5Hb/x7pKaBbIJdxmpiOx3yVrb8VW0AsgFQk8i0yWgkmu2tRYhyLI43NL/QPlaK7sWKPXw6l4n/EuntRJ+HQY/50Ymm6SrHjp1jyGXka8pGceMeRMSHW4NhVg8yW17tTkBOehvnwgxAnbjkF5Sd8wmFjWZnWtyHapx1mt4w5zJI=;tyQqnl4kSyKIA9nScgFfQA=="
 ---

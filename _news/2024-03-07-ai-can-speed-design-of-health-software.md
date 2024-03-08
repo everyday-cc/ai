@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2024/03/240306144729.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/03/240306144729.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Wipro's health care deals get an artificial intelligence booster shot"
+    excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
+    publishedDateTime: 2024-03-08T16:16:00Z
+    webUrl: "https://www.rediff.com/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
+    ampWebUrl: "https://m.rediff.com/amp/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 59
+    images:
+      - url: "https://im.rediff.com/345-230/money/2024/feb/28ai-pc1.jpg"
+        width: 345
+        height: 230
+        isCached: true
   - title: "Wipro's health care deals get an artificial intelligence booster shot"
     excerpt: "\"Large deals with committed business transformation and business value delivered through AI, automation, and platform modernisation, are in the pipeline,\" said Kumar"
     publishedDateTime: 2024-03-07T10:43:00Z

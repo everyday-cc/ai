@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mercer vs. Citadel SoCon Tournament Tickets & Start Time"
-    excerpt: "Preview the SoCon Tournament Mercer Bears vs. Citadel Bulldogs game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-03-03T14:07:00Z
-    webUrl: "https://www.wtoc.com/sports/betting/2024/03/08/mercer-vs-citadel-buy-socon-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WTOC-TV
-      domain: wtoc.com
-    quality: 2
 
 secured: "KUQy8nJe7V69CzamXP0t9IlWqVI6uiNiEND2/SCgpnpXSkc6M5uhG8+o5Kx6US1olP3HY7AskHOVxYkb48kWNU7+TN8d5THZIwfhzWvellQvZ+b6+H/tkcEEgAgQ3CnwOt5qvLWw7QQOgoVk9aUdRmTtGX4YkQ2/TiNaDsNZymnefqpwpSTn6l2cB+Fup1BUDZe1OleP5fKLrpXKxihu2GTRrgcrHWph8ox19UbjL0SdI553M/6sGENgVFWVRYRbUkuR9Nty9cyPg14uxxp8Slv3cVdxMJOTykK8KYkf21MaFc7Ign/SPKARZ9MDgnNwrAFWhpN3B87xDO/Ao/Z1P0CYnEHGlVw+tfseA6lkgSs=;FsHztz/KR52swNQDtrY9dg=="
 ---

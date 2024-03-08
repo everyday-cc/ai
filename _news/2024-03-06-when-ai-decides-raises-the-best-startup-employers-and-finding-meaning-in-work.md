@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Expanding The Limits Of AI With Identity"
+    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
+    publishedDateTime: 2024-03-08T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Writing still matters in the age of artificial intelligence"
     excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
     publishedDateTime: 2024-03-06T00:25:00Z

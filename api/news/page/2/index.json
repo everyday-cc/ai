@@ -2,6 +2,343 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-07-former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms.md",
+      "title": "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms",
+      "excerpt": "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt.md",
+      "title": "Microsoft hosts ‘AI: Egypt Pathway to a New Frontier’ summit to advance AI deployment in Egypt",
+      "excerpt": "AI: Egypt Pathway to a New Frontier featured opening remarks by several esteemed dignitaries including the Honorable Herro Mustafa Garg, US Ambassador to Egypt; Dr. Rania Al-Mashat, Minister of International Cooperation; Dr. Amr Talaat, Minister of Communications and Information Technology, and renowned Egyptologist Dr. Khaled El-Anany.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
+      "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MWI5ODg1MTMtNjUzNC00/0/microsofthostsai-egyptpathwaytoanewfrontiersummittoadvanceaideploymentinegypt-jpg.jpeg?f=3%3A2",
+          "width": 898,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1",
+      "publishedDateTime": "2024-03-07T07:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-facebook-soon-to-have-fully-ai-powered-video-recommendation-algorithm-meta-confirms.md",
+      "title": "Facebook Soon to Have Fully AI-Powered Video Recommendation Algorithm, Meta Confirms",
+      "excerpt": "Facebook's Head, Tom Alison, has announced that the platform's video recommendation system will soon be AI-powered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
+      "originalUrl": "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/444283/meta-is-removing-facebook-news-tab-in-us-australia.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
+      "publishedDateTime": "2024-03-07T03:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
+      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
+      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-ai-solutions-at-leap.md",
+      "title": "Sahm Capital showcases latest fintech, AI solutions at LEAP",
+      "excerpt": "featuring an AI presenter named 'Aliyah', at LEAP 2024. The cirm also showcased its all-in-one comprehensive trading solutions at the four-day event. With focus on fintech innovation, the company provides comprehensive trading solutions, including the Sahm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
+      "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/38/1463605211.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
+      "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
+      "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
+      "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-salesforce-unveils-low-code-ai-toolkit-for-crm.md",
+      "title": "Salesforce unveils low-code AI toolkit for CRM",
+      "excerpt": "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
+      "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
+      "publishedDateTime": "2024-03-06T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-meta-is-building-a-giant-ai-model-to-power-its-entire-video-ecosystem-exec-says.md",
       "title": "Meta is building a giant AI model to power its 'entire video ecosystem,' exec says",
       "excerpt": "Tom Alison, the head of Facebook, said on Wednesday that the company is working on an artificial intelligence model to \"power our entire video ecosystem.\"",
@@ -785,7 +1122,7 @@
       "originalUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -862,353 +1199,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-box-gets-even-smarter-with-azure-openai-service-integration.md",
-      "title": "Box gets even smarter with Azure OpenAI Service integration",
-      "excerpt": "Box AI, including the newly announced Azure OpenAI Service integration, is now included in Enterprise Plus plans. Individual users have access to 20 queries per month, with a further 2,000 queries available at the company level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration",
-      "originalUrl": "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/m6TgkK2kPHQufJaNbcCFvA-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T11:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-anthropic-aws-google-set-to-outpace-microsoft-openai-duo.md",
-      "title": "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo",
-      "excerpt": "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
-      "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T10:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla.md",
-      "title": "Open AI says Elon Musk demanded \"absolute control\" of the company or a merger with Tesla",
-      "excerpt": "OpenAI has responded to Elon Musk's lawsuit, stating that Musk himself backed for-profit plans and at one point wanted “absolute control” of the company or a merger with Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "originalUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1672878896_chatgpt-openai_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "publishedDateTime": "2024-03-06T06:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
-      "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
-      "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/06/17dbafef-d2ea-4e14-9aad-c157ae6799bb_f578f2f2.jpg?itok=1P5ZJByg&v=1709694364",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T03:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit.md",
-      "title": "OpenAI ‘intend[s] to move to dismiss all’ claims of Elon Musk’s lawsuit",
-      "excerpt": "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here. OpenAI just fired back at the lawsuit filed last week by former co-founder turned rival Elon Musk over claims the company abandoned its founding principles and identity as a non-profit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
-      "originalUrl": "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_a_silhouette_of_a_white_male_tech_founder_standing_and__17b304cf-7dea-4359-844b-82d790380910.png?fit=750%2C420&#038;strip=all",
-          "width": 749,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-the-race-for-powerful-computer-chips-and-ai-will-change-the-face-of-global-politics-and-security.md",
-      "title": "The race for powerful computer chips and AI will change the face of global politics and security",
-      "excerpt": "A global race to build powerful computer chips that are essential for AI tools could have a major effect on global politics and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
-      "originalUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartcompany.com.au/wp-content/uploads/2024/03/AdobeStock_189358603.jpg?resize=1200,630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T00:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-google-now-wants-to-limit-the-ai-powered-search-spam-it-helped-create.md",
-      "title": "Google now wants to limit the AI-powered search spam it helped create",
-      "excerpt": "Google's post describes a \"March 2024 core update\" to the ranking algorithms that it says will show fewer results that \"are unhelpful, have a poor user experience or feel like they were created for search engines instead of people.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
-      "originalUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Expanding The Limits Of AI With Identity"
+    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
+    publishedDateTime: 2024-03-08T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
     excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
     publishedDateTime: 2024-03-05T19:08:00Z

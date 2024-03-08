@@ -2,6 +2,397 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-for-unleashing-genais-potential-managing-risks.md",
+      "title": "AWS CEO bats for responsible AI for unleashing GenAI's potential, managing risks",
+      "excerpt": "Advocating responsible artificial intelligence (AI), ﻿Amazon Web Services﻿ (AWS) CEO Adam Selipsky stressed the need for unlocking Generative AI's full potential while mitigating risks ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/11/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-full-potential",
+      "originalUrl": "https://yourstory.com/2023/11/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-full-potential",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T07:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-guildford-ice-rink-used-to-test-anti-skidding-on-ai-car.md",
+      "title": "Guildford: Ice rink used to test anti-skidding on AI car",
+      "excerpt": "An ice rink has been used to test anti-skidding on a car powered by artificial intelligence (AI). University of Surrey researchers brought the driverless vehicle to Guildford Spectrum for a trial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-surrey-67555425",
+      "originalUrl": "https://www.bbc.com/news/uk-england-surrey-67555425",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12FE1/production/_131839777_aicar.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-surrey-67555425.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-surrey-67555425.amp",
+      "publishedDateTime": "2023-11-29T06:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-amazon-joins-the-artificial-intelligence-race-launches-q-ai-assistant.md",
+      "title": "Amazon Joins the Artificial Intelligence Race, Launches Q AI Assistant",
+      "excerpt": "Designed to streamline work, this AI chatbot offers tailored business solutions, automated coding assistance, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
+      "originalUrl": "https://beincrypto.com/amazon-race-launches-q-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T06:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https//beincrypto.com",
+        "domain": "beincrypto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-ai-robots-to-aid-english-education-in-seoul-schools.md",
+      "title": "AI robots to aid English education in Seoul schools",
+      "excerpt": "Robots powered by artificial intelligence will aid English education in five elementary and middle schools in Seoul starting in March 2024, the Seoul Metropolitan Office of Education said Wednesday. The English tutoring robots will aid students in brushing up their English language knowledge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20231129000649",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231129000649",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F29%2F20231129000642_0.jpg",
+          "width": 630,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231129000649",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231129000649",
+      "publishedDateTime": "2023-11-29T06:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-the-best-online-courses-for-ai-chatgpt-midjourney-and-more.md",
+      "title": "The best online courses for AI, ChatGPT, Midjourney, and more",
+      "excerpt": "TL;DR: Find the best online courses on AI, ChatGPT, Midjourney, and more on Udemy. Are you absolutely terrified of the seemingly inevitable rise of AI? You're not alone. This technology is causing a lot of controversy and genuine concern, but what's clear is that it isn't going anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/best-ai-courses",
+      "originalUrl": "https://mashable.com/article/best-ai-courses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02nIhjWsO4c7nWMwnLfrXdE/hero-image.fill.size_1200x675.v1701190561.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-valley-is-leveraging-contextual-generative-ai-for-the-sales-industry.md",
+      "title": "Valley Is Leveraging Contextual Generative AI For The Sales Industry",
+      "excerpt": "How a startup is building their own generative AI models that while intentionally small in size are big on leveraging data quality and domain expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/11/28/valley-is-leveraging-contextual-generative-ai-for-the-sales-industry/",
+      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/11/28/valley-is-leveraging-contextual-generative-ai-for-the-sales-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65591734f5a3fb7db2166d59/0x0.jpg?format=jpg&crop=1320,1300,x0,y66,safe&height=900&width=1600&fit=bounds",
+          "width": 914,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/11/28/valley-is-leveraging-contextual-generative-ai-for-the-sales-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/11/28/valley-is-leveraging-contextual-generative-ai-for-the-sales-industry/amp/",
+      "publishedDateTime": "2023-11-29T04:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-finance-workers-in-london-to-be-most-impacted-because-of-ai-study.md",
+      "title": "Finance workers in London to be most impacted because of AI: Study",
+      "excerpt": "London is more vulnerable to job losses than any other part of the UK, as more organizations adopt generative AI, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3711461/finance-workers-in-london-to-be-most-impacted-because-of-ai-study.html",
+      "originalUrl": "https://www.computerworld.com/article/3711461/finance-workers-in-london-to-be-most-impacted-because-of-ai-study.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/20/09/shutterstock_547750366-100939286-large-100943613-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3711461/finance-workers-in-london-to-be-most-impacted-because-of-ai-study.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711461/finance-workers-in-london-to-be-most-impacted-because-of-ai-study.amp.html",
+      "publishedDateTime": "2023-11-29T04:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
+      "title": "AWS CEO bats for responsible AI; says need to unlock GenAI's full potential while mitigating risks",
+      "excerpt": "Now this is a new capability that helps you customers easily safeguard your Generative AI applications with your responsible AI policies, to create a guardrail..., he said.With this, customers can create multiple guardrails tailored to different use cases and apply them across multiple FMs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_11_2023_10_07_19_2982597.jpg?width=1280",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2728029-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks?amp",
+      "publishedDateTime": "2023-11-29T04:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-aws-powers-krungsris-transformation-into-an-ai-driven-bank.md",
+      "title": "AWS Powers Krungsri’s Transformation Into an AI-Driven Bank",
+      "excerpt": "Bank of Ayudhya Public Company Limited, commonly known as Krungsri Bank, has selected AWS to power its digital transformation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/81291/thailand/aws-powers-krungsris-transformation-into-an-ai-driven-bank/",
+      "originalUrl": "https://fintechnews.sg/81291/thailand/aws-powers-krungsris-transformation-into-an-ai-driven-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechnews.sg/wp-content/uploads/2023/11/AWS-to-Power-Krungsris-Digital-Transformation-Into-an-AI-Driven-Bank.jpg",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T02:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-could-ai-chatbots-be-our-future-therapists-a-psychologist-weighs-in.md",
       "title": "Could AI Chatbots Be Our Future Therapists? A Psychologist Weighs In",
       "excerpt": "Discover the power of AI in therapy, and how digital approaches could break accessibility constraints in mental healthcare.",
@@ -693,428 +1084,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-artificial-intelligence-needs-spiritual-intelligence-opinion.md",
-      "title": "Artificial Intelligence Needs Spiritual Intelligence | Opinion",
-      "excerpt": "A group of scientists create an artificial intelligence (AI) system and ask it, \"Is there a god?\" The AI spits out an answer: \"Insufficient computing power to determine an answer.\" They add more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-needs-spiritual-intelligence-opinion-1847296",
-      "originalUrl": "https://www.newsweek.com/artificial-intelligence-needs-spiritual-intelligence-opinion-1847296",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2315101/clouds.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-meta-updates-political-advertising-rules-to-cover-ai-generated-images-and-videos.md",
-      "title": "Meta updates political advertising rules to cover AI-generated images and videos",
-      "excerpt": "Meta revealed on Tuesday more details about its policies on political ads, including a mandate that advertisers disclose when they use artificial intelligence to alter images and videos in certain political ads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
-      "originalUrl": "https://www.cnbc.com/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669",
-          "width": 3500,
-          "height": 2239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
-      "publishedDateTime": "2023-11-28T22:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-launches-new-chips-for-ai-training-and-its-own-ai-chatbot.md",
-      "title": "AWS Launches New Chips for AI Training and Its Own AI Chatbot",
-      "excerpt": "Invent, NVIDIA contributed GPUs to Amazon's cloud efforts and added a retriever system to its AI Enterprise Software platform on AWS Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-graviton4-nov-23.jpeg",
-          "width": 660,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T20:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ai-and-environmental-sustainability-a-symbiotic-relationship.md",
-      "title": "AI And Environmental Sustainability – A Symbiotic Relationship",
-      "excerpt": "Organizations seek to embrace the many benefits of AI while also making progress toward their sustainability goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-environmental-sustainability--a-symbiotic-relationship/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-environmental-sustainability--a-symbiotic-relationship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/656624a0002cfb74ebf6159a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-environmental-sustainability--a-symbiotic-relationship/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-environmental-sustainability--a-symbiotic-relationship/amp/",
-      "publishedDateTime": "2023-11-28T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-expands-big-pharma-partnerships-on-manufacturing-ai-and-rd.md",
-      "title": "AWS expands big pharma partnerships on manufacturing, AI, and R&D",
-      "excerpt": "Pfizer and Amazon Web Services are just another example of how artificial intelligence is working in the background in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/aws-expands-big-pharma-partnerships-183441706.html",
-      "originalUrl": "https://www.aol.com/aws-expands-big-pharma-partnerships-183441706.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/GYDRMJGSeT4MGXMwcOYVhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/aol_yahoo_finance_433/54b41e878deea19caeacbc58d77cb249",
-          "width": 1199,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/aws-expands-big-pharma-partnerships-183441706.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/aws-expands-big-pharma-partnerships-183441706.html",
-      "publishedDateTime": "2023-11-28T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-google-has-enhanced-bards-understanding-of-youtube-videos.md",
-      "title": "Google Has Enhanced Bard's Understanding Of YouTube Videos",
-      "excerpt": "The AI can only repeat what was in the video, but it can still help users better understand a key point that might have been overlooked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/",
-      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65662f6cdf22a0dcbc648341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/amp/",
-      "publishedDateTime": "2023-11-28T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
-      "title": "AWS Announces Amazon Q to Reimagine the Future of Work",
-      "excerpt": "vice president of Data and Artificial Intelligence. “AWS is helping customers harness generative AI with solutions at all three layers of the stack, including purpose-built infrastructure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
-      "originalUrl": "https://www.nasdaq.com/press-release/aws-announces-amazon-q-to-reimagine-the-future-of-work-2023-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T18:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-how-ai-sees-the-world-what-happened-when-we-trained-a-deep-learning-model-to-identify-poverty.md",
-      "title": "How AI 'sees' the world: What happened when we trained a deep learning model to identify poverty",
-      "excerpt": "To most effectively deliver aid to alleviate poverty, you have to know where the people most in need are. In many countries, this is often done with household surveys. But these are usually infrequent and cover limited locations.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-11-ai-world-deep-poverty.html",
-      "originalUrl": "https://techxplore.com/news/2023-11-ai-world-deep-poverty.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-ai-sees-the-worldw.jpg",
-          "width": 1280,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-11-ai-world-deep-poverty.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-world-deep-poverty.amp",
-      "publishedDateTime": "2023-11-28T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-china-circumvents-gpu-ban-by-stripping-geforce-rtx-3090-cards-as-ai-race-heats-up.md",
-      "title": "China Circumvents GPU Ban By Stripping GeForce RTX 3090 Cards As AI Race Heats Up",
-      "excerpt": "With the stock of GeForce RTX 4090 disappearing rapidly, China has turned to the GeForce RTX 3090 as a backup choice.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
-      "originalUrl": "https://hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/63199/content/3090.jpg",
-          "width": 708,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards",
-      "publishedDateTime": "2023-11-28T17:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

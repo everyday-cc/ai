@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
+      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
+      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1049,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
+      "publishedDateTime": "2024-02-22T22:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs.md",
       "title": "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs",
       "excerpt": "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ...",
@@ -1467,59 +1520,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai.md",
-      "title": "Google’s new AI hub in Paris proves that Google feels insecure about AI",
-      "excerpt": "Some of Azure’s products are focused on AI, but it’s a much larger cloud provider with clients that have nothing to do with the AI industry. So it’s not just a Google thing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
-      "originalUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/APPROVED_NZ7_0176.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
-      "publishedDateTime": "2024-02-15T17:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Meta AI"
       ]

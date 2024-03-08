@@ -162,6 +162,20 @@ related:
       name: Recycling Today
       domain: recyclingtoday.com
     quality: 46
+  - title: "AI Bias In the Spotlight On International Women’s Day"
+    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
+    publishedDateTime: 2024-03-08T16:00:00Z
+    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
+        width: 1000
+        height: 513
+        isCached: true
   - title: "Electoral Battles In The Age Of Artificial Intelligence"
     excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
     publishedDateTime: 2024-03-04T20:44:00Z

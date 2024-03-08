@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogeni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,31 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating The Risks Of AI Weaponization"
+    excerpt: "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention."
+    publishedDateTime: 2024-03-08T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1456
+        height: 864
+        isCached: true
+  - title: "How AI is helping advance women’s health around the world"
+    excerpt: "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide."
+    publishedDateTime: 2024-03-08T14:00:00Z
+    webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
   - title: "Advancing AI innovation with cutting-edge solutions"
     excerpt: "Power your business transformation with proven AI services and infrastructure. Provided byMicrosoft Azure and NVIDIA AI is helping organizations in nearly every industry increase productivity, engage customers, realize operational efficiencies, and gain a ..."
     publishedDateTime: 2024-03-04T00:00:00Z

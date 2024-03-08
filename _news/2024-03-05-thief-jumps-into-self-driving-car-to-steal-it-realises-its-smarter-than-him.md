@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
+    excerpt: "There were no injuries reported by the rider or damage to our vehicle.” Self-driving taxis are an increasingly common sight in California, with state regulators on Friday authorizing Waymo to expand services of its fleet of robotaxis into the greater Los ..."
+    publishedDateTime: 2024-03-04T09:01:00Z
+    webUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 44
+    images:
+      - url: "https://media.nbcbayarea.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Los Angeles man arrested after attempting to steal self-driving taxi as car controls remained locked"
     excerpt: "A Los Angeles man attempted to steal a self-driving taxi in the city's downtown on Saturday evening, but he didn't get very far — the vehicle's controls refused to cooperate with him"
     publishedDateTime: 2024-03-04T22:48:00Z
@@ -98,15 +114,6 @@ related:
       name: KVUE
       domain: kvue.com
     quality: 13
-  - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-    excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
-    publishedDateTime: 2024-03-03T21:38:00Z
-    webUrl: "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 4
 
 secured: "+xlnVdDmPJsd1k/0cRkXnsGNv6UhJrtf51/gForpRt/I98SAGxfPvSC4qvspFQg6QkuJI+9SDjWOVl+preUa6PGGZG/OPL9d3LEM1IirZ2Gem+G45aUTLIPUC9klXRrTciGJFHs/yyAiP4yTPeZgEUg5wsCFn/H7jcLOSHlHGSFYwkEHSetgaHwPJCl5ZTbWHgBVe1qD4IGUkBk04BU/zmC9hpyX8cKwXjor7E/oNiEuNIYheMpc/Z9bDC6nnfwGhxfJqQv0o3hInkvjKXwwfOyHErjCJdo02KmFcB1sEF8aQzcsEXAzwEjFL+7lmEsWK17kWVAT5YAeHgQD5YVJmMTU3eLHKnIUb1pFND0v0pvwEpGUe7PitN6U2cus9swT1tqIVq+rEI1nDqp+uvRhmILz25cef8RuMEbNmuFebmd+qmlwsHC1tYY24YxloTEx0CxLHszxcSrMQFiYHb4sLZ2QSw8DoLxr508QPGYR+XELMPTtQGwK8Yrj6fal7BVilMM+oDto361Ug5J9xIcwUQ==;Ys4DfvIadp+RH61CK3yM/g=="
 ---

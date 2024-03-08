@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-16-googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai.md",
+      "title": "Google’s new AI hub in Paris proves that Google feels insecure about AI",
+      "excerpt": "Some of Azure’s products are focused on AI, but it’s a much larger cloud provider with clients that have nothing to do with the AI industry. So it’s not just a Google thing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/APPROVED_NZ7_0176.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "publishedDateTime": "2024-02-15T17:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-google-opens-paris-research-hub-as-france-seeks-bigger-ai-role.md",
       "title": "Google Opens Paris Research Hub as France Seeks Bigger AI Role",
       "excerpt": "Alphabet Inc.’s Google opened a new Paris hub for its artificial intelligence research teams, as the French capital stakes its claim to be the European center of the emerging technology. The new ...",
@@ -1313,59 +1366,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-apples-new-ai-research-promises-high-performance-without-the-high-price-tag.md",
-      "title": "Apple’s new AI research promises high performance without the high price tag",
-      "excerpt": "For instance, Hugging Face, a company that provides open-source tools and models for natural language processing, recently launched an initiative with Google that makes it easier for users to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
-      "originalUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_an_apple_surrounded_by_data_and_money_118ed9fb-d58c-4b58-940c-f1d0ec5bddd4-1-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T12:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

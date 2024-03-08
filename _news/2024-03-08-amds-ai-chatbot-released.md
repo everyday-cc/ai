@@ -225,6 +225,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
+    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
+    publishedDateTime: 2024-03-08T15:51:00Z
+    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Anthropic unveils its most powerful AI chatbot to date"
     excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
     publishedDateTime: 2024-03-04T14:56:00Z
@@ -311,6 +325,6 @@ related:
       domain: nbcnewyork.com
     quality: 5
 
-secured: "OvhkeAemwWn9juG+v8EULLFIrnLx4PPStwEb5twcNNb0d70DEv4Qqh9BbB5myr293LmkM2kcAemrtQrSrMcJBbBjl3NFtSkUowibuI5TdAimxoo4gqFPg2KGXLwc/3I3PILDO9CzyJrgVy8lNgur9YXFnC1FHKffpzRHcV+ObZQdiy5hCtCBQK0Q/MlSbrHx/kf5neOTQ4dYqgwO5I2MHEhSiuY6gGqpK0hKNUW+zLbid7vK3QOkByAP9lcq4ZZ8CfzrAwdvRSVkrsX9w3/sH4PScggVCgDmo44PuFKCPctpMLRp2Wh1LpnW5y5B0FsVsC56zN9wfIUWyEr1eZl0comD/XC0QGIvKAD+5rAq8lM=;LPbKFuB4UWm1sNR4JbGUbw=="
+secured: "kbo4+4HL+8DBXA5Vux1PK7w2lPL0d92eKvGlosXQHvIbrnwr/qLBuu3Q/mP0vVOxOv2511vgkYn662AlSJ3LV9xbUZYzLz6S+KfkHzRqGc7SRm3/fT7KepETziR7upXS2mxsRJ6vX9jDixI+C2GN+59JD034KC82Nd6CX/UTr1Y/pZDTGGjzPdiqWgEj5Pgb7nkrY7qbgnNrH3PQsXnVQX8W7839ce5wX5D0lJQwV1u5L4+JLMixIi65c4/4nf1ER4+vMA46bWd1rps1TFltLtvzWM1a9oLaPqfcRzUIz1tKiYa8PYH3JYhj5njBynglThA0nm2tNDuHXBmVWG+RRXu4EX5I3YB4zy01E8e507OpZofoonlzOtpTWuAeAlp/xrLOE4GMnVPgEkiWYavs71iLQ2vFY1x8SzYC7/zKiPoKZAEVX/iNiv7ItSZAQvSvVNS+HgIkEnCzfSCg8l4opDjdt+S+ZcPG0Xrnj/bRQVJ1nj4n2cdIEvvZskJDljyM/sjGxAhgUzCiGWWPxA9y2g==;yGVp++O/Ik1Q0w3l3tNrEg=="
 ---
 

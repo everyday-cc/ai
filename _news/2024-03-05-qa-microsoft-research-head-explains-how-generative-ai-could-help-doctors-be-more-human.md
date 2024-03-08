@@ -166,22 +166,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 51
-  - title: "Microsoft and Mistral AI's Multi-Million Euro Partnership to Reshape AI Landscape, New Challenger to OpenAI's Dominance"
-    excerpt: "Microsoft has invested in French startup Mistral AI, aiming to integrate its AI models into Microsoft's Azure cloud computing platform."
-    publishedDateTime: 2024-03-03T15:31:00Z
-    webUrl: "https://www.techtimes.com/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302240/20240303/microsoft-mistral-ais-multi-million-euro-partnership-reshape-ai-landscape.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 50
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444333/ai-safety-summit-day-two.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
     excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
     publishedDateTime: 2024-03-07T12:34:00Z

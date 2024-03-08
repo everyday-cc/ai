@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-01-a-new-way-to-discover-places-with-generative-ai-in-maps.md",
+      "title": "A new way to discover places with generative AI in Maps",
+      "excerpt": "We’re incorporating generative AI in Maps, to help you discover things to do. Select U.S. Local Guides begin testing the feature this week.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/google-maps-generative-ai-local-guides/",
+      "originalUrl": "https://blog.google/products/maps/google-maps-generative-ai-local-guides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-in-Maps_SocialShare.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/google-maps-generative-ai-local-guides/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/",
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-google-bards-latest-update-turns-your-words-into-ai-images.md",
       "title": "Google Bard's latest update turns your words into AI images",
       "excerpt": "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities.",
@@ -1404,58 +1456,6 @@
         "name": "The Hans India",
         "domain": "thehansindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool.md",
-      "title": "DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"",
-      "excerpt": "Mustafa Suleyman recently said the quiet part out loud when he admitted that AI is designed to steal jobs from humans.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
-      "originalUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f9f5c4175d40dbf8befd5716ec87baf.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

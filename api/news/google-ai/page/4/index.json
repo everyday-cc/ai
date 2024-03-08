@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-20-deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool.md",
+      "title": "DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"",
+      "excerpt": "Mustafa Suleyman recently said the quiet part out loud when he admitted that AI is designed to steal jobs from humans.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "originalUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f9f5c4175d40dbf8befd5716ec87baf.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-20-google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news.md",
       "title": "Google DeepMind scientists in talks to leave and form AI startup - Bloomberg News",
       "excerpt": "Scientists Laurent Sifre and Karl Tuyls, who have already given notice to leave DeepMind, have held discussions with investors about a financing round that could raise over 200 million euros ($217 ...",
@@ -1349,58 +1401,6 @@
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-google-deepmind-has-new-rules-to-make-sure-ai-robots-behave-when-tidying-your-home.md",
-      "title": "Google DeepMind has new rules to make sure AI robots behave when tidying your home",
-      "excerpt": "The tech giant has introduced a set of new advancements that seek to make robots powered by AI a lot safer to deploy at home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6597efa0ec62ab5daf80f036?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1?amp",
-      "publishedDateTime": "2024-01-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

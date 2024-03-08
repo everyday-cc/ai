@@ -67,6 +67,22 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Microsoft's Annual Ability Summit Launches With Accessible AI Tech, Features for the Disabled"
+    excerpt: "Microsoft's 14th Ability Summit takes AI to the center stage in curbing the disability divide with promises of accessible features for Windows Copilot, Azure AI, and other Microsoft applications. The annual summit is Microsoft's one-day celebration ..."
+    publishedDateTime: 2024-03-07T21:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 63
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444157/spain-wireless-telecoms-internet-mobile.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How generative AI is changing Infosys from within"
     excerpt: "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ..."
     publishedDateTime: 2024-03-05T09:43:00Z
@@ -97,15 +113,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Gemini Provides Generative AI Tutoring With Moral Exhortation"
-    excerpt: "Gemini when asked simple questions by a first-year high school student provides a steady stream of moral indignation, coupled with the occasional mathematical error."
-    publishedDateTime: 2024-03-03T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/rayravaglia/2024/03/03/google-gemini-provides-generative-ai-tutoring-with-moral-exhortation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "What Comes Next For Banks With Generative AI"
     excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
     publishedDateTime: 2024-03-04T13:00:00Z

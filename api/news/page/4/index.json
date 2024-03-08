@@ -2,6 +2,342 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-05-check-out-the-worlds-best-consumer-laptop-for-ai-apple-macbook-air.md",
+      "title": "Check out 'the world’s best consumer laptop for AI' - Apple MacBook Air",
+      "excerpt": "After weeks of anticipation, Apple finally took the wraps off its latest MacBook Air. The iPhone maker introduced two variants - 13-inch and 15-inch, both of which are powered by its latest M3 Apple Silicon chip.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html",
+      "originalUrl": "https://tech.hindustantimes.com/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/03/05/1600x900/apple_1709622343135_1709622348550.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html",
+      "publishedDateTime": "2024-03-05T07:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-study-most-cmos-fail-to-understand-ai-beyond-chatgpt.md",
+      "title": "Study: Most CMOs Fail to Understand AI Beyond ChatGPT",
+      "excerpt": "The report, “Marketing's AI Era: Strategies & Measurement Driven by AI-Powered ... Camp Jefferson, Cossette Media, Impact Research, Jungle Media, K72, Level Eleven, Magic Circle Workshop, Make My Day, Middle Child, Mindshaker, Munvo, Septième ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/739441ea-6a05-41ba-856e-dd24b705c450/AIOS_Hero_Laptop.jpg",
+          "width": 4500,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T07:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-the-ai-homogenization-is-shaping-the-world.md",
+      "title": "The AI Homogenization Is Shaping The World.",
+      "excerpt": "A phenomenon of AI homogenization is emerging — this impact that Artificial Intelligence is having on the world makes us realize the importance of our own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e19a92e7cc0647aba49a19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1223,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/",
+      "publishedDateTime": "2024-03-05T06:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-is-broadcom-an-artificial-intelligence-ai-stock-to-buy-hand-over-fist-before-its-big-news-on-thursday.md",
+      "title": "Is Broadcom an Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before Its Big News on Thursday?",
+      "excerpt": "Missed Out on Nvidia Stock's Terrific Surge? Buy This Cheap Artificial Intelligence (AI) Stock That Could Jump Another 25% in the Next Year Artificial Intelligence (AI) Could Make Semiconductors a $1 Trillion Market by 2030: Here Are 3 Top Stocks to Buy Now",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/767825/computer-chip-engineer.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T05:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-the-future-of-generative-ai-6-predictions-everyone-should-know-about.md",
+      "title": "The Future Of Generative AI: 6 Predictions Everyone Should Know About",
+      "excerpt": "Generative AI is an utterly transformative technology that is already impacting how organizations and individuals work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e4a4f2ce50e2747a4c8503/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/amp/",
+      "publishedDateTime": "2024-03-05T04:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up.md",
+      "title": "AI pervades everyday life with almost no oversight. States scramble to catch up",
+      "excerpt": "While artificial intelligence made headlines with ChatGPT, behind the scenes, the technology has quietly pervaded everyday life — screening job resumes, rental apartment",
+      "sourceUrl": null,
+      "webUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
+      "originalUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2024/03/65e6ae7207fcf6.55539367.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
+      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/",
+      "publishedDateTime": "2024-03-05T04:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN Radio",
+        "domain": "wgnradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
+      "title": "AI trends in CRM: The future of customer relationships",
+      "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-108213040,imgsize-36082,width-1200,height=765,overlay-etbrandequity/digital/ai-trends-in-crm-the-future-of-customer-relationships.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "publishedDateTime": "2024-03-05T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-concern-as-the-gambling-industry-embraces-ai.md",
       "title": "Concern as the gambling industry embraces AI",
       "excerpt": "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending.",
@@ -302,7 +638,7 @@
       "originalUrl": "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -801,7 +1137,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -892,360 +1228,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down.md",
-      "title": "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down",
-      "excerpt": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/eb501fa7b639781afa61e6952318ef6629691191/2024/03/01/d9070712-3fd3-42bb-8871-19d5474295c4/gemini-versus-chatgpt-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "publishedDateTime": "2024-03-04T10:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-nvidia-becomes-teslas-successor-as-market-flips-from-electric-vehicles-to-artificial-intelligence.md",
-      "title": "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence",
-      "excerpt": "Nvidia Corp.’s rise is captivating the stock market and driving the S&P 500 Index to new highs. But it also raises cautionary reminders of another investor darling that soared on dreams of a technological transformation, only to tumble back to earth when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "originalUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "publishedDateTime": "2024-03-04T10:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk.md",
-      "title": "A CISO’s guide to AI: Embracing innovation while mitigating risk",
-      "excerpt": "5. Invest in security research — Support research into robust security solutions for AI. Contribute to industry initiatives and collaborate with academic institutions to accelerate the development of effective safeguards. Remember, it’s not AI vs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
-      "originalUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/AdobeStock_718847427.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T09:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini.md",
-      "title": "Anthropic's Claude 3 chatbot claims to outperform ChatGPT, Gemini",
-      "excerpt": "The latest version of Claude AI promises quicker results, greater accuracy, and improved ease of use, and will now analyze uploaded images, documents, and other files.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ee5190160d7515bc2e0b36e0d5ec07ee2d847af7/2024/03/04/aede71d1-80de-4922-a0d7-10e27b1d223f/anthropics-next-generation-claude-3-ai-claims-to-outperform-chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "publishedDateTime": "2024-03-04T08:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers.md",
-      "title": "South Korean Chip Stocks Climb in Line With Rally in Japanese Peers",
-      "excerpt": "SK Hynix and Hanmi Semiconductor have recently drawn keen attention from investors because both have teamed up to package high bandwidth memory chips for clients to power AI applications, KB Securities analyst Juyoung Park said in a research note.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "originalUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "publishedDateTime": "2024-03-04T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update.md",
-      "title": "Nikkei Stock Average Rises Above 40000 for First Time, Driven by AI Optimism -- 2nd Update",
-      "excerpt": "By Kosaku Narioka Japan's benchmark stock index rose above 40000 for the first time ever, driven by stronger corporate earnings and a surge in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "originalUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
-      "publishedDateTime": "2024-03-04T05:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-india-reverses-ai-stance-requires-government-approval-for-model-launches.md",
-      "title": "India reverses AI stance, requires government approval for model launches",
-      "excerpt": "India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models. India's India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1096026706.jpg?resize=1200,843",
-          "width": 1200,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "publishedDateTime": "2024-03-04T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

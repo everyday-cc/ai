@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/302370/20240306/facebook-soon
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
 type: article
 quality: 52
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
         width: 1500
         height: 1500
+        isCached: true
+  - title: "Facebook videos will be recommended by AI, as it takes on TikTok"
+    excerpt: "That’s intended to suck you in, and the social media platform wants to get even better at this … Engadget reports that the Facebook videos feed will in future be driven by AI. Meta is revamping how Facebook recommends videos across Reels, Groups ..."
+    publishedDateTime: 2024-03-08T14:02:00Z
+    webUrl: "https://9to5mac.com/2024/03/08/facebook-videos-feed-ai/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Facebook-videos-will-be-recommended-by-AI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "As Facebook turns 20, news is out, fun is in"
     excerpt: "The site displayed randomly selected pairs of students’ mugshots, harvested from the university’s intranet, and allowed users to vote on who was hotter. It caused a stir and was promptly shut down. But before long, a successor was in the making. On February 4, 2004 Mr Zuckerberg launched a new site: TheFacebook.com."

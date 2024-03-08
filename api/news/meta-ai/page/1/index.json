@@ -62,7 +62,7 @@
       "originalUrl": "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -255,7 +255,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 313,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -438,6 +438,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
+      "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
+      "excerpt": "According to data from Grand View Research, the AI market hit close to $200 billion ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/01/2-artificial-intelligence-ai-stocks-that-could-go/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/01/2-artificial-intelligence-ai-stocks-that-could-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T06:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1424,59 +1467,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
-      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
-      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1049,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "publishedDateTime": "2024-02-22T22:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

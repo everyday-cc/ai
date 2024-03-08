@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/technology/powerful-computer-chips
 webUrl: "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/"
 type: article
 quality: 58
-heat: 78
+heat: 80
 published: true
 
 provider:

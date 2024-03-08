@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
-excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
-publishedDateTime: 2024-03-07T07:00:00Z
-originalUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
-webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
+title: "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024"
+excerpt: "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ..."
+publishedDateTime: 2024-03-07T09:02:00Z
+originalUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
+webUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/464663-Screenshot-2024-01-18-225.jpeg?h=bde28bee&itok=Hgla7csP"
-    width: 600
-    height: 316
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?49022"
+    width: 390
+    height: 250
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "8xyf6UcmOQk2StHj7JkMrugS1eVBw0Uc0A/lbZv1XPGepOnwx4zRg9wVG/bW/xwSa7Qcmd3U4UfMExiEtxUaR/ux9BVFsXSR5rQaNsEd96O5ql1NTWYDOI/622JcXzbnt46O/nVyrIF3mGXbBcos1i1j49QjMI0iuLaNwkLCd4ptcwZGQAmE3FSMymuAuYTb4FV7icfms6p1GaBj4ewpRc4wi6o+9mBMpX84tP8fNIwfFXGUJQ9A/XsP8XldlrEzsr/6Da0083LIZw9/79m2asqe0rkAL/CXlY2t/TVp5uZEijL698AZozwAOMqpDzsnakCQfZNzriuuGAaUyd0Kualpt7tRInRiOdEgINTCrxk=;IYYPCmVBoc1I+rFlpiLRWA=="
+secured: "dp99AO9MQd9nvAbU7+2kO8rC7N1uxifKcfhJzc2iHjKOlq69mB+be1XfRXg/5QNdAauaZXp5p4UYfTH7h/fpGJFY6PWxAHrtGJ2ezL3G2L9uf/CVg+P6IVmNZNkaBlU8NfLlSG0bP6i+Bze2dwD/W4Tp147xOo59Gvo95BknLUCBGXr2X43ixh85TDVUaV76ZsJvKzOm+GD2FG3EldrBAQpirU/usvzwvXdi/sUKOhi/vxTG00AKeEtEwEyb81ZvDt69ag0qqqA9cXxi5q+euL4+GNZgVHkG5kjiZeWAxMmCLXyqmKRz+htjqZi/1JpvYfjzJygb3DHnv/K4GYLInHrj62jn/bViDfLrxOGwKlo=;H+uZCgcSvz1kKmrsdB7IBw=="
 ---
 

@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-19-unlocking-financial-benefits-through-data-monetization.md",
+      "title": "Unlocking financial benefits through data monetization",
+      "excerpt": "Empowering organizations to use their data assets and artificial intelligence (AI) capabilities to create tangible economic value.\nThe post Unlocking financial benefits through data monetization appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unlocking-financial-benefits-through-data-monetization/",
+      "originalUrl": "https://www.ibm.com/blog/unlocking-financial-benefits-through-data-monetization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-what-are-breach-and-attack-simulations.md",
+      "title": "What are Breach and Attack Simulations?",
+      "excerpt": "Breach and attack simulation (BAS) provides organizations with continuous offensive security testing. See how it works and why it's important.\nThe post What are Breach and Attack Simulations? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/breach-attack-simulation/",
+      "originalUrl": "https://www.ibm.com/blog/breach-attack-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/c8b7f5c7-c9f9-4595-904efee58de463ef.blog-lead-space-40x21-1.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-customer-service-vs-customer-experience-key-differentiators.md",
       "title": "Customer service vs customer experience: Key differentiators",
       "excerpt": "What is customer service vs customer experience? Here are the key differences, and why your business needs to excel at both.\nThe post Customer service vs customer experience: Key differentiators appeared first on IBM Blog.\n",
@@ -1234,83 +1327,6 @@
       "provider": {
         "name": "The Tech Report",
         "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms.md",
-      "title": "IBM opens AI school for telcos: ‘A critical phase – not just of AI, but for all telecoms’",
-      "excerpt": "IBM explains how its AI tieup with the GSMA is about how telcos engage with the outside world, and make 5G valueable to new customer segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
-      "originalUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-in-2024-what-every-gc-needs-to-know.md",
-      "title": "AI in 2024: What Every GC Needs to Know",
-      "excerpt": "While AI and machine learning have been around for decades (think IBM’s Watson), it was the wide release of generative AI (Gen AI) tools like ChatGPT in 2022 that arguably kicked off the current era in AI. Broadly speaking, Gen AI tools create new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
         "images": null,
         "publishers": null,
         "authors": null

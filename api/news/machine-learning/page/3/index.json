@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-05-wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering.md",
+      "title": "WiMi Announced Multi-View Representation Learning Algorithm for Data Stream Clustering",
+      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a multi-view representation learning algorithm is to deal with the data stream clustering problem.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T13:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-comprehensive-study-of-the-artificial-neural-network-market-2032-current-scenario-and-future-prospects.md",
       "title": "Comprehensive Study Of The Artificial Neural Network Market 2032: Current Scenario And Future Prospects",
       "excerpt": "Artificial Neural Network Market The growth of the artificial neural network market is fueled by a rise in data volume, machine learning,",
@@ -1246,49 +1289,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-deep-learning-model-composer-enhances-early-sepsis-detection-and-patient-survival.md",
-      "title": "Deep learning model COMPOSER enhances early sepsis detection and patient survival",
-      "excerpt": "A recent Npj Digital Medicine study evaluated the effectiveness of COMPOSER, a deep learning model for early sepsis prediction. It assessed the impact of this model on the quality of patient care ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20240124/Deep-learning-model-COMPOSER-enhances-early-sepsis-detection-and-patient-survival.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20240124/Deep-learning-model-COMPOSER-enhances-early-sepsis-detection-and-patient-survival.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_770036_17061510676339666.jpg",
-          "width": 2000,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

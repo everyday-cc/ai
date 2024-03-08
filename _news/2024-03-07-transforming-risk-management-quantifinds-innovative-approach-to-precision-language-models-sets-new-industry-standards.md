@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Transforming Risk Management: Quantifind's Innovative Approach to Precision Language Models Sets New Industry Standards"
+    excerpt: "John Stockton, Co-founder of Quantifind, commented, \"As the landscape of AI continues to evolve, organizations must harness the power of Precise Language Models responsibly and strategically. Our white paper offers valuable insights into navigating the omplexities and maximizing the benefits of integrating LLMs into risk assessment frameworks.\""
+    publishedDateTime: 2024-03-07T16:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974948.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "5uETGn48xeLHPAq87RsVlELIomc9+aEb17IKbAJge1JeKe5APx3TRfW+hJkOZIukB8gz1JGfkOzHsmWGgfvDME0yeyKGvCgYkcUeAuwsUBFNK4+voAigOYfAJ+081EvUE8L5Wu3cVoMWEhCBQf8oa7AQJggBlAcc+MDI+jnrLLyjZ58gmCjAuOjh4Q0huMvNSRYM94mgLtkBxfADYKb9Cc7kwfun0FQOlK6Ck90cltnbmZHJwgLJzlhvUI9Jz+IWdE1/ke0kBM1BoetgnN2MRL5OoPn7hrlYjDGo6VKwCYlr/K79BzSBjaHVsUBKHVbKzfkeIwDSbSQt1zenJ3Qy9DlVfM4nXcB5X3Ikfz9yvCwXMNWHzXRSkp9Wx4VqbvKMgxo5UFZq90Rxdb7c9vnN75SnYiPF1xGfp/JWZ784h3sY1jijhNMVOvvz5Sbol5+MzJ8J62dtaPJ4ajTldgN7FVzC7ZHVEjbbKGByrm1o2e1JfCSQsVU0eg4EihlXnXHH3KMKERE0ztvk4TeMtBsCew==;iSufvIoxVDr/X9L3VJY4jw=="
 ---
 

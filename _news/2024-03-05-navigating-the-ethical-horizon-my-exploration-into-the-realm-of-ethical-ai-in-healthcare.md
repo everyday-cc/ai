@@ -155,6 +155,20 @@ related:
       name: Recycling Today
       domain: recyclingtoday.com
     quality: 46
+  - title: "AI Bias In the Spotlight On International Women’s Day"
+    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
+    publishedDateTime: 2024-03-08T16:00:00Z
+    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
+        width: 1000
+        height: 513
+        isCached: true
   - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
     excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
     publishedDateTime: 2024-03-07T13:27:00Z

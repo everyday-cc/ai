@@ -57,6 +57,20 @@ related:
         width: 1500
         height: 1500
         isCached: true
+  - title: "Facebook videos will be recommended by AI, as it takes on TikTok"
+    excerpt: "That’s intended to suck you in, and the social media platform wants to get even better at this … Engadget reports that the Facebook videos feed will in future be driven by AI. Meta is revamping how Facebook recommends videos across Reels, Groups ..."
+    publishedDateTime: 2024-03-08T14:02:00Z
+    webUrl: "https://9to5mac.com/2024/03/08/facebook-videos-feed-ai/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Facebook-videos-will-be-recommended-by-AI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "eeNvRfuggHdXN9HX7apDMy6WRsOjxSZQTJ1QaYRmJj9FUIwjMC3jxXCqTKGcgASTd/PyxrinGjz+KuibSEL/T1lID9DfqnLyuT7GhJ+aqn6d9uR0c8yhVSISxzS6Kt2YmhPmyauFTMtbI6SevoCHnLw0V9Du67XXt/70a48CWw+9VUVl1zcIqW7TkDRwb6k0olUxdJQA15WnHAM4JnNj5x+P5rh7qz9wuZrDZlD4q4+aWtkWaGWWdK0O024M44yhJHVIWuZaF76igt4ziSpblE8bxAnPgL/8mepxrWD4GVjWpYGcDKCOn53eTtGPfIiR+7XdfkGYDB3GcBLTVk3JFSeOHP2VmSZv+zGzES2zZ44kKl44axEMmwx6hRbyJ2jIBjHTU/ggIrpJ7dgHSU1Wn9KoyKzkT99bGnnZr7aSmTRaHg/4L6ZKmlRmMoyR/NeF0UP/w5ANj2+4D2BNX1BvXynXskcIXw4h9FjKPWlJi40ldIu5829P35PBRobg4AtSRUFEIx6i7M51tvcBgMxSYg==;k7Gkp4EuaebE1OEfhC1cQw=="
 ---

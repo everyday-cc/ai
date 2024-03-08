@@ -227,6 +227,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
+    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
+    publishedDateTime: 2024-03-08T15:51:00Z
+    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Anthropic unveils its most powerful AI chatbot to date"
     excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
     publishedDateTime: 2024-03-04T14:56:00Z

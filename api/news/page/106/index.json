@@ -2,6 +2,430 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-12-07-self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground.md",
+      "title": "Self-Driving Cars: A Revolution in Safety or a New Legal Battleground?",
+      "excerpt": "While technology has failed to present us with the flying cars predicted decades ago, we have advanced to the point of self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
+      "originalUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2023/12/brock-wegner-pWGUMQSWBwI-unsplash-1024x819.jpg",
+          "width": 1024,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T19:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lawyer Monthly",
+        "domain": "lawyer-monthly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-amd-is-taking-the-gloves-off-in-the-ai-arms-race.md",
+      "title": "AMD is taking the gloves off in the AI arms race",
+      "excerpt": "AMD looks ready to fight. At its Advancing AI event, the company finally launched its Instinct MI300X AI GPU, which we first heard about first a few months ago. The exciting development is the performance AMD is claiming compared to the green AI elephant in the room: Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "originalUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/amd-mi300x-platform.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
+      "publishedDateTime": "2023-12-06T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators.md",
+      "title": "AP: AI’s future could be ‘open-source’ or closed. Tech giants are divided as they lobby regulators",
+      "excerpt": "SummaryTech leaders have been vocal proponents of the need to regulate artificial intelligence, but they're also lobbying hard to make sure the new rules work in their favor. That's not to say they al",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "originalUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2047/2023/05/22095947/GETTY_52223_Meta436760.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "cdnAmpWebUrl": "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
+      "publishedDateTime": "2023-12-06T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "92.7 WMAY",
+        "domain": "wmay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-deepminds-new-gemini-model-looks-amazingbut-could-signal-peak-ai-hype.md",
+      "title": "Google DeepMind’s new Gemini model looks amazing—but could signal peak AI hype",
+      "excerpt": "Hype about Gemini, Google DeepMind’s long-rumored response to OpenAI’s GPT-4, has been building for months. Today the company finally revealed what it has been working on in s",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
+      "originalUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/gemini_mm_03.png?w=1920",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/06/1084471/google-deepminds-new-gemini-model-looks-amazing-but-could-signal-peak-ai-hype/amp?trk=public_post_comment-text",
+      "publishedDateTime": "2023-12-06T18:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-qubit-by-qubit-the-quantum-computers-of-tomorrow-are-coming-into-being.md",
+      "title": "Qubit by qubit, the quantum computers of tomorrow are coming into being",
+      "excerpt": "A couple of weeks ago, I navigated the holiday traffic from New York to the town of Yorktown Heights in suburban Westchester County, the location of IBM’s Thomas J. Watson Research Center ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "originalUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/6JbN24KRfG63q58FcwUNvn9WR9Y=/0x232:2048x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25137951/53364318126_7899724546_k.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update.md",
+      "title": "Google says Bard is now smarter than ChatGPT, thanks to Gemini update",
+      "excerpt": "Google unveiled its take on the AI chatbot -- Google Bard -- last February. Since its release, Bard has been powered by two different large language models (LLMs) with the promise of making it a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "originalUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5811d37721dd8b0e6cba911d67e1c33613ab5d07/2023/12/06/5f66f7a6-63ef-487a-9765-3856d4156497/2bardgettyimages-1676988402.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "publishedDateTime": "2023-12-06T17:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-deepmind-unveils-its-most-powerful-ai-offering-yet.md",
+      "title": "Google DeepMind Unveils Its Most Powerful AI Offering Yet",
+      "excerpt": "Google DeepMind has announced its much-anticipated family of artificial intelligence chatbots, Gemini, which will compete with OpenAI’s GPT series. According to Google, Gemini Ultra, its largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
+      "originalUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1253650284.jpg?quality=85",
+          "width": 4000,
+          "height": 2662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
+      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
+      "excerpt": "On Saturday, Hubbell led a demonstration of an AWS DeepRacer, a mini self-driving car, which he said SVVSD uses to expose students to AI. “In this district, we use it as a tool to teach kids ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "originalUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timescall.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
+      "publishedDateTime": "2023-12-06T15:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longmont Times-Call",
+        "domain": "timescall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-bofe-to-review-ai-risk-to-financial-stability.md",
+      "title": "BofE to review AI risk to financial stability",
+      "excerpt": "The Bank of England is launching a review of artificial intelligence and machine learning amid concerns that its use could pose financial stability risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/43396/bofe-to-review-ai-risk-to-financial-stability",
+      "originalUrl": "https://www.finextra.com/newsarticle/43396/bofe-to-review-ai-risk-to-financial-stability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/andrew-bailey-front.png",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T15:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-how-seeing-ai-focuses-on-large-vision-models.md",
       "title": "How ‘Seeing’ AI Focuses On Large Vision Models",
       "excerpt": "Driving AI into the image space is Landing AI, a computer vision cloud company that specializes in building what it calls domain-specific Large Vision Models (LVMs).",
@@ -742,392 +1166,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-2023-call-for-code-global-challenge-winners-tackle-agriculture-farming-and-food-waste-issues-with-ibm-technology.md",
-      "title": "2023 Call For Code Global Challenge Winners Tackle Agriculture, Farming And Food Waste Issues With IBM Technology",
-      "excerpt": "Call for Code Winning teams from Hexaware Technologies, Persistent, and The University of Sydney develop AI-powered solutions to help ove",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107546781/2023-Call-For-Code-Global-Challenge-Winners-Tackle-Agriculture-Farming-And-Food-Waste-Issues-With-IBM-Technology",
-      "originalUrl": "https://menafn.com/1107546781/2023-Call-For-Code-Global-Challenge-Winners-Tackle-Agriculture-Farming-And-Food-Waste-Issues-With-IBM-Technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?233914",
-          "width": 421,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T08:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-ai-lessons-from-financial-market-surveillance.md",
-      "title": "AI lessons from financial market surveillance",
-      "excerpt": "Innovations in financial market surveillance are an interesting story of their own. They also have some important lessons for the future of AI oversight. The recent explosion in AI has heightened concerns about how the technology might lead to new unforeseen problems.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-lessons-financial-market-surveillance",
-      "originalUrl": "https://diginomica.com/ai-lessons-financial-market-surveillance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-10/monitor-1054708_1280.jpg",
-          "width": 1280,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-lessons-financial-market-surveillance?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-lessons-financial-market-surveillance?amp",
-      "publishedDateTime": "2023-12-06T08:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-adastra-launches-ai-innovation-centre-to-accelerate-ai-solution-development-and-adoption.md",
-      "title": "Adastra Launches AI Innovation Centre to Accelerate AI Solution Development and Adoption",
-      "excerpt": "With Adastra’s AI solution expertise, combined with Azure AI, Adastra strives to help organizations innovate and re-imagine business operations. With the power of Azure OpenAI Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
-      "originalUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T07:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-half-of-university-students-are-scared-their-jobs-will-be-under-threat-from-ai.md",
-      "title": "Half of university students are scared their jobs will be under threat from AI",
-      "excerpt": "Half of current students at university think their current and future jobs could be under threat from artificial intelligence (AI). New research from Kingston University looked at whether students are equipped for their futures in a rapidly changing workplace, particularly where technology is concerned.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
-      "originalUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/?ico=mosaic_uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/12/SEI_182335945-3919.jpg?quality=90&strip=all&zoom=1&resize=600%2C399",
-          "width": 600,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/12/06/half-uni-students-scared-jobs-threat-ai-19904586/amp/",
-      "publishedDateTime": "2023-12-06T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-is-there-a-basic-problem-with-autonomous-driving.md",
-      "title": "Is There A Basic Problem With Autonomous Driving?",
-      "excerpt": "The feasibility of autonomous vehicles for general use in public traffic has long been questioned (see“Artificial intelligence faces serious roadbl",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107543870/Is-There-A-Basic-Problem-With-Autonomous-Driving",
-      "originalUrl": "https://menafn.com/1107543870/Is-There-A-Basic-Problem-With-Autonomous-Driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-12/06/AT_2565cimage_story.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T05:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-elon-musks-ai-startup-xai-files-to-raise-1-billion-in-fresh-capital.md",
-      "title": "Elon Musk's AI startup — X.AI — files to raise $1 billion in fresh capital",
-      "excerpt": "X.AI, an artificial intelligence startup founded by Elon Musk, has filed with the SEC to raise up to $1 billion in an equity offering",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
-      "originalUrl": "https://www.cnbc.com/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107341579-1701376973392-gettyimages-1821107484-dsc_5130_j4s4ocdu.jpeg?v=1701377239",
-          "width": 5164,
-          "height": 3613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/05/elon-musks-ai-startup-xai-files-to-raise-1-billion-.html",
-      "publishedDateTime": "2023-12-06T05:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-microsoft-bets-big-on-uk-ai-with-32bn-investment.md",
-      "title": "Microsoft Bets Big on UK AI with $3.2bn Investment",
-      "excerpt": "Microsoft’s biggest investment in the U.K. will see the company double its AI data centre footprint and deliver training to 1m+ people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-uk-ai-investment/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-uk-ai-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_611053470.jpeg",
-          "width": 1400,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-transforming-industries-with-generative-ai-aws-swami-sivasubramanian-on-intelligence-augmentation.md",
-      "title": "Transforming industries with generative AI: AWS’ Swami Sivasubramanian on intelligence augmentation",
-      "excerpt": "We are entrenched firmly in the generative artificial intelligence era — it is the differentiating factor for today’s enterprise and business landscapes.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
-      "originalUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/IMG_4502.jpg",
-          "width": 4898,
-          "height": 3265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T04:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-deepminds-ai-tool-unveils-2-million-crystal-structures-capable-of-powering-supercomputers-and-evs.md",
-      "title": "DeepMind's AI Tool unveils 2 million crystal structures capable of powering supercomputers and EVs",
-      "excerpt": "Google scientists, utilizing the AI tool , have revealed an astounding 2.2 million crystal structures. This discovery presents significant possibilities for progress in areas such as microchips, batteries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20231206VL201/ai-google-deepmind-supercomputers-electric-vehicle-it+ce-server-ipc-cloud-computing-iot.html",
-      "originalUrl": "https://www.digitimes.com/news/a20231206VL201/ai-google-deepmind-supercomputers-electric-vehicle-it+ce-server-ipc-cloud-computing-iot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T04:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

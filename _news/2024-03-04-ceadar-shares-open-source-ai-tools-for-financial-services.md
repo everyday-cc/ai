@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 671
         isCached: true
+  - title: "The Rise Of Open Artificial Intelligence: Open-Source Best Practices"
+    excerpt: "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem."
+    publishedDateTime: 2024-03-08T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The 10 Best AI Writers & Content Generators Compared"
     excerpt: "Following the introduction of these generative AI tools and their mainstream adoption, there have been plenty of discussions about ethics, the impact on creativity, and the impact on jobs. In a meta self-referential message, Gemini (Bard) even offers this ..."
     publishedDateTime: 2024-03-08T00:00:00Z

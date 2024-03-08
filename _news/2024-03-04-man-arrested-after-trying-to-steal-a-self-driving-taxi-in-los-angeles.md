@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
-publishedDateTime: 2024-03-03T21:38:00Z
-originalUrl: "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/"
-webUrl: "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/"
+excerpt: "There were no injuries reported by the rider or damage to our vehicle.” Self-driving taxis are an increasingly common sight in California, with state regulators on Friday authorizing Waymo to expand services of its fleet of robotaxis into the greater Los ..."
+publishedDateTime: 2024-03-04T09:01:00Z
+originalUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/"
+webUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/"
+ampWebUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
+cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: NBC Chicago
-  domain: nbcchicago.com
+  name: NBC Bay Area
+  domain: nbcbayarea.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.nbcbayarea.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Man arrested for trying to steal self-driving Waymo car: LAPD"
@@ -107,6 +115,6 @@ related:
       domain: kvue.com
     quality: 13
 
-secured: "cAB1LATwbyNHINP+qYyvLzRnW6MF42TDVLZ5NFMqORxhPIPndEqu7jb1yVfICUk7LGZK+fKpNMdydm0H0XRwjDE49Ymnos8kwLx2FK9l3mfYY9vqsOBF5AB3O6gJhwPI+1RC7AE5Lj+k8L77Kd/1NEzhWaHU+TQXpVGquwO8J/sVZdqUc9iIQhDq2CpaXNG73rBeE5RPquRtO/5yhcZEVEjd3bJj5MNEcT7bw9YjVNHUVPA02z9qzhEpalx++5moYTs7IvLW25f+O80meqADZY2IWcs3cCpLRCS4JQDS8DFvao8+DIRi+ittgEIPeLu6QODf0TycUSCpleaA7vD+Sw1tk+S92DUXQBH6CQ7clIWRloH5FtdZWZKA+zqG739YE2g8r5jWlZy9d+YRpf/Z8Hwvy49/5E8hRyApURPArugz1uoYBzOAE36lSchPECG7QNFZHL3sYmiK2Fif/IxSpsnyqlWaIveLRQEpa8GdLP28GlP4W5YGuJjnlk2ti3U5kEkx06wr8mszIbRz3PgMMw==;OrJPArO50vQXIZGAuCGNng=="
+secured: "OBY+JyQnruJ81yLRTtrl3O7sPsT2Yr1/Aa0VHalEEIpvetP9galBIon5vd0lQdfLYQhhmnMATziQlvJKIoBgz7tMwfftvj7Y9m9di1GxAcfZWWWWON30qNH6nAjbUixr8Nznsh+IPebpIXBP85oRzPLr1k2MNrupxlRU76Tx8vmUVx+XEWrs7vQxiuAVYvQLfSn43qg1hR/Agn/ILOcfirVcaQUdQt2+2nyITOBJDnZgwFK7yy2zaeXzEuJKvSRIzyjAfwQFKsm86FN9wrgvcHftsWNMyxlUVrY6mSstyrAFKMnGyVoLLajW+GuNSxFwKu+MxtSU0suFIamBV47+rDDnSpdkPs0B3jUcy/kdgl8=;Q//sS8tZ+jxvT/JgZjLcxg=="
 ---
 

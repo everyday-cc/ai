@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-
 webUrl: "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
 
 secured: "T/9qEBgZE7SEbd9PUT6tgc3iLIbYg3APvvIAs9douirrTrBkYF3sB65sfaTF7e6+hdMyVucqmtRprl/EZ1SlD2Fma/w+Q6JvIbwPsOYXMwk3PyRhKyrZzloo7FqQZOnDF6tESraN/irr0K8Zn7TzzRxP3y5f3O2KUzk/mB46wL5UFlAgVkzTARYLG3fexLIktfF8IHoKzuCOko+JCw0BahDQ+4v97jHqSZErn6VkWIa8l0Unm/YVvdXwrI7jIAtYMqeMiWpM+aXmRBp63ZbtDNoSrJ3i+Pz8sVOM/BSSoFDP63r9R8RcntEHxMKIhUUVGEe5rEpSDl6dFUiwNmdRRq4BsrLs90u/GGHRqnCRfW0VicRjnuTee6ThAQNL8YpIMWMXD8Gih/vwSOO3gi84wvn3dBpaHk0hoMtjr4adBsix/WSeQNxiMldI4Q5aehkvPfDXIK24pixRv6VV+Wv+06AN9sT2QyB7Ld3wETc6zJsgxBXsjsG26BxGc7CR1y7FZA3zBN//QdiscN1SNGpnmw==;yu4ciQO7fytjHjM3ws9ljw=="
 ---

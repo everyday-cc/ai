@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Expanding The Limits Of AI With Identity"
+    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
+    publishedDateTime: 2024-03-08T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
     excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
     publishedDateTime: 2024-03-05T19:08:00Z
@@ -94,6 +103,6 @@ related:
       domain: geelongadvertiser.com.au
     quality: 10
 
-secured: "D5sshzOQ9yMoDfLtXiiqenZ8s9mJa0bq97CJZEvQ0qj0zJPnLcWXEKuFD0i2kQL0/2zT+c6ppSlFLHg1zDEi85XyxAO2uAgoWEJrsuO+G4NfNpgpcTSJY2cKc/zuGukgBW60WVfUXTE2VDDyiXBPt0KxaWdlXUvRIHQtYdBjgLk3LM+HgiANGigEoCYQrnGXna5zvXKkPTmyJkI7PE19I9iYSvr+mP90ZUrXPeSnIPnxDVxXiYervKzBx5r1lTafkJFb7wfh+DZ26/2YG9zFdG/hOPu1s43sgbEkkZS/11DfDkpGZ+81MhdzUwJX7y2EQAM0nswiYL2Ud8czcP82I1Be0gOjrYwgekGnlqSjN2c=;EkTJJArAOgW+8CTuVd+ugg=="
+secured: "gdPIitLMOV6WByyeqAgSGa5Jb1jcaq5R3PzZOmKHuZCxctg0XeG9qRANpuCQeXnY0t/pvE3N1bcEX/P62L9tj2QmFqPBXKdJG3SyzQQxlJL4E9lc/GjXNWLPBzUYXKX+EImG4MJpCHklMkJTwbKQbW/HiS7+ye1egsOa2RMi3hTIrhhf5GWS+m9jRgsinpN+niAfTWo93kp0gQfgMvqFMA91gE9s4r32aQwVb/bmVd81fciMnCJ1HMHwyO8ktDAWX5VFF0Sfuoph6C0Aoux4xlhKOJAoFSezvwU0LADIuuWQ06pyr1xMEG7JCC0A3F4D0TujhXEeNhix7ER0QnamvoOgRCxTXp5Pt0Op4Xi8+iV1YZ+fw9iOLEsaeMHYYhZnUFM7sWOOwkTx5NVJwUSJ1Uq13Wnx7DmRWQYIwK5rr/abovMBW56dewRWEWivJvZRQaWlj2idTfmdBqRR0QrmglUZjVZ1ObEdJdsl2RKt6PN/IiBqAwvZFhl8Tr9wbzO6j/3iGBwvBtY7MpRFLDo5Nw==;Wlto04eJCWJyy8XeWE10vQ=="
 ---
 

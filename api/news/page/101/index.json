@@ -2,6 +2,395 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-12-12-nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip.md",
+      "title": "Nvidia Recovers From 10% Drop Amidst Intense Rivalry With AMD's Groundbreaking AI Chip",
+      "excerpt": "AMD has launched the Instinct MI300X, a groundbreaking AI chip supported by Microsoft and Meta. Analysts estimate that AMD could capture about 10% of the AI chip market. Following the announcement of the Instinct MI300X,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip",
+      "originalUrl": "https://www.benzinga.com/trading-ideas/23/12/36181312/nvidia-recovers-from-10-drop-amidst-intense-rivalry-with-amds-groundbreaking-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/boliviainteligente-1goydlm_jcg-unsplash_4.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36181312",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36181312",
+      "publishedDateTime": "2023-12-11T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-fortinet-brings-ai-help-to-enterprise-security-teams-manage-threats.md",
+      "title": "Fortinet brings AI help to enterprise security teams manage threats",
+      "excerpt": "Most recently Fortinet added two high-speed, next generation firewalls designed to protect data center assets that feature support for the vendor's AI-Powered Security Services, which blend AI and machine-learning technologies to make customers aware of cyber threats and act on protecting resources much more quickly, Fortinet stated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html",
+      "originalUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2023/12/iStock-1415511562-1.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1255899/fortinet-brings-ai-help-to-enterprise-security-teams.html/amp/",
+      "publishedDateTime": "2023-12-11T16:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-human-brain-cells-hooked-up-to-a-chip-can-do-speech-recognition.md",
+      "title": "Human brain cells hooked up to a chip can do speech recognition",
+      "excerpt": "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
+      "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/organoid-compute2.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
+      "publishedDateTime": "2023-12-11T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-nokia-and-celesta-capital-announce-major-strategic-partnership-for-acceleration-of-deep-technologies.md",
+      "title": "Nokia and Celesta Capital Announce Major Strategic Partnership for Acceleration of Deep Technologies",
+      "excerpt": "Nokia Bell Labs and Celesta to collaborate in commercializing emerging technologies, including AI, advanced communications, semiconductors, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931563.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T15:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-a-venture-capitalists-perspective-on-robotics.md",
+      "title": "A venture capitalist’s perspective on robotics",
+      "excerpt": "Founders should be aware the era of exiting a business based on little more than “promising technology” is over — you must eventually build a real business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
+      "originalUrl": "https://www.therobotreport.com/venture-capitalist-perspective-on-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/robot-trends-AdobeStock.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-5-ways-companies-can-promote-more-sustainable-ai.md",
+      "title": "5 Ways Companies Can Promote More Sustainable AI",
+      "excerpt": "Artificial intelligence (AI) is powering one of the biggest transformations in history, but powering AI is vast amounts of energy— an estimated 85.4 terawatt-hours of electricity annually by 2027, or more than most small countries use in a single year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
+      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65736bb1f35531799fbd70ae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/12/11/5-ways-companies-can-promote-more-sustainable-ai/amp/",
+      "publishedDateTime": "2023-12-11T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-us-in-talks-with-nvidia-about-ai-chip-sales-to-china-raimondo.md",
+      "title": "US in talks with Nvidia about AI chip sales to China - Raimondo",
+      "excerpt": "U.S. Commerce Secretary Gina Raimondo, speaking in an interview with Reuters on Monday, said Nvidia \"can, will and should sell AI chips to China because most AI chips will be for commercial applications.\" She added: \"What we cannot allow them to ship is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
+      "originalUrl": "https://www.aol.com/us-talks-nvidia-ai-chip-194051279.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/dc475dc621777cd3ecb3464d53261b9e",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-talks-nvidia-ai-chip-194051279.html",
+      "publishedDateTime": "2023-12-11T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts.md",
+      "title": "2024 Fintech Highlights Include AI, Personalization, Embedded Finance : Marqeta Experts",
+      "excerpt": "Marqeta executives predict that artificial intelligence (AI), the evolution of credit cards, and the increasing demand for customer choice will be important",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2023/12/Spotlight-Highlight-Perform-Skate-1024x768.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/217808-2024-fintech-highlights-include-ai-personalization-embedded-finance-marqeta-experts/amp/",
+      "publishedDateTime": "2023-12-11T14:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-coforge-launches-quasar-responsible-ai-solution.md",
+      "title": "Coforge launches Quasar responsible AI solution",
+      "excerpt": "Coforge introduces Quasar Responsible AI, a comprehensive solution that ensures ethical AI utilization, fairness, transparency, and regulatory compliance. It tackles biases, identifies risks, and provides tools for governance and mitigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/articleshow/105909513.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/articleshow/105909513.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-105909513,imgsize-2962,width-800/105909513.jpg",
+          "width": 800,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/amp_articleshow/105909513.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/coforge-launches-quasar-responsible-ai-solution/amp_articleshow/105909513.cms",
+      "publishedDateTime": "2023-12-11T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-microsoft-afl-cio-reach-deal-on-ai-labor-neutrality.md",
       "title": "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality",
       "excerpt": "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs.",
@@ -739,361 +1128,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-aws-indias-interim-country-head-vaishali-kasture-quits.md",
-      "title": "AWS India’s interim country head Vaishali Kasture quits",
-      "excerpt": "Amazon Web Services (AWS) India and South Asia’s interim country head for commercial business Vaishali Kasture has resigned from her role, seven months after taking over from former president of commercial business Puneet Chandok, sources in the know told Moneycontrol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/Vaishali-Kasture-AWS.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/aws-indias-interim-country-head-vaishali-kasture-quits-11885851.html/amp",
-      "publishedDateTime": "2023-12-11T06:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-how-ai-therapy-is-filling-gaps-in-mental-health-care.md",
-      "title": "How AI therapy is filling gaps in mental health care",
-      "excerpt": "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care",
-      "originalUrl": "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T03:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boise State Public Radio",
-        "domain": "boisestatepublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning.md",
-      "title": "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning",
-      "excerpt": "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
-      "originalUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T03:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-amd-disrupts-ai-accelerator-market-with-new-mi300-offerings.md",
-      "title": "AMD Disrupts AI Accelerator Market with New MI300 Offerings",
-      "excerpt": "AMD made a substantial leap forward with the release of its new MI300A & MI300A accelerators. The accelerators are the first significant threat to NVIDIA’s dominance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/amp/",
-      "publishedDateTime": "2023-12-11T02:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
-      "title": "How Accurate Were Our 2023 AI Predictions?",
-      "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65651b815b8054baa375034b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1374,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
-      "publishedDateTime": "2023-12-11T01:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-local-llama-rancher-overcomes-obstacles-skin-cancer.md",
-      "title": "Local llama rancher overcomes obstacles, skin cancer",
-      "excerpt": "As far as transitions go, Sally Rucker traded the upscale lifestyle in Texas to toiling in the dirt to become a nationally recognized llama rancher. Rucker opened the 76-acre Stage Stop Llamas in ...",
-      "sourceUrl": null,
-      "webUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
-      "originalUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-technologies-like-artificial-intelligence-are-changing-our-understanding-of-war.md",
-      "title": "Technologies like artificial intelligence are changing our understanding of war",
-      "excerpt": "Artificial intelligence (AI) is widely regarded as ... Technologies such as autonomous weapon systems (AWS) and cyberweapons have the potential to change conflicts and combat forever.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
-      "originalUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/war.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
-      "publishedDateTime": "2023-12-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-use-of-ai-could-be-a-game-changer-in-tourism-industry.md",
-      "title": "Use of AI could be a game changer in tourism industry",
-      "excerpt": "December is well underway, and soon we’ll enter a new year. Looking back, how will 2023 be remembered in travel and tourism?",
-      "sourceUrl": null,
-      "webUrl": "https://www.yakimaherald.com/news/local/business/use-of-ai-could-be-a-game-changer-in-tourism-industry/article_15ec19c2-952e-11ee-a18b-e7c5f4342cee.html",
-      "originalUrl": "https://www.yakimaherald.com/news/local/business/use-of-ai-could-be-a-game-changer-in-tourism-industry/article_15ec19c2-952e-11ee-a18b-e7c5f4342cee.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-10T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yakima Herald-Republic",
-        "domain": "yakimaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-ai-and-robotics-the-future-that-awaits-us.md",
-      "title": "AI and Robotics: The future that awaits us",
-      "excerpt": "Stephen Hawking, a prominent figure in the discussion of artificial intelligence's potential benefits, expressed concerns about future thinking robots and even suggested that AI advancements could potentially end the human race.",
-      "sourceUrl": null,
-      "webUrl": "https://thehimalayantimes.com/opinion/ai-and-robotics-the-future-that-awaits-us",
-      "originalUrl": "https://thehimalayantimes.com/opinion/ai-and-robotics-the-future-that-awaits-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehimalayantimes.com/ampArticle/1024410",
-      "cdnAmpWebUrl": "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1024410",
-      "publishedDateTime": "2023-12-10T11:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Himalayan Times",
-        "domain": "thehimalayantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

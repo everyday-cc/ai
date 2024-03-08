@@ -102,6 +102,15 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
 
 secured: "h/o/B56I1x6BJDpXAgr2UeTcX6+ykXLUHaOvXNKzL02WBKb8nVxuoATbGLgr84/9WfWuNpK9q7u9Qb2EhyJNCbioHJFGGED/eAVNLKLb6s01qzt+BAyENv61Ei/Zjm46JyGvLjP2itDkgTpMlfmzNaOJBoTCfTkIRIwb8uwqARlwTr0BEwuHigECMbtkVrqWaGzEmnVGHw/CUcZ5E2Rcmr6maoSGNT/wL/vk/OE+L+qHr9SIXNvaw4QDd5J24Wz6L5+rQ/BwC7o9B/zNDvhIZiXUg+k8vO6saPMXeCkhi+b7y2OIH/mfTedTTWr9BWEHzA6v1pHSt466qL6GtdH4ULXHnsfDx99i1kDH6UhHv+M=;sS8Y3UNFl8tjDkbV9tKk0Q=="
 ---

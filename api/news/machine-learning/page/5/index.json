@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
+      "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T03:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
       "title": "Machine Learning Approaches for Accelerated Materials Discovery",
       "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
@@ -1236,50 +1280,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-decade-of-disruption-the-unprecedented-evolution-of-artificial-intelligence-over-the-last-10-years.md",
-      "title": "Decade of Disruption: The Unprecedented Evolution of Artificial Intelligence Over the Last 10 Years",
-      "excerpt": "AI has made significant advancements over the past decade. Here are some key areas where AI has evolved in the last 10 years:",
-      "sourceUrl": null,
-      "webUrl": "https://financialbuzz.com/decade-of-disruption-the-unprecedented-evolution-of-artificial-intelligence-over-the-last-10-years/",
-      "originalUrl": "https://financialbuzz.com/decade-of-disruption-the-unprecedented-evolution-of-artificial-intelligence-over-the-last-10-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialbuzz.com/wp-content/uploads/2023/12/VCI-logo-400x250.png",
-          "width": 400,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

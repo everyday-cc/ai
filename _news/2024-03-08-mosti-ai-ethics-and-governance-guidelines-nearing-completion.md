@@ -9,7 +9,7 @@ ampWebUrl: "https://www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethi
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1110
         height: 694
         isCached: true
+  - title: "AWANI Tonight: ai ethics, governance guidelines almost complete - MOSTI"
+    excerpt: "According to MOSTI, the code of ethics and governance guidelines for artificial intelligence is 90% complete and will be presented the cabinet this month before its official launch in April."
+    publishedDateTime: 2024-03-08T15:55:00Z
+    webUrl: "https://www.astroawani.com/videos/awani-tonight-x7ko7j/awani-tonight-ai-ethics-governance-guidelines-almost-complete-mosti-x8u2nha"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 34
 
 secured: "SDjEF26MdTiaZK1te2XnGNy4UWTYwI/+40I12HQTN0sGC0BhrIHjWiJL+/3lNxFHBHh2r/8Sbk8CJ/acTtRf0vo0/zVrM17iYidQpF/D2SUM5sLVQXd0vCnlNy9RC+qQTbF9PYTtmuYn/V+rig270T8w1bri7PHhZ7U2NA22bbBq7pDKVPYAJwUCe6ok+QlEd+yiFiWE/ZbFLFUDbqSZXGvX9jri2nKcYqIB1WbSDo5wGxV68IjVOQS1ZDqu5Lq3qHVNtM6sxAIC8pLEeaunq0kyuUdoZgphRpUoIHJF3CesPLg03nk7A0JrFLccuOW6BQddjVpFeDsm2tvCLvH0X1CWkIqDOxf9D0MYs6VNis0=;fuXSbFd45phx//oz6yKdBg=="
 ---
