@@ -6,6 +6,9 @@ publishedDateTime: 2024-03-08T18:37:00Z
 originalUrl: "https://www.utoronto.ca/news/u-t-startup-weaves-ai-help-second-hand-clothing-stores-grow-online"
 webUrl: "https://www.utoronto.ca/news/u-t-startup-weaves-ai-help-second-hand-clothing-stores-grow-online"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: University of Toronto

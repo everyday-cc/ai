@@ -36,6 +36,20 @@ related:
         width: 2000
         height: 1200
         isCached: true
+  - title: "What you need to know about Nvidia and the AI chip arms race"
+    excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
+    publishedDateTime: 2024-03-08T22:18:00Z
+    webUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 54
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up"
     excerpt: "In today's video, I discuss updates impacting a recent investment made by Nvidia (NASDAQ: NVDA) and other tech giants. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the pre ..."
     publishedDateTime: 2024-03-04T08:09:00Z
@@ -54,6 +68,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "3 AI Stocks That Nvidia Should Buy Next"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
+    publishedDateTime: 2024-03-08T20:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-nvidia-should-buy-next-1033147633"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "This AI token is being called the Nvidia of crypto"
     excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
     publishedDateTime: 2024-03-08T12:23:00Z

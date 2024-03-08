@@ -33,6 +33,15 @@ related:
         width: 616
         height: 308
         isCached: true
+  - title: "Revolutionizing Computing: Inside Princeton’s Trailblazing AI Chip Technology"
+    excerpt: "Princeton's advanced AI chip project, backed by DARPA and EnCharge AI, promises significant improvements in energy efficiency and computing power, aiming to revolutionize AI's accessibility and application."
+    publishedDateTime: 2024-03-08T18:37:00Z
+    webUrl: "https://scitechdaily.com/revolutionizing-computing-inside-princetons-trailblazing-ai-chip-technology/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 31
 
 secured: "yL/rxElG8TPAQSLMV6Yo5bo6s67OoUlfFP1tpzvjyUlvi4P9oP/Gxve/pgYyhwQ8Wu74vEAbeT6IIrtxV6Lbi5rsFzLjnYZbKSIPdrR0+dT3TQU9Ttf0x4prCyOXtnTdusT85fURUEx6Mdh4mtCCMslOw26Wdx+nVJdh5yM70J3sZx9nQKCzz0/AuNtO2DS3TtypfdeQl6JhHDg6B630BP3VUyDiMa6WER4I6yzcvMG1r0aKlN94Xc0qdVNaRmtbH9ldrKYM1sgZcnkOhGm5K/xUAku6L1wO9fjqgBO7PD4ERegIyQTk4Vv28NLui9gHlMUPE/9v1Us4gk3eIgBy9E81D8caVJthQ9ttn4eGGSo=;AQrQdw4ixwxULgtKGGeWEQ=="
 ---

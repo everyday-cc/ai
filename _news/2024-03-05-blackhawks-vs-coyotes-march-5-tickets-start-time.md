@@ -7,7 +7,7 @@ originalUrl: "https://www.kwqc.com/sports/betting/2024/03/05/blackhawks-vs-coyot
 webUrl: "https://www.kwqc.com/sports/betting/2024/03/05/blackhawks-vs-coyotes-buy-nhl-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blackhawks vs. Avalanche March 4 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Colorado Avalanche's Cale Makar and the Chicago Blackhawks' Jason Dickinson will be two of the best players to keep an eye on when these teams meet on Monday at 9:00 PM ET, at Ball Arena. Connor Bedard's 17 goals and ..."
-    publishedDateTime: 2024-03-03T22:00:00Z
-    webUrl: "https://www.wbay.com/sports/betting/2024/03/04/blackhawks-vs-avalanche-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WBAY
-      domain: wbay.com
-    quality: 22
-    images:
-      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/AVQVAHUD2ZIE3KK53EPFC2PNYA.jpg?auth=9639be19ed518e6117659fde6c8cd0101fae7e4c82d03608fceda8e0edd4c75a&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Blue Jackets vs. Penguins March 5 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Two of the best players to keep an eye on when the Pittsburgh Penguins play the Columbus Blue Jackets on Tuesday at PPG Paints Arena -- the puck drops at 7:00 PM ET -- are the Penguins' Sidney Crosby and the Blue Jackets ..."
     publishedDateTime: 2024-03-05T06:22:00Z

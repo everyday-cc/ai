@@ -111,6 +111,15 @@ related:
       name: LGBTQ Nation
       domain: lgbtqnation.com
     quality: 9
+  - title: "Fake images made to show Trump with Black supporters highlight concerns around AI and elections"
+    excerpt: "Fake images of Donald Trump surrounded by smiling Black voters are circulating online, highlighting the potential dangers posed by artificial intelligence ahead of the 2024 election."
+    publishedDateTime: 2024-03-08T18:33:00Z
+    webUrl: "https://www.baltimoresun.com/2024/03/08/fake-images-made-to-show-trump-with-black-supporters-highlight-concerns-around-ai-and-elections/"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 5
 
 secured: "S0MgxVuzRJsVa8F/CVmIXvu2pVIvVqeRzmHY5TLmlp0CMU9vcWs+w2EXfCmjBa0yX3C0KSoOvt6giMOCOAIc8kNxovHdtVem1sp8eVRF+V4GBM6jjASd9tudsDbnS/riYa/kmq3vz2QNi6sy6A0KUBDU5RDkcuWECvTTUAR1Z5JBHHYCDuXz3YQYR3lptZ2GOPic8o9yjJvBQjViTz0+thYvNcHZfgF0h6hORmESyeUE0P9i/u+E/SGpK4hCwb5vcvx0wUOGNbMgCf5LT/a1XjaZYF1waufoTkVNRq34D7JctPQdEZek9Uh3t9bjLRb94LRgA9oWsnjyNxe8kaGe5gojRrwZpvpcobDHUXT2huyDSgNb1MKx9QYoAoj0xeSZ9Ad9YGFC+HYvBucREEApB21hpiULiM6pd8I9yax301vNYKByN8wzEkz9nciYS9gCKwa+/jeKmUKFJjQANok4rmvzV8RhoUYfgzmQ3SQdtDI5+HgFSffxwqa+jw82auxXwT1hHNWGI97oj1NFnXKB8Q==;GGwEL0Ta6t9zFYVcxZLO/A=="
 ---

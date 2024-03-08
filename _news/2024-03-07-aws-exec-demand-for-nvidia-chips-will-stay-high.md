@@ -34,15 +34,20 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA CUDA-X Speeds Data Science on HP Workstation Solutions Pandas provides a powerful data structure, called DataFrames, which lets developers easily manipulate, clean and analyze tabular data."
-    publishedDateTime: 2024-03-07T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
+  - title: "Nvidia, HP give data science a GPU boost"
+    excerpt: "The two tech companies will infuse enterprise AI workstations with GPU-powered data processing and model building software."
+    publishedDateTime: 2024-03-08T21:08:00Z
+    webUrl: "https://www.ciodive.com/news/nvidia-hp-ai-pc-workstations-data-science-gpu/709798/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
     excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."
     publishedDateTime: 2024-03-05T14:34:00Z
@@ -52,6 +57,15 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 19
+  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
+    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
+    publishedDateTime: 2024-03-08T00:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
 
 secured: "4Drf0HS7MQ3noH3MXDAcw/OJPNkJ58LldRfQ5wVsRubmoacA2bYleIFuk86m76vXxQjrOsOtMzLV4NYyldoiIfqvaUS6fQJEPyvnhQYcxU46HZbRZcC0TAiEoeI9YqrJZVjwx0YOkGusBwBotLM6HUfyIbugfrh7SOMxCw8QpYbCFZuTr2NKZzgIWW5JF7tqJNzLkd08ht6a3wux7e7rYDatveTqbl6wRjxEcu+Cb9YCwxDgnEj8jn4pYjsybe4ac0jc9NlRBFKjCRSixnze1jSyjV3lflniJwquRAU45DAt9LfKwAtbwuV0KLh9/R7xWLmfy42lVhik0Se4qi2ZSzrO1yQJpnfx1T3MfkXBqezUTUmShQYlakFgMwRaTcwUJaMDeILrTdIFHaZwoTqTGAgrKc8hrSNkWhe2C+KlVGXmExajdPVeKd/BVFImWoMvqmAZUvC8MCj5unaZZafqslf8EZnjVTKHi/5N0ft8ImFNn4BxOgk0OjJS4xHxPAuUHG4BLVBhBTneDErXTikDQg==;K9A637A75Om0MoNlx1ezJw=="
 ---

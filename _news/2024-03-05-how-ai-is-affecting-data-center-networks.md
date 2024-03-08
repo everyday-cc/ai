@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterfrontier.com/network/article/33038205/how-ai
 webUrl: "https://www.datacenterfrontier.com/network/article/33038205/how-ai-is-affecting-data-center-networks"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Nobody knows how AI works"
-    excerpt: "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products."
-    publishedDateTime: 2024-03-05T10:32:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/"
-    ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Roundtables: How does AI work?"
-    excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/04/1088977/roundtables-how-does-ai-work/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Roundtables-Ondemand_1200x628-Register1.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ygpL5ksQek5GzSLzVDh0qHGXSSxQswKpFxWPqB0MB8TyDlctgDNxH1T9gp2u8u7GlwDytyc318ptgd6r6NTC1iQQnaUxAlXZUP/T5roWrXysOnlI1bjmc6tmqf7zF4DtUGUz95t6ervaaz3IOMy7MT5hvmPdywkfmSDPWiZ0BA7+ZYkCYExXId4rxkQTdklmjNrGafZ6allV3gDxPpJZs55UK+3UKon67AnNaHBVxhEmugTRwURmNNXHHC/0+8Ch2894Cupi4xt9vNblCfD7CXEJAuyxconGPbKsPByFLzw9ZwDJTGzROYbFGAUQPJ35eYY+rofu2Ap9qiClD2P3e7u2iuOoEiDWpGvt/13wp5g=;y0tU7nImSjxqJq2zcOGSMQ=="
 ---

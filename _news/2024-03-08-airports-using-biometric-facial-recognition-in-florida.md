@@ -7,7 +7,7 @@ originalUrl: "https://www.clickorlando.com/insider/2024/03/08/airports-using-bio
 webUrl: "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     provider:
       name: The Bellingham Herald
       domain: bellinghamherald.com
+    quality: 34
+  - title: "Airports using biometric facial recognition in Texas"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-08T05:58:00Z
+    webUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
     quality: 34
 
 secured: "BnEQVcvhXNno1mGywcIFAxkz7dvd1KskxdMMwkJtZysV2l0GTS8KvA6BOTTGK6Pu9i0b5ofwkNLjxqtm2q38DCsb3giX63Ia09pURcor3xwsMX41VAKnJ5H6OZRD5Lktr2TIC7sQOVg/qWrBfvHjBsBqbAyBQTUjKXzD/bnYKBky2/yqizF6CVX5w0UO/h17nTd6lhQtrXdXaCc2EQdBtsxvIVz5w3Yepez8UzLYGhrExXXPZo1fILkASCAypINCdulSWvurKlSLJRC1bbZQFz9+oTqUMMqQjQxtVX3NAiQjNlQ0uz7Cg8nYZhztpHV77pTG1WAlfSboQANB3PzkvjN+lGSOLKAF8TFFBzP9eo4xXL2IY6f6KBppsDce+EvJ9qm5OHrQYgxkHuehmDvwGNql3DRjAfUeyCJ9lhoRhZkug4a3D4vKCO15J5qrbapOzwrJjcVciLF1mhF8dIcbVu6N15oo6Ya+CqRuL3jk1ydmJ/JAEkqzKdejHLgCBYjbt9PPSIWkLFh7Wr5DxnO/6A==;VQPZpAKkePkkugrWtas+zA=="

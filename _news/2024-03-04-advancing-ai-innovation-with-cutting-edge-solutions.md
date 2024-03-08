@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating The Risks Of AI Weaponization"
+    excerpt: "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention."
+    publishedDateTime: 2024-03-08T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1456
+        height: 864
+        isCached: true
   - title: "The AI Homogenization Is Shaping The World."
     excerpt: "A phenomenon of AI homogenization is emerging — this impact that Artificial Intelligence is having on the world makes us realize the importance of our own."
     publishedDateTime: 2024-03-05T06:40:00Z
@@ -43,54 +59,6 @@ related:
         width: 1223
         height: 900
         isCached: true
-  - title: "Navigating The Risks Of AI Weaponization"
-    excerpt: "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention."
-    publishedDateTime: 2024-03-08T16:08:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1456
-        height: 864
-        isCached: true
-  - title: "How AI is helping advance women’s health around the world"
-    excerpt: "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide."
-    publishedDateTime: 2024-03-08T14:00:00Z
-    webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "The Future of Work: How Artificial Intelligence Training is Shaping Job Markets"
-    excerpt: "Introduction: The advent of Artificial Intelligence (AI) has ushered in a new era in the job market, transforming the way we work and reshaping traditional employment landscapes. As AI technology continues to advance,"
-    publishedDateTime: 2024-03-05T08:18:00Z
-    webUrl: "https://techbullion.com/the-future-of-work-how-artificial-intelligence-training-is-shaping-job-markets/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/03/The-Future-of-Work-How-Artificial-Intelligence-Training-is-Shaping-Job-Markets.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
-    excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
-    publishedDateTime: 2024-03-04T08:41:00Z
-    webUrl: "https://www.techspot.com/news/102118-dell-capitalization-growing-amid-wall-street-love-affair.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
   - title: "New type of voice assistant for production works according to the rules of AI ethics"
     excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
     publishedDateTime: 2024-03-05T04:16:00Z
@@ -105,6 +73,24 @@ related:
         width: 498
         height: 259
         isCached: true
+  - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
+    excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
+    publishedDateTime: 2024-03-08T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/renewing-corporate-gifting-the-impact-of-ai-on-personalization/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines"
+    excerpt: "AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00699-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
 
 secured: "5N30suPVrmtjwVI1a0Tc6YC9FdXBZ7MMbsRN5Qp0BMswsBdp0ETc8djuEyfo0nqU8zLaUWtAGSKF6BhN5IFMU30dAAr7vhVcXzkVoYAuufB2Hv+WOunrziY9x6EwaTDlJ1jg62xggzRbUT4HKxnqHPiQ1aCuMOopnbAv1Wi8zYJ5KRfkL6Rk9DxHeIDYhonbttIveu9f1G9XgAKtYwHqBPtunxO+tFPMmJkpijV4RxGHX9cF7lkrx63Ap6HlpDlswY660s+aB5vodcKUFUP5QuptOIKbgI01A/h+OTIqiQx+nQKdd/2iFuGDe8HMzHsirZEJVrJhNWCEQQjns+Ux3p3M7jhc69W8p0MUuo4inkU=;05LKfjonCvnUMbMt12TuKw=="
 ---

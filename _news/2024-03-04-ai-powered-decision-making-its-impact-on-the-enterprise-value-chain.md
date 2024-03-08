@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
-    excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
-    publishedDateTime: 2024-03-08T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/renewing-corporate-gifting-the-impact-of-ai-on-personalization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How women are navigating challenges and taking centre stage in the AI-powered technology landscape"
     excerpt: "By working together, we can move towards the common goal of shaping a progressive future of AI that has diverse perspectives, equal representation and an inclusive landscape"
     publishedDateTime: 2024-03-08T10:43:00Z

@@ -145,6 +145,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 59
+  - title: "Microsoft is making lots of money from LinkedIn Premium — and users like its AI tools"
+    excerpt: "LinkedIn generated $1.7 billion in revenue from premium subscriptions last year and says many users are taking advantage of its AI features."
+    publishedDateTime: 2024-03-08T13:03:00Z
+    webUrl: "https://www.businessinsider.com/linkedin-microsoft-premium-subscriptions-revenue-rising-ai-tools-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
     excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
     publishedDateTime: 2024-03-06T20:58:00Z

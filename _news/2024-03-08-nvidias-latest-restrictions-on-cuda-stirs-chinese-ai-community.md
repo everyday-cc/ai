@@ -142,6 +142,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
+    excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.darkreading.com/insider-threats/google-engineer-steals-ai-trade-secrets-chinese-companies"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt896917cb42a083dc/65eb7998e12481040a898328/tradesecret_kenary820_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        width: 1000
+        height: 525
+        isCached: true
   - title: "Ex-Googler Stole AI Secrets for Chinese Companies: Feds"
     excerpt: "An indictment alleges that Linwei Ding quietly began stealing confidential information about the company’s machine learning processes two years ago."
     publishedDateTime: 2024-03-07T00:17:00Z

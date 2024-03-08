@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fa
 webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
 type: article
 quality: 86
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -44,6 +44,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This AI malware worm is capable of turning ChatGPT against you"
+    excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
+    publishedDateTime: 2024-03-08T22:34:00Z
+    webUrl: "https://bgr.com/tech/this-ai-malware-worm-is-capable-of-turning-chatgpt-against-you/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1119
+        isCached: true
+  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
+    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
+    publishedDateTime: 2024-03-08T17:10:00Z
+    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 48
 
 secured: "KezjczYnG12Cb3Gd0bpe1RRVUa4QrD2vQK8hdMnNpNy5QqDwfjnDUPiuvG3uwifXGT3KPEhxULfiGWkCukOQEIf5eOqCZWOWQXka4nUEs09R1VMJwhEwx0eiaH/l+sWZBlUt8zH+1F8qYVU2GzCi0YG4wDcXnc5Ln7eh0GCy4vNbbrmqcVTZ3iY+7+xXG7wtNxwHreXli8rdqs3RWpqvxFskpKwhKjZ7Yxvvi2zzc0EJewL+BGawxQhy5roA/eB9wS07P1CADqLamzM3rsEnqcpP/nvaY/7aRwvtxudyVznoUnChgaGkSyHk0JpZTdn/zUbe2TcgyFz6MrFxFW+H2mCenIPL/OLj2Wsbk5Grv91PZ3kRnXPG7rl9JtqSY5rkimRGtCc7eDX0u2KmFoTZcHl8P5sfAqtGm6rSRCTcv9hvE+F3T96xu5dMalA7o/Xb37iC7/X+6G4BjdZGQaOQd0YFIqbu80UcCPhANJTVbl3Ve690aCY+dqMbRkDEJXbhts+KCBB4v/8/WjmBIQQoEA==;d7e16Zbqh8dk/oIGCjA+3Q=="
 ---

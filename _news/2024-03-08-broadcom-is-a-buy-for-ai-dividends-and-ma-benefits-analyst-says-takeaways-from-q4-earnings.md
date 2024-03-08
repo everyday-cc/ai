@@ -6,6 +6,9 @@ publishedDateTime: 2024-03-08T13:40:00Z
 originalUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/24/03/37565164/broadcom-is-a-buy-for-ai-dividends-and-m-a-benefits-analyst-says-takeaways-from-q4-"
 webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/24/03/37565164/broadcom-is-a-buy-for-ai-dividends-and-m-a-benefits-analyst-says-takeaways-from-q4-"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

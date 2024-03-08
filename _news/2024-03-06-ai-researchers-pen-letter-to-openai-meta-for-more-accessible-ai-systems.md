@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
+    excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
+    publishedDateTime: 2024-03-08T19:56:00Z
+    webUrl: "https://siliconangle.com/2024/03/08/openai-elon-musk-battle-intensifies-ai-trust-sinks-investors-arent-slowing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
 
 secured: "UsmzQ8475y0DfNhFcTkExORxA5NFrgTEAdzxjiqx7Nqz27Nhrkv0iEdZ4wmYmQoLav5NG0DSdg7P8DhGA9ovLvDdd1ZoBiLPvK6K/IMnUGf1SfILnt3ISjJIJLA3ieUKhorWTyWtZgtLpl04JUYvifOgKMRtTk9W1yq4GOd8wjsWV9J6Dtm5RjRsL3OCaIWzOZbaheQQk8iWlnlr+cjrOkOcP+vMjsYKI+cuiiS/0p1MUz6KQmqojnhAwPRBxGQr9sKi410we0acwu9itgEqj00nQAOHUEh5/PuGMwkYvVsMQHynpDgltmsDb1nLSbjexLyvGF30gmuqUHg2+SVqe+z6ld5Vzq9HeH9nWfxPtBk=;8gRO033tB9O7o4/dsyDT0Q=="
 ---

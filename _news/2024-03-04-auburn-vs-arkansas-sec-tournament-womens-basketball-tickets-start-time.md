@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blackhawks vs. Avalanche March 4 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Colorado Avalanche's Cale Makar and the Chicago Blackhawks' Jason Dickinson will be two of the best players to keep an eye on when these teams meet on Monday at 9:00 PM ET, at Ball Arena. Connor Bedard's 17 goals and ..."
-    publishedDateTime: 2024-03-03T22:00:00Z
-    webUrl: "https://www.wbay.com/sports/betting/2024/03/04/blackhawks-vs-avalanche-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WBAY
-      domain: wbay.com
-    quality: 22
-    images:
-      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/AVQVAHUD2ZIE3KK53EPFC2PNYA.jpg?auth=9639be19ed518e6117659fde6c8cd0101fae7e4c82d03608fceda8e0edd4c75a&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Blackhawks vs. Coyotes March 5 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Among the top players to watch when the Arizona Coyotes face the Chicago Blackhawks on Tuesday at Mullett Arena -- starting at 9:00 PM ET -- are the Coyotes' Clayton Keller and the Blackhawks' Connor Bedard. Bedard is a ..."
     publishedDateTime: 2024-03-05T06:22:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2024-03-07T16:29:00Z
 originalUrl: "https://www.thecollegefix.com/suny-cortland-students-win-club-approval-in-significant-victory-for-free-speech/"
 webUrl: "https://www.thecollegefix.com/suny-cortland-students-win-club-approval-in-significant-victory-for-free-speech/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The College Fix

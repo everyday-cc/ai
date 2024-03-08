@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Usher’s New Look And IBM Unite To Educate Underserved Youth On AI"
+    excerpt: "Youth learners will gain access to over 1,000 IBM SkillsBuild courses spanning AI fundamentals, ethics, machine learning, and more."
+    publishedDateTime: 2024-03-08T21:45:00Z
+    webUrl: "https://www.blackenterprise.com/ushers-new-look-ibm-youth-ai/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 39
+    images:
+      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2024/03/IMG_8758.jpg"
+        width: 1284
+        height: 800
+        isCached: true
   - title: "Usher’s New Look Embarks on AI-Focused Collaboration With IBM To Set Students Up for Career Success"
     excerpt: "AI ethics, prompt writing, machine learning, AI to help the environment, and improving customer service with AI. Communities helped by UNL span the United States including Atlanta, Chicago, Detroit, Los Angeles, Milwaukee, and New York City. Across these ..."
     publishedDateTime: 2024-03-08T16:34:00Z

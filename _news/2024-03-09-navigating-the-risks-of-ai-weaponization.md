@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-th
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 139
+published: true
 
 provider:
   name: Forbes
@@ -47,15 +47,6 @@ related:
         width: 1223
         height: 900
         isCached: true
-  - title: "How AI is helping advance women’s health around the world"
-    excerpt: "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide."
-    publishedDateTime: 2024-03-08T14:00:00Z
-    webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "Advancing AI innovation with cutting-edge solutions"
     excerpt: "Power your business transformation with proven AI services and infrastructure. Provided byMicrosoft Azure and NVIDIA AI is helping organizations in nearly every industry increase productivity, engage customers, realize operational efficiencies, and gain a ..."
     publishedDateTime: 2024-03-04T00:00:00Z
@@ -72,29 +63,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "The Future of Work: How Artificial Intelligence Training is Shaping Job Markets"
-    excerpt: "Introduction: The advent of Artificial Intelligence (AI) has ushered in a new era in the job market, transforming the way we work and reshaping traditional employment landscapes. As AI technology continues to advance,"
-    publishedDateTime: 2024-03-05T08:18:00Z
-    webUrl: "https://techbullion.com/the-future-of-work-how-artificial-intelligence-training-is-shaping-job-markets/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/03/The-Future-of-Work-How-Artificial-Intelligence-Training-is-Shaping-Job-Markets.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Dell's capitalization is growing amid Wall Street's love affair with AI"
-    excerpt: "Read our ethics statement. In a nutshell ... there was a notable increase in momentum for its artificial intelligence (AI) initiatives. This development was met with enthusiasm from shareholders, who were pleased with the news. Dell recently said that ..."
-    publishedDateTime: 2024-03-04T08:41:00Z
-    webUrl: "https://www.techspot.com/news/102118-dell-capitalization-growing-amid-wall-street-love-affair.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
   - title: "New type of voice assistant for production works according to the rules of AI ethics"
     excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
     publishedDateTime: 2024-03-05T04:16:00Z
@@ -109,6 +77,24 @@ related:
         width: 498
         height: 259
         isCached: true
+  - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
+    excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
+    publishedDateTime: 2024-03-08T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/renewing-corporate-gifting-the-impact-of-ai-on-personalization/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines"
+    excerpt: "AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00699-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
 
 secured: "6AL0Fc1BISQzBfGT62Oqn63wRKhHwsOvtSUkE5UJpyE3SlRizaMdiC2MGFEGpj3yfbUalj7airznTpvy2CN1LPNZXtrMAEs1rbA3d8hjqDaqmOJjZxUtU6if29zL/IMLrxBCFzVtQYSkIGOAjkAKgeWKrTzO53f2ahLdLAdIWyO0AnSR/XkPG3fvYNSsapoSPD4/D8UAeVH2uHk+Rpea+2fjsSXi3mwI1SIow282gJ8z/TWpCMaH8sQ8TEKGrteMBOFyUZHGVKk9ih2FxNkCPK9jjebHDcJkxlE7cKoJjQ9jEArjY24EEygSnIc8dCFGAJRPikpAkz8M03UwzXxyxzQs5hRQj5w7l3435fBuO5u78GYIpbJcJt/LhJR/ycHGg04jBTcaadRqyRTvBtf2e8gK5rlj+z5KbhHmDmvXoC/Ai08x5xdieDILswgAaHZdTFPhK5nHA35iI5TKRu3JDIim6mPKM12eEOi5nzsDnzhiN7lUX/nNefwtYU9IkXEwM1V9eNKQxCZO9af5y4Ok2w==;c5v6NNd324tmIi8hWZZ4aA=="
 ---

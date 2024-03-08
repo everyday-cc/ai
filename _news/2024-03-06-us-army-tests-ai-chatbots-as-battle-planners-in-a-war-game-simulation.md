@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2420184-us-army-tests-ai-chat
 webUrl: "https://www.newscientist.com/article/2420184-us-army-tests-ai-chatbots-as-battle-planners-in-a-war-game-simulation/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AMD promotes third-party app for running AI chatbots on local hardware"
+    excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
+    publishedDateTime: 2024-03-08T13:55:00Z
+    webUrl: "https://www.techspot.com/news/102187-amd-promotes-third-party-app-solution-running-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Chatbots Do Not Hallucinate, They Confabulate"
     excerpt: "LLMs like ChatGPT are a type of artificial intelligence that run algorithms that decode content ... This was a form of cognitive behavior therapy to help her see that she was, in fact, safe to be around. We were sharing the meal to test out the validity ..."
     publishedDateTime: 2024-03-06T00:00:00Z
@@ -34,15 +43,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 4
-  - title: "How A.I. Health-Care Chatbots Learn From The Questions Of An Indian Women’s Organization"
-    excerpt: "Women learn to use a chatbot powered by artificial intelligence developed by Myna Mahila ... represents what many hope will be part of the impact of A.I. on health care around the globe: to deliver accurate medical information in personalized responses ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://www.philanthropy.com/article/how-a-i-health-care-chatbots-learn-from-the-questions-of-an-indian-womens-organization"
-    type: article
-    provider:
-      name: The Chronicle of Philanthropy
-      domain: philanthropy.com
-    quality: 0
 
 secured: "ttDfUm+GI1XFMqrBVMb8SzwGSgcrLTBFKyk4praLtte3psEZDy8l1kQSV0aEc7QHglzStbIynk2c84TL0S6ltaTTPQQCePgYOk7ms0OnqjHewwnzl/24ZMkHfIW9JW+7NBJKkizqCTk+3ADC9/8FLrBpA43iRtYNjm3aodigyw314S29ja+QW33/RUt2HBkXvIxkWRBKdYyF8O4zMG8CRycrapo105nca18SRDcBFbOzIChqTCpxRayOAHhV47f+OdrNTes9oUcuwMVJ7wsVLFM2K9GkxuqrK06Y8d14+Vrcuqo7v/B72WBg66MNGq51HwFQ9GHN20LadUqFVExCJPqK62w/mnsO2x6eNaHOulKg1hkdkulyLQ8aLT7r7MECynAggq10WOH0W7rGmboVwc+o1uoMkiHcO1jGtixpXV08xpYqwweG4Ywlh2H/1F55HZ4oqve6Ixj4h7GLMehEE4KXjg0bkhMoDFuGTjG94kAHpgU3Jah43Uq5slZIEHtU1ZkirmMeQpPcYW26Y4jsyw==;RW8msnrvvsIfHRyQZ3tZ8A=="
 ---

@@ -155,6 +155,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 59
+  - title: "Microsoft is making lots of money from LinkedIn Premium — and users like its AI tools"
+    excerpt: "LinkedIn generated $1.7 billion in revenue from premium subscriptions last year and says many users are taking advantage of its AI features."
+    publishedDateTime: 2024-03-08T13:03:00Z
+    webUrl: "https://www.businessinsider.com/linkedin-microsoft-premium-subscriptions-revenue-rising-ai-tools-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Q&A: Microsoft research head explains how generative AI could help doctors be more human"
     excerpt: "Generative AI is having a moment. Peter Lee ... The OpenAI services on Microsoft’s Azure cloud provide HIPAA compliance. We’re very proud of that but our cloud is not unique. AWS and Google Cloud provide the same sort of compliance to enterprise ..."
     publishedDateTime: 2024-03-05T00:00:00Z

@@ -59,6 +59,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "India Spending Billions on AI"
+    excerpt: "for India’s AI ecosystem over the next five years. The IndiaAI Mission includes standing up a 10,000-GPU AI supercomputer (no system details were released) to support such initiatives as: The IndiaAI Innovation Centre (IAIC), an academic institution ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/03/india-spending-billions-on-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/generic-AI-shutterstock-2-1-2198551419.jpg"
+        width: 500
+        height: 250
+        isCached: true
   - title: "Navana.ai launches 'Bodhi' multilingual voice model as India bets big on AI"
     excerpt: "The plug-and-play methodology of the current version of Navana Automatic Voice Recognition (ASR) software simplifies adoption and implementation while offering enhanced customisation and above 85 per cent accuracy with faster reaction times, the company ..."
     publishedDateTime: 2024-03-08T12:41:00Z

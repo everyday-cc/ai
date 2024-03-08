@@ -6,6 +6,9 @@ publishedDateTime: 2024-03-08T18:44:00Z
 originalUrl: "https://ccm.net/mobile/12285-.../"
 webUrl: "https://ccm.net/mobile/12285-.../"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: CCM

@@ -45,7 +45,12 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "0yXzDAB6HA+IOoy6MT98Iq+HbZSB9cPOBzk0TZusFQk1I0q6ZFARtZL+09Q4vT3Fs5TEgyplp3J493yfKnX1toV2NNG+RIXpCKovTvGUWoQVD0sUPU8L8gCD1FPQBh7tq1asYLSc+06LOEM5o+VuA4O0V45ZfWokMTdoEj1pZdAsb6MCGTIiC05e2adsIrsB+P+bLm+ZiMoID0+cwcWGB+oHiwegSmNenHfvQuPRla/o4rjkTOp954uh9l2od2/XgsOjumdhYP6AoduOLwnNF6LjZoJRzMdJshi/H3ZUef2EohuQ4CoTOZ5INZu7O8X8Z9pY+9w9owl5KU1Dfj11wH0vZEYI340G2KQp0HMsgY8=;nQNZOv+VvzuXfmyhAZ8i3g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2024-03-08T18:37:00Z
 originalUrl: "https://thenextweb.com/news/uk-fusion-startup-breaks-pressure-record-giant-gun-z-machine"
 webUrl: "https://thenextweb.com/news/uk-fusion-startup-breaks-pressure-record-giant-gun-z-machine"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: The Next Web

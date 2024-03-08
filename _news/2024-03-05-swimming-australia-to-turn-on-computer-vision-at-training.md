@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/swimming-australia-to-turn-on-compu
 webUrl: "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Legal AI Is Taking Off in Australia and Could Shake Up the Private Practice Legal Market"
+    excerpt: "Australia’s private law firms are recruiting legal AI models, which may help them deliver accurate legal advice faster and at lower rates."
+    publishedDateTime: 2024-03-08T17:21:00Z
+    webUrl: "https://www.techrepublic.com/article/australian-legal-profession-adapting-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 42
   - title: "The 'No' Voice Result Showed Us We Need To Prioritise Truth-Telling In Australia"
     excerpt: "The Indigenous Voice to Parliament could have been a chance to address issues First Nations people often face, such as domestic and family violence,"
     publishedDateTime: 2024-03-06T05:54:00Z

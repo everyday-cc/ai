@@ -5,7 +5,12 @@ excerpt: "YEO Messaging, a trailblazer in secure communication, proudly debuted 
 publishedDateTime: 2024-03-08T00:00:00Z
 originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/yeo-messaging-unveils-revolutionary-continuous-facial-co-1709888137-ga.1709889525.html"
 webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/yeo-messaging-unveils-revolutionary-continuous-facial-co-1709888137-ga.1709889525.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/yeo-messaging-unveils-revolutionary-continuous-facial-co-1709888137-ga.1709889525.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/yeo-messaging-unveils-revolutionary-continuous-facial-co-1709888137-ga.1709889525.html"
 type: article
+quality: 31
+heat: -1
+published: false
 
 provider:
   name: SourceSecurity
@@ -15,6 +20,47 @@ topics:
   - Computer Vision
   - AI
 
-secured: "VlwwwQ68AdvoAfeVY3hWeVuxI3CB9W3YAqlDbV1i3RrimlFcmHlHlkQwvKsuJD+fgkIl7yxl0E7gxNaLkMBXPoNV945KArcV6xsREX0eRuGPRf4InVT5lbCCaRsBuoE6bBhBnFae9G9TJLK8YLRofAf7SBplEask1juZk/7o2YwXixn1zj+9zlimYxNZH/LyR7KamNAxV7OEdiLy7VcW5RWGYd2uMxK3RPPNXpxl8TktT7FOv2ttmTLKWawUyfaLXj9T2ULfgQADMan8nQiiHH93pxkVA52km3tiaH1RRJ6IE2/jFt9BLaC/k/MiXrdQhmuBJEV94qnY5HZiAecups8tdfykx3MuO1Z6VT5gXO8=;oAmfigLno/njkKq9lB3/5g=="
+related:
+  - title: "YEO Messaging Unveils Revolutionary Continuous Facial Recognition SDK"
+    excerpt: "YEO Messaging has introduced Continuous Facial Recognition SDK at MWC Barcelona, preventing unauthorised access and breaches in confidentiality."
+    publishedDateTime: 2024-03-07T10:54:00Z
+    webUrl: "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/"
+    ampWebUrl: "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 59
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2024/03/YEOSDK1-1.png"
+        width: 1024
+        height: 783
+        isCached: true
+  - title: "Are Indian police using facial recognition to identify protesting farmers?"
+    excerpt: "Police are initiating cancellation process by contacting passport authorities and embassies and by accessing the individuals' photos and residential details."
+    publishedDateTime: 2024-03-04T15:12:00Z
+    webUrl: "https://www.biometricupdate.com/202403/are-indian-police-using-facial-recognition-to-identify-protesting-farmers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/07161513/surveillance-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
+  - title: "Yeo Messaging debuts Continuous Facial Recognition SDK for privacy protection"
+    excerpt: "A new SDK has been launched by Yeo Messaging to bring continuous biometric facial authentication to consumer devices for data protection and privacy."
+    publishedDateTime: 2024-03-08T17:29:00Z
+    webUrl: "https://www.biometricupdate.com/202403/yeo-messaging-debuts-continuous-facial-recognition-sdk-for-privacy-protection"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+
+secured: "c/5Q+OdBmXuaLVP2hyaXrfmqNZA+3lt3QsOfiViUSUFnK8+VhHbCFA/OVbYNR7LfhuDB/FlsBbX8mUyUQloeY3RBUoZt/EaS5D8RXCvYRqx/SjPDLRV2pZ92FYdlG0wFXQpSPskw6slXwsQOcA0AgcwqMp14WjEQ9eH7RpNWkKGFZGNxn2RFWl/IcEebBPISHuhpJp+LLzbMXxO5RI4GRGQZ7LHUgt60xHtrPsLtcXaf2y0MGI2fsCRJVgFA1V8PP/lcj3n1YfuM1W8THF/cgu35BuddEm8suMsJSdZcuq8zXOB+9xLhNT18GEayMTt2uINLKD5HFY9Q1bovVZqtsLUvHRwk+ppf0kltlio5IjM=;b2OMOIWGbeNT4CxGezivRw=="
 ---
 

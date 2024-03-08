@@ -57,6 +57,20 @@ related:
         width: 384
         height: 268
         isCached: true
+  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
+    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
+    publishedDateTime: 2024-03-08T20:00:00Z
+    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
+        width: 708
+        height: 365
+        isCached: true
   - title: "JUSTPAID, AI-POWERED FINANCE STARTUP, ANNOUNCES NEW FINANCIAL CHATBOT CAPABILITIES"
     excerpt: "MOUNTAIN VIEW, Calif., March 6, 2024 /PRNewswire/ -- JustPaid ( chat.justpaid.io ), the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial assistant/chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
     publishedDateTime: 2024-03-06T14:23:00Z

@@ -59,6 +59,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "India Spending Billions on AI"
+    excerpt: "for India’s AI ecosystem over the next five years. The IndiaAI Mission includes standing up a 10,000-GPU AI supercomputer (no system details were released) to support such initiatives as: The IndiaAI Innovation Centre (IAIC), an academic institution ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/03/india-spending-billions-on-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/generic-AI-shutterstock-2-1-2198551419.jpg"
+        width: 500
+        height: 250
+        isCached: true
   - title: "Start-Ups Red-Flag Prior Govt Approval For AI Deployment Dub Move Anti-Innovation"
     excerpt: "(MENAFN- KNN India) New Delhi, Mar 4 (KNN) The government's directive mandating“explicit permission of the government” for the deployment of artificial intelligence (AI) and large language models (LLMs) on the Indian internet has stirred significant ..."
     publishedDateTime: 2024-03-04T04:18:00Z

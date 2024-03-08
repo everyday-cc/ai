@@ -60,6 +60,15 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 34
+  - title: "Airports using biometric facial recognition in Texas"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-08T05:58:00Z
+    webUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 34
 
 secured: "uAeOAsSyXB5K+CgvqhYACmIYJz+oGdBfNqp572J8dT2j/rc7XnPDTxww1dPXg1/ISBiS+EObMGEvPsOzBUNkj1u5hFNOymM9pUfSYXE+kivqFgVb6xN3naCYMB36VN3aqUd2067KasL/DXmV7QIjVMOIMhJ+YMv8oi9EPAmNUWh/t1y7JQwyadRPnZNug7MmK7f01IZgTgCYQYLaDjKNefG9eqvbQ++vcjo6K+C9GdNA43f1FvwaYWJ7sIY3rQ0t5wrpuGK5daCDc9tFYiK4jpxDaXI3CV0r8Cl2ZtTly6wm3KMmwcyH79YQdKNJ1JTtJ2cz1uDWp2VJGta0DGvFpRKjyoefe/tU+1E7YKr6KyzXZxBWtjMlPqoZw3JSvk3eio/dhurfiRMQNO/xxrzR56UD6ZbBABnvde+L7r+vr12qnsg3Fp6cK9Itj4rjm0eRFuN+0oQIA3e1/V9kkroqx6N3dVkhTyAw+gXpo7UZJr90NvOl1KOVbLmEEe1S3Pw4jIuDPUBB94n/gM6C+rS2ww==;LPoER2r9xjGeHWYRTW1qAQ=="
 ---

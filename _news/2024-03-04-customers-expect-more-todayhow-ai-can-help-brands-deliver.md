@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to Harness Artificial Intelligence to Transform the Customer Experience"
+    excerpt: "The CDW Tech Tipoff Series will explore how organizations can use AI to make a meaningful difference in how they interact with customers. Phil Goldstein is a former web editor of the CDW family of tech magazines and a veteran technology journalist. He ..."
+    publishedDateTime: 2024-03-08T20:28:00Z
+    webUrl: "https://biztechmagazine.com/article/2024/03/how-harness-artificial-intelligence-transform-customer-experience"
+    ampWebUrl: "https://biztechmagazine.com/article/2024/03/how-harness-artificial-intelligence-transform-customer-experience?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/03/how-harness-artificial-intelligence-transform-customer-experience?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202403/GettyImages-1256247098.jpg?itok=Eshpry5U"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "How Artificial Intelligence Tools Can Increase Diversity"
     excerpt: "Artificial intelligence (AI) continues to dominate headlines and even the most recent Super Bowl advertisements. The use of AI in the workplace is rapidly expanding in a wide variety of ways throughout the hiring process, including scanning and filtering ..."
     publishedDateTime: 2024-03-07T00:00:00Z

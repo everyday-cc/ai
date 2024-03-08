@@ -6,6 +6,9 @@ publishedDateTime: 2024-03-08T17:50:00Z
 originalUrl: "https://www.rcrwireless.com/20240308/test-and-measurement/test-and-measurement-robots-build-a-five-meter-comms-tower"
 webUrl: "https://www.rcrwireless.com/20240308/test-and-measurement/test-and-measurement-robots-build-a-five-meter-comms-tower"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: RCR Wireless News

@@ -28,15 +28,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA CUDA-X Speeds Data Science on HP Workstation Solutions Pandas provides a powerful data structure, called DataFrames, which lets developers easily manipulate, clean and analyze tabular data."
-    publishedDateTime: 2024-03-07T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "AWS Exec: Demand for Nvidia Chips Will Stay High"
     excerpt: "Nvidia’s rapid climb to become the third most valuable company has drawn comparisons to Cisco, whose success in selling routers during the dot-com boom briefly made it the world’s most valuable public company in 2000."
     publishedDateTime: 2024-03-07T05:04:00Z
@@ -51,6 +42,29 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Nvidia, HP give data science a GPU boost"
+    excerpt: "The two tech companies will infuse enterprise AI workstations with GPU-powered data processing and model building software."
+    publishedDateTime: 2024-03-08T21:08:00Z
+    webUrl: "https://www.ciodive.com/news/nvidia-hp-ai-pc-workstations-data-science-gpu/709798/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
+  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
+    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
+    publishedDateTime: 2024-03-08T00:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
 
 secured: "ipdFgNa13RBuUXfPp71GaiscN64XCBXXG0PydMuLNVnbKEM6OsjyD5Hh78FL7KBJv1C3RxLAozj8b26iG0zHplN3Sou0atDIpRNnQu1h38RILn598DSCFsuZ4OER5Wfw4L35lcRJZTA4iRqH/IEJ6mOsXEsuwejv0LkmTd83TesxMCjD8PJ0bowQiV7F/KIUqOV9sEdkt/+50+OGsOVVRzBD+TROi1SSexmYm9aOVVTBjn8Kqls83inY8QGE9H1L40rpBX9gFZnnzDl9Ne76iAAjQldtsgap4N7uihioEc5lagdb//DGDCMZCO/lz5ivn07jpi9/d+9QmE0F6T3FtyLCl+pQ5BgYGJ/BYYM/iWk=;TC4TLcnqRraJ7lI+uDZQ6Q=="
 ---

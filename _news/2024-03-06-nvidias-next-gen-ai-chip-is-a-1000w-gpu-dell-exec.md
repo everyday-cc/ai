@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA CUDA-X Speeds Data Science on HP Workstation Solutions Pandas provides a powerful data structure, called DataFrames, which lets developers easily manipulate, clean and analyze tabular data."
-    publishedDateTime: 2024-03-07T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "AWS Exec: Demand for Nvidia Chips Will Stay High"
     excerpt: "Nvidia’s rapid climb to become the third most valuable company has drawn comparisons to Cisco, whose success in selling routers during the dot-com boom briefly made it the world’s most valuable public company in 2000."
     publishedDateTime: 2024-03-07T05:04:00Z
@@ -42,6 +33,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Nvidia, HP give data science a GPU boost"
+    excerpt: "The two tech companies will infuse enterprise AI workstations with GPU-powered data processing and model building software."
+    publishedDateTime: 2024-03-08T21:08:00Z
+    webUrl: "https://www.ciodive.com/news/nvidia-hp-ai-pc-workstations-data-science-gpu/709798/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
     excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."
     publishedDateTime: 2024-03-05T14:34:00Z
@@ -51,6 +56,15 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 19
+  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
+    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
+    publishedDateTime: 2024-03-08T00:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
 
 secured: "JutDWDwFHFrXAHuJWTF718z6GCiXqJcEwyEIyxDJ4rqiSla37vlk7owrZ1/jaorEy+Odb61sPez8PUWgKr5mr87QrXFjOpGlZkN1ZgZERwcwu4McWgg6XJ4Ub8dVX1vXsOnh/8DS/EzbisRocHsjQEN6hRDfkbE/OfTBo3vxc+M3nPOJcknGlR46zHrPcuyV0l4Z6We0Zx2pSd6kQcTXlYEy1RhclwGw2rd+tF/fRTpVdcGM8eUCp1rxGcqVZiDh7PQnKASjNqfdWcrDOl5oVkJoF137EA4Ymly8YwKwmCZDIr7ZwNC6kJB4BGcWNQvOqKBheL/9NlwPfCF7DWqVofIPx25JCxIqfuIIvBG2tFE=;IzwTu1pkOSeNNSFwg52VJg=="
 ---

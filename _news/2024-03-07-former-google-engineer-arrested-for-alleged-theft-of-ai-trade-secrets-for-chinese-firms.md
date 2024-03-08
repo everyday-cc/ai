@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer
 webUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/"
 type: article
 quality: 61
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_63156ade1e564d15d92adbef91e9c5da_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
+    excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.darkreading.com/insider-threats/google-engineer-steals-ai-trade-secrets-chinese-companies"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt896917cb42a083dc/65eb7998e12481040a898328/tradesecret_kenary820_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        width: 1000
+        height: 525
         isCached: true
   - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
     excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."

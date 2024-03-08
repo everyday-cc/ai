@@ -39,6 +39,29 @@ related:
         width: 4500
         height: 3000
         isCached: true
+  - title: "This AI malware worm is capable of turning ChatGPT against you"
+    excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
+    publishedDateTime: 2024-03-08T22:34:00Z
+    webUrl: "https://bgr.com/tech/this-ai-malware-worm-is-capable-of-turning-chatgpt-against-you/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1119
+        isCached: true
+  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
+    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
+    publishedDateTime: 2024-03-08T17:10:00Z
+    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 48
 
 secured: "e+/FLqHDNW0xbBETguvfH19n5QgLZV3cHJvW7LFj2ZU6XmKTlU5A5pWg5Z32QDyjJEmJPDxEt5BoZCZUaR2CPAJEMrhq9hc3OjpEt5emc79QNWC5s1AiApHU0oSF3ddnwNCDMbLUzk284CZxdDQCxpI0xx6291JWDMDim9zg2Em7UvhEPNkX9xx6gIY+pL0mhH5OPqlx5ygU9HZE40uuDJviB/VAMrpM6z1jMyt49DTEGVOdlZlmQTASnNj3ERryuM0c6kfIMYAdkuhzpRoIQK/VliEhErtfw/trDrrzRMs6eG+3K/14yqen1eNyPaw6Ei7GyDEesGmVGzbs0oQ2FxamoaXuFozMLUh5WNW0U+0=;3l43X5DbYaOnXliWcOE7HQ=="
 ---

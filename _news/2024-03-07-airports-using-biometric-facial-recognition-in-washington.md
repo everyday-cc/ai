@@ -60,6 +60,15 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 34
+  - title: "Airports using biometric facial recognition in Texas"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-08T05:58:00Z
+    webUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 34
 
 secured: "zSrE+IYZ/ruT/9o7WNItLcVkDVkQF4f5JWrs497CftSP5wG56+9N6lmrHyS5NFQlxTsSiBIDd5u/ydWY7qAbbf95hqWj00ucDPZmhew4euR95f43RsdIBYI6Uj2Dlmr9e3pREBKZ7la5AFE96BFFf+PYPj1vU8GipDTW/a4vza27vHPtbTuPl3fgYrZ7w0JJ6kAmDLaCktwvBtLy6FUnm2sD+eMBOtBMOSnO6VPC9oh1QprENsdMM3anZR9ZfH4MOL0pYnEdpFWD8zZMyQ6Jn6JlSQRE/GH2gXo21Y01TFES1tFJQFZ39Fh+PiyJqDkwiSxpdVvE10WgTbZ6AOmy5bfE7FKKuGM4+/IO23H/PHtYn9QX/EJ+LG5P7Gjo1nCvK9lkROP11Gxq0xraeydGCl8+3cPUAlKNFXGfzZpUNZUGudriaG/b+tTBchacn8FISyxjju7Ofq+fu9siR9rnqBBbm+GxZAmOeNh388zg4aFecWPufYnANLnGaIVYrhK30/HjLi3siokKqY2PxELUKw==;IfZ39IpEt1cSx6fKkJpcog=="
 ---

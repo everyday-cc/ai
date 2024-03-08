@@ -99,20 +99,6 @@ related:
         width: 6630
         height: 5304
         isCached: true
-  - title: "Unhoused man accused of trying to steal a Waymo self-driving car in downtown L.A."
-    excerpt: "An unhoused man was taken into custody on suspicion of grand theft auto after police said he tried to steal a Waymo self-driving car in downtown Los Angeles on Saturday night. The man entered and ..."
-    publishedDateTime: 2024-03-03T21:51:00Z
-    webUrl: "https://www.latimes.com/california/story/2024-03-03/man-allegedly-tries-to-steal-waymo-self-driving-car-in-downtown-l-a"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 34
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/1fe6648/2147483647/strip/true/crop/3900x2048+0+5/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2F69%2F5f88d0bf4c88b6d8d46b0f046d57%2F1257451-fi-waymo-self-driving-car-0495-ajs.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "e9JcJhzw+sUqehIRZkz/O54rTPPuVnKyjENROwy3NE1L5GEinWUDO/JhXUTzEaoMN42YbOdtt8tPvEjcpyXlrRUXu65ByJvGzrZfbmFmVhxFNp5LK0L+8Lnn5EA10sTkRIdB6AzgZLPh8KFzQJrskfzca1b8Xj8sSWBH7VCUizfkbgcntbzhtVf2D8DO/qthPqI+7uSPQsmZshD5RsrVVwGEVdQp2Y/4q5kdApi8QodEiY1ZbHkjdvrij92q07TLCpCS4/0cSA4c4+LX5JjwMyVkPGcQ/qvINNWoskesdkWRUfw4/bzv9ASaETEKpwbLGN8hYCcQZYBuqdULgqj3D9jPUgOLYWh9Gt2FA3pNifE=;5jumhozz2FGO25h8wpZ5gg=="
 ---

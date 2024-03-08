@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-cent
 webUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://sm.mashable.com/mashable_in/seo/default/img-1815_v5ut.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Male AI robot in Saudi Arabia sparks outrage for appearing to grope female reporter"
+    excerpt: "A video clip just seven seconds long shows a moment that caused quite a stir about artificial intelligence. The clip, shot at DeepFest in Riyadh, Saudi Arabia, captured an AI robot named Mohammad making an improper gesture towards reporter Rawya Kassem."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2024/mar/8/male-ai-robot-in-saudi-arabia-sparks-outrage-for-a/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 48
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "AWS to launch an infrastructure region in the Kingdom of Saudi Arabia"
     excerpt: "AWS Region will enable customers to run workloads and securely store customer content in the Kingdom of Saudi Arabia while serving end users with even lower latency. Amazon Web Services (AWS), an Amazon."

@@ -201,7 +201,7 @@
       "originalUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1017,22 +1017,13 @@
       "title": "Our favorite furniture deals at Amazon's big home sale today",
       "excerpt": "It's Amazon. Specifically, Amazon's furniture deals -- the online giant has a large selection of top-rated items for your home, much of it at prices far lower than you'd find at your local ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-furniture-presidents-day-sale-deals/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-furniture-presidents-day-sale-deals/",
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-furniture-sale/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-furniture-sale/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/17/be819c81-5b64-4e29-9b1e-ea3b872c2e0c/thumbnail/1200x630/d4a69db9241395375851de7762f8c869/nuloom-rub-amazon-presidents-day-furniture-deals-hero.jpg?v=b15ba9ca383d8472a236fb5b5c7ca2b3",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,

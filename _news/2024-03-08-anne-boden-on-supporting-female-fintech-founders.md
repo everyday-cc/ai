@@ -1,11 +1,14 @@
 ---
 category: news
 title: "Anne Boden on supporting female fintech founders"
-excerpt: "The book contains contributions from leading women in fintech including June Angelides ... phase will be focused far more on technologies like artificial intelligence (AI) and deep learning, she comments: “We've also got the additional change that ..."
-publishedDateTime: 2024-03-08T10:19:00Z
-originalUrl: "https://www.finextra.com/the-long-read/972/anne-boden-on-supporting-female-fintech-founders"
-webUrl: "https://www.finextra.com/the-long-read/972/anne-boden-on-supporting-female-fintech-founders"
+excerpt: "Yet Boden has been busy recently. Last week she launched her third book, ‘Female Founders’ Playbook: Insights from the superwomen who made It’ and released a report from the Women-Led High-Growth Enterprise Taskforce which she led. I spoke with her about where we’re going wrong for female fintech entrepreneurs and how we can improve the situation."
+publishedDateTime: 2024-03-08T09:33:00Z
+originalUrl: "https://www.finextra.com/the-long-read/971/anne-boden-on-supporting-female-fintech-founders"
+webUrl: "https://www.finextra.com/the-long-read/971/anne-boden-on-supporting-female-fintech-founders"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finextra
@@ -15,6 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "KSy3DhEHUdA/QE+4ehI6nkZbmrU4AhtG02iXoIw6zMlyWBdAN5w99+9gsMtA2koKJCKWEYhWjy3evZYFNGsL4Ks3Yl2AtsoDISOpTxgLAyUB73sqElk2jEIVWCoHncys/YDAD2DXULYzKMavHC8kn5TKTAa+ALWJWbrYSHE4ICqVqxdqsedXFar+cNFX2iLaCQEUG98WSDgHmOE8ymPzgLzCiv8OizJ/G3uTZ39DO7JmTpVGUwIJL9ENl1SPp5GXp12VW7haQP/FuLRsgtxV5momRZUKwCJdcmW3Bq/QK6L1R+TEsCsqi0QN6tbHFHJ22dazrekf9fVffdVMB7rvsS7xK/NpM4diJLVXuagMJzL+3DC1c4fJbBRiGhfXYORcN5HJ9ZvVhcV0SHOUSWasLk4Lxd2gvK2CW+o4FFYqZmbOKiRCooP9loa/0gf9EWV+atu1M6oSF2tDcWNezoBmo6pONXm8/i4Nt05lxlGCovVPtURqd7MF0dff5szpyv+kq+txWOuHXVwkLZkyfqJZdw==;kH2ZudR6UvK1WxfoULXxNQ=="
+secured: "TNmB/yLKMWRwb0lO7hjaSLT0RrC9f/KviLoLhLMTW+JVjFrE3JNqRwdh15CqcjFY/E+VFmiJl45B0G0Hua7R53k/GSkFflNIPuFipDyBlUpfYilVdTo1+wvBCxhoMZtcCyxAKHOrc0UBpxxBr2SMAWcRHGr8TzkEU3o8DELKdj2DZGybx6LBCPWuT0xZMyn4bw80XLdPUTvpx83ogqoetQAP14czuqwjTpii6FLdlLEmHd33TVbn1rGTUZQmFqzc5ASZRa6Eq9rQu/IQawjG/I+2lPod+VAwAs7NTcEU/1rczXo/pKEF08YJ9tgKAz4fvivGITVcch46LAaP0osbatG4Y596yEjeH1KekhUhv9YbWNrjJOc5405DwocOvPsD7ul35xtQ8r1LDHhq9Bdi/BomfKMPfzpSVOhHMvcpjSydGra8RNoJAfUvJqY0pF+CUOAtQQ03b79JXbZ44KH7xYJbFB+aMXMedj/3HMwZ8O0dafpNxSX+8YEBOFauEyoZ2haJIvnNxj6XrRETarOEBA==;vINd8WGRgHpGFlM4YU4vdg=="
 ---
 
