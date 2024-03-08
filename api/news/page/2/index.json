@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-07-rackspace-technology-achieves-the-aws-generative-ai-competency.md",
+      "title": "Rackspace Technology Achieves the AWS Generative AI Competency",
+      "excerpt": "Achieving the AWS Generative AI Competency in the categories of Consulting Services, Generative AI Applications, and Infrastructure and Data differentiates Rackspace Technology as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting key use cases for knowledge management,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieves-the-aws-generative-ai-competency-1033139305",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieves-the-aws-generative-ai-competency-1033139305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T20:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai.md",
+      "title": "Qualcomm 5G: Moore’s Law Slowing Down? No Problem, Just Add AI",
+      "excerpt": "A lot has been said about Moore’s Law being dead or slowing down. AI can help deliver the performance increases that are needed with or without it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e8db6eb41e4e80a860566b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/",
+      "publishedDateTime": "2024-03-06T20:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-cloud-migration-best-practices-optimizing-your-cloud-migration-strategy.md",
+      "title": "Cloud migration best practices: Optimizing your cloud migration strategy ",
+      "excerpt": "As businesses evolve with the digital landscape, learn why cloud migration can help them achieve greater efficiency, scalability and security.\nThe post Cloud migration best practices: Optimizing your cloud migration strategy  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cloud-migration-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/cloud-migration-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/sf_180317_2362_submit_blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T19:57:41Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research.md",
       "title": "Producing more but understanding less: The risks of AI for scientific research",
       "excerpt": "Enlarge / Current concerns about AI tend to focus on its obvious errors. But psychologist Molly Crockett and anthropologist Lisa Messeri argue that AI also poses potential long-term epistemic risks to the practice of science.",
@@ -797,7 +942,7 @@
       "originalUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1078,161 +1223,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy.md",
-      "title": "Tackle large volumes of data with new solution from SLB for Azure Data Manager for Energy",
-      "excerpt": "The Microsoft partner ecosystem is a key component in how Microsoft delivers technology, services, and cloud-to-edge solutions for our customers. SLB—one of Microsoft’s strategic partners in the energy sector—designed the Enterprise Data Solution to work seamlessly with Azure Data Manager for Energy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/Getty_1260_Energy.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-5-ways-leaders-can-win-hearts-and-minds-and-drive-resultswith-ai.md",
-      "title": "5 Ways Leaders Can Win Hearts And Minds, And Drive Results—With AI",
-      "excerpt": "Imagine a technology tool that helps you understand your team better and personalize interactions for maximum impact. Welcome to the world of AI-powered people leadership",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3af767f50d19ebe29fa28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-a-practical-guide-for-using-generative-ai-in-account-based-marketing.md",
-      "title": "A Practical Guide For Using Generative AI In Account-Based Marketing",
-      "excerpt": "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5db42c2c694a887568254/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Marketing"
       ]

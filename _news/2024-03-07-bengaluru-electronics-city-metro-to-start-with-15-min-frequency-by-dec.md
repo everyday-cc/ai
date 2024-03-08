@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Bengaluru driverless Metro trials begin: How AI will help steer this train"
+    excerpt: "Bengaluru Metro Rail Corporation has started slow trial runs of its driverless trains on the newly-constructed yellow line. The trains equipped with Communication-Based Train Control system will run on the 18."
+    publishedDateTime: 2024-03-08T06:24:00Z
+    webUrl: "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html"
+    ampWebUrl: "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 72
+    images:
+      - url: "https://images.firstpost.com/uploads/2024/03/PTI03_06_2024_000300B-2-2024-03-fba5b338fef933a296030675811e027b.jpg?im=FitAndFill=(1200,675)"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "All you need to know about Bengaluru’s first driverless metro train, aided by AI"
     excerpt: "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes."
     publishedDateTime: 2024-03-07T10:53:00Z
@@ -69,6 +85,29 @@ related:
         width: 435
         height: 435
         isCached: true
+  - title: "This Bengaluru-based AI Startup is Helping Enterprise Productionize Generative AI Apps Reliably"
+    excerpt: "Portkey.ai, a bengaluru based startup boosts enterprise AI app deployments, simplifying integration in the LLMOps landscape."
+    publishedDateTime: 2024-03-08T05:04:00Z
+    webUrl: "https://analyticsindiamag.com/this-bengaluru-based-ai-startup-is-helping-enterprise-productionize-generative-ai-apps-reliably/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 25
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/03/portkey-ai-founders.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Apple is not the only company backing away from driverless cars"
+    excerpt: "In some regards, Apple had the right idea. The market for EVs has ballooned since its project began and self-driving vehicles are now on the streets. With over $155bn in cash at the plan’s inception, Apple had the funds and reputation to pose a credible threat to the car industry."
+    publishedDateTime: 2024-03-07T05:00:00Z
+    webUrl: "https://www.ft.com/content/0ccd1769-51dd-4fa8-b4ed-3f0548d7a425"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "Bengaluru Metro’s Yellow Line deadline pushed to year-end, trial runs start this weekend"
     excerpt: "Bengaluru: The deadline for the Yellow Line appears to have been pushed further, with the authorities stating on Wednesday that the crucial metro corridor is expected to open by the end of this year. The current official deadline — set out in the state budget last month — is July 2024."
     publishedDateTime: 2024-03-06T21:40:00Z

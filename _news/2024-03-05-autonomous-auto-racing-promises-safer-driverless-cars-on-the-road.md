@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/autonomous-auto-racing-safer-driverles
 webUrl: "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -27,17 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Apple is not the only company backing away from driverless cars"
-    excerpt: "In some regards, Apple had the right idea. The market for EVs has ballooned since its project began and self-driving vehicles are now on the streets. With over $155bn in cash at the plan’s inception, Apple had the funds and reputation to pose a credible threat to the car industry."
-    publishedDateTime: 2024-03-07T05:00:00Z
-    webUrl: "https://www.ft.com/content/0ccd1769-51dd-4fa8-b4ed-3f0548d7a425"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "gyYCgZlT4hrwSjtUFTMNsz1fDz/n/vZKEvDejFHA6YmTiIQoOxzAeGkUiDvxX2/8O7MIV38UNTJzthRZRh3sIfwnIEc8fihwp6aRaDhX2IXZQpIERPeeAbkh2Xp66T5iwqoQOYH5ZvRZWmAfnxPDzq8erP20PpRdMS0dvI/Y/GXBlSyl8Svr1jmSLE6LfQEXmSIxmXqU5RqE+b8QwwIvVvIhbnIjPbPikddYIPZKEsOAqR62QY8PIRd579q1i5BLwI8DeOlnpws6ZkttN/lJaanTEdNSsvNJcEY/0uytI5TnEwso+HQ+cKbmVBxS2IdzgAeJd8yyDOeQfX7ezB49VhEMhrYbBY8bMY23HduHbhbGI1Ql83kVl0p5w+nE0CDN5KroWrPx61O0OAdWMPO0UsIdqQItVyRKFSj2FSjHnGHCHsdHlRTvZ8gybNpdrc9H582bqA78xQ/jR6iC0MrPvHlGqN5SIBR1SiWLT/2uJL1DidNcoLp+KcDcdaDVaYYAcuXAwwNwvJ9w0xk041jH3g==;sfQ/lGgPZB8ijWC47AHq+A=="
 ---

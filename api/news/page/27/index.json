@@ -2,6 +2,90 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2024-02-15-6-ways-to-elevate-the-salesforce-experience-for-your-users.md",
+      "title": "6 Ways to elevate the Salesforce experience for your users",
+      "excerpt": "In this article, explore six ways you can elevate your Salesforce experience for customers, partners and employees.\nThe post 6 Ways to elevate the Salesforce experience for your users appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
+      "originalUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-how-to-achieve-kubernetes-observability-principles-and-best-practices.md",
+      "title": "How to achieve Kubernetes observability: Principles and best practices",
+      "excerpt": "Learn how Kubernetes observability works, and how organizations can use it to optimize cloud-native IT architectures.\nThe post How to achieve Kubernetes observability: Principles and best practices appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/kubernetes-observability/",
+      "originalUrl": "https://www.ibm.com/blog/kubernetes-observability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-the-top-esg-trends-in-2024.md",
       "title": "The top ESG trends in 2024",
       "excerpt": "Learn four trends that have been taking shape as of late, and what they may mean for your business in the near future.\nThe post The top ESG trends in 2024 appeared first on IBM Blog.\n",
@@ -1018,83 +1102,6 @@
       "provider": {
         "name": "Goodnet",
         "domain": "goodnet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-astros-to-debut-fast-entry-facial-recognition-tech-at-minute-maid-park.md",
-      "title": "Astros to debut fast-entry facial recognition tech at Minute Maid Park",
-      "excerpt": "A new facial recognition software will allow fans to enter Minute Maid Park faster this season. The new \"Go-Ahead Entry,\" system uses Artificial Intelligence will allow fans who sign up through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/sports/astros/article/astros-fast-pass-facial-recognition-18667671.php",
-      "originalUrl": "https://www.chron.com/sports/astros/article/astros-fast-pass-facial-recognition-18667671.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking.md",
-      "title": "Use PC without mouse or by speech alone; Use mouse without clicking",
-      "excerpt": "In this post, we will show you how to use your PC without the mouse or by speech alone or use your mouse without clicking by moving it only. Windows offers built-in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "originalUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2024/02/Work-by-Speech-in-action.jpg",
-          "width": 700,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
         "images": null,
         "publishers": null,
         "authors": null

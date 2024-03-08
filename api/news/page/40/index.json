@@ -2,6 +2,92 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2024-02-06-how-ai-could-change-our-relationship-with-religion.md",
+      "title": "How AI could change our relationship with religion",
+      "excerpt": "The AI was able to decipher and translate the ancient Greek word for “purple” on the scroll. Other ancient texts from the Indian sub-continent, for example, are in the Sanskrit language or ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
+      "originalUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/572802/original/file-20240201-15-4uwnfw.jpg?ixlib=rb-1.1.0&rect=0%2C155%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studies-show.md",
+      "title": "AI is the most promising tech for businesses but a skills shortage stands in the way, studies show",
+      "excerpt": "Artificial intelligence (AI) brings with it a wealth ... Another report by Amazon Web Services (AWS) found that AI adoption is forecast to unleash €600 billion growth in Europe's economy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "originalUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/08/22/03/56/1200x675_cmsv2_bc17e7f8-39b4-5b46-8b0a-b24a2f054a6d-8220356.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-teens-need-protection-from-harmful-content-on-social-media-can-ai-help-bridge-the-gap.md",
       "title": "Teens need protection from harmful content on social media. Can AI help bridge the gap?",
       "excerpt": "The CEOs of Meta, X, TikTok, Snap and Discord testified before the Senate Judiciary Committee about protecting teens online. Artificial intelligence might be a tool to block harmful content without invading privacy.",
@@ -954,93 +1040,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-what-is-it-good-for-machine-learning-at-central-square-theatre-takes-a-look.md",
-      "title": "AI — What is it good for? 'Machine Learning' at Central Square Theatre takes a look",
-      "excerpt": "What of hope and faith? Questions like these shape Francisco Mendoza’s probing play “Machine Learning” (through Feb. 25 at Central Square Theater), where a son aims to help his father, who is battling cancer and a penchant for alcohol, with an app he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
-      "originalUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wordpress.wbur.org/wp-content/uploads/2024/02/Machine_Learning-Production-1-1000x667.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-can-enhance-stock-return-prediction.md",
-      "title": "Artificial intelligence for the financial market: Machine learning can enhance stock return prediction",
-      "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
-      "originalUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/artificial-intelligenc-6.jpg",
-          "width": 2880,
-          "height": 1867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-artificial-intelligence-financial-machine-stock.amp",
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

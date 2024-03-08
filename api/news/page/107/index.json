@@ -2,6 +2,92 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2023-12-06-former-tesla-worker-claims-companys-self-driving-tech-is-not-safe-for-public-roads.md",
+      "title": "Former Tesla worker claims company's self-driving tech is not safe for public roads",
+      "excerpt": "A former Tesla worker claims the electric car giant’s self ... driving technology is not safe enough to be used on public roads. Whistleblower Lukasz Krupski has raised fresh concerns about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614",
+      "originalUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article31605559.ece/ALTERNATES/s1200/0_Tesla-Introduces-Self-Driving-Features-With-Software-Upgrade.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/former-tesla-worker-claims-companys-31605614.amp",
+      "publishedDateTime": "2023-12-05T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-driving-expert-uses-artificial-intelligence-to-predict-how-cars-will-appear-in-the-future.md",
+      "title": "Driving expert uses artificial intelligence to predict how cars will appear in the future",
+      "excerpt": "As artificial intelligence becomes more capable ... cars will be like in the future is very lively – there is often news about how close we are to self-driving cars, or even cars that can fly. “However, it’s not easy to imagine how this highly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/1842519_1.jpg",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1842479/artificial-intelligence-future-vehicle-technology/amp",
+      "publishedDateTime": "2023-12-05T22:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-dhs-seeks-information-for-cisa-analytics-and-machine-learning-project.md",
       "title": "DHS seeks information for CISA analytics and machine learning project",
       "excerpt": "The agency’s Office of Mission and Capability Support aims to better understand the “capabilities of businesses that could supply access to” the three commercial cloud providers that support the CAP-M project.",
@@ -1018,83 +1104,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-daniel-dennett-calls-for-ethics-in-ai-development.md",
-      "title": "Daniel Dennett calls for ethics in AI development",
-      "excerpt": "It’s emerging, it’s everywhere. It’s going to be even more everywhere, … and it’s scary and inspiring at the same time,” Jad Oubala, president and founder of the Tufts Artificial Intelligence Society,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tuftsdaily.com/article/2023/12/daniel-dennett-calls-for-ethics-in-ai-development",
-      "originalUrl": "https://www.tuftsdaily.com/article/2023/12/daniel-dennett-calls-for-ethics-in-ai-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://snworksceo.imgix.net/ttd/27ffa86e-ed04-4cc1-9df9-f3e7ae8e5231.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tufts Daily",
-        "domain": "tuftsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-gecko-robotics-picks-up-100-million-investment-with-backing-from-thomas-tulls-5-billion-tech-fund.md",
-      "title": "Gecko Robotics picks up $100 million investment with backing from Thomas Tull's $5 billion tech fund",
-      "excerpt": "A local robotics startup has added a $100 million investment to its coffers thanks in part to the financial support from a $5 billion technology fund run by a Pittsburgh billionaire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

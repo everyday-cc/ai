@@ -2,6 +2,110 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2024-02-12-for-350-you-too-can-have-glasses-with-ai-superpowers-and-look-like-a-modern-day-gandhi.md",
+      "title": "For $350, you too can have glasses with 'AI superpowers' (and look like a modern-day Gandhi)",
+      "excerpt": "The glasses are powered by a series of AI models, including OpenAI’s GPT-4 and speech recognition technology Whisper, Stability AI’s Stable Diffusion, and Perplexity, the company told Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2",
+      "originalUrl": "https://www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65c8ee766fcb546d2d4e5129?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brilliant-labs-ai-glasses-translate-speech-gandhi-steve-jobs-lennon-2024-2?amp",
+      "publishedDateTime": "2024-02-11T19:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.md",
+      "title": "Crowd sets Waymo self-driving car ablaze in San Francisco",
+      "excerpt": "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980",
+          "width": 2200,
+          "height": 1238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
+      "publishedDateTime": "2024-02-11T17:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-how-ai-and-software-can-improve-semiconductor-chips-accenture-interview.md",
       "title": "How AI and software can improve semiconductor chips | Accenture interview",
       "excerpt": "Thanks to AI, one of these days we'll be talking about chips with trillions of transistors on them, according to Accenture.",
@@ -1068,92 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test.md",
-      "title": "(Video) Inaugural competition puts high school students robotics skills to the test",
-      "excerpt": "Building on the success of its annual “drone wars” competition, which pits Cullman County Schools’ 7th graders against each other as they maneuver remote-controlled drones through an obstacle",
-      "sourceUrl": null,
-      "webUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
-      "originalUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/cullmantimes.com/content/tncms/assets/v3/editorial/d/58/d58ae388-c776-11ee-9cbd-7b97034b20fc/65c66bc092aa0.image.jpg?resize=1024%2C684",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
-      "cdnAmpWebUrl": "https://www-cullmantimes-com.cdn.ampproject.org/c/s/www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
-      "publishedDateTime": "2024-02-10T05:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cullman Times",
-        "domain": "cullmantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right.md",
-      "title": "Arm CEO Rene Haas Calls AI the \"Most Profound Opportunity in Our Lifetimes.\" 1 Stock I'll Be Buying Hand Over Fist if He's Right.",
-      "excerpt": "Detailed price information for Arm Holdings Plc ADR (ARM-Q) from The Globe and Mail including charting and trades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/dee37551cf25460f0f7944f0e8e7c6f0/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764740%252fa-person-pushing-a-virtual-ai-button-surrounded-by-various-technology-icons.jpg%26amp%3Bw%3D700",
-          "width": 3000,
-          "height": 1714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T02:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

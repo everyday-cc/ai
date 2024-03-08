@@ -2,6 +2,101 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2023-11-24-formula-one-trials-ai-to-tackle-track-limits-breaches.md",
+      "title": "Formula One trials AI to tackle track limits breaches",
+      "excerpt": "The AI will sort out the genuine breaches ... violations at turn six was \"completely unsatisfactory\" and a solution needed to be found before the start of next season. Tim Malyon, the FIA's head of remote operations and deputy race director, said the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
+      "originalUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/7M1TuD42-GQ5WL2UAXs_JwPN_RY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PRVOWK57YVOQ5PAJNQLX23HFYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T16:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-black-friday-roomba-deals-2023-best-robot-vacuums-on-sale.md",
+      "title": "Black Friday Roomba deals 2023: Best robot vacuums on sale",
+      "excerpt": "Available on Amazon Next up, we have the Roomba 694 robot vacuum that’s down to $159 for Black Friday 2023. This powerful vacuum cleaner covers all the basics. And it adds in voice control thanks ... With that in mind, you can rest assured that this ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "originalUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
+          "width": 3560,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T16:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-smart-reporting-to-showcase-integration-of-ai-in-radiology-workflow-at-rsna-2023.md",
       "title": "Smart Reporting to Showcase Integration of AI in Radiology Workflow at RSNA 2023",
       "excerpt": "Smart Reporting is thrilled to announce its participation in the upcoming Imaging Artificial Intelligence in Practice (IAIP) demonstration,",
@@ -1116,92 +1211,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-best-robot-vacuum-black-friday-deals-2023-bestreviews.md",
-      "title": "Best robot vacuum Black Friday deals 2023 | BestReviews",
-      "excerpt": "Vacuuming is one of those chores that no one really enjoys, so handing off the work to a robot vacuum can make life easier. And Black Friday is the perfect time to invest in one — or upgrade your current model — because you can find deals on many top robot vacuums that won’t break the bank.",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
-      "originalUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/11/turkey5_2023_landingpageheroes_robotvacuum_cybermonday_white-2.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
-      "publishedDateTime": "2023-11-22T16:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-hyundai-unveils-robot-operated-ev-plant-in-singapore.md",
-      "title": "Hyundai Unveils Robot-Operated EV Plant in Singapore",
-      "excerpt": "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
-      "originalUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35921762",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762",
-      "publishedDateTime": "2023-11-22T16:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

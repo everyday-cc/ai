@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-29-self-driving-sensor-maker-luminar-falls-as-production-delay-at-volvo-hits-earnings.md",
+      "title": "Self-driving sensor maker Luminar falls as production delay at Volvo hits earnings",
+      "excerpt": "Feb 28 (Reuters) - Luminar Technologies (LAZR.O), opens new tab shares tumbled about 10% on Wednesday after the self-driving sensor maker's fourth-quarter results missed estimates on delayed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/self-driving-sensor-maker-luminar-falls-production-delay-volvo-hits-earnings-2024-02-28/",
+      "originalUrl": "https://www.reuters.com/technology/self-driving-sensor-maker-luminar-falls-production-delay-volvo-hits-earnings-2024-02-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-ibms-ai-enhanced-storage-platform-can-identify-ransomware-in-under-a-minute.md",
+      "title": "IBM's AI-enhanced storage platform can identify ransomware in under a minute",
+      "excerpt": "Read our ethics statement. Forward-looking ... without impacting performance. The new AI-enhanced FlashCore Module 4 is even more advanced, continuously monitoring stats gathered from every single I/O to look for anomalies like ransomware starting to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
+      "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-28.jpg",
+          "width": 3747,
+          "height": 2087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts.md",
       "title": "Tech in Healthcare to Alleviate Pain, Make Treatment Affordable: Experts",
       "excerpt": "Hyderabad: In days to come, surgeries will go the minimally invasive way. There will be use of real-time data for added precision. Robotic surgeries will be mainstream. These are the views of",
@@ -1092,101 +1187,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-squaring-the-circle-the-high-performance-computing-energy-paradox.md",
-      "title": "Squaring the circle: The high-performance computing energy paradox",
-      "excerpt": "Today, the Nvidia H100 Tensor Core GPU enables AWS users to run their Amazon Elastic Compute Cloud (Amazon EC2) P5 instances to scale generative AI at the click of a button, and data center operators report unprecedented demand from clients for compute ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/marketwatch/squaring-the-circle-the-high-performance-computing-energy-paradox/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/marketwatch/squaring-the-circle-the-high-performance-computing-energy-paradox/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/20540_Article_Image_8_1200x600.2e16d0ba.fill-1200x630.jpg",
-          "width": 1144,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-toyota-llama-a-revision-a-381000-camionetas-tacoma-por-fallas.md",
-      "title": "Toyota llama a revisión a 381.000 camionetas Tacoma por fallas",
-      "excerpt": "En Estados Unidos, Toyota llamó a revisión a unas 381.000 camionetas Tacoma porque los pernos del eje trasero podrían aflojarse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
-      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/240228170211-tacoma-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/28/toyota-llama-revision-tacomoa-pernos-eje-trasero-cnn-dinero-tv.cnn",
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

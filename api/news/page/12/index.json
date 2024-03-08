@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
+      "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
+      "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "originalUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-nwogu-weighs-in-on-bias-in-facial-recognition-software.md",
+      "title": "Nwogu weighs in on bias in facial recognition software",
+      "excerpt": "UB computer scientist Ifeoma Nwogu spoke with UBNow about how AI has evolved through the years and offers her perspective on bias in facial recognition programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "originalUrl": "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition/_jcr_content/teaser.img.512.auto.jpg/1708706762075.jpg",
+          "width": 512,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T13:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-how-metas-llama-3-will-impact-the-future-of-ai.md",
       "title": "How Meta’s Llama 3 will impact the future of AI",
       "excerpt": "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n",
@@ -1076,92 +1163,6 @@
         "AI Hardware",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-top-10-best-databases-for-machine-learning-ai-in-2024.md",
-      "title": "Top 10 Best Databases for Machine Learning & AI in 2024",
-      "excerpt": "Machine learning and artificial intelligence fundamentally rely on databases. These are crucial for holding, arranging, and accessing the necessary data for training and building AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
-      "originalUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/BEST-OF10-Best-Databases-for-Machine-Learning-AI.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
-      "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
-      "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "publishedDateTime": "2024-02-25T21:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

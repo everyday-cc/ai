@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/competition-commission-o
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/competition-commission-of-india-to-shortly-commence-market-study-on-artificial-intelligence/cid/2004870"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Commission considers security company"
-    excerpt: "Members of the Preston County Commission were provided information about the Rank One Computing (ROC) Smart Community Initiative during their Tuesday meeting. Jessica Sell, vice president of Congressional Affairs and Community Outreach,"
-    publishedDateTime: 2024-03-07T10:32:00Z
-    webUrl: "https://www.aol.com/news/commission-considers-security-company-033200438.html"
+  - title: "‘Inflexion point’: AI meme wars hit India election, test social platforms"
+    excerpt: "(Some clips were cross-posted on YouTube and Facebook, as well.) Meta’s current rules require ... “We have run the two samples through several proprietary state-of-the-art research AI-voice detection algorithms [and found that] the voice sample is ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.aljazeera.com/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms?traffic_"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 41
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 58
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "CCI to shortly commence market study on artificial intelligence"
-    excerpt: "New Delhi: Fair trade regulator CCI will shortly initiate a market study on Artificial Intelligence (AI) to gain a thorough understanding of antitrust concerns, the regulator's chief Ravneet Kaur said on Tuesday. AI applications are becoming more common ..."
-    publishedDateTime: 2024-03-05T07:21:00Z
-    webUrl: "https://www.deccanherald.com/india/cci-to-shortly-commence-market-study-on-artificial-intelligence-2922582"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 37
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2024-03%2Fb691d2e4-0331-42e2-88fe-604076d8e6b9%2FiStock_1464561797.jpg?rect=0%2C58%2C4206%2C2208&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
+      - url: "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24067397198855-1709872280.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
         isCached: true
 
 secured: "RnPlnPKEbQPV/UaIFPSDh03BaOSzfJyH174mIxoLiwn9dvpody4KBo6x2l2tpTnKcaH88aW4G2c3spn2zPKpAB3e1wWm4kzgKtFuo1jGQlbQRyqeVFPRJSQtB4oyn6R7B8dr5vZhamyCr6rAZZkVld5MsfN7vjc6MmUNoPydjKc2TCGjNLRc2auwZjdnXOp46gD20q6f8MDitK9bUs6juIE0UT4CSEIbkZYvGCwGS5uEiG7D2F+M1Ro//VO1/ZE+azGZBR/PCoAUdCkFV2mHTwy3Iao6/+886dM6aMYaOIeUPRcYB+VvnWzNwhqZ5ozI5cfkzrPkQcoeJrLBe5fFeIU/PpkTkt7fSRotBzH0Q7M=;W8aJGWXNe3LAA5tKNAdbTA=="

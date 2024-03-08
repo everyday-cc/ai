@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wild vs. Sharks March 3 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. When the Minnesota Wild meet the San Jose Sharks at Xcel Energy Center on Sunday (starting at 7:00 PM ET), Joel Eriksson Ek and Tomas Hertl will be two of the most exciting players to watch. Kirill Kaprizov is one of ..."
-    publishedDateTime: 2024-03-03T06:20:00Z
-    webUrl: "https://www.valleynewslive.com/sports/betting/2024/03/03/wild-vs-sharks-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: Valley News Live
-      domain: valleynewslive.com
-    quality: 22
-    images:
-      - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/v2/FJF7XUVLHZJ6XOQQW543YPJMOE.jpg?auth=c9b173427c9f1df9b8872539b4b696eedb06c7f752613cc83c4a1034cd350f57&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Blackhawks vs. Avalanche March 4 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Colorado Avalanche's Cale Makar and the Chicago Blackhawks' Jason Dickinson will be two of the best players to keep an eye on when these teams meet on Monday at 9:00 PM ET, at Ball Arena. Connor Bedard's 17 goals and ..."
     publishedDateTime: 2024-03-03T22:00:00Z
@@ -77,62 +63,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/v2/APSR6JJYYFLAVOQ6WFA5Z4A7DE.jpg?auth=5eb0202ddbae69fe74c94f50753e67f3be52a99fb5be1eaea6cec78574e85158&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "UMKC vs. Omaha Summit Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 8 seed UMKC Kangaroos (12-19) take on the No. 9 seed Omaha Mavericks (7-22) in the Summit tournament Friday at Denny Sanford Premier Center, tipping off at 5:30 PM ET. Both teams will look to get one step closer ..."
-    publishedDateTime: 2024-03-03T18:05:00Z
-    webUrl: "https://www.ky3.com/sports/betting/2024/03/08/umkc-vs-omaha-buy-summit-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 21
-    images:
-      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/v2/A4H64HI6TRJ4VE7Q2U2NDJHVDM.jpg?auth=089077d5572783764cd22625c6ba61db82ec21fc45b8433f5cdecc033369aee8&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Youngstown State vs. IUPUI Horizon Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 7 seed Youngstown State Penguins ... Western Michigan March 6 Women's Basketball Tickets & Start Time Akron vs. Ohio March 6 Women's Basketball Tickets & Start Time Miami (OH) vs. Ohio March 9 Women's Basketball ..."
-    publishedDateTime: 2024-03-03T06:23:00Z
-    webUrl: "https://www.cleveland19.com/sports/betting/2024/03/05/youngstown-state-vs-iupui-buy-horizon-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: 19 Action News
-      domain: cleveland19.com
-    quality: 15
-    images:
-      - url: "https://gray-woio-prod.cdn.arcpublishing.com/resizer/v2/XKOPJMD6GVID5FZZY7JX3NQM6A.jpg?auth=fdb35a3c4222fc7c72458ef3a1c118f0816015e1f1f479bb06d98733211a0cdf&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Texas A&M vs. Mississippi State SEC Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 8 seed Mississippi State Bulldogs ... Florida International March 7 Women's Basketball Tickets & Start Time Texas Southern vs. Prairie View A&M March 9 Women's Basketball Tickets & Start Time UT Rio Grande ..."
-    publishedDateTime: 2024-03-04T06:22:00Z
-    webUrl: "https://www.ktre.com/sports/betting/2024/03/07/texas-a-m-vs-mississippi-state-buy-sec-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KTRE
-      domain: ktre.com
-    quality: 14
-    images:
-      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/4R5HGBK3ZNMZNB4M67CYKFZDWQ.jpg?auth=8f51a503e36ed1f2c8c35e595af5c12548e6984ddac67576d64aee9c14372944&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Northern Kentucky vs. Oakland Horizon Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 8 seed Oakland Golden Grizzlies (12-16 ... Western Michigan March 6 Women's Basketball Tickets & Start Time Akron vs. Ohio March 6 Women's Basketball Tickets & Start Time Miami (OH) vs. Ohio March 9 Women's ..."
-    publishedDateTime: 2024-03-03T06:20:00Z
-    webUrl: "https://www.fox19.com/sports/betting/2024/03/05/northern-kentucky-vs-oakland-buy-horizon-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WXIX-TV
-      domain: fox19.com
-    quality: 13
-    images:
-      - url: "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/v2/X4KTVRTHTRI7FFZMV6ZLZEB5SU.jpg?auth=349051a7b310fc9f1463360381045417627edcf6bdd8a7b02f7208bb168c8aff&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

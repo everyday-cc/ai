@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-08-mosti-ai-ethics-and-governance-guidelines-nearing-completion.md",
+      "title": "Mosti: AI ethics and governance guidelines nearing completion",
+      "excerpt": "The development of the artificial intelligence (AI) code of ethics and governance guidelines has now reached 90 per cent, according to the Ministry",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "originalUrl": "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.malaymail.com/malaymail/uploads/images/2024/03/08/192687.JPG?v=1709881260",
+          "width": 1000,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "publishedDateTime": "2024-03-08T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
       "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
       "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
@@ -1430,59 +1473,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-10-ai-bootcamps-taught-by-top-schools-companies-and-tech-experts.md",
-      "title": "10 AI bootcamps taught by top schools, companies, and tech experts",
-      "excerpt": "In the AI and Machine Learning Bootcamp, lectures will touch on how to build a machine learning model and test its effectiveness, neural networks, NLP best practices, and the role of AWS, Microsoft’s Azure AI, and SQL in machine learning. Upon completing ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/education/articles/ai-bootcamps/",
-      "originalUrl": "https://fortune.com/education/articles/ai-bootcamps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1517344698-e1708531258991.jpg?resize=1200,600",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T16:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

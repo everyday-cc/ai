@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-26-top-10-best-databases-for-machine-learning-ai-in-2024.md",
+      "title": "Top 10 Best Databases for Machine Learning & AI in 2024",
+      "excerpt": "Machine learning and artificial intelligence fundamentally rely on databases. These are crucial for holding, arranging, and accessing the necessary data for training and building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
+      "originalUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/BEST-OF10-Best-Databases-for-Machine-Learning-AI.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
+      "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
+      "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
+      "publishedDateTime": "2024-02-25T21:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition.md",
       "title": "3 Robotics Stocks That Could Be Multibaggers in the Making: February Edition",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As technology continues to advance at an unprecedented pace, robotics stands",
@@ -1161,109 +1247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-why-ai-is-making-thought-leadership-more-important-than-ever.md",
-      "title": "Why AI Is Making Thought Leadership More Important Than Ever",
-      "excerpt": "As AI continues to reshape industries, redefine business models, and influence decision-making processes, the need for thought leadership is in high demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d91c93a000071c4c6533eb/0x0.jpg?format=jpg&crop=3590,2692,x218,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2024/02/23/why-ai-is-making-thought-leadership-more-important-than-ever/amp/",
-      "publishedDateTime": "2024-02-23T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do.md",
-      "title": "Is AI Trustworthy? Experts Consider What Tech Should Be Allowed to Do",
-      "excerpt": "Is artificial intelligence coming for your job? Is it planning something much, much worse? While debates over AI regulation play out, many boosters are pushing the tech further and further.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "originalUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-924529/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-ai-trustworthy-experts-consider-what-tech-should-be-allowed-to-do-64688b53",
-      "publishedDateTime": "2024-02-23T21:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

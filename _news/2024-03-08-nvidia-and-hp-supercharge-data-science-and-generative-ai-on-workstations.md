@@ -1,26 +1,28 @@
 ---
 category: news
 title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-excerpt: "NVIDIA CUDA-X Speeds Data Science on HP Workstation Solutions Pandas provides a powerful data structure, called DataFrames, which lets developers easily manipulate, clean and analyze tabular data."
-publishedDateTime: 2024-03-07T17:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
-webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
+excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
+publishedDateTime: 2024-03-08T00:02:00Z
+originalUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
 type: article
-quality: 48
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+    width: 2560
+    height: 1336
+    isCached: true
 
 related:
   - title: "Nvidia's Next-Gen AI Chip Is a 1,000W GPU: Dell Exec"
@@ -84,6 +86,6 @@ related:
       domain: channelvisionmag.com
     quality: 19
 
-secured: "EVsrvNu8Nb0K6ZllKJ/Eokv9EQYEb/xcjSlmENSzqa5A66y+TukQSaN/oWb//Y1RCTfwk0NWO8BSeU3icncS/wJetRaAQT3Mm6hlfR2M1Krx/Cg4WNx3PY7JEuhQUTaWqFwGn0vuahbBTdxozB1funOG4WqRofuXW7kRq/Quv/QO15GF7KW5nzZ8xm7aTK0oeAGjZW+eSagCLsEDDY75WZRB/wlYDXEg5/fos1vCahr7yLdo4w8tauPnJiBvs8NX1TOD2er+FzM4dgOrrmjNdH/b5VAx3xl8AAg3f3FJt2OiSP9oBNFJ7jNGAeJvaSoEZ4c+qOPdADbCDSMEHxXoicYp22VHvQk0pJW6NntJQUk=;mF5lS2RkIsjXkVQJsWZoUg=="
+secured: "umTHUUerlntz46rZq51VHp2GWnuQkSlaewhgPcOuUGOsgJ/Z9jTn8ASZI5RwiGoEZBYwPLcQurW1PtV5XlAQPEMYcXeAXgNM4ASbWdnchAqKE7z6gLPMKadxbjvO4858r4b4jQcXSlWs6xLZYp4RtpHSqQY+MZ+3sNwRgSYQvhFH2wgXZ5t4K5C1U7TP41AcqLFvC50AMqicICevfRXIJIgABrLb/TruAt3cGJyfKRx9sRBc5SbtLE3eASUVbXDeD6gwwZDq5h23xRpkobU00cVSbvjvpz+pbdGhVOYFCfIMkvRYzTbMAa0EGua509t8dRt6TXAzT9pWapwRDvoO4gF+JihB8MnKVOsijh0iPSQ=;NSJ3Svambv7sEsEce2q8wA=="
 ---
 

@@ -2,6 +2,100 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2024-01-24-penetration-testing-methodologies-and-standards.md",
+      "title": "Penetration testing methodologies and standards",
+      "excerpt": "Discover the top penetration testing methodologies used to find security vulnerabilities and mitigate cyberattack risks.\nThe post Penetration testing methodologies and standards appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
+      "originalUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-generative-ai-revolutionizing-professional-services-for-wealthy-families.md",
+      "title": "Generative AI: Revolutionizing Professional Services For Wealthy Families",
+      "excerpt": "These platforms used AI to provide automated, algorithm-driven financial planning services with little to no human supervision. Across these professions, the journey of AI started with basic automation and rule-based systems and has evolved to incorporate sophisticated machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/",
+      "originalUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b12fef3783787dec0c5115/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/amp/",
+      "publishedDateTime": "2024-01-24T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-6-critical-and-urgent-ethics-issues-with-ai.md",
       "title": "6 Critical – And Urgent – Ethics Issues With AI",
       "excerpt": "There is no doubt in most people’s minds that AI is one of the most transformative technologies of our time. There is no doubt in mine that it is the most transformative technology ever. The “of our time” position has been borne out already.",
@@ -1071,83 +1165,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ai-facial-recognition-software-concerns.md",
-      "title": "AI facial recognition software concerns",
-      "excerpt": "A Houston man who was falsely identified by facial recognition software was thrown in jail, and violently attacked, but how did it happen? FOX 26's Damali Keith reports more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox26houston.com/video/1399941",
-      "originalUrl": "https://www.fox26houston.com/video/1399941",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fox26houston.com/video/1399941.amp",
-      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp",
-      "publishedDateTime": "2024-01-24T00:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRIV",
-        "domain": "fox26houston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ai-is-currently-too-expensive-to-take-most-of-our-jobs-finds-mit-researchers.md",
-      "title": "AI is currently too expensive to take most of our jobs, finds MIT researchers",
-      "excerpt": "So, how worried should we be about AI coming for our jobs? That is the focus of some new research from MIT FutureTech, which doesn’t just look at the capability or effectiveness of AI in carrying out tasks end-to-end, but also acknowledges the costs ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers",
-      "originalUrl": "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-03/shutterstock_2067577946.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp",
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

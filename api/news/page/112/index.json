@@ -2,6 +2,93 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-12-02-heres-what-aws-revealed-about-its-generative-ai-strategy-at-reinvent-2023.md",
+      "title": "Here's what AWS revealed about its generative AI strategy at re:Invent 2023",
+      "excerpt": "AWS CEO Adam Selipsky and other top executives at the company’s annual re:Invent conference revealed updates and new products aimed at challenging offerings from Microsoft, Oracle, Google, and IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html",
+      "originalUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/12/aws-selipsky-100948817-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.amp.html",
+      "publishedDateTime": "2023-12-01T22:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-artificial-intelligence-in-health-care.md",
+      "title": "Artificial Intelligence in Health Care",
+      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?532100-1/artificial-intelligence-health-care",
+      "originalUrl": "https://www.c-span.org/video/?532100-1/artificial-intelligence-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T21:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-02-aws-reinvent-2023-how-ai-is-impacting-the-state-of-cloud-security.md",
       "title": "AWS re:Invent 2023: How AI Is Impacting the State of Cloud Security",
       "excerpt": "The cybersecurity landscape is currently shifting in response to the implementation of artificial intelligence in cloud security.",
@@ -963,83 +1050,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-how-voice-assistant-will-impact-our-lives-in-the-years-to-come.md",
-      "title": "How Voice Assistant Will Impact Our Lives in the Years to Come",
-      "excerpt": "The advancement in technology continuously brings ease and enjoyment to our lives. Machines have already changed how we work all day and tired us out, but voice assistants have emerged as",
-      "sourceUrl": null,
-      "webUrl": "https://technofaq.org/posts/2023/12/how-voice-assistant-will-impact-our-lives-in-the-years-to-come/",
-      "originalUrl": "https://technofaq.org/posts/2023/12/how-voice-assistant-will-impact-our-lives-in-the-years-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technofaq.org/wp-content/uploads/2023/12/voice-control.jpg",
-          "width": 512,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T11:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technofaq.org",
-        "domain": "technofaq.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-seaweed-robot-startup-nets-gbp-150000-in-pre-seed-funding-us-doe-funds-seaweed-study-searching-for-rare-earth-metals.md",
-      "title": "Seaweed-robot startup nets GBP 150,000 in pre-seed funding; US DOE funds seaweed study searching for rare earth metals",
-      "excerpt": "-London, England-based seaweed startup Samudra Oceans has secured a GBP 150,000 (USD 190,000, EUR 174,000) investment from the British Design Fund as a part of its GBP 800,000 (USD 1 million, EUR 927,000) pre-seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
-      "originalUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T11:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SeafoodSource",
-        "domain": "seafoodsource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

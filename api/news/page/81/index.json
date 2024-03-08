@@ -2,6 +2,101 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-12-28-revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech.md",
+      "title": "Revolutionizing Sales: The Impact of Artificial Intelligence in Tech",
+      "excerpt": "Introduction: The advent of Artificial Intelligence (AI) has revolutionized various industries, and one of the most significant impacts has been witnessed in the realm of sales. As businesses strive to stay ahead in the competitive landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
+      "originalUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Sales-The-Impact-of-Artificial-Intelligence-in-Tech.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-asia-pacific-fintech-2024-a-balanced-vision.md",
+      "title": "Asia Pacific Fintech 2024: A Balanced Vision",
+      "excerpt": "As we look ahead to 2024, it's essential to explore the trends, challenges, and opportunities that are shaping the future of Asian FinTech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/",
+      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658ba84a0e014e31d7e4f47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1343,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/",
+      "publishedDateTime": "2023-12-28T03:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-non-artificial-intelligence-stocks-making-new-highs.md",
       "title": "Non-Artificial Intelligence Stocks Making New Highs",
       "excerpt": "If you followed the financial/business media recently, you might think that only artificial intelligence-related stocks are hot, successful and worth covering.",
@@ -1138,111 +1233,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024.md",
-      "title": "Stage Is Set For Nvidia, AMD, Intel Shoot-Out At The AI Corral In 2024",
-      "excerpt": "Nvidia, AMD and Intel all announced the launch of next generation AI solutions as they set the stage for an epic generative AI shoot-out in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658afc3d21e13fea88a2e29c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1272,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/",
-      "publishedDateTime": "2023-12-26T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-mobileye-revs-up-innovation-in-autonomous-driving.md",
-      "title": "Mobileye Revs Up Innovation In Autonomous Driving",
-      "excerpt": "Mobileye's SuperVision product is the company's most advanced driver-assist system yet, while the Chauffeur product offers full eyes-off and hands-off functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/",
-      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658ae6626a41df918e76df32/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/amp/",
-      "publishedDateTime": "2023-12-26T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

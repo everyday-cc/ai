@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-03-3-under-the-radar-ai-stocks-with-long-term-growth-plans.md",
+      "title": "3 Under-the-Radar AI Stocks With Long-Term Growth Plans",
+      "excerpt": "The slow and heavy vetting IBM's prospective clients apply to the Watson AI systems today will result in lucrative, hard-to-replace, multiyear contracts. \"The early work for clients around data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/03/3-under-the-radar-ai-stocks-with-long-term-growth/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/03/3-under-the-radar-ai-stocks-with-long-term-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/767572/ai-robot-whispers-secrets-to-smiling-human.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-03T07:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-03-driving-with-artificial-intelligence-ai-to-survive.md",
+      "title": "Driving with Artificial Intelligence (AI) to Survive",
+      "excerpt": "AI is set to penetrate into mobility with higher levels of autonomous driving technologies currently under development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/",
+      "originalUrl": "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Wipro-AI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/express-mobility-driving-with-artificial-intelligence-ai-to-survive-3411788/lite/",
+      "publishedDateTime": "2024-03-03T03:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-03-apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles.md",
       "title": "Apple cancels its car, Google’s AI goes awry and Bumble stumbles",
       "excerpt": "Elsewhere, Mistral, the French AI startup, launched a new model to rival OpenAI’s GPT-4 — and its own cheekily named chatbot dubbed Le Chat. The releases were timed with a Microsoft partnership to provide Mistral models to Microsoft’s Azure customers ...",
@@ -1137,112 +1231,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-in-fintech-marketing-let-the-robots-do-what-they-do-best.md",
-      "title": "AI In Fintech Marketing: Let The Robots Do What They Do Best",
-      "excerpt": "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/629e12f58b003428bdbb3b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/",
-      "publishedDateTime": "2024-03-01T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-in-financial-services-transforming-stock-trading.md",
-      "title": "AI In Financial Services: Transforming Stock Trading",
-      "excerpt": "Atal Bansal is the Founder and CEO at Chetu, a global U.S.-based custom software solutions and support services provider ... more than 50 years. The financial world continued to adopt AI technology as advancements in machine learning, deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65562db3daaf3fc3487ed9b7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1354,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
-      "publishedDateTime": "2024-03-01T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

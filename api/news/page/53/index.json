@@ -2,6 +2,93 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
+      "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
+      "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
+      "publishedDateTime": "2024-01-27T09:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required0-0.md",
+      "title": "One of Windows 11 AI features is now available to all users, no special hardware required0 0",
+      "excerpt": "You will soon be able to use one of the Surface-exclusive AI features on any supported Windows 11 computer. Microsoft revealed that Voice Clarity is coming to all Windows 11 PCs with x64 processors, not only ARM64 chips. Voice Clarity is a feature that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "originalUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "publishedDateTime": "2024-01-27T08:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-browser-alternatives-brave-arc-add-new-ai-integrations.md",
       "title": "Browser alternatives Brave, Arc, add new AI integrations",
       "excerpt": "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome",
@@ -1100,110 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-a-tidal-wave-of-financial-empowerment-is-coming.md",
-      "title": "A Tidal Wave Of Financial Empowerment Is Coming",
-      "excerpt": "The recent wave of consumer advocacy tools is an enormous improvement, but it’s about to be weaponized by generative AI in ways that will transform the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2d409068bc05aab460451/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/26/a-tidal-wave-of-financial-empowerment-is-coming/amp/",
-      "publishedDateTime": "2024-01-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood.md",
-      "title": "All Hype? How To Counter Distrust In AI By Looking Under The Hood",
-      "excerpt": "In 2021, Zillow relied on iBuying’s AI algorithms to buy and sell houses. Unfortunately, the algorithm was incorrect for Q3 and Q4, resulting in Zillow overpaying for homes. This overpayment combined with overtly aggressive expansion led to stunning losses of over $550 million. What seemed to be an easy solution ended up being a huge mess.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b286daab54378741749fe0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1394,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/amp/",
-      "publishedDateTime": "2024-01-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

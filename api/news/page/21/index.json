@@ -2,6 +2,109 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2024-02-21-how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.md",
+      "title": "How to stand out from the crowd when everyone uses generative AI",
+      "excerpt": "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T16:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-oppo-reno-11-series-to-get-an-array-of-generative-ai-features-very-soon.md",
+      "title": "OPPO Reno 11 series to get 'an array' of generative AI features very soon",
+      "excerpt": "The phone maker also revealed it would roll out generative AI features in the second quarter of 2024 to the OPPO Reno 11 series. These AI features will come to Reno 11 series owners globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/oppo-reno-11-series-ai-features-3416928/",
+      "originalUrl": "https://www.androidauthority.com/oppo-reno-11-series-ai-features-3416928/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/02/OPPO-LOGO-MWC-2023-01-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024.md",
       "title": "3 Machine Learning Stocks to Turn $1000 Into $1 Million: February 2024",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Our society is always looking towards tomorrow and then the question arises,",
@@ -1083,102 +1186,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-making-cloud-infrastructure-programmable-for-developers.md",
-      "title": "Making cloud infrastructure programmable for developers",
-      "excerpt": "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/developer_programmer-100946133-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html",
-      "publishedDateTime": "2024-02-20T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-three-ways-cloud-can-drive-a-smarter-era-of-education.md",
-      "title": "Three ways cloud can drive a smarter era of education",
-      "excerpt": "New technologies are transforming education by driving a shift towards more accessible, flexible and engaging educational experiences for students and faculty members, while simultaneously delivering an easier-to-manage and more secure IT environment for administrators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/article/three-ways-cloud-can-drive-a-smarter-era-of-education",
-      "originalUrl": "https://www.technologyrecord.com/article/three-ways-cloud-can-drive-a-smarter-era-of-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4852/Education_laptop_Microsoft-1.jpg",
-          "width": 975,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T09:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

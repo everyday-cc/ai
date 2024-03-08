@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-08-bjp-to-use-ai-to-translate-pms-speeches.md",
+      "title": "BJP to use AI to translate PM’s speeches",
+      "excerpt": "BJP is using 'Bhashini', an AI-powered tool, launched under the National Language Translation Mission, to translate PM Narendra Modi's Lok Sabha campaign speeches into regional languages, bridging the language gap and connecting with audiences in southern ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/articleshow/108318912.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/articleshow/108318912.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-108319257,width-1280,height-720,resizemode-72/108319257.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms",
+      "publishedDateTime": "2024-03-08T06:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
       "title": "AI trends in CRM: The future of customer relationships",
       "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
@@ -1458,49 +1501,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-new-mission-to-set-standards-for-use-of-ai.md",
-      "title": "New mission to set standards for use of AI",
-      "excerpt": "Tamil Nadu is establishing an AI mission directly under chief minister M K Stalin to develop guidelines for “constructively leveraging” AI in areas such as education, employment, industry, and medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/articleshow/107836525.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/chennai/new-mission-to-set-standards-for-use-of-ai/amp_articleshow/107836525.cms",
-      "publishedDateTime": "2024-02-20T02:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

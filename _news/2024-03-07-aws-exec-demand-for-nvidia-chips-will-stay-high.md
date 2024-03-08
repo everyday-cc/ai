@@ -34,15 +34,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA CUDA-X Speeds Data Science on HP Workstation Solutions Pandas provides a powerful data structure, called DataFrames, which lets developers easily manipulate, clean and analyze tabular data."
-    publishedDateTime: 2024-03-07T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations-1033143416"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Nvidia wants to democratize AI with new RTX 500, RTX 1000 laptop GPUs — but I cannot help wonder whether Nvidia RTX 4000 GPUs are a better choice"
     excerpt: "Nvidia wants to make AI more accessible to everyone with the launch of its new RTX 500 and RTX 1000 Ada Generation Laptop GPUs. These GPUs, tailored for professionals on the go, will be offered in portable mobile workstations, broadening the Ada Lovelace architecture-based selection."
     publishedDateTime: 2024-03-03T16:19:00Z
@@ -70,6 +61,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96591_62_nvidias-next-gen-b200-ai-gpu-coming-in-2025-uses-up-to-1000w-of-power-confirmed-by-dell_full.jpg"
         width: 1500
         height: 857
+        isCached: true
+  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
+    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
+    publishedDateTime: 2024-03-08T00:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
         isCached: true
   - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
     excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."

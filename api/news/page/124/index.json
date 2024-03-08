@@ -2,6 +2,92 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2023-11-23-best-robot-vacuum-black-friday-deals-2023-bestreviews.md",
+      "title": "Best robot vacuum Black Friday deals 2023 | BestReviews",
+      "excerpt": "Vacuuming is one of those chores that no one really enjoys, so handing off the work to a robot vacuum can make life easier. And Black Friday is the perfect time to invest in one — or upgrade your current model — because you can find deals on many top robot vacuums that won’t break the bank.",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "originalUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/11/turkey5_2023_landingpageheroes_robotvacuum_cybermonday_white-2.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-hyundai-unveils-robot-operated-ev-plant-in-singapore.md",
+      "title": "Hyundai Unveils Robot-Operated EV Plant in Singapore",
+      "excerpt": "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
+      "originalUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35921762",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-leadingage23-how-will-generative-ai-and-robotics-impact-senior-care.md",
       "title": "LeadingAge23: How Will Generative AI and Robotics Impact Senior Care?",
       "excerpt": "Leaders in the aging-services sector discussed the role of generative artificial intelligence and robotics today and for the future.",
@@ -1086,93 +1172,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase.md",
-      "title": "Deep Learning Model Detects a Previously Unknown Quasicrystalline Phase",
-      "excerpt": "Therefore, we came up with the idea of using deep learning to identify new phases,\" explains Dr. Yamada. For developing the said model, the researchers first created a \"binary classifier\" using 80 types of convolutional neural networks. They next trained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294",
-      "originalUrl": "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/381294/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294-640x360.jpg?cb=20231122",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-exploring-ai-artificial-intelligences-development-and-future-potential.md",
-      "title": "Exploring AI: Artificial intelligence’s development and future potential",
-      "excerpt": "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
-      "originalUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/",
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

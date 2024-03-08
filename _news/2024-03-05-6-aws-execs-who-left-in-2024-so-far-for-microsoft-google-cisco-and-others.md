@@ -1,29 +1,23 @@
 ---
 category: news
-title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
-excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
-publishedDateTime: 2024-03-05T03:55:00Z
-originalUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
-webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
+title: "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others"
+excerpt: "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ..."
+publishedDateTime: 2024-03-04T16:49:00Z
+originalUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
+webUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: CRN Australia
-  domain: crn.com.au
+  name: CRN
+  domain: crn.com
 
 topics:
   - AWS AI
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://i.nextmedia.com.au/News/media_1cc1c11e9039504f571f1c21793c05f1627244c87.png"
-    width: 611
-    height: 458
-    isCached: true
 
 related:
   - title: "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo"
@@ -59,6 +53,6 @@ related:
       domain: siliconangle.com
     quality: 25
 
-secured: "5SkNM08TeRpIpmXTdzPx7IHMTqGfwQKuqU/eV3HuFprixHocjpgESqm9gwL8uA28bboKtcZD4kr68bVpohM5P7wYqiQl80lNU/3cUCE81U5q4jQmcwoqa8utDIvC6YKGcpOvHYFGanTqdmzPw31xqYfWptCV2N1GbB8Z9cACuKY//qsfOdZevKbLGE36e2YpfwRGtCPP0OtcABnqRE2HUXO6qc/Od+BpY9iGUmBpYUdHzvFL3zq/z3lLNnjFpYmpVj0e+T4dzSa+wSqRI3HY9Z8H68R7Rl8fvx/0JJ5NLXiU+poixUs95vm9LiRR5UiLP0qy9tKhxm31zKEmbhsexUjuM52Qq7zj78hAHgzVZtU=;Ou4SO3hWyd03MRmlk+RwRA=="
+secured: "nDQLcP7Q65MZ298GzMoOJ8GDCujChElQuHxoF/mgi78iTTipoU7NYIuQIN19oqYuVfoONoTO3JUOHtW4At+qWFbtWryFwGlwsK6AbM+aebp0n1MSa6J+n/KKd/jQqLGZxGiz1Tm0MepTfEa3X1Zc/XiYt2gB3a9uDuowhMjX9KESIJqNCyZqMyVX3mogN3LKgOhclKoaQsP8KOCBVh45smwAvt6qqh4dQFvWSk30uELz8ZPRxj3kOwxawCEHnLj4a0HvFiHBpsxuq0lj64/T+jFmufcZEhJnXyBPGwy6Ocrw2Rno0ZQuiH21XODBiibhp3VNtB1Luuhw/loCIpYsgfraPC6InXPJmwVAjHmr3WJ2d8VJjguBrLqcxTWazscIvadYElDDCxogr6FU2+Au61EQP782vugaugWs00fFsIBimSkn2Irh3pZj+93Qwcln8/mLbmjvF46ow6Z1MkEBIhSbrw5jiwGLYHpE/BF6afy47ITn7KEyr3C2ISybHPrMQXopgySdmDD0ubmaTdJKzQ==;HE8Xdb7aWTVcjqKhIyVexw=="
 ---
 

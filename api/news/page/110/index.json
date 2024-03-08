@@ -2,6 +2,83 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-12-04-capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams.md",
+      "title": "Capitalizing on machine learning with collaborative, structured enterprise tooling teams",
+      "excerpt": "Machine learning advances require an evolution of processes, tooling, and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
+      "originalUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/cap_one_abstract_ML.png",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/04/1083950/capitalizing-on-machine-learning-with-collaborative-structured-enterprise-tooling-teams/amp/",
+      "publishedDateTime": "2023-12-04T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-can-you-text-while-your-self-driving-car-is-doing-the-driving-what-florida-law-says.md",
+      "title": "Can you text while your self-driving car is doing the driving? What Florida law says",
+      "excerpt": "You can text away while leaving the driving to your Tesla or other self-driving car. Florida law says that a driver whose car has an “automated driving system engaged” won’t be punished for using the phone behind the wheel ( (in other words, if the car is driving and not you).",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
+      "originalUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/traffic/article282641868.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/traffic/article282641868.html",
+      "publishedDateTime": "2023-12-04T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
       "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
       "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
@@ -952,92 +1029,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-nine-things-to-know-about-artificial-intelligence.md",
-      "title": "Nine Things to Know About Artificial Intelligence",
-      "excerpt": "The term “artificial intelligence” or AI was originally coined at Dartmouth College in 1956 and was used to describe a broad framework of computer engineering that pulled information from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.teenvogue.com/story/artificial-intelligence-facts-microsoft",
-      "originalUrl": "https://www.teenvogue.com/story/artificial-intelligence-facts-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.teenvogue.com/photos/65689fd9dadaefcaf880d413/16:9/w_1280,c_limit/GettyImages-1803578848.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Teen Vogue",
-        "domain": "teenvogue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.md",
-      "title": "Researchers evaluate performance of a large language model in phenotyping postpartum hemorrhage patients",
-      "excerpt": "However, structured data often fails to capture the clinical narrative from EHR notes. Natural language processing (NLP) models have been increasingly used for multimodal phenotyping through automated extraction from unstructured notes. Most NLP approaches ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20231204/Researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20231204/Researchers-evaluate-performance-of-a-large-language-model-in-phenotyping-postpartum-hemorrhage-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766160_17017150645166130.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

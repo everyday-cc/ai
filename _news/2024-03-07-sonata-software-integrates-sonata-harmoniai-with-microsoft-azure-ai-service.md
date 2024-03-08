@@ -74,6 +74,17 @@ related:
         width: 3603
         height: 2402
         isCached: true
+  - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
+    excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
+    publishedDateTime: 2024-03-08T06:14:00Z
+    webUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 69
   - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
     excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
     publishedDateTime: 2024-03-07T14:43:00Z

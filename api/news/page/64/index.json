@@ -2,6 +2,100 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2024-01-19-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody.md",
+      "title": "AI start-up CEO accused of killing minor son sent to 13-day judicial custody",
+      "excerpt": "The childrens court in Goa on Friday remanded Suchana Seth, the chief executive officer of an Artificial Intelligence start-up who is accused of killing her four-year-old son, in judicial custody for 13 days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody",
+      "originalUrl": "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_01_2024_17_57_23_9077063.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody?amp",
+      "publishedDateTime": "2024-01-19T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-using-ai-to-help-create-a-fintech-game-changer.md",
+      "title": "Using AI To Help Create A Fintech Game-Changer",
+      "excerpt": "In today’s fast-paced economy, fintech companies are increasingly turning to AI to gain a competitive edge. From early-stage startups to late-stage enterprises, AI has emerged with multifaceted applications and disruptive technology to revolutionize the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442fb6e1e6588f81da821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
+      "publishedDateTime": "2024-01-19T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-wall-street-analysts-top-picks-2-artificial-intelligence-ai-growth-stocks-to-buy-in-2024-and-hold-long-term.md",
       "title": "Wall Street Analysts' Top Picks: 2 Artificial Intelligence (AI) Growth Stocks to Buy in 2024 and Hold Long Term",
       "excerpt": "Ives recently ranked CrowdStrike ( CRWD 2.48%) and Palo Alto Networks ( PANW 1.73%) among his top picks for the year. Similarly, Fodderwala ranked both companies among the software vendors best positioned to benefit from generative AI. Those bullish sentiments warrant a closer look.",
@@ -1114,101 +1208,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-if-not-ai-then-what-exploring-investor-interests-in-2024.md",
-      "title": "If Not AI, Then What? Exploring Investor Interests In 2024",
-      "excerpt": "As 2024 approaches, the spotlight is on AI development and the growth of sectors like agtech, proptech, and healthtech. While it may not be the peak year for fundraising, the emphasis is shifting towards quality over quantity, signaling a significant reset in the venture capital landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a974ad913d58e48af2a75f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "publishedDateTime": "2024-01-18T18:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit.md",
-      "title": "Robotics council director highlights AI’s transformative potential at Global Artificial Intelligence Summit",
-      "excerpt": "In a dynamic showcase of the pivotal role played by artificial intelligence (AI) in technological innovation, Rajkumar Sharma, Director of the All India Council for Robotics and Automation (AICRA), emphasised the profound impact of AI on different sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
-      "originalUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2024/01/ANI-20240118174315.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
-      "publishedDateTime": "2024-01-18T18:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
