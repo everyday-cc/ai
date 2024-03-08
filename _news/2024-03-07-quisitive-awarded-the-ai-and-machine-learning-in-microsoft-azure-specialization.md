@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-07T08:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
 webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
 type: article
-quality: 92
+quality: 94
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
 
 related:
   - title: "Microsoft’s new Orca-Math AI outperforms models 10x larger"

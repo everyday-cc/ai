@@ -2,6 +2,144 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-02-02-a-sleeker-facial-recognition-technology-tested-on-michelangelos-david.md",
+      "title": "A sleeker facial recognition technology tested on Michelangelo’s David",
+      "excerpt": "New facial recognition technology replaces lenses with a metallic surface for simple, compact and cost-effective identification systems. During a demonstration, the technology correctly identified Michelangelo’s David,",
+      "sourceUrl": null,
+      "webUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
+      "originalUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david/_jcr_content/image.scale.small.jpg/1706895432431.jpg",
+          "width": 600,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&EN",
+        "domain": "acs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-ai-therapy-and-icu-training-a-first-look-at-health-apps-for-apple-vision-pro.md",
+      "title": "AI therapy and ICU training: A first look at health apps for Apple Vision Pro",
+      "excerpt": "The company connected STAT with researchers from Cedars-Sinai and Boston Children’s Hospital who have developed applications that transform the headset into an AI powered chatbot that offers otherworldly therapy sessions or a virtual guide that can train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
+      "originalUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2024/02/xaia-meditating-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth.md",
+      "title": "AWS sees another record year for Amazon as AI push drives cloud growth",
+      "excerpt": "The division’s growth matched what analysts had expected, and is largely attributable to the increasing interest in artificial intelligence. Revenue driven by AWS was slightly under that of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
+      "originalUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qc7sXoqRTmM6d94LT6WPhm-1200-80.jpg",
+          "width": 971,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-heres-everything-you-need-to-know-about-machine-learning.md",
       "title": "Here’s Everything You Need To Know About Machine Learning",
       "excerpt": "In simple terms, machine learning (ML) is a subset of artificial intelligence (AI) that allows computers to learn without being explicitly programmed. Instead of following a set of rules ...",
@@ -1059,162 +1197,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development.md",
-      "title": "First ‘truly’ open source LLM from AI2 to drive ‘critical shift’ in AI development",
-      "excerpt": "The non-profit Allen Institute for AI (AI2) announced today that it has introduced OLMo, which it calls the first 'truly' open source LLM.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
-      "originalUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T100255.565.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-google-bards-latest-update-turns-your-words-into-ai-images.md",
-      "title": "Google Bard's latest update turns your words into AI images",
-      "excerpt": "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-google-launches-an-ai-powered-image-generator.md",
-      "title": "Google launches an AI-powered image generator",
-      "excerpt": "Google has launched a new image generation tool, ImageFX, powered by its recently released Imagen 2 GenAI model.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
-      "originalUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
-      "publishedDateTime": "2024-02-01T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

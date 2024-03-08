@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-02-facial-recognition-tech-is-probably-coming-to-a-lot-more-vending-machines.md",
+      "title": "Facial recognition tech is probably coming to a lot more vending machines",
+      "excerpt": "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
+      "originalUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
+      "publishedDateTime": "2024-03-02T12:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-dysolve-using-ai-to-beat-dyslexia-through-generative-games.md",
       "title": "Dysolve: Using AI To Beat Dyslexia Through Generative Games",
       "excerpt": "Dysolve is the first AI computer program for dyslexia that does not use preset testing kits but instead uses AI to diagnore and treat using dynamically generated games.",
@@ -103,6 +155,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-waymo-is-cleared-to-launch-robotaxi-service-in-los-angeles-sparking-new-protests.md",
+      "title": "Waymo is cleared to launch robotaxi service in Los Angeles, sparking new protests",
+      "excerpt": "California regulators have given the green light for Waymo to expand into Los Angeles County, clearing the way for the driverless taxi service to launch into a new massive market in the coming months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/california/story/2024-03-01/waymo-cleared-to-launch-robotaxi-service-in-los-angeles",
+      "originalUrl": "https://www.latimes.com/california/story/2024-03-01/waymo-cleared-to-launch-robotaxi-service-in-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/8ac2384/2147483647/strip/true/crop/5162x2710+0+365/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F3e%2F9a66faa84501b38eb4c42f98a564%2Fphoenix-airport-waymo-39647.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-02T06:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -499,6 +594,40 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula.md",
+      "title": "California authorizes expansion of Waymo’s driverless car services to LA, SF peninsula",
+      "excerpt": "SAN FRANCISCO (AP) — California regulators on Friday authorized Waymo to expand services of its fleet of robotaxis into Los Angeles and to cities on the peninsula south of San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
+      "originalUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T18:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1113,162 +1242,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-russian-kamikaze-drone-now-seems-to-identify-its-own-targets.md",
-      "title": "Russian Kamikaze Drone Now Seems To Identify Its Own Targets",
-      "excerpt": "New video seems to show a version of the Lancet used by Russian Special Forces with automated object recognition identifying tanks, self-propelled guns and other targets",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e199afe7cc0647aba49a17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 829,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
-      "publishedDateTime": "2024-03-01T09:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-apple-may-soon-be-feeling-the-heat-from-investors-over-its-slow-rollout-of-buzzy-ai-products.md",
-      "title": "Apple may soon be feeling the heat from investors over its slow rollout of buzzy AI products",
-      "excerpt": "Tim Cook attempted to reassure shareholders that the company is committed to AI innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
-      "originalUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e07870ce7f1785b2e4d75d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
-      "publishedDateTime": "2024-03-01T08:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
-      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
-      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "publishedDateTime": "2024-03-01T07:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
       ]
     }
   ],

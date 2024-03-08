@@ -6,9 +6,9 @@ publishedDateTime: 2024-03-07T16:00:00Z
 originalUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/"
 webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/"
 type: article
-quality: 19
-heat: 19
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Microsoft
@@ -22,6 +22,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "4Dz8uu6hRPtZ68rZRgLfoQEfRXtC0l5qDD3qRjc34VPhrExNRQ95ZyHLBcY2h3eNeO5wBLbwL7ojVui1JzzEcaMCLIwnh4cqJscxZA+roys44pNDy8w7OtfVKvGD7OEBMfwxPlDDmcqa0RUClk9eiuH/HleuNChFGNSEhI2k/kMzZocobJq/PkL2G8du0TJqK+O8wFPq24T28/Og6Oe/+UtdRvtjekpxNn6rgFEvXrUMgC3+TjK4mBmdlEm5muaYCJxCqkF6hK7wZ6tUKfLVudozgpq7ozO8Ty7cyu2PQeNGVNUYzXelKUkDtYZOarlLrJW9uvu8kbYCtsysZFbNKibKVCtsiBsgi6nJbtw+DAg=;E+wz/8Blq0yAQX6DDJfv0Q=="
+images:
+  - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/03/MSFT_Cloud_MAR04_111117_Blog_Blogheader_240303_V01.png"
+    width: 1260
+    height: 708
+    isCached: true
+
+secured: "YZsZ0LnkoPXR24fo/mgS3Sx9LO+bV+dHDJucvNweOB7rpfiI9rPxCyqPB6kwSSgECmBpwQNEsteGGtmugWBYLwrqmUlO0n3umVB3eJ/szZQRvhpLjZZbrzdyTxFXv91ik0LYZ36QAyy8gUEDPkXt0UK33tSal4/1xA6p6P3UpjBqFApNHa8IRyxefxIkCoAzIehvuL/CgiTWx2p8aUY/quy93xrkTHZw3lLkEz+jHg3CNee61+QtNB6nC4C6qOROWAxdS7n4qp4e3PnjKGqmvAqZpnYyN6d8UdRjkIKanHFhm9XvEVkMz/W6ONhEZyC1Zwj7eBde1ZeMUZWhsdqkf1+AJdHi8ek/mO6FNlXnvcWQfoceLYxQJQiQuQ25eHS5;YwBQaxkcADWTduSowoNmYA=="
 ---
 

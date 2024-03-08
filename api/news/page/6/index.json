@@ -2,6 +2,162 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-01-russian-kamikaze-drone-now-seems-to-identify-its-own-targets.md",
+      "title": "Russian Kamikaze Drone Now Seems To Identify Its Own Targets",
+      "excerpt": "New video seems to show a version of the Lancet used by Russian Special Forces with automated object recognition identifying tanks, self-propelled guns and other targets",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e199afe7cc0647aba49a17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 829,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
+      "publishedDateTime": "2024-03-01T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-apple-may-soon-be-feeling-the-heat-from-investors-over-its-slow-rollout-of-buzzy-ai-products.md",
+      "title": "Apple may soon be feeling the heat from investors over its slow rollout of buzzy AI products",
+      "excerpt": "Tim Cook attempted to reassure shareholders that the company is committed to AI innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "originalUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e07870ce7f1785b2e4d75d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "publishedDateTime": "2024-03-01T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
+      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
+      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "publishedDateTime": "2024-03-01T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-openai-collaborates-with-robotics-firm-figure-ai-to-share-next-gen-ai-models-for-humanoids.md",
       "title": "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids",
       "excerpt": "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software.",
@@ -1069,161 +1225,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton.md",
-      "title": "Accelerating large-scale neural network training on CPUs with ThirdAI and AWS Graviton",
-      "excerpt": "This guest post is written by Vihan Lakshman, Tharun Medini, and Anshumali Shrivastava from ThirdAI. Large-scale deep learning has recently produced revolutionary advances in a vast array of fields. Although this stunning progress in artificial intelligence remains remarkable, the financial costs and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/accelerating-large-scale-neural-network-training-1118x630.jpg",
-          "width": 1118,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T16:09:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-identifies-new-type-of-prostate-cancer.md",
-      "title": "AI identifies New Type Of Prostate Cancer",
-      "excerpt": "There are two distinct types of prostate cancer, which may open the door to more personalized therapies, according to a new AI-driven study published today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
-      "originalUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaa1c4adb4c8f69357735/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
-      "publishedDateTime": "2024-02-29T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement.md",
-      "title": "Groundbreaking Chinese Ruling Finds AI Company Committed Copyright Infringement",
-      "excerpt": "Chinese media reported the Guangzhou Internet Court ruled an AI company committed copyright infringement in its provision of AI-generated text-to-image",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0b061adf152ee77fb0400/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1404,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
-      "publishedDateTime": "2024-02-29T15:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

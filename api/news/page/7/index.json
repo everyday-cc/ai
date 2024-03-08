@@ -2,6 +2,161 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-29-accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton.md",
+      "title": "Accelerating large-scale neural network training on CPUs with ThirdAI and AWS Graviton",
+      "excerpt": "This guest post is written by Vihan Lakshman, Tharun Medini, and Anshumali Shrivastava from ThirdAI. Large-scale deep learning has recently produced revolutionary advances in a vast array of fields. Although this stunning progress in artificial intelligence remains remarkable, the financial costs and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/accelerating-large-scale-neural-network-training-1118x630.jpg",
+          "width": 1118,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T16:09:08Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-ai-identifies-new-type-of-prostate-cancer.md",
+      "title": "AI identifies New Type Of Prostate Cancer",
+      "excerpt": "There are two distinct types of prostate cancer, which may open the door to more personalized therapies, according to a new AI-driven study published today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaa1c4adb4c8f69357735/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2024/02/29/ai-identifies-new-type-of-prostate-cancer/amp/",
+      "publishedDateTime": "2024-02-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement.md",
+      "title": "Groundbreaking Chinese Ruling Finds AI Company Committed Copyright Infringement",
+      "excerpt": "Chinese media reported the Guangzhou Internet Court ruled an AI company committed copyright infringement in its provision of AI-generated text-to-image",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0b061adf152ee77fb0400/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1404,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
+      "publishedDateTime": "2024-02-29T15:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-xpeng-continues-to-challenge-tesla-fsd-with-xngp-self-driving-now-available-throughout-china.md",
       "title": "XPeng continues to challenge Tesla FSD with XNGP self-driving, now available throughout China",
       "excerpt": "XPeng Motors announced a massive milestone for its XPeng navigation guided pilot (XNGP) ADAS feature that enables self-driving in",
@@ -970,150 +1125,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-how-well-be-interacting-with-ai-as-it-takes-on-more-work.md",
-      "title": "How We’ll Be Interacting With AI As It Takes On More Work",
-      "excerpt": "This means “that applications will start or are already using AI technology to augment or totally replace knowledgebases,” he says. “Even though AI has been around for a long time, this is different, and although the technology and access to it is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e00323625ed7dc9314aa48/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/amp/",
-      "publishedDateTime": "2024-02-29T04:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-what-should-we-expect-from-ai-in-2024.md",
-      "title": "What Should We Expect From AI In 2024?",
-      "excerpt": "We are already two months into 2024, and the AI revolution roars on unabated. What should we expect from AI in 2024?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0028da2001bd2d124c603/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1190,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
-      "publishedDateTime": "2024-02-29T04:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-start-up-street-can-india-be-at-the-forefront-of-ai-technology.md",
-      "title": "Start-up Street: Can India be at the forefront of AI technology?",
-      "excerpt": "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
-      "publishedDateTime": "2024-02-29T04:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

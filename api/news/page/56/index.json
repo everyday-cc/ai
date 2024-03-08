@@ -2,6 +2,134 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2024-01-25-amd-launches-radeon-rx-7600-xt-gpu-with-fluid-motion-frames-technology.md",
+      "title": "AMD launches Radeon RX 7600 XT GPU with Fluid Motion Frames Technology",
+      "excerpt": "AMD compares the performance of the Radeon RX 7600 XT GPU with the NVIDIA GeForce RTX 2060 and claims to offer 1.9x faster gaming and raytracing performance. The graphics card does support all the latest Radeon software technologies such as AMD Fluid Motion Frames (AFMF), which generates additional frames to make the game look smoother.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
+      "originalUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2024/01/amd-radeon-rx-7600-xt.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
+      "publishedDateTime": "2024-01-25T06:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse.md",
+      "title": "Will Generative AI Help Us Solve The Climate Crisis (Or Will It Make It Worse)?",
+      "excerpt": "You might be surprised to learn that AI is already proving to be a powerful weapon in the fight against climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2091ee442f865f2c67c7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "publishedDateTime": "2024-01-25T06:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights.md",
+      "title": "IBM Jazzes Up GRAMMYs - Watsonx Unleashes AI Magic for Nominee Highlights",
+      "excerpt": "IBM unveils generative AI solution co-created alongside Recording Academy to generate editorial content around GRAMMY nominees. Fans will be able to engage with the AI-generated content during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/24/01/36775486/ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights",
+      "originalUrl": "https://www.benzinga.com/news/earnings/24/01/36775486/ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033.md",
       "title": "Artificial Intelligence in Telecommunication Market Demonstrates Robust Growth, Forecasted to Reach US$ 14,496 Million by 2033",
       "excerpt": "The global artificial intelligence in telecommunications market is anticipated to be valued at US$ 918.6 million in 2022 and US$ 10,399.9 million by 2032, with a CAGR of 27.5% from 2022 to 2032. The acceptance of artificial intelligence in telecommunications is growing as telecom organisations use AI in various aspects of their operations,",
@@ -1023,152 +1151,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-will-our-educational-system-keep-pace-with-ai-a-students-perspective-on-ai-and-learning.md",
-      "title": "Will Our Educational System Keep Pace with AI? A Student's Perspective on AI and Learning",
-      "excerpt": "Reflecting on AI and learning, a student offers four insights gleaned from firsthand interactions with ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://er.educause.edu/articles/2024/1/will-our-educational-system-keep-pace-with-ai-a-students-perspective-on-ai-and-learning",
-      "originalUrl": "https://er.educause.edu/articles/2024/1/will-our-educational-system-keep-pace-with-ai-a-students-perspective-on-ai-and-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://er.educause.edu/-/media/images/articles/2024/01/er24_010_relatedimage_1600x650.jpg",
-          "width": 1600,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "er.educause.edu",
-        "domain": "educause.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters.md",
-      "title": "Anomalo’s machine learning approach to data quality is growing like gangbusters",
-      "excerpt": "When Anomalo’s co-founders left Instacart in 2018, they thought they could put machine learning to work to solve data quality problems inherent in large data sets. Five years later, the company’s idea is even more relevant as data quality takes center ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/",
-      "originalUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1939454430.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/amp/",
-      "publishedDateTime": "2024-01-24T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-openai-nvidia-nsf-nasa-and-more-partner-on-federal-program-to-increase-access-to-ai-resources.md",
-      "title": "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources",
-      "excerpt": "The National Science Foundation on Wednesday launched a sprawling new AI infrastructure program aimed at increasing the access of computing resources to more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/",
-      "originalUrl": "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b0785665f27caee4881109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

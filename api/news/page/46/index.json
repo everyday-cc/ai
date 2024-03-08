@@ -2,6 +2,162 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2024-02-01-first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development.md",
+      "title": "First ‘truly’ open source LLM from AI2 to drive ‘critical shift’ in AI development",
+      "excerpt": "The non-profit Allen Institute for AI (AI2) announced today that it has introduced OLMo, which it calls the first 'truly' open source LLM.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
+      "originalUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T100255.565.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-google-bards-latest-update-turns-your-words-into-ai-images.md",
+      "title": "Google Bard's latest update turns your words into AI images",
+      "excerpt": "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
+      "originalUrl": "https://www.androidauthority.com/google-bard-update-image-generation-3409958/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-google-launches-an-ai-powered-image-generator.md",
+      "title": "Google launches an AI-powered image generator",
+      "excerpt": "Google has launched a new image generation tool, ImageFX, powered by its recently released Imagen 2 GenAI model.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
+      "originalUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
+      "publishedDateTime": "2024-02-01T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-new-and-better-ways-to-create-images-with-imagen-2.md",
       "title": "New and better ways to create images with Imagen 2",
       "excerpt": "We’re rolling out Imagen 2, a major update to our image generation technology. Try it out today in Bard, Image FX, Search and Vertex AI.",
@@ -1025,136 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales.md",
-      "title": "Tesla upgrades Model Y self-driving hardware to lift China sales",
-      "excerpt": "The Model Y will now carry Tesla’s HW 4.0 autonomous driving function hardware, such as upgraded cameras and on-board computer, at no added cost, Tesla said on its official WeChat account Thursday. The SUV,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm",
-      "originalUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2022/05/tesla.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp",
-      "publishedDateTime": "2024-02-01T03:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-artificial-intelligence-ai-i-yai-yai-where-do-i-do-start.md",
-      "title": "Artificial Intelligence: AI, I Yai Yai – Where Do I Do Start?",
-      "excerpt": "Do not worry, you are not the only one not fully understanding the depth and scope of \"AI\" or what it does for that matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
-      "originalUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb11d2d3622599e4139bbf/0x0.jpg?format=jpg&crop=750,422,x0,y13,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-deep-learning-for-natural-language-processing.md",
-      "title": "Deep Learning for Natural Language Processing",
-      "excerpt": "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA",
-      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

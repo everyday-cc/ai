@@ -2,6 +2,133 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-12-21-ai-and-the-entrepreneurial-spirit-perfect-together.md",
+      "title": "AI And The Entrepreneurial Spirit: Perfect Together",
+      "excerpt": "Venture capitalists and business leaders are finding AI is opening up opportunities for innovation beyond what anyone could imagine even just a couple of years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651758e6ae1c40714bd13536/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1339,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/amp/",
+      "publishedDateTime": "2023-12-21T04:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-large-ai-dataset-has-over-1000-child-abuse-images.md",
+      "title": "Large AI dataset has over 1,000 child abuse images",
+      "excerpt": "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/",
+      "originalUrl": "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pasadenastarnews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/",
+      "cdnAmpWebUrl": "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/",
+      "publishedDateTime": "2023-12-21T00:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pasadena Star-News",
+        "domain": "pasadenastarnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-apples-ai-research-signals-ambition-to-catch-up-with-big-tech-rivals.md",
+      "title": "Apple’s AI research signals ambition to catch up with Big Tech rivals",
+      "excerpt": "While Microsoft and Google have largely focused on delivering chatbots and other generative AI services over the internet from their vast cloud computing platforms, Apple’s research suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027",
+      "originalUrl": "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-nasarawa-varsity-gets-approval-to-establish-robotics-ai-laboratory.md",
       "title": "Nasarawa varsity gets approval to establish robotics, AI laboratory",
       "excerpt": "The Phoenix University, Agwada, in the Kokona Local Government Area of Nasarawa State, said it has established a Robotics and Artificial Intelligence laboratory for its intending students in line ...",
@@ -1016,134 +1143,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-12-20T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-getting-the-most-out-of-ibm-cloud-vpc-images.md",
-      "title": "Getting the most out of IBM Cloud VPC images",
-      "excerpt": "Images are used to create instances on IBM Cloud VPC. Depending on your needs, you can select a stock image, custom image or catalog image.\nThe post Getting the most out of IBM Cloud VPC images appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
-      "originalUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T17:10:31Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-in-2024.md",
-      "title": "AI trends: What experts, execs think artificial intelligence will look like in 2024",
-      "excerpt": "Though artificial intelligence has been around for decades, the introduction of ChatGPT — a consumer-facing AI chatbot — in late 2022 brought the technology to the forefront throughout 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
-      "originalUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-2023-at-google.md",
-      "title": "2023 at Google",
-      "excerpt": "Explore our collection looking back on some of our biggest moments and milestones from 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/google-2023-recaps-highlights/",
-      "originalUrl": "https://blog.google/inside-google/google-2023-recaps-highlights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Hero-GIF.gif",
-          "width": 2096,
-          "height": 874,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T17:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

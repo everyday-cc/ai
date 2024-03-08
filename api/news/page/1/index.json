@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -155,7 +155,7 @@
       "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -190,6 +190,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-08-paralympian-lex-gillettes-top-7-ai-tools-for-accessibility.md",
+      "title": "Paralympian Lex Gillette’s top 7 AI tools for accessibility",
+      "excerpt": "Lex Gillette discusses the potential of technology in the lives of individuals with visual impairments with 7 Microsoft AI tools for accessibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
+      "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/03/MSFT_Cloud_MAR04_111117_Blog_Blogheader_240303_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
       "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
       "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
@@ -198,7 +250,7 @@
       "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1080,7 +1132,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1171,57 +1223,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research.md",
-      "title": "Producing more but understanding less: The risks of AI for scientific research",
-      "excerpt": "Enlarge / Current concerns about AI tend to focus on its obvious errors. But psychologist Molly Crockett and anthropologist Lisa Messeri argue that AI also poses potential long-term epistemic risks to the practice of science.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
-      "originalUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-brain-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T18:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

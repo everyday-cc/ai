@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/what-s-
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

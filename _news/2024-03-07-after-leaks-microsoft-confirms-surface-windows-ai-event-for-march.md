@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
+    excerpt: "TORONTO, March 07, 2024 (GLOBE NEWSWIRE) -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in ..."
+    publishedDateTime: 2024-03-07T08:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
   - title: "Microsoft engineer warns company's AI tool creates violent, sexual images, ignores copyrights"
     excerpt: "Shane Jones, who's worked at Microsoft for six years, has found a plethora of disturbing images that are being created by the company's Copilot Designer tool."
     publishedDateTime: 2024-03-06T20:18:00Z
@@ -68,15 +77,6 @@ related:
         width: 3603
         height: 2402
         isCached: true
-  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-    excerpt: "TORONTO, March 07, 2024 (GLOBE NEWSWIRE) -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in ..."
-    publishedDateTime: 2024-03-07T08:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
   - title: "Sonata Software integrates Sonata Harmoni.AI with Microsoft Azure AI service"
     excerpt: "Sonata Software in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni.AI with Microsoft Azure AI service. This integration complements Sonata's collaboration with Microsoft Fabric and its position as a Microsoft AI Partner Council member."
     publishedDateTime: 2024-03-07T11:00:00Z

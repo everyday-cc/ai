@@ -2,6 +2,154 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-23-ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024.md",
+      "title": "AI chip race: Groq CEO takes on Nvidia, claims most startups will use speedy LPUs by end of 2024",
+      "excerpt": "But don’t sleep on Groq, the Silicon Valley-based company creating new AI chips for large language model (LLM) inference (making decisions or predictions on existing models, as opposed to training). Last weekend, Groq suddenly enjoyed a viral moment most ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
+      "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-23-12.49.17-A-dynamic-and-dramatic-representation-of-AI-chips-racing-at-lightning-fast-speed-leaving-competitors-in-the-dust.-The-scene-is-set-on-a-futuristic-ra.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T10:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-when-cloud-ai-lands-you-in-court.md",
+      "title": "When cloud AI lands you in court",
+      "excerpt": "Also, is there an AI ethics specialist on the team to ask the right questions at the right time and oversee the testing for bias and other issues that could get you dragged into court? Are only genAI systems subject to legal scrutiny? No, not really.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.html",
+      "originalUrl": "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/19/11/gavel_by_thinkstock-506505112_abstract_binary_lines_fractals_by_gerd_altmann_cc0_via_pixabay_2400x1600-100815735-large-100916696-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713221/when-cloud-ai-lands-you-in-court.amp.html",
+      "publishedDateTime": "2024-02-23T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter.md",
+      "title": "Creator of fake Biden robocall demonstrates using AI to impersonate NBC reporter",
+      "excerpt": "Before the New Hampshire primary, Paul Carpenter says he was paid to create a robocall impersonating President Biden urging listeners not to vote. He demonstrated how he uses artificial intelligence to impersonate the voice of NBC News' Alex Seitz-Wald.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516",
+      "originalUrl": "https://www.nbcnews.com/video/creator-of-fake-biden-robocall-demonstrates-using-ai-to-impersonate-nbc-reporter-204727877516",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/robocall_nbc-3jlgmf.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo204727877516",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204727877516",
+      "publishedDateTime": "2024-02-23T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-bengaluru-to-debut-driverless-trains-all-you-need-to-know.md",
       "title": "Bengaluru to debut driverless trains: All you need to know",
       "excerpt": "Driverless trains are being introduced as part of the ... In case of any issues, it will generate alerts using Artificial Intelligence (AI) software. This system is equipped with a camera-based setup where track images are sent to the server.",
@@ -1046,162 +1194,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-openais-sora-has-left-ai-experts-either-enthused-or-skeptical-its-left-most-everyone-else-terrified.md",
-      "title": "OpenAI’s Sora has left AI experts either enthused or skeptical. It’s left most everyone else terrified",
-      "excerpt": "including access to the highly coveted Nvidia H100s and over 15 different Nvidia GPU SKUs all together, allowing customers to deploy AI without massive infrastructure investments. Yesterday, it announced a new AI chatbot it says will make this process even ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
-      "originalUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-2013766961-e1708621527967.jpg?w=840",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
-      "publishedDateTime": "2024-02-22T17:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-tech-war-nvidia-sampling-alternative-ai-chips-to-china-as-us-restrictions-take-a-toll-there.md",
-      "title": "Tech war: Nvidia sampling alternative AI chips to China as US restrictions take a toll there",
-      "excerpt": "US chip giant Nvidia said it has started shipping alternative samples of permissible AI chips to Chinese customers, as Washington’s restrictions on sales of advanced chips to the mainland begin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/22/7a38710c-1876-407d-b5b4-b87cff7934bd_0f7c428a.jpg?itok=bNInIN78",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
-      "publishedDateTime": "2024-02-22T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini.md",
-      "title": "Chrome gets a built-in AI writing tool powered by Gemini",
-      "excerpt": "Google Chrome is getting a new AI writing generator today. At its core, this Gemin-powered tool is essentially the existing \"Help me write\" feature from",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-981522310.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/amp/",
-      "publishedDateTime": "2024-02-22T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

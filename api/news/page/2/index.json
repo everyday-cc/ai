@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-07-producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research.md",
+      "title": "Producing more but understanding less: The risks of AI for scientific research",
+      "excerpt": "Enlarge / Current concerns about AI tend to focus on its obvious errors. But psychologist Molly Crockett and anthropologist Lisa Messeri argue that AI also poses potential long-term epistemic risks to the practice of science.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
+      "originalUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-brain-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T18:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing.md",
       "title": "US officials face tough choices for subsidising AI chip manufacturing",
       "excerpt": "Betting on AI chips is also challenging in the rapidly evolving industry. Handing out subsidies today to the likes of Intel, TSMC, or Samsung Electronics, which is also vying for federal dollars and is the only other firm in the world that can make advanced chips,",
@@ -1184,58 +1235,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-focused-blockchain-startup-io-research-raises-30-mln-in-series-a-funding-round.md",
-      "title": "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round",
-      "excerpt": "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
-      "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg",
-          "width": 6285,
-          "height": 4190,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

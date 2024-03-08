@@ -67,7 +67,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 94
   - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
     excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
     publishedDateTime: 2024-03-07T14:43:00Z

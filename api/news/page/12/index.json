@@ -2,6 +2,108 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-26-powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students.md",
+      "title": "PowerSchool PowerBuddy Providing AI PowerUps To Schools And Students",
+      "excerpt": "Harnessing years of data and with a clear conception of what students and teacher need, PowerSchool has introduced a suite of AI tools to enhance its product suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d9322c1aa6b470e2297cd7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-whats-stopping-cybersecurity-from-being-ai-driven.md",
+      "title": "What's Stopping Cybersecurity From Being AI-Driven?",
+      "excerpt": "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-nvidia-briefly-hits-2trn-valuation-as-demand-for-ai-chips-soars.md",
       "title": "Nvidia briefly hits $2trn valuation as demand for AI chips soars",
       "excerpt": "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ...",
@@ -787,6 +889,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-26-nwogu-weighs-in-on-bias-in-facial-recognition-software.md",
+      "title": "Nwogu weighs in on bias in facial recognition software",
+      "excerpt": "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "originalUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
       "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
       "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
@@ -1009,162 +1145,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing.md",
-      "title": "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing",
-      "excerpt": "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
-      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dbbe3f64a8766c81ca8d55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
-      "publishedDateTime": "2024-02-25T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity.md",
-      "title": "San Francisco's Edge In The AI Race: The Role Of Education And Inclusivity",
-      "excerpt": "This sentiment is echoed by other tech leaders and entrepreneurs who are drawn to San Francisco's unique intellectual community and the advantages it offers for startup success. The city's reputation as a prime location for AI innovation continues to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
-      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65db960e11905f964130f604/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
-      "publishedDateTime": "2024-02-25T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations.md",
-      "title": "Vendasta CEO Interview: Roots To Trusted Generative AI Innovations",
-      "excerpt": "This article is an interview and research of Vendasta a rising AI unicorn building trusted AI foundations with a compelling vision to strengthen SMB's globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65db4cadf97a8a71e3bb3ab8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1201,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
-      "publishedDateTime": "2024-02-25T15:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

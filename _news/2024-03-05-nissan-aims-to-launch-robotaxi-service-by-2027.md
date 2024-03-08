@@ -24,6 +24,17 @@ images:
     height: 1280
     isCached: true
 
+related:
+  - title: "Waymo expands robotaxi operations to Austin"
+    excerpt: "Waymo – the self-driving technology firm under Google-owner Alphabet – is set to launch its Waymo One service in Austin, marking the latest expansion of its robotaxi operations."
+    publishedDateTime: 2024-03-06T11:35:00Z
+    webUrl: "https://www.iottechnews.com/news/2024/mar/06/waymo-expands-robotaxi-operations-austin/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 19
+
 secured: "41gCoybuxFQX7z3eH7JDjIbrx5usiyDceWDYcrfLgCBb5f1c5etAG4RGh/8nZkzUuaDNEyRHUlFGIWrV7tqbakxBnsI9Vu4n1gqDuLpcXJqaE5FHogYXWzvXPtW30jT9+V1eUY2ipcxm/Zge3D/Epz9Q5oTP2PcI9ysjl7RWKsxCEfU2fHsN8s9yIDA13tm1NlhfBxL8489cxvgkXdf+usNHSRGoFLmZQGhOMgwqjPNFzQh1xIMhz3lSrxg6kdClJmJLtrSp0r/++uXbuWxyAZ60hpBdfgzbqrJj1SRW3TVdK3TE65x4qJPYLHCSOPg3zV6Xij4fy+AHQcgpW8Pd9oVApn0Lg7jVPq4NXleGuZsEI3Ztfs3V/0jmwIC0gb2nQLQFr+3XlW3NgYIo8lZwgJPQNC9LfiCmrGe9YjcXkKaR5rpLI/+eJjT7AyMTpFberbOIlysaK6zp7kbzpr1UH6X6u+RKbEEIRkLCzhdIVnplXnHzX7Z4eOdNfMhkpwyEd6RtuIRbKUnUDKOt7pI+/A==;vdM2Z7OapzyhNr3yCvU8NQ=="
 ---
 

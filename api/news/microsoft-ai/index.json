@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-08-paralympian-lex-gillettes-top-7-ai-tools-for-accessibility.md",
+      "title": "Paralympian Lex Gillette’s top 7 AI tools for accessibility",
+      "excerpt": "Lex Gillette discusses the potential of technology in the lives of individuals with visual impairments with 7 Microsoft AI tools for accessibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
+      "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/03/MSFT_Cloud_MAR04_111117_Blog_Blogheader_240303_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt.md",
       "title": "Microsoft hosts ‘AI: Egypt Pathway to a New Frontier’ summit to advance AI deployment in Egypt",
       "excerpt": "AI: Egypt Pathway to a New Frontier featured opening remarks by several esteemed dignitaries including the Honorable Herro Mustafa Garg, US Ambassador to Egypt; Dr. Rania Al-Mashat, Minister of International Cooperation; Dr. Amr Talaat, Minister of Communications and Information Technology, and renowned Egyptologist Dr. Khaled El-Anany.",
@@ -1451,58 +1503,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-azure-iot-centrals-reported-retirement-plans-remain-mysterious.md",
-      "title": "Azure IoT Central’s reported retirement plans remain mysterious",
-      "excerpt": "News that Microsoft plans to retire its Azure IoT Central platform ... “Now here we are in 2024, and companies are learning what’s working and what’s not working.” Google discontinued its IoT Core platform in favor of a partnership with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
-      "originalUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/05/holding-cocktail-on-a-tropical-beach-139494580-100265301-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
-      "publishedDateTime": "2024-02-22T21:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

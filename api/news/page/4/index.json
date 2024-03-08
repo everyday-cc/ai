@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-04-how-to-become-an-ai-enterprise.md",
+      "title": "How to become an AI+ enterprise",
+      "excerpt": "An AI+ enterprise innovates with AI as the primary focus, understanding that AI is fundamental to the entire business.\nThe post How to become an AI+ enterprise appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T17:05:57Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-5g-advantages-and-disadvantages-what-business-leaders-need-to-know.md",
       "title": "5G advantages and disadvantages: What business leaders need to know",
       "excerpt": "5G, the latest high-speed cellular network standard, is poised to transform wireless connectivity and usher in a new age of digital transformation.\nThe post 5G advantages and disadvantages: What business leaders need to know appeared first on IBM Blog.\n",
@@ -1184,58 +1227,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-facial-recognition-tech-is-probably-coming-to-a-lot-more-vending-machines.md",
-      "title": "Facial recognition tech is probably coming to a lot more vending machines",
-      "excerpt": "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
-      "originalUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
-      "publishedDateTime": "2024-03-02T12:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026.md",
+      "title": "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026",
+      "excerpt": "Microsoft says customers are using Generative AI in their products. “We now have 53,000 Azure AI customers,” Nadella told analysts on the company’s earnings call. CFO CFO Amy Hood ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca4186f1b4a49178ad2ccf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1346,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
+      "publishedDateTime": "2024-02-13T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-eu-says-apple-imessage-3-microsoft-services-are-not-digital-gatekeepers.md",
       "title": "EU says Apple iMessage, 3 Microsoft services are not digital 'gatekeepers'",
       "excerpt": "Feb. 13 (UPI) --The European Commission said the four platform services by Apple and Microsoft should not be considered \"gatekeepers\" as defined by the Digital Markets Act after an investigation ...",
@@ -1245,49 +1298,6 @@
       "provider": {
         "name": "Fox Business",
         "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-microsoft-makes-azure-openai-service-available-in-government-cloud-platform.md",
-      "title": "Microsoft makes Azure OpenAI service available in government cloud platform",
-      "excerpt": "The service is live on Azure Government Tuesday while the agency pursues FedRAMP authorization for high-impact data.",
-      "sourceUrl": null,
-      "webUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "originalUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2021/09/Microsoft-scaled.jpg",
-          "width": 2560,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
         "images": null,
         "publishers": null,
         "authors": null

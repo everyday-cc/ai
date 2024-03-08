@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -412,6 +412,83 @@
       "provider": {
         "name": "AppleInsider",
         "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-waymo-is-cleared-to-launch-robotaxi-service-in-los-angeles-sparking-new-protests.md",
+      "title": "Waymo is cleared to launch robotaxi service in Los Angeles, sparking new protests",
+      "excerpt": "California regulators have given the green light for Waymo to expand into Los Angeles County, clearing the way for the driverless taxi service to launch into a new massive market in the coming months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/california/story/2024-03-01/waymo-cleared-to-launch-robotaxi-service-in-los-angeles",
+      "originalUrl": "https://www.latimes.com/california/story/2024-03-01/waymo-cleared-to-launch-robotaxi-service-in-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/8ac2384/2147483647/strip/true/crop/5162x2710+0+365/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F3e%2F9a66faa84501b38eb4c42f98a564%2Fphoenix-airport-waymo-39647.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-02T06:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula.md",
+      "title": "California authorizes expansion of Waymo’s driverless car services to LA, SF peninsula",
+      "excerpt": "SAN FRANCISCO (AP) — California regulators on Friday authorized Waymo to expand services of its fleet of robotaxis into Los Angeles and to cities on the peninsula south of San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
+      "originalUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T18:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1305,101 +1382,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-bengaluru-to-debut-driverless-trains-all-you-need-to-know.md",
-      "title": "Bengaluru to debut driverless trains: All you need to know",
-      "excerpt": "Driverless trains are being introduced as part of the ... In case of any issues, it will generate alerts using Artificial Intelligence (AI) software. This system is equipped with a camera-based setup where track images are sent to the server.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "originalUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/Chinese-made-driverless-train-prototype-at-Bengaluru-580x435.jpg",
-          "width": 580,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "publishedDateTime": "2024-02-23T08:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-backed-by-chinese-carmaker-great-wall-haomo-raises-14m-for-autonomous-driving-tech.md",
-      "title": "Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech",
-      "excerpt": "After a few years of funding frenzy, autonomous driving companies in China are experiencing a slowdown in investment. Some companies are still hauling in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/haomo.png?w=1080",
-          "width": 1080,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "publishedDateTime": "2024-02-22T07:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

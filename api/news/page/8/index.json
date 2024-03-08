@@ -2,6 +2,150 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-29-how-well-be-interacting-with-ai-as-it-takes-on-more-work.md",
+      "title": "How We’ll Be Interacting With AI As It Takes On More Work",
+      "excerpt": "This means “that applications will start or are already using AI technology to augment or totally replace knowledgebases,” he says. “Even though AI has been around for a long time, this is different, and although the technology and access to it is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e00323625ed7dc9314aa48/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/28/how-well-be-interacting-with-ai-as-it-takes-on-more-work/amp/",
+      "publishedDateTime": "2024-02-29T04:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-what-should-we-expect-from-ai-in-2024.md",
+      "title": "What Should We Expect From AI In 2024?",
+      "excerpt": "We are already two months into 2024, and the AI revolution roars on unabated. What should we expect from AI in 2024?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0028da2001bd2d124c603/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1190,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
+      "publishedDateTime": "2024-02-29T04:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-start-up-street-can-india-be-at-the-forefront-of-ai-technology.md",
+      "title": "Start-up Street: Can India be at the forefront of AI technology?",
+      "excerpt": "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
+      "publishedDateTime": "2024-02-29T04:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-abb-eyes-ai-robotics-integration-to-push-growth-in-various-businesses.md",
       "title": "ABB eyes AI-robotics integration to push growth in various businesses",
       "excerpt": "ABB Ltd will integrate artificial intelligence with robotics across various sectors in China to sustain robust growth, senior executives of the Swiss-Swedish technology and engineering group said, as AI continues to evolve at an unprecedented pace, transforming numerous industries.",
@@ -974,151 +1118,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-28T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-meet-verdie-an-electric-ai-powered-robot-that-can-do-all-your-landscaping-video.md",
-      "title": "Meet Verdie – An electric, AI-powered robot that can do all your landscaping [Video]",
-      "excerpt": "Electric Sheep – an artificial intelligence and robotics company specializing in large-scale landscaping operations, has announced a new autonomous robot to its fleet – Verdie. This electric robot can work alongside Electric Sheep’s other products ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2024/02/28/meet-verdie-electric-ai-powered-robot-autonomous-landscaping-video/",
-      "originalUrl": "https://electrek.co/2024/02/28/meet-verdie-electric-ai-powered-robot-autonomous-landscaping-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Landscaping-robot-Verdie.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T16:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-evolution-of-rugby-a-journey-into-the-future-with-ai.md",
-      "title": "The Evolution Of Rugby: A Journey Into The Future With AI",
-      "excerpt": "Imagine where tradition meets cutting-edge technology, where the raw physicality and strategic depth of rugby are enhanced by the power of AI. Well, it's already here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b89953d60c1b6c85f3c6ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/28/the-evolution-of-rugby-a-journey-into-the-future-with-ai/amp/",
-      "publishedDateTime": "2024-02-28T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-difference-between-alias-and-cname-and-when-to-use-them.md",
-      "title": "The difference between ALIAS and CNAME and when to use them",
-      "excerpt": "The difference between a CNAME record and an ALIAS record is not in the result, but in how they resolve the target DNS record when queried.\nThe post The difference between ALIAS and CNAME and when to use them appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
-      "originalUrl": "https://www.ibm.com/blog/the-difference-between-alias-and-cname-and-when-to-use-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T14:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

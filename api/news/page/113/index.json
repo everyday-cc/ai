@@ -2,6 +2,119 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2023-12-01-deepmind-tortured-chatgpt-to-reveal-sources.md",
+      "title": "DeepMind tortured ChatGPT to reveal sources",
+      "excerpt": "We ask the questions A team of boffins from Google's DeepMind used a torture method on ChatGPT until it revealed the snippets of the data it was trained on. The boffins used a new type of attack prompt which asked a production model of the chatbot to repeat specific words forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
+      "originalUrl": "https://www.fudzilla.com/news/ai/58034-deepmind-tortured-chatgpt-to-reveal-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-momentum-sponsors-machine-learning-in-finance-research-chair-with-stellenbosch-university.md",
+      "title": "Momentum sponsors machine learning in finance research chair with Stellenbosch University",
+      "excerpt": "Investment management company Momentum Investments has established the Momentum Investments Research Chair for research into machine learning (ML) in finance in conjunction with Stellenbosch University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/momentum-sponsors-machine-learning-in-finance-research-chair-with-stellenbosch-university-2023-12-01",
+      "originalUrl": "https://www.engineeringnews.co.za/article/momentum-sponsors-machine-learning-in-finance-research-chair-with-stellenbosch-university-2023-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.creamermedia.com/assets/articles/images/resized/0001104095_resized_momentuminvestmentsresearchhiveresearchstrategistprofessorevangilbert11231022.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T09:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-markets-eq-is-first-to-fuse-voice-tones-with-language-in-generative-ai-platform-for-corporate-communications.md",
+      "title": "Markets EQ is First to Fuse Voice Tones with Language in Generative AI Platform for Corporate Communications",
+      "excerpt": "Using conversational AI technology and natural language processing, users can query content to uncover such subtleties as: Markets EQ promises to transform the field of investor relations, offering a unique perspective on executive communication and its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231201917200/en/Markets-EQ-is-First-to-Fuse-Voice-Tones-with-Language-in-Generative-AI-Platform-for-Corporate-Communications",
+      "originalUrl": "https://www.businesswire.com/news/home/20231201917200/en/Markets-EQ-is-First-to-Fuse-Voice-Tones-with-Language-in-Generative-AI-Platform-for-Corporate-Communications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-the-macroeconomics-of-artificial-intelligence.md",
       "title": "The Macroeconomics of Artificial Intelligence",
       "excerpt": "The collective decisions we make today will determine how AI affects productivity growth, income inequality, and industrial concentration",
@@ -951,136 +1064,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-when-artificial-intelligence-mimics-the-human-brain.md",
-      "title": "When Artificial Intelligence Mimics the Human Brain",
-      "excerpt": "A recent publication in Nature Machine Intelligence really got me thinking. In this study, researchers created an artificial system that not only simulates but also behaves like our brain. This evolving reality of neural networks, a realm where artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-11/techbrain.png.jpg?itok=8MpEj2Ou",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "publishedDateTime": "2023-11-30T16:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-amazons-aws-genai-strategy-comes-with-a-big-q.md",
-      "title": "Amazon's AWS GenAI strategy comes with a big Q",
-      "excerpt": "Amazon Web Services unveiled a comprehensive three-layer GenAI strategy and offerings at re:Invent 2023 that happened to feature the intriguing new Q digital assistant at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101012-amazon-aws-genai-strategy-comes-big-q.html",
-      "originalUrl": "https://www.techspot.com/news/101012-amazon-aws-genai-strategy-comes-big-q.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T16:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-when-artificial-intelligence-mimics-the-human-brain.md",
-      "title": "When Artificial Intelligence Mimics the Human Brain",
-      "excerpt": "Stepping aside from the complexity of the science, one thing is clear: The line between artificial and natural intelligence is blurring. This research opens doors to new possibilities, from developing more advanced AI systems to unlocking mysteries of the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-11/techbrain.png.jpg?itok=8MpEj2Ou",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
-      "publishedDateTime": "2023-11-30T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

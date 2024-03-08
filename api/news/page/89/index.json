@@ -2,6 +2,152 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-12-19-pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation.md",
+      "title": "Pioneering Students From Swiss Boarding School Issue Global AI Charter Calling For AI Regulation",
+      "excerpt": "Artificial intelligence is disrupting the way we live, work, and learn, and our students understand the profound impact this powerful technology will have on our society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6580769d0586643c25a05e01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/",
+      "publishedDateTime": "2023-12-19T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-startup-shutdowns-and-ai-showdowns-the-2023-chronicles.md",
+      "title": "Startup Shutdowns and AI Showdowns: the 2023 chronicles",
+      "excerpt": "The Equity crew is talking through key themes from 2023, looking at the year's venture capital numbers, fintech's hot start then cool down on the M&A front, the creator economy in 2023, and why OpenAI's upheaval got us thinking about the return of key-person syndrome.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/",
+      "originalUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/equity-podcast-2019-phone.webp?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/amp/",
+      "publishedDateTime": "2023-12-19T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-klika-tech-achieves-the-100-aws-certifications-distinction.md",
+      "title": "Klika Tech Achieves The 100 AWS Certifications Distinction",
+      "excerpt": "Klika Tech, a global technology solutions and consulting firm that specializes in delivering cutting-edge cloud computing, Internet of Things (IoT), artificial intelligence and machine learning (AI/ML),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T14:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-butterfly-network-to-bring-ultrasound-on-chip-tech-to-surgical-robotics.md",
       "title": "Butterfly Network to bring Ultrasound-on-Chip tech to surgical robotics",
       "excerpt": "Butterfly Network (NYSE:BFLY) announced today that it partnered with Mendaera to commercialize a new surgical robotic system.",
@@ -1033,143 +1179,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-how-to-optimize-application-performance-with-ns1-traffic-steering.md",
-      "title": "How to optimize application performance with NS1 traffic steering",
-      "excerpt": "If you’re in the business of delivering applications and services, meeting the demand for “now” poses logistical challenges. \nThe post How to optimize application performance with NS1 traffic steering appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-optimize-application-performance-with-ns1-traffic-steering/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-optimize-application-performance-with-ns1-traffic-steering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:44:41Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai.md",
-      "title": "ISO 42001: A new foundational global standard to advance responsible AI",
-      "excerpt": "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides opportunities to be a force for good and drive economic growth. The growth of large language models (LLMs), with hundreds of billions of parameters, has unlocked new generative AI use cases to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/18/iso-42001-foundations.jpg",
-          "width": 1000,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:07:51Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-self-driving-cars-face-reality-check.md",
-      "title": "Self-Driving Cars Face Reality Check",
-      "excerpt": "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

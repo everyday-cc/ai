@@ -2,6 +2,162 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-26-8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing.md",
+      "title": "8 TED Talks To Help You Prepare For The Era Of AI-Driven Spatial Computing",
+      "excerpt": "The Humane AI Pin might not be the device we all use ... Thousands of TED Talks have inspired and sparked ideas and imagination. These TED Talks are the start of a journey to understand Spatial Computing, how it works, and why it's necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
+      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dbbe3f64a8766c81ca8d55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/25/8-ted-talks-to-help-you-prepare-for-the-era-of-ai-driven-spatial-computing/amp/",
+      "publishedDateTime": "2024-02-25T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity.md",
+      "title": "San Francisco's Edge In The AI Race: The Role Of Education And Inclusivity",
+      "excerpt": "This sentiment is echoed by other tech leaders and entrepreneurs who are drawn to San Francisco's unique intellectual community and the advantages it offers for startup success. The city's reputation as a prime location for AI innovation continues to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
+      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65db960e11905f964130f604/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2024/02/25/san-franciscos-edge-in-the-ai-race-the-role-of-education-and-inclusivity/amp/",
+      "publishedDateTime": "2024-02-25T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-25-vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations.md",
+      "title": "Vendasta CEO Interview: Roots To Trusted Generative AI Innovations",
+      "excerpt": "This article is an interview and research of Vendasta a rising AI unicorn building trusted AI foundations with a compelling vision to strengthen SMB's globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65db4cadf97a8a71e3bb3ab8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1201,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/25/vendasta-ceo-interview-roots-to-trusted-generative-ai-innovations/amp/",
+      "publishedDateTime": "2024-02-25T15:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-25-construction-workers-being-replaced-by-ai-robot-bricklayers.md",
       "title": "Construction workers being replaced by AI robot bricklayers",
       "excerpt": "Working all day in the hot sun, bending your back and knees with every brick, hands raw from mortar. Not exactly a career on most young people's dream list. That's where Monumental comes in with ...",
@@ -1126,143 +1282,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024.md",
-      "title": "5 ways to leverage AI to streamline your business workflows in 2024",
-      "excerpt": "Used right, AI has the potential to significantly improve the efficiency of operational workflows, and increase productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
-      "originalUrl": "https://venturebeat.com/business/5-ways-to-leverage-ai-to-streamline-your-business-workflows-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/pexels-christina-morillo-1181534-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T20:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-transcript-race-in-america-giving-voice-with-jeffrey-wright-actor-american-fiction.md",
-      "title": "Transcript: Race in America: Giving Voice with Jeffrey Wright, Actor, “American Fiction”",
-      "excerpt": "MR. WRIGHT: It's pretty cool. I've been really moved because this is recognition from my peers, not only for my work, but for Sterling's work and for the entire film, which is cool, too, because that represents everyone who worked on this movie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/washington-post-live/2024/02/23/transcript-race-america-giving-voice-with-jeffrey-wright-actor-american-fiction/",
-      "originalUrl": "https://www.washingtonpost.com/washington-post-live/2024/02/23/transcript-race-america-giving-voice-with-jeffrey-wright-actor-american-fiction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T19:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
-      "title": "Serco ordered to stop using facial recognition technology to monitor staff",
-      "excerpt": "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds Britain’s data watchdog has ordered a Serco subsidary to stop using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "originalUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "publishedDateTime": "2024-02-23T18:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

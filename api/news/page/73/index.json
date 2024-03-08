@@ -2,6 +2,126 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2024-01-11-artificial-intelligence-the-latest-architecture-and-news.md",
+      "title": "Artificial Intelligence: The Latest Architecture and News",
+      "excerpt": "It was the awe-inspiring works of Renaissance masters that propelled me onto a transformative trajectory, guiding me toward harnessing the immense potential of artificial intelligence and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
+      "title": "Machine Learning Approaches for Accelerated Materials Discovery",
+      "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "originalUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23290_17049820057452938.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZOM",
+        "domain": "azom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-neural-implant-can-read-deep-neural-activity-from-the-brain-surface.md",
+      "title": "Neural implant can read deep neural activity from the brain surface",
+      "excerpt": "This correlation enabled the researchers to use surface electrical signals to train neural networks to predict calcium activity – not only for large populations of neurons, but also individual neurons – at various depths. “The neural network model is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news3/id64387_1.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-top-10-best-machine-learning-software-in-2024.md",
       "title": "Top 10 Best Machine Learning Software in 2024",
       "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
@@ -910,153 +1030,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai.md",
-      "title": "Microsoft and PNNL team up to build better batteries using AI",
-      "excerpt": "Microsoft has announced a partnership with PNNL to use AI and quantum computing to accelerate battery and materials research for energy storage solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/AI-and-HPC-computing-speeding-up-scientific-discovery-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T01:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-ai-starts-to-show-promise-as-tool-to-sift-mountain-of-sustainability-research.md",
-      "title": "AI starts to show promise as tool to sift mountain of sustainability research",
-      "excerpt": "AI starts to show promise as tool to sift mountain of sustainability research on facebook (opens in a new window) AI starts to show promise as tool to sift mountain of sustainability research on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
-      "originalUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F75aac64f-29af-40b1-a3a9-d0c1ffe8c05c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-how-aws-responded-to-the-generative-ai-wave-of-2023-and-what-it-pros-should-expect-in-2024.md",
-      "title": "How AWS Responded to the Generative AI Wave of 2023 (and What IT Pros Should Expect in 2024)",
-      "excerpt": "When 2023 began, Rada Stanic, chief technologist for AWS in Australia and New Zealand, imagined the year would be dominated by helping customers build more modern data platforms in the cloud, with a bit of artificial intelligence and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/01/AdobeStock_458675015_Editorial_Use_Only.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
