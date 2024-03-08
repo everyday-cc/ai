@@ -101,6 +101,20 @@ related:
         width: 800
         height: 496
         isCached: true
+  - title: "Pixel 8 won’t get Gemini Nano on-device AI – this is important for your next Android purchase"
+    excerpt: "Google confirmed Gemini Nano, its on-device AI model, can't run on the Pixel 8 because of hardware limitations."
+    publishedDateTime: 2024-03-08T11:50:00Z
+    webUrl: "https://bgr.com/tech/pixel-8-wont-get-gemini-nano-on-device-ai-this-is-important-for-your-next-android-purchase/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 30
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/10/google-pixel-8-5.jpg?quality=82&strip=all"
+        width: 4000
+        height: 2250
+        isCached: true
 
 secured: "PWDzJEtF/P+Jgm9qY2ByqrOLw79UTxB4gV0LK7AFa/Li77JvtOtvRXkXHZyFSIARBEejSZ4ZRQbYkxFq/YQyP/+IK+vb2wsajOHosX0NHIpq5RX5OpBoM1wed4LMVCjWLIwT5whF/NG4S/voapFWnCR/q4wxiE/vHiHLnda1ttdHN0t2oefwXAQci399NM8unI6NZQ/fp0yxmLkFrEtxdlTld3K7/mpaFBYgIfSz/dKQFCF2Is3d1lEpRKAoTyuq1rLiMUtgOUgoEpANLaWEAcNwJDxw1w9AW+fQ0adfhb38Ds0L4W8K8JQ+04FCq5sGSKyAG7u+QSCoWE0W8ySDhYYshqQpy1OxZanFHeUD3Fd5z7uDeTK8NxL4UlKsrZe5nar28Jz5qgbStYDJg5enX322ESlttVQUBB1aLI/9mDnz01ak810tiecRwjSB3jsI/YyBs2fXH9MZU258m9FvL/AeWTDRhNzAdYkGF7US1olEHX8s6oyMJB0ULSe73cgz5lUX1IOS+FdkKk2ciy7QTw==;kDKF1h005Tuj36V9KlGkHg=="
 ---

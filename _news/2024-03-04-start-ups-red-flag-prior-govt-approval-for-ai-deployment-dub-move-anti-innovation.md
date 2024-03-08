@@ -58,6 +58,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Navana.ai launches 'Bodhi' multilingual voice model as India bets big on AI"
+    excerpt: "The plug-and-play methodology of the current version of Navana Automatic Voice Recognition (ASR) software simplifies adoption and implementation while offering enhanced customisation and above 85 per cent accuracy with faster reaction times, the company ..."
+    publishedDateTime: 2024-03-08T12:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/navana-ai-launches-bodhi-multilingual-voice-model-as-india-bets-big-on-ai/108331200"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108331200,imgsize-38244,width-1200,height=765,overlay-ettelecom/internet/navana-ai-launches-bodhi-multilingual-voice-model-as-india-bets-big-on-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Lenovo Launches Yoga Slim 7i Laptop for Content Creators in India with AI Innovation"
     excerpt: "Lenovo has introduced the Yoga Slim 7i laptop in India, specifically designed for content creators. Boasting a slim profile with a thickness of 14.9 mm, the laptop features a MIL-810H military-grade aluminum chassis for durability. The highlight of the device is its 400 nits 100% DCI-P3 OLED display, optimized for content creation tasks."
     publishedDateTime: 2024-03-08T10:58:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240305PD202/huawei-ai-chip-china
 webUrl: "https://www.digitimes.com/news/a20240305PD202/huawei-ai-chip-china-nvidia.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "Tech war: Huawei’s AI chip capabilities under intense scrutiny after market leader Nvidia taps it as potential rival"
-    excerpt: "The chip can compete with Nvidia’s A100 in terms of powering AI algorithms, according to Dylan Patel, chief analyst at San Francisco-based semiconductor research firm SemiAnalysis."
-    publishedDateTime: 2024-03-03T12:00:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 81
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/02/35eac653-b835-4edb-9b5b-918e6ada3b4f_ee267289.jpg?itok=QNfkaJH9&v=1709376743"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4358gBI/IE35OtQnnFS6563AYAltGL/jJv+ADlL/HNqACRnVlaCSbIfC2XRK5uGZgPlto0rUJWCePmzfdPvyPL+UyK/3rUMM4YdsFF/khJ4MXDqFs1qiMmVttfA2h/iFZ5NMpyx0r0fE/q2G++udHu9nb+JtYzMRAvX8c1UjnuHT+oMTKcu9vhNmXHw0GDxTd6lmaETrXBmDd3UAokFZa473PvjKYqmcaupKQQsXDsGGUtdgdH4UWp08FLQcZNmSjdWzG4XB3a4sXfSmK5eeqT3PdC9rt1MUfBCh7ORGDhWV7T5I9IsCKMag7P9EQSer2tqj+guIiBGAnCalAU5iz7kA8IJw3R13oFH8VyVnSm4=;kiS2yInbf6ABxplD4WzWdQ=="
 ---

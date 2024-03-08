@@ -51,6 +51,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "This AI token is being called the Nvidia of crypto"
+    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
+    publishedDateTime: 2024-03-08T12:23:00Z
+    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 39
+    images:
+      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jim Cramer Picks These 4 Stocks As Better AI Investments Alongside Nvidia, Skips Super Micro Computer"
     excerpt: "CNBC’s “Mad Money” host Jim Cramer has suggested that there are better investment options in the artificial intelligence (AI) sector than Super Micro Computer Inc. (NASDAQ:SMCI). What Happened: Cramer identified four stocks that he believes are superior AI investments compared to Super Micro Computer, CNBC reported on Monday."
     publishedDateTime: 2024-03-05T12:07:00Z

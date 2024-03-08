@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-cod
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Business Tech Roundup: Salesforce’s Einstein Copilot Brings AI To CRM"
-    excerpt: "1 – Salesforce announced the public beta availability of Einstein Copilot."
-    publishedDateTime: 2024-03-03T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2024/03/03/business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e1fc852def75c204325244/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Salesforce Launches AI Solutions for Healthcare Professionals to Ease Administrative Burden"
     excerpt: "Salesforce introduced new data and artificial intelligence solutions tailored for healthcare professionals, intending to ease their administrative burdens. One key tool, Einstein Copilot: Health Actions, enables doctors to streamline tasks like appointment ..."
     publishedDateTime: 2024-03-07T12:03:00Z

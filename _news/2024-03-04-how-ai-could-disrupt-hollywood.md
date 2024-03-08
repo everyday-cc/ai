@@ -33,15 +33,6 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 32
-  - title: "How AI could help simplify politics"
-    excerpt: "If you’ve ever read legislation and didn’t think it made sense, a Purdue University professor says there is a method based in artificial intelligence that could help. It’s called natural language processing (NLP)."
-    publishedDateTime: 2024-03-05T18:40:00Z
-    webUrl: "https://www.wishtv.com/news/how-ai-could-help-simplify-politics/"
-    type: article
-    provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 19
   - title: "Koobrik CEO Orlando Wood on using AI to database Hollywood scripts"
     excerpt: "Film tech startup Koobrik believes AI can make it easier for Hollywood executives to find hidden gems buried under the never-ending pile of script submissions, its CEO Orlando Wood tells Axios. Why it matters: Koobrik was one of the 13 companies in the inaugural cohort for Warner Bros."
     publishedDateTime: 2024-03-04T15:31:00Z

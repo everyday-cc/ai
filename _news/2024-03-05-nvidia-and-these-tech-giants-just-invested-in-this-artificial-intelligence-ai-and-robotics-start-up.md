@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-gi
 webUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "This AI token is being called the Nvidia of crypto"
+    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
+    publishedDateTime: 2024-03-08T12:23:00Z
+    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 39
+    images:
+      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
     excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
     publishedDateTime: 2024-03-06T10:51:00Z

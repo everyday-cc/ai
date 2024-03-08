@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fint
 webUrl: "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "The Top 7 Fintech Stocks to Buy in March 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are spearheading a revolutionary shift in their niche,"
+    publishedDateTime: 2024-03-08T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "OXogVf126K4Ttb+84qvnhuzn4HZLgZyiH+ckFzcWG1iNleUG7NkokRGgjFWlpndGQf1yYLnlFeWIomxOgBiDj0xQ7MPAQqyz7MeLxutYljIIX6JFqiWYMRbJIGAGFMlUuspl7qDggDHqOcetv/8brqbkn74U94UDpbgJARQEdgpXCVurKTICXatnoV67XBOkl7/NaMelOepHgEEETYK2pzA4iEYrDlKvRtNcmoR8wxDSu3nVDuK23tncC1v7iIyuEmeooakZgVtPAV36Rac6nX1cSt4E9sk78XFkE3Z5tNf+2lY160cYMuopJ8BqxKpJXvrxyekcu2QpxyckwXmPhfBOw+y6CXeQkkaQm26qATcConx/+qB9wKDrjMMXkKOGoIw5ON6+6bmL5c9Y8SddNJqzJRHt+IoTxAVy1icRQa0L61yDebyLNmM9VyNOMvspqsHk3HexV9LYq/vyTzdNmM1JSWOlF996oaw+1tz41/MwYwkTwdg/t29rqQv0Q509jFBBtPB60xoVBv13IPT98Q==;Gc8X+fxy5xXX1a6v1zONqQ=="
 ---

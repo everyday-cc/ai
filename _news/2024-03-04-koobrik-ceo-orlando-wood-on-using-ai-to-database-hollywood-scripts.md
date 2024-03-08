@@ -41,15 +41,6 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 32
-  - title: "How AI could help simplify politics"
-    excerpt: "If you’ve ever read legislation and didn’t think it made sense, a Purdue University professor says there is a method based in artificial intelligence that could help. It’s called natural language processing (NLP)."
-    publishedDateTime: 2024-03-05T18:40:00Z
-    webUrl: "https://www.wishtv.com/news/how-ai-could-help-simplify-politics/"
-    type: article
-    provider:
-      name: WISH-TV
-      domain: wishtv.com
-    quality: 19
 
 secured: "b2Xx952WMk/AiykQxTBcZ0WaQ+jMnrbJ+LyrEqmcITO6RQbSp1b/vS4Y56vBSfM8cTvYYsEiTE5zzxnLEbWudQZLxTqK+BC6HTdG1Vu062UL4Z4INczY4oebxsD2TfORq3BNN9rqrgvtFdwnUWo0zlz8mlrvXMTgrdPDtI5KVt9axAgeNI5iHVkTfYWCBZGeM2THTR/ZOuO4MLY/7f32C4UAIb7l+a1JSL8u6MW94XTbu3BlC7Rnu1GsvirtxsoJw4jcDaaiGBWW0gj803vgWW6m50iKf/68SY+Rbe3FnqXeCQYTQFN5pbf4uhaDsTzxg/Y6spYpfwyNK6pg2c8fowx1N8D7QdHc+hWdOLC+iTEyAaxlQAS2l2F6Bt17X7gxi9BQ0EdSSRfEvyObF0nNsC1P4pxbBbT9g11sMugxIvQuKEkYvVjlkt8VIRXQUYi2gfYffw91jwWVkbCOFr/NQYqwNveYaJLMg9j6HEWWm7APBeNlAfjuzKVxpP9Oikbk4g6E2bcM+0vPRMSsau31BQ==;6krj4qgkd2mXqoDX4CJNSw=="
 ---

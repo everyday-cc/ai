@@ -25,50 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Nobody knows how AI works"
-    excerpt: "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products."
-    publishedDateTime: 2024-03-05T10:32:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/"
-    ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
+  - title: "AI Could Help Translate Alien Languages"
+    excerpt: "until they’ve translated the whales’ entire language. Wong: What is it about recent advances in AI and translation software that makes this effort not, well, ridiculous? If talking to sperm ..."
+    publishedDateTime: 2024-03-05T16:45:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2024/03/ai-may-allow-us-to-talk-to-whales/677644/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 84
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Roundtables: How does AI work?"
-    excerpt: "Here are the advances that we think matter most right now. Faults in a certain part of the immune system might be at the root of some long covid cases, new research suggests. Generative AI tools like ChatGPT reached mass adoption in record time ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/04/1088977/roundtables-how-does-ai-work/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Roundtables-Ondemand_1200x628-Register1.jpg?resize=1200,600"
+      - url: "https://cdn.theatlantic.com/thumbor/v7Hdi7j_cgMwsUXZgOevMHDjc3c=/0x43:2000x1085/1200x625/media/img/mt/2024/03/AI_Whale/original.jpg"
         width: 1200
-        height: 600
+        height: 625
         isCached: true
-  - title: "How AI Is Affecting Data Center Networks"
-    excerpt: "Following up on the contest between Infiniband and Ethernet technologies, as they jockey for position in present and future data center networks."
-    publishedDateTime: 2024-03-05T03:22:00Z
-    webUrl: "https://www.datacenterfrontier.com/network/article/33038205/how-ai-is-affecting-data-center-networks"
+  - title: "BJP to use AI to translate PM’s speeches"
+    excerpt: "BJP is using 'Bhashini', an AI-powered tool, launched under the National Language Translation Mission, to translate PM Narendra Modi's Lok Sabha campaign speeches into regional languages, bridging the language gap and connecting with audiences in southern ..."
+    publishedDateTime: 2024-03-08T06:45:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/articleshow/108318912.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms"
     type: article
     provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 39
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://img.datacenterfrontier.com/files/base/ebm/datacenterfrontier/image/2024/03/65e6857197e446001e63a8d8-nvidianetworking.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://static.toiimg.com/thumb/msid-108319257,width-1280,height-720,resizemode-72/108319257.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "2024 Slator Language AI 50 Under 50"
+    excerpt: "The landscape of language services and technology is transforming at a rapid pace. With AI, it is now possible to generate, convert, and customize speech and text — at scale and at speed. The last year has seen language services and technology providers move quickly to harness and extract value from AI."
+    publishedDateTime: 2024-03-06T10:15:00Z
+    webUrl: "https://slator.com/2024-slator-language-ai-50-under-50/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
+  - title: "How AI could help simplify politics"
+    excerpt: "If you’ve ever read legislation and didn’t think it made sense, a Purdue University professor says there is a method based in artificial intelligence that could help. It’s called natural language processing (NLP)."
+    publishedDateTime: 2024-03-05T18:40:00Z
+    webUrl: "https://www.wishtv.com/news/how-ai-could-help-simplify-politics/"
+    type: article
+    provider:
+      name: WISH-TV
+      domain: wishtv.com
+    quality: 19
+  - title: "The Top 50 Language AI Companies to Watch in 2024"
+    excerpt: "Florian and Esther discuss the language industry news of the week, with Head of Research Anna Wyndham joining to give a breakdown of the 2024 Slator Language AI 50 Under 50, a list highlighting 50 of the newest and most notable language AI companies."
+    publishedDateTime: 2024-03-08T08:30:00Z
+    webUrl: "https://slator.com/top-50-language-ai-companies-to-watch-2024/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
+  - title: "Language expert warns against the risk of free translation tools for high stakes tasks"
+    excerpt: "Still, when it comes to translating legal documents, contracts, or sensitive business materials, relying solely on automated tools can lead to unintended - and unwanted - consequences."
+    publishedDateTime: 2024-03-05T20:11:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/03/05/language-expert-warns-against-the-risk-of-free-translation-tools-for-high-stakes-tasks/72856067007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 11
 
 secured: "JC8pyo26xd+iK54B+BcDyDNr6PjyUyK+BEFoBkf+NSjlllatujLXf1TZtNLmAL/wMdz+2ckzgLNVKNWCIYA7IYa4B6qsQmw3i3/+vaSCSp1+M9CD1TABJHs0KgKU468EI552zuQ/XPanlD66nBBYTCD7mN1fcRTUoBEbFoNqxzY3A9/ZdNvAY73OLzbhadQMQ13QzinFfHqLkgSNwUEACTDs1a2pUuA+UBmKK2xrTbxetxWB5TkFZ9Tp0+RWvLwXBBUE/6vgOZQYp/uCCwOXibCWRAVH2KGqqcgCOiMRtm//ivAr8onrItjZWX8nzECqBfZ6KYRnQUMLu4251QOtc9mVuCHCEJcH9eTgIMRF1PI=;cOdR19J2FCFm5GUAM25Kqg=="
 ---

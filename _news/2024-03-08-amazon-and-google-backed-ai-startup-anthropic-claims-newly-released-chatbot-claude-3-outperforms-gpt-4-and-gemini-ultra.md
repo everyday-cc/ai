@@ -224,6 +224,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AMD's AI chatbot released"
+    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
+    publishedDateTime: 2024-03-08T11:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Anthropic unveils its most powerful AI chatbot to date"
     excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
     publishedDateTime: 2024-03-04T14:56:00Z
@@ -296,6 +310,6 @@ related:
       domain: nbcnewyork.com
     quality: 5
 
-secured: "ahzso6oGDlne+hGcB0V9MU4h/TsSyFj6BhLvHiemYmbZzgvrFqpCs4bIUcf0TmpPsI3v+bownDnK3WikUsIjyo4Vy8FKlNo4dcWKwGzY28EbXFHdHKBus5bmHajIMflzAKX8lPmcgnwNNnWyLlxhH9Njod5YqlnyU6yZNdoctRgmqgmruh6CQzr5PSBG/BBMf1EPr4mT7wJSDJtOY8KrHaNAPbH3r2jB/H4x1HVn1HjMKSV18QiAmh7G9yHrDxoNmYEbUgU6/JcGKZ0jlpygWdif9VJIuG1zjY3tlCXJk7Qt6B71SpWnJeEk4EDILm7oyceeyyeNG62ZdPiguQOcZZwwtic4ZOc5s9DzbO74thw=;4+GvJqLOKT2/Ev3cUXWn1Q=="
+secured: "D5UssJQ/nrRtj2jpC1YkuFRMcku9O2iQxwhXKv04tIuI7Aq4B4IL39EpATgDt9uAkF4xfJdHnKs+xpi2oFgV+HSSMGDgYmoayUtFpSzpWnwopYCUCQxFs4aJ9gC6C0OSgH3ZtZTIArdygsU/70aoDca2kqz29bHCfboxy28R3R14tODir2o/2wqi3RjWBxjkwvTiCpEYTrH0lcDf7BJdKKJp1fEhLLGv+YpbPy5fkzikSLHZ9a5AhRWDJyK2qMxKfELf0ClPzbz3/Gk/OfPSvnO34h3kT+3iWfQNDxuZGL8Icie+BFaehsGeAeUXeTj8UL62nAPyjC1iyDNWUsUhwuNHL7Z7j9d7N+CMnPpaO/zPhYwF8xilomiZrQg9nma0f6gNmxKI59jJphKQcLkINPSSL9+igTuDrpBw5wfL9Ze2VBhT1ibDNXQpV+XAB6xqVGCzclRGtDNSLLEdvnabhgdnUpv+291Wg2eD86FuBtw+EO+9Qw2FfBMmDso+K/PHrk7gup0htESHA9bPYZaVig==;zSRmvMwT1+m2yCdxE23EoQ=="
 ---
 

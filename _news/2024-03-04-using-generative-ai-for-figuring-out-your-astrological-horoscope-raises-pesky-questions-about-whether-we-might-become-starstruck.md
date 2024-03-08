@@ -60,20 +60,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Navigating The Risks And Opportunities Of Generative AI In Insurance"
-    excerpt: "The rise and rise of generative AI poses new questions for those of us working in insurance. Every day, people like us are finding new ways to use the technology’s uncanny abilities to process huge quantities of complex text, audio and video, as well as to generate ideas and usable first drafts across those three formats."
-    publishedDateTime: 2024-03-05T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/navigating-the-risks-and-opportunities-of-generative-ai-in-insurance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5dc201ac5262af8449269/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1489
-        height: 900
-        isCached: true
   - title: "AI Tools Are Still Generating Misleading Election Images"
     excerpt: "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud."
     publishedDateTime: 2024-03-06T14:32:00Z

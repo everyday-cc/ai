@@ -38,7 +38,7 @@ related:
     provider:
       name: Searchenginejournal.com
       domain: searchenginejournal.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.searchenginejournal.com/wp-content/uploads/2022/05/ai-content-generators-6273d3bbc7264-sej.png"
         width: 1600

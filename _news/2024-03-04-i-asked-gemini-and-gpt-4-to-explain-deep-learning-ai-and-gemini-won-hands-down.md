@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
 type: article
 quality: 100
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://www.taipeitimes.com/images/2024/03/06/P13-240306-306.jpg"
         width: 800
         height: 496
+        isCached: true
+  - title: "Pixel 8 won’t get Gemini Nano on-device AI – this is important for your next Android purchase"
+    excerpt: "Google confirmed Gemini Nano, its on-device AI model, can't run on the Pixel 8 because of hardware limitations."
+    publishedDateTime: 2024-03-08T11:50:00Z
+    webUrl: "https://bgr.com/tech/pixel-8-wont-get-gemini-nano-on-device-ai-this-is-important-for-your-next-android-purchase/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 30
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/10/google-pixel-8-5.jpg?quality=82&strip=all"
+        width: 4000
+        height: 2250
         isCached: true
 
 secured: "XFEslSVFDnmZBaxEp8NuQrcqwRPVUF6HSw+G15a9I1KXhaBONVBBdQaqRngQF6vUSDbOavWE9duk6wWi/6OvgvTtajr6crlaw7stAZaXx2sW7TskEqmJwMjc9A2Rbf+r7Tv6llwnkmhSDWbpjRtmtfUNsLEdNTkFWQhGDUu5kq/axDoz4iQyvgABNqMwhoD6Kz8inPvLbJQWNtBwEfO0PJGRcNe/UqW0V3uDjDmEIysNrClbO7mQOPdJ2ap7oZtPSn2zrIO7GiZ970ZK51yH9eHeK4s6EOHp0e8QhJ+yWURfbhA64wxUudXOEEJzEHw4iNZyAeaVjVL1aN09UNnouy5Nm1dfBYqE4VVSLLbuISV6LIICTj2GylPS1H/08HyJDErpxdRXnNC3jkb+jOlvga9byoLIZJFsRpXwWgfgIcKB2hYo75WLUKk5WHj2ZcGrT6Fn2on7GOZeohP8xtMhL6qIQxnTmjYZzwbUXl0iFWM+sv4kp12Xgh9n+H7XV3euXulu7jG3+H3rP4QGQJ6/4g==;Gnf8krQ1U21yWmEq0JSHGw=="

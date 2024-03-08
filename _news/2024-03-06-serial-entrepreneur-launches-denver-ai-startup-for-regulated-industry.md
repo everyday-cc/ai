@@ -53,6 +53,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Navana.ai launches 'Bodhi' multilingual voice model as India bets big on AI"
+    excerpt: "The plug-and-play methodology of the current version of Navana Automatic Voice Recognition (ASR) software simplifies adoption and implementation while offering enhanced customisation and above 85 per cent accuracy with faster reaction times, the company ..."
+    publishedDateTime: 2024-03-08T12:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/navana-ai-launches-bodhi-multilingual-voice-model-as-india-bets-big-on-ai/108331200"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108331200,imgsize-38244,width-1200,height=765,overlay-ettelecom/internet/navana-ai-launches-bodhi-multilingual-voice-model-as-india-bets-big-on-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Start-Ups Red-Flag Prior Govt Approval For AI Deployment Dub Move Anti-Innovation"
     excerpt: "(MENAFN- KNN India) New Delhi, Mar 4 (KNN) The government's directive mandating“explicit permission of the government” for the deployment of artificial intelligence (AI) and large language models (LLMs) on the Indian internet has stirred significant ..."
     publishedDateTime: 2024-03-04T04:18:00Z
