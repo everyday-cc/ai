@@ -2,6 +2,92 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2024-01-10-mine-spotting-drones-and-tracked-robots-the-armys-efforts-to-breach-minefields-with-tech.md",
+      "title": "Mine-spotting drones and tracked robots: The Army’s efforts to breach minefields with tech",
+      "excerpt": "Instead, they may reach for a remote control to choose from a menu of drones and tracked robots to sweep away the problem.  Among the several units experimenting with new tech is the 18th Airborne at Fort Liberty,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
+      "originalUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.defenseone.com/media/img/cd/2024/01/09/Screen_Shot_2024_01_09_at_4.19.22_PM/open-graph.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T02:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense One",
+        "domain": "defenseone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-superai-asias-premier-artificial-intelligence-conference-debuts-in-singapore.md",
+      "title": "SuperAI, Asia's Premier Artificial Intelligence Conference, Debuts in Singapore",
+      "excerpt": "Edward Snowden, Benedict Evans and Balaji Srinivasan amongst others to take the stage at SuperAI from 5-6 June 2024 SINGAPORE, Jan. 10, 2024 /PRNewswire/ --SuperAI, Asia's premier artificial intelligence (AI) conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
+      "originalUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1705653033793.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T02:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai.md",
       "title": "Microsoft and PNNL team up to build better batteries using AI",
       "excerpt": "Microsoft has announced a partnership with PNNL to use AI and quantum computing to accelerate battery and materials research for energy storage solutions.",
@@ -980,92 +1066,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-california-eyes-using-generative-artificial-intelligence-to-help-solve-traffic-problems.md",
-      "title": "California eyes using generative artificial intelligence to help solve traffic problems",
-      "excerpt": "Southern California drivers are no stranger to sitting in traffic during their commute, and now state officials want to figure out how to use artificial intelligence for possible solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/california-artificial-intelligence-traffic-solutions/14300492/",
-      "originalUrl": "https://abc7.com/california-artificial-intelligence-traffic-solutions/14300492/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/14305847_011024-kabc-tues-3pm-traffic-ai-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/california-artificial-intelligence-traffic-solutions/14300492/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/california-artificial-intelligence-traffic-solutions/14300492/",
-      "publishedDateTime": "2024-01-09T13:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
-      "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
-      "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/09/screenshot_2024-01-09_at_6.58.18_pm.png?width=1200&height=800&fit=crop",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36555269",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36555269",
-      "publishedDateTime": "2024-01-09T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

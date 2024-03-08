@@ -2,6 +2,109 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-12-29-you-wont-need-a-samsung-phone-to-benefit-from-galaxy-s24s-ai-call-translation.md",
+      "title": "You won't need a Samsung phone to benefit from Galaxy S24's AI call translation",
+      "excerpt": "A new report has shed more light on Samsung's innovative AI Live Translate Call feature, from languages to device support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/",
+      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2020/04/Samsung-logo-Galaxy-S20-4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-29T07:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-1-artificial-intelligence-ai-stock-down-58-to-buy-hand-over-fist-in-2024.md",
+      "title": "1 Artificial Intelligence (AI) Stock Down 58% to Buy Hand Over Fist in 2024",
+      "excerpt": "Fool.com contributor Parkev Tatevosian highlights how this company implements AI to improve its customer value proposition. *Stock prices used were the afternoon prices of Dec. 26, 2023. The video was published on Dec. 28, 2023. Parkev Tatevosian, CFA has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/29/1-artificial-intelligence-ai-stock-down-58-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/29/1-artificial-intelligence-ai-stock-down-58-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759620/person-looking-at-phone.jpg",
+          "width": 2119,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-29T07:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-artificial-intelligence-trends-to-watch-in-2024.md",
       "title": "Artificial Intelligence Trends To Watch In 2024",
       "excerpt": "On the cusp of a new year, it’s worth reflecting on the progress AI has made over the past twelve months, as well as what might lie ahead in 2024.",
@@ -1123,109 +1226,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-non-artificial-intelligence-stocks-making-new-highs.md",
-      "title": "Non-Artificial Intelligence Stocks Making New Highs",
-      "excerpt": "If you followed the financial/business media recently, you might think that only artificial intelligence-related stocks are hot, successful and worth covering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/",
-      "originalUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a96d2e6108273db34c321c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/",
-      "publishedDateTime": "2023-12-27T23:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-11-data-predictions-for-ai-centric-enterprise-growth-in-2024.md",
-      "title": "11 data predictions for AI-centric enterprise growth in 2024",
-      "excerpt": "Key data predictions from industry experts and vendors to help enterprises tap the AI opportunity for growth in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/a_data_cloud_with_2024_written_inside_it_illust-e1703700507903.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T22:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

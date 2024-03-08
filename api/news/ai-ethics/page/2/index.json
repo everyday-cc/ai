@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-21-opinion-ai-elections-and-law-why-no-country-can-tackle-ai-alone.md",
+      "title": "Opinion: AI, Elections And Law - Why No Country Can Tackle AI Alone",
+      "excerpt": "Talks between EU and India on tackling the threat of online disinformation reflect the need for collective global action against the risks posed by generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "originalUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-08/295nvsms_deepfake-generic_625x300_22_August_23.jpg?ver-20240117.06",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ai-elections-and-law-india-eu-talks-underline-why-collective-action-is-important-5099192/amp/1",
+      "publishedDateTime": "2024-02-21T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-uncovered-unknown-and-uncertain-guiding-ethics-in-the-age-of-ai.md",
       "title": "‘Uncovered, unknown, and uncertain’: Guiding ethics in the age of AI",
       "excerpt": "and nongovernmental organizations on novel questions concerning digital ethics. In a recent conversation with Yale News, Floridi discussed his work with the European Union to establish protections in the use of artificial intelligence, the center’s ...",
@@ -1391,49 +1434,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-china-willing-to-join-global-efforts-on-ai-ethics-governance.md",
-      "title": "China willing to join global efforts on AI ethics, governance",
-      "excerpt": "China is also willing to listen to all parties, carry out communication, exchanges and pragmatic cooperation on global AI, jointly build an open, fair and effective governance mechanism, and promote AI to benefit all mankind, Wang added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202402/06/WS65c18f1da3104efcbdae9e48.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202402/06/WS65c18f1da3104efcbdae9e48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202402/06/65c18f1da3104efc330270ae.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

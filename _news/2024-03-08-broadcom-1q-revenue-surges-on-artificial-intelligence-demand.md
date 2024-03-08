@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/broadcom-1q-revenue-surges-on-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53"
 type: article
 quality: 87
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip"
+    excerpt: "Broadcom said on Thursday it expects US$10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company’s full-year forecast failed to impress investors."
+    publishedDateTime: 2024-03-08T04:20:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 101
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/08/aca0ec53-7b33-408f-8d3d-d58d1e8781fb_31b6e3d9.jpg?itok=M-6jUhF_&v=1709871585"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Broadcom sees $10 billion in AI chip sales in 2024, but shares dip"
     excerpt: "Broadcom said on Thursday it expects $10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company's full-year forecast failed to impress investors."
     publishedDateTime: 2024-03-08T01:26:00Z
@@ -52,25 +66,11 @@ related:
     provider:
       name: The Straits Times
       domain: straitstimes.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/03/08/aibroadcom080324.JPG"
         width: 860
         height: 573
-        isCached: true
-  - title: "Is Broadcom an Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before Its Big News on Thursday?"
-    excerpt: "Missed Out on Nvidia Stock's Terrific Surge? Buy This Cheap Artificial Intelligence (AI) Stock That Could Jump Another 25% in the Next Year Artificial Intelligence (AI) Could Make Semiconductors a $1 Trillion Market by 2030: Here Are 3 Top Stocks to Buy Now"
-    publishedDateTime: 2024-03-05T05:50:00Z
-    webUrl: "https://www.fool.com/investing/2024/03/05/is-broadcom-an-artificial-intelligence-ai-stock-to/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 65
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/767825/computer-chip-engineer.jpg"
-        width: 2120
-        height: 1414
         isCached: true
   - title: "Broadcom’s AI Outlook Is Key When It Reports Earnings Today"
     excerpt: "An analyst estimates Broadcom will generate $8 billion to $9 billlion in AI chip revenue for fiscal 2024."

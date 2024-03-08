@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-02-27-amazon-bedrock-a-solid-generative-ai-foundation.md",
+      "title": "Amazon Bedrock: A solid generative AI foundation",
+      "excerpt": "Amazon Bedrock complements the almost 30 other Amazon machine learning services available, including Amazon Q, the AWS generative AI assistant. One major competitor to Amazon Bedrock is Azure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
+      "originalUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_2024657870-100961571-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
+      "publishedDateTime": "2024-02-27T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.md",
+      "title": "Samsung unveils new memory chip with 'highest-capacity to date' for AI",
+      "excerpt": "The South Korean chip giant claimed the HBM3E 12H \"raises both performance and capacity by more than 50%.\" \"The industry's AI service providers are increasingly requiring HBM with higher capacity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107092512-1658451020614-gettyimages-1241746860-AFP_32DY37A.jpeg?v=1658451030",
+          "width": 4727,
+          "height": 3016,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/27/samsung-unveils-new-memory-chip-with-highest-capacity-to-date-for-ai.html",
+      "publishedDateTime": "2024-02-27T05:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
       "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
       "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
@@ -1000,64 +1104,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-26-how-metas-llama-3-will-impact-the-future-of-ai.md",
-      "title": "How Meta’s Llama 3 will impact the future of AI",
-      "excerpt": "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n",
+      "path": "_news/2024-02-26-nwogu-weighs-in-on-bias-in-facial-recognition-software.md",
+      "title": "Nwogu weighs in on bias in facial recognition software",
+      "excerpt": "UB computer scientist Ifeoma Nwogu spoke with UBNow about how AI has evolved through the years and offers her perspective on bias in facial recognition programs.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/llama-3/",
-      "originalUrl": "https://www.ibm.com/blog/llama-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.md",
-      "title": "Meta to set up team to counter disinformation, AI abuse in EU elections",
-      "excerpt": "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European Parliament elections in June amid concerns about election interference and misleading AI-generated content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html",
-      "originalUrl": "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html",
+      "webUrl": "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "originalUrl": "https://www.buffalo.edu/ubnow/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.zenfs.com/en/aol_reuters_29/56cb1901f0b71c523216864cade4a592",
-          "width": 800,
-          "height": 497,
+          "url": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition/_jcr_content/teaser.img.512.auto.jpg/1708706762075.jpg",
+          "width": 512,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1067,11 +1128,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T12:02:00Z",
+      "publishedDateTime": "2024-02-26T13:17:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1081,58 +1142,7 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-hr-leaders-must-ensure-ai-adoption-is-a-success.md",
-      "title": "HR Leaders Must Ensure AI Adoption Is A Success",
-      "excerpt": "It's a steep learning curve, but the longer we wait to start, the steeper it gets. Because AI adoption requires frontline managers' understanding and cooperation, I believe HR leaders are integral to its success. When the discussion of AI adoption begins ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8989b0216c468579d5548/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
-      "publishedDateTime": "2024-02-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

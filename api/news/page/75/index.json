@@ -2,6 +2,92 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2024-01-09-california-eyes-using-generative-artificial-intelligence-to-help-solve-traffic-problems.md",
+      "title": "California eyes using generative artificial intelligence to help solve traffic problems",
+      "excerpt": "Southern California drivers are no stranger to sitting in traffic during their commute, and now state officials want to figure out how to use artificial intelligence for possible solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/california-artificial-intelligence-traffic-solutions/14300492/",
+      "originalUrl": "https://abc7.com/california-artificial-intelligence-traffic-solutions/14300492/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/14305847_011024-kabc-tues-3pm-traffic-ai-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/california-artificial-intelligence-traffic-solutions/14300492/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/california-artificial-intelligence-traffic-solutions/14300492/",
+      "publishedDateTime": "2024-01-09T13:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
+      "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
+      "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
+      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/09/screenshot_2024-01-09_at_6.58.18_pm.png?width=1200&height=800&fit=crop",
+          "width": 668,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36555269",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36555269",
+      "publishedDateTime": "2024-01-09T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-cognitive-supply-chain-market-is-expected-to-reach-us-404-billion-by-2034-expanding-at-a-156-cagr-future-market-insights-inc.md",
       "title": "Cognitive Supply Chain Market is Expected to Reach US$ 40.4 Billion by 2034, Expanding at a 15.6% CAGR | Future Market Insights, Inc.",
       "excerpt": "The cognitive supply chain market is estimated to be worth US$ 9.5 billion in 2024 and is projected to be valued at US$ 40.4 billion in 2034. Between 2024 and 2034, the industry is expected to register a CAGR of 15.",
@@ -991,83 +1077,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-amazon-closes-a-business-designed-to-take-on-kroger-walmart.md",
-      "title": "Amazon closes a business designed to take on Kroger, Walmart",
-      "excerpt": "Amazon scaled back many of its brick-and-mortar ambitions last year. As the company laid off workers, it also gave up on its fashion and \"5 Star\" brick-and-mortar projects. Those cuts came not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/retailers/amazon-closes-another-key-business",
-      "originalUrl": "https://www.thestreet.com/retailers/amazon-closes-another-key-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-expedera-npus-run-large-language-models-natively-on-edge-devices.md",
-      "title": "Expedera NPUs Run Large Language Models Natively on Edge Devices",
-      "excerpt": "Expedera NPU IP adds native support for LLMs, including stable diffusion; Origin NPUs deliver the power-performance profile needed to run LLMs on edge and portable dev",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9941947.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9941947.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T13:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

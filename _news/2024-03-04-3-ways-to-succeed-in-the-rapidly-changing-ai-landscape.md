@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-r
 webUrl: "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Entrepreneur
@@ -27,6 +27,17 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Five Top Game-Changing AI Stocks to Buy and Hold Today"
+    excerpt: "All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE: VERS) (OTCQB: VRSSF), Nvidia (NASDAQ: NVDA), Microsoft (NASDAQ ... VRSSF), For Example VERSES AI Inc., a cognitive computing company developing next-generation ..."
+    publishedDateTime: 2024-03-07T20:07:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24627003/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
 
 secured: "SYutL0sKLLtSnNSYGk4GzFD2UV21yszdsdODyVdDS/ahb2MInmSj7SKtqgt/OR4zPO8rPLC174I1ha84mCKRaAWa73LU0TJR/mE3P+MmlGrt9JBYbyK38O1u29Usw+7R9fuRcavJLFUreOmEklSGCbRWk67CToo+WuWYewFVGsuD6irLVmBunIg90JQBcnMDmXh22Pn2BtXVpPv2Eao2rdlBl2GZqWdU+y6YRpmBokq3kHwMC3M+0aruYjn4UO/U4LO6CcyKhRLr+XT58ozZlLJ7HsgKrXxhMY2q5ZHFKNWFNeC+ESuojUM6X7gLadk2tk1GPe5B3TiAmCuNB+zKtlaQSvW1HpZU5vjSNNoMr68=;uALOHEUlAy23eQyBfBYHzw=="
 ---
