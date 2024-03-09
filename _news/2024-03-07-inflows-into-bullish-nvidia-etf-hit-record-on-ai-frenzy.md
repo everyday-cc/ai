@@ -37,6 +37,29 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What you need to know about Nvidia and the AI chip arms race"
+    excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
+    publishedDateTime: 2024-03-08T22:18:00Z
+    webUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 56
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200"
+        width: 1200
+        height: 807
+        isCached: true
+  - title: "3 AI Stocks That Nvidia Should Buy Next"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
+    publishedDateTime: 2024-03-08T20:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-nvidia-should-buy-next-1033147633"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "KvN79j9nuEBJH4cuTiX0aAaB3R/lWrJNV5FVhSJ8Fo5/dQFZ3zg5rptgsDMXTPn68PqhTJKLZDL8UrByhk9D+f3lROQYEQm7y0GrBK4qwKGX2n783xByXlMLcTYkufvREgwd3i1YIzLae97e9b8O8LZ2rXsBXFUyBtVfg+8kr74zEx6eMipKkBMcqGg4uf+kF2sLmDygj+avSUydeRynQ8E1G39b5On8VIASsViuTPZcDZ3zv2up+PCeinLzz9KSCqqbdX8ogJLfKmROs9FmdEx+mFyKnTlNpbqSPrISh0JHglOV0LciT6l/pU0gk8npothUGNK0qFXoosl+UZCk9bawbSvSaMYULm19WDzjLeTTsCMe0DVV7KseZse06Uost8mqPSVcHXuJzw/hA6IiJ2KTmKShepCniiIs9p3pZUcDK/PlrnEl9O2geo5fl8h4vfmllq3p/yxo8YIuIAitTEHPD/0rUgJqfUpn3bk/NlvKc5+giistUytzEaHoqRzygM7VbfuNAteIN0egzFKyUQ==;FBec3GsHXSI/dTryxtZVxw=="
 ---

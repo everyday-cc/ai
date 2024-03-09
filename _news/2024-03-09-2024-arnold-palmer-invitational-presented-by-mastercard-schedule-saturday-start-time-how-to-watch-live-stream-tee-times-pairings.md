@@ -7,7 +7,7 @@ originalUrl: "https://www.kcbd.com/sports/betting/2024/03/09/arnold-palmer-invit
 webUrl: "https://www.kcbd.com/sports/betting/2024/03/09/arnold-palmer-invitational-presented-by-mastercard-pga-round-3-live-stream-tee-times/"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "2024 Blue Bay LPGA Schedule: Saturday Start Time, How to Watch Live Stream, Tee Times & Pairings"
+    excerpt: "Get up-to-date information on the 2024 Blue Bay LPGA tee times, schedule, pairings and all the info you need to watch live online."
+    publishedDateTime: 2024-03-09T18:51:00Z
+    webUrl: "https://www.wbrc.com/sports/betting/2024/03/09/blue-bay-lpga-lpga-round-4-live-stream-tee-times/"
+    type: article
+    provider:
+      name: WBRC FOX6 News
+      domain: wbrc.com
+    quality: 24
+    images:
+      - url: "https://gray-wbrc-prod.cdn.arcpublishing.com/resizer/v2/VOQPP66ICNPFFMYBNVMLMBMJ5A.jpg?auth=13dd870cdfba301d560f08ae65aaa9a7098c33889d6a898115591c1dbae3d620&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2cgZwzFRZBV8UY8V/2s4ZBv3EwCWLiDqtzKSfTnHCsIg87GShDKVxN4BQNiOp+wvBXByoQVlZriCpvs+1XabMNd3i9NWSS3rlufq6dBWSokAX0X1FlNZbxqQp/b+TA5EUCoCTvttoVZ4tAIux3fbRkFlLuU9aK+WVVNn1TEgNmFrumcvmZosP9Juran9/IWt2tFm5XpTjiF43Qcsyl70TU37yH6PNO/Jcl3F6GvlkRv81ygTG//mC016AtmMwEI3DT+hpU+PPkpPQnkcVE4CMp4fRRyYnq7nwZEWyX63jsuKRZ9u5mOlgGsxv2FPNjjcrJiPkMs3PinyRQ/t3Lr/Zx2AaVbJdOjpewSIDere3so=;Lj/O6Dt+cQGAEv0cWO8lsg=="
 ---

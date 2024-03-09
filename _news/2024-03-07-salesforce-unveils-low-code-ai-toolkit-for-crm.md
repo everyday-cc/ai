@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-cod
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
 type: article
 quality: 119
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "OpenAI, Salesforce Sign Pledge to Build AI for Good of Humanity"
-    excerpt: "OpenAI, Salesforce Inc. and other tech companies signed an open letter highlighting a “collective responsibility” to “maximize AI’s benefits and mitigate the risks” to society, in the tech industry’s latest effort to call for building artificial intelligence responsibly."
-    publishedDateTime: 2024-03-04T17:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-04/openai-salesforce-sign-pledge-to-build-ai-for-good-of-humanity"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant"
     excerpt: "Plus, at the Trailblazer TDX 2024 conference, Salesforce introduced the Slack Developer Program and showed research into AI adoption and IT."
     publishedDateTime: 2024-03-06T13:00:00Z

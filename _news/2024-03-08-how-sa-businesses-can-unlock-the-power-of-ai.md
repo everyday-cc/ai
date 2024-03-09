@@ -25,22 +25,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "AI Might Rescue the Video Game Industry. Can It Save Your Business?"
-    excerpt: "The video game industry needs a hero, and artificial intelligence might just save the day."
-    publishedDateTime: 2024-03-04T17:48:00Z
-    webUrl: "https://www.inc.com/ben-sherry/ai-might-rescue-video-game-industry-can-it-save-your-business.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/video-game-ai-inc-177149724_538039_bfiuw5.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-
 secured: "nXksUb+RxPMagGN0dgt9oj+kkaJpS1c2qJUaL78enrCfb1pnBhV2VxgVFFcyRT0+W86TqmNHJF1x9vF0U4X2VuNVA0IYna3+oW/IMhUEHD9ztU5omQbQWPsL4AebcSSd0AFKiT8VD/NfZ+GOD2g3nESh8BcHu0/ewlN+lzoMNIWAReHoE9L96BnERYeFVtDU9S7viGzGevpY/gytoZiIAnlb5ax7PvnLctVpZqAjHxdBhlcVQsOFtRTAEWs/ASpW1UQiKgjeMZkySnUxM7puVazhQUdea5vIEe7KPZVVXse9sFD+DXuuvCnu8dk2UQnLNb6z1OnIBldYx8hfsieuIe4dRDJmTqHWk+rkIUY1y/iCEfns6epuQ//S1277IX8bVTR9Sk7LSfrviFN3Zbzf0J2ksZG94K8jvbVZABfIYTXg5dq9euhOe1xcQkZp8V9XQq0CYa0159/KBLOHXXqtH3CzZvoolAIAuWIc5bDJ/1FeFZnQ9pmOt0SFNe3VEY6xvHxO0TeSoUH6Rdy9309kRw==;wbR76XQrrD5MrHeGcy6OaQ=="
 ---
 

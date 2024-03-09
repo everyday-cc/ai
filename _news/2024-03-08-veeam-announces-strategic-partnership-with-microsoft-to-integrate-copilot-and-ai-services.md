@@ -33,15 +33,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
-    excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
-    publishedDateTime: 2024-03-04T18:14:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 47
   - title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
     excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
     publishedDateTime: 2024-03-05T03:55:00Z

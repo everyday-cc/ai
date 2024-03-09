@@ -51,20 +51,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "How artificial intelligence shakes up local art industry"
-    excerpt: "Researchers say artificial intelligence is a new tool for artists, but it is causing disruption in the art industry."
-    publishedDateTime: 2024-03-04T17:20:00Z
-    webUrl: "https://www.king5.com/article/news/local/seattle/artificial-intelligence-local-art-industry/281-1070ae38-bc45-4303-a57b-9769439ef13d"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 37
-    images:
-      - url: "https://media.king5.com/assets/KING/images/7dd345e6-a958-4d91-8df6-72e7adedc0ac/7dd345e6-a958-4d91-8df6-72e7adedc0ac_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "eplmx+u9nUF+5e9CPJLBfZFcaO0K1mSM6AHBQe5vQsOCo2aZv1Gui9ETXVUAGcnnaps66lp7yijSmiG4uYGvEl7iZ/ALe2BqFmNRzQzjelldDdcux1EEcNOAPy56p+R8uIMUejSDYd5j291G2Ul3wyq8ND10Ed1FyyqATPA8Wb/oXKe5FCjJ6+71vfizvrxVCGMjgZ7UFCLeWvzHMBX71nvCPqTqg4s+A2AYQMOxYDTgjne/a3fQZBGxFz7Y8NT7WWc5vdv87YxbQM6iIDT/1XDu7YDqa5YSnvqFJAJtSw2uMr2hQZPvgHpoCCmNBks7CRYqR73GPmycWtLwoqZUfPh2V523igPjL0pbi1dYPiGhydTT7NmMNVwt70qrpx3h7MYKTKzP1pVvIFfJcmNtf2s/GHR4ad+qDbLM8c8s8Nndiq0vw+lmUSrVurrDVj4F0+gvbIapD+3jrU9gna8SMVZJ84xY9Isuj58/1tXKsznDWbZmly4X/c8lhwrR0jToaP0gtB3fcjPlZe67OyL9JQ==;63sjVqXzvSNUMPZmPYqLDA=="
 ---

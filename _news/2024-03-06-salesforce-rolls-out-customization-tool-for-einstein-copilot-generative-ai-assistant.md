@@ -55,15 +55,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "OpenAI, Salesforce Sign Pledge to Build AI for Good of Humanity"
-    excerpt: "OpenAI, Salesforce Inc. and other tech companies signed an open letter highlighting a “collective responsibility” to “maximize AI’s benefits and mitigate the risks” to society, in the tech industry’s latest effort to call for building artificial intelligence responsibly."
-    publishedDateTime: 2024-03-04T17:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-04/openai-salesforce-sign-pledge-to-build-ai-for-good-of-humanity"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Salesforce aims to blaze new generative AI trail for developers with Einstein 1 Studio"
     excerpt: "Einstein 1 Studio provides a set of tools that can enable developers to customize the Salesforce Einstein Copilot gen AI assistant."
     publishedDateTime: 2024-03-06T13:00:00Z

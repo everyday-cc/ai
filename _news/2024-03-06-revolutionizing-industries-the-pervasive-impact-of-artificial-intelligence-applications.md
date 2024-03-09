@@ -40,34 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Cloudflare announces Firewall for AI to secure AI applications"
-    excerpt: "“With Cloudflare’s Firewall for AI, we are helping build security into the AI landscape from the start. We will provide one of the first-ever shields for AI models that will allow businesses to take advantage of the opportunity that the technology ..."
-    publishedDateTime: 2024-03-04T17:37:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/press-release/53098113/cloudflare-announces-firewall-for-ai-to-secure-ai-applications"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/03/65e6033779a201001efcb16d-292256720e86fc17f2801f0e9bedebaa.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conference on AI application in Qatar's supervision, financial sectors kicks off"
-    excerpt: "A conference on Artificial Intelligence (AI) applications in the supervision and ... its prospects, risks, standards, ethics, and how to benefit from it in supervision work. In his opening remarks, Assistant President for Performance and Compliance Control ..."
-    publishedDateTime: 2024-03-04T18:32:00Z
-    webUrl: "https://www.gulf-times.com/article/678368/business/conference-on-ai-application-in-qatars-supervision-financial-sectors-kicks-off"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 34
-    images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2024/03/04/thumbs/300x300/149093.jpg"
-        width: 300
-        height: 224
-        isCached: true
   - title: "SingleStore Partners with AWS to Advance Real-Time Data Analytics and AI Applications"
     excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, announced it"
     publishedDateTime: 2024-03-07T14:32:00Z

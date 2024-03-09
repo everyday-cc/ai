@@ -128,17 +128,6 @@ related:
         width: 400
         height: 363
         isCached: true
-  - title: "Anthropic Launches Chatbot To Rival ChatGPT and Google Bard"
-    excerpt: "Artificial Intelligence startup Anthropic has launched its most powerful generative AI as a major competitor to ChatGPT and Google Bard"
-    publishedDateTime: 2024-03-04T18:23:00Z
-    webUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/"
-    ampWebUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 41
 
 secured: "uNUfYzoYuupBAuPq0p8F6xoNwm1VtyYfgw+Ksi/K9r34zwpMiWVR4jtl8yNfw4INuz9ZhpnHOQmjuQ0DYleX/jnkcYUryhUWG0PRrtmqo+k9yAOqsz1rpXMxuekYxmbnbVVxZoVWQ/kyxCRyI1EWCEH/XKpmmLZ7XuOMlBvXgi5HDOaV1Wuuddv5wNQ5oWHYtKT6vK6lrZ0gC8iw9+cO6VDIidJM9n8V5SJgNDmU8d4B3oM+NpLcAUhAZG9hQmdWd9Nphv2xNPbEAtbYtW3XLZgOxzH5Vz1T6/Z6oa85WzzddiSpLl50PXoZD3GiBwIUFLRfZN4b351ESd4pIwm1EKy16MjTbCiCex40ZsyjBo787HxTtPjOqgW5FsnnCTfeCGHlSZUktbW9aJuO+Vs6GrYBiBECYCTKVLjPIdAJt1A3zrXKYLyM79iDH0DKPtbfUfPYDjSyedPTV3kypRIUNqSAFhZ4TaIKmyHwFWdsKQJaWIRq7Knomj8m/mrnDDapheJ3Pk6vqM1IQ1p0hr6JOQ==;xyp+NN6O2cvVmtCdHbJvdA=="
 ---

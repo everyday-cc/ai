@@ -34,15 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Bezos, OpenAI and Microsoft Back Humanoid Robot Startup in $675 Million Funding"
-    excerpt: "Sarcos Technology & Robotics (NASDAQ:STRC), Kratos Defense & Security Solutions (NASDAQ:KTOS) and Tesla (NASDAQ:TSLA) are developing and deploying AI & robotics solutions to boost the workforce, protect the public and redefine human possibilities."
-    publishedDateTime: 2024-03-04T18:14:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/24533956/bezos-openai-and-microsoft-back-humanoid-robot-startup-in-675-million-funding/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 47
   - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
     excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
     publishedDateTime: 2024-03-07T16:17:00Z

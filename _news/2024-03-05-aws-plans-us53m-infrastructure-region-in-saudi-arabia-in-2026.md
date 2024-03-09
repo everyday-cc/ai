@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "AWS to invest more than $5.3 billion in Saudi Arabia; launch new infrastructure Region"
-    excerpt: "AWS has committed to investing in the Kingdom of Saudi Arabia by upskilling local students, developers, technical and non-technical professionals and future IT leaders. The cloud major will achieve this goal through various initiatives such as AWS Academy, AWS Educate, AWS re/Start, and AWS Skill Builder."
-    publishedDateTime: 2024-03-04T17:18:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2848697-aws-to-invest-more-than-53-billion-in-saudi-arabia-launch-new-infrastructure-region?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 51
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_08_2019_17_54_20_6413942.jpg?width=1280"
-        width: 1280
-        height: 854
-        isCached: true
   - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 bln"
     excerpt: "to support the growing adoption of artificial intelligence technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Advt Apple and Amazon, led by its AWS ..."
     publishedDateTime: 2024-03-05T02:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successo
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How NVIDIA leads the world by making AI user-friendly"
+    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
+    publishedDateTime: 2024-03-06T19:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
   - title: "Nvidia Surpasses $2 Trillion Cap Amid AI Demand Surge"
     excerpt: "Leading semiconductor entity, Nvidia, recently achieved a $2 trillion market capitalization, powered by high demand for its"
     publishedDateTime: 2024-03-05T13:14:00Z

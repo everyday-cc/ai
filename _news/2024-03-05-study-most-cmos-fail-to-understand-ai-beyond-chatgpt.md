@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fa
 webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
 type: article
 quality: 86
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -125,17 +125,6 @@ related:
         width: 400
         height: 363
         isCached: true
-  - title: "Anthropic Launches Chatbot To Rival ChatGPT and Google Bard"
-    excerpt: "Artificial Intelligence startup Anthropic has launched its most powerful generative AI as a major competitor to ChatGPT and Google Bard"
-    publishedDateTime: 2024-03-04T18:23:00Z
-    webUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/"
-    ampWebUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 41
   - title: "Can AI help me pack? Tips for using ChatGPT, other chatbots for daily tasks"
     excerpt: "Many fear AI, but ChatGPT, Bing Chat and other bots can help with tasks ranging from shopping, to planning meals and trips."
     publishedDateTime: 2024-03-05T09:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Market-Behavior-Graph-Hologram--Sunset-P.jpeg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "iOS 18 is all about iPhone AI, and Apple’s M3 MacBook Air announcement is proof"
-    excerpt: "Enhancing an image with AI using Photomator’s Super Resolution feature is up to 40 percent faster than the 13-inch model with the M1 chip, and up to 15x faster for customers who haven’t upgraded to a Mac with Apple silicon.1 Later, Apple calls the M3 ..."
-    publishedDateTime: 2024-03-04T18:32:00Z
-    webUrl: "https://bgr.com/tech/ios-18-is-all-about-iphone-ai-and-apples-m3-macbook-air-announcement-is-proof/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 35
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/08/macbook-air-2023-7.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1406
         isCached: true
 
 secured: "skbsYrTpAsfpeaqTtx8AT9atXk77KswK358Oy9hDd4be1QHqd4Kvq4kcIlCg2cCiLnNoFOhjnaXoyHNr7XjmZ289mliRec5Dmoj8mGxJNlKD11tLV2hRia7IViy+/wR0Rw5ORNjEEUawc/1OrdJG8dAEoCEPMcFiMvVRopnVfXx4L1QnpuCQmOBmpDo5pAj28mhswArVggK8QWYjxI2QTSp51ruQrhOVHQHMDXFof+VvdMxzRZ9AsDcW2Bsy7UFRVoUXoC6Q04Mx8Bvk1T2nU9fu1z1hEb1RcZy4tGuF0S4VQcOhi2wRJR+Sp98/cHmRia61oXpBa+rjScQvHFtmeQlOCisFZ84bwN3dDnS3zw3rsqrloCX/t9yJAsv4Mj8ARtOL4sVmFwTvf5/ZYSfMttRPDZQ1yFEef1y8e7+/an+XrIUZIhPt7bD8cWyI8+hewEzIR6vhoE8bbwnri0rJAf0bIm+fouybYwc2yuc5AY6sTMJIUaiBOCNo4dgEBRPFCfClZYazyY/lI1Ht49wmBw==;fnUe+4u2T7Sms7jKydYiKg=="

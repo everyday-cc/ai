@@ -52,20 +52,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
-  - title: "How artificial intelligence shakes up local art industry"
-    excerpt: "Researchers say artificial intelligence is a new tool for artists, but it is causing disruption in the art industry."
-    publishedDateTime: 2024-03-04T17:20:00Z
-    webUrl: "https://www.king5.com/article/news/local/seattle/artificial-intelligence-local-art-industry/281-1070ae38-bc45-4303-a57b-9769439ef13d"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 37
-    images:
-      - url: "https://media.king5.com/assets/KING/images/7dd345e6-a958-4d91-8df6-72e7adedc0ac/7dd345e6-a958-4d91-8df6-72e7adedc0ac_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "//p8BfHuVlB5BQ/rnp6aIa5f6ENTejtqf0p7cLJdKUJvQD7vQHIM4K7xn7TuQ4S1XZA+5f278PhuU83IAI6KkpZmPwkDyj6j4Z7DgBgT/hThdjIq/p51MfWR7Da/4TdhipGj4WWnT3wRmRrD85MAsc/daDOnMIf/deUmUZmv5GEGMCgVzMQrr2GCIWMr7pOWQdGPY7iPylgotO6UriF+JA+TX/DyeNaqqj/+bcubBLgcTm2COwPeLgS7C12xIly7HXcDCq7NXygHMt0WN6xzWe60bj9EIRNSvv/Kepap7T0NlzvyJKdkjofwlytxZqMV+6lALbn/50KkKE/kgnRcU3DnKHv73XTlAtMbCxC/u5nZQpwMjrHooh1j5xSwp/iFBbIOIRM17Uak1c8/BkgkYgAg47vqRnzzH+bLu/HndctsyKN8e+4GsAZ7mJw0aXtAM0eJ2xEnMwYwhVfDhzXSEtkvCG0tSTbbeARMg6pGLE339jUNIbksU9DlGP/zE6YNFvH0D3KkFELvZwcW7NYh7g==;Tgntjh6YtjBt4yYP2UJqCA=="
 ---
