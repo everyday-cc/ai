@@ -2,6 +2,145 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-12-16-teslas-self-driving-tech-has-competition.md",
+      "title": "Tesla’s Self-Driving Tech Has Competition",
+      "excerpt": "A mass recall of Tesla’s Autopilot feature and crisis at General Motors’ autonomous-taxi business might give the impression that self-driving cars have hit a roadblock. In fact, the technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2",
+      "originalUrl": "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-900927/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-16T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-some-experts-push-for-transparency-open-sourcing-in-ai-development.md",
+      "title": "Some experts push for transparency, open sourcing in AI development",
+      "excerpt": "In 2018, Hinton, LeCun and Yoshua Bengio, all so-called \"Godfathers of A.I,\" shared the Turing Award for their groundbreaking research. After being hired to Facebook by Zuckerberg, LeCun's AI work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-yan-lecun-meta-transparency-open-sourcing/",
+      "originalUrl": "https://www.cbsnews.com/news/artificial-intelligence-yan-lecun-meta-transparency-open-sourcing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/16/953beebf-4d3f-4f8c-9b5b-1b62721e5112/thumbnail/1200x630/6b884214edc690d81ab5cf44e0f86db7/1216-satmo-yannlecunintvfull-ytonly.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-yan-lecun-meta-transparency-open-sourcing/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-yan-lecun-meta-transparency-open-sourcing/",
+      "publishedDateTime": "2023-12-16T14:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-deepmind-says-its-ai-solved-a-math-problem-that-humans-were-stumped-by.md",
+      "title": "DeepMind Says Its AI Solved a Math Problem That Humans Were Stumped By",
+      "excerpt": "DeepMind claims that for the first time, an AI has solved a famously difficult math problem with a solution that eluded human mathematicians — which could be huge if it holds up to scrutiny.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/deepmind-ai-math-solution",
+      "originalUrl": "https://futurism.com/the-byte/deepmind-ai-math-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/12/deepmind-ai-math-solution.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-16T13:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-16-my-one-big-tech-fueled-prediction-for-2024-ai-vanishes.md",
       "title": "My One Big Tech-Fueled Prediction for 2024: AI ‘Vanishes’",
       "excerpt": "So, here we go: In the year ahead, artificial intelligence will become ever more pervasive. So pervasive, in fact, that it will start to become invisible — to actually begin to vanish, from the hype cycles, even from our consciousness.",
@@ -1044,155 +1183,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-googles-tensorflow-revolutionizing-machine-learning-and-ai-development.md",
-      "title": "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development",
-      "excerpt": "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
-      "originalUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/Googles-TensorFlow-Revolutionizing-Machine-Learning-and-AI-Development.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-deepminds-ai-finds-new-solution-to-decades-old-math-puzzle-outsmarting-humans.md",
-      "title": "DeepMind’s AI finds new solution to decades-old math puzzle — outsmarting humans",
-      "excerpt": "The LLM got closer than ever before to cracking the cap set problem, which has perplexed mathematicians for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
-      "originalUrl": "https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2Fmath-code-science-AI.jpg&signature=c7d51f05d2f90d69e7dd1049a3691f58",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-could-blockchain-be-a-key-factor-for-trustworthy-ai.md",
-      "title": "Could Blockchain Be A Key Factor For Trustworthy AI?",
-      "excerpt": "And this is where blockchain might prove useful. Using blockchain, we can create a cryptographic proof of a model’s inference. Inference essentially means the querying of a model. With so-called zero-knowledge proofs, we can confirm that an inference to a model has been made, how the model was prompted and which model was queried.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/628d34262b0242a41f0215a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1590,
-          "height": 894,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/15/could-blockchain-be-a-key-factor-for-trustworthy-ai/amp/",
-      "publishedDateTime": "2023-12-15T14:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

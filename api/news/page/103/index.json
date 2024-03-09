@@ -2,6 +2,144 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-12-10-the-psychological-effects-of-self-driving-cars.md",
+      "title": "The Psychological Effects of Self-Driving Cars",
+      "excerpt": "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/pexels-matheus-bertelli-799443.jpg?itok=5Yxn1naW",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
+      "publishedDateTime": "2023-12-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-ai-ethics-team-clears-adobes-products-india-unit-md.md",
+      "title": "AI ethics team clears Adobe’s products: India unit MD",
+      "excerpt": "Adobe India managing director Prativa Mohapatra on Friday said the company prioritises review of its AI ethics committee before going ahead with product development. This is done to ensure that whatever innovative technology Adobe is developing must be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-08T214235.605.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-ethics-team-clears-adobes-products-india-unit-md-3333843/lite/",
+      "publishedDateTime": "2023-12-09T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-amd-stock-all-eyes-on-the-new-ai-chip-heres-what-morgan-stanley-expects.md",
+      "title": "AMD Stock: All Eyes on the New AI Chip — Here’s What Morgan Stanley Expects",
+      "excerpt": "On Thursday, December 7, 2023, semiconductor chip powerhouse Advanced Micro Devices (NASDAQ:AMD) unveiled its newest line of chips designed",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-all-eyes-on-the-new-ai-chip-—-here-s-what-morgan-stanley-expects-1032887454",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-all-eyes-on-the-new-ai-chip-—-here-s-what-morgan-stanley-expects-1032887454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/12/image-221-1024x520.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-09T13:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.md",
       "title": "Combining artificial intelligence and spectral imaging accurately identifies skin cancer",
       "excerpt": "In a groundbreaking doctoral study, artificial intelligence (AI) has proven its ability to accurately distinguish malignant skin lesions from benign ones using hyperspectral imaging (HSI). Prior to AI analysis,",
@@ -999,152 +1137,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-get-ready-for-change-with-ibm-cloud-training.md",
-      "title": "Get ready for change with IBM Cloud Training",
-      "excerpt": "The IBM Center for Cloud Training's goal is to accelerate your career growth and validate your skills with industry-recognized credentials.\nThe post Get ready for change with IBM Cloud Training appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/get-ready-for-change-with-ibm-cloud-training/",
-      "originalUrl": "https://www.ibm.com/blog/get-ready-for-change-with-ibm-cloud-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-notebooklm-adds-more-than-a-dozen-new-features.md",
-      "title": "NotebookLM adds more than a dozen new features",
-      "excerpt": "Now available in the U.S., NotebookLM has new features to help you easily read, take notes and organize your writing projects.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/notebooklm-new-features-availability/",
-      "originalUrl": "https://blog.google/technology/ai/notebooklm-new-features-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Notebook_SS-2.width-1300.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/notebooklm-new-features-availability/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/notebooklm-new-features-availability/amp/",
-      "publishedDateTime": "2023-12-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116.md",
-      "title": "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?",
-      "excerpt": "Tech giants, such as Meta and Microsoft, have expressed their intention to buy AMD’s newest AI chip, as they look for alternatives to Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657299f9c6898fd9524d546c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1161,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/",
-      "publishedDateTime": "2023-12-08T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

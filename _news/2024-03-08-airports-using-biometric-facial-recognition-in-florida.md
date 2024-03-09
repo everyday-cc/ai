@@ -7,7 +7,7 @@ originalUrl: "https://www.clickorlando.com/insider/2024/03/08/airports-using-bio
 webUrl: "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/"
 type: article
 quality: 54
-heat: 105
+heat: 104
 published: true
 
 provider:

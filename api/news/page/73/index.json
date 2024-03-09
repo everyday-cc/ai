@@ -2,6 +2,126 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2024-01-12-google-kills-17-assistant-features-ahead-of-assistant-with-bard-release.md",
+      "title": "Google Kills 17 Assistant Features Ahead of ‘Assistant with Bard’ Release",
+      "excerpt": "The next victims of Google's slaughter and first entrants of Google Graveyard in 2024 are Google Assistant features, 17 of them.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/google-kills-17-assistant-features/",
+      "originalUrl": "https://beebom.com/google-kills-17-assistant-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T01:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-hpc-in-the-cloud-is-growing-ensure-your-organization-benefits.md",
+      "title": "HPC in the cloud is growing, ensure your organization benefits",
+      "excerpt": "This is driven partly by the demands of artificial intelligence (AI) and machine learning (ML ... infrastructure Featuring a technology spotlight on Amazon Web Services (AWS) and NVIDIA working together to provide performant and easy to use solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
+      "originalUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2024/01/AWS_Cover_72Ver3.jpg",
+          "width": 685,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-the-eight-coolest-inventions-from-the-2024-consumer-electronics-show.md",
+      "title": "The Eight Coolest Inventions From the 2024 Consumer Electronics Show",
+      "excerpt": "This year was as sci-fi cool as always, with translucent televisions, wall-crawling robots, artificial-intelligence-powered vehicles and more. We’ve chosen eight of the neatest and most function ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smithsonianmag.com/innovation/the-eight-coolest-inventions-from-the-2024-consumer-electronics-show-180983577/",
+      "originalUrl": "https://www.smithsonianmag.com/innovation/the-eight-coolest-inventions-from-the-2024-consumer-electronics-show-180983577/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-thumbnailer.cdn-si-edu.com/1prE0AO3B5LBx5PBnvQcP7bHee8=/fit-in/1600x0/filters:focal(512x344:513x345)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fa0%2F1b%2Fa01b726e-d45a-4fdc-8211-b0b0aa0e6082%2Fgettyimages-1913770389.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smithsonian Magazine",
+        "domain": "smithsonianmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-top-10-best-python-libraries-for-deep-learning-in-2024.md",
       "title": "Top 10 Best Python Libraries for Deep Learning in 2024",
       "excerpt": "Python is one of the most popular programming languages in the world, and it’s used extensively in the field of deep learning. Python’s versatility and ease of use make it an ideal language ...",
@@ -902,135 +1022,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy.md",
-      "title": "Illini Insider | Speech Accessibility Project now includes ALS and cerebral palsy",
-      "excerpt": "From left, UI professors Mark Hasegawa-Johnson, Laura Mattie, Marie Moore Channell are working on expanding a database being used to train speech-recognition software to include people whose speech is affected by various conditions, including Parkinson's disease and Down syndrome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-gazette.com/news/local/university-illinois/illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy/article_71188290-94f5-5b71-9dc1-37d19a45084f.html",
-      "originalUrl": "https://www.news-gazette.com/news/local/university-illinois/illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy/article_71188290-94f5-5b71-9dc1-37d19a45084f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/8/30/830c4c8a-4b78-5903-a83f-459f095083da/659f36c62f0f8.image.jpg?crop=1400%2C735%2C0%2C32&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News-Gazette",
-        "domain": "news-gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-llama-pro-ai-progressive-llama-with-block-expansion-research-paper.md",
-      "title": "LLaMA Pro AI progressive LLaMA with block expansion research paper",
-      "excerpt": "Artificial intelligence (AI) is constantly evolving, and researchers are always on the lookout for ways to improve how these systems learn. A recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/llama-pro/",
-      "originalUrl": "https://www.geeky-gadgets.com/llama-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/LLaMA-Pro-AI-model.jpg",
-          "width": 1280,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T10:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-the-future-of-artificial-intelligence-ai-in-2024-and-beyond.md",
-      "title": "The future of artificial intelligence (AI) in 2024 and beyond",
-      "excerpt": "Find out how artificial intelligence (AI) will shape the future in 2024 and why 'future literacy' and 'future agency' are crucial. We shed light on the technological trend, the social impact and the need for new skills in this hyper-digital era.",
-      "sourceUrl": null,
-      "webUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
-      "originalUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morethandigital.info/wp-content/uploads/2023/12/Die-Zukunft-von-Kuenstlicher-Intelligenz-KI-in-2024-und-darueber-hinaus.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T07:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "morethandigital",
-        "domain": "morethandigital.info",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

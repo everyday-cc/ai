@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-11-ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm.md",
+      "title": "AI kitchen gadgets and robots take Las Vegas tech fair by storm",
+      "excerpt": "But as the 2024 Consumer Electronics Show (CES) in Las Vegas gets underway, optimism is running high amid hopes that artificial intelligence (AI ... powered appliances like air-fryers and grills to a robot barista, the food tech at CES 2024 is ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
+      "originalUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/20/520a912d-dfde-5a3b-8fd4-35768ddd4ce2/65a01f2c7be37.preview.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-beatbot-to-make-waves-at-ces-2024-by-unveiling-worlds-first-all-in-one-intelligent-pool-cleaning-robot.md",
       "title": "Beatbot To Make Waves At CES 2024 By Unveiling World's First All-In-One Intelligent Pool Cleaning Robot",
       "excerpt": "With significant advances in efficiency, performance and power, Beatbot AquaSense Pro is truly, The One Pool Robot to Rule Them All.",
@@ -1273,49 +1316,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-robotics-company-using-ai-that-does-engineering-work-by-climbing-walls.md",
-      "title": "Robotics company using AI that does engineering work by climbing walls",
-      "excerpt": "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships.",
-      "sourceUrl": null,
-      "webUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "originalUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wjactv.com/resources/media/6868b2c1-ec44-41ae-b4f3-c1c522ee45f0-large16x9_thumb_58754.png",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "cdnAmpWebUrl": "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "publishedDateTime": "2023-12-24T19:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wjactv",
-        "domain": "wjactv.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

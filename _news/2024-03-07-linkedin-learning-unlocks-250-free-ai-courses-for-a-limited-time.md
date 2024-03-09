@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/linkedin-learning-ai-courses/
 webUrl: "https://www.techrepublic.com/article/linkedin-learning-ai-courses/"
 type: article
 quality: 71
-heat: 81
+heat: 84
 published: true
 
 provider:

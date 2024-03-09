@@ -39,6 +39,20 @@ related:
         width: 4500
         height: 3000
         isCached: true
+  - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
+    excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
+    publishedDateTime: 2024-03-08T14:58:00Z
+    webUrl: "https://fortune.com/education/articles/prompt-engineering-courses/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 71
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "This AI malware worm is capable of turning ChatGPT against you"
     excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
     publishedDateTime: 2024-03-08T22:34:00Z

@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-03-01-ai-in-fintech-marketing-let-the-robots-do-what-they-do-best.md",
+      "title": "AI In Fintech Marketing: Let The Robots Do What They Do Best",
+      "excerpt": "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/629e12f58b003428bdbb3b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/",
+      "publishedDateTime": "2024-03-01T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-ai-in-financial-services-transforming-stock-trading.md",
+      "title": "AI In Financial Services: Transforming Stock Trading",
+      "excerpt": "Atal Bansal is the Founder and CEO at Chetu, a global U.S.-based custom software solutions and support services provider ... more than 50 years. The financial world continued to adopt AI technology as advancements in machine learning, deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65562db3daaf3fc3487ed9b7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1354,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
+      "publishedDateTime": "2024-03-01T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024.md",
+      "title": "Three Custom AI Solutions To Implement To Increase Efficiency In 2024",
+      "excerpt": "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6435b467d9420e08b2b0e670/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
+      "publishedDateTime": "2024-03-01T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog.md",
       "title": "The Energy Sector And AI: Unplugging The Interconnection Queue Backlog",
       "excerpt": "The ripple effect of the interconnection queue goes beyond regulatory delays; it directly impacts organizations' access to affordable and sustainable power.",
@@ -1078,143 +1235,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-figure-ais-675-million-breakthrough-in-humanoid-robotics.md",
-      "title": "Figure AI’s $675 Million Breakthrough in Humanoid Robotics",
-      "excerpt": "In the ever-evolving landscape of technology, humanoid robotics stands as a frontier teeming with potential and promise. The concept, once confined to the realms of science fiction, is rapidly materializing into a tangible reality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
-      "originalUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2024/02/alex_mc9997_a_robotic_flying_insect_in_nature_4f742cc4-0f5e-456d-9b1f-479e6bf0a829-400x240.png",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T19:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use.md",
-      "title": "Apple CEO Tim Cook set to unveil plans to expand generative AI use",
-      "excerpt": "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
-      "originalUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/APPLE-LAWSUIT-COMPENSATION-0_1707356185453_1709190574096.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
-      "publishedDateTime": "2024-02-29T18:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
-      "title": "What Not To Do With AI In Your Job Search",
-      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1348,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "publishedDateTime": "2024-02-29T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

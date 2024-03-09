@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Auburn vs. Arkansas SEC Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 10 seed Arkansas Razorbacks (18-13) will play in the SEC tournament against the No. 7 seed Auburn Tigers (19-10) on Thursday at Bon Secours Wellness Arena, beginning at 6:00 PM ET. Watch college basketball ..."
-    publishedDateTime: 2024-03-04T06:21:00Z
-    webUrl: "https://www.wtvm.com/sports/betting/2024/03/07/auburn-vs-arkansas-buy-sec-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WTVM
-      domain: wtvm.com
-    quality: 20
-    images:
-      - url: "https://gray-wtvm-prod.cdn.arcpublishing.com/resizer/v2/EE7GUJEFNVLWZPVRG25U6JVY7I.jpg?auth=5fbedb548f30f203187fb13f2847be103e1ca90d2aad80d940e939d093018f2f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "VLnkn/lXmvd8rfPZHYCQbfJH1dUQWRZeX7TdTeSeDsSVoHj4AHyBorPGzRvpUVXGNUkddiBfxqVmJNzKv4sraKwG2l9xlGVzgvvhj9l7IyczFj9tsyK2Bc8ntFCX3gTu/8mRDTSilMOn/rvCy64Cf8U/oIfipBsYvwiamzGkR2gU2VUubQEx+n0EyLG90kQHxedylW8uteMItpBGO/E9VxAzizGYnNSDGmlrnC6b3D5CZoCHAAZIs+y+gSyYe8rLu1VPLBAE7riRcCpFVVWd9gnmkN6+z1kjzFGFE1RCzYEZC2Fa/flySfKQXTmjWYZkiW8dxXFv2Ri1NUzeN9Op6UIq25iAQp4pLoRI0yp9wJ4=;fj8uAC2Dk04OJyIJQxYYbQ=="
 ---

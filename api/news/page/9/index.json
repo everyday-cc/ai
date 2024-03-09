@@ -2,6 +2,117 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-29-india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh.md",
+      "title": "India leads first human clinical trial of gene therapy for haemophilia A: Dr Jitendra Singh",
+      "excerpt": "Union Minister Dr Jitendra Singh addressing the ''National Science Day 2024'' programme at Vigyan Bhawan, New Delhi on Wednesday. India has conducted the first human clinical trial",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "originalUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
+      "publishedDateTime": "2024-02-29T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily.md",
+      "title": "NextGen Food Robotics Provides Update on its AI-Powered Food Ordering Application, Lily",
+      "excerpt": "VANCOUVER, BC, Feb. 29, 2024 (GLOBE NEWSWIRE) -- NextGen Food Robotics Corp. (the “Company” or ... food ordering and delivery experience through advanced generative artificial intelligence powered by OpenAI’s GPT-4.0 large language model.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-common-challenges-in-natural-language-processing-development.md",
+      "title": "Common Challenges in Natural Language Processing Development",
+      "excerpt": "Natural language Processing (NLP) technology is promising due to its capacity to enable machines to process and understand human language, but it faces many issues that hinder it from seamless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/25818/common-challenges-in-natural-language-processing-development",
+      "originalUrl": "https://www.finextra.com/blogposting/25818/common-challenges-in-natural-language-processing-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-transformative-role-of-artificial-intelligence-in-revolutionizing-healthcare.md",
       "title": "Transformative role of artificial intelligence in revolutionizing healthcare",
       "excerpt": "L. Max Niki, as Chair in Engineering and VP for Presidential Initiatives at the University of Southern California, shares insights into the multifaceted applications of artificial intelligence (AI) in addressing complex healthcare challenges in an ...",
@@ -994,144 +1105,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-building-trust-in-the-government-with-responsible-generative-ai-implementation.md",
-      "title": "Building trust in the government with responsible generative AI implementation",
-      "excerpt": "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
-      "originalUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:47:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-intel-wants-its-chips-inside-100-million-ai-pcs-by-2025.md",
-      "title": "Intel wants its chips inside 100 million 'AI PCs' by 2025",
-      "excerpt": "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
-      "originalUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-apples-scrapped-car-project-means-ai-and-headset-bets-are-more-urgent.md",
-      "title": "Apple’s Scrapped Car Project Means AI and Headset Bets Are More Urgent",
-      "excerpt": "In abandoning plans for a self-driving car, Apple Inc. is giving up on billions in potential revenue and the dream of selling what one executive called “the ultimate mobile device.”",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/",
-      "originalUrl": "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2025760015.jpg?quality=85",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

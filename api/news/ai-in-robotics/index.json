@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -129,6 +129,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
+      "title": "Robot ships: Huge remote controlled vessels are setting sail",
+      "excerpt": "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
+      "originalUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/science-environment-68486462.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462.amp",
+      "publishedDateTime": "2024-03-07T13:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1310,49 +1353,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition.md",
-      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making: February Edition",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As technology continues to advance at an unprecedented pace, robotics stands",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-february-edition-1033099946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T19:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
