@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-24-aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock.md",
+      "title": "AWS will add Mistral open source AI models to Amazon Bedrock",
+      "excerpt": "It makes total sense for AWS to offer a wide range of models, and the move follows its cloud competitor Microsoft adding Meta's open-source",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/",
+      "originalUrl": "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_Amazon_Bedrock_with_a_server_in_the_middle_148a2a0c-76a0-4b9e-b66e-11d18d68cf1c-transformed.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T23:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-google-translate-vs-chatgpt-which-one-is-the-best-language-translator.md",
       "title": "Google Translate vs. ChatGPT: Which One Is the Best Language Translator?",
       "excerpt": "This first test occurred back in June 2023, making PCMag one of the first to test these supposedly all-knowing, new chatbots for language translation. We asked bilingual speakers of seven languages to blind rank the translation of two paragraphs by Google Translate, ChatGPT, Gemini (then known as Bard), and Copilot (then Microsoft Bing Chat).",
@@ -1406,59 +1459,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp.md",
-      "title": "Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",
-      "excerpt": "Akamai today announced the launch of its Gecko \"Generalized Edge Compute\" platform. This new initiative will increase the company's cloud-computing",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/",
-      "originalUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1202322660-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/amp/",
-      "publishedDateTime": "2024-02-13T21:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

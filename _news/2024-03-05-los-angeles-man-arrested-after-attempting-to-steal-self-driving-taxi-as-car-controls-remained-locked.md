@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-    excerpt: "There were no injuries reported by the rider or damage to our vehicle.” Self-driving taxis are an increasingly common sight in California, with state regulators on Friday authorizing Waymo to expand services of its fleet of robotaxis into the greater Los ..."
-    publishedDateTime: 2024-03-04T09:01:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/"
-    ampWebUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 44
-    images:
-      - url: "https://media.nbcbayarea.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
     excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
     publishedDateTime: 2024-03-04T17:02:00Z
@@ -75,6 +59,20 @@ related:
         width: 6630
         height: 5304
         isCached: true
+  - title: "States and cities confront self-driving cars as Congress idles"
+    excerpt: "Lawmakers have struggled to create federal safety standards for autonomous vehicles. Local officials have been left to pick up the pieces."
+    publishedDateTime: 2024-03-08T10:46:00Z
+    webUrl: "https://www.eenews.net/articles/states-and-cities-confront-self-driving-cars-as-congress-idles/"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/72/8c/e02706204686a2119d4445a9065d/cw-0308-lee-driverlesscars-2000-01.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Los Angeles County Uses AI to Prevent Homelessness and Offers Assistance"
     excerpt: "It’s an experiment still in progress: machine learning predicts who will end up on the street — and then social workers step in to offer help. So far, nearly 90% of participants kept their housing."
     publishedDateTime: 2024-03-07T15:30:00Z
@@ -84,6 +82,15 @@ related:
       name: KQED
       domain: kqed.org
     quality: 18
+  - title: "Self-driving buses; Streeteries revisited; Honoring a legend | Sunday roundup"
+    excerpt: "RECAP: Looking back on the week that was Driver-less bus debuts at the Navy Yard as union leaders push back As the first self-driving bus in the city — and […]"
+    publishedDateTime: 2024-03-04T19:12:00Z
+    webUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
+    type: article
+    provider:
+      name: Billy Penn
+      domain: billypenn.com
+    quality: 1
 
 secured: "Iopv7ce3vBAy7Ba3aMRXgsh/zlR6v4TI+BS/jxYQzIG+6vGItaKj9fZGD/w1I9R6vgH1vRCbGDHxS/MJUtWW1YaGHYM06z09RCy0ATH/CVqhfKsmZ1nvRPgm1A5d+7SOXS6To88ruVdTkuyUbZvJWs2pj7RqEFlnLCB1kj/dLt9WQmPgBcy8l5lUt7uVhiqz0gZVMokp7kSgQMTcnjaWq63/1WesSM8301+DQV+9DNI8+IuNBUh7dNdFOOGi5BBzZczF7bZKuEgarzTNlqDaoscMo7KBF4GHM7zHqHTW6pMFpZmn/v9bU8cZUfEpyHvskHR7m+VugWcUUb8Zy8daUBQTJ9bniGnDV/qMIEc67OU=;EK9Hyp7zRyBwu0PvBRl3Qg=="
 ---

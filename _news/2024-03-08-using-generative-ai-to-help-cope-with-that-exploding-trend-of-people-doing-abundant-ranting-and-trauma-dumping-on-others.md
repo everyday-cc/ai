@@ -47,6 +47,22 @@ related:
         width: 640
         height: 397
         isCached: true
+  - title: "The role of AI in analysing consumer spending patterns"
+    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
+    publishedDateTime: 2024-03-09T07:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
     excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
     publishedDateTime: 2024-03-04T10:58:00Z

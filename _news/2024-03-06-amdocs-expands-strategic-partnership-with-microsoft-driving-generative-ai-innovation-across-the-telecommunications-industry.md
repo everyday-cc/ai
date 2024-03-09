@@ -28,22 +28,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 77
-  - title: "Anthropic gives its flagship generative AI models a facelift"
-    excerpt: "One of the hottest startups in the generative AI (genAI) market, Anthropic, has updated its flagship models to a new 3.0 standard, bringing improvements across a range of common tasks and faster processing speeds. The improvements in Claude 3 are broad ..."
-    publishedDateTime: 2024-03-04T21:28:00Z
-    webUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
     excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
     publishedDateTime: 2024-03-07T05:16:00Z
@@ -58,15 +42,6 @@ related:
         width: 376
         height: 400
         isCached: true
-  - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
-    excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
-    publishedDateTime: 2024-03-05T19:53:00Z
-    webUrl: "https://www.nextplatform.com/2024/03/05/anthropic-fires-off-performance-and-price-salvos-in-ai-war/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
   - title: "A Little Less Conversation, A Little More Action: How to Accelerate Generative AI Deployment in the Next 6 Months"
     excerpt: "Enough daydreaming, enough speculation, enough hype – this is a year of action. According to the McKinsey Global Institute, nearly 50% of typical business activities can now be automated by generative AI (GenAI),"
     publishedDateTime: 2024-03-07T17:05:00Z

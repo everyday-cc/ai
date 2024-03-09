@@ -357,6 +357,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-05-amazon-backed-anthropic-launches-claude-3-ai-models-to-rival-chatgpt-4.md",
+      "title": "Amazon-Backed Anthropic Launches Claude 3 AI Models to Rival ChatGPT-4",
+      "excerpt": "Claude 3 has three variants, with its most powerful Opus version promising better results than OpenAI's ChatGPT-4 and Google's Gemini 1.0 Ultra models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4",
+      "originalUrl": "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02GPZdQqyCmIQ95bmEMKPqW-1.fit_lim.size_1200x630.v1709639282.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-the-ai-main-event-redefining-b2b-business-models.md",
       "title": "The AI Main Event: Redefining B2B Business Models",
       "excerpt": "In the rapidly evolving tech landscape, what once gave companies a competitive edge can quickly become their Achilles' heel.",
@@ -470,7 +522,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -616,7 +668,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1055,7 +1107,7 @@
       "originalUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": null,
       "content": "",
@@ -1088,57 +1140,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-the-ai-wars-heat-up-with-claude-3-claimed-to-have-near-human-abilities.md",
-      "title": "The AI wars heat up with Claude 3, claimed to have “near-human” abilities",
-      "excerpt": "Anthropic released Claude 3, a family of three AI language models similar to those that power ChatGPT. Anthropic claims the models set new industry benchmarks across a range of cognitive tasks, even approaching \"near-human\" capability in some cases.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/03/the-ai-wars-heat-up-with-claude-3-claimed-to-have-near-human-abilities/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/03/the-ai-wars-heat-up-with-claude-3-claimed-to-have-near-human-abilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/claude3_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T20:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

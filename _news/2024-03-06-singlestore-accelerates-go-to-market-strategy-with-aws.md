@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/03/05/9973306.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/03/05/9973306.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Omantel and AWS announce strategic agreement to accelerate cloud adoption in Oman"
-    excerpt: "The collaboration will lead to setting up Cloud Center of Excellence (CCoE) in Oman to create sovereign cloud capabilities for the Sultanate"
-    publishedDateTime: 2024-03-04T08:23:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/omantel-and-aws-announce-strategic-agreement-to-accelerate-cloud-adoption-in-oman-gnr9o8vo"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/omantel-and-aws-announce-strategic-agreement-to-accelerate-cloud-adoption-in-oman-gnr9o8vo?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/omantel-and-aws-announce-strategic-agreement-to-accelerate-cloud-adoption-in-oman-gnr9o8vo?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2E0MTZiNDAtMGE3Ny00/0/3640324b-67cf-432b-b2dd-51e389007901-jpg.jpeg?f=3%3A2"
-        width: 594
-        height: 397
-        isCached: true
 
 secured: "PH8pDI8lBp/JwUM1WkMOeFEpW8GTXN1VqMBmU4KgI6aPnh3N7dJG+9YHscEOryV41e6j2irQCsBux3cgBdKP/AyQM45krHyqNnf/Srg1VpXbwpifGz6s80SppTi4oOLLypNFA8bEv+uJrnK1WJRPEOVqoQDFT/TMrneacsP3KCHr1cG6LMwLtPAjqqle6LhKHkNuEXk9oz2DcdWVUDeDXKiF0FRxtKI7hk3yNpORu3w7hzO6pYncttbDhI+0NxsyAqJzqEf0xOkl3EMniDh19MJu9Ifgqpg0KSzZuC0wxfo8i9L1UiN4LJUzto5AoBIcWDgMSPu4fYx73v540+P5WfLhIoXtcNVgFYKyppSXRlg=;HPWUH5zLWcTf56gQodGp9w=="
 ---

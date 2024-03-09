@@ -1,31 +1,29 @@
 ---
 category: news
-title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
-excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
-publishedDateTime: 2024-03-04T10:58:00Z
-originalUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
-webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
+title: "The role of AI in analysing consumer spending patterns"
+excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
+publishedDateTime: 2024-03-09T07:45:00Z
+originalUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
+webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
+ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
 type: article
-quality: 58
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
-  - Meta AI
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
+  - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
     width: 1200
-    height: 600
+    height: 675
     isCached: true
 
 related:
@@ -61,21 +59,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
+    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
+    publishedDateTime: 2024-03-04T10:58:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
+      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
   - title: "Expanding The Limits Of AI With Identity"
     excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
@@ -119,6 +115,6 @@ related:
       domain: geelongadvertiser.com.au
     quality: 10
 
-secured: "9ZaZ2VXX/WtieFWKZ2r20B96sBvZSZmoNhK716RfvMG1ucAfICJ2Dp+E2kvG55J4HC9Vm4BH/dG+Jok1Cb2jeBc04ppQyzKt4+Ot1vYN1m605UxicSA1XbnEBKAojAu42t1NtH4Etb2PvICa1VHGyWR4WWM7E84TskWuD0zwMAJF5MTCRuJLIGExuU7AM8U3anxQmWxppJPl9DUXFU1dH3MWDfttQ6HYqdX+MH6MmUYF3kKeAY5kbO+68SzQnAVt1CcEXvPAqX0Dh2K2FmdEsPxB3ZLN6Qp0ICcAEdz3yamyvl/hJuHDhe34ZN3HUIUvb3bQevJEJFxSNqtLCoiK2cR8YeiLV1g52G6QqEcCtciy6EI5eMdl5gab6Xv24vBXRCcesycqkACy9z+T1Jyj7BQ8JkaYBlZnmfaMYzX+h+fylMpaC/3bY6UW7adVtgiU+LFKGeBGX1WnSybYDx4Xxl2JpniUIFOZnZiO2GzeVboDT1VIFx2+ggTDS5tEneUGJEkCdcct7e0T8sWSg2fWfQ==;bOBM8uGorKWwADuCyl6QQQ=="
+secured: "27JytJgCRs2HDvVECdgtUZPj0V/0zOmOLB4nu3MMLGBJg1massWgThDid9/Tdc6fxxEaXXMVNuzdU+17Ynj2IwvV+w2YveNtvTEhPj0XOIwHB1uN6Hqz9+Qq/ZvacF4kjHaRr0MXhoG1eJjVYY78wF2Itq7MTMuAcFYODamEqEqNitrIK7KLIxcrR+ldQHmpqYrcej/LxcTVuDkNCOc9flHaXjJxZ4TVJJfFjrkhQBtgVWTw5AvtzrrquEJJPD130De6cYIl/GVlpy3e1o3R3huvAj9DZX75DE/Fkk64uyx4purGjRGJLfTloj+GltwEIGPOnIzRKA9KMRtKp6dV8nhO3QprfhJiF0Qd7L7Q/NM=;V/ApLsALVLOGEkwK/EYUxw=="
 ---
 

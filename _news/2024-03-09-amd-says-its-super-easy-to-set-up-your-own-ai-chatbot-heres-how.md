@@ -62,6 +62,20 @@ related:
         width: 384
         height: 268
         isCached: true
+  - title: "AMD's AI chatbot released"
+    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
+    publishedDateTime: 2024-03-08T11:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "AI Chatbots Are Better at Math When They Pretend to Be Star Trek Characters"
     excerpt: "Rick Battle and Teja Gollapudi from WMWare’s Natural Language Processing Lab set out to test the effects of framing their questions with “positive thinking.” The study looked at three AI tools, including two versions of Meta’s Llama 2 and a model ..."
     publishedDateTime: 2024-03-04T20:00:00Z

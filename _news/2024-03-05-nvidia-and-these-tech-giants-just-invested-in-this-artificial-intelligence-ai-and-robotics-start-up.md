@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-gi
 webUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/"
 type: article
 quality: 99
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 807
         isCached: true
-  - title: "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up"
-    excerpt: "In today's video, I discuss updates impacting a recent investment made by Nvidia (NASDAQ: NVDA) and other tech giants. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the pre ..."
-    publishedDateTime: 2024-03-04T08:09:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/24543933/nvidia-and-these-tech-giants-just-invested-in-this-artificial-intelligence-ai-and-robotics-start-up/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 49
   - title: "How NVIDIA leads the world by making AI user-friendly"
     excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
     publishedDateTime: 2024-03-06T19:14:00Z

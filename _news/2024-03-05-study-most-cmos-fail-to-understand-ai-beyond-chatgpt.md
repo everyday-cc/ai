@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fa
 webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
 type: article
 quality: 86
-heat: 126
+heat: 166
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     quality: 84
     images:
       - url: "https://helios-i.mashable.com/imagery/articles/00utc2FpFx7bHiQyoOQjXux/hero-image.fill.size_1200x675.v1709736229.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini"
+    excerpt: "AI startup Anthropic said Monday that the latest version of ... Opus, on the other hand, can plan and execute complex actions across APIs and databases and perform research and development tasks like brainstorming and hypothesis generation and even drug ..."
+    publishedDateTime: 2024-03-06T00:45:00Z
+    webUrl: "https://www.cnet.com/tech/anthropic-ups-its-ai-chatbot-game-with-claude-3-rival-to-chatgpt-and-gemini/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 83
+    images:
+      - url: "https://www.cnet.com/a/img/resize/6a110345d1f9a94f4a40d55bab492847a9dc8b19/hub/2024/03/05/d74b3cfb-af75-44d2-85c4-115f110de078/claude-3-launch.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -81,6 +95,40 @@ related:
       name: BGR
       domain: bgr.com
     quality: 48
+  - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
+    excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
+    publishedDateTime: 2024-03-05T15:12:00Z
+    webUrl: "https://nypost.com/2024/03/05/business/ai-startup-anthropic-unveils-new-chatbot-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 45
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/moynihan.png?w=400"
+        width: 400
+        height: 363
+        isCached: true
+  - title: "Anthropic Launches Chatbot To Rival ChatGPT and Google Bard"
+    excerpt: "Artificial Intelligence startup Anthropic has launched its most powerful generative AI as a major competitor to ChatGPT and Google Bard"
+    publishedDateTime: 2024-03-04T18:23:00Z
+    webUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/"
+    ampWebUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 41
+  - title: "Can AI help me pack? Tips for using ChatGPT, other chatbots for daily tasks"
+    excerpt: "Many fear AI, but ChatGPT, Bing Chat and other bots can help with tasks ranging from shopping, to planning meals and trips."
+    publishedDateTime: 2024-03-05T09:19:00Z
+    webUrl: "https://www.statesman.com/story/tech/2024/03/05/ai-chatbots-help-plan-daily-tasks/72806995007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 32
 
 secured: "KezjczYnG12Cb3Gd0bpe1RRVUa4QrD2vQK8hdMnNpNy5QqDwfjnDUPiuvG3uwifXGT3KPEhxULfiGWkCukOQEIf5eOqCZWOWQXka4nUEs09R1VMJwhEwx0eiaH/l+sWZBlUt8zH+1F8qYVU2GzCi0YG4wDcXnc5Ln7eh0GCy4vNbbrmqcVTZ3iY+7+xXG7wtNxwHreXli8rdqs3RWpqvxFskpKwhKjZ7Yxvvi2zzc0EJewL+BGawxQhy5roA/eB9wS07P1CADqLamzM3rsEnqcpP/nvaY/7aRwvtxudyVznoUnChgaGkSyHk0JpZTdn/zUbe2TcgyFz6MrFxFW+H2mCenIPL/OLj2Wsbk5Grv91PZ3kRnXPG7rl9JtqSY5rkimRGtCc7eDX0u2KmFoTZcHl8P5sfAqtGm6rSRCTcv9hvE+F3T96xu5dMalA7o/Xb37iC7/X+6G4BjdZGQaOQd0YFIqbu80UcCPhANJTVbl3Ve690aCY+dqMbRkDEJXbhts+KCBB4v/8/WjmBIQQoEA==;d7e16Zbqh8dk/oIGCjA+3Q=="
 ---

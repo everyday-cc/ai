@@ -25,294 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Anthropic's Claude 3 chatbot claims to outperform ChatGPT, Gemini"
-    excerpt: "The latest version of Claude AI promises quicker results, greater accuracy, and improved ease of use, and will now analyze uploaded images, documents, and other files."
-    publishedDateTime: 2024-03-04T08:35:00Z
-    webUrl: "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/"
+  - title: "Security researchers prove they can exploit chatbot systems to spread AI-powered worms"
+    excerpt: "What makes matters worse is that generative AI (GenAI) systems, even large language models (LLMs) like Bard and the others, require massive amounts of processing, so"
+    publishedDateTime: 2024-03-04T21:11:00Z
+    webUrl: "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
+  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
+    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-07T12:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 48
     images:
-      - url: "https://www.zdnet.com/a/img/resize/ee5190160d7515bc2e0b36e0d5ec07ee2d847af7/2024/03/04/aede71d1-80de-4922-a0d7-10e27b1d223f/anthropics-next-generation-claude-3-ai-claims-to-outperform-chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://financialit.net/sites/default/files/justpaid.png"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Amazon-Backed Anthropic Launches Claude 3 AI Models to Rival ChatGPT-4"
-    excerpt: "Claude 3 has three variants, with its most powerful Opus version promising better results than OpenAI's ChatGPT-4 and Google's Gemini 1.0 Ultra models."
-    publishedDateTime: 2024-03-05T11:58:00Z
-    webUrl: "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4"
+  - title: "What do shoppers think of AI-powered chatbots?"
+    excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
+    publishedDateTime: 2024-03-05T17:35:00Z
+    webUrl: "https://drugstorenews.com/what-do-shoppers-think-ai-powered-chatbots"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02GPZdQqyCmIQ95bmEMKPqW-1.fit_lim.size_1200x630.v1709639282.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini"
-    excerpt: "AI startup Anthropic said Monday that the latest version of ... Opus, on the other hand, can plan and execute complex actions across APIs and databases and perform research and development tasks like brainstorming and hypothesis generation and even drug ..."
-    publishedDateTime: 2024-03-06T00:45:00Z
-    webUrl: "https://www.cnet.com/tech/anthropic-ups-its-ai-chatbot-game-with-claude-3-rival-to-chatgpt-and-gemini/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 83
-    images:
-      - url: "https://www.cnet.com/a/img/resize/6a110345d1f9a94f4a40d55bab492847a9dc8b19/hub/2024/03/05/d74b3cfb-af75-44d2-85c4-115f110de078/claude-3-launch.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Anthropic reveals Claude 3 AI LLMs, claims it beats Gemini and GPT-4 in many benchmarks"
-    excerpt: "Anthropic, the startup AI large language model (LLM) company that was launched in part by a number of former OpenAI team members, has just launched its latest family of LLMs. The Claude 3 lineup includes one that the company claims beats OpenAI's GPT-4 and ..."
-    publishedDateTime: 2024-03-04T16:10:00Z
-    webUrl: "https://www.neowin.net/news/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
-    ampWebUrl: "https://www.neowin.net/amp/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 79
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2024/03/1709565744_4e78f69ef8d4186fb5691714abe36224483d91b0-2880x1620_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
-    excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
-    publishedDateTime: 2024-03-05T11:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/articleshow/108238137.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 67
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-108238104,width-1280,height-720,resizemode-4/108238104.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
-    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
-    publishedDateTime: 2024-03-07T17:48:00Z
-    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
-  - title: "Claude 3 vs ChatGPT vs Gemini latest Anthropic AI models compared"
-    excerpt: "Anthropic has launched a new AI model which has now being compared to ChatGPT and Google Gemini. This Claude 3 vs ChatGPT vs Gemini comparison"
-    publishedDateTime: 2024-03-05T11:53:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt-vs-gemini/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Claude-3-vs-ChatGPT-vs-Gemini.jpg"
-        width: 1280
-        height: 710
-        isCached: true
-  - title: "Anthropic Releases a New AI Model, Promising It's Cleverer than ChatGPT"
-    excerpt: "After billions in cash injections, Anthropic is backing the launch of its newest-generation AI with big promises."
-    publishedDateTime: 2024-03-05T17:45:00Z
-    webUrl: "https://www.inc.com/kit-eaton/anthropic-releases-a-new-ai-model-promising-its-cleverer-than-chatgpt.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/anthropic-ai-GettyImages-1500238079_538121_v90dre.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI Startup Anthropic Launches New Models for Chatbot Claude"
-    excerpt: "Artificial intelligence startup Anthropic, one of the sector’s most closely watched companies, is rolling out new software for its chatbot Claude that will be better at carrying out complicated instructions and less prone to making things up."
-    publishedDateTime: 2024-03-04T14:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-04/ai-startup-anthropic-launches-new-models-for-chatbot-claude"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
-    excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
-    publishedDateTime: 2024-03-05T15:12:00Z
-    webUrl: "https://nypost.com/2024/03/05/business/ai-startup-anthropic-unveils-new-chatbot-to-rival-chatgpt/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 45
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/moynihan.png?w=400"
-        width: 400
-        height: 363
-        isCached: true
-  - title: "Anthropic Unveils Claude 3: The 'Rolls-Royce of AI Models' Outshining GPT-4 and Gemini 1.0 Ultra"
-    excerpt: "Anthropic, a leading AI startup, has unveiled its latest suite of models, Claude 3, a powerful tool in the ever-evolving technology landscape. The best model in the Claude 3 family, Claude 3 Opus, outperforms competitors like OpenAI's GPT-4 and Google's ..."
-    publishedDateTime: 2024-03-04T10:03:00Z
-    webUrl: "https://www.techtimes.com/articles/302270/20240304/anthropic-unveils-claude-3-rolls-royce-ai-models-outshining-gpt.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302270/20240304/anthropic-unveils-claude-3-rolls-royce-ai-models-outshining-gpt.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302270/20240304/anthropic-unveils-claude-3-rolls-royce-ai-models-outshining-gpt.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 44
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444368/techcrunch-disrupt-2023-day-2.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Anthropic Launches Chatbot To Rival ChatGPT and Google Bard"
-    excerpt: "Artificial Intelligence startup Anthropic has launched its most powerful generative AI as a major competitor to ChatGPT and Google Bard"
-    publishedDateTime: 2024-03-04T18:23:00Z
-    webUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/"
-    ampWebUrl: "https://coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/anthropic-launches-chatbot-to-rival-chatgpt-and-google-bard/amp/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 41
-  - title: "Alphabet Stock 2030 Forecast: Can Google Gemini Take on ChatGPT?"
-    excerpt: "Google has been the undisputed search leader, but the company’s dominance in the digital ad market has been under pressure. In 2022, the combined market share of Meta Platforms and Alphabet in the U.S. digital advertisement market was 48.4%, marking the first time since 2014 that their combined market share fell below 50%."
-    publishedDateTime: 2024-03-08T18:22:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/24662408/alphabet-stock-2030-forecast-can-google-gemini-take-on-chatgpt/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 41
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/1a830998fe4498d786760d9c6b1e1031/htmurw024cx5droq.png"
-        width: 1045
-        height: 707
-        isCached: true
-  - title: "Google co-founder Sergey Brin admits issues Gemini AI chatbot, says 'we definitely messed up, it was due to...’"
-    excerpt: "Google Co-Founder Sergey Brin has opened up on issues facing the company's Gemini AI chatbot and noted that the Mountain View- California based company ‘messed up’ with the rollout of the image generation feature. Gemini (earlier known as Bard ..."
-    publishedDateTime: 2024-03-05T10:32:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/google-co-founder-sergey-brin-admits-issues-gemini-ai-chatbot-says-we-definitely-messed-up-it-was-due-to-11709625022300.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-co-founder-sergey-brin-admits-issues-gemini-ai-chatbot-says-we-definitely-messed-up-it-was-due-to/amp-11709625022300.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-co-founder-sergey-brin-admits-issues-gemini-ai-chatbot-says-we-definitely-messed-up-it-was-due-to/amp-11709625022300.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: Drug Store News
+      domain: drugstorenews.com
     quality: 39
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/03/05/1600x900/2-0-206714021-Sergey-Brin-0_1680431117506_1709633268201.jpg"
-        width: 1600
-        height: 900
+      - url: "https://assets1.drugstorenews.com/2021-03/DrugStoreNews_m.png"
+        width: 384
+        height: 268
         isCached: true
-  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
-    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
-    publishedDateTime: 2024-03-08T15:51:00Z
-    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
+  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
+    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
+    publishedDateTime: 2024-03-08T20:00:00Z
+    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
+      name: HotHardware
+      domain: hothardware.com
     quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
+        width: 708
+        height: 365
         isCached: true
-  - title: "Anthropic unveils its most powerful AI chatbot to date"
-    excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
-    publishedDateTime: 2024-03-04T14:56:00Z
-    webUrl: "https://invezz.com/news/2024/03/04/anthropic-most-powerful-ai-chatbot-claude-3/"
+  - title: "AI Chatbots Are Better at Math When They Pretend to Be Star Trek Characters"
+    excerpt: "Rick Battle and Teja Gollapudi from WMWare’s Natural Language Processing Lab set out to test the effects of framing their questions with “positive thinking.” The study looked at three AI tools, including two versions of Meta’s Llama 2 and a model ..."
+    publishedDateTime: 2024-03-04T20:00:00Z
+    webUrl: "https://gizmodo.com.au/2024/03/ai-chatbots-are-better-at-math-when-they-pretend-to-be-star-trek-characters/"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 37
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/12/possessed-photography-jibmsms4-ka-unsplash-2-1-1024x737.jpg"
-        width: 1024
-        height: 737
-        isCached: true
-  - title: "Anthropic releases more powerful Claude 3 AI as tech race continues"
-    excerpt: "Anthropic, a startup backed by Google and Amazon.com, on Monday revealed a suite of artificial intelligence models known as Claude 3, the latest salvo in Silicon Valley's near incessant contest to market still-more powerful technology."
-    publishedDateTime: 2024-03-04T16:06:00Z
-    webUrl: "https://www.aol.com/news/anthropic-releases-more-powerful-claude-140538205.html"
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 34
+  - title: "JUSTPAID, AI-POWERED FINANCE STARTUP, ANNOUNCES NEW FINANCIAL CHATBOT CAPABILITIES"
+    excerpt: "MOUNTAIN VIEW, Calif., March 6, 2024 /PRNewswire/ -- JustPaid ( chat.justpaid.io ), the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial assistant/chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-06T14:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9973950.htm"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/fb784fc28e1599eac33123446c2f2f76"
-        width: 800
-        height: 494
-        isCached: true
-  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
-    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
-    publishedDateTime: 2024-03-05T16:33:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+  - title: "Elgin inks deal with company to create AI text chatbot to provide answers to residents’ questions"
+    excerpt: "Elgin plans to add a “chatbot” function to the myriad ways residents can obtain city information electronically. The text service will enhance what’s already available through"
+    publishedDateTime: 2024-03-05T18:43:00Z
+    webUrl: "https://www.chicagotribune.com/2024/03/05/elgin-chatbot-ai-questions-text-residents-citibot/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-  - title: "Can AI help me pack? Tips for using ChatGPT, other chatbots for daily tasks"
-    excerpt: "Many fear AI, but ChatGPT, Bing Chat and other bots can help with tasks ranging from shopping, to planning meals and trips."
-    publishedDateTime: 2024-03-05T09:19:00Z
-    webUrl: "https://www.statesman.com/story/tech/2024/03/05/ai-chatbots-help-plan-daily-tasks/72806995007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 32
-  - title: "3 Tips for Business Owners Who Want to Use Anthropic's New Flagship AI Model, Claude 3"
-    excerpt: "According to Anthropic, the largest and most powerful of the three models, Opus, outperforms OpenAI's current top-of-the-line model, GPT-4, across a wide variety of benchmarks, such as undergraduate level knowledge, graduate level reasoning, math-based problem solving, and coding. Here are three ways business owners can use these models."
-    publishedDateTime: 2024-03-05T17:08:00Z
-    webUrl: "https://www.inc.com/ben-sherry/3-tips-for-business-owners-who-want-to-use-anthropics-new-flagship-ai-model-claude-3.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 29
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1702217813_538101_ijkvbw.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
-    excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
-    publishedDateTime: 2024-03-08T06:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20240307PD209/anthropic-claude-3-chatbot-ai-amazon-google.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 13
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240307pd209_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 6
 
 secured: "kbo4+4HL+8DBXA5Vux1PK7w2lPL0d92eKvGlosXQHvIbrnwr/qLBuu3Q/mP0vVOxOv2511vgkYn662AlSJ3LV9xbUZYzLz6S+KfkHzRqGc7SRm3/fT7KepETziR7upXS2mxsRJ6vX9jDixI+C2GN+59JD034KC82Nd6CX/UTr1Y/pZDTGGjzPdiqWgEj5Pgb7nkrY7qbgnNrH3PQsXnVQX8W7839ce5wX5D0lJQwV1u5L4+JLMixIi65c4/4nf1ER4+vMA46bWd1rps1TFltLtvzWM1a9oLaPqfcRzUIz1tKiYa8PYH3JYhj5njBynglThA0nm2tNDuHXBmVWG+RRXu4EX5I3YB4zy01E8e507OpZofoonlzOtpTWuAeAlp/xrLOE4GMnVPgEkiWYavs71iLQ2vFY1x8SzYC7/zKiPoKZAEVX/iNiv7ItSZAQvSvVNS+HgIkEnCzfSCg8l4opDjdt+S+ZcPG0Xrnj/bRQVJ1nj4n2cdIEvvZskJDljyM/sjGxAhgUzCiGWWPxA9y2g==;yGVp++O/Ik1Q0w3l3tNrEg=="
 ---

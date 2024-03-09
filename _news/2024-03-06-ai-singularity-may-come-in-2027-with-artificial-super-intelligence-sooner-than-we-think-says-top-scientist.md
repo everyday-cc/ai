@@ -7,7 +7,7 @@ originalUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-
 webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-agi-singularity-in-2027-artificial-super-intelligence-sooner-than-we-think-ben-goertzel"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Why is this model of Artificial Intelligence being called the most intelligent?"
+    excerpt: "In the realm of artificial intelligence (AI), where breakthroughs and advancements seem almost routine, one model stands out from the crowd:..|News Track"
+    publishedDateTime: 2024-03-09T08:12:00Z
+    webUrl: "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 55
+    images:
+      - url: "https://media.newstrack.in/uploads/technology-news/technology-news/Mar/09/big_thumb/bhgbh_65ec115243a87.jpg"
+        width: 804
+        height: 450
+        isCached: true
 
 secured: "IFBG8zJ+w9MVajmYtKKDNmSj6xuyzs0WGgYBP52ZdJdSP+1ZZew7971JaLmuQGoUF97w80R+eDgUNCJYpB61C3VWi1F8aU1HIXrHoEsIaN3dKxtANtuIz6E4US5F26ttVdU0bPxxFo9OTPyxVrKzsKJ8gTU6uBIEWxvXWk2xwO3KI2t9sP6tgisCpNVd1n4/BDQVxD+IYReVcClmkUYI6zZ1QCmv0JojZFQX5FpljfV1jkAgJhwEbbGhxSq6/4ncqt64ZzVaghrY5y/0TwtEOK9MPoMvtBiGQhiQWx+lQfUW7eGcFEn45BODbFW3n8iemGR/jW2yiL1rxpYk7eabju1bmdjKI6avkdGTcVj75+w=;XAn7ZEwHLzkADNcdA9spiA=="
 ---
