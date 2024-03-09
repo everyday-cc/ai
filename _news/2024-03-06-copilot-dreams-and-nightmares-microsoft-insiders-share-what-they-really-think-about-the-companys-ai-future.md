@@ -41,6 +41,15 @@ related:
       name: CNN
       domain: cnn.com
     quality: 77
+  - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://www.fiercewireless.com/sponsored/amdocs-expands-strategic-partnership-microsoft-driving-generative-ai-innovation-across"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 7
 
 secured: "k7cHrZoOZQ3globPYp0A7jiUiCmSzlonA0fu9eZYkojgsdZZxdo7a3fPJIgP8E/J0LLihA/fjo8hQphFYzwlccENZjgj47FU/BNGY8KTpUJESZcl4Hrc0OMBWsRNY8FvcOz6hHRfijFsOs6LvPU4OxY/4Z0EUD1Rj6s0qzXj1N54J9+XdLw6WZ7P4VFkq6lSH6Nw77Df7T+oaQmRnAEWv6dw+WV0+GCrDXkZIBref7+c40W6D74k9P+G4nyi7Mc5D39G2F/au0VZtXjBOSZmXW5djF0oR1iHzj3EX66+0kqiQN67VYgIIPY2nCt7KxFPl9rfG82qPmX66oLQYZmwZrkkKWjg1GR6MlXWOhb0AKNGDjA3uIhr/sUhhhY5Kv1IA3AXLEC/NWjMGOZuglZq40pS4K2o1BUEDsqRqzMDKYk+FcpGuMl8YP59/l6VmuwFXc0CWwPmp6HLF6LSU4qdbda4V1T2cDTMHUPI04HelhaLrTCSgp9CeDz0KoxonytbPyPdL/tAkSTYM4psYjICFQ==;b9srvrQUeDDDNojcrft1CA=="
 ---

@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
-    excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
-    publishedDateTime: 2024-03-04T16:51:00Z
-    webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
   - title: "Conference on AI application in Qatar's supervision, financial sectors kicks off"
     excerpt: "A conference on Artificial Intelligence (AI) applications in the supervision and ... its prospects, risks, standards, ethics, and how to benefit from it in supervision work. In his opening remarks, Assistant President for Performance and Compliance Control ..."
     publishedDateTime: 2024-03-04T18:32:00Z

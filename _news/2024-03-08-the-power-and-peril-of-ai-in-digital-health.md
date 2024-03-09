@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 843
     isCached: true
 
-secured: "DovQe55PdZD1QPJbNj/OeON59QSbrl7JFYQ9m0TsBe52KNmyOSBGxzlcYen+C2Q9Z9PqjbUET5BOgGGazgowkaab6iGKL50Rlv+Ou3W7DEKY2EQKc503PfsL+v63PqRP7ybQXGKlP2jRt5Ks+yylEo30o4gU96UHTFQXOBkRmAmr1LMcQmyAgGjHXj4pJgONv9cyQ1SUr561VzutNr/EHtx1oXOHfjZXNVa48xi5CKyhuHGX+MFxfL9X+0qLQJV1gSspjryJVCXxzSvtVTj6PgtfKNpdR6Tg3uqJV9TOUQdP8fVpF4ieALInFr8SWOX8YHO1U/6XZSJNLZQNBNXW/y3+2Bw2lGn/xbZNWv01OhA=;BiTtW4+ryRqkwXIcHGtFPg=="
+secured: "MfA/0BpwrUlL3RPBNFJVG1joLPlXTbzEdTdQnuOVCTWAT8cz+BAnTDrto53Q3kmt/M3l0XAen//OxRrXG2RPm3tfGza11uohJ1Bt7XZn7ZF9tlgkGCHWqHD04+luWUKMG2QNBfnVycOZOgK5WZ46ICtT3dvZsPy4fJO1mN4gRGnMozo7f+VXQEMnfObMDni3+zms6F+nOApOgM/bxLa3WfK0rJDEm9oaqTH/sLAP23a7C/w+w7aSfqVxka8m4F5CC6AkadZygbcMp8m9Uu1mJJbAbJNsYwq2DSuAbta20E4T5l34cZvoTnIdm0RuUbAVkAeNGn+GBhDqk1WKdmRZTFonyjU7w3h036zAVDrpJQrG2ytFgl9xbDAvS+9fuYvrinhVDEwcSJjOR7LSpJbMNLnnoEreXkmJP2wsIMZYVTJYipCnTSyY3Qy/2clkVHtWqFZI1dz1grajt25M7vc2s3+sX41RKDdzqWQ8haD9B/lJ+V5YUyWQxH3o+fKEG4X4/hKLQv3WXc5RvnGPCErhWQ==;emlh+9oqI1dFR6yArFbwww=="
 ---
 

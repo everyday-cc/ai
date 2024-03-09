@@ -2,11 +2,11 @@
 category: news
 title: "All you need to know about Bengaluru’s first driverless metro train, aided by AI"
 excerpt: "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes."
-publishedDateTime: 2024-03-07T10:53:00Z
-originalUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/"
-webUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/"
-ampWebUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
+publishedDateTime: 2024-03-07T10:52:00Z
+originalUrl: "https://indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/"
+webUrl: "https://indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/"
+ampWebUrl: "https://indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/lite/"
 type: article
 quality: 69
 heat: -1
@@ -124,6 +124,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ervZMor+t/gnC6/wtkh40Uw4qxp53pIrHIeWhutYX8Sdeiy98yC9adxnXqE9usZ0aLxUOJ606b+HNhffg9POxgr5nGPCyMNj8JY99rtETCwdMDQTMOgPYyIKqCUu4uP2LUTixkkHDjWUlKUDmPBJQJDLditnfroSfF849kI/VSjroZ9HKI1xoShMmbsgQts9BnSRT7RbTHBreOmtU9Kc1icmcWDUZhYZZ8atNAD6oZW+vSzWcjoAFbJ2frxvL3G0tyILaMn8sFyqmLSYb+x2DCldBECwn3D3dDwIzoavDuwTbXpfD0MrelQgZZHkUlZuKvTzCfT79Brk5AyyYopfDephnINBU0mm9atFnO5kZnuAH5ZOnPKiTa0IdYVZOXPcqlU3WklsyuiAsX+tu0BnwsZUEn5DuvUO0Do2Shiy+f0WaGHvf+z30BIdO3Atbjs9Nmsq0VXOpuwX4SEEIEENIt+cpStCwGQ4Y+9UirkpyT1+ON7XGOts9tk8Is6WbS/8vQ3qPbQ/E4x8Sky61mFodQ==;nmzdJDvLdcAbCNTXWd7I9w=="
+secured: "vezL28bHqvGK9Zx0X0Brbu0YATxgqTci84+n9sxBmT2fUnuUec17/q1xVPlxhlNjbKUKqQa4A3EWRJsVomlJIVfGANNRpKdz80LHqQhPj0Rtt6ocPIXJJ/AevY0VMqyujEjjW9H8C9Rl90tHdKxPrN3APdsh+1kPVCPwlHnKr3arwI+du/aUGbQZ7THt9vvVaUKY8tDtmtcyLjAZ0Ln797a4YxJp9f2IOuAB2SCKKRifqZsF3P44ly0oENR64lErwS4fCvzRdjNcpn0hq1rj6xzIoGs8baHTHD5bxQkPdFtvOru2O1/ibRypRjtxLwf1XIo/OXikzhdcl4aING0ExQqKUJBjVeWdIxUoPIl51gY=;coi+N1pyWdPT2/EFW2j1/A=="
 ---
 

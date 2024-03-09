@@ -1,26 +1,20 @@
 ---
 category: news
 title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-excerpt: "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ..."
-publishedDateTime: 2024-02-28T23:59:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
-webUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
+excerpt: "IBM's enterprise-ready foundation model choices and its watsonx AI and data platform can empower clients to use generative AI to gain new insights and efficiencies, and create new business ..."
+publishedDateTime: 2024-02-29T04:00:00Z
+originalUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
+webUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "eL/MlqWHZOgQ0+u7HnR0wTBPEDsH5fzyFPD2HII0cn6x7AvSt59+okfD+5K8DJ9rVJDZwpybgyG32eIvY7uABDcGKXXcUe9MC2akLheUrAWnGxnScawQAl35+PhLCu7O/Dni3ZskadVIcdu12eMtBeowBsrKRZH6sKu15ma6G8d/+xYkSdMjKuR5IJS4mQvCCj5oa4FR1Gegq26Dc9hm1FeUKO4lWcl7mQMjklHG8rG63p5y3Wya20zN1ynVk421L/KraZC5oYMDq86A4jRqwbMWMkrbcxHTLNZzSqEnq2GDg5NgKldhcQnVac4JZ8jt+x61X0pnoBRbJbt2VNHa7kd12EgrFUjkoQEZQ+8u+H8=;HwIvDbeeePJrIjqqMpw50w=="
+secured: "XzJ78YtYrky4eEycAeyjB9nrPor9dm+rolma43LINOcfqEc09dYRrNcepXJy336IQURtXi/jGE/5GeNFaLWqax0sG9ZHCPGRnNuFVvyEQY2+XnyzXUWXQEe7RM20jTzPpKcm8/HJf+Rx27EjM6XnaB2OEyAB0JYmkT1cgNyV4MulqhkDKfyQiGGPt4rhLFG2LUA5w9hh7I/UBRSF3kZY3g3189JhqicVQbpWcdn51BcWfUb7bOS1fBxVN0Bh3hO0UwxhfyH7SNZHOBcJrb5PsKBnqLraiAyj2XzUdRAPZTOt67b9DdXEgawL+zc3ad/nT+io8okwYnaQxN1D6ye+M13wgVJzoUdqyvItj/eu2Kg=;gYDCje9c2bu1lPQH637udA=="
 ---
 

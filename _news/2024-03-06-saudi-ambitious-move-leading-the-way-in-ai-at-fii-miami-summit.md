@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/amp/story/business-spotlight/saudi-ambi
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/amp/story/business-spotlight/saudi-ambitious-move-leading-the-way-in-ai-at-fii-miami-summit"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "Saudi Aramco introduces first artificial intelligence model in the industrial sector"
-    excerpt: "RIYADH — Saudi Aramco unveiled its inaugural artificial intelligence model in the industrial sector, dubbed \"LPU\" (language processing units), at the LEAP conference on Monday in Riyadh. The third edition of \"LEAP 2024\" commenced under the theme \"New Horizons,"
-    publishedDateTime: 2024-03-04T14:36:00Z
-    webUrl: "https://www.zawya.com/en/business/energy/saudi-aramco-introduces-first-artificial-intelligence-model-in-the-industrial-sector-bn08isy7"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 10
 
 secured: "3bIABjkivXEl+LEJaumXfOrUK/upGZ/lno3v05Jx7TIK9VbFA06Q5LOZXdQ331mmC3X5PiU816HHKBDgfOyqR3hQQGrl0nEfwJ/YtxkLVPrCh3nWFNNCP9YYg0XZNu6mrDTCVvm+LtMCoyYOx2KQ+tt6tPXqED3/CTCYpgIBl8qdtcWc0V7+9P2SYu7wcddrTS8UbBGZxvZbbtYSQmGwwu4VR02Dds/a+ZXQUetvC9h43K6j+dsMwQVIA7ZY37Y62N5KHZ0UXt99mXsf5sGYL2+GlwtNRX7uRY/XRN1+/bKDy5VnYMTqzTfYvocTp+uWEjeI+fvPKwB7ZKfZkOKYFKrHyXU6kKRWxOBXJFWZJn8=;cMivPa1trdNedU4eTJp31A=="
 ---

@@ -39,10 +39,10 @@ related:
         isCached: true
   - title: "All you need to know about Bengaluru’s first driverless metro train, aided by AI"
     excerpt: "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes."
-    publishedDateTime: 2024-03-07T10:53:00Z
-    webUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/"
-    ampWebUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
+    publishedDateTime: 2024-03-07T10:52:00Z
+    webUrl: "https://indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/"
+    ampWebUrl: "https://indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/lite/"
     type: article
     provider:
       name: The Indian Express

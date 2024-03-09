@@ -39,22 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Anthropic reveals Claude 3 AI LLMs, claims it beats Gemini and GPT-4 in many benchmarks"
-    excerpt: "Anthropic, the startup AI large language model (LLM) company that was launched in part by a number of former OpenAI team members, has just launched its latest family of LLMs. The Claude 3 lineup includes one that the company claims beats OpenAI's GPT-4 and ..."
-    publishedDateTime: 2024-03-04T16:10:00Z
-    webUrl: "https://www.neowin.net/news/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
-    ampWebUrl: "https://www.neowin.net/amp/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 79
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2024/03/1709565744_4e78f69ef8d4186fb5691714abe36224483d91b0-2880x1620_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
     excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
     publishedDateTime: 2024-03-07T17:48:00Z
@@ -112,43 +96,6 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/anthropic-ai-GettyImages-1500238079_538121_v90dre.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "AI Startup Anthropic Launches New Models for Chatbot Claude"
-    excerpt: "Artificial intelligence startup Anthropic, one of the sector’s most closely watched companies, is rolling out new software for its chatbot Claude that will be better at carrying out complicated instructions and less prone to making things up."
-    publishedDateTime: 2024-03-04T14:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-04/ai-startup-anthropic-launches-new-models-for-chatbot-claude"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Anthropic unveils its most powerful AI chatbot to date"
-    excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
-    publishedDateTime: 2024-03-04T14:56:00Z
-    webUrl: "https://invezz.com/news/2024/03/04/anthropic-most-powerful-ai-chatbot-claude-3/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 37
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/12/possessed-photography-jibmsms4-ka-unsplash-2-1-1024x737.jpg"
-        width: 1024
-        height: 737
-        isCached: true
-  - title: "Anthropic releases more powerful Claude 3 AI as tech race continues"
-    excerpt: "Anthropic, a startup backed by Google and Amazon.com, on Monday revealed a suite of artificial intelligence models known as Claude 3, the latest salvo in Silicon Valley's near incessant contest to market still-more powerful technology."
-    publishedDateTime: 2024-03-04T16:06:00Z
-    webUrl: "https://www.aol.com/news/anthropic-releases-more-powerful-claude-140538205.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/fb784fc28e1599eac33123446c2f2f76"
-        width: 800
-        height: 494
         isCached: true
   - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
     excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"

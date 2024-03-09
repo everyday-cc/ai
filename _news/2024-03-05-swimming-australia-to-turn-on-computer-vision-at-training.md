@@ -6,9 +6,9 @@ publishedDateTime: 2024-03-04T20:15:00Z
 originalUrl: "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731"
 webUrl: "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 84
+published: true
 
 provider:
   name: IT News For Australia Business
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/Swimming_Australia_story.png"
+    width: 1390
+    height: 612
+    isCached: true
 
 related:
   - title: "Legal AI Is Taking Off in Australia and Could Shake Up the Private Practice Legal Market"
@@ -52,6 +58,6 @@ related:
       domain: theguardian.com
     quality: 15
 
-secured: "z977nwwiYcBT52ZaXxye3FVpg87w0yo4KagQsYFkbD6pyzyNpmzaIpzqqhxDwuzs1Xg8tcQ9NfBc7bbeq54p8jsB7knpWILHb1uWsZ6tXhvbAh0H7cEYTY6jvmS7MREW1Xz7KW1Amj2tPEIDSj3C8HnDcKCdE+RlKYk5erbUL6xOa9zP+TOYrW254LA+8513M7wbZlPyzZweX0+ki4//X09jZ/+NK+N8p63YoR/LFGRb+HdN5YT88q30tnuNiG3tzwRlz+sF0ou1GmlEjm6wpwFbvzkyGmAf4ri4Jfa5Opdo2LVngFqgI14zeGbPaDmbnWi1ySLT7/HqhxXTeU41YP62vL+GGw0B7F6ns+sevz4=;vsUXDNPV755jjxxbnjWROQ=="
+secured: "7EL6iVqCgtQk2Tfj9gahGV+FVddnhkpd8G6wjeNR7i6km9xeItuN1Yttp/SdSjON0qXj/rVApku4y5NP51d89TUfUl8pk4wbEb5/cfttXumjFO2jT9uyj8j1iQPKWlWCz4DtCnT7U2MHeGrAwcQHiIWtf4xc4ZhTYJm8tnt+jbetVvePP4ilXaU555yrix/+3WGtrWtDV2EAplBra22KyPq2zCvdO50XHkzJyml6RoX7o6gAk+qxItpNbm7a1c/AOiJBbBDXaXzJk02M9ahN1XvZ+5FZxUH4wsVGOGSVy271eS70xT2zd/MH3FQn5gaFztozgrUF7Ypf34sforZFPn8T25SMylt8PaqFd/nlb9I=;r1DSVYDnp0UGGNRGSlg2QQ=="
 ---
 

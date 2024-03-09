@@ -53,7 +53,7 @@
       "originalUrl": "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -127,6 +127,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-swimming-australia-to-turn-on-computer-vision-at-training.md",
+      "title": "Swimming Australia to turn on computer vision at training",
+      "excerpt": "Since 2019 — when Swimming Australia released its bespoke athletic improvement system “Swim Performance and Race Tactical Analysis” (Sparta 2) — computer vision has tracked Dolphins, but only at competitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731",
+      "originalUrl": "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/Swimming_Australia_story.png",
+          "width": 1390,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T20:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1348,40 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-multiple-view-geometry-in-computer-vision.md",
-      "title": "Multiple View Geometry in Computer Vision",
-      "excerpt": "A basic problem in computer vision is to understand the structure of a real world scene given several images of it. Techniques for solving this problem are taken from projective geometry and photogrammetry. Here, the authors cover the geometric principles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/gb/universitypress/subjects/computer-science/computer-graphics-image-processing-and-robotics/multiple-view-geometry-computer-vision-2nd-edition",
-      "originalUrl": "https://www.cambridge.org/gb/universitypress/subjects/computer-science/computer-graphics-image-processing-and-robotics/multiple-view-geometry-computer-vision-2nd-edition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T11:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

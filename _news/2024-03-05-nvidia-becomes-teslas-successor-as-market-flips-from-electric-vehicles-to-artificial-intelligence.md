@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successo
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia becomes Tesla’s successor as market flips from EV to AI"
-    excerpt: "The Santa Clara, California-based company has delivered blow-out results for four consecutive quarters, fueled by what appears to be insatiable demand for its chips used to train large language models that power AI applications like OpenAI’s ChatGPT."
-    publishedDateTime: 2024-03-04T15:22:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/72838243007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 36
   - title: "Nvidia Surpasses $2 Trillion Cap Amid AI Demand Surge"
     excerpt: "Leading semiconductor entity, Nvidia, recently achieved a $2 trillion market capitalization, powered by high demand for its"
     publishedDateTime: 2024-03-05T13:14:00Z

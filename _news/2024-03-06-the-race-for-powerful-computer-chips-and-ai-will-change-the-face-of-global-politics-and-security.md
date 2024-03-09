@@ -7,8 +7,8 @@ originalUrl: "https://www.smartcompany.com.au/technology/powerful-computer-chips
 webUrl: "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: SmartCompany
@@ -35,15 +35,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 51
-  - title: "Demand for computer chips fuelled by AI could reshape global politics and security"
-    excerpt: "Of course, the demand for chips to fuel AI’s growth is not the only way that artificial intelligence will make major impact on geopolitics and global security. The growth of disinformation and misinformation online has transformed politics in recent years by inflating prejudices on both sides of debates."
-    publishedDateTime: 2024-03-04T13:42:00Z
-    webUrl: "https://theconversation.com/demand-for-computer-chips-fuelled-by-ai-could-reshape-global-politics-and-security-224438"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
 
 secured: "o17CaahaMrcojsZod0HSSCPaWGWQvVZey5CAe2J9/utKzH/aYw/YOfA1eDiDWr8Y7INmib9JxaQtQwYcWcojiuNDzPMjxA1TeC8xhWl8UXjlVlEGEuvQew1vm0RvlUtp0Z2V4/rTvfwGCJWuZ/H7gGQt7n+HEe8vqrWTVbEbzCgO2fY9FlgsQ7uprquO3m4eij9TK/S6g6KOJHmwrTvxbf3IryyReKzxF5+jm1bl465xuoW9NxOKTWly5ugSw900pgFjqDERsWhYwIGt8+vebQ/b9MWKdjHSAMeOtbWEHb1Kk6LrhzmrYP2ouAmU9sVB2MlIlYR9PXGnEpRPYqZnrLaCTHCDRCYYcZ30s/V4UktndM9uZasE9IwS63fLBQDmeq42KAHp5K6MvFvVac7eUQH56Fy3FlQZ5vBQNdAhN5tJDBEytpU1/4YFPz66wlfZiceSp4wa/9d8P3KhXELYTiA20MZxRr8CLK5o3JfYm/9jfHcSApgQuBXUg0inRLJV65z2cSgLDVXlBtrost2RKA==;/+f/J5zMNxLrWTXVr8+8rg=="
 ---

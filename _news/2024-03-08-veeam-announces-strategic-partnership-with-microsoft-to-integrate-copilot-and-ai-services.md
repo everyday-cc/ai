@@ -42,14 +42,14 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 47
-  - title: "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others"
-    excerpt: "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ..."
-    publishedDateTime: 2024-03-04T16:49:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
+  - title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
+    excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
+    publishedDateTime: 2024-03-05T03:55:00Z
+    webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: CRN Australia
+      domain: crn.com.au
     quality: 33
 
 secured: "anoIC6JILCDvLkWZ2uBJr0/MnAo5ubLMdys29X1cOCdK8ytGeBZCqbYx+GkPsAjtGQe5bCXCQ28s6MCrXAFrCazmfvElVYAQGGld/ACjnNEBX5DWJ0WXXDiJpxFcoXtA4TCSOGPfQAllmH3Rp/Gx3sGqMw1e8NTl4aRDcaJx6D2WJJWtFcJO59tB+KEdyW/Zj7NgUYqHQPXlJ0TtDQ7gOOIA8AgXDF51WtT4JtPGuAS3Y++XnUaPFt2Fy9xkjlQbwgD/a4XdeuTMZnQLLrIWi7BzRSfowt/Xqq+UInoyDTwmZlpYQMUxeuzPYZuZpt3JXoNIDBBS+p32hI8uj3gwiIY/wTCLNhXBFVCe0bY7Qkp8SKijllnWMheLdn0wspwN1vBu1ZNDtuPg4Cm9/P2TeDsPuPv2tFOz7rymlBex/8pQJja5ci+IQ+APdV/ZTfOPftkst+bmxTTQctK0CHlj+2AO3f9u7AMekQdMT5mzmuquDXXABYe95+rtE9jxgN9/uKTz3PsFJpd3Fcucvr+RKw==;msTj2ySqFG3srB0pRy3Tfg=="

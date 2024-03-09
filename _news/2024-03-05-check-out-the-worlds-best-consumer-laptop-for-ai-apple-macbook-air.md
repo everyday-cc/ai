@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-wo
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html"
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
         width: 400
         height: 260
         isCached: true
-  - title: "Apple says the new MacBook Air is ‘the world’s best consumer laptop for AI’"
-    excerpt: "Apple’s press release for the new M3 MacBook Air includes a bold claim, calling the machine the “world’s best consumer laptop for AI.” The claim comes ahead of WWDC 2024, during which Apple is expected to announce a slew of new artificial intelligence features across all of its platforms."
-    publishedDateTime: 2024-03-04T14:03:00Z
-    webUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/15-inch-macbook-air10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple MacBook Air 15-inch M3 hands-on review: Big on AI, bigger on battery life"
     excerpt: "Apple's big-screen MacBook Air goes big on AI with the new M3 chip, but it's the battery life that really impresses"
     publishedDateTime: 2024-03-07T14:00:00Z
@@ -64,15 +50,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 15
-  - title: "MacBook Air M3 announced — pre-orders open now for ‘world’s best consumer laptop for AI’"
-    excerpt: "Prices for the 13-inch MacBook Air M3 start at $1,099 while the 15-inch MacBook Air M3 starts at $1,299. Both models are available in Midnight, Starlight, Space Gray and Silver. Pre-orders are open now over on the Apple website, with release day scheduled for March 8 — also known as this Friday."
-    publishedDateTime: 2024-03-04T14:16:00Z
-    webUrl: "https://www.tomsguide.com/computing/macbooks/macbook-air-m3-announced-pre-orders-open-now-for-worlds-best-consumer-laptop-for-ai"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 10
 
 secured: "+OOiAwobRkv6mWjCgbG53+zMsh/7za9sN/U7IfvDrKH3VrHODVW0b7AVlifmmpJ4/zTJtmS3rJDBLxaEzts4shqGU4AY/pmame47xhDOJgSjiriNR/xJiz/vrq0J9oRXz6v7r2+G8OlRozkSPalzhuQrQyjY5F3v3SmvsGUy6lMnerBbEI3BHfkwL0xJZLnrwtKZ+hU555PqULOmoBMra/AFXnYc1kUby2496FvddMFqX+359gszkFaqhhj86dTVC6Anc5MkCHRJDDK2RzLk1qNF9bnHggZoGyb4E/2wL3UFE38BMcdU2s6k1GAkhGOeGfNLHuwnoovxPc4CJS+dVVGFTq1/JNZ3d7jdXocwqdo=;1hZlDTgSvVPAetMSnXlUuQ=="
 ---

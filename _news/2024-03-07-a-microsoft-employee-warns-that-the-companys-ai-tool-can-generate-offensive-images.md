@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://www.fiercewireless.com/sponsored/amdocs-expands-strategic-partnership-microsoft-driving-generative-ai-innovation-across"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 7
 
 secured: "xV9ja7IDtnGXbY0tYcgRVkyS0drIHiYaQRJMh9W2zbV5RfRyvfnxSvfxYaEYWz7x7Xez/XQs6iiRA3QkT9YrvZUsnmag0YcjzRTiipPDG5FDxgrdx85xwe2mssB9nqSgCgzvzX+OqJSd/94AmqWDiAAC4xP7JoFkeeUnyKSTYCZIYfjDrYWGLsHbnzn9UamtxDnSmvWAyFrhn/HSYI6OEOjZTiK9Q6QNixny00bTmYgSpSIRK8qmyzzwXeGUlGCmGRU9+HCNF+KO1p+hCddcUxIq0oPSwsS+wZqaJrlUvDTCD19zrbm7bo5y4nRtaoGyq6qsv723wStNufwrqMgK9l2q0isyX6juF/5GADbtW00UtzqELgfmYT4f9gjtwL4sXyas6+POj67pGKNRBVBDqZHBebAhDJ2b/aHrE9NfGxoVFs3zYvxukGV410KN7x96wsOwlYxSt7KedsVVBkA1M2QKf10m45ml/GjNZtFTIC46DtshMgi/kV7n6sU0grp0ArOrhZjbbb6+f+f2zzUQ5Q==;HPqfwAEizyOTx79DlD7WDQ=="
 ---

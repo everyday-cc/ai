@@ -2,9 +2,9 @@
 category: news
 title: "GPU access to power up India’s AI play: experts"
 excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
-publishedDateTime: 2024-03-09T00:30:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
+publishedDateTime: 2024-03-09T02:40:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
 ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 type: article
@@ -69,6 +69,6 @@ related:
         height: 250
         isCached: true
 
-secured: "VU7mtcm7WNKY7R27+XQZS6lg2tZOUilU3PRC+Ew4Trh6L7yzFMG3t1VnnCdITmjyg/zIdzCK7B1BSUj8589Own85a9292XUDTrSdSFEHOQNtPzqGilPn4srGWlDyKGoV1aia1PzBRiHvm1REI+TwOvFCHRQwyg/dFX7+3JJEtetF3AAs2cOXmaFfKtTZrSGQFf7vGAuBHqypDL9/i1VlYav6lEd4SmlHvl5wHGOeGsbUGwFqdm9cNYHXvPkq1RNEqBd5c67rCYeNjbafkE2um8y+hGr8rn8x7AF42QJJanIaHclV2SZ8fkZbhzCKw09QxbGptsqpeXbzViZYBxILvjUwIDPQpPCEifsDGu4FOSQ=;6+nlOrayzBDxQdXZX1YSgA=="
+secured: "deSuWI0e3t8rbMBAgIeITvrG+uoN+EZNwjTNQVUsKC9RVEXZf6XuhHsD/0Dt21T7VsMdMYSlzzU6OlXB9WOmZSJwkJ0hJALHJ2NeU98q5zxY762mCbcty3xgkP0ag+qC6SvbTf5wRygFg7A8FJb7B6poEAvj2GEcMdIjyr0d00/X/wgXGbxXklMiLemujkFQoRlUbmgEVggUx9T1MllVwM5Xbm7LvHXakRXdJaBfe9sSzIVWfFHdhMTM0uYB6IQjCv3sVLyRRBSrfP+4Xc7MKXi2QH+V6fbR56Ao4Ud26OIJVUDOUIqLMDJMfnv0bYQtYyE1HzNV6jlhafVNfHOrYx0r9A1UocVIwu6vOvR6EMM=;uP/BcjmqOPb2RxIhkSoR3g=="
 ---
 

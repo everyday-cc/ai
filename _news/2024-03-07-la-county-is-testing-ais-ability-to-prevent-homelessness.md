@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This California county is testing AI’s ability to prevent homelessness"
+    excerpt: "You’ve likely heard about AI powering driverless cars, writing term papers and creating unsettling deep fakes.  Can that same technology also prevent people from becoming homeless? That’s what Los Angeles County is trying to find out."
+    publishedDateTime: 2024-03-09T15:58:00Z
+    webUrl: "https://smdp.com/2024/03/09/this-california-county-is-testing-ais-ability-to-prevent-homelessness/"
+    type: article
+    provider:
+      name: Santa Monica Daily Press
+      domain: smdp.com
+    quality: 39
+    images:
+      - url: "https://calmatters.network/wp-content/uploads/2024/03/AI-Homelessness-Help-JAH_CM_09-1.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "5N9wZDNVBDRE6OG4OIrsHJZva3hW49aOLXrj7VW6H3yt30aJbYNwQSCcwhRNZKi5+ptuz+3KoyhUdU7fcYnT1z6knzj8jgZWlUVirZak8QsvKogjI9nJC4AO3ZJ6q7rudsWyeHRKapZOnNevOeTXo5wvnpXBoWllvkb+SolKQqxjpxY3cJ4lMahUSP/lKTljEJRbirDmwuvKmL2zy4/aHsgFMKPMBw7eykirz4w3y8CEXqwvKVXAvBNOeF0a+Jc6RUlonBn2bA/95wvKdNB5qT7gPDrX18TEo7vNDDZGmZRtip8IEAVMckQspoy1rkSnmB8TW6rz4P5u5U3GItoWDIZSUjfGW8NybOV1UpkPj8KVOxsio3UFH9HcBLtLCY/v0Ogk+d4vbYuJjpG3nWnL3VEmUOt0Znoj9ls3+rDY9JGnW+TvouUmatW8aXiMCpE05oZS0plcF3gaAYg5U3IRhwMVfa9fIr/F9BlN3S1vthnZowIZIiLV01KymD//5wukT12TUEnicAOWTQgRapXR4A==;+RkON4xEwONtvZVlICK/GA=="
 ---

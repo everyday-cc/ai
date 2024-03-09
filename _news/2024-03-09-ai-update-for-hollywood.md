@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/"
 type: article
 quality: 87
-heat: 102
+heat: 93
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Koobrik CEO Orlando Wood on using AI to database Hollywood scripts"
-    excerpt: "Film tech startup Koobrik believes AI can make it easier for Hollywood executives to find hidden gems buried under the never-ending pile of script submissions, its CEO Orlando Wood tells Axios. Why it matters: Koobrik was one of the 13 companies in the inaugural cohort for Warner Bros."
-    publishedDateTime: 2024-03-04T15:31:00Z
-    webUrl: "https://www.axios.com/pro/media-deals/2024/03/04/koobrik-ceo-orlando-wood-database-hollywood-scripts"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
-
-secured: "TcjvckxNn2o6CY7uxaUp66RImUF79XXxmiZR+sR4Naj4aHGIWvmWWLLyMopv/KqjZ7rcL7LghtJaUOP12GN16Eax9yabGUuO53/gMPxa2Q4Oa6VssD2fPl8WBX9yrARH3BgO+8AF1REvfZXAr6Fw3ODyb7LZ+abrOr6SYxPadie06US+sUibxhxKLDmnAwLuh8zgCLBsw4t826LdudAJdD5uAhJXkmeJN6N1DVhZkDauatluFcd8r8L2fvMOIH1t+nRQ0dWT3Tq4wAQXdo+XUyHtZ3OXmNN3V/b2BHUAPV1JsbX1dlg+cNgJx/YUEKwmERbAUJ2qilWjVMzApXb+ZK2jFNOnwkP4SwwLACGBKweik7UkBFhQiMVE7IzQmkfYiXGdnLU4pVqtEK0SKRD+fRSnRzfH/1y2JGVXJrUSBMtz/QwVf7Sd1OlSvhSlu5d5pjPOpkoFHXrUTHcxuuwdM+dKHnzVK0IJpCdRDfzPPuE4lxyHPKhapSs2wlNSExUfKR25eRwShbWJnkix2yZ1Ow==;AvhK1HzOHd5ShR1feKGmng=="
+secured: "yRMMSFaDzc4RVtqUjvNKrYUHs4FAInjJGfu4eFRSc5qGSXXRyVmQ29DWzmORNPoBe5dahgN7nqtkXAdg6LiZqRW01AwNYQzM3ynpjiqpczvROBYyv7npPY+nnbzObkHp71Yqz4YWFawYeP3XxT7LEWF/ONKCixpZz7Tr6i9bUO3l5rmh+QLDWmKB6gV0iWLQ3g4XVAx0f3MKeVKam9i6qVi7hkLkDLxCfcHQ2DHIKmuYW0L00hvBXqnUaEGUK+2nT2Q4fMirhtcMIUVaIMFL7G/xrSKWVDJXfKwKr/N3Tbtz+2UPCddHChz9bBTelnJ0fGVy4oGVyHbOF8NpyKAxokGR6oQpbsNQlYc0DT5ohMvQBb85UINfNpCwWIOqBumpVXM3Bdl4hO1/3ry0hkLf/JJl/h6xuT244ENxYsDTdMtliYdgzR7QUb8XmngARh0KGuqJRyLLr3gclqh6meRm8tDstsIH0oAtjsYz9jLAmQ38zAlqhOo/+okB51Tr0qyw7m8/yT5SHxGDj2iUzCIkFw==;8VoY/FsQuFYPztDsUk/qJw=="
 ---
 

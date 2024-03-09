@@ -105,15 +105,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "AWS to launch an Infrastructure Region in Saudi Arabia"
-    excerpt: "Amazon Web Services (AWS) has announced it will launch an AWS infrastructure Region in the Kingdom of Saudi Arabia in 2026 and also invest more than $5.3 billion (SR19.88 billion) in the kingdom as part of its long-term commitment."
-    publishedDateTime: 2024-03-04T13:44:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-launch-an-infrastructure-region-in-saudi-arabia-hp9msn74"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
   - title: "AWS plans US$5.3m infrastructure region in Saudi Arabia in 2026"
     excerpt: "Amazon Web Services (AWS) announced on Monday that it plans to launch an AWS infrastructure region in Saudi Arabia in 2026, and pledged to invest more than US$5.3 billion in the country."
     publishedDateTime: 2024-03-05T04:00:00Z

@@ -49,29 +49,6 @@ related:
         width: 400
         height: 260
         isCached: true
-  - title: "Apple says the new MacBook Air is ‘the world’s best consumer laptop for AI’"
-    excerpt: "Apple’s press release for the new M3 MacBook Air includes a bold claim, calling the machine the “world’s best consumer laptop for AI.” The claim comes ahead of WWDC 2024, during which Apple is expected to announce a slew of new artificial intelligence features across all of its platforms."
-    publishedDateTime: 2024-03-04T14:03:00Z
-    webUrl: "https://9to5mac.com/2024/03/04/m3-macbook-air-ai/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/15-inch-macbook-air10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "MacBook Air M3 announced — pre-orders open now for ‘world’s best consumer laptop for AI’"
-    excerpt: "Prices for the 13-inch MacBook Air M3 start at $1,099 while the 15-inch MacBook Air M3 starts at $1,299. Both models are available in Midnight, Starlight, Space Gray and Silver. Pre-orders are open now over on the Apple website, with release day scheduled for March 8 — also known as this Friday."
-    publishedDateTime: 2024-03-04T14:16:00Z
-    webUrl: "https://www.tomsguide.com/computing/macbooks/macbook-air-m3-announced-pre-orders-open-now-for-worlds-best-consumer-laptop-for-ai"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 10
 
 secured: "7LblUpPiVVHwBxZM6qUDUGlJcpU5uwBnxzykv+KHGemCRRvh814A1/P9jC0FMCsgKYSacua4cIufEG8prQ/iWQK8JBrBKRn1L3NHS3v+XmHpd+JZTPwOtbfTwQw5Bdftzwn1+UMYDqLy9FXB7bqmmq1RkpfHHdO5e30yZkTAzHb/PMzDEcvumGHkpOznpir/5eNX+sIIFk0gkvIia3vJPhB70HUeU/YKjyq0yk7SA3oCjVUDE3PQNlaNrsR1tQH5x4ig1QlXIAVAoOawymJ3Bire9AV2QjlMMhMSTIJn9ALq11XUbry8cQFbx/FMM5WBF5ei7d6roRZZ/kVvJ3QpyHIF2KiW0VqJ9HOJDWzecAO81/P5EbVKkxfyx/5+7iZIU4xaIBcxIe5C7kBLMbXNvc3thorUWp9iHnCHqGvLPFIEm2GSv2PkidBwgTOqWFJj0YaB4V80pjzcyYA+lA2vBzw+1jo6BxTN4U4ANUjEsl9lrh+xKVhWW6fPx+zYVpDskdO7L9/Rz2fjuXLn3cZvRA==;FNd2Gi8orbcBb6VWFrasvA=="
 ---

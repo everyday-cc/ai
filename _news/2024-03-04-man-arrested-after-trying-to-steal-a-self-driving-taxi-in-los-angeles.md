@@ -1,90 +1,28 @@
 ---
 category: news
 title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-excerpt: "There were no injuries reported by the rider or damage to our vehicle.” Self-driving taxis are an increasingly common sight in California, with state regulators on Friday authorizing Waymo to expand services of its fleet of robotaxis into the greater Los ..."
-publishedDateTime: 2024-03-04T09:01:00Z
-originalUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/"
-webUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/"
-ampWebUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
-cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
+excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
+publishedDateTime: 2024-03-03T21:38:00Z
+originalUrl: "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/"
+webUrl: "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/"
+ampWebUrl: "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/?amp=1"
+cdnAmpWebUrl: "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/?amp=1"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: NBC Bay Area
-  domain: nbcbayarea.com
+  name: NBC Chicago
+  domain: nbcchicago.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcbayarea.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcchicago.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
 
-related:
-  - title: "Los Angeles man arrested after attempting to steal self-driving taxi as car controls remained locked"
-    excerpt: "A Los Angeles man attempted to steal a self-driving taxi in the city's downtown on Saturday evening, but he didn't get very far — the vehicle's controls refused to cooperate with him"
-    publishedDateTime: 2024-03-04T22:48:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article32272996.ece/ALTERNATES/s1200/0_Self-driving-Waymo-cars-on-the-road-in-Santa-Monica.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-    excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
-    publishedDateTime: 2024-03-04T17:02:00Z
-    webUrl: "https://www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/?amp=1"
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 44
-    images:
-      - url: "https://media.nbcsandiego.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Thief Jumps Into Self-Driving Car To Steal It, Realises Its Smarter Than Him"
-    excerpt: "A homeless man was arrested on suspicion of grand theft auto after he tried to steal a Waymo self-driving car in Los Angeles, NBC News reported. The incident happened on Saturday night after the man entered and tried to operate the driverless vehicle that ..."
-    publishedDateTime: 2024-03-05T11:47:00Z
-    webUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875"
-    ampWebUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 41
-    images:
-      - url: "https://c.ndtvimg.com/2024-03/4nf9bvrg_driverless-car_625x300_05_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240117.07"
-        width: 6630
-        height: 5304
-        isCached: true
-  - title: "Los Angeles County Uses AI to Prevent Homelessness and Offers Assistance"
-    excerpt: "It’s an experiment still in progress: machine learning predicts who will end up on the street — and then social workers step in to offer help. So far, nearly 90% of participants kept their housing."
-    publishedDateTime: 2024-03-07T15:30:00Z
-    webUrl: "https://www.kqed.org/news/11978448/los-angeles-county-uses-ai-to-prevent-homelessness-and-offers-assistance"
-    type: article
-    provider:
-      name: KQED
-      domain: kqed.org
-    quality: 18
-
-secured: "1UjGMzFe0UFeMVa6O1ytAqdVmyMKFomHJBnIpPpy5u5bimb+wvQ7hka84iW0Qnm1wamuBTIKKAkA7/Vp4+UBGveBbOBv9sYAwG1i4dO3NtmTqGRpofE/o0p33ipcqyhGZeMNggbKnzrmtEEDKYVt8zKu+e8frkrhLfP3AXutFFrfSmKT5rNbyqur8i0eooreGqulWtKifusJfkOq7EpDQfFzjTuUPpq+z32V19Ihp5Cl+yf/AwsfTaZvH80+EOeDcqJbba6SX54XwaDmz7aqGl5lfYxKXgznguPXpTN3BAZno8g9MC4Mg7jjFQYG8pasgaPlmNO106Me4eXmTpR8W0rpgxWS8yB+0S3oAl/r5jhg0eocM5S6ZzcsBkwDUdCsvGG+jrc5venn9RGz0KTvncQn8vH2WICeBa7mZCbd4uMXpWjN9CfWk538NMO9Ug+obm/3YvLTv6QFIKi+3dddGpzLlk6moZsf2EWwfb0Ojf4VK7FDAvi3uj81J1cEgXZq8A+1PfDue1TNFiV3+Zi+IQ==;Tj9A300cxGwuzp/9YzSdLg=="
+secured: "XbzOgjDyvMdfiukAw36lIIIg3yo5FcQX2aOeYhJqxZwZ+z1EzNQZpqKYWfUm7MYHUqfWkpMI5YyufzdraSnbfu/P7nJpZKy0vDE2LDsEZpdw9p5ZUoatYtwZTHss+nj82BtE/a/M3N8fBNQWfFB5Q6Frr+f8AvzIWS0FFeaQbFlbQQJJ1BMJMgB6hPmOf98+ym+4bDJYjJ+3I6T8sWJH4PJP98NOYhRwUDp1DQOBce12SdPjmePR3mOFXs/+r6DQ6fLduh5/23PL7FD/h4b8PqWrJ3HGpN0ppE3Wy+t4rFi79EtNCUdbP1o/m/HtK9ChpUKD6fS+uxU3TmKHBCU13JT/QyIiJx9iDcEKckAgXYI=;Xy64OonE27QlLj/xBtNz4g=="
 ---
 

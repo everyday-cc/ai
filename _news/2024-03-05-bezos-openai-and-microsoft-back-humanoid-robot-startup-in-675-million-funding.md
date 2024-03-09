@@ -34,14 +34,14 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others"
-    excerpt: "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ..."
-    publishedDateTime: 2024-03-04T16:49:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
+  - title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
+    excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
+    publishedDateTime: 2024-03-05T03:55:00Z
+    webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: CRN Australia
+      domain: crn.com.au
     quality: 33
   - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
     excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-
 webUrl: "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai/"
 type: article
 quality: 94
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
-    excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
-    publishedDateTime: 2024-03-04T16:51:00Z
-    webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024-2/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
   - title: "Cloudflare announces Firewall for AI to secure AI applications"
     excerpt: "“With Cloudflare’s Firewall for AI, we are helping build security into the AI landscape from the start. We will provide one of the first-ever shields for AI models that will allow businesses to take advantage of the opportunity that the technology ..."
     publishedDateTime: 2024-03-04T17:37:00Z

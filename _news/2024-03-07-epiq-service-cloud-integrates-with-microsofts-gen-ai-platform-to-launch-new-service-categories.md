@@ -214,15 +214,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 44
-  - title: "Hi Auto Conversational AI Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Hi Auto’s Voice AI Technology to take advantage of the scalability, reliability, and agility of Azure to shape business strategies Hi Auto ..."
-    publishedDateTime: 2024-03-04T16:19:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20240304517486/hi-auto-conversational-ai-platform-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 43
   - title: "Cognizant and Microsoft Collaborate to Power the Future of Healthcare Administration with Generative AI"
     excerpt: "The TriZetto platform, powered by Azure OpenAI Service, will help payers and providers reduce hidden costs and enable better patient outcomes for millions of Americans. TEANECK, N.J., March 6, 2024"
     publishedDateTime: 2024-03-06T16:23:00Z

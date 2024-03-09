@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-    excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
-    publishedDateTime: 2024-03-04T17:02:00Z
-    webUrl: "https://www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/?amp=1"
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 44
-    images:
-      - url: "https://media.nbcsandiego.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "States and cities confront self-driving cars as Congress idles"
     excerpt: "Lawmakers have struggled to create federal safety standards for autonomous vehicles. Local officials have been left to pick up the pieces."
     publishedDateTime: 2024-03-08T10:46:00Z

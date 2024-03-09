@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/how-artificial-intelligence-tool
 webUrl: "https://www.jdsupra.com/legalnews/how-artificial-intelligence-tools-can-8944922/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Customers Expect More Today—How AI Can Help Brands Deliver"
-    excerpt: "Meeting today’s customer expectations has been an ongoing challenge for contact center leaders, and they are well aware of the constraints of their legacy technologies for providing digital experiences. The first step toward modernization is cloud adoption, which usually entails deploying some form of CCaaS (contact-center-as-a-service)."
-    publishedDateTime: 2024-03-04T14:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e201d04ec7953e14743576/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1504
-        height: 900
-        isCached: true
-  - title: "How to Harness Artificial Intelligence to Transform the Customer Experience"
-    excerpt: "The CDW Tech Tipoff Series will explore how organizations can use AI to make a meaningful difference in how they interact with customers. Phil Goldstein is a former web editor of the CDW family of tech magazines and a veteran technology journalist. He ..."
-    publishedDateTime: 2024-03-08T20:28:00Z
-    webUrl: "https://biztechmagazine.com/article/2024/03/how-harness-artificial-intelligence-transform-customer-experience"
-    ampWebUrl: "https://biztechmagazine.com/article/2024/03/how-harness-artificial-intelligence-transform-customer-experience?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/03/how-harness-artificial-intelligence-transform-customer-experience?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202403/GettyImages-1256247098.jpg?itok=Eshpry5U"
-        width: 1440
-        height: 500
-        isCached: true
 
 secured: "Nh0UxkLpuv8wtk2wZ9fez0BVg4hc3dmEiJdeJJgPKoevOY93bX+L9Gsjcrjvoyc+4CnRLkJm8tsFs+jp6WGGfD3HVoFLbhBue5Li+tQWvFErY3DW8MqWI1FJie1bnmnCagRLSg+zUEj9Pl/rgWIJSxq+59/gTUGgt4niDSEggRTkVYTdJCQOPGQvaQKyteEdIsQaM2+5YVSoGS32FGhUzHJNtKr6A3fMm10j7TGqs1tskosnvkLe5ZOZ+AooKdMo8gwTsUIbl0EcDYIrpMvSiGhrjF6utXkjZwyxiC3b9HMgzPKZZSbN1D87nX4khzTpBb7e8BnW9f5oxLuG7vQUDBzyRsD2GF335OWNq4q32Ns=;tyiy9f3Vb0wxziOuweJ56g=="
 ---

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Humanoid robot-maker Figure partners with OpenAI"
-excerpt: "In a previous video, Musk showcased Optimus folding a shirt, clarifying that the robot was n… ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ..."
-publishedDateTime: 2024-02-29T23:43:00Z
-originalUrl: "https://omaha.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_1a586ae6-53e6-5455-bd41-af030414cdd5.html"
-webUrl: "https://omaha.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_1a586ae6-53e6-5455-bd41-af030414cdd5.html"
+excerpt: "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding."
+publishedDateTime: 2024-02-29T22:30:00Z
+originalUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
+webUrl: "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: The Roanoke Times
+  domain: roanoke.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/a5/1a586ae6-53e6-5455-bd41-af030414cdd5/65e103281bff5.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "kirHFqtvpIzIP9rexdebzPYmrUfuX3KQUhwRlMRHR9+lzZ0pKeOimIRu+NHe4fpHRJlj7MGGL+5COnZiF+zbi1OYBu5xt0dShVSmDCe8jDU4D2j66204ZpNWaPVAbd1DLYXBiM82wH9pA16oL5/CkUASlbm+y8RO9Cy77SI3S9GJimndtWaIy0U8/MPVibp/Ce3ajDcfk1kB7tIHZ5zwAOGIdgadavOpDMNgwhj5XZVg28/foyT8+BApxHuY3mA/lYQyqqaKrjjlnwblMppq4/DSLdnI7YceIhHBGdEDoKL+BL9NRn/3YoqwNmwuree9L1myyheqOm4AkMCSj7V+PCPWSuGviLjH5TCnhUFNI9s=;fKwOd9xegxRevXVrkSAtZw=="
+secured: "ELsZa4RLi6z0vW+RaNXwMfVlSDB2EU+CV+lcr1Onvn04zLPsovmyQUZ2ohNl+I5Kn0xqh+CFs3/4i9pWK2dSmhzbkv+EsjgHK4QiyH7mBJtfFhpD5TxtFrJhJ18LEb0veSxaN/G1LROTuYOU6ruC5Xy//OLtXthP4mxu/DWMUKyI+tWhCz8N1LIdli9RDKLf+pi6ToUU4IoB/E89jR/nOvXM+892YAOl8pqv+V6gpfblXcnqffebJupbpXtT6zDqxX4gFNgU74b5kvJfT1sTnSRmualrXphF0LVAsWEXJX1WkslMwCoBKqHdiuyVLgtt1rGUhB3yl8YZ9FemREmrMzve4vIVFgqiMhUn0JKInlYZETLKaUXQwGyWR+el7FO4nrtiihO4nBP8EdaFTRdii9yeWGuZpBHbUhFmrl/D3XtOu1RrZyx6EDgnGXi4bWUnCI1R80gG1uDQJPikXn/k+8phf7HZexdT97JO1W4Hr44f4IL4vd6r2eXWGMLh+G1kFGnvyQDkOnSeufKI7gyNhA==;QceCjIcPu9wsBdzb+hpphQ=="
 ---
 

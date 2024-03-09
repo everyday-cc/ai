@@ -40,6 +40,22 @@ related:
         width: 1346
         height: 900
         isCached: true
+  - title: "SF robotics-AI company partners with Amazon on next generation of recycling"
+    excerpt: "Glacier is a robotics-artificial intelligence company whose ambitious mission is to end waste. It focuses on recycling – specifically developing the technology to streamline sorting through ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.nbcbayarea.com/news/tech/sf-company-amazon-recycling/3473267/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/tech/sf-company-amazon-recycling/3473267/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/sf-company-amazon-recycling/3473267/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 87
+    images:
+      - url: "https://media.nbcbayarea.com/2024/03/glacier-0306.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
     excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
     publishedDateTime: 2024-03-07T13:49:00Z

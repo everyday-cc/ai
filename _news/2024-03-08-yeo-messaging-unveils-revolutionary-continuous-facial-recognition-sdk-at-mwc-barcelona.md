@@ -37,20 +37,6 @@ related:
         width: 1024
         height: 783
         isCached: true
-  - title: "Are Indian police using facial recognition to identify protesting farmers?"
-    excerpt: "Police are initiating cancellation process by contacting passport authorities and embassies and by accessing the individuals' photos and residential details."
-    publishedDateTime: 2024-03-04T15:12:00Z
-    webUrl: "https://www.biometricupdate.com/202403/are-indian-police-using-facial-recognition-to-identify-protesting-farmers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/07161513/surveillance-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Yeo Messaging debuts Continuous Facial Recognition SDK for privacy protection"
     excerpt: "A new SDK has been launched by Yeo Messaging to bring continuous biometric facial authentication to consumer devices for data protection and privacy."
     publishedDateTime: 2024-03-08T17:29:00Z

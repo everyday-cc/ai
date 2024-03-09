@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australian-legal-profession-a
 webUrl: "https://www.techrepublic.com/article/australian-legal-profession-adapting-ai/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,12 @@ related:
     provider:
       name: IT News For Australia Business
       domain: itnews.com.au
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/Swimming_Australia_story.png"
+        width: 1390
+        height: 612
+        isCached: true
   - title: "The 'No' Voice Result Showed Us We Need To Prioritise Truth-Telling In Australia"
     excerpt: "The Indigenous Voice to Parliament could have been a chance to address issues First Nations people often face, such as domestic and family violence,"
     publishedDateTime: 2024-03-06T05:54:00Z

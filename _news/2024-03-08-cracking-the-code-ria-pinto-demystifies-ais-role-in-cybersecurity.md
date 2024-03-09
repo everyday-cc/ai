@@ -28,6 +28,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 58
+  - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
+    excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
+    publishedDateTime: 2024-03-07T05:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974406.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/2356554/Cognizant_Babak_Hodjat.jpg"
+        width: 376
+        height: 400
+        isCached: true
 
 secured: "UkxnvWJvylMKqzMKXdme8QbmRDpk71UV3urmmgK9AF9fXOVwYasfNDxa5mPcV/FziOGo7LxhisJdX+0e7scIh0mYFcZ9+HGiFVqGZgStEe2iO1U815E1zw1LwkEZNyuGCVixUjXr9LQLjDZr29SSbuBfegvUHFj3twxefc/H4MAvDh+uPfePKXMqHeMpnnc7TE8EZzE5JCfH4YtQFaadx1HCBpW/4K8xQ2/M7WFyENdAGyqNtAh1jUj5GkWRuW6RuPLlc0aEXnS46KIOfAReBdTcJw+e3sxt1cJlT2KLgYaCsiche7KsQXbDFrE1J0d7pyRJnmdG82xrdhKTFnrN52jCeckLcCEaBspW+6PF7D0=;+/pHi9jnwEpMGbKzwpkUHg=="
 ---

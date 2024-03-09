@@ -3,14 +3,12 @@ category: news
 title: "Wipro's health care deals get an artificial intelligence booster shot"
 excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
 publishedDateTime: 2024-03-08T16:16:00Z
-originalUrl: "https://www.rediff.com/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
-webUrl: "https://www.rediff.com/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
-ampWebUrl: "https://m.rediff.com/amp/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
-cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
+originalUrl: "https://www.rediff.com/business/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
+webUrl: "https://www.rediff.com/business/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: rediff.com
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://im.rediff.com/345-230/money/2024/feb/28ai-pc1.jpg"
-    width: 345
-    height: 230
-    isCached: true
 
 related:
   - title: "AI can speed design of health software"
@@ -48,6 +40,6 @@ related:
       domain: business-standard.com
     quality: 39
 
-secured: "+3NTuWNHeWFWaGJgXmkPt4H5tw3E7FXTaCa88GQLjzKbPECQl2OStFA+/2Zyc7x76zj7/ykzs0v3y5u+GiNRKMzLZkHJqYj83/Pq1DF/QtdtP2l5PhOtrhBU4koYqwF0XY0EgFVtG/Gc+GX1RJHWordp5rO8xL7+P0orW64XBeyPKSBGisjv3GfGxT4rN2WI9ioLcsaQJrvnMqNqm8FKkI/vccHi2u0gtb5OLj2hZ5KpB4VIi8g/5vv8PG13X3a6t0WiCrv98B14I02JzmJgRvcP0u80lTClpcrQMdGQJsAnppiQJiTyIFMQWc50sMF80QM9a9KK/GZi6VZ0x4653+4asA1cG9e8o905VJTp8JBp7eK/qegtayzEKhcVGG3eOaNO4mU3S83od7GvzBRmIin+Yy1sZaESIKcZiUaPI4vfJQ3jGoS6xvWMsnR4UNcMBgeiNBSqrRmVOAicHzDKRfN/hlK6ENrkMTaIButHaoa/K+imXMMFXCRg1zLh8OieKwXfjGkVwRFBbCskJNBgDg==;jUZCmpOrlcTm2nGEvmLBNw=="
+secured: "4EUzcOF+VVOg0uVifL2bRI+Wn0TvlPfyfYlVohEdnqXxu11Zli16UxlhhXuYTFa5Y4k5HZzqn2bLjnDJ9EG5VQvKM058gJGSMma5WnINmvcysXFGLnpT5aoPfjhgEw4aVmPVTeFw2DNjBgkpRv8yecvup0qEaJbLgs8Vcx2q3+R6Qr8c1kWBGe9uLOmJVoSSfVrQmh+DKIulKUwhitrs3SfKfl5+nGk5b3Oi7mAU4sN/SguWROl6VXXdtdyEpIpl/um5ZeHgPFY2CuLFkN/EItcb7LYEktPo6f58sGgzv+rHaDfAGb8WBVzUqVuvpPXjQ+gudzQqdEe8qQGy8EUtkIHK4bQKjKsHOKBJJkTEqPMbL2hSwrPMQooMJkCn5zuhV5ky9pEZhm8iYnQucA2/VNZI/P9k+idQdD+SqpgxYi9x7no2iYP5OqXMTL75++5Gmd7/Msn1rS7BIRfuHgcsMQAJxRx9El0lhZHqclDwCHZyN4NSR4sYYM/vieIX3UjnQOWliq2D071KHpFFaNgEmw==;UKGuPsaLJ58D+gEjLw2tJA=="
 ---
 

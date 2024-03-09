@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together"
-    excerpt: "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking"
-    publishedDateTime: 2024-03-04T14:52:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
+  - title: "AI-acceleration deployments curbed by datacentre design considerations"
+    excerpt: "In addition to a shortage of GPUs for AI-optimised servers, IT leaders need to consider how well their datacentre power and cooling will cope with artificial intelligence workloads."
+    publishedDateTime: 2024-03-05T04:24:00Z
+    webUrl: "https://www.computerweekly.com/news/366572212/AI-accleration-curbed-by-datacentre-design-considerations"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-  - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
-    excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
-    publishedDateTime: 2024-03-07T05:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974406.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2356554/Cognizant_Babak_Hodjat.jpg"
-        width: 376
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/disaster_recovery_a379640336.jpg"
+        width: 1200
         height: 400
         isCached: true
-  - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
-    excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
-    publishedDateTime: 2024-03-06T13:00:00Z
-    webUrl: "https://www.fiercewireless.com/sponsored/amdocs-expands-strategic-partnership-microsoft-driving-generative-ai-innovation-across"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 7
 
 secured: "A3LMtkCZJA5UWpTXjokNEybaQ7SUGuslTWASdIdFwrd7/CrJQMT5euAV2wGKIwsO+T9AKwZmHnG3laCEwEfmWJ/4w/FAjN4tpbuLE/8tvsbq1cMXwJnJ8LCgSkpxvZZWjfwbkA1VoTcfNvXUmJzPUeuUGd2n4cAb6lGtYPWPVHAphhGLAUW0gwD3ipCA/09MT2MGs72e6+/3kNSrb6FQHaWR3c8RH3rC+J2GAS0DUlJu7tOavbIiI9zamR71wI3/xhS8QTUchYFEnvVOttVI0iCSxnRDhPVumUjQ4L8Y5gm2W0eRlZDxnYUI0S7IsPH+9QPXCRj1FUUM1I8V5n2T13I2vgWoB3bNJ/jz+yCx52crkiV22Zw1EpwzW+kisV25i59oMq2ujykfU0ieys/ieMRv3W8pMAwImryhs8YtiLhvZc6pRTMmb0jPPiCiECHabojn5JflLV+JoRnieA2N8Yx+AazT2tepl4O+0qvcuKbjAR1Pfx5+2pJ8JrTljjvnksWz16jZx+u5fjEPRMYBHA==;YXcoispbXBibtnWzmjFQjA=="
 ---

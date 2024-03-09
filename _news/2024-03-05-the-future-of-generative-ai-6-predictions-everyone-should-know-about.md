@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/05/the-future-of-generative-ai-6-predictions-everyone-should-know-about/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "This Venture Firm Sees Opportunity in Generative AI: Here's How to Win Its Capital"
+    excerpt: "That's because generative AI could create significant growth opportunities in cybersecurity, data infrastructure, fintech, and digital health, among the industries where the firm invests. On March 4, I interviewed Team8 managing partner Aviad Harell."
+    publishedDateTime: 2024-03-09T00:00:00Z
+    webUrl: "https://www.inc.com/peter-cohan/this-venture-firm-sees-opportunity-in-generative-ai-heres-how-to-win-its-capital.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 13
 
 secured: "fR1gaXezRv/TRgxWwSW+mm3OU5m0SzHnAv/UPStcz+SzOfBcEiyuA55EZ2hIfCoT/CevPQ0fd83SG7d2wgEqjzKRbcmtYwhBaPSJn5bgl4aytgBif6T6gSRWimJMaxH0YXL1Q9EpSThgQjrFQ+yjKfk5/VYkb1ylIzgNtcBwMSlgKN/RiUtZCcd/NQ8pRgIORv/c/gExBJl05VSA7yll9PzvfHdlP0F8Y3nxfk9CAj5/tX65RG726ZI+a7zZBpCvp3WfOedVQ8lG7JSOpSpqkOA8ClgPegTsHBAJcdk8oroY5vXgY2BAOyNg0PnjGFl56R4V2dgViQSIs7w2b9ACD9NY+WM/dSAVrhkP27lGgnwkzcFjM+3UvIZkxinIhJfxlSmOS4s/g3tTLU36XAShxADz8SmGcdlSNE0pDppzHWdjgUcbWnGyqEHuA8WTyPva5D7SZ7Om0bm/Xm6BXfPV7jhL5JW83dmcX1yD4dDAkLw0Fdc+RCn2sAoxOHsO1wDrjFwQSW6NnKFi3cWBU+XWLA==;O4t2JGgrAHuwn6jRB3gP3g=="
 ---

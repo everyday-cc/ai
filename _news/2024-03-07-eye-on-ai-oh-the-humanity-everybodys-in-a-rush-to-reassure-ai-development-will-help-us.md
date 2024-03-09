@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Interdisciplinary degree takes aim at artificial intelligence skills shortage in the workforce"
-    excerpt: "Applications are open for Purdue University’s new 100% online Master of Science in artificial intelligence degree, which features two majors, one for people who build AI systems and one for people who make use of them."
-    publishedDateTime: 2024-03-04T14:56:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2024/Q1/new-online-masters-in-ai-from-purdue-is-designed-for-people-who-build-ai-systems-and-for-people-who-use-them.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 22
 
 secured: "P/B9NhIFrPc4pe7D2nBJ9AKfRV2XnsfZU8H5tCYShG5okXipXw5Mp4sqAhZnxgs1KQKMZbaqwW9j500KYZaIEw8YSsGtKSYOujz7pUVmTKZksrAaqABKmc9+/RYci29zdwhITGnqO7C/v5lWHDPnRWJ4piSLqTgEob/Fw/vYKsqpY9GblUzeDq/3a4IskBZJD5feK/gOVD1iyserT1EHK9PupxGDoERYaz3hiU6bs6IDtIP+i7wnpYNkTAGQAj+jOR664hvFQvBU5CfKdZq2Hhi8ahmtuFWwKmCODvHUoDkVFB+JVe9qhk0DqU1dC8xg8VGQCqARNUef3eklpMMDqGufXx8xOH4UeyvWabrGZSk=;rj7EJsVIEeT6/y3XPTNfIg=="
 ---

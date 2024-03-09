@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accele
 webUrl: "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: TechCrunch
@@ -23,6 +23,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
+    excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
+    publishedDateTime: 2024-03-07T05:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974406.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/2356554/Cognizant_Babak_Hodjat.jpg"
+        width: 376
+        height: 400
+        isCached: true
   - title: "Cracking the Code: Ria Pinto Demystifies AI’s Role in Cybersecurity"
     excerpt: "Protecting data across hybrid cloud environments: AI solutions can identify shadow data, monitor for abnormalities in data access, and alert cybersecurity professionals about potential threats by anyone accessing the data or sensitive information—saving valuable time in detecting and remediating issues in real-time."
     publishedDateTime: 2024-03-08T11:48:00Z

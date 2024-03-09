@@ -41,22 +41,6 @@ related:
         isCached: true
   - title: "AI-generated images of Trump with Black voters being spread by supporters"
     excerpt: "No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds"
-    publishedDateTime: 2024-03-04T14:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/cd8fc8e1adb8b564cc21c635b2a9bf8085a73a50/0_186_5618_3373/master/5618.jpg?width=620&quality=85&auto=format&fit=max&s=f13790806d056708017043aa28251f55"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "AI-generated images of Trump with Black voters being spread by supporters"
-    excerpt: "No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds"
     publishedDateTime: 2024-03-04T19:25:00Z
     webUrl: "https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
     ampWebUrl: "https://amp.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters"
