@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generat
 webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Move over Gemini, open-source AI has video tricks of its own"
-    excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."
-    publishedDateTime: 2024-03-04T11:38:00Z
-    webUrl: "https://www.zdnet.com/article/move-over-gemini-open-source-ai-has-video-tricks-of-its-own/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/818ce3563f39d3b39aa350a457278e8286cd694c/2023/12/06/aa9adc0c-ec53-4778-9a97-d5b072ee5a5a/geminiera.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Rise Of Open Artificial Intelligence: Open-Source Best Practices"
     excerpt: "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem."
     publishedDateTime: 2024-03-08T14:15:00Z

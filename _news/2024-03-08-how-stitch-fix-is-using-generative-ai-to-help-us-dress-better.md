@@ -113,15 +113,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What Comes Next For Banks With Generative AI"
-    excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
-    publishedDateTime: 2024-03-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/michaelabbott/2024/03/04/what-comes-next-for-banks-with-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "hdBrT3OPX6AZyBBm+CSeMHPp+WSY+HHZIvExdjExoLFu7lmvgYf+iB6DFDuOnB4rNCKRngRV5CcNrgxu6F7nTuhU7Dyk0onjhQ6d4jIg4KkaXqugvBGooQSW/ylBgZR3cR0ous2InzxmneRtkxCjeU9VZSUUejevkjMi0EZ5e61JuCm1ckUwI3i4unnE5hlZD+JqaV1vkn3SNOC0EmCv9NKew+/YPDijhQkLbG9xdBtLwQ4DL37aG5B2iZ+DgbX4VX9EA1+ZTpX2O/Wfid9+QHcaQ2P4rI9YxGCP9hqMtoc0J52vHsk0J5xfFXdVxeFZEiFpg+kKXwDgd6xmMQd6R1O3Z/JIewfN7vDdQDFS2yM=;KGbgGhvzeAgjcKLBk+3TzA=="
 ---

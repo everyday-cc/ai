@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "AWS to launch an infrastructure region in the Kingdom of Saudi Arabia"
-    excerpt: "AWS Region will enable customers to run workloads and securely store customer content in the Kingdom of Saudi Arabia while serving end users with even lower latency. Amazon Web Services (AWS), an Amazon."
-    publishedDateTime: 2024-03-04T11:13:00Z
-    webUrl: "https://www.intelligentcio.com/me/2024/03/04/aws-to-launch-an-infrastructure-region-in-the-kingdom-of-saudi-arabia/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 39
-    images:
-      - url: "https://www.intelligentcio.com/me/wp-content/uploads/sites/12/2024/03/Image-Riyadh-KSA.jpg"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 bln"
     excerpt: "to support the growing adoption of artificial intelligence technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Advt Apple and Amazon, led by its AWS ..."
     publishedDateTime: 2024-03-05T02:28:00Z
@@ -96,20 +82,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_BusinessFinance_227_menafn.jpg"
         width: 512
         height: 341
-        isCached: true
-  - title: "AWS unveils $5.3bn investment to advance Saudi Arabia’s cloud infrastructure"
-    excerpt: "AWS said the new region in Saudi Arabia will consist of three availability zones at launch, adding to the existing 105 zones globally."
-    publishedDateTime: 2024-03-04T12:44:00Z
-    webUrl: "https://gulfbusiness.com/aws-to-invest-5-3-bn-in-saudi-arabia-cloud-sector/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 36
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2024/03/GettyImages-1149809222-e1709555838745.jpg"
-        width: 930
-        height: 620
         isCached: true
   - title: "Amazon’s AWS to launch Saudi Arabia data centres, invest over US$5.3 billion"
     excerpt: "to support the growing adoption of artificial intelligence (AI) technologies. Amazon said customers in the region that use AWS to run workloads include Saudi Telecom Company SJSC, Seera Holding and Mobily, among others. Apple and Amazon, led by its AWS ..."
@@ -153,6 +125,6 @@ related:
       domain: cio.com
     quality: 11
 
-secured: "3dwBgguogMeJsVZfWIhezyu0K49JRhg4/udcZvItgAa73T6EUmFYxzF0x+CUrY6ulVyaUSCWn/HeZlDQwVX+8qrYI9YBiX7Skwnhyxp+OpN5ObFerQU7BXv592jWRbaJlwMQUM5mzHSCLYjpH73xLEWclgstpUSb6zGzxcBzMJ1mMpHtCbvsjqTbcHoaJk6r2GqzJNgAh/IpqrB9J1pGTa5fZgEKmW+M3dC6uHdWYTzcb2oJE4xL92JXkN8AKoKWoVJfUriS9bNyqtdq9b3fnQciF90oOnTBVxVnmqIf/nYTtuJ58qDt3ARBS2Zj7ekezOJ/fz2y93xFmbKBYJsseLUV2aizY+Rs76qz+62cKCI=;lp7Wlokhm34+GV5XAbxFKQ=="
+secured: "OqktVX76mwZti6n7Kqv4VEkx0ox2ILpWC3ou4Skja8t83ZCwFSd5PWLiUFuH8fVTuPQSbV7vO1i4WqDEZvvoLHaLhJAve7TsvjEhgboInHt0/YOMvhfRqa313JL4qV252HoZOyfZzeMkLr0F+unuqGyCheTrzGtPG5FPhFP65KP8vX3ib/zRsapbmReIEaIgmWXCz2BG0CUyXDk0ZDv/Fsuih1SsMvZ9+xQ22IiktJ1nfA3GtqF4YTlckzyZLZF6xwelJN6h/YB5dTNg1+TrdtXzjPVgvbpu7N7nZrr3tUyV2fVaTlqCCDTGM5g3x7mW9xYS+8pfSmsL+z2Spr4TvLCTEayo49r2zEnIyFk8U0w664Yq55uEqR56MDR3Y/seqz+Lfztrm2+6eZwRQWkM6qpFjVLQKcGFAZyW1UvFLndYQIpLqVK3sjOsn2SfvyjjCkXj/2hK3rQpiV9d2bxuLGcKWJkQw/AHAKH+CFVviH9zAuhwnxqFSb6swkJnUfePw/zjuqx1i5trnTZt7+Wsgg==;AgkUER0eJVpapWNfJmeRsA=="
 ---
 

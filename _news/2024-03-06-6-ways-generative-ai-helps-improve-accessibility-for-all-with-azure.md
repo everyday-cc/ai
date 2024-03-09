@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-
 webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -114,15 +114,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What Comes Next For Banks With Generative AI"
-    excerpt: "Banks have made notable progress with Gen AI, but scaling the technology in a responsible way, with ... [+] reimagined workflows for employees, is a considerable undertaking. At the start of the digital revolution, Bill Gates said that “banking is ..."
-    publishedDateTime: 2024-03-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/michaelabbott/2024/03/04/what-comes-next-for-banks-with-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "VqftgF2DIk0aUs8RYqOwBt/RnZttvQ2QHaNUl8lN0IawJ+vnOdwvbgnE3sMRyhO0AcKKlWfaRLQA42MrMDva8U1cvRtRA5FBat8o2YnMPPVmrCzWAebYN4DVmwvwPzji4y0MO+KQqCw0m/0p1P+7q7BFDaBDVXvzsYnGfdrCMqe3f350K0bOGOpIcDIDS5Kzk4KiZGYI0D/GS2grYjSkcbMK5QspoEq+x6YV3PxqYmOIPz3X1AdwFjsWATXGmLtJmEn15aOikJlHZTsoTdduGrNWsKl1O221QrKi8ANPzqVzmZojVc36frLJ/J3g3E6w02knxEbyhKCZZBh8rNkzrKVJBUmWf8xxN8I12Hl7PNM=;EMO0YYcCwGP8di254ZYpTw=="
 ---

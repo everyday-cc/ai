@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-report
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/"
 type: article
 quality: 71
-heat: 104
+heat: 105
 published: true
 
 provider:

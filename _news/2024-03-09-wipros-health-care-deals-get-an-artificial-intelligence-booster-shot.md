@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/money/report/wipros-health-care-deals-get-a
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
 type: article
 quality: 59
-heat: 81
+heat: 79
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/4-ways-companies-can-ensure-the
 webUrl: "https://www.businessinsider.com/sc/4-ways-companies-can-ensure-their-use-ai-fair-ethical-and-effective"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,42 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Does AI have a place on ethics committees? How to use it the right way"
-    excerpt: "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ..."
-    publishedDateTime: 2024-03-04T11:53:00Z
-    webUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-1.jpg&signature=b84d53bed3640764cf4568c175a30c5d"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Tech Coalition Issues Open Letter to Commit to Ethical AI Use"
-    excerpt: "Tech giants unite in an open letter to advocate for AI's responsible use to enhance human life and ensure a sustainable future for all."
-    publishedDateTime: 2024-03-04T18:19:00Z
-    webUrl: "https://coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/"
-    ampWebUrl: "https://coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/amp/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 54
-  - title: "Here’s How to Use Mistral AI Right Now"
-    excerpt: "Even Microsoft (an existing investor in Open AI) is backing this AI startup by pouring $16 million into it. If you’re an AI enthusiast like me and have already used text models like ChatGPT, you’d definitely be looking to test Mistral AI. In this guide ..."
-    publishedDateTime: 2024-03-06T00:00:00Z
-    webUrl: "https://www.gizmochina.com/how-to/how-to-use-mistral-ai/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 47
 
 secured: "27TOP2EunM2IcBLqsQao6wIilNewI7C4YPuS+JqzMDRrJvNw6EP+DPQaLINPXaxifWZTQ/y2NaoTgee2AxfqPSMmeIIwP94qSr/pkEzwY8pAUIaWJ9tt9bRNKH9pix/5fU0ro2/mr1tVY5b5yzbwOKUKnjJWJGGQ7/USvluXdsRJR4TviqhqruCwbODxrv2zljTyyNkyH7CxoodZp2JzLWI0jYYAwlyIJs6WONGTMrbqmy6QVADNrGijn16LyrSx/nimmxlUZyaUujH/eK6haOIH/FynXwimgsuodPJQ2MT+sB7uDqCSe7KtkaaSEJs2yhkCp0QnBcYj3qWRYuOaeEy9C9wphhr7xOIkDj3hEKzFhE077+R39IeRtFL7hCSpX34A0H2pXPvvDb5mqfZUXxZlzbvNAS8ZSw/zjM2JSG9UOw3GkIuY00rsRb8L8vAia5emiORiiIYQW68fbo5GerZppTzY5x9tj72pxKhc5TE1CndPYcv7oynfxplN2NWphtxm4XyCH7BpFG/r+tMaOw==;2pHmfBb+d7YKL4wsUDxaww=="
 ---

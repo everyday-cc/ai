@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 102
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "zS8WoKNlyDa/+WsM8X1eI1tHgqgCwsghu+33H1yVq1smzirpLkDIWUF64g3WnO6tVRAzUbxSOwO+2TA/Q/Jd8hNeENjBg0WhRHTE5UoLWh7jvh5Lm0rx3AFgZ2Bc/s5ukcjrMPLSSUUy5jq6N+tgwHYhUdjfrKHOy8NupcHAyKMofwgGXf+0v3nB03VWdn521NtOCCL8Xasfy2Hszvscvbu3MGdoahFojeBlltjmbiPTO6RsivRh1I+KTRUatKtq044ovNz0nQdojUK+YP+Cv3nJkBLxf7P3qpjHW9HOXoWUthnuwWFDTDSicZTD2unhdsxyZO1BcEqCTw0cGXT30V/aAjXJpof2ktWEBca3F2U=;zQ2PzyCZ8pXECJxm5KWIBA=="
+secured: "TcjvckxNn2o6CY7uxaUp66RImUF79XXxmiZR+sR4Naj4aHGIWvmWWLLyMopv/KqjZ7rcL7LghtJaUOP12GN16Eax9yabGUuO53/gMPxa2Q4Oa6VssD2fPl8WBX9yrARH3BgO+8AF1REvfZXAr6Fw3ODyb7LZ+abrOr6SYxPadie06US+sUibxhxKLDmnAwLuh8zgCLBsw4t826LdudAJdD5uAhJXkmeJN6N1DVhZkDauatluFcd8r8L2fvMOIH1t+nRQ0dWT3Tq4wAQXdo+XUyHtZ3OXmNN3V/b2BHUAPV1JsbX1dlg+cNgJx/YUEKwmERbAUJ2qilWjVMzApXb+ZK2jFNOnwkP4SwwLACGBKweik7UkBFhQiMVE7IzQmkfYiXGdnLU4pVqtEK0SKRD+fRSnRzfH/1y2JGVXJrUSBMtz/QwVf7Sd1OlSvhSlu5d5pjPOpkoFHXrUTHcxuuwdM+dKHnzVK0IJpCdRDfzPPuE4lxyHPKhapSs2wlNSExUfKR25eRwShbWJnkix2yZ1Ow==;AvhK1HzOHd5ShR1feKGmng=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-pr
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -72,22 +72,6 @@ related:
       - url: "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined"
         width: 800
         height: 450
-        isCached: true
-  - title: "Using Generative AI For Figuring Out Your Astrological Horoscope Raises Pesky Questions About Whether We Might Become Starstruck"
-    excerpt: "Let's together take a close look at the use of generative AI for generating astrological horoscopes. Turns out that some worry this has mental health implications."
-    publishedDateTime: 2024-03-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/04/using-generative-ai-for-figuring-out-your-astrological-horoscope-raises-pesky-questions-about-whether-we-might-become-starstruck/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/04/using-generative-ai-for-figuring-out-your-astrological-horoscope-raises-pesky-questions-about-whether-we-might-become-starstruck/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/04/using-generative-ai-for-figuring-out-your-astrological-horoscope-raises-pesky-questions-about-whether-we-might-become-starstruck/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5679f992204df61c911c3/0x0.jpg?format=jpg&crop=3671,2752,x330,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1201
-        height: 900
         isCached: true
   - title: "Widening lead in AI memory chips"
     excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."

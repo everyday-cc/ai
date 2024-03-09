@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenge
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI-Powered Decision Making: Its Impact On The Enterprise Value Chain"
-    excerpt: "Companies that are willing to test and learn are overcoming decision-making challenges, improving operations and making workers' lives easier."
-    publishedDateTime: 2024-03-04T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62337b27ece1d59239e707ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
 
 secured: "1n+LidSr5Vr5pXXOBKRywYKp1WCLj3uytXSJpVEZBJOxq1tMlGYhvwgsf16Y605TZ5fhuRD9r08J/pxHE3aLbY2a2KAU5FHRQiBNNGb3+GS4s6Gckh1YNwMCSDtZK5avI/FZUUistl/HuK864hYjiNCANjIC31pMIjhAJs+3l068HXBUJT8RYvsikuDpuryJ8eG4Qx+qyMI/4MKfjuH8HjjkF5TONZVHh+8N/G0wWmAmPQZVScFUFCYG5z4RC3f0fC8Juj/oJI16K3nu39Ze8Mb89lK4Zk4KVCLjKgx/13Uq0d9ovYFBrpeH8v2lC5bqhN+umlM6/S6pMWdyZNaDZmpvgNhKnmeh6J7uBk4MPo4=;gUlq35pMFIf49DJqlITD4w=="
 ---
