@@ -57,6 +57,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Learning AI as a career skill"
+    excerpt: "Tu’s experience shows that generative AI should be a skill more people — especially younger generations — need to develop. It has already become a truism in many tech and corporate circles that while AI may not yet replace (white collar) workers, workers with AI skills will replace those without."
+    publishedDateTime: 2024-03-05T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/feat/archives/2024/03/06/2003814511"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2024/03/06/P13-240306-306.jpg"
+        width: 800
+        height: 496
+        isCached: true
   - title: "The Pros And Cons Of Protecting AI As Trade Secrets"
     excerpt: "Trade secrets have become a de facto intellectual property right for securing valuable artificial intelligence information ... that information when she or he leaves the company. The Waymo LLC v. Uber Technologies Inc. litigation in the U.S. District ..."
     publishedDateTime: 2024-03-05T00:00:00Z

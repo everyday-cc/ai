@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-17-somalilands-struggle-for-recognition-amidst-global-geopolitical-dynamics.md",
+      "title": "Somaliland’s struggle for recognition amidst global geopolitical dynamics",
+      "excerpt": "The Republic of Somaliland finds itself at a critical juncture in its journey for international recognition. The catalyst for this seismic development",
+      "sourceUrl": null,
+      "webUrl": "https://www.thereporterethiopia.com/38680/",
+      "originalUrl": "https://www.thereporterethiopia.com/38680/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-17T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ethiopian",
+        "domain": "thereporterethiopia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-samsung-galaxy-s24-ultra-vs-google-pixel-8-pro-a-tough-battle.md",
       "title": "Samsung Galaxy S24 Ultra vs. Google Pixel 8 Pro: a tough battle",
       "excerpt": "Beyond photographic features, the Pixel 8 Pro also includes built-in proofreading tools in Gboard, object and pet recognition for the selfie camera, and the ability for Google Assistant to summarize a web page for you. Suffice it to say that Google will ...",
@@ -1342,49 +1376,6 @@
       "provider": {
         "name": "Computer Weekly",
         "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-a-sleeker-facial-recognition-technology-tested-on-michelangelos-david.md",
-      "title": "A sleeker facial recognition technology tested on Michelangelo’s David",
-      "excerpt": "New facial recognition technology replaces lenses with a metallic surface for simple, compact and cost-effective identification systems. During a demonstration, the technology correctly identified Michelangelo’s David,",
-      "sourceUrl": null,
-      "webUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
-      "originalUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david/_jcr_content/image.scale.small.jpg/1706895432431.jpg",
-          "width": 600,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
         "images": null,
         "publishers": null,
         "authors": null

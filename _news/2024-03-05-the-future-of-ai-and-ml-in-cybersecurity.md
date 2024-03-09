@@ -38,6 +38,22 @@ related:
         width: 1271
         height: 847
         isCached: true
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
+    publishedDateTime: 2024-03-09T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Eye On AI: Oh The Humanity — Everybody’s In A Rush To Reassure AI Development Will Help Us"
     excerpt: "The big AI news this week is Elon Musk’s lawsuit against OpenAI and its executives — including co-founder and CEO Sam Altman — claiming breach of OpenAI’s founding agreement."
     publishedDateTime: 2024-03-07T12:00:00Z

@@ -89,7 +89,12 @@ related:
     provider:
       name: Billy Penn
       domain: billypenn.com
-    quality: 1
+    quality: 21
+    images:
+      - url: "https://billypenn.com/wp-content/uploads/2024/03/Screenshot-2024-03-04-at-2.11.50-PM.png"
+        width: 1104
+        height: 1362
+        isCached: true
 
 secured: "QWAYgZ26r0sq7XvW09tOU6NGIBTlxPyo6alS/mnc4gqk63hxyREa5ce9mYX0fqKIbrtulHjTZZsXkRSfe06MdIPLZeokFRc9Uz+xwr4SbKHrP5XMiMqTEB2P0IkTEYmvPKhA0zcGFMxgI1IiZrK1Moi1wb4QBR4/04ALhe3PpJPWpMSW/w/DmvsbWpPgmTKxKu1Nj/D0+U4bIxC2YPMdCBrPdlWzKKP+dnH+USVg0QvPStKQmZmCB0atDQep7o1wcDKVgQwT+ka8sjylnQg+NS9kJ19DyVLIozFTwI/PKYIH5e8/32LwioAubv2rFYDE7eKKe0xzvgakBy1uDThOUr78acFra/tq8S3sSaqMuEBQEpCItg57+aftB/D73RkvpN4jFOixwEtibaA97kcVkYRBgo8HqJubQBrFxOrm58JQmSPJzLQ8wamtkgJlq0R5f5WCB0rTUCJ/Q0n9IXnaBR86D1lya5V3nT/v2VHXmVtYKO/EYE1TIjJk71A6IhtJiRHyDOjRY6vx+JGmBVxEvg==;OKganU1HJUaCuZZ1jIRxJg=="
 ---

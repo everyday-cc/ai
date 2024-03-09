@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
-    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
-    publishedDateTime: 2024-03-04T10:58:00Z
-    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Expanding The Limits Of AI With Identity"
     excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
     publishedDateTime: 2024-03-08T14:45:00Z

@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down"
-    excerpt: "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ..."
-    publishedDateTime: 2024-03-04T10:40:00Z
-    webUrl: "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/"
+  - title: "Amazon-Backed Anthropic Launches Claude 3 AI Models to Rival ChatGPT-4"
+    excerpt: "Claude 3 has three variants, with its most powerful Opus version promising better results than OpenAI's ChatGPT-4 and Google's Gemini 1.0 Ultra models."
+    publishedDateTime: 2024-03-05T11:58:00Z
+    webUrl: "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
     images:
-      - url: "https://www.zdnet.com/a/img/resize/eb501fa7b639781afa61e6952318ef6629691191/2024/03/01/d9070712-3fd3-42bb-8871-19d5474295c4/gemini-versus-chatgpt-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/02GPZdQqyCmIQ95bmEMKPqW-1.fit_lim.size_1200x630.v1709639282.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Anthropic reveals Claude 3 AI LLMs, claims it beats Gemini and GPT-4 in many benchmarks"
     excerpt: "Anthropic, the startup AI large language model (LLM) company that was launched in part by a number of former OpenAI team members, has just launched its latest family of LLMs. The Claude 3 lineup includes one that the company claims beats OpenAI's GPT-4 and ..."
@@ -56,81 +54,35 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "GSI engages AI and machine learning in mineral exploration"
-    excerpt: "Furthermore, a series of lectures and presentations were delivered by distinguished geologists and subject matter experts, elucidating topics such as mineral prospectivity analysis utilizing Machine Learning and emerging technologies in geoscience ..."
-    publishedDateTime: 2024-03-04T15:11:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/articleshow/108212560.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/amp_articleshow/108212560.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/amp_articleshow/108212560.cms"
+  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
+    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
+    publishedDateTime: 2024-03-07T17:48:00Z
+    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-108212561,width-1280,height-720,resizemode-4/108212561.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Move over Gemini, open-source AI has video tricks of its own"
-    excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."
-    publishedDateTime: 2024-03-04T11:38:00Z
-    webUrl: "https://www.zdnet.com/article/move-over-gemini-open-source-ai-has-video-tricks-of-its-own/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/818ce3563f39d3b39aa350a457278e8286cd694c/2023/12/06/aa9adc0c-ec53-4778-9a97-d5b072ee5a5a/geminiera.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
-    excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
-    publishedDateTime: 2024-03-05T11:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/articleshow/108238137.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://static.toiimg.com/thumb/msid-108238104,width-1280,height-720,resizemode-4/108238104.jpg"
-        width: 1280
-        height: 720
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
+        width: 1199
+        height: 685
         isCached: true
-  - title: "Google Gemini's Latest Update Empowers Content Editing With AI; Here’s How You Can Do It"
-    excerpt: "In its latest update, Google introduces an innovative feature empowering users to seamlessly edit content generated by Gemini, promising not only time savings but also enhanced content quality."
-    publishedDateTime: 2024-03-08T06:23:00Z
-    webUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it"
+  - title: "Anthropic gives its flagship generative AI models a facelift"
+    excerpt: "One of the hottest startups in the generative AI (genAI) market, Anthropic, has updated its flagship models to a new 3.0 standard, bringing improvements across a range of common tasks and faster processing speeds. The improvements in Claude 3 are broad ..."
+    publishedDateTime: 2024-03-04T21:28:00Z
+    webUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
     type: article
     provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 60
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/2_2738.1200.jpg"
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Google AI in Turmoil: Layoffs, Overtime and Gemini Fiasco"
-    excerpt: "Despite shrinking, Google relies more on its trust and safety teams. Some employees have been encouraged to volunteer for weekend testing to avoid further issues with Gemini"
-    publishedDateTime: 2024-03-05T06:03:00Z
-    webUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
-    ampWebUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2023/09/search-engine-76519-1280.png"
-        width: 1200
-        height: 657
+        height: 800
         isCached: true
   - title: "Claude 3 vs ChatGPT vs Gemini latest Anthropic AI models compared"
     excerpt: "Anthropic has launched a new AI model which has now being compared to ChatGPT and Google Gemini. This Claude 3 vs ChatGPT vs Gemini comparison"
@@ -146,64 +98,105 @@ related:
         width: 1280
         height: 710
         isCached: true
-  - title: "Anthropic Unveils Claude 3: The 'Rolls-Royce of AI Models' Outshining GPT-4 and Gemini 1.0 Ultra"
-    excerpt: "Anthropic, a leading AI startup, has unveiled its latest suite of models, Claude 3, a powerful tool in the ever-evolving technology landscape. The best model in the Claude 3 family, Claude 3 Opus, outperforms competitors like OpenAI's GPT-4 and Google's ..."
-    publishedDateTime: 2024-03-04T10:03:00Z
-    webUrl: "https://www.techtimes.com/articles/302270/20240304/anthropic-unveils-claude-3-rolls-royce-ai-models-outshining-gpt.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302270/20240304/anthropic-unveils-claude-3-rolls-royce-ai-models-outshining-gpt.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302270/20240304/anthropic-unveils-claude-3-rolls-royce-ai-models-outshining-gpt.htm"
+  - title: "Anthropic Releases a New AI Model, Promising It's Cleverer than ChatGPT"
+    excerpt: "After billions in cash injections, Anthropic is backing the launch of its newest-generation AI with big promises."
+    publishedDateTime: 2024-03-05T17:45:00Z
+    webUrl: "https://www.inc.com/kit-eaton/anthropic-releases-a-new-ai-model-promising-its-cleverer-than-chatgpt.html"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 44
+      name: Inc
+      domain: inc.com
+    quality: 54
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444368/techcrunch-disrupt-2023-day-2.jpg"
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/anthropic-ai-GettyImages-1500238079_538121_v90dre.jpg"
         width: 1024
-        height: 683
+        height: 576
         isCached: true
-  - title: "Learning AI as a career skill"
-    excerpt: "Tu’s experience shows that generative AI should be a skill more people — especially younger generations — need to develop. It has already become a truism in many tech and corporate circles that while AI may not yet replace (white collar) workers, workers with AI skills will replace those without."
-    publishedDateTime: 2024-03-05T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/feat/archives/2024/03/06/2003814511"
+  - title: "AI Startup Anthropic Launches New Models for Chatbot Claude"
+    excerpt: "Artificial intelligence startup Anthropic, one of the sector’s most closely watched companies, is rolling out new software for its chatbot Claude that will be better at carrying out complicated instructions and less prone to making things up."
+    publishedDateTime: 2024-03-04T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-04/ai-startup-anthropic-launches-new-models-for-chatbot-claude"
     type: article
     provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Which Claude 3 AI model is best? All three compared and tested"
+    excerpt: "research and development, and strategic analysis. Achieves a balance between speed and intelligence, making it ideal for enterprise environments. It provides robust performance at a lower cost, engineered for endurance in extensive AI operations."
+    publishedDateTime: 2024-03-05T14:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-ai-models-compared/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://www.taipeitimes.com/images/2024/03/06/P13-240306-306.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Which-Claude-3-AI-model-is-best.jpg"
+        width: 1280
+        height: 713
+        isCached: true
+  - title: "Anthropic unveils its most powerful AI chatbot to date"
+    excerpt: "Anthropic's Claude 3 beats Gemini (Google) and GPT-4 (OpenAI) on industry benchmarks. Here's what else we know."
+    publishedDateTime: 2024-03-04T14:56:00Z
+    webUrl: "https://invezz.com/news/2024/03/04/anthropic-most-powerful-ai-chatbot-claude-3/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 37
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/12/possessed-photography-jibmsms4-ka-unsplash-2-1-1024x737.jpg"
+        width: 1024
+        height: 737
+        isCached: true
+  - title: "Anthropic releases more powerful Claude 3 AI as tech race continues"
+    excerpt: "Anthropic, a startup backed by Google and Amazon.com, on Monday revealed a suite of artificial intelligence models known as Claude 3, the latest salvo in Silicon Valley's near incessant contest to market still-more powerful technology."
+    publishedDateTime: 2024-03-04T16:06:00Z
+    webUrl: "https://www.aol.com/news/anthropic-releases-more-powerful-claude-140538205.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/fb784fc28e1599eac33123446c2f2f76"
         width: 800
-        height: 496
+        height: 494
         isCached: true
-  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
-    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
-    publishedDateTime: 2024-03-08T15:51:00Z
-    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
+  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
+    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
+    publishedDateTime: 2024-03-05T16:33:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pixel 8 won’t get Gemini Nano on-device AI – this is important for your next Android purchase"
-    excerpt: "Google confirmed Gemini Nano, its on-device AI model, can't run on the Pixel 8 because of hardware limitations."
-    publishedDateTime: 2024-03-08T11:50:00Z
-    webUrl: "https://bgr.com/tech/pixel-8-wont-get-gemini-nano-on-device-ai-this-is-important-for-your-next-android-purchase/"
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
+  - title: "3 Tips for Business Owners Who Want to Use Anthropic's New Flagship AI Model, Claude 3"
+    excerpt: "According to Anthropic, the largest and most powerful of the three models, Opus, outperforms OpenAI's current top-of-the-line model, GPT-4, across a wide variety of benchmarks, such as undergraduate level knowledge, graduate level reasoning, math-based problem solving, and coding. Here are three ways business owners can use these models."
+    publishedDateTime: 2024-03-05T17:08:00Z
+    webUrl: "https://www.inc.com/ben-sherry/3-tips-for-business-owners-who-want-to-use-anthropics-new-flagship-ai-model-claude-3.html"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
+      name: Inc
+      domain: inc.com
+    quality: 29
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/10/google-pixel-8-5.jpg?quality=82&strip=all"
-        width: 4000
-        height: 2250
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1702217813_538101_ijkvbw.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
+    excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
+    publishedDateTime: 2024-03-05T19:53:00Z
+    webUrl: "https://www.nextplatform.com/2024/03/05/anthropic-fires-off-performance-and-price-salvos-in-ai-war/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "D5UssJQ/nrRtj2jpC1YkuFRMcku9O2iQxwhXKv04tIuI7Aq4B4IL39EpATgDt9uAkF4xfJdHnKs+xpi2oFgV+HSSMGDgYmoayUtFpSzpWnwopYCUCQxFs4aJ9gC6C0OSgH3ZtZTIArdygsU/70aoDca2kqz29bHCfboxy28R3R14tODir2o/2wqi3RjWBxjkwvTiCpEYTrH0lcDf7BJdKKJp1fEhLLGv+YpbPy5fkzikSLHZ9a5AhRWDJyK2qMxKfELf0ClPzbz3/Gk/OfPSvnO34h3kT+3iWfQNDxuZGL8Icie+BFaehsGeAeUXeTj8UL62nAPyjC1iyDNWUsUhwuNHL7Z7j9d7N+CMnPpaO/zPhYwF8xilomiZrQg9nma0f6gNmxKI59jJphKQcLkINPSSL9+igTuDrpBw5wfL9Ze2VBhT1ibDNXQpV+XAB6xqVGCzclRGtDNSLLEdvnabhgdnUpv+291Wg2eD86FuBtw+EO+9Qw2FfBMmDso+K/PHrk7gup0htESHA9bPYZaVig==;zSRmvMwT1+m2yCdxE23EoQ=="
 ---

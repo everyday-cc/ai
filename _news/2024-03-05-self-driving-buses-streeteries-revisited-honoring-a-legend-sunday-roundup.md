@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-04T19:12:00Z
 originalUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
 webUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://billypenn.com/wp-content/uploads/2024/03/Screenshot-2024-03-04-at-2.11.50-PM.png"
+    width: 1104
+    height: 1362
+    isCached: true
 
 related:
   - title: "Los Angeles man arrested after attempting to steal self-driving taxi as car controls remained locked"
@@ -91,6 +97,6 @@ related:
       domain: kqed.org
     quality: 18
 
-secured: "EKWB6+K2fOBLAKwz9YnyoXJhgaR086G4oSyujXzrge0WmwmM4udfLwZUtf+T+xC4lHFC15cbKADYC04wiO3xVB28cVELa2ihZm2X9PvUlGT4taURFwUQnGbhuOinvQAnl/2DbgDcR18HgxlF3oQkr2WINDmcxegJ1REih+AKIq25A+m2isiTz/DTATxGNfCjZykjz4E8DPPk8I7W0Bj0ooooJdB1E6Qf2OLvWlmwNAMyDcK7PnxdgtJKhCRmsKHSw8P2m2Wt1qFaqPXAoCHqISnjFcyG2vfgAiZ1+mFLWVGMQs3BoEOP0NdCvN8a9tXtFYKhIsLHisYey/xT+Jik1QPYci7ClpL1o9LZ2xgcAZQ=;yt1107F29/t91Cpr0cNtRw=="
+secured: "qgoKPyj6GZcPGC/ONsKqFhag0o+AXa+uS499vM7q6RzSm42YA+qMQhmv9WaEdmCyDq3EoBiR/PUsJYK3RjTD44ahxFbw+uarFisZniarzl8XpmzdHANolEbaTpKnOsFxohmNkTFHstg4De1xqDWf89K+R21nmlU7xHE0dgxgfHAYTgB1sy74tbZTm+pNnktBRLqxDGub1D233owKj4y1CvD96FhXKsYliN2ffWwRp70vkdKGjqypYOxpxRaCllLpMSzwnjHEdQhzs3mw/O1fWrNda7xWvwagsoxIG8HgcIYfBT2AuKfxxgCzEA79ssjYYWCLFJY9lxUSBctTrDNAiQbzaDcmeJ1qsVLwK0hzWkQ=;5WSGvmhlHAKbvA6sREN7+A=="
 ---
 

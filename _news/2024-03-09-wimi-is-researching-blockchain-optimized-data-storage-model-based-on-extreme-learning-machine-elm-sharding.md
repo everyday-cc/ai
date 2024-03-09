@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-08T16:55:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2024/03/08/9975451.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/03/08/9975451.htm"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.tmcnet.com/tmc/world.jpg"
@@ -38,6 +39,22 @@ related:
       - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg"
         width: 6285
         height: 4190
+        isCached: true
+  - title: "India Moves Forward in Blockchain, AI Research as NPCI and IISc Join Forces"
+    excerpt: "Both these parties together, will work on developing scalable blockchain platforms. A multi-modal analytics platform to oversee fintech data will also be developed."
+    publishedDateTime: 2024-03-09T09:31:00Z
+    webUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973"
+    ampWebUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 57
+    images:
+      - url: "https://i.gadgets360cdn.com/large/blockchain_technology_maharashtra_revenue_dept_unsplash_1664785921608.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "French Startup Raises $73 Million for Blockchain, AI Privacy"
     excerpt: "Paris-based startup Zama has raised $73 million to further develop its cryptography technology aimed at enhancing data privacy for both blockchain and artificial-intelligence projects."

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
+      "title": "Our next-generation model: Gemini 1.5",
+      "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "publishedDateTime": "2024-02-15T15:00:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it.md",
       "title": "Google Teases an Even Better Version of Gemini, but You'll Have to Wait for It",
       "excerpt": "Another day, another generative AI update. Google's AI subsidiary DeepMind has previewed Gemini 1.5 Pro, an upgraded model of Google's renamed Bard chatbot Gemini. Gemini got its new name less ...",
@@ -1257,58 +1309,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini.md",
-      "title": "Google’s AI Assistant, Bard, Might be Getting a Makeover as “Gemini”",
-      "excerpt": "Google may be considering to rename its AI Assistant Bard with the name Gemini as flags on the Bard's website suggests. Learn more here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/google-bard.jpeg",
-          "width": 1971,
-          "height": 1108,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T11:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

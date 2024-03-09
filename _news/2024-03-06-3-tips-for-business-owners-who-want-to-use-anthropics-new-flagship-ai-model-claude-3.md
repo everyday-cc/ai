@@ -38,6 +38,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Anthropic reveals Claude 3 AI LLMs, claims it beats Gemini and GPT-4 in many benchmarks"
+    excerpt: "Anthropic, the startup AI large language model (LLM) company that was launched in part by a number of former OpenAI team members, has just launched its latest family of LLMs. The Claude 3 lineup includes one that the company claims beats OpenAI's GPT-4 and ..."
+    publishedDateTime: 2024-03-04T16:10:00Z
+    webUrl: "https://www.neowin.net/news/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
+    ampWebUrl: "https://www.neowin.net/amp/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthropic-reveals-claude-3-ai-llms-claims-it-beats-gemini-and-gpt-4-in-many-benchmarks/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 79
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2024/03/1709565744_4e78f69ef8d4186fb5691714abe36224483d91b0-2880x1620_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
     excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
     publishedDateTime: 2024-03-07T17:48:00Z
@@ -67,6 +83,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Claude 3 vs ChatGPT vs Gemini latest Anthropic AI models compared"
+    excerpt: "Anthropic has launched a new AI model which has now being compared to ChatGPT and Google Gemini. This Claude 3 vs ChatGPT vs Gemini comparison"
+    publishedDateTime: 2024-03-05T11:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt-vs-gemini/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Claude-3-vs-ChatGPT-vs-Gemini.jpg"
+        width: 1280
+        height: 710
         isCached: true
   - title: "Anthropic Releases a New AI Model, Promising It's Cleverer than ChatGPT"
     excerpt: "After billions in cash injections, Anthropic is backing the launch of its newest-generation AI with big promises."
@@ -153,6 +183,20 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 19
+  - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
+    excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
+    publishedDateTime: 2024-03-08T06:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20240307PD209/anthropic-claude-3-chatbot-ai-amazon-google.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 13
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240307pd209_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "St7GRQL1z1iZPl9X+KLKutF0xyqc/p6wrxeDlVxwb2IA1ACnPdm/6va5i7xgeXEoWkUmLO3LHSSU+hcdjLUHCDsS/SFt8zg2xE92PouMxy/tO5XOuR8G8CZcUlQrChA3ZyLgUdan32YcqxEhp9LxjFpnjIPs31Uy/xrazn0rzZK8WT3uieeCm2bRH3wrgJeuB9zWrlxry2t3ypr1OYjs5Cds5VjMZglWCZHCysW4qT+muRBQ0vgBGiTBbaNu3kqEEYHber81f7NwBwIXLkDyIDWe/VOB3yypsgqtvKuMYqwyK/R3RpeBPFfZOEHFjq7ETvJvNM02umq495elNwWkQ2FaP/9vNHrZVpD01KVe9KgQHXJ7UYMqjhnl/id97Zfr+gMuk4hcR5XvM9svJ7Rm99obfp0kBtQWhGaJ62C8+HFeDhHlakZ6G2fW+AwPdyKy2I70pAJwrwn9hkAZBV9g488UzI0NkiDRQSAIW+wRyQgWpvewlIYpycbAeSh76RQT3SgcCL6v1gkbUcnnZ3mEDw==;7lTv5dEBCqxEX29dCn74IQ=="
 ---

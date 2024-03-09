@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 671
         isCached: true
+  - title: "Move over Gemini, open-source AI has video tricks of its own"
+    excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."
+    publishedDateTime: 2024-03-04T11:38:00Z
+    webUrl: "https://www.zdnet.com/article/move-over-gemini-open-source-ai-has-video-tricks-of-its-own/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/818ce3563f39d3b39aa350a457278e8286cd694c/2023/12/06/aa9adc0c-ec53-4778-9a97-d5b072ee5a5a/geminiera.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Rise Of Open Artificial Intelligence: Open-Source Best Practices"
     excerpt: "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem."
     publishedDateTime: 2024-03-08T14:15:00Z
@@ -50,20 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "CeADAR shares open-source AI tools for financial services"
-    excerpt: "CeADAR says its open-source tools are tailored to help the financial services sector incorporate the benefits of generative AI."
-    publishedDateTime: 2024-03-04T09:47:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ceadar-open-source-generative-ai-financial-services"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/Dr._Arsalan_Shahid_of_CeADAR.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "JfIWn9sn1JKz6YMJztM1vJwIHJXNX4Bh5FsawCzlU0AgWFz5NcLeMRYmMiQacCdiWbK0uHvtgSV9JBKm0CjxB2B0VSCrlsaHEfm+1yzYaLWNlG1NXCnfGJ0mosb45bc10shFE05xjPJ0rRtx+DR5WRj+haOR5h+pLncrsfpmlVioH0Mb7hqjMUfE2eN/TDXKuVjOGCeJ01TONEuNlhpK8v45SF2dgJmQYBprjnOhTvLGA2ZYPlF2yYkeGIOiYEkUTYsO0RGXluvr2mcdQGkwGgqJxs7N14Bu4y+8eYuybrv1WhXcvxFmL5uCJf9Gvqf3uBeWtbn9+AUXHZiuhpAbjhYgb2z1UNZVL42UyECAdM/4DzXsq59Z5u4S/n7coSS594dRm4JErZVMW+r4hIIwPJ6h6ra3NPmfsuU7aDd0kwNfsvC6DJl89ggvGTsj51vdY8p+KvHpsZt+pdW6V+w4okRPSuTGERkv4xzhyMJOUqgLxuiF5kxgZbPzkGhjGI4KA/ogiG9ka/L7jlaxlqlu5w==;B9AeEP+ubymanMXEReC4wg=="
 ---

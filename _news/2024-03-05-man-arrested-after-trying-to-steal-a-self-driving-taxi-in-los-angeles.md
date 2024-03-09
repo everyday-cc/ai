@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-driving buses; Streeteries revisited; Honoring a legend | Sunday roundup"
+    excerpt: "RECAP: Looking back on the week that was Driver-less bus debuts at the Navy Yard as union leaders push back As the first self-driving bus in the city — and […]"
+    publishedDateTime: 2024-03-04T19:12:00Z
+    webUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
+    type: article
+    provider:
+      name: Billy Penn
+      domain: billypenn.com
+    quality: 21
+    images:
+      - url: "https://billypenn.com/wp-content/uploads/2024/03/Screenshot-2024-03-04-at-2.11.50-PM.png"
+        width: 1104
+        height: 1362
+        isCached: true
   - title: "Los Angeles County Uses AI to Prevent Homelessness and Offers Assistance"
     excerpt: "It’s an experiment still in progress: machine learning predicts who will end up on the street — and then social workers step in to offer help. So far, nearly 90% of participants kept their housing."
     publishedDateTime: 2024-03-07T15:30:00Z
@@ -82,15 +96,6 @@ related:
       name: KQED
       domain: kqed.org
     quality: 18
-  - title: "Self-driving buses; Streeteries revisited; Honoring a legend | Sunday roundup"
-    excerpt: "RECAP: Looking back on the week that was Driver-less bus debuts at the Navy Yard as union leaders push back As the first self-driving bus in the city — and […]"
-    publishedDateTime: 2024-03-04T19:12:00Z
-    webUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
-    type: article
-    provider:
-      name: Billy Penn
-      domain: billypenn.com
-    quality: 1
 
 secured: "mFe40q+aebYaM2nXJM2mVNJWVi2Pvua9Zwy36i7TLocZSvljVBCjW0hTs4wrpw7jj/uSUahzDDByI1e9o+lDQTd2Rn9ZQbsHNDgVqrYOUwQy1FY8YWcZbGdbqMpYfC5VAqu6nJ9jahalUE4/QnUQGQMzsKLUBu72O1LRLq2b/dM3rO8QD8JouP661EGI7HmuEDz4uoFiUNkg2rRVSuFUCcocs6PLzfECuAVDaHKVhOZdpoYS/dBrnpmtsYjwutwIWJKOabwRJrgezVQiQspIgpsJazId0zbiqBSji9sBDT7XqZusC6vt9apAXf6oDSvuhZUk4wunlNO+ZJlE9kMyaGarGCvF4OOV7ZFm3Nmv9bVi7oJNQkkYR0VfT+/0+cGn+lvvSENxs7zU/eo7s5ualekoyqtbh7x6EQdqoeTrhvNghZQoVqSezYUqIEFhtgHfWcrwTSWuVdexlf18uOGOvapkw9ouzHXkGCk9cRerBulJ/iTnjUN7sb7/kYBzrT3CZx+kk15erodUqILp2aNgfA==;p7+1DuYPdRMBUZT3dvjh0A=="
 ---

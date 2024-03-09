@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-cent
 webUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-108219446,imgsize-231444,width-1200,height=765,overlay-ettelecom/internet/amazons-aws-to-launch-saudi-arabia-data-centers-invest-over-5-3-bln.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 billion"
+    excerpt: "The cloud region will enable customers to securely store content and run workloads while offering higher speed for its users. Amazon and its cloud competitors Google-parent Alphabet and Microsoft have said they will raise their investments,"
+    publishedDateTime: 2024-03-04T20:56:00Z
+    webUrl: "https://www.aol.com/news/amazons-aws-launch-saudi-arabia-185640386.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/e29073561fb2f663ce8ff660f5f05f91"
+        width: 800
+        height: 532
         isCached: true
   - title: "AWS to launch data centers in Saudi Arabia by 2026 with USD5.3B investment"
     excerpt: "to support the growing adoption of artificial intelligence technologies. Among the notable customers set to benefit from Amazon Web Services in the region are Saudi Telecom Company, Seera Holding Group, and Mobily, among others. These organizations rely on ..."

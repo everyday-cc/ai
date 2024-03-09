@@ -18,29 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "How AI Could Disrupt Hollywood"
-    excerpt: "New platforms and tools may allow a person to create a feature-length film from their living room. But can they really compete with the studios?"
-    publishedDateTime: 2024-03-04T11:00:00Z
-    webUrl: "https://www.vanityfair.com/news/ai-hollywood-letter-from-la"
+  - title: "AI Update For Hollywood"
+    excerpt: "Artificial intelligence (\"AI\") developments are occurring at breakneck speed, so this article provides a snapshot on developments that affect Hollywood."
+    publishedDateTime: 2024-03-09T09:05:00Z
+    webUrl: "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/"
+    ampWebUrl: "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.vanityfair.com/photos/65d507211b447acfb6a2c6a6/16:9/w_1280,c_limit/MarkHarris_LFLAAI&Hollywood.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ec33e7da5095face057f5c/0x0.jpg?format=jpg&crop=3615,2034,x0,y186,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Artificial intelligence: How AI could be used to recreate old smells"
-    excerpt: "Artificial intelligence is used in lots of different types of research. Last year it was used to find energy efficient homes, digitally unwrap an ancient scroll, and even search for aliens! Now scientists from the Norwegian University of Science and Technology are trying to use it to recreate different scents."
-    publishedDateTime: 2024-03-04T13:54:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/68469258.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 32
 
 secured: "b2Xx952WMk/AiykQxTBcZ0WaQ+jMnrbJ+LyrEqmcITO6RQbSp1b/vS4Y56vBSfM8cTvYYsEiTE5zzxnLEbWudQZLxTqK+BC6HTdG1Vu062UL4Z4INczY4oebxsD2TfORq3BNN9rqrgvtFdwnUWo0zlz8mlrvXMTgrdPDtI5KVt9axAgeNI5iHVkTfYWCBZGeM2THTR/ZOuO4MLY/7f32C4UAIb7l+a1JSL8u6MW94XTbu3BlC7Rnu1GsvirtxsoJw4jcDaaiGBWW0gj803vgWW6m50iKf/68SY+Rbe3FnqXeCQYTQFN5pbf4uhaDsTzxg/Y6spYpfwyNK6pg2c8fowx1N8D7QdHc+hWdOLC+iTEyAaxlQAS2l2F6Bt17X7gxi9BQ0EdSSRfEvyObF0nNsC1P4pxbBbT9g11sMugxIvQuKEkYvVjlkt8VIRXQUYi2gfYffw91jwWVkbCOFr/NQYqwNveYaJLMg9j6HEWWm7APBeNlAfjuzKVxpP9Oikbk4g6E2bcM+0vPRMSsau31BQ==;6krj4qgkd2mXqoDX4CJNSw=="
 ---

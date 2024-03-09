@@ -1222,6 +1222,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-models-of-object-recognition.md",
+      "title": "Models of object recognition",
+      "excerpt": "Much of the interesting recent computational work in object recognition considers the recognition problem as a supervised learning problem. We start with a very simplified description (Fig.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/nn1100_1199",
+      "originalUrl": "https://www.nature.com/articles/nn1100_1199",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F81479/MediaObjects/41593_2000_Article_BFnn1100_1199_Fig1_HTML.gif",
+          "width": 395,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T22:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
       "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
       "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
@@ -1338,40 +1381,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-somalilands-struggle-for-recognition-amidst-global-geopolitical-dynamics.md",
-      "title": "Somaliland’s struggle for recognition amidst global geopolitical dynamics",
-      "excerpt": "The Republic of Somaliland finds itself at a critical juncture in its journey for international recognition. The catalyst for this seismic development",
-      "sourceUrl": null,
-      "webUrl": "https://www.thereporterethiopia.com/38680/",
-      "originalUrl": "https://www.thereporterethiopia.com/38680/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T08:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ethiopian",
-        "domain": "thereporterethiopia.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Move over Gemini, open-source AI has video tricks of its own"
+    excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."
+    publishedDateTime: 2024-03-04T11:38:00Z
+    webUrl: "https://www.zdnet.com/article/move-over-gemini-open-source-ai-has-video-tricks-of-its-own/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/818ce3563f39d3b39aa350a457278e8286cd694c/2023/12/06/aa9adc0c-ec53-4778-9a97-d5b072ee5a5a/geminiera.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Rise Of Open Artificial Intelligence: Open-Source Best Practices"
     excerpt: "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem."
     publishedDateTime: 2024-03-08T14:15:00Z
@@ -52,20 +66,6 @@ related:
       - url: "https://www.searchenginejournal.com/wp-content/uploads/2022/05/ai-content-generators-6273d3bbc7264-sej.png"
         width: 1600
         height: 840
-        isCached: true
-  - title: "CeADAR shares open-source AI tools for financial services"
-    excerpt: "CeADAR says its open-source tools are tailored to help the financial services sector incorporate the benefits of generative AI."
-    publishedDateTime: 2024-03-04T09:47:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ceadar-open-source-generative-ai-financial-services"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/Dr._Arsalan_Shahid_of_CeADAR.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "VB/OgB/dXlzPWKgE0ph4ttYdCkoYeAHnH1SpqDYg/Qkx1EjuBhqW4jMp3w5iMnpkIuDGmlYDtbT6Hc3864L5laPf8CBki+K28mxoXXyU/xs5hQFYRC8FhG0amNXf4iMescTV4FVkPqxqMabm/dozX1vL94prn54VEZnizB4wupMIdIWd4S6bI+oSrYkCezGq5PtV7ZcIOXdswbDBWIA5Z3B09WJbxZ/jSYrNHQUSoyS+3ISxmp5ie9YmMifPodpnUh1w0zFuQ9YXkY+LVwoCIwGsfc21xp1h/X/sXhtmiA2Yjrl6KiS3K3X6N876m8iLbQh51P1IgIY+Brt3lqQ9vW2ij8TutAyxZ4eeOKkkEYz6XJXE2Agct4UxPf5oXIhIIMqSX0DbOG9bpYwY+z090usYnmo0cZYinYnN/Qyo979y4Ofmv1pxIOpgeQ4SoWmuCcaFUuBaUInfv5HPBODsURy6qT0m1dVKurDlVbHuXjwsKEwl2kvwHboE4FYqfVXsRVfB415lWHMLQ8ZMFD8+Ag==;TI0T8g8+3/p3yA+nYkBoUQ=="

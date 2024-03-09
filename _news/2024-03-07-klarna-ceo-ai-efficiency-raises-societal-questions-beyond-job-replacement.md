@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-07T00:00:00Z
 originalUrl: "https://www.blackenterprise.com/klarna-ceo-ai-efficiency/"
 webUrl: "https://www.blackenterprise.com/klarna-ceo-ai-efficiency/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2024/03/IMG_8635.jpg"
+    width: 1284
+    height: 800
+    isCached: true
 
 related:
   - title: "Klarna’s AI Assistant Is Doing The Job Of 700 Workers, Company Says"
@@ -29,6 +35,6 @@ related:
       domain: forbes.com
     quality: 49
 
-secured: "T/CC16woIiZisuajQGT6WqeXAr+3VWmsXRz4qLEXm2QCpQsb+dXqTU+Wy3V/sYHXWWm7usnXccU7UHac2jA1S+RAxFaqGvsC3LBbhwWdtTp4oiU5FCCfcFOnGqOJMSKsc0FrLhWG7BLG1kjYrMZhEMjxyOWxnFoIHZytj9Sy0NbybqQDbjvQ+sdPGMyKDyMFkoTKUtw+98oQwv0WXwtjVnn1An0fpUoBaeREBCYW8RKV1tSb1G5N/zIwsMvjRnoxtIovbBnHvibtWGC+IUDI1hJ6Q1azBwkkCJ1q8PEi/Hv3HKTelvNM1+pwUKLqH/b8f/xEXuzEfzyZa4ejyEh22IFdxYtFTKFMeEP345mo5Ug=;y8kK8BJcPV81b742kWTH3A=="
+secured: "6Ohy5vttncbBGAJMU2ALpv1m9EeP4aPPnn3cS6P2g+Vy9XrjiTJ/weu5mwFYOFPif4wA0ze/irt1+82YF7vgICFbW1c4suRXB3TY+WCMQBodywpmtGCmDlNmDP+gQqHy+QxZH98uqbzXwCM8QZOfW01Q5AqsNm/rY7EtwsPygj922nReKw3Jbudq623GLR8wmWg8Y1L8hYattEFvV64KNFyfj5LMEEaMEY+sOfe08q0YsCu/54Fq9fZFBwMwA16QasAygA/zD1WCKlIYXnVCfA4+GaeyyuMCddD1mVgsc4z3fZH4WhzaIuo6TwuM3eRKdzhsxO7obYvRwI1eALEI0SWsVxqPyb+vwT+R/TXtlDs=;DS3AnHFvqWm3f4AFWP8NLQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 110
 published: true
 
 provider:

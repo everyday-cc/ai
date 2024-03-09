@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-gi
 webUrl: "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/"
 type: article
 quality: 99
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
     excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
     publishedDateTime: 2024-03-06T10:51:00Z
     webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/24585796/nvidia-and-7-other-semiconductor-stocks-that-can-benefit-from-artificial-intelligence-ai-robots/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+  - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
+    excerpt: "In today's video, I discuss Nvidia (NASDAQ: NVDA) and other semiconductor companies that provide solutions for the robotics market. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used ..."
+    publishedDateTime: 2024-03-09T10:00:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/QCOM-Q/pressreleases/24585796/nvidia-and-7-other-semiconductor-stocks-that-can-benefit-from-artificial-intelligence-ai-robots/"
     type: article
     provider:
       name: The Globe and Mail

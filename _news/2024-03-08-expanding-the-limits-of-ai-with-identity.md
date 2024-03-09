@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Wall Street's biggest banks are actually looking at using AI, according to patent filings"
-    excerpt: "Here are the areas where Wall Street banks are filing AI-related patents, from trading to user experience, according to data from consultancy Evident."
-    publishedDateTime: 2024-03-04T10:58:00Z
-    webUrl: "https://www.businessinsider.com/wall-street-ai-patents-use-cases-trading-user-experience-2024-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/65e234adce7f1785b2e59049?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
     excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
     publishedDateTime: 2024-03-05T19:08:00Z

@@ -42,6 +42,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "GSI engages AI and machine learning in mineral exploration"
+    excerpt: "Furthermore, a series of lectures and presentations were delivered by distinguished geologists and subject matter experts, elucidating topics such as mineral prospectivity analysis utilizing Machine Learning and emerging technologies in geoscience ..."
+    publishedDateTime: 2024-03-04T15:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/articleshow/108212560.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/amp_articleshow/108212560.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/kolkata/gsi-engages-ai-and-machine-learning-in-mineral-exploration/amp_articleshow/108212560.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108212561,width-1280,height-720,resizemode-4/108212561.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies"
     excerpt: "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -"
     publishedDateTime: 2024-03-06T15:51:00Z

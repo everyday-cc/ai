@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 billion"
+    excerpt: "The cloud region will enable customers to securely store content and run workloads while offering higher speed for its users. Amazon and its cloud competitors Google-parent Alphabet and Microsoft have said they will raise their investments,"
+    publishedDateTime: 2024-03-04T20:56:00Z
+    webUrl: "https://www.aol.com/news/amazons-aws-launch-saudi-arabia-185640386.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/e29073561fb2f663ce8ff660f5f05f91"
+        width: 800
+        height: 532
+        isCached: true
   - title: "AWS unveils $5.3bn investment to advance Saudi Arabia’s cloud infrastructure"
     excerpt: "AWS said the new region in Saudi Arabia will consist of three availability zones at launch, adding to the existing 105 zones globally."
     publishedDateTime: 2024-03-04T12:44:00Z

@@ -36,6 +36,22 @@ related:
         width: 6285
         height: 4190
         isCached: true
+  - title: "India Moves Forward in Blockchain, AI Research as NPCI and IISc Join Forces"
+    excerpt: "Both these parties together, will work on developing scalable blockchain platforms. A multi-modal analytics platform to oversee fintech data will also be developed."
+    publishedDateTime: 2024-03-09T09:31:00Z
+    webUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973"
+    ampWebUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 57
+    images:
+      - url: "https://i.gadgets360cdn.com/large/blockchain_technology_maharashtra_revenue_dept_unsplash_1664785921608.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NPCI and IISc Collaborate on Blockchain and AI Research"
     excerpt: "The collaboration aims to harness the immense potential of deep technologies like blockchain and AI to enhance the landscape of digital ... blockchain platforms and multi-modal analytics over fintech data. Faculty members from five departments at IISc ..."
     publishedDateTime: 2024-03-06T10:05:00Z
@@ -147,7 +163,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200

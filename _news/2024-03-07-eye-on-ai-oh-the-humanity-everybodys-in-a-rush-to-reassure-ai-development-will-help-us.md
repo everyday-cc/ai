@@ -47,6 +47,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
+    publishedDateTime: 2024-03-09T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Interdisciplinary degree takes aim at artificial intelligence skills shortage in the workforce"
     excerpt: "Applications are open for Purdue University’s new 100% online Master of Science in artificial intelligence degree, which features two majors, one for people who build AI systems and one for people who make use of them."
     publishedDateTime: 2024-03-04T14:56:00Z

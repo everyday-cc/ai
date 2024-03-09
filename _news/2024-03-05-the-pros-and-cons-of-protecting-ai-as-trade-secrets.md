@@ -62,6 +62,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Learning AI as a career skill"
+    excerpt: "Tu’s experience shows that generative AI should be a skill more people — especially younger generations — need to develop. It has already become a truism in many tech and corporate circles that while AI may not yet replace (white collar) workers, workers with AI skills will replace those without."
+    publishedDateTime: 2024-03-05T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/feat/archives/2024/03/06/2003814511"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2024/03/06/P13-240306-306.jpg"
+        width: 800
+        height: 496
+        isCached: true
 
 secured: "Oeuvpttcw3p0opG6yxsJfF1MCJWsleXjxwz9lkCGjxviFBDu8uB4mc0Hr++fZ5fz9hvkoKUNwfbTNHrR0Sr+NUZv1DKcRcXMLvbtWiV2YwxreFeOq0mf1aQsupMbjaN+HgnviLlTigM3P7cBPktL4R2OiUf7+6e5WMHmU83rNTdQFfusMNQ26RNRUYLDuwQPN6BQWQijnsNGVpnqiKyOe5w6XYaqlM1YKcBXtkxdGvOZ7Hqoe/a8tLawVPpJDg9VYEphYPDqcKZ7TPUE7eaa8I9i3c/EM5es66ok7YVIYgBUud9ZfF7UXYXaKTuN3LUbhrRJ39+C9Xk1/3nYWGzAcBQMJ83LosIIEJN0xNklyEE=;DYwbcq+V8mMrjE7xEk2quA=="
 ---

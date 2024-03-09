@@ -36,6 +36,20 @@ related:
         width: 1280
         height: 671
         isCached: true
+  - title: "Move over Gemini, open-source AI has video tricks of its own"
+    excerpt: "However, Google's program -- like most AI programs from the biggest commercial entities ... The LWM was trained on one slice of a TPU Version 4 \"POD\", consisting of 256 TPU chips, with two cores apiece, for 58 hours. In the case of Gemini 1.0, the ..."
+    publishedDateTime: 2024-03-04T11:38:00Z
+    webUrl: "https://www.zdnet.com/article/move-over-gemini-open-source-ai-has-video-tricks-of-its-own/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/818ce3563f39d3b39aa350a457278e8286cd694c/2023/12/06/aa9adc0c-ec53-4778-9a97-d5b072ee5a5a/geminiera.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The 10 Best AI Writers & Content Generators Compared"
     excerpt: "Following the introduction of these generative AI tools and their mainstream adoption, there have been plenty of discussions about ethics, the impact on creativity, and the impact on jobs. In a meta self-referential message, Gemini (Bard) even offers this ..."
     publishedDateTime: 2024-03-08T00:00:00Z
@@ -49,20 +63,6 @@ related:
       - url: "https://www.searchenginejournal.com/wp-content/uploads/2022/05/ai-content-generators-6273d3bbc7264-sej.png"
         width: 1600
         height: 840
-        isCached: true
-  - title: "CeADAR shares open-source AI tools for financial services"
-    excerpt: "CeADAR says its open-source tools are tailored to help the financial services sector incorporate the benefits of generative AI."
-    publishedDateTime: 2024-03-04T09:47:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ceadar-open-source-generative-ai-financial-services"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/Dr._Arsalan_Shahid_of_CeADAR.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "zSpeJTspP6SM1JFpld2FtA6O2vZIuoq2RhoG7fTRr90KwrMvM1aX/6DJwZm5fL8jIpxCYRd7BEFMbBVeYxwl+xlWeuEhlosHzEmFQMYbTMMykEW3rGKZr8AhLXgaSUzR79PlxFHvScVXq4QBvZ6SIdkiSuhIfgVALwt/UTp8uSnmPvd7ujaQrFIEBmBcC5Dus18YaUiqNb+iNrcmhDxPOZrqgd6szACVkkzI8ZpAUhqPqLi+17Hd8J7urXytHQDP0iJCvraNVkB3ApRrl+zvqg/O2OSqirALl+MFrmZBDe4BgQzZgTIliU81IYNPBh2Je51ELj9SolJimO0tffje3rh5Q3MKAksbKQF1ACYV/HDU9wCqzGO8eWQsNlPP8HNgoDS3ihqDHo2se/TOrJ6aC5F4mcTDg7pNDN69RysRrp6SD+L7DlCz012dzneJXeS1fQWSNFB9m9VX4H9iQN6lOXOgaUocHYYTfFgCNV5/7hTJIg0u6albUs9liWryLyzvWWEO0GOK5QWtgyqQ+PEJ3w==;bKo9PWHwnMlXYOzfkoPkXw=="
