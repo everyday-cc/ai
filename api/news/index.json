@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-09-gpu-access-to-power-up-indias-ai-play-experts.md",
+      "title": "GPU access to power up India’s AI play: experts",
+      "excerpt": "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "publishedDateTime": "2024-03-09T00:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-male-ai-robot-appears-to-grope-female-reporter-during-interview-at-tech-expo.md",
+      "title": "Male AI robot appears to grope female reporter during interview at tech expo",
+      "excerpt": "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
+      "originalUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/wp-content/uploads/2024/03/Screenshot_2_d284ea.jpg?w=1024&h=798",
+          "width": 1024,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
+      "publishedDateTime": "2024-03-08T23:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-tech-down-as-ai-boom-stalls-tech-roundup.md",
       "title": "Tech Down as AI Boom Stalls -- Tech Roundup",
       "excerpt": "Nvidia shares fell by almost 5% but remained about 80% higher for the year to date. Marvell Technology shares fell by 10% as the chip maker's artificial-intelligence earnings lagged some investors' expectations. Apple has reversed course on its decision to ...",
@@ -240,7 +326,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -723,7 +809,7 @@
       "originalUrl": "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -853,7 +939,7 @@
       "originalUrl": "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1054,101 +1140,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
-      "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
-      "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/07/ML-16177-social.jpg",
-          "width": 766,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T18:46:26Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-whats-up-with-ai-chip-rd-netomnia-telecom-italia.md",
-      "title": "What’s up with… AI chip R&D, Netomnia, Telecom Italia",
-      "excerpt": "In today’s industry news roundup: South Korean scientists claim to have developed an AI chip that uses 625 times less power than Nvidia’s technology; UK fibre access altnet Netomnia accesses additional rollout funds; Telecom Italia has a new post-NetCo plan; and much more!",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
-      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/south-korea-flag-adobestock-17995.jpeg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
-      "publishedDateTime": "2024-03-07T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-driving car company Waymo begins testing without drivers just days before SXSW"
+    excerpt: "Formerly known as Google’s self-driving car project, the autonomous vehicle company has operated off and on in Austin since 2015."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.kvue.com/article/money/economy/boomtown-2040/austin-texas-self-driving-car-company-begins-testing-before-sxsw/269-1f4e40c7-9abb-4af1-a5a3-b2ee2dd79450"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 13
 
 secured: "3CncrO/+lAxtA8thLyZObzqjdkq2m7Z0j+r/Lp8yHjF/lntvG6Kz2mJRSj3tfm6DZj7TuPaaC0hYL0jjxn7vEL+Vq+9g5vZa5fspKVAnNP5kYDifYzHPE9b2EECey3s5ylAj++Ov9D1fnePKFuS5A9oPYXJ4A91NWHE8jczzlI52CF5u4ZcL52i1IRIRmpBAGX6v96WKoD9k/6JsOekO7tjFpX4Zr0Dwq3KoD2XTzAVbMrKMhUTvDe2WqMvYB0Xd6UdHifYqLrM4gLr+9nbQZLC1Xf/e/XtoM2VztFzETeewTwV8dZ5wUBCkUwBw0SLNQlSHzff17ORdt1h9hp8ljDUKx+AVNZz0shuGDWb4HAs=;bwuA9vgwrRNIshMcCt/U1w=="
 ---

@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
+      "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
+      "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/07/ML-16177-social.jpg",
+          "width": 766,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T18:46:26Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-whats-up-with-ai-chip-rd-netomnia-telecom-italia.md",
+      "title": "What’s up with… AI chip R&D, Netomnia, Telecom Italia",
+      "excerpt": "In today’s industry news roundup: South Korean scientists claim to have developed an AI chip that uses 625 times less power than Nvidia’s technology; UK fibre access altnet Netomnia accesses additional rollout funds; Telecom Italia has a new post-NetCo plan; and much more!",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
+      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/south-korea-flag-adobestock-17995.jpeg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
+      "publishedDateTime": "2024-03-07T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-paralympian-lex-gillettes-top-7-ai-tools-for-accessibility.md",
       "title": "Paralympian Lex Gillette’s top 7 AI tools for accessibility",
       "excerpt": "Lex Gillette discusses the potential of technology in the lives of individuals with visual impairments with 7 Microsoft AI tools for accessibility.",
@@ -62,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -166,7 +261,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -511,7 +606,7 @@
       "originalUrl": "https://www.techtimes.com/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -606,7 +701,7 @@
       "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1137,101 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing.md",
-      "title": "US officials face tough choices for subsidising AI chip manufacturing",
-      "excerpt": "Betting on AI chips is also challenging in the rapidly evolving industry. Handing out subsidies today to the likes of Intel, TSMC, or Samsung Electronics, which is also vying for federal dollars and is the only other firm in the world that can make advanced chips,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/02/artificial-intelligence.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp",
-      "publishedDateTime": "2024-03-06T17:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure.md",
-      "title": "6 ways generative AI helps improve accessibility for all with Azure ",
-      "excerpt": "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR05_322044_Blog_Blogheader_240305_V02-social.png",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

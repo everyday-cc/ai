@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/302370/20240306/facebook-soon
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302370/20240306/facebook-soon-fully-ai-powered-video-recommendation-algorithm-meta.htm"
 type: article
 quality: 52
-heat: 84
+heat: 72
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
     quality: 39
     images:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Facebook-videos-will-be-recommended-by-AI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "As Facebook turns 20, news is out, fun is in"
-    excerpt: "The site displayed randomly selected pairs of students’ mugshots, harvested from the university’s intranet, and allowed users to vote on who was hotter. It caused a stir and was promptly shut down. But before long, a successor was in the making. On February 4, 2004 Mr Zuckerberg launched a new site: TheFacebook.com."
-    publishedDateTime: 2024-03-04T00:21:00Z
-    webUrl: "https://www.afr.com/technology/as-facebook-turns-20-news-is-out-fun-is-in-20240304-p5f9hc"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.3449%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_36/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f4693025b0a1c4dc05eaf405e46e1c401a4e493c"
         width: 1200
         height: 628
         isCached: true

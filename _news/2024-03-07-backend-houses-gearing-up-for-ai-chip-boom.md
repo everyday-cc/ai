@@ -44,20 +44,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
-  - title: "Intel AI Chips manufacturing plan unveiled"
-    excerpt: "To make this a reality Intel, a giant in the semiconductor industry, has laid out a detailed plan to take the lead in the AI chip market. This move is set to transform the way chips are made and used across the globe. ChatGPT creators OpenAI are also ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/intel-ai-chips/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Intel-planning-to-manufacture-AI-chips.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "N2ogMd51fi0JPMU51NSso6Izs0WfjKIyyQ4EMNnr0QahwWAUe7MX6gK4qNv5cBbANQcSktq0sKJP86nYBr5F180qQJdFw88XW56WbMutnH4ALKoIWIMExAGUzqFZRdIKXnwfAp8l5q1G4Jrns/zULNdi/tPTPLXmABMcdDPPK//3izmkPhNJVCZYn5KeOy5OpZG0wDDJDpRZt4UoS8hqkv21ei0hpYjDhQoHOmHmsmvqyUUwZPRBnzyVCN2jtoErnJBbikg7u1dCVt8AOx267ZXZbZH+khfhaYBv5dx7R0c3N1MSfawSgj/7ZzaWiXp4jGRayA6eoi2LVTYs5iTaog70ID9OwGCi0hPbJ4ubJwpTi558/1acTdhvTGjkSo4hr1qJ1Yp0YR+lAUq/mMuC4S6rKQb+8dn/Z4OnYRLShZO1RkFZ+tSB62mv8Oqwd2vfrntk8wVTxl1i68ZfOMVT+BqEDFkvsuzS6mkoFZpz55ZMHGA4qRjcxCeBc9P5OWwWPNn6OMJm1OZtrT9S6XWXiQ==;iKS3DIGuXBFVVgIu8MHeXQ=="
 ---

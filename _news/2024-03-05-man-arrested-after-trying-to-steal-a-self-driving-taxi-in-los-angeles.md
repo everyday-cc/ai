@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man arrested for trying to steal self-driving Waymo car: LAPD"
-    excerpt: "A man was arrested after he allegedly tried to steal a to steal a self-driving taxi in downtown Los Angeles on Saturday night. The Los Angeles Police Department said in a statement that Vincent Maurice Jones, 33, got into the driver's seat of the Waymo ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
-    type: article
-    provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 59
-    images:
-      - url: "https://media.nbcphiladelphia.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
     excerpt: "There were no injuries reported by the rider or damage to our vehicle.” Self-driving taxis are an increasingly common sight in California, with state regulators on Friday authorizing Waymo to expand services of its fleet of robotaxis into the greater Los ..."
     publishedDateTime: 2024-03-04T09:01:00Z
@@ -91,15 +75,15 @@ related:
         width: 6630
         height: 5304
         isCached: true
-  - title: "Self-driving car company Waymo begins testing without drivers just days before SXSW"
-    excerpt: "Formerly known as Google’s self-driving car project, the autonomous vehicle company has operated off and on in Austin since 2015."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://www.kvue.com/article/money/economy/boomtown-2040/austin-texas-self-driving-car-company-begins-testing-before-sxsw/269-1f4e40c7-9abb-4af1-a5a3-b2ee2dd79450"
+  - title: "Los Angeles County Uses AI to Prevent Homelessness and Offers Assistance"
+    excerpt: "It’s an experiment still in progress: machine learning predicts who will end up on the street — and then social workers step in to offer help. So far, nearly 90% of participants kept their housing."
+    publishedDateTime: 2024-03-07T15:30:00Z
+    webUrl: "https://www.kqed.org/news/11978448/los-angeles-county-uses-ai-to-prevent-homelessness-and-offers-assistance"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 13
+      name: KQED
+      domain: kqed.org
+    quality: 18
 
 secured: "mFe40q+aebYaM2nXJM2mVNJWVi2Pvua9Zwy36i7TLocZSvljVBCjW0hTs4wrpw7jj/uSUahzDDByI1e9o+lDQTd2Rn9ZQbsHNDgVqrYOUwQy1FY8YWcZbGdbqMpYfC5VAqu6nJ9jahalUE4/QnUQGQMzsKLUBu72O1LRLq2b/dM3rO8QD8JouP661EGI7HmuEDz4uoFiUNkg2rRVSuFUCcocs6PLzfECuAVDaHKVhOZdpoYS/dBrnpmtsYjwutwIWJKOabwRJrgezVQiQspIgpsJazId0zbiqBSji9sBDT7XqZusC6vt9apAXf6oDSvuhZUk4wunlNO+ZJlE9kMyaGarGCvF4OOV7ZFm3Nmv9bVi7oJNQkkYR0VfT+/0+cGn+lvvSENxs7zU/eo7s5ualekoyqtbh7x6EQdqoeTrhvNghZQoVqSezYUqIEFhtgHfWcrwTSWuVdexlf18uOGOvapkw9ouzHXkGCk9cRerBulJ/iTnjUN7sb7/kYBzrT3CZx+kk15erodUqILp2aNgfA==;p7+1DuYPdRMBUZT3dvjh0A=="
 ---

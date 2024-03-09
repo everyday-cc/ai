@@ -249,15 +249,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
-  - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
-    excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "PK1oo1veBz6gw1JZoh/MpoMKnmey7KwYVU2E/Y3dz4AVtIu9XQkKGmT4ZNDYtIuCOFXMsiK1ccjCIAeneGwW8FFbcnJ/NLlKS9o/K3lSeFwdPlFUDZ6o2cbFlnq49ag7+ZAkiO6aG1mMcHKQakInlTola5DzNZH7VU0rneoBJp3bxqfwSCc593G02+YqDEwxmBWRUhUzxWiTnGCbjXwDrACjgvr3NbH9JmZLUjq4VPVyGD1BECVbRFEtIvmYnwh4RttU70aaPVqiTYjzSlxxpZPDZrzAmZ5NOOI+uyImB25rwFOEUbYFf5Ujlr/bZFhX/7Ns+B0GL2WCdQA62GkzTnrhLwqHhnF2f6uvje3+f0+sOgUr8H4ONCZUly2mOHgGokcyNRVj9CLLVsoUSda28jTxDb6cgBmezaMa8J/qKnugRzS3UQ0QdHEx5LPzH3nvI7KaYj/QsbMXPyKGDcPqUSg5s/seP+iPN7b8APBJG85gyPsX5p5L0AW8pReI3uL0cDvEzhf2ofLuET5rlmCNRA==;WY03a5ezNb+HoX7bW50qdw=="
 ---

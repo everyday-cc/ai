@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "3 Ways to Succeed in the Rapidly Changing AI Landscape"
-    excerpt: "Some of the practices include storing data locally and ensuring adherence to ideology, laws, ethics, and data security at national and enterprise levels. To bring the business to the next level, AI-based LLMs should adapt to customers' specific ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952"
+  - title: "Who’s buying NVDA GPUs? 3 Stocks to Buy in the AI Build Out"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The best way to predict a company’s future comes from looking at how it"
+    publishedDateTime: 2024-03-06T19:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/whos-buying-nvda-gpus-3-stocks-to-buy-in-the-ai-build-out-1033139197"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1709324194-ai-tech-landscape-startup-g-825151062.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "4MrpPi9QVH2v9ctkxaOCEB3Gd9N8M5q6IvQGqlWpK7XNXM4MdVqioIF6jlU5MVJpiTfQkaCZKz09fj3/PHF2udKfRO1oPw5q+meAPhG9UMwmeXnT9pWf/SViLVGhXrmqRJzS3c/GtwASMepwcEu+0qpZsh8xnC+lCOWaBcQlw7v863rmoySlBO1xVZV8/aJRB/hEJGOJXBKJM2UX2DCkBa16QJhzzjGhlYmEg1T2ligpD8V3NUWeGUB/oEM1s96/Qmd12MWfV09kTSMLwHvvNui5l45SVK/NwR5qcPsYe7RPu1lST9GqfSLmtyqedlHqjlviFmwl1BZc5KiOW2FuPgwsRUxUKUQIgqJZ4x/QX8A=;J80jNJdwrDepB+9wRcd8Yg=="
 ---

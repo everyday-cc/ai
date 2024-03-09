@@ -116,22 +116,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Anthropic unveils Claude 3, its latest and most powerful AI model"
-    excerpt: "and this powerful AI model is powerful enough to trade blows with GPT-4 and Gemini. Anthropic has been doing a lot of work and research on its AI. However, it just didn’t stand out amongst the competition. However, it just debuted Claude 3, the company ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.androidheadlines.com/2024/03/anthropic-ai-claude-3-model.html"
-    ampWebUrl: "https://www.androidheadlines.com/2024/03/anthropic-ai-claude-3-model.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2024/03/anthropic-ai-claude-3-model.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2024/03/Anthropic-Logo-jpg.webp"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Claude 3 vs ChatGPT vs Gemini latest Anthropic AI models compared"
     excerpt: "Anthropic has launched a new AI model which has now being compared to ChatGPT and Google Gemini. This Claude 3 vs ChatGPT vs Gemini comparison"
     publishedDateTime: 2024-03-05T11:53:00Z
@@ -194,6 +178,20 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 41
+  - title: "Alphabet Stock 2030 Forecast: Can Google Gemini Take on ChatGPT?"
+    excerpt: "Google has been the undisputed search leader, but the company’s dominance in the digital ad market has been under pressure. In 2022, the combined market share of Meta Platforms and Alphabet in the U.S. digital advertisement market was 48.4%, marking the first time since 2014 that their combined market share fell below 50%."
+    publishedDateTime: 2024-03-08T18:22:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/24662408/alphabet-stock-2030-forecast-can-google-gemini-take-on-chatgpt/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 41
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/1a830998fe4498d786760d9c6b1e1031/htmurw024cx5droq.png"
+        width: 1045
+        height: 707
+        isCached: true
   - title: "Google co-founder Sergey Brin admits issues Gemini AI chatbot, says 'we definitely messed up, it was due to...’"
     excerpt: "Google Co-Founder Sergey Brin has opened up on issues facing the company's Gemini AI chatbot and noted that the Mountain View- California based company ‘messed up’ with the rollout of the image generation feature. Gemini (earlier known as Bard ..."
     publishedDateTime: 2024-03-05T10:32:00Z
@@ -314,15 +312,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Google-backed Anthropic debuts its most powerful chatbot yet, as generative AI battle heats up"
-    excerpt: "This time last year, Anthropic was seen as a promising generative AI startup founded by ex-OpenAI research executives. It had completed Series A and B funding rounds, but it had only rolled out the first version of its chatbot without any consumer access ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/google-backed-anthropic-debuts-its-most-powerful-chatbot-yet-as-generative-ai-battle-heats-up/5191723/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 5
 
 secured: "O0RchiQFqUT9y+1Fj1rMmyAXhCFvDDOI9X5QMneMXfs7JQ/hEbu8UQrydlEpq7SJ6DkFeWeNxPIPsSBuDr8zKZtV7c1vSZ8040zY0r4PImGUBi0cCgOXDvkxWa4ufq/4St9VG7hOGE2nbLxdPv0baRgTOFlha6kK8DIEM3hjczPyK7CihRUlIeiVw56R6thTY0f8NRVR44psBoaY29unkeG9C+ws0z7p4xXomSBwmhJNRPdSHSHUUpvTLlH1Z+kHt3wlrdszoMUOtk4z11U492ATBrioHCkhJIWuWbwfN6QfO/gszr2E35wxVEjg9es9QFYnsQhjDvZeN0h9Why/nFZw/SqlPn4Qe/6Xy+4b3X0=;o5aIMqvRxD0EBuDY/HYNAA=="
 ---

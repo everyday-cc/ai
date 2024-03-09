@@ -49,20 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How AI Could Reshape Medicine"
-    excerpt: "Not being fluent in the local language, I used a translation app that enabled me to convey the urgency ... With recent studies showing that AI models can now identify early signs of health complications such as sepsis, these technologies are poised to ..."
-    publishedDateTime: 2024-03-03T23:27:00Z
-    webUrl: "https://menafn.com/1107929168/How-AI-Could-Reshape-Medicine"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?776993"
-        width: 444
-        height: 250
-        isCached: true
   - title: "2024 Slator Language AI 50 Under 50"
     excerpt: "The landscape of language services and technology is transforming at a rapid pace. With AI, it is now possible to generate, convert, and customize speech and text — at scale and at speed. The last year has seen language services and technology providers move quickly to harness and extract value from AI."
     publishedDateTime: 2024-03-06T10:15:00Z

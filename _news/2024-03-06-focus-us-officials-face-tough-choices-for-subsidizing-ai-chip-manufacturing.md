@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel AI Chips manufacturing plan unveiled"
-    excerpt: "To make this a reality Intel, a giant in the semiconductor industry, has laid out a detailed plan to take the lead in the AI chip market. This move is set to transform the way chips are made and used across the globe. ChatGPT creators OpenAI are also ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/intel-ai-chips/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Intel-planning-to-manufacture-AI-chips.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Backend houses gearing up for AI chip boom"
     excerpt: "The arrival of the Artificial Intelligence (AI) age has underscored the increasing importance of semiconductor packaging and testing, with makers stepping up efforts to expand advanced backend capacity to capitalize on strong demand for AI chips."
     publishedDateTime: 2024-03-07T01:43:00Z

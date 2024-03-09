@@ -49,20 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How AI Could Reshape Medicine"
-    excerpt: "Not being fluent in the local language, I used a translation app that enabled me to convey the urgency ... With recent studies showing that AI models can now identify early signs of health complications such as sepsis, these technologies are poised to ..."
-    publishedDateTime: 2024-03-03T23:27:00Z
-    webUrl: "https://menafn.com/1107929168/How-AI-Could-Reshape-Medicine"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?776993"
-        width: 444
-        height: 250
-        isCached: true
   - title: "How AI could help simplify politics"
     excerpt: "If you’ve ever read legislation and didn’t think it made sense, a Purdue University professor says there is a method based in artificial intelligence that could help. It’s called natural language processing (NLP)."
     publishedDateTime: 2024-03-05T18:40:00Z

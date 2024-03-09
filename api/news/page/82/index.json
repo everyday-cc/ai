@@ -2,6 +2,144 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-12-28-baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto.md",
+      "title": "Baidu's ChatGPT-Like Ernie Bot Has More Than 100 Million Users -CTO",
+      "excerpt": "BEIJING (Reuters) - Baidu's ChatGPT-like Ernie Bot has garnered more than 100 million users, chief technology officer of the Chinese internet company Wang Haifeng said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T10:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-indias-adani-group-takes-bold-leap-into-ai-with-uaes-ihc-partnership.md",
+      "title": "India’s Adani Group Takes Bold Leap Into AI With UAE’s IHC Partnership",
+      "excerpt": "Adani Group collaborates with UAE's IHC, forming Sirius Digitech to lead AI, IoT, and blockchain innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
+      "originalUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://coingape.com/wp-content/uploads/2023/12/AI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
+      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
+      "publishedDateTime": "2023-12-28T10:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coingape",
+        "domain": "coingape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-what-to-expect-from-europes-ai-startups-in-2024-according-to-vcs.md",
+      "title": "What to expect from Europe's AI startups in 2024, according to VCs",
+      "excerpt": "Startups using AI to tackle industry-specific issues are predicted to thrive while funding to more generalist AI startups is expected to taper off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/what-to-expect-from-europes-ai-startups-in-2024-vcs-2023-12",
+      "originalUrl": "https://www.businessinsider.com/what-to-expect-from-europes-ai-startups-in-2024-vcs-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/658405b0cefc010bea260ac0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-after-a-year-of-breathless-hype-ai-will-face-reality-in-2024.md",
       "title": "After a year of breathless hype, AI will face reality in 2024",
       "excerpt": "In 2023, artificial intelligence went mainstream. In 2024, tech insiders expect dramatic changes in the AI landscape.",
@@ -1087,160 +1225,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-how-narrow-ai-will-disrupt-every-industry.md",
-      "title": "How Narrow AI Will Disrupt Every Industry",
-      "excerpt": "Welcome to a future where AI handles your email, meal planning, home renovation and lets you create a more satisfying ending to \"Seinfeld\" or \"The Sopranos.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/",
-      "originalUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658b5b6e730c422b337a92f0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 623,
-          "height": 307,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/amp/",
-      "publishedDateTime": "2023-12-26T23:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too.md",
-      "title": "How I use ChatGPT in Opera for far more efficient interactions (and why you should too)",
-      "excerpt": "Why? Because if you're always using Aria, you'll have access to your chats from all your browser instances (so long as they are signed in to your Opera account). Otherwise, you can use ChatGPT and access them from the chat.openai.com address.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too/",
-      "originalUrl": "https://www.zdnet.com/article/how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too/",
-      "publishedDateTime": "2023-12-26T18:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse.md",
-      "title": "Are You Doomscrolling Too Much? These Experts Say AI Will Make It Worse",
-      "excerpt": "Recently, two experts who have studied the \"attention economy\" (meaning, how social media monetizes our attention) have made the case that artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658aff40e3747edd366e4ddd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/amp/",
-      "publishedDateTime": "2023-12-26T16:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

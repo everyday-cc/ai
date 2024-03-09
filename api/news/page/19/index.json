@@ -2,6 +2,118 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-22-silicon-microresonators-for-artificial-neural-networks.md",
+      "title": "Silicon microresonators for artificial neural networks",
+      "excerpt": "Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1035234",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1035234",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions.md",
+      "title": "Vonage and AWS leverage communications and network APIs to deliver solutions",
+      "excerpt": "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of network APIs to the market. Among its features, the SIM Swap ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
+      "originalUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Computing",
+        "domain": "cloudcomputing-news.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-stakeholders-to-discuss-trust-security-and-privacy-in-ai-era.md",
+      "title": "Stakeholders to Discuss Trust, Security and Privacy in AI Era",
+      "excerpt": "Blockchain and the FinTech society have managed to create a new world that is much more inclusive, and full of opportunities. Based on a report by Gartner, which predicted that by 2024, 40 per cent of privacy compliance technology will rely on AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Naira.jpg",
+          "width": 753,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/22/stakeholders-to-discuss-trust-security-and-privacy-in-ai-era?amp=1",
+      "publishedDateTime": "2024-02-21T23:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-googles-latest-ai-models-are-open-to-anyoneand-can-run-on-a-laptop.md",
       "title": "Google’s Latest AI Models Are ‘Open’ to Anyone—and Can Run on a Laptop",
       "excerpt": "Google's Gemma models were built and trained with the same technology used in Gemini, but the models are smaller and will be released under an open license.",
@@ -1094,153 +1206,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-neural-networks-made-of-light-jena-research-team-develops-ai-system-in-optical-fibers.md",
-      "title": "Neural Networks Made of Light: Jena Research Team Develops AI System in Optical Fibers",
-      "excerpt": "Artificial intelligence is pivotal in advancing biotechnology ... This fiber is capable of performing the tasks of various neural networks—at the speed of light. \"We utilize a single optical fiber to mimic the computational power of numerous neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/en/news829037",
-      "originalUrl": "https://idw-online.de/en/news829037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-content-creators-face-uncomfortable-accounting-during-tax-season.md",
-      "title": "Content Creators Face Uncomfortable Accounting During Tax Season",
-      "excerpt": "What Content Creators and Content Creation Companies should consider for tax season and ither accounting areas such as revenue recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
-      "originalUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad6221834d9b6fb2041d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessesilvertown/2024/02/21/content-creators-face-uncomfortable-accounting-during-tax-season/amp/",
-      "publishedDateTime": "2024-02-21T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-from-script-to-distribution-ais-role-in-the-film-world.md",
-      "title": "From Script To Distribution: AI's Role In The Film World",
-      "excerpt": "AI is also playing a role in trailer creation. For instance, in 2016, IBM Watson used AI to craft a trailer for Morgan by analyzing key film moments, suggesting soundtracks and refining edits. In 2019, Adobe Sensei analyzed past Sundance Film Festival ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4eb02bedc583914bd11fe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1542,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/21/from-script-to-distribution-ais-role-in-the-film-world/amp/",
-      "publishedDateTime": "2024-02-21T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

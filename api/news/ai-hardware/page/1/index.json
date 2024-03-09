@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-09-gpu-access-to-power-up-indias-ai-play-experts.md",
+      "title": "GPU access to power up India’s AI play: experts",
+      "excerpt": "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "publishedDateTime": "2024-03-09T00:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-tech-down-as-ai-boom-stalls-tech-roundup.md",
       "title": "Tech Down as AI Boom Stalls -- Tech Roundup",
       "excerpt": "Nvidia shares fell by almost 5% but remained about 80% higher for the year to date. Marvell Technology shares fell by 10% as the chip maker's artificial-intelligence earnings lagged some investors' expectations. Apple has reversed course on its decision to ...",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -305,7 +348,7 @@
       "originalUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -496,7 +539,7 @@
       "originalUrl": "https://www.smartcompany.com.au/technology/powerful-computer-chips-ai-change-global-politics-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1440,58 +1483,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-mwc-barcelona-2024-humane-demonstrates-its-wearable-ai-pin.md",
-      "title": "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin",
-      "excerpt": "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
-      "originalUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T19:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

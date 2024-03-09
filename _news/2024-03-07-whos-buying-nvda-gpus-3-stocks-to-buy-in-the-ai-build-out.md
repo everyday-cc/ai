@@ -22,6 +22,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Five Top Game-Changing AI Stocks to Buy and Hold Today"
+    excerpt: "All of which could have a powerful impact on AI-related stocks, such as VERSES AI (CBOE: VERS) (OTCQB: VRSSF), Nvidia (NASDAQ: NVDA), Microsoft (NASDAQ ... VRSSF), For Example VERSES AI Inc., a cognitive computing company developing next-generation ..."
+    publishedDateTime: 2024-03-07T20:07:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24627003/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
+
 secured: "txuwekEYPOBuRW6SyJ7WHQEZpruoTrLhcmIAL35BzXueqxG1uJyRfuxj8lUFHEd2fq+gz+jS32VKFtTSD1vx4mMur2a3J/iTzXI6jRWeoTtPwSNqbHqbOxJnLdHp3r6cAS/c0Wd9GKQLwzEGYoPDgohEzmNbA416ifRzWM3y+aPIK28NWMw6FcyyRbVgKF3LL6aYLnaSQhU01x4hi0kFFv9lvtY9IRb7LCsYVWL7+az1xwxTqGGknZwIaBy3yK+gAmx/rfLx5UMvP+ALlH+VarrLf0S4/M0/WwwHD+mJOWdZt6Kd0hBtsWPUJZlsqbKvZ9eABhYJ8Rt2DcmYXMZrLdbyDRvXElA0WPFz1KVGhgws0cgv2PZg2tH72BvlhGyW33EtpSU8Y6xr/MwiZLfzirLadeRXzKIfBFehdfyauiLx1Qk67y5vxBTJsqv3HPYgCg7e+mkLEewXCIL9nB6KxmOpM5WMQZFXHngzjsYqzmFWOwzlj8Pb26i6n6i5iA1nxBX03pwBGY8nnz+tXgT31A==;S6p4ymotkGnhCxbpqZLi6A=="
 ---
 

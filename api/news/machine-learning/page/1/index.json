@@ -159,7 +159,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -253,6 +253,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-deep-learning-based-model-development-to-predict-critical-pediatric-events-in-general-wards.md",
+      "title": "Deep learning-based model development to predict critical pediatric events in general wards",
+      "excerpt": "In a recent study published in Scientific Reports, researchers used deep learning to develop a model that predicts critical events in pediatric individuals admitted to the general ward using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240229/Deep-learning-based-model-development-to-predict-critical-pediatric-events-in-general-wards.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240229/Deep-learning-based-model-development-to-predict-critical-pediatric-events-in-general-wards.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_773160_17092122279313530.jpg",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1342,58 +1385,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-flyteinteractive-interactive-development-for-machine-learning-models.md",
-      "title": "FlyteInteractive: Interactive development for machine learning models",
-      "excerpt": "LinkedIn needed a better way to test and tune machine learning models, so it wrote its own tool that plugs into Visual Studio Code. Machine learning (ML) is becoming an increasingly important part of the modern application stack. Whether it’s large-scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
-      "originalUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/12/21/worried-tired-programmer-developer-100947122-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

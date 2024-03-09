@@ -249,15 +249,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 27
-  - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
-    excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "HFHggg0U8LIJr44ru+K0BQ7JoCsMRv1nnCps4QoUxjQHYTojTxT5+BHbTFuWS0/acG2UFC6R4urNpiuUjatkL0UhYSSYWmmi5/0y+GfGUeOWjktiiRSoQhjiDMOvQ25JqYch9Za7tOAfNLoH98bnK8/OClAE08aLbSkWavshP7yBT+z+3y9oi+tOdVLZMnOEuGasvBJ8JIgnBSW547zsUkOrEOy3ObgY2C0jEntJO4gnw5SCZkssKNcxPAGxt8sFaiQqGB1IbuuVj+QbYinE/APh71vQPgnGoGhaGGdXS1hp6jpioDtKWKP/PCApXnUtV3lcxWK5Z5rGDNklTxD4Y/qGc0sgT0HRUOdNeEZdw3E=;rN3sCt+/vMY9VPMP0Jjz/Q=="
 ---

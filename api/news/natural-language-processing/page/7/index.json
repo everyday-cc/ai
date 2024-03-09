@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-07-kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry.md",
+      "title": "Kinetica Unveils 1st SQL-GPT for Telecom, Transforming Natural Language into SQL Fine-Tuned for the Telco Industry",
+      "excerpt": "the industry’s only real-time solution that leverages generative AI and vectorized processing to enable telco professionals to have an interactive conversation with their data using natural language, simplifying data exploration and analysis to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry/",
+      "originalUrl": "https://www.datanami.com/this-just-in/kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/09/kinetica-logo-light.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-best-speech-to-text-app-of-2023.md",
       "title": "Best speech-to-text app of 2023",
       "excerpt": "So essentially you get the same excellent speech recognition as seen on the desktop software – the only meaningful difference we noticed was a very slight delay in our spoken words appearing on ...",
@@ -1235,40 +1278,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-using-ai-to-transform-discoverability-at-germanys-oldest-news-publisher.md",
-      "title": "Using AI to transform discoverability at Germany’s oldest news publisher",
-      "excerpt": "The answer lay in artificial intelligence, and in particular natural language processing or NLP, Gerber said. Before approaching iMatrics, the company was already experimenting with using AI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://pressgazette.co.uk/platforms/natural-language-processing-and-seo/?ref=biztoc.com",
-      "originalUrl": "https://pressgazette.co.uk/platforms/natural-language-processing-and-seo/?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Press Gazette",
-        "domain": "pressgazette.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -102,20 +102,6 @@ related:
         width: 1469
         height: 980
         isCached: true
-  - title: "Artificial Intelligence in Healthcare: New Avenues for Liability"
-    excerpt: "Artificial Intelligence (AI), specifically generative AI technologies, hold significant promise for improving the healthcare industry by streamlining clinical operations, freeing service providers from mundane tasks, and diagnosing life-threatening diseases."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-healthcare-3922166/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The potential effects of AI healthcare"
     excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
     publishedDateTime: 2024-03-07T10:58:00Z

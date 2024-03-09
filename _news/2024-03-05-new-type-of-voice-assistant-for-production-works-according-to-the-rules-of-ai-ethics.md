@@ -57,22 +57,6 @@ related:
         width: 1223
         height: 900
         isCached: true
-  - title: "Advancing AI innovation with cutting-edge solutions"
-    excerpt: "Power your business transformation with proven AI services and infrastructure. Provided byMicrosoft Azure and NVIDIA AI is helping organizations in nearly every industry increase productivity, engage customers, realize operational efficiencies, and gain a ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/"
-    ampWebUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/Vu6Wq8lLUN0/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
     excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
     publishedDateTime: 2024-03-08T12:45:00Z

@@ -119,15 +119,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "India tells tech firms approval is needed before releasing new ‘unreliable’ AI tools"
-    excerpt: "On Feb. 8, Microsoft partnered with India AI startup Sarvam to bring an Indic-voice large language model (LLM) to its Azure AI infrastructure to reach more users in the Indian subcontinent."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/india-tech-approval-unreliable-ai-tools"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 12
 
 secured: "AW0DbHbe3ocztR+ZP/ST0C1gcU5bLkdvrxHOdFGB2MAIbC+xWC8J/0hy9/voJdAj6q3Ey8OOZbCcW+Id3UKcJj4n+EiTqXZ+u5qxlx9raqfJHizwg79BAQ3O6d9pHrmCR7zTO8ke3m9Mj7KhEVrGWVq5TkjU3xSgzA59Lhj2eUfBElJ2mOWtzsenqvo8owk2xB0vPy9jaCB999vwKCTrGiH6iDKkOHLNjFamYk+yRPcqcgr73RrA5+aYFbmbgjkQAm6gTsQ+eX/r7uYSwM9/MC1yQOAre4k2ZJ7C0tp4tUfIl2kIKOQt9CONvXY77UUYH0CwLv+lddQxF5aWxV1+phJgIAcBacgQvhKqAid21WE=;+DtQ/UwGtTpQ+Gmnbl4Srg=="
 ---

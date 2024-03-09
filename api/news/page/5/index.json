@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-05-nvidia-and-these-tech-giants-just-invested-in-this-artificial-intelligence-ai-and-robotics-start-up.md",
+      "title": "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up",
+      "excerpt": "In today's video, I discuss updates impacting a recent investment made by Nvidia (NVDA 3.60%) and other tech giants. Check out the short video to learn more, consider subscribing, and click the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/768008/nvidia-headquarters-with-nvidia-sign-in-front.png",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-how-to-become-an-ai-enterprise.md",
+      "title": "How to become an AI+ enterprise",
+      "excerpt": "An AI+ enterprise innovates with AI as the primary focus, understanding that AI is fundamental to the entire business.\nThe post How to become an AI+ enterprise appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T17:05:57Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-5g-advantages-and-disadvantages-what-business-leaders-need-to-know.md",
       "title": "5G advantages and disadvantages: What business leaders need to know",
       "excerpt": "5G, the latest high-speed cellular network standard, is poised to transform wireless connectivity and usher in a new age of digital transformation.\nThe post 5G advantages and disadvantages: What business leaders need to know appeared first on IBM Blog.\n",
@@ -360,7 +455,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -447,58 +542,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-04-a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk.md",
-      "title": "A CISO’s guide to AI: Embracing innovation while mitigating risk",
-      "excerpt": "5. Invest in security research — Support research into robust security solutions for AI. Contribute to industry initiatives and collaborate with academic institutions to accelerate the development of effective safeguards. Remember, it’s not AI vs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
-      "originalUrl": "https://venturebeat.com/security/a-cisos-guide-to-ai-embracing-innovation-while-mitigating-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/AdobeStock_718847427.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T09:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-04-anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini.md",
       "title": "Anthropic's Claude 3 chatbot claims to outperform ChatGPT, Gemini",
       "excerpt": "The latest version of Claude AI promises quicker results, greater accuracy, and improved ease of use, and will now analyze uploaded images, documents, and other files.",
@@ -507,7 +550,7 @@
       "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -663,7 +706,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -840,6 +883,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-the-marthas-vineyard-times-is-using-ai-to-translate-articles-into-portuguese.md",
+      "title": "The Martha’s Vineyard Times is using AI to translate articles into Portuguese",
+      "excerpt": "a company that uses AI to translate webpages from English to other languages. While there are fears in the media industry that AI could replace writers, the initiative at the Times is an example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
+      "originalUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/YvcDD-fygSvTTWlfDlF83qmpGLk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/GLS6THFOKQI6THHI2IU4VW36Q4.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1133,110 +1219,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-nvidia-ceo-makes-daring-prediction-that-ai-will-reach-general-intelligence-in-5-years.md",
-      "title": "NVIDIA CEO Makes Daring Prediction that AI will Reach “General Intelligence” in 5 Years",
-      "excerpt": "This confidence stems partly from NVIDIA's leading role in developing the powerful AI chips used in systems like OpenAI's ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "originalUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-facial-recognition-tech-is-probably-coming-to-a-lot-more-vending-machines.md",
-      "title": "Facial recognition tech is probably coming to a lot more vending machines",
-      "excerpt": "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
-      "originalUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
-      "publishedDateTime": "2024-03-02T12:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

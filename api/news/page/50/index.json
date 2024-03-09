@@ -2,6 +2,144 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2024-01-31-amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results.md",
+      "title": "Amazon earnings preview: AWS, advertising, AI in the spotlight for holiday quarter results",
+      "excerpt": "It is also facing scrutiny from the FTC, which filed a lawsuit against Amazon in September and last week launched an inquiry into Amazon’s investment in AI startup Anthropic. Amazon continues to trim its workforce and recently launched new advertisements ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "originalUrl": "https://www.geekwire.com/2024/amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/amazonq2.jpg",
+          "width": 2022,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T08:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-new-ai-model-designs-proteins-to-deliver-gene-therapy.md",
+      "title": "New AI model designs proteins to deliver gene therapy",
+      "excerpt": "Researchers have used an artificial intelligence (AI) model to redesign a crucial protein involved in the delivery of gene therapy, a technique that employs genes to treat, prevent or cure diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
+      "originalUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/gene-therapy-chromosome-genetic-brain-disorder-x-y-chromosome-shut.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
+      "publishedDateTime": "2024-01-31T07:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services.md",
+      "title": "Jio Brain is a new platform that uses AI and machine learning to create new 5G services",
+      "excerpt": "Jio Brain is a new AI powered platform that uses machine learning and offers services like image, text and video generation. Here's what we know so far about the newly announced service.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2024/01/Jio-Brain.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
+      "publishedDateTime": "2024-01-31T05:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-gopi-krishnaswamy-founder-ceo-llama-author-teacher-google-leadership-institute-to-conduct-session-on-mindfulness-for-sustained-success.md",
       "title": "Gopi Krishnaswamy, Founder & CEO, Llama, Author, Teacher - Google Leadership Institute to conduct session on ‘Mindfulness for Sustained Success’",
       "excerpt": "Gopi Krishnaswamy, a Zen practitioner, teacher, and author, is a senior executive turned Mindfulness Meditation teacher who walked away from conventional corporate success into Zen.",
@@ -1069,142 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-achieve-data-center-excellence-with-ibm-and-vmware.md",
-      "title": "Achieve data center excellence with IBM and VMware",
-      "excerpt": "A successful data center implementation can best be described as a distributed, dynamic, efficient and resilient IT nucleus.\nThe post Achieve data center excellence with IBM and VMware appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-data-center-excellence-with-ibm-and-vmware/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-data-center-excellence-with-ibm-and-vmware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-average-219-roi-the-total-economic-impact-of-ibm-instana-observability.md",
-      "title": "Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability",
-      "excerpt": "Forrester constructed a single composite organization that aggregated the representatives’ experiences with using the Instana platform.\nThe post Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/",
-      "originalUrl": "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-apples-vision-pros-path-to-success.md",
-      "title": "Apple's Vision Pro's Path To Success",
-      "excerpt": "The success of Apple's hardware is directly related to the role of software. The combination of innovative hardware with creative software will drive Apple's Vision Pro to succeed in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b8081c3e8172e6bfb9d845/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
-      "publishedDateTime": "2024-01-30T14:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/female-officer-wins-recognition-010200841
 webUrl: "https://www.aol.com/news/female-officer-wins-recognition-010200841.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Female officer wins recognition"
-    excerpt: "It comes as no surprise to those who know Reyes that’s she’s being recognized. “Officer Reyes always comes to work with a smile on her face and a positive attitude ready to go above and beyond to assist her fellow officers and the citizens of Odessa, ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.oaoa.com/community/good-news-community/female-officer-wins-recognition/"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 24
-    images:
-      - url: "https://www.oaoa.com/wp-content/uploads/2024/03/utpb-all-female-shift.jpg"
-        width: 799
-        height: 533
-        isCached: true
   - title: "‘We want equality and recognition’, say 100 older women in new project"
     excerpt: "Equal rights, good work and recognition of unpaid labour are some of the demands from a collective voice of 100 diverse Manchester women aged fifty-plus, following a research project involving experts from The University of Manchester."
     publishedDateTime: 2024-03-06T12:17:00Z

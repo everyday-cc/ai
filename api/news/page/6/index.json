@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-03-nvidia-ceo-makes-daring-prediction-that-ai-will-reach-general-intelligence-in-5-years.md",
+      "title": "NVIDIA CEO Makes Daring Prediction that AI will Reach “General Intelligence” in 5 Years",
+      "excerpt": "This confidence stems partly from NVIDIA's leading role in developing the powerful AI chips used in systems like OpenAI's ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
+      "originalUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-02T17:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-facial-recognition-tech-is-probably-coming-to-a-lot-more-vending-machines.md",
+      "title": "Facial recognition tech is probably coming to a lot more vending machines",
+      "excerpt": "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
+      "originalUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
+      "publishedDateTime": "2024-03-02T12:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-dysolve-using-ai-to-beat-dyslexia-through-generative-games.md",
       "title": "Dysolve: Using AI To Beat Dyslexia Through Generative Games",
       "excerpt": "Dysolve is the first AI computer program for dyslexia that does not use preset testing kits but instead uses AI to diagnore and treat using dynamically generated games.",
@@ -1138,109 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog.md",
-      "title": "The Energy Sector And AI: Unplugging The Interconnection Queue Backlog",
-      "excerpt": "The ripple effect of the interconnection queue goes beyond regulatory delays; it directly impacts organizations' access to affordable and sustainable power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0a3288e978fb53b0207bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1099,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/amp/",
-      "publishedDateTime": "2024-03-01T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-us-regulation.md",
-      "title": "Salesforce's top AI ethics leader says she's 'optimistic' on the path to U.S. regulation",
-      "excerpt": "Paula Goldman, Salesforce's chief ethical and humane use officer, told CNBC that she sees momentum toward concrete federal AI laws in the United States. \"I remain optimistic, because I think if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
-      "originalUrl": "https://www.cnbc.com/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107380428-1709222739626-gettyimages-2036330307-PCARTIE_0023.jpeg?v=1709277650",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
-      "publishedDateTime": "2024-03-01T10:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

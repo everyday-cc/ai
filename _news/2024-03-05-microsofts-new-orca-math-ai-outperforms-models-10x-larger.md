@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms
 webUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/"
 type: article
 quality: 103
-heat: 313
+heat: 303
 published: true
 
 provider:
@@ -256,15 +256,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 27
-  - title: "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award"
-    excerpt: "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "WoLSHaisXZwMLba1lL/7ec9RLHl8RZ+BuG4EM76gL1puh1p3XXAUR4r/yMBdx21QdpAQfgbt78IXBs+ZUVAddMOS0T0EkndoehUHI4P1gyb84cZExag0LT6S1uoNtnv5RXzAsOcu2kijCyRSLrwOMV0fJXAJKGHIpkh7ljXzoBeS7pmADYg974G8xoTWJB04wJBmxhsD3BkipCfcDY0d8bIpxwKwcq83+nIaowXJecj3Q0J0kO2NzUyHBIwBm4W0l1p1ZrAGivUH9sNCSxv+GiGZc6d3xzZti1w199eBmn/o2A7Z2BdpaUQNAQ4kQJaktNEyThNsNoirsEzi+XH42/rNHfSoiZ/oIO4RZGSa3LY=;hyw9RLqsnNAqgcZcQNGJpQ=="
 ---

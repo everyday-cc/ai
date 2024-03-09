@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e19a92e7cc0647aba49a19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1223
         height: 900
-        isCached: true
-  - title: "Advancing AI innovation with cutting-edge solutions"
-    excerpt: "Power your business transformation with proven AI services and infrastructure. Provided byMicrosoft Azure and NVIDIA AI is helping organizations in nearly every industry increase productivity, engage customers, realize operational efficiencies, and gain a ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/"
-    ampWebUrl: "https://www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/04/1089020/advancing-ai-innovation-with-cutting-edge-solutions/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/Vu6Wq8lLUN0/hqdefault.jpg"
-        width: 480
-        height: 360
         isCached: true
   - title: "New type of voice assistant for production works according to the rules of AI ethics"
     excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"

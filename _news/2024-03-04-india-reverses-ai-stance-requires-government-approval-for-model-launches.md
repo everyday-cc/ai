@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/"
 type: article
 quality: 86
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -122,15 +122,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "India tells tech firms approval is needed before releasing new ‘unreliable’ AI tools"
-    excerpt: "On Feb. 8, Microsoft partnered with India AI startup Sarvam to bring an Indic-voice large language model (LLM) to its Azure AI infrastructure to reach more users in the Indian subcontinent."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/india-tech-approval-unreliable-ai-tools"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 12
 
 secured: "tstvFTIoQQSI0FsbY5KuJcTJkIowMsNyHobfB/c/6JojkUVGbeO38UMUjphPlsnT4Lr6JgRRnXEowQA1KN/n0cQvWpQ4PBZPV8NHb5QTBbDk9MgnRDpe3gRBwFwScZIpzB3nFHro1XgGkcdE0Ir/Mc6ICeIdTEm0rXYCWYoT1wvO+Ze+cZngP9e2m4wbYrzGI78hzioYrgoXWCZVo7zeX4VglADnJrB9LD4PqgZeSlHoOr19KjP0uvDY99DB/Txqo3/ObU6bowW1iIEt6sJtVKeplzGrAW+nAYOANXLE2zmoDm5DU/9QsH1f3qyqPf8cU00ZQnLpv1LVVnLsRoVJtF3LpCpRuwKeu1Wb4v2nt9T1WFyUMTdjurrHma3XBR8FC/nT5qyJncIxPNwirDyk+9moKM5Gx6zi9qQIZ6/TOzpjBxVGro0r7O2OVpA+z6qxJVmSZ7XKqK2TmgGkbK92wMQauQBd5TBbarrRzbzbmgfq8jpqRoVbiH/lZ8YBbjunNegHTYPMZf3zVvZ/g4BhsQ==;vJFCGRhEwkNITtzICpUZvw=="
 ---

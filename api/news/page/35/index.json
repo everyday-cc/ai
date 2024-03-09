@@ -2,6 +2,145 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2024-02-12-pakistan-develops-tim-tim-ai-robot-to-support-autistic-children.md",
+      "title": "Pakistan develops 'Tim Tim', AI robot to support Autistic Children",
+      "excerpt": "This innovative robot has been developed by Pakistani tech start-up 'Haprow', and this AI robot has been named ‘Tim Tim’. Haprow aims to develop such robots by using medical, health, and engineering technologies to create an inclusive and diverse environment for all people.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "originalUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2024/February/02-12-24/news_big_images/790972_82468537.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/790972.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790972.php",
+      "publishedDateTime": "2024-02-12T04:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-on-fire-they-couldnt-even-recognize-the-vehicle.md",
+      "title": "Crowd Sets Waymo Self-Driving Car on Fire: ‘They Couldn’t Even Recognize the Vehicle’",
+      "excerpt": "A crowd in San Francisco vandalized a Waymo self-driving car carrying no passengers on Saturday night, breaking its windshield and setting it ablaze. Once firefighters got the situation under ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
+      "originalUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/facc5f53913b22dd05684a50e8899ff4.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-the-language-of-ai-defining-the-most-common-terms.md",
+      "title": "The Language of AI: Defining the Most Common Terms",
+      "excerpt": "Natural Language Processing: A branch of AI that uses machine learning to process and interpret text and data. Neural Network: A computer system made up of interconnected \"artificial neurons\" that help computers learn from data and recognize patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/special-reports/features/108692",
+      "originalUrl": "https://www.medpagetoday.com/special-reports/features/108692",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/108xxx/108692.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco.md",
       "title": "Crowd sets Waymo self-driving vehicle ablaze in San Francisco",
       "excerpt": "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ...",
@@ -1017,153 +1156,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there.md",
-      "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
-      "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://laist.com/news/npr-news/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
-      "originalUrl": "https://laist.com/news/npr-news/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scpr.brightspotcdn.com/dims4/default/a82753d/2147483647/strip/true/crop/657x345+0+74/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F10%2F20240129-miramain-02-c1fb57efe552ac467f377091bdc7c8e63690c969.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LAist",
-        "domain": "laist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future.md",
-      "title": "AWS, AI, And Taylor Swift Usher In Super Bowl 2024 And Sports’ Future",
-      "excerpt": "This year, we are about to experience a very special Super Bowl, which stands to become a truly watershed moment for AI technology and inclusivity in sports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c6ee29df74c4afe8eaae79/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1352,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
-      "publishedDateTime": "2024-02-10T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-missed-out-on-nvidia-2-artificial-intelligence-ai-stocks-to-buy-before-they-soar-in-2024.md",
-      "title": "Missed Out on Nvidia? 2 Artificial Intelligence (AI) Stocks to Buy Before They Soar in 2024",
-      "excerpt": "Not surprisingly, AI has been a major driving force for the company. Microsoft's Azure cloud computing platform is the key growth engine, with revenue soaring 30% year over year (including a six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/10/missed-out-on-nvidia-2-artificial-intelligence-ai/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/10/missed-out-on-nvidia-2-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/764151/analyst_analyzing_stock_charts_on_desktop_and_laptop.jpg",
-          "width": 8192,
-          "height": 5464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T08:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

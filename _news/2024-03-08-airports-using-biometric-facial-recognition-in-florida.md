@@ -7,7 +7,7 @@ originalUrl: "https://www.clickorlando.com/insider/2024/03/08/airports-using-bio
 webUrl: "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/"
 type: article
 quality: 54
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -71,6 +71,6 @@ related:
       domain: kvia.com
     quality: 34
 
-secured: "BnEQVcvhXNno1mGywcIFAxkz7dvd1KskxdMMwkJtZysV2l0GTS8KvA6BOTTGK6Pu9i0b5ofwkNLjxqtm2q38DCsb3giX63Ia09pURcor3xwsMX41VAKnJ5H6OZRD5Lktr2TIC7sQOVg/qWrBfvHjBsBqbAyBQTUjKXzD/bnYKBky2/yqizF6CVX5w0UO/h17nTd6lhQtrXdXaCc2EQdBtsxvIVz5w3Yepez8UzLYGhrExXXPZo1fILkASCAypINCdulSWvurKlSLJRC1bbZQFz9+oTqUMMqQjQxtVX3NAiQjNlQ0uz7Cg8nYZhztpHV77pTG1WAlfSboQANB3PzkvjN+lGSOLKAF8TFFBzP9eo4xXL2IY6f6KBppsDce+EvJ9qm5OHrQYgxkHuehmDvwGNql3DRjAfUeyCJ9lhoRhZkug4a3D4vKCO15J5qrbapOzwrJjcVciLF1mhF8dIcbVu6N15oo6Ya+CqRuL3jk1ydmJ/JAEkqzKdejHLgCBYjbt9PPSIWkLFh7Wr5DxnO/6A==;VQPZpAKkePkkugrWtas+zA=="
+secured: "FqMGaLIa3C0h9DTNHIDCBP6Emz3t0kAqXl0x5a9Px5sQamqJxHsDoxbzk/BJUCPXVmLA/oU5rz82QRxFj/0cVUHF6jJtb1OylMpgKR37CLRdXqNTd564lMmS6L5ECquY1imgzx4TMTZtUIkRcHWFKakE4BcRG+drJkGQWVziqGvKncYiIgXIycaLl1ZshV5sTnfReSVgHKkXF5cNWva/Ual1JHn3QAshi8kBTRiIhpu91flLcNSWso6gpCnNX6HcVc6uwgCgEpCDvtU9/GRO6kenCaTO4wKJWR0CiEKrb0lPDPKGKMvszmvGQpllfPPWk3pFj7+Ba//Qe4F+IvOp0tE7xHHXqtEF9mppnDvt+GyW4rFE7mwmefvgD/BLyJ/l9er+w2zW/zs9S8lLHZWK8QCcIb0zDolBF7R+9ZGglyJSmqp3B4s+03QcJNWIC0JGrqjSiP4FF1PLPYN+hbvdzgUrOcrufE5we3kCdfg91P3wOWfhrnRctiBDttkBnYZ8K6zU71NSXnGDAZAv2HUx1A==;4Wk30jyxVUjBOYqJosf3ww=="
 ---
 

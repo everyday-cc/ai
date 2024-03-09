@@ -19,85 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Man arrested for trying to steal self-driving Waymo car: LAPD"
-    excerpt: "A man was arrested after he allegedly tried to steal a to steal a self-driving taxi in downtown Los Angeles on Saturday night. The Los Angeles Police Department said in a statement that Vincent Maurice Jones, 33, got into the driver's seat of the Waymo ..."
-    publishedDateTime: 2024-03-04T00:00:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1"
+  - title: "Self-driving cars put safety first"
+    excerpt: "The future is closer than you think. Self-driving cars may sound like science fiction, but they are quickly becoming a reality. In two cities in the US, you can use an app on your phone to order a driverless taxi to pick you up. As with any revolutionary ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://www.politicshome.com/thehouse/article/selfdriving-cars-put-safety-first"
     type: article
     provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 59
+      name: PoliticsHome
+      domain: politicshome.com
+    quality: 24
     images:
-      - url: "https://media.nbcphiladelphia.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2024_03/2WBBNJC_uo32lv.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-    excerpt: "There were no injuries reported by the rider or damage to our vehicle.” Self-driving taxis are an increasingly common sight in California, with state regulators on Friday authorizing Waymo to expand services of its fleet of robotaxis into the greater Los ..."
-    publishedDateTime: 2024-03-04T09:01:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/"
-    ampWebUrl: "https://www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3470369/?amp=1"
+  - title: "The Self-Driving Car Bubble Has Popped"
+    excerpt: "Google had been on the case since the late 2000s and said it was making brisk progress. There were dozens of well-funded self-driving start-ups, many of which were acquired by car manufacturers. Uber was confidently staking the future of its business on ..."
+    publishedDateTime: 2024-03-05T00:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/apple-tesla-and-the-dying-dream-of-self-driving-cars.html"
     type: article
     provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 44
+      name: New York Magazine
+      domain: nymag.com
+    quality: 24
     images:
-      - url: "https://media.nbcbayarea.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Los Angeles man arrested after attempting to steal self-driving taxi as car controls remained locked"
-    excerpt: "A Los Angeles man attempted to steal a self-driving taxi in the city's downtown on Saturday evening, but he didn't get very far — the vehicle's controls refused to cooperate with him"
-    publishedDateTime: 2024-03-04T22:48:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article32272996.ece/ALTERNATES/s1200/0_Self-driving-Waymo-cars-on-the-road-in-Santa-Monica.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/b66/bd8/919959472049f24284cd6a03b1ed10c392-self-driving-car.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Man arrested after trying to steal a self-driving taxi in Los Angeles"
-    excerpt: "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police."
-    publishedDateTime: 2024-03-04T17:02:00Z
-    webUrl: "https://www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3450889/?amp=1"
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 44
-    images:
-      - url: "https://media.nbcsandiego.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Thief Jumps Into Self-Driving Car To Steal It, Realises Its Smarter Than Him"
-    excerpt: "A homeless man was arrested on suspicion of grand theft auto after he tried to steal a Waymo self-driving car in Los Angeles, NBC News reported. The incident happened on Saturday night after the man entered and tried to operate the driverless vehicle that ..."
-    publishedDateTime: 2024-03-05T11:47:00Z
-    webUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875"
-    ampWebUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 41
-    images:
-      - url: "https://c.ndtvimg.com/2024-03/4nf9bvrg_driverless-car_625x300_05_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240117.07"
-        width: 6630
-        height: 5304
         isCached: true
 
 secured: "e9JcJhzw+sUqehIRZkz/O54rTPPuVnKyjENROwy3NE1L5GEinWUDO/JhXUTzEaoMN42YbOdtt8tPvEjcpyXlrRUXu65ByJvGzrZfbmFmVhxFNp5LK0L+8Lnn5EA10sTkRIdB6AzgZLPh8KFzQJrskfzca1b8Xj8sSWBH7VCUizfkbgcntbzhtVf2D8DO/qthPqI+7uSPQsmZshD5RsrVVwGEVdQp2Y/4q5kdApi8QodEiY1ZbHkjdvrij92q07TLCpCS4/0cSA4c4+LX5JjwMyVkPGcQ/qvINNWoskesdkWRUfw4/bzv9ASaETEKpwbLGN8hYCcQZYBuqdULgqj3D9jPUgOLYWh9Gt2FA3pNifE=;5jumhozz2FGO25h8wpZ5gg=="

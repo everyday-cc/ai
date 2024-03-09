@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-29-lg-unveils-ai-powered-wheeling-smart-robot-for-the-home.md",
+      "title": "LG Unveils AI-Powered, Wheeling Smart Robot for the Home",
+      "excerpt": "LG describes the bot, which doesn’t have an official name just yet, as a “moving smart home hub.” The bot comes packed with Qualcomm’s RB5 robotics chip, cameras, speakers and sensors for gauging temperature, humidity and air quality.",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
+      "originalUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F12%2Flg-smart-agent-robot-home-preview-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-us-sanctioned-chinese-chip-start-up-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card.md",
       "title": "US-sanctioned Chinese chip start-up Moore Threads unveils GPU-based computing centre, AI graphics card",
       "excerpt": "Moore Threads Intelligent Technology, a Beijing-based designer of GPUs tailored for AI training, said the new GPU will be found on its KUAE Intelligent Computing Centre, which is aimed at serving ...",
@@ -1419,59 +1463,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger.md",
-      "title": "What To Expect At Intel AI Event: A Discussion With CEO Pat Gelsinger",
-      "excerpt": "language translation, etc.—that's going to happen. [And] I expect that every PC that is embedded in my manufacturing lines is going to be capable of real-time AI model generation and telemetry.” The coming changes will likely also change the shape of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579ef752a71e24eeb55d316/0x0.jpg?format=jpg&crop=5461,3074,x0,y104,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/12/13/what-to-expect-at-intel-ai-event-a-discussion-with-ceo-pat-gelsinger/amp/",
-      "publishedDateTime": "2023-12-13T19:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

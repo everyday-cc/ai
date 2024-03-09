@@ -2,6 +2,136 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2024-02-14-gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai.md",
+      "title": "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI",
+      "excerpt": "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
+      "publishedDateTime": "2024-02-14T06:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape.md",
+      "title": "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape",
+      "excerpt": "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
+      "publishedDateTime": "2024-02-14T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws.md",
+      "title": "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS",
+      "excerpt": "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "originalUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "publishedDateTime": "2024-02-14T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-wife-of-tesla-employee-who-died-in-what-may-have-been-the-first-full-self-driving-crash-said-she-and-her-husband-were-guinea-pigs.md",
       "title": "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'",
       "excerpt": "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature.",
@@ -1034,135 +1164,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-san-mateo-county-wants-to-keep-driverless-cars-away-for-now.md",
-      "title": "San Mateo County wants to keep driverless cars away for now",
-      "excerpt": "Those who follow the driverless car business said there is also likely some public backlash as machines and artificial intelligence make a deeper move into our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/",
-      "originalUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2024/02/smc-driverless-0213.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/?amp=1",
-      "publishedDateTime": "2024-02-13T17:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-graduates-land-top-financial-tech-jobs-through-a-unique-program-at-the-university-of-delaware.md",
-      "title": "Graduates Land Top Financial Tech Jobs Through a Unique Program at the University of Delaware",
-      "excerpt": "The rise of ChatGPT and other GenAI platforms has caused a major disruption in the education sector. While GenAI technology offers incredible promise for",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
-      "originalUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2017/05/graduates_Shutterstock_Syda-Productions.jpg",
-          "width": 1000,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T17:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-georgia-bill-aims-to-restrict-ai-in-healthcare.md",
-      "title": "Georgia bill aims to restrict AI in healthcare",
-      "excerpt": "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
