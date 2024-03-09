@@ -121,17 +121,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
-    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
-    publishedDateTime: 2024-03-04T03:30:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
 
 secured: "0218GbbnMDGdwBMvilYqK9iVIrRewgmMqdTMKMM1tLiUZ7ossdY0CitW+Q/ctniBUF5GMndjlqenSB1XRKnAlvsQbi0ihO0PPKxQJ0F36czlAJ3cJJCKd/U6zWR66+ZXORJhXx6Ozunxq0vdziaqlSaF7a5AMUVYpNwZJANIwcoQgiOQi6+a5ggmyhKca9SSozWC7+iEQISBbaodmG7HyVmeVnaYLcqDwSF0RxTAyQLH6C6ejfNKAZx5/g8kx1K9SrCvAef4eQlKqDDUpJiAd2MZQslvHb8HccRhmKxn679oM2X9DU/oyXz3ocDR0xlRJ10gN50UfhZqv0U1T6XHpAYPkazT5am22pXCYVQRnsCVbHl1aQtMDa8Kr1BaRHGYoN9g5B7/Kl0c2YVJh/2PY/1R6mCEC0uxtWspeSZj+1GoLyaAcgkBK7a1zslZZonHhuvA5hogQY6YjBzWprggc6mqVOdf12CCl5Ekr3MXJVr7YM8GU8bQ+KGfUafGQzk2BSd4Ehz3AgjooBdRy716vA==;Fb3oXCmpLTMNJHfwN4Sxgg=="
 ---

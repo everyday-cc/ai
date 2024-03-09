@@ -119,17 +119,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Harnessing an inclusive future with generative AI in Southeast Asia"
-    excerpt: "Carving a path of open innovation and inclusivity ensures generative AI becomes a force for good and accessible to all."
-    publishedDateTime: 2024-03-04T03:30:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/harnessing-inclusive-future-generative-ai-southeast-asia"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
 
 secured: "FzOGV+iw9Bw8zlHCW1UdCmPhG2XWgSZjHmPXCTMyPdqkwy08kfZQwkaL2ri3j0UalkD4vcwh5PEOce7eV5X9zcmhAVahQpKpUIwiDZIuuFruuG2C3xsaaKoFYvw84TyST9vNu5lr9iI0V6NP0b0ajxkgvFN7TA90+m/ym6qD/Z7TqOcrakLXi+LY0DtYaSKtXnNlLNt8wOpnAfRUndLZZwPGztsCq32fpnnCoF107oD1RMTSWH5KmwyNe8i3S/HciDLyLkmH7htVFcc15EI5gJxAQmOlVW1bVPV3xrkBQP7oZ2Mh1mDUuwmq7sIcQ+W5jE/hs3FLvmoxUgR4iFcOvDWkx5EBy+rwE+7JD1dPCGI=;HFMldQPdtzgDiyOp+7HGCA=="
 ---
