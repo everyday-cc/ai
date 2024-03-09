@@ -47,7 +47,12 @@ related:
     provider:
       name: Inc
       domain: inc.com
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/SAPAIBootcamp_SupplyChain_IntroFrameLogo_022924.1_538194_ml4meo.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "DMz7Aw90nY9oadYXB8liBsPNusNBua8IDu+cDEVUkicskKtWV4Dyn3R9Qj+v9hNLM/XVoQ8xWBtjOMkGILrD+WnTGzmZC3JgHmg686GwK0cwoXdCSKsZqnUxG9bZ/2hJ4IV5e45iUOQ5PYcn3ESoocmwxHmtoqnH+R8qP7Kakwb38yJRS2fUi89ImDjQhWmemrwl6/oUmkPEDkIbu2PqZf5mHTTaZjRBv4WRDAFf3sL+bUfMMoSJqkkBe+qaESLwE8ageX5Q04DW8sdSizRXtJQTBO5HRdOhAaODr7gnvj2DNj1SztZXX9iA9Q+hTxRh51xmDkm5SBpybWy8Lf6SZtmOPotUFd07FH9ROV9Bd5A=;FpumU5Daj+pI0V5vfmbhxA=="
 ---

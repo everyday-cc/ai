@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/explainers/bengaluru-driverless-metro-tria
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp"
 type: article
 quality: 72
-heat: 143
+heat: 142
 published: true
 
 provider:

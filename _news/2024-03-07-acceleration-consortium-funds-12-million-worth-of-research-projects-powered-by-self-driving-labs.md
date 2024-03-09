@@ -24,6 +24,19 @@ images:
     height: 740
     isCached: true
 
+related:
+  - title: "University Of Toronto: Acceleration Consortium Allocates $1.2 Million to Research Projects Leveraging Self-Driving Labs"
+    excerpt: "Canada’s aging population is placing a host of new stressors on the health-care system, including an increasing number of hip and knee replacements that, in a best-case scenario, will last a maximum of 25 years using current materials."
+    publishedDateTime: 2024-03-08T00:35:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-toronto-acceleration-consortium-allocates-1-2-million-to-research-projects-leveraging-self-driving-labs/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-toronto-acceleration-consortium-allocates-1-2-million-to-research-projects-leveraging-self-driving-labs/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-toronto-acceleration-consortium-allocates-1-2-million-to-research-projects-leveraging-self-driving-labs/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 0
+
 secured: "87LiQh7TQhD8i4apuIEKLNH0Wn188gTsU3+2KFY3ft4fIB0CyjlLnVLEBGON6hEIt2B8nnxKy6FD3Bmxd9jTe5fvjmBCY8/25Om3qDqJPJqxkqbl9/t0pyMlP871UCTv8ebwgFmY4/NeL2NUathzYVqitFzEV4dHJY5d0WCTUtr3Rk+uiqAsBi1FNGXR5y21UaffQ1rvE/wizthawuEeqf0Hr5LF3lwMssiwoYhwykcLDIG6YYu3K40BiA8SO/kY/BPBPGYuXlXF2cIjpfJHb77wlOH9pzhuAMRN7+tcA78tGFCwGlU/IQUCXDDYKGA83MxhitG0iSfC2AzIXFaZ1InwXZv0An/W763gncg7jc0YR/foH+G4Dk2bNkDP82x6JBp8GQNGCVbeICx/zPmcL54730Qy9IECMWJvuwV9thoisdtTkCXEQXRAXips0WYT3Wn1tb8nNSQ5aGq89f6/5Q47XUlA1+nYO8gv7moyvYfOb8hFjt3AUiIU5ASkFRoX6OHP1/5x1BqP6Al/HITJ4A==;M0jtYlw2bQm6VrNHAsTGTg=="
 ---
 

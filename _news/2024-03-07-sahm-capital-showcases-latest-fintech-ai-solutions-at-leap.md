@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-lat
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2024-03/Fintech%20Benchmarks%202024%20title%20image_0.jpg?h=eefaf0af&itok=HFbMPhql"
         width: 1200
         height: 743
-        isCached: true
-  - title: "Anne Boden on supporting female fintech founders"
-    excerpt: "The book contains contributions from leading women in fintech including June Angelides ... phase will be focused far more on technologies like artificial intelligence (AI) and deep learning, she comments: “We've also got the additional change that ..."
-    publishedDateTime: 2024-03-08T10:19:00Z
-    webUrl: "https://www.finextra.com/the-long-read/972/anne-boden-on-supporting-female-fintech-founders"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/972.jpg"
-        width: 799
-        height: 449
         isCached: true
   - title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
     excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."

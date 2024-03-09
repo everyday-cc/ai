@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 743
         isCached: true
-  - title: "Anne Boden on supporting female fintech founders"
-    excerpt: "The book contains contributions from leading women in fintech including June Angelides ... phase will be focused far more on technologies like artificial intelligence (AI) and deep learning, she comments: “We've also got the additional change that ..."
-    publishedDateTime: 2024-03-08T10:19:00Z
-    webUrl: "https://www.finextra.com/the-long-read/972/anne-boden-on-supporting-female-fintech-founders"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/972.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "Why we're fighting to keep London first for fintech"
     excerpt: "This will include how the UK can innovate and regulate successfully groundbreaking new technologies such as AI (and we look forward to working in collaboration with the Startup Coalition on their non-fintech focused Unicorn Project). The Unicorn Council's ..."
     publishedDateTime: 2024-03-05T20:30:00Z

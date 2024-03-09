@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-08T13:51:00Z
 originalUrl: "https://www.inc.com/sap/how-ai-will-revolutionize-supply-chains.html"
 webUrl: "https://www.inc.com/sap/how-ai-will-revolutionize-supply-chains.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/SAPAIBootcamp_SupplyChain_IntroFrameLogo_022924.1_538194_ml4meo.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Not Science Fiction: How Optical Neural Networks Are Revolutionizing AI"
@@ -47,6 +53,6 @@ related:
         height: 1250
         isCached: true
 
-secured: "gNlrRsTippyn3qnIqwxh6+4AwSznxrLGoVgT5NlTBIAbnD0Yqpbyj+04IFC/LNMVnFwzBk1+FBBtm51VHD6id8w6+JU6WaRb/VzijGXCR5ls253NiF4lgMAejYmSXc3yRR7oHzzYYhZy0HIcjhxuGqsTky73plJtO4ay+XB09teehynDE2K4EtGmyfFlU3nF9OehPXAPGTVT7LSRGQt9BPYpuCXA5ZqKFuBgJqcXK5dcPNz4uvBJ9vYSZmyag7yVd5/m1PxDYr4e0NAaJEFrUM360+44KZrwoLwa7yz6c0k3Q1cm6798mXcDyijuqOJox1SrggOIeZ8PXTjQrastsGW2Vp6av2FsybGDxR/YFhg=;MA9O5c53/CB42nWWIQZPJA=="
+secured: "qPe/kaoGdOdpy+GFQHC/GvdrrT1UC9vgAQLaxda0MXIyP6JM3TrC+TqbopcT8G4tLdFHCDLHtsZH1xXK1qILdFHiruBslsR1Smgx608qv33MB/3oVhoUFvlgqcfj+xTtMJ/gexnFRQiaG7fS4Ay531ol6UmqY6FM6DJPzEvNdXxPhDFvCPCZEz1p9rZkJAxr/ve9+b3kyb1Dtvsx6RxyrBhvFqzAXoBV5C5EGGeZ1PLFn1rx311WufzpHnShoF7BAkLNfFaANIAJjmwZFBxb4HVeZee/67SCMZe3UP8iQnEKgUF2Io9ogg+W2ul/yuyCN2doH9z4sv9/Vk+t/rj3AV7R37oZDJVquwF4MZofmSE=;Pal7fuK+Zu5dLGZHtxmKtw=="
 ---
 

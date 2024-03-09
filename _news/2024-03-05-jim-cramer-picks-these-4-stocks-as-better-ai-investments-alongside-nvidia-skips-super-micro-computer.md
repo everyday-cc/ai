@@ -44,7 +44,7 @@ related:
     provider:
       name: Marketplace
       domain: marketplace.org
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200"
         width: 1200

@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Nvidia surge brings memories of Tesla rally, as investors move from chasing electric vehicles to artificial intelligence"
-    excerpt: "While Nvidia’s shares have added 66 per cent this year after more than tripling in 2023, Tesla shares are down more than half from their 2021 peak."
-    publishedDateTime: 2024-03-04T02:25:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3254029/nvidia-surge-brings-memories-tesla-rally-investors-move-chasing-electric-vehicles-artificial"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/04/7cdcedd5-25f7-4388-8a74-02428104d860_0d8809b5.jpg?itok=2q5igJnj&v=1709519091"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia becomes Tesla’s successor as market flips from EV to AI"
     excerpt: "The Santa Clara, California-based company has delivered blow-out results for four consecutive quarters, fueled by what appears to be insatiable demand for its chips used to train large language models that power AI applications like OpenAI’s ChatGPT."
     publishedDateTime: 2024-03-04T15:22:00Z
