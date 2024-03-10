@@ -2,49 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2024-02-20-softbanks-son-reportedly-seeks-100b-for-ai-chip-venture.md",
-      "title": "Softbank’s Son reportedly seeks $100B for AI chip venture",
-      "excerpt": "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
-      "originalUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
-      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
-      "publishedDateTime": "2024-02-19T16:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-20-should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep.md",
       "title": "Should You Stay Awake In A Self-Driving Car Or Can You Sleep?",
       "excerpt": "Drivers have been dreaming of self-driving cars for decades. A way for them to get to their destinations without having to spend time and energy focused on the road (or other drivers). Maybe even ...",
@@ -1204,6 +1161,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-artificial-intelligence-a-catalyst-for-progressive-future.md",
+      "title": "Artificial Intelligence, a catalyst for progressive future",
+      "excerpt": "In an age of unprecedented technological growth, Artificial Intelligence (AI) stands at the vanguard, promising to reshape industries from finance to healthcare. AI stems from a field of computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/business/kenya/2024-02-18-artificial-intelligence-a-catalyst-for-progressive-future/",
+      "originalUrl": "https://www.the-star.co.ke/business/kenya/2024-02-18-artificial-intelligence-a-catalyst-for-progressive-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/LxGDxqsXbUKsEaqMdbOIbF7SiLcnI_5ridMz6WS6XRTFW7wOWpmQi5F-vuhfFkzSqJg9SLs38O-jvAKA0IMD7jrq6MRlJEvlqaeERatyFA=s1000",
+          "width": 750,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T16:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

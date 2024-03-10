@@ -104,34 +104,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 62
-  - title: "Box Expands its Collaboration with Microsoft with New Azure OpenAI Service Integration"
-    excerpt: "Box AI, including the integration with Azure OpenAI Service, is generally available today, and is included in all Enterprise Plus plans, with individual users having access to 20 queries per month and 2,000 additional queries available on a company level."
-    publishedDateTime: 2024-03-05T21:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-box-expands-its-collaboration-with-microsoft-with-new-/2024/03/05/9973398.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 61
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Box AI integrates with Microsoft’s Azure OpenAI Service as it becomes generally available"
-    excerpt: "Cloud content management company Box Inc. is adding yet more artificial intelligence capabilities to its platform, integrating its Box AI offering Microsoft Corp.’s Azure OpenAI Service. Announced today, the integration will enable OpenAI’s most ..."
-    publishedDateTime: 2024-03-05T21:05:00Z
-    webUrl: "https://siliconangle.com/2024/03/05/box-ai-integrates-microsofts-azure-openai-service-becomes-generally-available/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 60
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/image_2024-03-04_084317110.png"
-        width: 855
-        height: 459
-        isCached: true
   - title: "OpenAI, Microsoft AI Tools Generate Misleading Election Images, Researchers Say"
     excerpt: "(Reuters) - Image creation tools powered by artificial intelligence from companies including OpenAI and Microsoft can be used to produce photos that could promote election or voting-related disinformation, despite each having policies against creating misleading content, researchers said in a report on Wednesday."
     publishedDateTime: 2024-03-06T11:05:00Z

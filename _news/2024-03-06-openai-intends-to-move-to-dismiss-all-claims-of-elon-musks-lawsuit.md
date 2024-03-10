@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-c
 webUrl: "https://venturebeat.com/ai/openai-intends-to-move-to-dismiss-all-claims-of-elon-musks-lawsuit/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat
@@ -27,17 +27,6 @@ images:
     width: 749
     height: 420
     isCached: true
-
-related:
-  - title: "The legal premise of Elon Musk’s OpenAI lawsuit is weak. But the questions it raises are not"
-    excerpt: "OpenAI was founded as a nonprofit lab that pledged to keep superpowerful “artificial general intelligence”—defined as AI software that could perform most economically valuable cognitive tasks as well or better than a person—out of the hands of ..."
-    publishedDateTime: 2024-03-05T19:13:00Z
-    webUrl: "https://fortune.com/2024/03/05/elon-musk-openai-lawsuit-founding-agreement-artificial-general-intelligence/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 38
 
 secured: "x/MNOkaRBaFQ8uxcfAVR/2Kk5XBJxoOHL1faaCxy1nSblsBthgXKeeF+nJbXJfWOH1P2xUNFRNKTLeB60moNl3knvH7IBcqhMxOsNde6naElV9BTWEhYS/5EIv7fz1A3TLcKVUj1ImYGrGM7SehlfvuhYEGSMHzDNjMY64GgqAvFTwOMSgoziCAMF2RX6CFZ+mjhbIP1aZ5kQ0PbXQzvT/9sl6aHoRX8RQro5lDmDJWof1uK02nMKv37k8zE3hB7Kp0pIcy/bP5XsBrDL3oFYe5SHzBXaQMOKDLBuP2nbFcI9ei/Lx6LifpiDr8DPYkhiLOJNGhhdOWJNw1cIAgP6l/ebp2WOv+2OYli1pqheT4=;F36EGkgCnVoisCnJDVun4g=="
 ---

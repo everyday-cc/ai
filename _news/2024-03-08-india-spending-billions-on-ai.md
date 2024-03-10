@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPU access to power up India’s AI play: experts"
-    excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
-    publishedDateTime: 2024-03-09T02:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "India to build a 10,000 GPU supercomputer for self-sufficient AI development"
     excerpt: "The Indian government, led by Prime Minister Shri Narendra Modi, has approved a new $1.24 billion investment for the IndiaAI mission, a \"national-level\" plan designed to"
     publishedDateTime: 2024-03-08T17:57:00Z
@@ -50,15 +34,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India’s AI Regulators Need Scalpels, Not Hammers"
-    excerpt: "A vague decree has revived fears that government overreach will stifle innovation in the country’s booming tech sector."
-    publishedDateTime: 2024-03-06T22:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-06/india-s-clumsy-ai-decree-could-stifle-innovation"
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
+    publishedDateTime: 2024-03-09T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "India announces $1.2 bln investment in AI projects"
     excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
     publishedDateTime: 2024-03-07T13:50:00Z
@@ -68,6 +59,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "GPU access to power up India’s AI play: experts"
+    excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
+    publishedDateTime: 2024-03-09T02:40:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "W0dIpWwD20CWAom+EL7vyUOcHnZckA7VjupEE2Xtf7pNOuTdPsldut8MR2qJ3+q9vG4fzH6f/ss+BBykDFhJIZ31Aizdqxkfipvk2b+CwdXfsalYqxf1OT0ETEFR7U5XWZqzLYtFh9EkPezXPQ40lndhMs41jI7lqZ0bghvYQWnfu0NEVrHoaweMQt9DG84idSuUSPp77mpbjTiWF61XKiH6sERI0JN9neQN8yikRUAkDBDoOskRMzs0Wo56tTNf5fikAZ+Yb2rT/idIFpmp8FQaUjEbyxieZ1BF4WNoQokx4BtZPQGejmGFU+d3iU1wkRwu0Sf63MWVv+13u4Cz24MFwKkD9voI4sr4U5auIPP4YxtuSiAan8Wvc/GE4bEsRgnk6/VcJ4w1PatMgxqmaKFBxuH1W9EnxWMjLADGnk4fOKvJIHVv62hqiPhcp7DISfmum/N7zur1C+CKzZ512tdsQaarQyVOP4Os1Jg6oY8ApG6plRZ6eZKPAfnYf5sqp5K53OxyHnoNdS0ohXdfHw==;ar1i4dPRi4xZhlslt4zD+A=="
 ---

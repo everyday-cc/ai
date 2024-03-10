@@ -2,49 +2,6 @@
   "page": 111,
   "value": [
     {
-      "path": "_news/2023-12-05-the-7-best-artificial-intelligence-ai-stocks-to-buy-now.md",
-      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy Now",
-      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... AI. Improved ad targeting through AI should help power sales growth across its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/05/the-7-best-artificial-intelligence-ai-stocks-to-bu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T08:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-05-ai-in-health-care-the-perils-of-bidens-executive-order.md",
       "title": "AI in health care: The perils of Biden's executive order",
       "excerpt": "For those committed to health care access and affordability, the regulatory scope of this AI-focused executive order is alarming. Artificial intelligence stands on the cusp of revolutionizing ...",
@@ -1083,6 +1040,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-aws-reinvent-2023-7-takeaways-from-the-big-annual-event.md",
+      "title": "AWS re:Invent 2023: 7 Takeaways from the big annual event",
+      "excerpt": "At the AWS re:Invent conference last week, the spotlight was focused on artificial intelligence, with the new generative AI assistant, Amazon Q, debuting as the star of the show. But there was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.html",
+      "originalUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/10/28/14/aws-logo-100933983-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711385/aws-re-invent-2023-7-takeaways-from-the-big-annual-event.amp.html",
+      "publishedDateTime": "2023-12-04T17:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

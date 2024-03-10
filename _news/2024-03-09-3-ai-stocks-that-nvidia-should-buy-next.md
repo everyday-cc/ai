@@ -72,6 +72,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
+    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
+    publishedDateTime: 2024-03-10T13:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
     excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
     publishedDateTime: 2024-03-06T10:51:00Z

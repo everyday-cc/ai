@@ -2,40 +2,6 @@
   "page": 81,
   "value": [
     {
-      "path": "_news/2024-01-04-crawford-technologies-launches-ai-driven-language-translation-solution.md",
-      "title": "Crawford Technologies launches AI-driven Language Translation Solution",
-      "excerpt": "Crawford Technologies, a leading provider of innovative document solutions that streamline, improve and manage customer communications, announced the",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/press-release/crawford-technologies-launches-ai-driven-language-translation-solution/",
-      "originalUrl": "https://www.cuinsight.com/press-release/crawford-technologies-launches-ai-driven-language-translation-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T19:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CUInsight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-04-how-to-build-a-chatbot-with-the-llama-2-model.md",
       "title": "How to build a chatbot with the Llama 2 model",
       "excerpt": "Open-source large language models like Llama 2 can be used by anyone with basic coding knowledge to build on or modify or just use a copy of the model. Building a chatbot using such a model is a ...",
@@ -1083,6 +1049,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/29/atlassian-heads-into-2024-with-cloud-momentum-and-new-ai-capabilities/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/29/atlassian-heads-into-2024-with-cloud-momentum-and-new-ai-capabilities/amp/",
       "publishedDateTime": "2023-12-29T15:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-the-ai-literacy-act-what-is-it-and-why-should-you-care.md",
+      "title": "The AI Literacy Act - What Is It And Why Should You Care?",
+      "excerpt": "What is AI Literacy? How should you become AI literate? What is the AI Literacy Act? AI Regulations in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/12/29/the-ai-literacy-actwhat-is-it-and-why-should-you-care/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/12/29/the-ai-literacy-actwhat-is-it-and-why-should-you-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644401c376fe70072f23907a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1194,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/12/29/the-ai-literacy-actwhat-is-it-and-why-should-you-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/12/29/the-ai-literacy-actwhat-is-it-and-why-should-you-care/amp/",
+      "publishedDateTime": "2023-12-29T14:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

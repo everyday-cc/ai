@@ -75,22 +75,6 @@ related:
         width: 1600
         height: 897
         isCached: true
-  - title: "Ex-Google engineer charged with stealing AI secrets"
-    excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
-    publishedDateTime: 2024-03-07T01:08:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms"
     excerpt: "Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account"
     publishedDateTime: 2024-03-06T21:40:00Z
@@ -255,15 +239,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Former Google engineer charged with stealing AI trade secrets"
-    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
-    publishedDateTime: 2024-03-07T16:10:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
     excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
     publishedDateTime: 2024-03-07T14:30:00Z

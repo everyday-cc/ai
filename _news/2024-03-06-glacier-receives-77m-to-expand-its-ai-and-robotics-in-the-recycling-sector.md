@@ -132,15 +132,6 @@ related:
         width: 822
         height: 822
         isCached: true
-  - title: "BU's new robotics and AI center is now open"
-    excerpt: "The center aims students from the undergraduate to doctorate levels to be better positioned to enter industry or start their own ventures."
-    publishedDateTime: 2024-03-05T18:17:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2024/03/05/bus-new-robotics-center-opens.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
   - title: "AI Bias In the Spotlight On International Women’s Day"
     excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
     publishedDateTime: 2024-03-08T16:00:00Z

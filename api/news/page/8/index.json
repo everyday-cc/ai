@@ -2,57 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2024-03-01-three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024.md",
-      "title": "Three Custom AI Solutions To Implement To Increase Efficiency In 2024",
-      "excerpt": "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6435b467d9420e08b2b0e670/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
-      "publishedDateTime": "2024-03-01T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-01-the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog.md",
       "title": "The Energy Sector And AI: Unplugging The Interconnection Queue Backlog",
       "excerpt": "The ripple effect of the interconnection queue goes beyond regulatory delays; it directly impacts organizations' access to affordable and sustainable power.",
@@ -692,6 +641,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
+      "title": "Humanoid robot-maker Figure partners with OpenAI",
+      "excerpt": "In a previous video, Musk showcased Optimus folding a shirt, clarifying that the robot was n… ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_1a586ae6-53e6-5455-bd41-af030414cdd5.html",
+      "originalUrl": "https://omaha.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_1a586ae6-53e6-5455-bd41-af030414cdd5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/a5/1a586ae6-53e6-5455-bd41-af030414cdd5/65e103281bff5.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T23:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai.md",
       "title": "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI",
       "excerpt": "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges.",
@@ -793,40 +785,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
-      "title": "Humanoid robot-maker Figure partners with OpenAI",
-      "excerpt": "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding.",
-      "sourceUrl": null,
-      "webUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
-      "originalUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Roanoke Times",
-        "domain": "roanoke.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1205,6 +1163,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
+      "title": "What Not To Do With AI In Your Job Search",
+      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1348,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "publishedDateTime": "2024-02-29T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -65,22 +65,6 @@ related:
         width: 1600
         height: 897
         isCached: true
-  - title: "Ex-Google engineer charged with stealing AI secrets"
-    excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
-    publishedDateTime: 2024-03-07T01:08:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Former Google engineer indicted for stealing AI secrets while secretly running a startup in China"
     excerpt: "Read our ethics statement. WTF?! There's been another case of a tech ... has been indicted by a federal grand jury for pilfering confidential AI tech while secretly working for Chinese AI firms. He even launched a startup in his home country without ..."
     publishedDateTime: 2024-03-07T06:58:00Z
@@ -259,15 +243,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Former Google engineer charged with stealing AI trade secrets"
-    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
-    publishedDateTime: 2024-03-07T16:10:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
     excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
     publishedDateTime: 2024-03-07T18:22:00Z

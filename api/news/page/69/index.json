@@ -2,58 +2,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_news/2024-01-17-the-power-of-google-ai-comes-to-the-new-samsung-galaxy-s24-series.md",
-      "title": "The power of Google AI comes to the new Samsung Galaxy S24 series",
-      "excerpt": "Check out the ways Google and Samsung are collaborating to bring the latest Google AI innovations to Samsung’s flagship smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
-      "originalUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/21424_ANC_Unpacked_blog_post_header_OP13x.width-1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
-      "publishedDateTime": "2024-01-17T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-18-fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about.md",
       "title": "Fowl language: AI is learning to analyze chicken communications to help us understand what all the clucking’s about",
       "excerpt": "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the",
@@ -1137,6 +1085,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
+      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
+      "excerpt": "“This idea that technology, robotics and artificial intelligence is just running ... Meng Wang, co-founder of food tech startup Artly Coffee, one of the more than 4,000 exhibitors at CES this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers/article_a0bc7c76-5958-5eb4-abed-9e9432351b61.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers/article_a0bc7c76-5958-5eb4-abed-9e9432351b61.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/39/f39c544c-7b61-5cc8-b067-fcd779026475/65a19bc78d905.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

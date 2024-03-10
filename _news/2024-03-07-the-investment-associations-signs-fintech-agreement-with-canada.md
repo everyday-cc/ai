@@ -63,15 +63,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Why we're fighting to keep London first for fintech"
-    excerpt: "This will include how the UK can innovate and regulate successfully groundbreaking new technologies such as AI (and we look forward to working in collaboration with the Startup Coalition on their non-fintech focused Unicorn Project). The Unicorn Council's ..."
-    publishedDateTime: 2024-03-05T20:30:00Z
-    webUrl: "https://www.standard.co.uk/business/why-we-re-fighting-to-keep-london-first-for-fintech-b1143072.html?utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 4
   - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
     excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
     publishedDateTime: 2024-03-07T11:47:00Z

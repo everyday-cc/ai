@@ -2,58 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2024-02-26-google-deepmind-ceo-addresses-the-gemini-debacle-and-says-image-generator-could-be-back-in-a-couple-of-weeks.md",
-      "title": "Google DeepMind CEO addresses the Gemini debacle and says image generator could be back in a 'couple of weeks'",
-      "excerpt": "Google DeepMind CEO Demis Hassabis said the company hopes to relaunch its artificial intelligence image generator as soon as the next \"couple of weeks.\" Google paused access to its image generator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2",
-      "originalUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65dcada190413ab8e1d6c58f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2?amp",
-      "publishedDateTime": "2024-02-26T15:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
       "title": "AI Can Power The Green Energy Transition",
       "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
@@ -1168,6 +1116,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-this-ai-powered-robot-dog-looks-like-something-from-the-terminator.md",
+      "title": "This AI-powered robot dog looks like something from The Terminator",
+      "excerpt": "Tecno Mobile has taken to Mobile World Congress 2024 to announce the Tecno Dynamic 1, a robotic and AI-enhanced dog ... alone with the Dynamic 1 and not start to treat it like a real dog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/Dynamic-1-1.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/?amp",
+      "publishedDateTime": "2024-02-26T01:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

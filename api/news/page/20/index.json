@@ -2,49 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2024-02-22-federal-and-state-lawmakers-launch-ai-task-forces-ai-the-washington-report.md",
-      "title": "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
-      "originalUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-22-if-ai-is-the-next-big-thing-why-cant-it-solve-world-hunger-and-stop-wars.md",
       "title": "If AI Is The Next Big Thing, Why Can’t It Solve World Hunger and Stop Wars?",
       "excerpt": "among the concerns is that humans may no longer know exactly how these systems work. Continue the series to learn about the privacy and ethics surrounding AI, and what the technology is capable of.",
@@ -1188,6 +1145,58 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-dividend-investors-can-cash-in-on-ai-with-10-yields.md",
+      "title": "Dividend Investors Can Cash In On AI With 10%+ Yields",
+      "excerpt": "If you’re a dividend investor, you’ve likely taken a look at the big gains folks are reaping on AI stocks … and resigned yourself to missing out on the whole thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "originalUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce2b44ff9348284e5eb8d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brettowens/2024/02/21/dividend-investors-can-cash-in-on-ai-with-10-yields/amp/",
+      "publishedDateTime": "2024-02-21T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

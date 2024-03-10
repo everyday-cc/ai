@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2024-03-03-nvidia-ceo-makes-daring-prediction-that-ai-will-reach-general-intelligence-in-5-years.md",
-      "title": "NVIDIA CEO Makes Daring Prediction that AI will Reach “General Intelligence” in 5 Years",
-      "excerpt": "This confidence stems partly from NVIDIA's leading role in developing the powerful AI chips used in systems like OpenAI's ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "originalUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-02-facial-recognition-tech-is-probably-coming-to-a-lot-more-vending-machines.md",
       "title": "Facial recognition tech is probably coming to a lot more vending machines",
       "excerpt": "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common.",
@@ -1234,6 +1182,57 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024.md",
+      "title": "Three Custom AI Solutions To Implement To Increase Efficiency In 2024",
+      "excerpt": "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6435b467d9420e08b2b0e670/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
+      "publishedDateTime": "2024-03-01T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

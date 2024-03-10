@@ -29,6 +29,17 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "AI could be an extraordinary force for good. So why do our politicians still not have a plan?"
+    excerpt: "Yes, there are risks. But from boosting public services to driving economic growth, the technology could bring myriad benefits, says Guardian columnist Gaby Hinsliff"
+    publishedDateTime: 2024-03-08T16:28:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2024/mar/08/ai-politics-public-services-economy-technology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 6
+
 secured: "eo5ybKqMp+sf/+gIu/OzFc6xSrd9VWKBpkjsumzD/Qeys8Y3r6AFw+YfsMhqlCLpBaO9mgGlQxXBCLHDdL2JuBJX3xKxRl6hp73I+x4VOzh5NGvR811zARpu39zNqxETs0IddOIe1epA0wcHzzEPNSOnM1hQHP9YpVwUeN7iqlBMbO00oArir0l38ahqlJP/Of46+9IxOmXgErScGirMRl4YPLTmpAsvLQ9dHxntqP8CfAt56c76oZTqqH45G3N+s+TCiG9BoRwBX/Za9oo/owNNfQl6eOpcXtRwl6cgCwcwmY+Cq7UvKi+d1c5sTXlNbse7p3bQMok3c3fCbwwWlis8ljjQT3oeKtRxUHdiNxnI4hU/4fkJBMpuwlbc16RSkbx3LJgmvSuPW4R0Z5O2Z2QNMJqw/Y3IZNU/DVZK0ChFGnZNJKdZlEXKPus9EJUVuW+xXVotUIJCi0UU7OFe+vDFBBVrUUKNbleZNStY2Mz+Nl3rlNoX25pN0dRPh18047GqSmQS/z+OnBqIk5EL1A==;CcFZ+KbwwvsVHe0hruhMOw=="
 ---
 

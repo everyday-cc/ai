@@ -2,58 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2024-02-17-openai-completes-deal-that-values-the-company-at-80-billion.md",
-      "title": "OpenAI Completes Deal That Values the Company at $80 Billion",
-      "excerpt": "OpenAI has completed a deal that values the San Francisco artificial intelligence company at $80 billion or more, nearly tripling its valuation in less than 10 months, according to three people with knowledge of the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/16ai-tender-twmv/16ai-tender-twmv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-17-what-using-security-to-regulate-ai-chips-could-look-like.md",
       "title": "What Using Security to Regulate AI Chips Could Look Like",
       "excerpt": "An exploratory research proposal is recommending regulation of AI chips and stronger governance measures to keep up with the rapid technical innovations in artificial intelligence.",
@@ -1234,6 +1182,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024.md",
+      "title": "Into The Looking Glass: Cloud And Video Surveillance Technology In 2024",
+      "excerpt": "The convergence of advancements in cloud and video surveillance technology with broader AI trends heralds an era of substantial change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee374dcd8bc730007cc72a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/into-the-looking-glass-cloud-and-video-surveillance-technology-in-2024/amp/",
+      "publishedDateTime": "2024-02-16T10:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

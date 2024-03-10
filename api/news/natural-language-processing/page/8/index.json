@@ -2,40 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-11-28-up-assembly-to-introduce-speech-recognition-software.md",
-      "title": "UP Assembly to introduce speech recognition software",
-      "excerpt": "The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259",
-      "originalUrl": "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T03:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-28-antifake-ai-tech-could-keep-your-voice-from-being-deepfaked.md",
       "title": "AntiFake AI tech could keep your voice from being deepfaked",
       "excerpt": "Additionally, replicated voices could be used to bypass voice-recognition security systems. While there are already technologies designed to determine if supposedly legitimate voices are deepfakes, AntiFake is reportedly one of the very first systems to ...",

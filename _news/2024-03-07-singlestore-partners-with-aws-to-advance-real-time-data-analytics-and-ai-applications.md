@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/singlestore-partners-with-aw
 webUrl: "https://www.datanami.com/this-just-in/singlestore-partners-with-aws-to-advance-real-time-data-analytics-and-ai-applications/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -19,15 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "SingleStore Accelerates Go-to-Market Strategy with AWS"
-    excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, today announced it signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate their go-to-market approach."
-    publishedDateTime: 2024-03-05T18:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/05/9973306.htm"
+  - title: "Sports analytics may be outnumbered when it comes to AI"
+    excerpt: "The gathering at the MIT conference had a decidedly AI focus, with panels and working papers on the potential for generative AI to transform sports."
+    publishedDateTime: 2024-03-07T20:23:00Z
+    webUrl: "https://www.seattletimes.com/business/sports-analytics-may-be-outnumbered-when-it-comes-to-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "UMass Memorial Health Partners with Google Cloud to Improve Healthcare with Predictive Analytics for Advanced Cardiometabolic Therapies"
+    excerpt: "UMass Memorial Health, a leading healthcare system committed to delivering world-class patient care and innovation, today announced it is working with Google Cloud to leverage artificial intelligence (AI),"
+    publishedDateTime: 2024-03-06T18:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974184.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 7
     images:
       - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200

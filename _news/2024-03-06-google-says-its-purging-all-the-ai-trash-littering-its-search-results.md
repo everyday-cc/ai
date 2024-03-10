@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/google-search-updates-downrank-seo-ai-generate
 webUrl: "https://gizmodo.com/google-search-updates-downrank-seo-ai-generated-content-1851309904"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Gizmodo
@@ -28,20 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Google now wants to limit the AI-powered search spam it helped create"
-    excerpt: "Google's post describes a \"March 2024 core update\" to the ranking algorithms that it says will show fewer results that \"are unhelpful, have a poor user experience or feel like they were created for search engines instead of people."
-    publishedDateTime: 2024-03-05T21:40:00Z
-    webUrl: "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/"
+  - title: "Ex-Google engineer charged with stealing AI secrets"
+    excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
+    publishedDateTime: 2024-03-07T01:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Former Google engineer charged with stealing AI trade secrets"
+    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
+    publishedDateTime: 2024-03-07T16:10:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "PBYA60dQZarLbZnfp9fE5idq35I3jXe3bsiCxP/nGqVAPfK02/aoPc2C9yVzGaeaGlVfh1ToNxrpDUSpoF3fXiRVdJhoF74D1trhkthKXWKDP7zUgYX5DGbF0tiRWs/52tco8MRUNvo+5Gm8cBVPrSAXyJ4gF+VAcEiDHH+6Q9bO3VrUL5lcxx6yGLArOu5A8uMCUY2qT09MkoB4NHel8llT1MftzvfjegXO4MoZCZXWA6XzzjYAGR/GoZmnmiwkp5P5IPfM2nmoKCbMPe3qQgvMcGUNPpzJzV3o+A8XACeh3hWuVGEvCwQhSBgYN6Sh90mpCEo3zNs78QcTUK5r1FK/XRxJMaZMkMeLvSq9ptQ=;fQlY2WF5RiA+jR3pQjeUEA=="
 ---

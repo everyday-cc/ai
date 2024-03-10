@@ -24,6 +24,17 @@ images:
     height: 700
     isCached: true
 
+related:
+  - title: "Under new management, and under the cloud of the Change hack, HIMSS24 kicks off in Orlando next week"
+    excerpt: "As conversations around artificial intelligence in healthcare ramp up, AI-focused sessions are a key part of the educational program at HIMSS24 with keynote presentations focused on operational ..."
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/health-tech/six-months-after-informa-markets-deal-refreshed-himss-conference-kicks-orlando"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 0
+
 secured: "f+TE+KxmlsFt9Gft+PkqAMdwbhiB+YkbDcSxeATlSmJ79Q1DDobYwRHvd+/TIOqNbH7CGRUzZQvuFmGDrEepfcEXClwNx+CtPyiqIRw+suctZlHNZyRcL/GXvet08On4/InT+txMt7kn/QoVkd3/Hbr13ZUNpQCL9aK6VtapNWhvo1FDMp+cbeEzGfYnT0QatWDef7HTqgjIFyzTfMnlcFzakYhdeOxrBQEqi1nKxtrr4Zy3nmTvEMuOhUWaduzhIANsYcQFDTPCZMujqwh/nWS9j1EGt1+8Kpi0ePaOdb0nZFw6gyxlSsEdk7cojXVS3qObu8gs8C4940IEOmmITcYAyzByX5+ocIjDBXHdOFuMUJxsLVJsJzIFVox9BPCEdgftbWGExx1c5ep4QnW4TpVATAhyWXk5QC4ecuaFefkmeVwxRnueG9e7JJLhhnVryMp4dNxqKLqUH7XkGfjfOIPUar8auPSGlUP239406O5Pdw6P3O8ac8CHwG77gE14Qzi2k2UmLRLbpWWQaSA0tA==;oRoIi7sMTwysLXafs0MeYA=="
 ---
 

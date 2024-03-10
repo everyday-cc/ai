@@ -2,50 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2024-02-23-ai-chip-sales-are-driving-stock-markets-to-new-records.md",
-      "title": "AI chip sales are driving stock markets to new records",
-      "excerpt": "Nvidia's unprecedented leap in revenue from higher chip sales for AI and cloud use speaks volumes about the future of the technology and its impact on the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
-      "originalUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_2154798885-100961547-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.amp.html",
-      "publishedDateTime": "2024-02-23T13:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2024-02-23-the-ai-seo-tango-when-robots-write-like-hemingway.md",
       "title": "The AI-SEO Tango: When Robots Write Like Hemingway",
       "excerpt": "As artificial intelligence (AI) reshapes content creation, its capacity to mimic human writing accelerates, transforming what once seemed like science fiction into reality. Yet, this technological leap prompts a critical inquiry: What are the bounds of AI ...",
@@ -1175,6 +1131,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-kawasaki-robotics-partners-with-olis-robotics-to-offer-remote-monitoring-and-control-of-its-industrial-robots-robotics-automation-news.md",
+      "title": "Kawasaki Robotics Partners With Olis Robotics To Offer Remote Monitoring And Control Of Its Industrial Robots Robotics & Automation News",
+      "excerpt": "(MENAFN- Robotics & Automation News) Olis Robotics , a provider of remote error recovery systems for industrial robots, has agreed a new partnership with Kawasaki ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
+      "originalUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2024-02/22/R&AN_50b7eimage_story.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T23:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

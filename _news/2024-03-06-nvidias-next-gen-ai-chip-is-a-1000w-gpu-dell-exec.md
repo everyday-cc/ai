@@ -60,6 +60,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
+    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
+    publishedDateTime: 2024-03-10T13:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 AI Stocks That Nvidia Should Buy Next"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
     publishedDateTime: 2024-03-08T20:37:00Z

@@ -2,58 +2,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2024-02-15-equity-bret-taylor-has-a-brand-new-ai-startup.md",
-      "title": "Equity: Bret Taylor has a brand new AI startup",
-      "excerpt": "The AI agent space is busy, but Sierra has already raised $110 ... and it’s working on payments in Latin America. So this is a big FinTech round in a region that was once absolutely bonkers for FinTech and given the venture pullback we’ve seen in ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
-      "originalUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
-      "publishedDateTime": "2024-02-14T16:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-15-slack-rolls-out-generative-ai-search-and-summarization.md",
       "title": "Slack Rolls Out Generative AI Search and Summarization",
       "excerpt": "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance.",
@@ -1169,6 +1117,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-ai-girlfriends-are-a-privacy-nightmare.md",
+      "title": "‘AI Girlfriends’ Are a Privacy Nightmare",
+      "excerpt": "Romantic chatbots collect huge amounts of data, provide vague information about how they use it, use weak password protections, and aren’t transparent, new research from Mozilla says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
+      "originalUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/191:100/w_1280,c_limit/security_ai_girlfriends_privacy_data.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
       ]
     }
   ],

@@ -2,58 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2024-01-31-ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age.md",
-      "title": "AI Empathy: Emotional AI Is Redefining Interactions In The Digital Age",
-      "excerpt": "These advanced tools are not just software interfaces; they are bridges to understanding human emotions and behaviours in a manner that was once the realm of science",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
-      "originalUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b93dd0bcecf3a77f4d00ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
-      "publishedDateTime": "2024-01-30T18:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-31-microsoft-earnings-what-to-expect-from-azure-office-and-ai.md",
       "title": "Microsoft earnings: What to expect from Azure, Office and AI",
       "excerpt": "AI is an engine for Microsoft’s MSFT, -0.28% Azure cloud-computing business, and analysts expect that business to have grown at a 27% rate on a constant-currency basis during the latest quarter.",
@@ -1195,6 +1143,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-utilizing-active-microparticles-for-artificial-intelligence.md",
+      "title": "Utilizing Active Microparticles for Artificial Intelligence",
+      "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists at Leipzig University have now created a type of neural network that works not with electricity but with so-called active ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/genomics/news/utilizing-active-microparticles-for-artificial-intelligence-383249",
+      "originalUrl": "https://www.technologynetworks.com/genomics/news/utilizing-active-microparticles-for-artificial-intelligence-383249",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/383249/utilizing-active-microparticles-for-artificial-intelligence-383249-640x360.jpg?cb=20240130",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

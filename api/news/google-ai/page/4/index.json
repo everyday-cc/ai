@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-20-google-deepmind-scientists-said-to-be-in-talks-to-leave-and-form-ai-startup.md",
-      "title": "Google DeepMind Scientists Said to Be in Talks to Leave and Form AI Startup",
-      "excerpt": "DeepMind scientists have held discussions with potential investors about a financing round that may exceed EUR 200 million (roughly Rs. 1,800 crore).",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836",
-      "originalUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/google_deutsche_bank_cloud_deal_reuters_1594109955741.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp",
-      "publishedDateTime": "2024-01-20T14:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-20-two-google-deepmind-scientists-may-leave-company-to-form-ai-startup.md",
       "title": "Two Google DeepMind scientists may leave company to form AI startup",
       "excerpt": "Two scientists affiliated with Google DeepMind are reportedly in talks to establish an AI startup in Paris. The proposed venture aims to develop a new AI model. Learn more about this significant development in the AI landscape.",
@@ -1411,6 +1368,49 @@
         "Google AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-6-features-that-could-come-to-google-bard-in-2024.md",
+      "title": "6 Features That Could Come To Google Bard in 2024",
+      "excerpt": "After a slow start, Google Bard is catching up to its AI competitors such as OpenAI’s Chat GPT and 2024 will see the addition of a host of new features to the search giant’s AI product, although it’s not certain which of these features will make it out of development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "originalUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.talkandroid.com/wp-content/uploads/2024/01/Google-Bard.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "talkandroid.com",
+        "domain": "talkandroid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

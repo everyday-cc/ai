@@ -3,14 +3,12 @@ category: news
 title: "GPU access to power up India’s AI play: experts"
 excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
 publishedDateTime: 2024-03-09T02:40:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
 type: article
-quality: 74
-heat: 114
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "India to build a 10,000 GPU supercomputer for self-sufficient AI development"
@@ -36,15 +28,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India’s AI Regulators Need Scalpels, Not Hammers"
-    excerpt: "A vague decree has revived fears that government overreach will stifle innovation in the country’s booming tech sector."
-    publishedDateTime: 2024-03-06T22:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-06/india-s-clumsy-ai-decree-could-stifle-innovation"
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
+    publishedDateTime: 2024-03-09T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "India announces $1.2 bln investment in AI projects"
     excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
     publishedDateTime: 2024-03-07T13:50:00Z
@@ -69,6 +68,6 @@ related:
         height: 250
         isCached: true
 
-secured: "1IaWlkc0PlB4HnPIytCuThEbkq1FksaKrxwP7/j7RI9Ns7NhX28I63kEWFZV1PimhwmnZDFhEYPhgxgCu+7pLYlMeWgvBtd/Elsue15L0sW1kvOlJMz4I0KmqpexEI4jKrrjWHxg5ihyhtR2udrbVC5aAryWssp891mLvScRsd7PUKqaYASClIDxbhBOHxwLTcTPq2QdIini18R3HCp5poJ30oQBwtRXw3pliZ6jGTMVaR2yZDumwRoHgGRdm9wTSSvTASjiIvVt7hve3z8c3XeFowG8tIjBpnP8F+v9o9isJSvrasQviQ1Ce8NqDEuMMlt+DHnmzEteWnQ61CUOzViOsTM3upx6t+GTeqXYXFdlq/kB8qZYbgeiql5fR130oB7vBP719Y5tzburmfH5XjDNdJvYtjFwHXti004G7cA4bXa2DNPCnxCiBVwTHoOhFTIxA9cA+7/mn1H/i/vy92/BHuD9kXsLshN8Q42J/QMzMFOQ2euP6ZgDVTiMWg3yE5fHvlg7Ms4d3MhokFUMKA==;dWqdegADYBujSIi5EBQrcA=="
+secured: "Sp6LYvJcWygt7TTQ0kyAaE2MCrQbZLlphaoeo6SF47Smn8WNFd5Z/GntydYu/y9YJzdwRVgkwcFHkmY89wSr/THM8uJZEzojEBYXNofx5izdNRKJVxz8qXl+gFou1oSGy6g0MMeiNcg5NeuEXVBbi6wklXMGb1bgZwTqFitOs/Len9yb/CKAB9odkfh7lOMcE9NSTOZ6aIjM88JFDg3h/4wAeL9EVTW3ZS8ql5P13J9vHfxCNwyke8I9a4iWDDpgVmin2fE9i4K0wnSlSLGkGReemCuTkfYhar2TITCmR72LrpjB3DVe2UaqrT2j37vg5gFrwZrCyvRl1j+PIItbzZ4u4YoW+jFEIZUS0jXRNJ2K0qlIraX/GjNWc0C4pV0//qGgsvS+BHjuBOeOJO6unXvCNkPpkHpl/mn5tsjwS77QoTEAOKSTcMHo4q9HJ8AmQ/8bV7GiHPkuPplTLyUUP+Rc8LGmkOyfOVYk5lUsYIAbbII0WWsIWjEqGk9o+gX0RTUDg6NY69xHMUu7/uKG8g==;0xqBkjECLyduP187HndJiw=="
 ---
 

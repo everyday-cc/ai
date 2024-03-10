@@ -7,7 +7,7 @@ originalUrl: "https://coloradosun.com/2024/03/06/colorado-ai-regulations-nationa
 webUrl: "https://coloradosun.com/2024/03/06/colorado-ai-regulations-national-conversation/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "AI pervades everyday life with almost no oversight. States scramble to catch up"
-    excerpt: "\"AI does in fact affect every part of your life whether you know it or not,\" said Suresh Venkatasubramanian, a Brown University professor who co-authored the White House's Blueprint for an AI Bill of Rights."
-    publishedDateTime: 2024-03-05T21:18:00Z
-    webUrl: "https://sentinelcolorado.com/uncategorized/ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 35
-    images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2024/03/AP24064511586694.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "53SWzuXdARqld9ayFJn+anRLrAEP4pA+IZovVHtCv0xObRXI4FUqVWl8iX78ftcZueNpCM6dBhx4tZjYrTNBtP7HFji+m8LSbDC3cDot/bQZMPwWXeutA25U3VOb0cbLL/3s8s+/BH7ANRcAmWzSH7yJGOW3alxLYWIBuykiqRLsahRhLPUCu/JJwe4YYmIrS/OolF5W28VY7xswiThbabuCh+HJcDAuluFWbcOu14xJifxjUS113uSRggYbsK4U6yYa+cru4yIq/agvK4jh+aw7tfu4xwenttxuzvcFCAJXqtl2DWqUudQDDI1+rZuP5uIaxtuDv/WteEs/P7PEUq1ZJX86xOMJ+DbOtnCIuqU=;9wMtpr6BTZZ5xxvI+vs4Kw=="
 ---

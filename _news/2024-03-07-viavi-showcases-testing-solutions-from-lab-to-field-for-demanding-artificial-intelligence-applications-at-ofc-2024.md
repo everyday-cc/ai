@@ -62,15 +62,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Why we're fighting to keep London first for fintech"
-    excerpt: "This will include how the UK can innovate and regulate successfully groundbreaking new technologies such as AI (and we look forward to working in collaboration with the Startup Coalition on their non-fintech focused Unicorn Project). The Unicorn Council's ..."
-    publishedDateTime: 2024-03-05T20:30:00Z
-    webUrl: "https://www.standard.co.uk/business/why-we-re-fighting-to-keep-london-first-for-fintech-b1143072.html?utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777&utm_clickid=272574777"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 4
   - title: "The Investment Associations signs fintech agreement with Canada"
     excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."
     publishedDateTime: 2024-03-07T14:15:00Z

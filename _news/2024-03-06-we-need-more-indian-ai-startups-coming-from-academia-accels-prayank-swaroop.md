@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2850363-we-need-more
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2850363-we-need-more-indian-ai-startups-coming-from-academia-accels-prayank-swaroop?amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "Use of Indian languages key for increasing internet access in India: Report"
+    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
+    publishedDateTime: 2024-03-10T13:23:00Z
+    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 2
 
 secured: "WyDmNk84qHxOaAI7H0qPXNOzMV4Pz913266xhfPcW/XwVgo8IhCnu9O3aX/RirJRKhqX9Ws++R4fP26fsbwnpad/KoTyl9gTTRjqubdqeJUq80PadV/LGe+jFanBhVL8ZhkLldBBWAQb48hSrp8JsfX7omfwVgGOM2LU1vowPHDDc3w0V755rpSLJDew1TIVghwSNfOAZV6rcwmIeOqqlhJSvrbEsUOtDnJRs6/0TZFl9lVCygXu5FDWUPVNrvGZDSBX3lzUeTJwBAWpWYwLV+v3/C34/gAZXIpXUlEY2GiwBFm01m5gfdp7tstVQrzSrhB2Jueo8oDMLEBEb5jdTr5CbA2oJTpTby5qWJKOQ9Q=;VrOHDAI9FI079/2PpBxytg=="
 ---

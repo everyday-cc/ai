@@ -25,47 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven evolution of low-code software development in India"
-    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
-    publishedDateTime: 2024-03-09T10:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+  - title: "How Will AI Impact Social Media Content Creators?"
+    excerpt: "This article delves into the ways AI is reshaping the role of a content creator, detailing its influence on various aspects of production."
+    publishedDateTime: 2024-03-10T13:27:00Z
+    webUrl: "https://www.forbes.com/sites/ianshepherd/2024/03/10/how-will-ai-impact-social-media-content-creators/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Inflexion point’: AI meme wars hit India election, test social platforms"
-    excerpt: "(Some clips were cross-posted on YouTube and Facebook, as well.) Meta’s current rules require ... “We have run the two samples through several proprietary state-of-the-art research AI-voice detection algorithms [and found that] the voice sample is ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.aljazeera.com/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms?traffic_"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 58
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24067397198855-1709872280.jpg?resize=1920%2C1440"
-        width: 1920
-        height: 1440
-        isCached: true
-  - title: "Use of Indian languages key for increasing internet access in India: Report"
-    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
-    publishedDateTime: 2024-03-10T13:23:00Z
-    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 2
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "AW0DbHbe3ocztR+ZP/ST0C1gcU5bLkdvrxHOdFGB2MAIbC+xWC8J/0hy9/voJdAj6q3Ey8OOZbCcW+Id3UKcJj4n+EiTqXZ+u5qxlx9raqfJHizwg79BAQ3O6d9pHrmCR7zTO8ke3m9Mj7KhEVrGWVq5TkjU3xSgzA59Lhj2eUfBElJ2mOWtzsenqvo8owk2xB0vPy9jaCB999vwKCTrGiH6iDKkOHLNjFamYk+yRPcqcgr73RrA5+aYFbmbgjkQAm6gTsQ+eX/r7uYSwM9/MC1yQOAre4k2ZJ7C0tp4tUfIl2kIKOQt9CONvXY77UUYH0CwLv+lddQxF5aWxV1+phJgIAcBacgQvhKqAid21WE=;+DtQ/UwGtTpQ+Gmnbl4Srg=="
 ---

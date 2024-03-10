@@ -2,57 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2024-02-20-taylor-swift-the-pope-putin-in-the-age-of-ai-and-deepfakes-who-do-you-trust.md",
-      "title": "Taylor Swift, the pope, Putin: in the age of AI and deepfakes, who do you trust?",
-      "excerpt": "Rumours and gossip changed the course of French history. Now they’re weapons for ‘newsfluencers’ and dictators in the 21st-century information wars, says Guardian Europe columnist Alexander Hurst",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/00c7a3193fea3250fe6c30f206c7be0f31629e09/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=cf0b54c2ff3c77c1833ce44629b652a8",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2024/feb/20/ai-deepfakes-taylor-swift-pope-vladimir-putin",
-      "publishedDateTime": "2024-02-20T11:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-20-the-data-differentiator-unlocking-the-power-of-unstructured-data-to-fuel-ai.md",
       "title": "The Data Differentiator: Unlocking The Power Of Unstructured Data To Fuel AI",
       "excerpt": "In the rapidly evolving digital era, unstructured data has become a key player in businesses’ digital transformation journeys. Encompassing a vast array of information forms (from videos and audio clips to images and text),",
@@ -1219,6 +1168,49 @@
         "IBM AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-softbanks-son-reportedly-seeks-100b-for-ai-chip-venture.md",
+      "title": "Softbank’s Son reportedly seeks $100B for AI chip venture",
+      "excerpt": "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "originalUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp",
+      "publishedDateTime": "2024-02-19T16:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

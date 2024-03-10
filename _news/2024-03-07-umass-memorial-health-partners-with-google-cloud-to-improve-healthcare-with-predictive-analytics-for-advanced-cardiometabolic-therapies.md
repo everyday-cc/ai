@@ -25,15 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "UMass Memorial, Google Cloud working on AI tool to find candidates for cardiometabolic drugs"
-    excerpt: "UMass Memorial Health and Google Cloud will use artificial intelligence to find the best treatments for patients with heart disease."
-    publishedDateTime: 2024-03-07T18:24:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2024/03/07/umass-memorial-google-cloud-partner-on-new-tool.html"
+  - title: "SingleStore Partners with AWS to Advance Real-Time Data Analytics and AI Applications"
+    excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, announced it"
+    publishedDateTime: 2024-03-07T14:32:00Z
+    webUrl: "https://www.datanami.com/this-just-in/singlestore-partners-with-aws-to-advance-real-time-data-analytics-and-ai-applications/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
+      name: datanami.com
+      domain: datanami.com
+    quality: 27
+  - title: "Sports analytics may be outnumbered when it comes to AI"
+    excerpt: "The gathering at the MIT conference had a decidedly AI focus, with panels and working papers on the potential for generative AI to transform sports."
+    publishedDateTime: 2024-03-07T20:23:00Z
+    webUrl: "https://www.seattletimes.com/business/sports-analytics-may-be-outnumbered-when-it-comes-to-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "cu1HRYekVBbZ05fHRxaRSaf+MusxDMkmEbKQ+pjV08+5wGpIQDeADLcGQNlPU4mwGWa77USAIieFORk9RlsFWFlGkH5I6ZvGm475hAsR1TVd5ilDnsMaMlChFkUfbTpWhorkIP+9NYDgh4bt0pSYwk6Vx/Hjc+Kuh32IHMI0c0wo2fMAZQLPwz0n5HW+BAb9tETb5kOoUEEj8pQ3BIXf2vzQG8qyOe7d/Ay3SgJNR45Ob9Ae7fuEQhDhfh8B4FPXrgXt9/CNYHN6eUXIjvtDJYZx160sRwLn6lgyIQ1cMxvO+rUJBp4EwIBCe7kOmanMwJlzcWfBgbeClpjLX83Prd4wVvwN8NGFhHtykumqqYs=;fOVPFMM3kzSvA5Ti2bF8rA=="
 ---
