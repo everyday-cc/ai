@@ -39,20 +39,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Self-driving robots begin deliveries in Tokyo"
-    excerpt: "Tokyo, Japan: \"Caution: robot!\" chirps the green self-driving delivery vehicle as it trundles down the street to a restaurant in Tokyo to pick up a meal ordered on Uber Eats. Starting Wednesday, robot deliveries will be offered in a small area of the ..."
-    publishedDateTime: 2024-03-05T10:28:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/05/03/2024/self-driving-robots-begin-deliveries-in-tokyo"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20240305_1709634377-974.jpeg?1709634377"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Uber Eats Japan begins deliveries with self-driving robots"
     excerpt: "The company has rolled out the service in Tokyo's Nihonbashi area and plans to introduce it in other places as well."
     publishedDateTime: 2024-03-06T06:51:00Z

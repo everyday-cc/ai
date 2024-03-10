@@ -83,22 +83,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How generative AI is changing Infosys from within"
-    excerpt: "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ..."
-    publishedDateTime: 2024-03-05T09:43:00Z
-    webUrl: "https://www.forbesindia.com/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
-    images:
-      - url: "https://www.forbesindia.com/media/images/2024/Mar/img_229855_mohammedrafeetarafdar.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "AWS Unveils Generative AI Competency for Customers"
     excerpt: "The program is designed to facilitate customer innovation with enterprise-grade security, privacy, foundation models, and high-performance, low-cost infrastructure."
     publishedDateTime: 2024-03-07T12:11:00Z

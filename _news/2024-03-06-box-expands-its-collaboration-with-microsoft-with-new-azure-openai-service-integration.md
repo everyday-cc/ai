@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s new Orca-Math AI outperforms models 10x larger"
-    excerpt: "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ..."
-    publishedDateTime: 2024-03-05T10:53:00Z
-    webUrl: "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all"
-        width: 749
-        height: 420
-        isCached: true
   - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
     excerpt: "TORONTO, March 07, 2024 (GLOBE NEWSWIRE) -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in ..."
     publishedDateTime: 2024-03-07T08:30:00Z
@@ -64,6 +50,17 @@ related:
         width: 3603
         height: 2402
         isCached: true
+  - title: "A Microsoft employee warns that the company’s AI tool can generate ‘offensive images’"
+    excerpt: "A Microsoft software engineer on Wednesday warned of shortcomings in the company’s artificial intelligence systems that could lead to the creation of harmful images in a letter sent to the US Federal Trade Commission."
+    publishedDateTime: 2024-03-06T16:45:00Z
+    webUrl: "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 77
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -75,6 +72,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 69
+  - title: "Copilot dreams and nightmares: Microsoft insiders share what they really think about the company's AI future."
+    excerpt: "Wall Street is gushing about an AI productivity revolution. Inside Microsoft, the reality is less glamorous and the path to success less clear."
+    publishedDateTime: 2024-03-06T09:30:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-ai-copilot-future-openai-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/65e63040ce7f1785b2e61cce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
     excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
     publishedDateTime: 2024-03-07T14:43:00Z
@@ -95,6 +106,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 66
+  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
+    excerpt: "announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization. The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the ..."
+    publishedDateTime: 2024-03-07T16:32:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/QUIS-X/pressreleases/24624555/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 62
   - title: "Box AI integrates with Microsoft’s Azure OpenAI Service as it becomes generally available"
     excerpt: "Cloud content management company Box Inc. is adding yet more artificial intelligence capabilities to its platform, integrating its Box AI offering Microsoft Corp.’s Azure OpenAI Service. Announced today, the integration will enable OpenAI’s most ..."
     publishedDateTime: 2024-03-05T21:05:00Z
@@ -172,20 +192,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 44
-  - title: "Epiq Service Cloud Integrates With Microsoft's Gen AI Platform to Launch New Service Categories"
-    excerpt: "On Tuesday, alternate legal service provider Epiq announced the expansion of its Epiq Service Cloud with three new categories of services it has been building out over the past year: professional services, Azure OpenAI Solutions and Azure OpenAI Platform."
-    publishedDateTime: 2024-03-07T04:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/03/05/epiq-service-cloud-integrates-with-microsofts-ai-suite-to-launch-three-ai-pillars/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 42
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/12/Epiq_Logo_Update-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Cognizant and Microsoft Collaborate to Power the Future of Healthcare Administration with Generative AI"
     excerpt: "The TriZetto platform, powered by Azure OpenAI Service, will help payers and providers reduce hidden costs and enable better patient outcomes for millions of Americans. TEANECK, N.J., March 6, 2024"
     publishedDateTime: 2024-03-06T16:23:00Z
@@ -204,6 +210,20 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
+  - title: "Veeam To Jointly Develop AI Solutions With Microsoft For Industry's #1 Data Protection And Ransomware Recovery Platform"
+    excerpt: "Veeam to co-sell newly announced Veeam Data Cloud for Microsoft Azure and for Microsoft 365 with Microsoft which builds on the world's #1 data protec"
+    publishedDateTime: 2024-03-07T21:03:00Z
+    webUrl: "https://menafn.com/1107950423/Veeam-To-Jointly-Develop-AI-Solutions-With-Microsoft-For-Industrys-1-Data-Protection-And-Ransomware-Recovery-Platform"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/07/M_c9955image_story.jpg"
+        width: 1328
+        height: 927
+        isCached: true
   - title: "Watchdog Group Says OpenAI and Microsoft AI Tools Can Create Election Misinformation"
     excerpt: "The Center for Countering Digital Hate made fake images using ChatGPT Plus, Microsoft's Image Creator, Midjourney, and Stability AI's DreamStudio it says could influence voting choices."
     publishedDateTime: 2024-03-06T16:45:00Z
@@ -213,6 +233,24 @@ related:
       name: Inc
       domain: inc.com
     quality: 27
+  - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
+    excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
+    publishedDateTime: 2024-03-07T16:17:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/veeam-announces-strategic-partnership-microsoft-integrate-copilot-ai-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
+  - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
+    excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
+    publishedDateTime: 2024-03-06T13:00:00Z
+    webUrl: "https://www.fiercewireless.com/sponsored/amdocs-expands-strategic-partnership-microsoft-driving-generative-ai-innovation-across"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 7
 
 secured: "kVpsD5ArE+X4gu1paH/bAor6fKDFo6mpH8iQICWt5ELVNOkZnvQJgUnhnmNpxqSjqXI+azf5QshskyzhihiknbgsAft7GWip5ZuO5gjnJCXIcgZJAPdnGki3A/EXYXeCdl3rjHrojCuZvz3Eo46Ajso8HPQBxptKRh8Ebo/h52F7BOhkeb6zJBO5+6gjX//ocxS7K0vrdHXHqhUeiiLDZamIuX+6OdxdSqiKigseHyfjmR8w1mdaHhiU3Zo97w2MrXVTSSXYiOACp7dkdBtSQAYiqky1RV8GXH9KjEZlGq1c/x4XkPPvTkdzLIXKAgVMHmlv12HI6s7O9FzWMeoQ9wBvRvzxtSrX5OHdmar55r4=;KKTy9N/LaglXa3mSMBJ9tg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-i
 webUrl: "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -35,6 +35,22 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e5dc201ac5262af8449269/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1489
+        height: 900
+        isCached: true
+  - title: "Is Using Browbeating Or Bullying Prompts In Generative AI A Worthy Prompt Engineering Technique Or Just A Bunch Of Hot Air"
+    excerpt: "Do prompts that browbeat or bully generative AI produce better results? This is a topic of heated debate in the field of prompt engineering. Here's the details."
+    publishedDateTime: 2024-03-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ed25c4b5d0c50dfbcaf3e6/0x0.jpg?format=jpg&crop=3180,2382,x114,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1202
         height: 900
         isCached: true
 

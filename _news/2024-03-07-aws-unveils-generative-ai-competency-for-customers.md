@@ -94,22 +94,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How generative AI is changing Infosys from within"
-    excerpt: "In shaping Infosys' AI strategy, our primary focus is on reimagining ... especially for global operations requiring translation into various languages. Our clients derive value from applying these technologies in nine business areas: Customer service ..."
-    publishedDateTime: 2024-03-05T09:43:00Z
-    webUrl: "https://www.forbesindia.com/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/leadership/how-generative-ai-is-changing-infosys-from-within/91845/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
-    images:
-      - url: "https://www.forbesindia.com/media/images/2024/Mar/img_229855_mohammedrafeetarafdar.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "NwkW67FRuzX/nY5uUpY+fLntAlliNlMk/He0IQcjWWn9Qskfw8jD5ZOeVY2hMBbCIzgxWalc+t9EGD+jrgCA2F+BBuI2ArgAFRI59FzGqHL/xadR5KK7tqJeieJdht7QqBGofe5ZTHSQbEKn9WtHS2/UtIoDUy1dBzNGzfmctvK8I+S2R3m5XjZIUySr/WClvhOYtxPS6T1E+GXoogCj8oIvoqucpkfGD5ukD5CeNUp+PJbId7dyfbWxmvxGLTYewjigelLUEYeQv4YMAHRtcWanwzO1E8dtHiExaKwqJdddPjSvXtIuqnYJj4d3PhxQ0FykBU5zwnHHXmdFLuUYxnYT87Wie0Crfpg/DDNFpi7zfZGkyj9ko2SosHIPEyMNc6uSRVyzwFJDRmb4B3fzu/LIRTgWS+q3IUA4bdc2NmfGOOSzVh4L8RtQQ9D2Td+iry6ljJGuErggpvWisG3i/PmmGtVncsjDPIjIWCl+DRKoNJS10GtN0TIb1RRTC+ksoEFZ3yH4HZEKKJl9kxEsig==;qNSGwYG4WXR8ZnVPB/VZQQ=="
 ---

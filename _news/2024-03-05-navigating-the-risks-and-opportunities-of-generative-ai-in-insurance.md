@@ -37,6 +37,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Is Using Browbeating Or Bullying Prompts In Generative AI A Worthy Prompt Engineering Technique Or Just A Bunch Of Hot Air"
+    excerpt: "Do prompts that browbeat or bully generative AI produce better results? This is a topic of heated debate in the field of prompt engineering. Here's the details."
+    publishedDateTime: 2024-03-10T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ed25c4b5d0c50dfbcaf3e6/0x0.jpg?format=jpg&crop=3180,2382,x114,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1202
+        height: 900
+        isCached: true
 
 secured: "TfMT2v9SOV9uFqs7gnE3fViiA7CQ435zaUslSc0ID2vpjm1CnsP399k/r+jJFTkh7UtqS9DXawr/yy68AfU4tbK8uIT730nEoVJlPwxcHixlXIKBrqY8ai3Y0wrvwl/g0dkNwJilp1fH2g1JfsIRRD9ABEE/RNmN5XJegq/dMZLAqeglwDLPsuLCHvlekc9/Uc2T85eYShO1HwBhDMs6r/SuWWZHMMOoOYN0bTtRRxEJVVN6vEKp19eaVCJu9AecL02E9m0hDIMy0PPXDkzhGDPslrVYaN0wPT2tBfWuVfY3+PnQ8Ks5uObrFZBt309k8oQQCJJ6ny43vRXG/FlIn6ydatraKv7T46jgun49boG3BG0Ptjs5jrYr2QPYhx3ne0ITWkKRPGBMTU6gRCCFVbvkUQO5x4D1lQRIQQOorboT14792drR6MhEBIzIGr8SG6UYsMCpxpYgOLMjRh/ikHegmGJeAWMHCXzZ43Zh1yV952XuMuKzV9KYKlmUwZZN2KUe0lNFk05eB5KvW6cI3g==;Z+9bN2xiF7A/l3pUXf6oTw=="
 ---

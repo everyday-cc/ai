@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Crypto AI Startup Sahara Raises $6M to Reward AI Trainers"
-    excerpt: "Sahara, the latest startup to blend the worlds of crypto and artificial intelligence, says it can help workers and companies get compensated for their knowledge, expertise and data in the age of AI. The Los Angeles-based startup has raised $6 million in a ..."
-    publishedDateTime: 2024-03-05T11:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/crypto-ai-startup-sahara-raises-6m-to-reward-ai-trainers-1033134200"
+  - title: "Serial entrepreneur launches Denver AI startup for regulated industry"
+    excerpt: "Several regulated industries and companies have banned their employees from using generative AI tools like ChatGPT, fearing that proprietary information will be leaked. Denver startup Liminal aims to address those security concerns."
+    publishedDateTime: 2024-03-06T11:57:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/news/2024/03/06/ai-startup-liminal-launches.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "uw2JGcfblHCHZhY4ljwcOP/hYQKgbe6qt0NeGlMFWiMY8O3B/wLJYXuap6uX5UP8Gkcr1VlfhE65UJpX8QJIJYqoLaNxCAWEYLbRuSd7o6iZqDuW5cre+Q4finkGGymOShHw9BdTsdYxVkNYF45EtQQDIygsXOfjextLOdem7pwg01C9tksuL/zYwG3j8LMrWCgOaOxDXxbubHbnS16aW5SaPmvPguBCM+gYIyKmHspA6fhdvScTgaJCK+7RPxms/kn3mm4s1fq+qgXCoBCKYXtUOepAvFvXBEPbrPk8f2FfexnRSOxnG+2QRyDg9aQvml4noDfO4OJ1zTEcw+fwfcyw8x6ej1sNDCdO1yS/paep+STiw5fDzjkRdgVA0xiPgJaIuGLui57AD0+2opcFbTOVOO4ekJoJlMZQYGln62n+mj9JLFjQx2lahxVvAm4SSvKn1Jkj/veH93qSVewhw83VNXzhg+SqS1GLjp/xNZYaS+MAxjB5AJCsBV6Cng1k8zgLRlcJOrEAlmFDeFRVYw==;pVnIrVwEEV3/qLOst9+Omg=="
 ---

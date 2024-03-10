@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon-Backed Anthropic Launches Claude 3 AI Models to Rival ChatGPT-4"
-    excerpt: "Claude 3 has three variants, with its most powerful Opus version promising better results than OpenAI's ChatGPT-4 and Google's Gemini 1.0 Ultra models."
-    publishedDateTime: 2024-03-05T11:58:00Z
-    webUrl: "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02GPZdQqyCmIQ95bmEMKPqW-1.fit_lim.size_1200x630.v1709639282.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "28 of the best AI and ChatGPT courses you can take online for free"
     excerpt: "TL;DR: A wide range of online AI and ChatGPT courses are available to take for free on Udemy."
     publishedDateTime: 2024-03-07T05:00:00Z
@@ -67,21 +53,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
-    excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
-    publishedDateTime: 2024-03-05T11:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/articleshow/108238137.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
+  - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
+    excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
+    publishedDateTime: 2024-03-08T14:58:00Z
+    webUrl: "https://fortune.com/education/articles/prompt-engineering-courses/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 67
+      name: Fortune
+      domain: fortune.com
+    quality: 71
     images:
-      - url: "https://static.toiimg.com/thumb/msid-108238104,width-1280,height-720,resizemode-4/108238104.jpg"
-        width: 1280
-        height: 720
+      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
     excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
@@ -97,19 +81,74 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Claude 3 vs ChatGPT vs Gemini latest Anthropic AI models compared"
-    excerpt: "Anthropic has launched a new AI model which has now being compared to ChatGPT and Google Gemini. This Claude 3 vs ChatGPT vs Gemini comparison"
-    publishedDateTime: 2024-03-05T11:53:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt-vs-gemini/"
+  - title: "You can now add extra security to your ChatGPT - here's how and why you should"
+    excerpt: "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ"
+    publishedDateTime: 2024-03-08T09:12:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
+  - title: "ChatGPT Stock Predictions: 3 Space Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the machines taking over, it seems only appropriate to ask ChatGPT what"
+    publishedDateTime: 2024-03-06T22:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-space-companies-the-ai-bot-thinks-have-10x-potential-1033139633"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+  - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
+    excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
+    publishedDateTime: 2024-03-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 56
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Claude-3-vs-ChatGPT-vs-Gemini.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/chatgpt-vs-claude-3-Pros-and-Cons-compared.jpg"
         width: 1280
         height: 710
+        isCached: true
+  - title: "This AI malware worm is capable of turning ChatGPT against you"
+    excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
+    publishedDateTime: 2024-03-08T22:34:00Z
+    webUrl: "https://bgr.com/tech/this-ai-malware-worm-is-capable-of-turning-chatgpt-against-you/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1119
+        isCached: true
+  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
+    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
+    publishedDateTime: 2024-03-08T17:10:00Z
+    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 48
+  - title: "Chatgpt Has Many Uses. Experts Explore What This Means For Healthcare And Medical Research"
+    excerpt: "The sanctity of the doctor-patient relationship is the cornerstone of the healthcare profession. This protected space is steeped in tradition – the"
+    publishedDateTime: 2024-03-06T06:47:00Z
+    webUrl: "https://menafn.com/1107940536/Chatgpt-Has-Many-Uses-Experts-Explore-What-This-Means-For-Healthcare-And-Medical-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 46
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/06/TC_e2b39image_story.jpg"
+        width: 960
+        height: 640
         isCached: true
   - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
     excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
@@ -125,67 +164,42 @@ related:
         width: 400
         height: 363
         isCached: true
-  - title: "Which Claude 3 AI model is best? All three compared and tested"
-    excerpt: "research and development, and strategic analysis. Achieves a balance between speed and intelligence, making it ideal for enterprise environments. It provides robust performance at a lower cost, engineered for endurance in extensive AI operations."
-    publishedDateTime: 2024-03-05T14:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-ai-models-compared/"
+  - title: "ChatGPT Plugins are being replaced by GPTs. Here's why - and what it means for you"
+    excerpt: "Integration with external services: ChatGPT Plugins allow the ChatGPT model to interact with external services and APIs. This means that the AI can fetch real-time data, perform actions like booking reservations, or retrieve information from the web directly within the conversation."
+    publishedDateTime: 2024-03-07T06:21:00Z
+    webUrl: "https://www.zdnet.com/article/on-march-19-chatgpt-plugins-get-replaced-by-gpts-heres-why-and-what-it-means-to-you/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
+  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
+    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
+    publishedDateTime: 2024-03-08T15:51:00Z
+    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Which-Claude-3-AI-model-is-best.jpg"
-        width: 1280
-        height: 713
+      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
-    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
-    publishedDateTime: 2024-03-05T16:33:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+  - title: "Best AI Chatbots for 2024"
+    excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
+    publishedDateTime: 2024-03-10T06:42:00Z
+    webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
-  - title: "3 Tips for Business Owners Who Want to Use Anthropic's New Flagship AI Model, Claude 3"
-    excerpt: "According to Anthropic, the largest and most powerful of the three models, Opus, outperforms OpenAI's current top-of-the-line model, GPT-4, across a wide variety of benchmarks, such as undergraduate level knowledge, graduate level reasoning, math-based problem solving, and coding. Here are three ways business owners can use these models."
-    publishedDateTime: 2024-03-05T17:08:00Z
-    webUrl: "https://www.inc.com/ben-sherry/3-tips-for-business-owners-who-want-to-use-anthropics-new-flagship-ai-model-claude-3.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 29
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1702217813_538101_ijkvbw.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
-    excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
-    publishedDateTime: 2024-03-05T19:53:00Z
-    webUrl: "https://www.nextplatform.com/2024/03/05/anthropic-fires-off-performance-and-price-salvos-in-ai-war/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
-  - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
-    excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
-    publishedDateTime: 2024-03-08T06:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20240307PD209/anthropic-claude-3-chatbot-ai-amazon-google.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 13
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240307pd209_files/1_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
+        width: 1548
+        height: 776
         isCached: true
 
 secured: "v+vSm8N1quB7N+uNkE3ZCD3h7G4roKlfFnAlttHiEw3j8WNfxA3auBzjn14hS9swwINIm+NR03VsUIp9qonotjPkilchRAES2X2mYxlsMmBgop18iAninDgF5QAAqrCxs+AAzCQo593JaF0ZbpRabXiwoK7s81gmdsRf8R4gqTqmIYDYzYmaESRnAPXxoVYQK/TNAvW3fwtcePwtjje25gKxKD0zFI4Z00FwkZc3zKYjZyFMD5pBxtTmFHXW+bPNcx3TpKRe2iAbsSUA9UK1ooQCoBQDKaJF9OMMIWe48ymCpyfQfHiuM1luUYBUg079vtr9jnB3JAE2EaMHRF3pIuJwWcVGBbAbyjv0EX2y+vHqvXC5am9Vj3GdgDNgIi1v2vlHXoo/UIULGVap/0P44EVnRvYkPpTo2TAezu17XxksCoNlNl/CXAtWffhH6XzhhCOpA5y7aaH+BsitjVxj90qh1rBONFz54GzRHsSFzjhmgn/dzNK5M0e11pGAAqMIiGeg45et7H3OoD8i3fQhyA==;gjruWnDBmRO0U1uNtGqTTw=="

@@ -27,22 +27,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "Nobody knows how AI works"
-    excerpt: "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products."
-    publishedDateTime: 2024-03-05T10:32:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/"
-    ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "The women in AI making a difference"
     excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
     publishedDateTime: 2024-03-09T19:10:00Z

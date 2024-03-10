@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-
 webUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/"
 type: article
 quality: 71
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -26,15 +26,40 @@ images:
     isCached: true
 
 related:
-  - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
-    excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
-    publishedDateTime: 2024-03-07T16:17:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/veeam-announces-strategic-partnership-microsoft-integrate-copilot-ai-services/"
+  - title: "ChatGPT vs Claude 3 Test: Can Anthropic Beat OpenAI’s Superstar?"
+    excerpt: "Claude 3 is one of ChatGPT's most capable competitors. But how do they compare when asked the same questions? Find out here."
+    publishedDateTime: 2024-03-10T11:01:00Z
+    webUrl: "https://tech.co/news/chatgpt-vs-claude-3"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
+      name: Tech.co
+      domain: tech.co
+    quality: 56
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/03/08060744/AdobeStock_606145791_Editorial_Use_Only-1-min-1.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
+    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
+    publishedDateTime: 2024-03-05T16:33:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
+  - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
+    excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
+    publishedDateTime: 2024-03-05T19:53:00Z
+    webUrl: "https://www.nextplatform.com/2024/03/05/anthropic-fires-off-performance-and-price-salvos-in-ai-war/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "xwrL7UPSfVwSoW4OXKYEmCgYX7TfWX33cnpTGRImStGhdBzgoIr7yfV2fqKfaqd/aBtKiLHqnD24HIU2p5K5u3WIKKvoc3qPbj6eOA1To6I346wkF6yBCpOi5AsRLt0bAjdJdfKmpusQKh6VxG+rNX8TUMfBGsz4seavqPhkNDxuH8i+5XNdtxXnEY3QGNrejq1zmRs1vJiWdlYk3l3MP5QSvrJ7xFQHwfSn71CKn7o/70+YocDIFmEiwvKc275XYug14617gbtoT9TySPXtsXGIZjW/cAt5U+CjHAUonzH9c0I6oGog8iPu5WqMjvEsUm5G9mzdSNokwoRplH2OUWpl9qF0hQdKZpLDR43UsxTCMJVhbfaCJaHtMzzM2ukbSCtox0sbRO1nCYI7BRfLeqidHxjJpUj4l8urrsgmhFH4cWL5Xj6FgnbLZCJjAUIKa8sUcdGFHv22NrWOXZLuM3WC6+4qFdfqe/NK6sm5uJJsaYLDnpuEdnTQxl9d0HkS9ubvDV2B6mjJObAMDFeDrA==;pSiui1EXRZqwAY7smNCVvQ=="
 ---
