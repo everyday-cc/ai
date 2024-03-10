@@ -44,20 +44,6 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 71
-  - title: "AMD hits US roadblock in selling AI chip tailored for China: Report"
-    excerpt: "AMD tried to gain a go-ahead from the U.S. Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet U.S. export restrictions,"
-    publishedDateTime: 2024-03-05T02:45:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report/108219776"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108219776,imgsize-42860,width-1200,height=765,overlay-ettelecom/devices/amd-hits-us-roadblock-in-selling-ai-chip-tailored-for-china-report.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "AMD's cut-down AI GPU for China market blocked by US government"
     excerpt: "AMD has been halted by the US Commerce Department, banning its AI processors from shipping to China, even though it was cut-down AI GPU."
     publishedDateTime: 2024-03-05T05:32:00Z

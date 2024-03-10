@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Innovations in Travel: How AI Technologies are Shaping Future Tourism Trends"
+    excerpt: "Explore how AI is revolutionizing travel with personalized experiences and streamlined operations, as showcased at ITB Berlin."
+    publishedDateTime: 2024-03-08T14:14:00Z
+    webUrl: "https://ftnnews.com/travel-news/technology/innovations-in-travel-how-ai-technologies-are-shaping-future-tourism-trends/"
+    type: article
+    provider:
+      name: News
+      domain: ftnnews.com
+    quality: 36
+    images:
+      - url: "https://static.shareasale.com/image/30200/ppc_corp_300x250_00.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "2sY2Bmqkz+QnpTOEXfb5J0MQ5OXBOKQTwCk+iW/9HLRJSMZQPEZiAxGGxxHMA15Rzlefbo8LYgAM485aP0/NwoW6k4s9yPa7EzPBlzUQf1/B5ln99uyv5NXA2rRrqAGIZ1SX0tle46W9ZZ6SFN7XFiu5dGVe7DnlJ7wXXSI06YsVJD+xfm7D5wNUp2etRyMmQV6RWM/xArZbNMW8RSQxEPIu0Xeniesmr5hNHtgxIaEoePBnCbRMWQNxfHCHM2wsSckoN9F6d+byUFlHHngMJ2M3Iu7Y62dC4yQFplqdDXo04ioWUdZ0zSt8OLOgMWLoHgbkzHToxY8CBDbFo54+mjdnnVLWOSjvPEFLYVpgycu5QeaKQK0Z/5xCgc3UE+M/wTXMD1UjGtuxLN6877IOYdgZwdjJnkS/lZ/kysSLHpzFNrLRKAxfBjMZ8VtCbyiZ+WO/CXhqEIyv/VV7xj22HiE40DWUFeU+WYK/uX3xBD3sCd0hC+vH2d4ruNfX7AIFWXQ1h3+knpSt0SMP3wRxGw==;YnfijTNwkx7IcsGUEaVMbw=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-09-best-ai-tools-to-enhance-your-social-media-account.md",
+      "title": "Best AI Tools To Enhance Your Social Media Account",
+      "excerpt": "These artificial intelligence (AI) solutions enable organizations to prosper in the digital sphere by using technology such as computer vision, machine learning algorithms, natural language processing (NLP), and natural language creation. It is thus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
+      "originalUrl": "https://www.mid-day.com/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2024/mar/CopySpace0903_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
+      "publishedDateTime": "2024-03-09T15:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-ai-could-help-translate-alien-languages.md",
       "title": "AI Could Help Translate Alien Languages",
       "excerpt": "until they’ve translated the whales’ entire language. Wong: What is it about recent advances in AI and translation software that makes this effort not, well, ridiculous? If talking to sperm ...",
@@ -1440,59 +1483,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-indeeds-10-highest-paid-tech-skills-generative-ai-tops-the-list.md",
-      "title": "Indeed’s 10 Highest-Paid Tech Skills: Generative AI Tops the List",
-      "excerpt": "It is used for applications such as computer vision and natural language processing. The ML framework was developed by Meta AI and is now part of the Linux Foundation umbrella. 6. Computer vision, $166,873: Computer vision is a field of computer science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/",
-      "originalUrl": "https://www.techrepublic.com/article/indeed-highest-paid-tech-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_222596740.jpeg",
-          "width": 1400,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

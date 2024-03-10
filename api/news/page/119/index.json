@@ -2,6 +2,40 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2023-11-29-aws-ceo-bats-for-responsible-ai-for-unleashing-genais-potential-managing-risks.md",
+      "title": "AWS CEO bats for responsible AI for unleashing GenAI's potential, managing risks",
+      "excerpt": "Advocating responsible artificial intelligence (AI), ﻿Amazon Web Services﻿ (AWS) CEO Adam Selipsky stressed the need for unlocking Generative AI's full potential while mitigating risks ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/11/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-full-potential",
+      "originalUrl": "https://yourstory.com/2023/11/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-full-potential",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T07:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-guildford-ice-rink-used-to-test-anti-skidding-on-ai-car.md",
       "title": "Guildford: Ice rink used to test anti-skidding on AI car",
       "excerpt": "An ice rink has been used to test anti-skidding on a car powered by artificial intelligence (AI). University of Surrey researchers brought the driverless vehicle to Guildford Spectrum for a trial ...",
@@ -1050,58 +1084,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-artificial-intelligence-needs-spiritual-intelligence-opinion.md",
-      "title": "Artificial Intelligence Needs Spiritual Intelligence | Opinion",
-      "excerpt": "A group of scientists create an artificial intelligence (AI) system and ask it, \"Is there a god?\" The AI spits out an answer: \"Insufficient computing power to determine an answer.\" They add more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-needs-spiritual-intelligence-opinion-1847296",
-      "originalUrl": "https://www.newsweek.com/artificial-intelligence-needs-spiritual-intelligence-opinion-1847296",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2315101/clouds.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-enhances-stock-return-prediction.md",
+      "title": "Artificial Intelligence for the Financial Market: Machine Learning Enhances Stock Return Prediction",
+      "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news828219",
+      "originalUrl": "https://idw-online.de/de/news828219",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.idw-online.de/de/institutionlogo31018",
+          "width": 1431,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T09:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-meta-will-label-ai-generated-images-on-instagram-and-facebook.md",
       "title": "Meta will label AI-generated images on Instagram and Facebook",
       "excerpt": "The labels, set to roll out in the coming months, will identify AI-generated images posted on Facebook, Instagram and Threads, Clegg said. Images created by a Meta's own tool will also be labeled ...",
@@ -1025,49 +1069,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
-      "title": "Global Forum on the Ethics of AI 2024",
-      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

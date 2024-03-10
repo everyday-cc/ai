@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-11-rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams.md",
+      "title": "Rigetti Computing Awarded Innovate UK Grant to Develop Quantum Machine Learning Techniques for Financial Data Streams",
+      "excerpt": "Rigetti will be joined by Amazon Web Services (AWS), Imperial College London, and Standard Chartered to develop quantum machine learning techniques designed to enable financial institutions to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
+      "originalUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T14:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
       "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
@@ -1237,49 +1272,6 @@
       "topics": [
         "IBM AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm.md",
-      "title": "WiMi Announced the Optimization of Artificial Neural Networks Using Group Intelligence Algorithm",
-      "excerpt": "WiMi used a group intelligence algorithm to optimize artificial neural networks to improve the generalization ability of artificial neural networks by optimizing the connection weights, weights, and biases or network structure. The following are the steps of the algorithm:",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm-1032915822",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm-1032915822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T13:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

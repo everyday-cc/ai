@@ -2,6 +2,40 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2024-01-25-ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights.md",
+      "title": "IBM Jazzes Up GRAMMYs - Watsonx Unleashes AI Magic for Nominee Highlights",
+      "excerpt": "IBM unveils generative AI solution co-created alongside Recording Academy to generate editorial content around GRAMMY nominees. Fans will be able to engage with the AI-generated content during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/24/01/36775486/ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights",
+      "originalUrl": "https://www.benzinga.com/news/earnings/24/01/36775486/ibm-jazzes-up-grammys-watsonx-unleashes-ai-magic-for-nominee-highlights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033.md",
       "title": "Artificial Intelligence in Telecommunication Market Demonstrates Robust Growth, Forecasted to Reach US$ 14,496 Million by 2033",
       "excerpt": "The global artificial intelligence in telecommunications market is anticipated to be valued at US$ 918.6 million in 2022 and US$ 10,399.9 million by 2032, with a CAGR of 27.5% from 2022 to 2032. The acceptance of artificial intelligence in telecommunications is growing as telecom organisations use AI in various aspects of their operations,",
@@ -1118,57 +1152,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-openai-nvidia-nsf-nasa-and-more-partner-on-federal-program-to-increase-access-to-ai-resources.md",
-      "title": "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources",
-      "excerpt": "The National Science Foundation on Wednesday launched a sprawling new AI infrastructure program aimed at increasing the access of computing resources to more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/",
-      "originalUrl": "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b0785665f27caee4881109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

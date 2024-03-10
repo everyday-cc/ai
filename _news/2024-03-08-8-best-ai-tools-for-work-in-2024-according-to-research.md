@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
+    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
+    publishedDateTime: 2024-03-10T01:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
+        width: 1280
+        height: 1139
+        isCached: true
 
 secured: "fn/J4ZdkfGIq9ARIET5t49lvdbztHaeM2J1+jDpLbG0kHuL3gTqexdbpY4u90anPwEc8EQq0DW1KYAcfREKIzee5MTqQ6E5UQS1TWTWBvmPYoh3hW3zIEPBo3DghdSgQswNdy7cwxdmyA/FTdSVSb6VcZqG51HQOcWmJUJbQ8G4vI0HQcPp21AxFNn32g5MF0m76fBacuN8WEhVMISOTScdxDiEG5tfOZejcYsA5pBiKL+2zDobbrPro1/l81J1PLzb3tKinOGUhGf7bGM4DVGok3Lv7cS+dtQmMTwmEtV8b8aa1sCB1ZryvyyloIAw9kYDu1DAdStEkyjMUf8eKYvaBqfE97TFoXzk1MnbUBUBJ+ceHw3lF9WFpyJaNYR7zD2gSr5yzsdcO94Fgeb0XANDSUJ4RGMfarCrOK0jHFmAboTiH6v/19MyjIthaqik6LZnN191sOUKXbLnnRb000sSYrtcUv3upctHf98lxTK6TwOtn4hrh5EnF2Rn24piOLq/VNcQC6pnce3x+Jv8IEw==;w8Mld3WxMqSWTmfrWamD2A=="
 ---

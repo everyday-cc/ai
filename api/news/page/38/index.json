@@ -2,6 +2,40 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-02-09-uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres.md",
+      "title": "Uruguay Llama A Consultas A Su Embajador En Venezuela Por Hechos \"Que Harían Inviable\" Elecciones Libres",
+      "excerpt": "El gobierno de Uruguay llamó a consultas a su embajador en Venezuela para que informe de manera urgente sobre hechos que según las autoridades uruguayas \"harían inviable\" la celebración de elecciones libres en el país caribeño.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
+      "originalUrl": "https://www.barrons.com/articles/uruguay-llama-a-consultas-a-su-embajador-en-venezuela-por-hechos-que-harian-inviable-elecciones-libres-3e68f212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T22:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-apple-vision-pro-review-answers-the-question-of-how-much-computer-is-apples-spatial-computer.md",
       "title": "Apple Vision Pro review answers the question of ‘how much computer is Apple’s spatial computer?’",
       "excerpt": "The first Apple Vision Pro reviews arrived last week on January 30 ahead of the February 2 product launch. A week and change later, tech journalists have had even more time to spend with Apple Vision Pro. My new favorite review is from Raymond Wong at Inverse. He spares no words when evaluating Apple Vision Pro, including as a spatial computer.",
@@ -1058,49 +1092,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-all-the-info-you-need.md",
-      "title": "Google Bard is now Gemini: All the info you need",
-      "excerpt": "Google is going all-in on Gemini. Bard is getting rebranded to Gemini and a new Android app will replace Assistant on your phone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

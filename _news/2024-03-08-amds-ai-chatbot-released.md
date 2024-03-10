@@ -34,6 +34,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
+  - title: "Chatbots Do Not Hallucinate, They Confabulate"
+    excerpt: "LLMs like ChatGPT are a type of artificial intelligence that run algorithms that decode content ... This was a form of cognitive behavior therapy to help her see that she was, in fact, safe to be around. We were sharing the meal to test out the validity ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/chatbot.png.jpg?itok=bFeyq5Ax"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "US Army tests AI chatbots as battle planners in a war game simulation"
     excerpt: "Researchers in the US Army are experimenting with commercial AI chatbots as battlefield advisers in war game simulations – but experts caution that such AI should not be used in high-stakes situations"
     publishedDateTime: 2024-03-05T16:00:00Z
@@ -76,15 +92,6 @@ related:
         width: 708
         height: 365
         isCached: true
-  - title: "Chatbots Do Not Hallucinate, They Confabulate"
-    excerpt: "LLMs like ChatGPT are a type of artificial intelligence that run algorithms that decode content ... This was a form of cognitive behavior therapy to help her see that she was, in fact, safe to be around. We were sharing the meal to test out the validity ..."
-    publishedDateTime: 2024-03-06T00:00:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 4
 
 secured: "kbo4+4HL+8DBXA5Vux1PK7w2lPL0d92eKvGlosXQHvIbrnwr/qLBuu3Q/mP0vVOxOv2511vgkYn662AlSJ3LV9xbUZYzLz6S+KfkHzRqGc7SRm3/fT7KepETziR7upXS2mxsRJ6vX9jDixI+C2GN+59JD034KC82Nd6CX/UTr1Y/pZDTGGjzPdiqWgEj5Pgb7nkrY7qbgnNrH3PQsXnVQX8W7839ce5wX5D0lJQwV1u5L4+JLMixIi65c4/4nf1ER4+vMA46bWd1rps1TFltLtvzWM1a9oLaPqfcRzUIz1tKiYa8PYH3JYhj5njBynglThA0nm2tNDuHXBmVWG+RRXu4EX5I3YB4zy01E8e507OpZofoonlzOtpTWuAeAlp/xrLOE4GMnVPgEkiWYavs71iLQ2vFY1x8SzYC7/zKiPoKZAEVX/iNiv7ItSZAQvSvVNS+HgIkEnCzfSCg8l4opDjdt+S+ZcPG0Xrnj/bRQVJ1nj4n2cdIEvvZskJDljyM/sjGxAhgUzCiGWWPxA9y2g==;yGVp++O/Ik1Q0w3l3tNrEg=="
 ---

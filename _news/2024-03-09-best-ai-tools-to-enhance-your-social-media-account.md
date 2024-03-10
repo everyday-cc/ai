@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enh
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mid Day
@@ -36,6 +36,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
+    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
+    publishedDateTime: 2024-03-10T01:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
+        width: 1280
+        height: 1139
+        isCached: true
 
 secured: "0Cdh8/xwWznoe2Glv5CKvkeU3Hfc0MfD0DXB46XNjNMhNUckvnHUL7EYeSmhhHcTdLj/TJyJf+Z//B2xzHSfUxonyvQtjz3QwBY2tNui9XaBJLxgZGX5LT4V+rS4y6n6kDADgwndBWWkOSgksjHLLTYxM0iePX/X/SIiqDH8M7wXosyBnBgbKw9SWLAAV/wAYw2/D23KV6QLdfHDHov3vBtKwgD2ZvoAaBbk84zkDDsItpAI6yNgYJJAOENSKa3LqHAWC4vQQopUBqtLZ/jEA4LnaCqtH12dkcoHlUCkjexrf8yCpjycN1uUoSswelRo5+r7mHbx8xCzm6kQKRrTmB/gbRaI44MI1agZxi+BuvI=;7XpbD/Cew6/hVvIcmssoww=="
 ---

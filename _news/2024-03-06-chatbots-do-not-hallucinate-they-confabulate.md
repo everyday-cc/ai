@@ -3,10 +3,12 @@ category: news
 title: "Chatbots Do Not Hallucinate, They Confabulate"
 excerpt: "LLMs like ChatGPT are a type of artificial intelligence that run algorithms that decode content ... This was a form of cognitive behavior therapy to help her see that she was, in fact, safe to be around. We were sharing the meal to test out the validity ..."
 publishedDateTime: 2024-03-06T00:00:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
-webUrl: "https://www.psychologytoday.com/us/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
+originalUrl: "https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
+webUrl: "https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate?amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/chatbot.png.jpg?itok=bFeyq5Ax"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "AMD promotes third-party app for running AI chatbots on local hardware"
@@ -85,6 +93,6 @@ related:
         height: 365
         isCached: true
 
-secured: "Zyhv7JARITtFdiSAIxuzHw34lnlq/GX0DfY60ojlbVfT/2giOkocnGSuf7Q9Ldod3osE+ehJxKiozlRZaLgUiGmGLadzPQ6MqShZ1Ab2zgQtgxdXJoI0utGuuo77CCTIGxYMi7SLXNIuyjW81/B2NcDLRnlA9cIEkFnhHNXI3XOYg8a0lr31XEppXy7cvT5B8ZMhJUyWjkTA3V1E1BozjOxUm4YeO2gwg9G3qLdEXLnFqf9XhUgZrGnvTQbcK03belHlh2ZXUBgrh8xpqrPNuQGoE1emARcTJVZUeH8MIt02Dga+0jIebU1NI6K0zVQuXrweoQg0tp6dntR1cverFMbGI0+V37SRCrEfGf1f9hAVlyb0lUxPcgZEJ6hHeQBgzDcF3RR6AH5L6EjUR0ZYO0K6zDIWQ9Y5LHLuWMHsAC/iFWP6CpgLgjXSLHAs8qF+jb471vuUfXloL0nP+IEbzhA2Na9KxN6THPeE61cw0apqohEalcbE+iDSJEixb6BQit+xZM42xeH/5tT7Wx1YeA==;wfJa/kYXneue6gufYUU6Ag=="
+secured: "JkkpHczuLv7aTkEBKUCrBYGa5bcIDaYBMJFQ8yuG2sX5osoRM1QZSLtuR+buaE1c1Q+9ZNm8CNVYfo78mNBqnRv2w/5Zlu46mFjZbchKvhjqVDqPzzs+k9SZjLzrnZao9Sxmk8pXoliGXeJiAeTFVcOBOT8aP9BB4SP8NGmPLa3hLZ+ptXFH+X76F3n0lGMe6e/yb55/sqJPu7/S4GxxzjdIEGfhIDI8z23VBVWAuPIf9OmYsDz0sbjuPs6CcW/4MbeWnUKFj9Fc439z20DSPy5RpDo60ulyhPuthPzlHgJgWgi78W6/RNRIS9EH0eX0AFOW+YOd2pbHEzISdathny577ou/izvYPn+tusZ1VoQ=;wDtydWvRd8w3sI/OutvPwA=="
 ---
 

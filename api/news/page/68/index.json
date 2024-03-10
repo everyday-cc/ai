@@ -2,6 +2,49 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2024-01-18-plant-phenotyping-deep-learning-and-3d-point-cloud-technology-in-overcoming-reconstruction-challenges.md",
+      "title": "Plant phenotyping: Deep learning and 3D point cloud technology in overcoming reconstruction challenges",
+      "excerpt": "Recently, integrating deep learning with point cloud analysis and innovative techniques like Reinforcement Learning Agent Controlled GAN Network and multi-scale geometry-aware Transformer networks show promise in addressing these challenges by enhancing ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
+      "originalUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/revolutionizing-plant.jpg",
+          "width": 1280,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-pope-francis-ai-ethics-expert-is-a-franciscan-friar.md",
       "title": "Pope Francis' AI ethics expert is a Franciscan friar",
       "excerpt": "Friar Paolo Benanti wears the plain brown robes of his medieval Franciscan order as he pursues one of the most pressing issues of contemporary times: how to govern artificial intelligence so that it enriches, not exploits, lives. The friar's the go-to ...",
@@ -1112,40 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-byd-showcased-the-intelligence-advancement-at-dream-day-2024.md",
-      "title": "BYD Showcased the Intelligence Advancement at Dream Day 2024",
-      "excerpt": "XUANJI Architecture empowered by AI debuted, marking a transformative leap in merging electrification with intelligence. BYD announced its plan to construct the world's first professional all-terrain test driving ... with the self-developed XUANJI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T07:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
