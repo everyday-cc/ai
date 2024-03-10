@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enh
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:
@@ -44,7 +44,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
         width: 1280

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5g-use-cases/"
 webUrl: "https://www.ibm.com/blog/5g-use-cases/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The robots are coming. And that’s a good thing."
-    excerpt: "Daniela Rus, director of MIT’s Computer Science and Artificial Intelligence Lab (CSAIL), isn’t worried that robots will take over the world. Instead, she envisions robots and humans teaming up to achieve things that neither could do alone."
-    publishedDateTime: 2024-03-05T05:01:00Z
-    webUrl: "https://www.technologyreview.com/2024/03/05/1087646/the-robots-are-coming-and-thats-a-good-thing-2/"
-    ampWebUrl: "https://www.technologyreview.com/2024/03/05/1087646/the-robots-are-coming-and-thats-a-good-thing-2/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1087646/the-robots-are-coming-and-thats-a-good-thing-2/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/MIT_Robotics_Opener.jpg?w=1500"
-        width: 1500
-        height: 1999
-        isCached: true
   - title: "Drones are Transforming the Battlefield in Ukraine But in an Evolutionary Fashion"
     excerpt: "Headlines would lead one to conclude that the age of killer robots has arrived. In Ukraine, autonomous drone swarmssupposedly hunt for enemies and"
     publishedDateTime: 2024-03-05T08:47:00Z

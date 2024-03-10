@@ -64,15 +64,6 @@ related:
         width: 787
         height: 525
         isCached: true
-  - title: "AMD hits US roadblock in selling China-tailored AI chip"
-    excerpt: "AMD tried to gain a go-ahead from the US Commerce Department to sell the AI processor to China. The chip has lower performance than what AMD sells outside of China, and was designed to meet US export restrictions, the report added, citing people familiar with the matter."
-    publishedDateTime: 2024-03-05T04:17:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/03/05/amd-hits-us-roadblock-in-selling-china-tailored-ai-chip/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
     excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
     publishedDateTime: 2024-03-06T16:50:00Z

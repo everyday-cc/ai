@@ -7,7 +7,7 @@ originalUrl: "https://sentinelcolorado.com/uncategorized/ai-pervades-everyday-li
 webUrl: "https://sentinelcolorado.com/uncategorized/ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI pervades everyday life with almost no oversight. States scramble to catch up"
-    excerpt: "While artificial intelligence made headlines with ChatGPT, behind the scenes, the technology has quietly pervaded everyday life — screening job resumes, rental apartment"
-    publishedDateTime: 2024-03-05T04:29:00Z
-    webUrl: "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/"
-    ampWebUrl: "https://wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/ap-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 55
-    images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/03/65e6ae7207fcf6.55539367.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI pervades everyday life with almost no oversight. Colorado and other states are scrambling to catch up."
     excerpt: "Lawmakers in at least seven states are taking big legislative swings to regulate bias in artificial intelligence, filling a void left by Congress’ inaction"
     publishedDateTime: 2024-03-06T09:55:00Z

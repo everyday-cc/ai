@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-10T01:29:00Z
 originalUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
 webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
@@ -51,6 +52,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "cOoc5cRvJedQcuiADodM7OD2fdkEveky9MQOwTY3BL5hjuP2f4iMNtjdu0rAFPKeI9pLPfTEf4iAg/PcOoJIMcE8P/Vb570hmOMbALT2TQgfoJKEF6k4kPpaNGdK12R9UV7de8QerIWO2h1XNDltq3ubWGJBpFzItnx9H/wVqMcrbJ9wEhsmgQXmKRjeGjYr533jaxK0iTGDrxx3jBJZJ5B1q0zlpNlsR4FpBiTo8khhsUeH+Vctnu5n/Y1Y4KjX8ZUn2Qm1vyQkv00Idu2L/qsUoeTCELkZTnFXca4Wla9Lpg708nUGHsdOUiAl15NQKy7Kapv7k2Tj5eL6xrdwP8877smxVydtUl+ZRejc5LY=;LCvE9cN9tNWqcm1xtwWPEg=="
+secured: "XLIYygT3cJ9cGnPbKq09fGKYkOYTSjrfXG1sarOXFzUNNbAhVBbfQIlNuBTGOmpGnyybHoK7aoyL3ezKuRToBRd6WIixgGUT7VGInQJavP9/SAqOAkIz65D8Kugv3vqQ0X9ujBmbTZlfUxUF451NI4T0IR+3IxqOsSBCIkKmlTf26j3jy5fjP3Vpny0qrZsiovCBDWJg7VSf2kNHIf6KL1/yYKCWe8ldR6b1v2c766mRYLeF6H7q6DB7C4pQr/ujKZP39B5U9aHRPfjFf15cY75+m6/TXa6bp3JvJpqZzUhvuCvCKaC7B3ejYtC3IOiMV7RZNBr/D/j2pKrQlzRdNq2j5kEKOiPgTirnFZnu8lsiDROX5mqvqIf/BaEWoisj3Icd0B7eGt/UhWDCkjhw3DDeLnE/9V83wGkgfYTvnxYrbzO9uE/RHnsA9HayQHpjMtdNeNztwc+zwEVQO7pYON5XvBHVlJs+2U6QJDAdY3z+D+NJR37ENd4l7Y+/zDOfwgIKwTL1xUUcy1RyuoTY3w==;fz603ssftVFhwgK7ubMxPA=="
 ---
 

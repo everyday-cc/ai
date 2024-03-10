@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/naver-to-launch-worl
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/naver-to-launch-world-s-1st-web-platform-based-robot-os-all-you-need-to-know-2024-03-05-919949"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "World's 1St Web Platform-Based Robot OS To Arrive This Week"
-    excerpt: "South Korean tech giant Naver said on Tuesday that it will unveil a web platform-based robot operating system (OS) for the firs"
-    publishedDateTime: 2024-03-05T04:05:00Z
-    webUrl: "https://menafn.com/1107934330/Worlds-1St-Web-Platform-Based-Robot-OS-To-Arrive-This-Week"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/04/I_d5c65image_story.jpg"
-        width: 400
-        height: 282
-        isCached: true
 
 secured: "7443croN6erAKIBEvQE/w9zbDCuat7caO1E26C91TwopqxWbLncKSbeF9EZJr1qfXlZ/3AebSXjwjcDS18b37T3KSrP0yNfQz6AfyU/TkBXeYmvvIsvP9UjgPNP+ZN3K6bbBQ86HyHAn/p1/hpPfowa4G1VdyngKhYE3tpPnNdz5lOBNWzXrcZY0EXwYZc1iMXE8TvEMXZ4SYRKUCYTXgxDDgj4SVOfBhx0uZz49l6jLqhlih2uQWGTh5RQa/By4c/i8gLZOXDhjqpia0Oke6huc3V1SneEymAPlWSIkqcO9HyU55ESZk17I7Nbe+eJ7CkzvN+2iiUF6VYIUA0x+rYTAA416gBo9iLI1mM5A1i5mN6MegJYEgTI2g6jntrFOjRoErSWE4HIE84vJDfb19bG8EQJ7AgFt2APvR+ieTnSybzzYJFDgzcJhJ7+fIOdBM/b4hVR8/danK6xzT4btSs/1sVsT5hTZiRLRc6GYj+DroFt/NJQi3sBCd1IL2GEPi/bJFqVDpdwNipN1mk/LHg==;vsL3ojnvByBurBYLIW5HcQ=="
 ---

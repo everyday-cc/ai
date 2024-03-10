@@ -50,20 +50,6 @@ related:
         width: 1223
         height: 900
         isCached: true
-  - title: "New type of voice assistant for production works according to the rules of AI ethics"
-    excerpt: "Prof. Dr.-Ing. habil. Klaus-Dieter Thoben, telephone: +49 421 218-50 005, e-mail: tho@biba.uni-bremen.de Dipl.-Inform. Karl A. Hribernik, telephone: +49 421 218-50 108, e-mail: hri@biba.uni-bremen.de Dipl.-Wirtsch.-Ing. Stefan Wellsandt, telephone: +49 421 218-50 166, e-mail: wel@biba.uni-bremen.de"
-    publishedDateTime: 2024-03-05T04:16:00Z
-    webUrl: "https://idw-online.de/de/news829683"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 47
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
-        isCached: true
   - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
     excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
     publishedDateTime: 2024-03-08T12:45:00Z

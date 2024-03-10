@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/a-little-less-conversation-a-little-more-acti
 webUrl: "https://www.unite.ai/a-little-less-conversation-a-little-more-action-how-to-accelerate-generative-ai-deployment-in-the-next-6-months/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 240
     isCached: true
-
-related:
-  - title: "AI-acceleration deployments curbed by datacentre design considerations"
-    excerpt: "In addition to a shortage of GPUs for AI-optimised servers, IT leaders need to consider how well their datacentre power and cooling will cope with artificial intelligence workloads."
-    publishedDateTime: 2024-03-05T04:24:00Z
-    webUrl: "https://www.computerweekly.com/news/366572212/AI-accleration-curbed-by-datacentre-design-considerations"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/disaster_recovery_a379640336.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "A3LMtkCZJA5UWpTXjokNEybaQ7SUGuslTWASdIdFwrd7/CrJQMT5euAV2wGKIwsO+T9AKwZmHnG3laCEwEfmWJ/4w/FAjN4tpbuLE/8tvsbq1cMXwJnJ8LCgSkpxvZZWjfwbkA1VoTcfNvXUmJzPUeuUGd2n4cAb6lGtYPWPVHAphhGLAUW0gwD3ipCA/09MT2MGs72e6+/3kNSrb6FQHaWR3c8RH3rC+J2GAS0DUlJu7tOavbIiI9zamR71wI3/xhS8QTUchYFEnvVOttVI0iCSxnRDhPVumUjQ4L8Y5gm2W0eRlZDxnYUI0S7IsPH+9QPXCRj1FUUM1I8V5n2T13I2vgWoB3bNJ/jz+yCx52crkiV22Zw1EpwzW+kisV25i59oMq2ujykfU0ieys/ieMRv3W8pMAwImryhs8YtiLhvZc6pRTMmb0jPPiCiECHabojn5JflLV+JoRnieA2N8Yx+AazT2tepl4O+0qvcuKbjAR1Pfx5+2pJ8JrTljjvnksWz16jZx+u5fjEPRMYBHA==;YXcoispbXBibtnWzmjFQjA=="
 ---
