@@ -2,6 +2,197 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-02-23-ai-chip-sales-are-driving-stock-markets-to-new-records.md",
+      "title": "AI chip sales are driving stock markets to new records",
+      "excerpt": "Nvidia's unprecedented leap in revenue from higher chip sales for AI and cloud use speaks volumes about the future of the technology and its impact on the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
+      "originalUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_2154798885-100961547-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713240/ai-chip-sales-are-driving-stock-markets-to-new-records.amp.html",
+      "publishedDateTime": "2024-02-23T13:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-the-ai-seo-tango-when-robots-write-like-hemingway.md",
+      "title": "The AI-SEO Tango: When Robots Write Like Hemingway",
+      "excerpt": "As artificial intelligence (AI) reshapes content creation, its capacity to mimic human writing accelerates, transforming what once seemed like science fiction into reality. Yet, this technological leap prompts a critical inquiry: What are the bounds of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/amp/",
+      "publishedDateTime": "2024-02-23T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
+      "title": "Serco ordered to stop using facial recognition technology to monitor staff",
+      "excerpt": "Serco has been ordered to stop using facial recognition technology to monitor its staff for \"prioritising business interests over its employees' privacy\". The Information Commissioner's Office ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "originalUrl": "https://news.sky.com/story/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/23/04/1600x900/skynews-facial-recognition_6112009.jpg?20230405172348",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-13078992",
+      "publishedDateTime": "2024-02-23T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time.md",
+      "title": "Nvidia Lists Huawei as an AI Chip-Making Rival for the First Time",
+      "excerpt": "based Nvidia used to be a major supplier of chips for Chinese companies, but the situation changed after Huawei was added to a U.S. trade sanction list in 2019. Nvidia's finance chief said on a call with analysts this week that sales of AI chips to China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 364,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-lists-huawei-as-an-ai-chip-making-rival-for-the-first-time-a2e5cbb3",
+      "publishedDateTime": "2024-02-23T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-ai21-labs-outperforms-generic-llms-with-task-specific-models.md",
       "title": "AI21 Labs Outperforms Generic LLMs With Task-Specific Models",
       "excerpt": "AI21 Labs distinguishes itself in the competitive large language model landscape with its emphasis on specialized, task-specific models.",
@@ -984,207 +1175,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-kawasaki-robotics-partners-with-olis-robotics-to-offer-remote-monitoring-and-control-of-its-industrial-robots-robotics-automation-news.md",
-      "title": "Kawasaki Robotics Partners With Olis Robotics To Offer Remote Monitoring And Control Of Its Industrial Robots Robotics & Automation News",
-      "excerpt": "(MENAFN- Robotics & Automation News) Olis Robotics , a provider of remote error recovery systems for industrial robots, has agreed a new partnership with Kawasaki ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
-      "originalUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2024-02/22/R&AN_50b7eimage_story.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T23:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do.md",
-      "title": "AI Is Already Helping Deliver Packages and Diagnose Patients. Here’s What Else It Can Do.",
-      "excerpt": "Artificial intelligence is everywhere. It's helping discover new planets and detect cancer faster. And it's working in a bunch of places you likely didn't realize, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "originalUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-928820/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
-      "publishedDateTime": "2024-02-22T22:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
-      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
-      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1049,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "publishedDateTime": "2024-02-22T22:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs.md",
-      "title": "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs",
-      "excerpt": "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
-      "originalUrl": "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-89200862/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
-      "publishedDateTime": "2024-02-22T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

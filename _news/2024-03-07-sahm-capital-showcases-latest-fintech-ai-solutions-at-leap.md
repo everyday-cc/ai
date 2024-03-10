@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-lat
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 743
         isCached: true
-  - title: "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024"
-    excerpt: "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ..."
-    publishedDateTime: 2024-03-07T09:02:00Z
-    webUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
+  - title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
+    excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
+    publishedDateTime: 2024-03-07T07:00:00Z
+    webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Asia One
+      domain: asiaone.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?146451"
-        width: 514
-        height: 250
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/464663-Screenshot-2024-01-18-225.jpeg?h=bde28bee&itok=Hgla7csP"
+        width: 600
+        height: 316
         isCached: true
   - title: "Why we're fighting to keep London first for fintech"
     excerpt: "This will include how the UK can innovate and regulate successfully groundbreaking new technologies such as AI (and we look forward to working in collaboration with the Startup Coalition on their non-fintech focused Unicorn Project). The Unicorn Council's ..."
@@ -73,6 +73,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
+    excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
+    publishedDateTime: 2024-03-07T11:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974513.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "MmLCjp89V+fEDZlTrQGsnP1r3+urjqb4RozjnNnA02X9uXLbRZfR7MjYIIbZpYt7+dEFupGqg33M7ln8b6etP50jPB3/3664fq/NJEIJfhkgAFoAHV6xhFHX7koGQOqZSpLSTfF5AV43fmF975HvNnBOV2Zr5v1PQTJmCDfoNLhErJSC8QZqibw8SQx1BX/JUVzNIydXPMfggROXAinATuOoL6vAzTxtdlQCMO3B0xHkHk9nIDjdXgYlTVTw6Dmv2bkXYkMOZyIsLQpTzg8SYHSbuOXoU8LyV/YNOPy0wRBrduALYNVSwMBmQ4P3I2NIhZ/tBcPpTlyn9cZgFTX+P/LWY+J5Z+y2sjp/6920+bc=;1yFHJ66ISkqfbPvs8JW0wA=="
 ---

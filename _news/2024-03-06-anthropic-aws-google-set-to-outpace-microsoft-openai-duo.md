@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-
 webUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
-    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
-    publishedDateTime: 2024-03-05T16:33:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
   - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
     excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
     publishedDateTime: 2024-03-05T19:53:00Z

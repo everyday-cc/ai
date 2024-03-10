@@ -38,6 +38,22 @@ related:
         width: 1456
         height: 864
         isCached: true
+  - title: "Navigating the balance: GPU-based solutions in AI implementation"
+    excerpt: "To embed our video on your website copy and paste the code below: Richard McQuaide, business development manager at HPE, provides insights into the complexities surrounding GPU-based solutions in AI implementation. The conversation focuses on striking a ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/"
+    ampWebUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 74
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/24081-hpe-int-demo-richard-mcquaide-v1-10-18000.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines"
     excerpt: "AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field."
     publishedDateTime: 2024-03-08T00:00:00Z

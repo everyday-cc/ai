@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-09-male-ai-robot-appears-to-grope-female-reporter-during-interview-at-tech-expo.md",
-      "title": "Male AI robot appears to grope female reporter during interview at tech expo",
-      "excerpt": "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
-      "originalUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/wp-content/uploads/2024/03/Screenshot_2_d284ea.jpg?w=1024&h=798",
-          "width": 1024,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
-      "publishedDateTime": "2024-03-08T23:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-08-cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks.md",
       "title": "Cambrian Robotics obtains seed funding to provide vision for complex tasks",
       "excerpt": "Cambrian will use the funding to continue its mission of giving industrial robots human-level capabilities for complex tasks.",
@@ -65,6 +22,49 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-robo-cop-a-feel-cheeky-ai-robot-touches-shocked-womans-bottom-at-saudi-artificial-intelligence-event.md",
+      "title": "Robo cop-a-feel: Cheeky AI robot touches shocked woman's bottom at Saudi artificial intelligence event",
+      "excerpt": "A cheeky male AI robot was caught touching a woman on the bottom in front of an audience while she reported from an artificial intelligence event. In hilarious fotage, reporter Rawya Kassem can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/03/08/12/82207659-0-image-m-14_1709899954043.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "publishedDateTime": "2024-03-08T12:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -288,7 +288,7 @@
       "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 106,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-21-how-this-ex-apple-guys-ai-glasses-invention-works.md",
+      "title": "How this ex-Apple guy’s AI glasses invention works",
+      "excerpt": "Here are some examples. Visual recognition: You can ask Frame glasses to identify any object, person or place that you see. For example, you can say, \"What is this?\" and Frame glasses will tell you what it is, how it works or where it comes from.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
+      "originalUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58e1e4e7-0f6a-46ac-adf5-e1afcdf09815/445293b3-f96a-4a00-8ec5-8c312a766ee7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
+      "publishedDateTime": "2024-02-21T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-you-can-now-use-your-voice-to-launch-galaxy-ai-features.md",
       "title": "You can now use your voice to launch Galaxy AI features",
       "excerpt": "You can activate live translation, summarization functionality ... Bixby’s support for Galaxy AI features is available in all the assistant’s supported languages, including English, Chinese, French, German, Korean, and Spanish.",
@@ -1373,49 +1426,6 @@
       "provider": {
         "name": "gadgets360",
         "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-how-ai-could-change-our-relationship-with-religion.md",
-      "title": "How AI could change our relationship with religion",
-      "excerpt": "The AI was able to decipher and translate the ancient Greek word for “purple” on the scroll. Other ancient texts from the Indian sub-continent, for example, are in the Sanskrit language or ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
-      "originalUrl": "https://theconversation.com/how-ai-could-change-our-relationship-with-religion-222079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/572802/original/file-20240201-15-4uwnfw.jpg?ixlib=rb-1.1.0&rect=0%2C155%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T12:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

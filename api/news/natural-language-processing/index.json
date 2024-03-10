@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-08-bjp-to-use-ai-to-translate-pms-speeches.md",
+      "title": "BJP to use AI to translate PM’s speeches",
+      "excerpt": "BJP is using 'Bhashini', an AI-powered tool, launched under the National Language Translation Mission, to translate PM Narendra Modi's Lok Sabha campaign speeches into regional languages, bridging the language gap and connecting with audiences in southern ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/articleshow/108318912.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/articleshow/108318912.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-108319257,width-1280,height-720,resizemode-72/108319257.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms",
+      "publishedDateTime": "2024-03-08T06:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-ai-could-help-translate-alien-languages.md",
       "title": "AI Could Help Translate Alien Languages",
       "excerpt": "until they’ve translated the whales’ entire language. Wong: What is it about recent advances in AI and translation software that makes this effort not, well, ridiculous? If talking to sperm ...",
@@ -1421,59 +1464,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-how-this-ex-apple-guys-ai-glasses-invention-works.md",
-      "title": "How this ex-Apple guy’s AI glasses invention works",
-      "excerpt": "Here are some examples. Visual recognition: You can ask Frame glasses to identify any object, person or place that you see. For example, you can say, \"What is this?\" and Frame glasses will tell you what it is, how it works or where it comes from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
-      "originalUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58e1e4e7-0f6a-46ac-adf5-e1afcdf09815/445293b3-f96a-4a00-8ec5-8c312a766ee7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
-      "publishedDateTime": "2024-02-21T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

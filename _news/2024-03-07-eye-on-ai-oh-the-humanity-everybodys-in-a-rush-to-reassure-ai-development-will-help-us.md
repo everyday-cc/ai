@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/ai/musk-openai-lawsuit-altman-msft/"
 webUrl: "https://news.crunchbase.com/ai/musk-openai-lawsuit-altman-msft/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ images:
     width: 900
     height: 506
     isCached: true
+
+related:
+  - title: "Google is breaking too many things in a rush to lead on AI"
+    excerpt: "Early versions of Google’s Bard gave incorrect answers to questions, hallucinated facts, and struggled with simple maths. Google’s model has improved since then, but early Bard was more of a kneejerk response rather than a planned product to lead the ..."
+    publishedDateTime: 2024-03-10T16:04:00Z
+    webUrl: "https://www.androidauthority.com/google-move-fast-break-ai-3423665/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-6.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "5 Stocks Surging on AI Mania"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In March 2000, networking giant Cisco Systems (NASDAQ:CSCO) became the most"
+    publishedDateTime: 2024-03-05T20:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-stocks-surging-on-ai-mania-1033134591"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
 secured: "P/B9NhIFrPc4pe7D2nBJ9AKfRV2XnsfZU8H5tCYShG5okXipXw5Mp4sqAhZnxgs1KQKMZbaqwW9j500KYZaIEw8YSsGtKSYOujz7pUVmTKZksrAaqABKmc9+/RYci29zdwhITGnqO7C/v5lWHDPnRWJ4piSLqTgEob/Fw/vYKsqpY9GblUzeDq/3a4IskBZJD5feK/gOVD1iyserT1EHK9PupxGDoERYaz3hiU6bs6IDtIP+i7wnpYNkTAGQAj+jOR664hvFQvBU5CfKdZq2Hhi8ahmtuFWwKmCODvHUoDkVFB+JVe9qhk0DqU1dC8xg8VGQCqARNUef3eklpMMDqGufXx8xOH4UeyvWabrGZSk=;rj7EJsVIEeT6/y3XPTNfIg=="
 ---

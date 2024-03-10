@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches Generative AI Competency to grade AI offerings"
+    excerpt: "To help address this problem, Amazon Web Services (AWS) today launched a way to validate the helpfulness of these AI models. AWS' Generative AI Competency program aims to validate generative AI ..."
+    publishedDateTime: 2024-03-06T18:00:00Z
+    webUrl: "https://www.zdnet.com/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/75a15e995d758da0f83fd69a37fa69412fff4b77/2023/07/26/555753b7-65f1-4cac-b013-6d5c50a28bfc/img-7865.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rackspace Technology Achieves the AWS Generative AI Competency"
     excerpt: "Achieving the AWS Generative AI Competency in the categories of Consulting Services, Generative AI Applications, and Infrastructure and Data differentiates Rackspace Technology as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting key use cases for knowledge management,"
     publishedDateTime: 2024-03-06T20:37:00Z
@@ -34,20 +50,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Designing Equitable Ocean Technology: Generative AI and Ocean Technologies Meet Environmental Justice"
-    excerpt: "In Designing Equitable Ocean Technology, we need to emphasize each country’s own technical capacity development. This is especially true today for marine artificial intelligence research like what Matt is doing."
-    publishedDateTime: 2024-03-06T07:43:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/"
+  - title: "DoiT Achieves the AWS Generative AI Competency"
+    excerpt: "Over the past year, DoiT has leveraged technologies like Amazon Bedrock and Amazon SageMaker to build AI foundations for its customers and ensure their environments are regularly optimized based on emerging best practices. The AWS Generative AI Competency ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.01net.it/doit-achieves-the-aws-generative-ai-competency/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 52
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/03/OceanNexus_Webinar_poster_w_qr_print.png"
-        width: 5400
-        height: 7200
-        isCached: true
+      name: 01Net
+      domain: 01net.it
+    quality: 34
+  - title: "Weights & Biases Achieves the AWS Generative AI Competency"
+    excerpt: "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications."
+    publishedDateTime: 2024-03-06T18:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "8w65kjdn62v8ehn67jSbamx47jxIFkkPGAllrohaEM7FwQzEmvITt5mseJMAa7A+/VV9rWuI0NoNpIBD0bQcHlR61R/bJx5bZDekgpT4syVsTsdEYsibQx89yaJQAXJOVtRq6EaHTOu/J7rIR6/+/zlYc1uiJF/5kJwOSZeJ81lqjRWuaXHiB8x8oal/IufajgRTEe12ou7eimE44ry5u1HdV+CyHY0JLjCxuSV3SG+AODM18/fnWUxTAX0zN37dpbz+0KsU7G859xbvL6wOkzac88qN+Si+d354el10868zLPQVN6tNodd10SAgPylWzSw3KdkaIJFGwgwBucjRhQZ13HNhpsNdOkHITcZ34g0=;NNPTjW/5besNkcpnyMFZDA=="
 ---

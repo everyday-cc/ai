@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-10-google-is-breaking-too-many-things-in-a-rush-to-lead-on-ai.md",
+      "title": "Google is breaking too many things in a rush to lead on AI",
+      "excerpt": "Early versions of Google’s Bard gave incorrect answers to questions, hallucinated facts, and struggled with simple maths. Google’s model has improved since then, but early Bard was more of a kneejerk response rather than a planned product to lead the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-move-fast-break-ai-3423665/",
+      "originalUrl": "https://www.androidauthority.com/google-move-fast-break-ai-3423665/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T16:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-how-ai-is-helping-advance-womens-health-around-the-world.md",
       "title": "How AI is helping advance women’s health around the world",
       "excerpt": "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "",
@@ -1444,58 +1496,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-university-of-michigan-says-its-not-selling-student-data-to-ai-companies.md",
-      "title": "University of Michigan Says It's Not Selling Student Data to AI Companies",
-      "excerpt": "An employee at Google DeepMind, the company’s AI research hub, said they’d gotten an offer for recordings of lectures, student discussions, and office hours, as well as essays written by ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/university-of-michigan-sell-student-data-ai-companies-1851261663",
-      "originalUrl": "https://gizmodo.com/university-of-michigan-sell-student-data-ai-companies-1851261663",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ad126dac919b3f4b43d70afe6f4c41c.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T17:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

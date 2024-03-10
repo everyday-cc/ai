@@ -291,6 +291,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-05-i-tried-tripadvisors-free-ai-tool-to-plan-trips-to-maui-and-montreal-it-was-useful-in-some-ways-but-i-wont-stop-doing-my-own-trip-research.md",
+      "title": "I tried Tripadvisor's free AI tool to plan trips to Maui and Montreal. It was useful in some ways, but I won't stop doing my own trip research.",
+      "excerpt": "Before I got a 9-to-5, I spent a good chunk of my 20s freelancing while traveling out of a van or working on farms abroad so that I could stay for free weeks at a time. These days, my travel time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
+      "originalUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e68d376080194819fc6fa6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
+      "publishedDateTime": "2024-03-05T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-microsofts-new-orca-math-ai-outperforms-models-10x-larger.md",
       "title": "Microsoft’s new Orca-Math AI outperforms models 10x larger",
       "excerpt": "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ...",
@@ -1396,60 +1448,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024.md",
-      "title": "AI chip race: Groq CEO takes on Nvidia, claims most startups will use speedy LPUs by end of 2024",
-      "excerpt": "But don’t sleep on Groq, the Silicon Valley-based company creating new AI chips for large language model (LLM) inference (making decisions or predictions on existing models, as opposed to training). Last weekend, Groq suddenly enjoyed a viral moment most ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
-      "originalUrl": "https://venturebeat.com/ai/ai-chip-race-groq-ceo-takes-on-nvidia-claims-most-startups-will-use-speedy-lpus-by-end-of-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-23-12.49.17-A-dynamic-and-dramatic-representation-of-AI-chips-racing-at-lightning-fast-speed-leaving-competitors-in-the-dust.-The-scene-is-set-on-a-futuristic-ra.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T10:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI",
-        "Natural Language Processing"
       ]
     }
   ],

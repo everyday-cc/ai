@@ -19,61 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI"
-    excerpt: "This month, like every month, I’m sharing a few of the latest updates and resources to help reinforce how Azure can fuel your innovation through data, AI, and digital application solutions.\nThe post What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI appeared first"
-    publishedDateTime: 2024-03-05T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/Azure-3D-Illustration-1-Blue.png"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "QNL Forum Examines Ethics, Implications Of AI In Libraries"
-    excerpt: "Doha, Qatar: For the third consecutive year, Qatar National Library has hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information in the digital age. The event ..."
-    publishedDateTime: 2024-03-10T08:30:00Z
-    webUrl: "https://menafn.com/1107957623/QNL-Forum-Examines-Ethics-Implications-Of-AI-In-Libraries"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-  - title: "Revolutionizing Industries: The Pervasive Impact of Artificial Intelligence Applications"
-    excerpt: "In our modern world, Artificial Intelligence(AI) has become more than just a figment of science fiction. In today's highly evolved technological landscape, AI is a revolutionary technology that has transformed every industry in ways we can only begin to imagine."
-    publishedDateTime: 2024-03-05T16:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274146956/revolutionizing-industries-the-pervasive-impact-of-artificial-intelligence-applications"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 32
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1709350515787.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Six AI Applications to Transform Your Clinical Operations"
-    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
-    publishedDateTime: 2024-03-07T15:00:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 19
-  - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
-    excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
-    publishedDateTime: 2024-03-07T11:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974513.htm"
+  - title: "SingleStore Accelerates Go-to-Market Strategy with AWS"
+    excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, today announced it signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate their go-to-market approach."
+    publishedDateTime: 2024-03-05T18:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/05/9973306.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "imsGri5116jtLCixncnYthXpUpE3I78kSwu2xA79Qv7LL85yFGH/X1QMZ+nbz5N6LK4p+3njXQeQs8yilMPT1RwAO8IwvJllSJLlhVi7pXXko3kUq47vIzDUPKS1r4JssotrCl7kgMYqCyClBjD+mAI5xpVaXt294ITn+JMF3q1G4KSU8CINnEmke0+oGNUmgF8PwbeS8yCr4dIuClz9nFK2RxkTCC9HPfBTE74jrab/Y3fuXG6DXE6Njev2RtoqYGh5RKtJDTl0anGAgLpiQAQUepodyRICX3jFg7zSmjIarWn85V7sohtJQp5Xv9XLSM/pLVr1TmSZJLxPz1FSrFLfNrn9LdiZPptFfaIcU1g5FBF3lWvXCoXqAvfybIjQ6mSLBfmEcWG+ai2mYXE6AGypigtJ/MrB6BCS5sMhG8apRlFUf6np5G6weNYaD6ale7RrZfDLBTuqqkzWuo4OxHSrjGOzeozQsK8+Cg2/rYfP8/4n7kGbbWAuiOthNimUJQgHe2A9DQjwr1jynUrq7A==;Yx4g6kFs65doptMHqG6+iA=="
 ---

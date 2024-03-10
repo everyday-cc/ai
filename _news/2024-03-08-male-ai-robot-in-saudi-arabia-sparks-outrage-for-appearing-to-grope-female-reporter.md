@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robo cop-a-feel: Cheeky AI robot touches shocked woman's bottom at Saudi artificial intelligence event"
+    excerpt: "A cheeky male AI robot was caught touching a woman on the bottom in front of an audience while she reported from an artificial intelligence event. In hilarious fotage, reporter Rawya Kassem can be ..."
+    publishedDateTime: 2024-03-08T12:43:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 73
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2024/03/08/12/82207659-0-image-m-14_1709899954043.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Male AI robot appears to grope female reporter during interview at tech expo"
     excerpt: "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’"
     publishedDateTime: 2024-03-08T23:58:00Z
@@ -40,36 +56,6 @@ related:
       - url: "https://www.nydailynews.com/wp-content/uploads/2024/03/Screenshot_2_d284ea.jpg?w=1024&h=798"
         width: 1024
         height: 798
-        isCached: true
-  - title: "Saudi Arabia Male Robot 'Inappropriate' Act with Female Reporter Sparks Outrage"
-    excerpt: "The action caused a stir on social media, with many debating the appropriateness of the robot's behaviour. Additionally, the video captured the reporter's brief moment of surprise as the female reporter raised her hand."
-    publishedDateTime: 2024-03-07T12:47:00Z
-    webUrl: "https://www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518"
-    ampWebUrl: "https://www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
-    images:
-      - url: "https://c.ndtvimg.com/2024-03/3mj14jk8_saudi-arabia-male-robot_625x300_07_March_24.jpeg?ver-20240117.08"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Saudi Arabia’s First Male Robot Sparks Outrage For Inappropriately Touching Female Reporter During Live Interview"
-    excerpt: "During the unveiling, Muhammad was dressed in traditional attire, wearing a white thawb and red keffiyeh. Addressing the audience fluently in Arabic, Muhammad proudly introduced himself as Saudi Arabia's first male robot, underscoring his roots and development within the kingdom as a showcase of advancements in artificial intelligence."
-    publishedDateTime: 2024-03-07T08:25:00Z
-    webUrl: "https://in.mashable.com/culture/70948/saudi-arabias-first-male-robot-sparks-outrage-for-inappropriately-touching-female-reporter-during-li"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 48
-    images:
-      - url: "https://sm.mashable.com/mashable_in/seo/default/img-1815_v5ut.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "rMK7HpiVxCkxsGuSHLB1FDQ39Y/FoYxGkYDKjhqf64K2PNfUw7gDDSSq7T7KkW9R7m1hK3hivkOXVXgZ3Pp6rgiNuI1FjaCMwIEYJ8Rrw8wAiRQvuaCXK+8eb/Yr5riD8qsVeKWBDP2oA7aB2iVUo7AV/mq+RRFjmf8n4q99Kc1RpjLxHK3uSfQGojRFKYU1TxO1mfdK6dWW9Z32GnWqu50/TcjZQvzbcoysRALZiXtglQwdeqdfaqCwSAFOEEnWKaJ+b+jLoLhkiQRMPfvkDboOxjAgho2vuZChyKcctudQl9RC8ouCZMvFO1nUZMi/ozLAey0phywdSwYlPqk+5L0GlGsAz00jhx9wweDNBQvR7t0HGaCZsKdqRh7pPyHb3Lt+yNu3gE5cPqlWHLid6nRtS80iv9L37gCZorEEXoOXuSlfbEZazuQ4+INWQP4P8DjDq+auwK9FFPTCHbMOcvBwQDOsE4lhoKOiY0wqQ4GDp4nj3RXPIrdWPpKOMd4f4nNuTxVYj6AAA3CYO4IYlQ==;KzawBastXl9e4WP42vp9XQ=="

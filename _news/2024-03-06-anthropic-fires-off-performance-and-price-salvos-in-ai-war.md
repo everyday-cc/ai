@@ -47,17 +47,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
-    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
-    publishedDateTime: 2024-03-05T16:33:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 37
 
 secured: "Ur8v6vqh6du6jFp+GqlGmKvZCIUgZ81bZFXpGTHHbqujLqoYOSs/D4bRqNS+igA1KbhcPyCoTyV/aPlsqaZTqwm9rPjdhNfN3ZQZ9KMnKLc5XUZpkbyggN5L3FqLnqttqSxk6Dybe78C0PjpsfehsGSAI9ija8oawAMuKbmaj/ewDlOmo21ShY7W1tFaCtU8iqwMsY2iCHnd7r6twW1egm7og4P1qxFralNUFamPqGyOM34b1OekjFju8XlzN2sbDmJU+OWfUiVCRpujhLKnQvNO/66ZpiEgFdQYeUYe26N2YW2C+mxUcLVWUrXkVXavd089HDcdDhgtAOGve7roo9AhCmlochUFrKXMNlNLg5pqUXyJ0a97nKsi+Y4O8LNc8E2iluRWcdWUol5SwYAMAiw91GbNEtvogG0ekr7c+rHFs9ILTEyDFIZShb8hRxTu5A5GH6YaXTpg60Mxa4S1DxOmaAh/u3HCSmIUf51Egh6Vs3YbrAD22y644/mtnOaxwb3uv+9murEoyQU1z0OvUw==;oqoU2yFlRrlPjxQSBay67g=="
 ---

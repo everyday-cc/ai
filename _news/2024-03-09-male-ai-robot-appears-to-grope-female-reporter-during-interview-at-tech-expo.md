@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-report
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/"
 type: article
 quality: 71
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Daily News
@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Arabia Male Robot 'Inappropriate' Act with Female Reporter Sparks Outrage"
-    excerpt: "The action caused a stir on social media, with many debating the appropriateness of the robot's behaviour. Additionally, the video captured the reporter's brief moment of surprise as the female reporter raised her hand."
-    publishedDateTime: 2024-03-07T12:47:00Z
-    webUrl: "https://www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518"
-    ampWebUrl: "https://www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518/amp/1"
+  - title: "Robo cop-a-feel: Cheeky AI robot touches shocked woman's bottom at Saudi artificial intelligence event"
+    excerpt: "A cheeky male AI robot was caught touching a woman on the bottom in front of an audience while she reported from an artificial intelligence event. In hilarious fotage, reporter Rawya Kassem can be ..."
+    publishedDateTime: 2024-03-08T12:43:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 73
     images:
-      - url: "https://c.ndtvimg.com/2024-03/3mj14jk8_saudi-arabia-male-robot_625x300_07_March_24.jpeg?ver-20240117.08"
+      - url: "https://i.dailymail.co.uk/1s/2024/03/08/12/82207659-0-image-m-14_1709899954043.jpg"
         width: 1200
-        height: 738
-        isCached: true
-  - title: "Saudi Arabia’s First Male Robot Sparks Outrage For Inappropriately Touching Female Reporter During Live Interview"
-    excerpt: "During the unveiling, Muhammad was dressed in traditional attire, wearing a white thawb and red keffiyeh. Addressing the audience fluently in Arabic, Muhammad proudly introduced himself as Saudi Arabia's first male robot, underscoring his roots and development within the kingdom as a showcase of advancements in artificial intelligence."
-    publishedDateTime: 2024-03-07T08:25:00Z
-    webUrl: "https://in.mashable.com/culture/70948/saudi-arabias-first-male-robot-sparks-outrage-for-inappropriately-touching-female-reporter-during-li"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 48
-    images:
-      - url: "https://sm.mashable.com/mashable_in/seo/default/img-1815_v5ut.jpg"
-        width: 1920
-        height: 1080
+        height: 675
         isCached: true
   - title: "Male AI robot in Saudi Arabia sparks outrage for appearing to grope female reporter"
     excerpt: "A video clip just seven seconds long shows a moment that caused quite a stir about artificial intelligence. The clip, shot at DeepFest in Riyadh, Saudi Arabia, captured an AI robot named Mohammad making an improper gesture towards reporter Rawya Kassem."

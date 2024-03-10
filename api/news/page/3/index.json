@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
+      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
+      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-ai-solutions-at-leap.md",
+      "title": "Sahm Capital showcases latest fintech, AI solutions at LEAP",
+      "excerpt": "featuring an AI presenter named 'Aliyah', at LEAP 2024. The cirm also showcased its all-in-one comprehensive trading solutions at the four-day event. With focus on fintech innovation, the company provides comprehensive trading solutions, including the Sahm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
+      "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/38/1463605211.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
       "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
       "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
@@ -305,49 +400,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-rackspace-technology-achieves-the-aws-generative-ai-competency.md",
-      "title": "Rackspace Technology Achieves the AWS Generative AI Competency",
-      "excerpt": "Achieving the AWS Generative AI Competency in the categories of Consulting Services, Generative AI Applications, and Infrastructure and Data differentiates Rackspace Technology as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting key use cases for knowledge management,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieves-the-aws-generative-ai-competency-1033139305",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieves-the-aws-generative-ai-competency-1033139305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T20:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-07-qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai.md",
       "title": "Qualcomm 5G: Moore’s Law Slowing Down? No Problem, Just Add AI",
       "excerpt": "A lot has been said about Moore’s Law being dead or slowing down. AI can help deliver the performance increases that are needed with or without it.",
@@ -458,7 +510,7 @@
       "originalUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -497,6 +549,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-aws-launches-generative-ai-competency-to-grade-ai-offerings.md",
+      "title": "AWS launches Generative AI Competency to grade AI offerings",
+      "excerpt": "To help address this problem, Amazon Web Services (AWS) today launched a way to validate the helpfulness of these AI models. AWS' Generative AI Competency program aims to validate generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "originalUrl": "https://www.zdnet.com/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/75a15e995d758da0f83fd69a37fa69412fff4b77/2023/07/26/555753b7-65f1-4cac-b013-6d5c50a28bfc/img-7865.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "publishedDateTime": "2024-03-06T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -604,7 +708,7 @@
       "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1137,102 +1241,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-anthropic-aws-google-set-to-outpace-microsoft-openai-duo.md",
-      "title": "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo",
-      "excerpt": "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
-      "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T10:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla.md",
-      "title": "Open AI says Elon Musk demanded \"absolute control\" of the company or a merger with Tesla",
-      "excerpt": "OpenAI has responded to Elon Musk's lawsuit, stating that Musk himself backed for-profit plans and at one point wanted “absolute control” of the company or a merger with Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "originalUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1672878896_chatgpt-openai_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
-      "publishedDateTime": "2024-03-06T06:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

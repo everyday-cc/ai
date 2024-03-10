@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-06-anthropic-aws-google-set-to-outpace-microsoft-openai-duo.md",
+      "title": "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo",
+      "excerpt": "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
+      "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice.md",
+      "title": "Designing Equitable Ocean Technology: Generative AI and Ocean Technologies Meet Environmental Justice",
+      "excerpt": "In Designing Equitable Ocean Technology, we need to emphasize each country’s own technical capacity development. This is especially true today for marine artificial intelligence research like what Matt is doing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2024/03/OceanNexus_Webinar_poster_w_qr_print.png",
+          "width": 5400,
+          "height": 7200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T07:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla.md",
+      "title": "Open AI says Elon Musk demanded \"absolute control\" of the company or a merger with Tesla",
+      "excerpt": "OpenAI has responded to Elon Musk's lawsuit, stating that Musk himself backed for-profit plans and at one point wanted “absolute control” of the company or a merger with Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "originalUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1672878896_chatgpt-openai_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "publishedDateTime": "2024-03-06T06:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-nvidia-microsoft-and-jeff-bezos-invested-in-a-26-billion-robotics-start-up-heres-why-thats-good-news-for-tesla.md",
       "title": "Nvidia, Microsoft, and Jeff Bezos Invested in a $2.6 Billion Robotics Start-Up. Here's Why That's Good News for Tesla.",
       "excerpt": "The deal with Figure AI is just another stat-line showing that there is a big interest in this area of robotics. Furthermore, given the number of artificial intelligence (AI) businesses fueling ...",
@@ -904,6 +1051,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-05-i-tried-tripadvisors-free-ai-tool-to-plan-trips-to-maui-and-montreal-it-was-useful-in-some-ways-but-i-wont-stop-doing-my-own-trip-research.md",
+      "title": "I tried Tripadvisor's free AI tool to plan trips to Maui and Montreal. It was useful in some ways, but I won't stop doing my own trip research.",
+      "excerpt": "Before I got a 9-to-5, I spent a good chunk of my 20s freelancing while traveling out of a van or working on farms abroad so that I could stay for free weeks at a time. These days, my travel time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
+      "originalUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e68d376080194819fc6fa6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
+      "publishedDateTime": "2024-03-05T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-the-future-of-ai-skill-and-talent-development-in-the-workforce.md",
       "title": "The Future Of AI Skill And Talent Development In The Workforce",
       "excerpt": "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?",
@@ -1055,216 +1254,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-microsofts-new-orca-math-ai-outperforms-models-10x-larger.md",
-      "title": "Microsoft’s new Orca-Math AI outperforms models 10x larger",
-      "excerpt": "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all",
-          "width": 749,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-avoiding-the-swinging-pendulum-in-the-great-ai-debate.md",
-      "title": "Avoiding The Swinging Pendulum In The Great AI Debate",
-      "excerpt": "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "publishedDateTime": "2024-03-05T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-1-top-ai-stock-to-buy-before-2025-hint-its-not-nvidia.md",
-      "title": "1 Top AI Stock to Buy Before 2025 (Hint: It's Not Nvidia)",
-      "excerpt": "Nvidia has greatly benefited from the rise of artificial intelligence as its GPUs are widely used to train and run large AI models. Competition from rival chip companies and tech giants designing their own custom AI chips will likely erode Nvidia's dominance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/767980/gettyimages-1464561797.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T07:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-study-most-cmos-fail-to-understand-ai-beyond-chatgpt.md",
-      "title": "Study: Most CMOs Fail to Understand AI Beyond ChatGPT",
-      "excerpt": "The report, “Marketing's AI Era: Strategies & Measurement Driven by AI-Powered ... Camp Jefferson, Cossette Media, Impact Research, Jungle Media, K72, Level Eleven, Magic Circle Workshop, Make My Day, Middle Child, Mindshaker, Munvo, Septième ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/739441ea-6a05-41ba-856e-dd24b705c450/AIOS_Hero_Laptop.jpg",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T07:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -61,6 +61,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "The AI arms race between the US and China is heating up"
+    excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
+    publishedDateTime: 2024-03-10T12:00:00Z
+    webUrl: "https://www.aol.com/ai-arms-race-between-us-160000867.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Yd3S5pYzAQQcRSYpsPTUzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_yahoo_finance_433/d42c59090aee25fc521e482055c6743d"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Melinda Gates says using artificial intelligence in pregnancy could help save women's lives"
     excerpt: "Gates spoke to ABC News' Dr. Jennifer Ashton about the state of women's health. The Bill & Melinda Gates Foundation is working to increase access globally to AI-enabled ultrasound devices. Bill & Melinda Gates Foundation Each day,"
     publishedDateTime: 2024-03-08T09:11:00Z

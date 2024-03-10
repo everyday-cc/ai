@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating the balance: GPU-based solutions in AI implementation"
+    excerpt: "To embed our video on your website copy and paste the code below: Richard McQuaide, business development manager at HPE, provides insights into the complexities surrounding GPU-based solutions in AI implementation. The conversation focuses on striking a ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/"
+    ampWebUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 74
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/24081-hpe-int-demo-richard-mcquaide-v1-10-18000.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
     excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
     publishedDateTime: 2024-03-08T12:45:00Z

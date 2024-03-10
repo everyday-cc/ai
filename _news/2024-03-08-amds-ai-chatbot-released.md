@@ -50,20 +50,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "What do shoppers think of AI-powered chatbots?"
-    excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
-    publishedDateTime: 2024-03-05T17:35:00Z
-    webUrl: "https://drugstorenews.com/what-do-shoppers-think-ai-powered-chatbots"
-    type: article
-    provider:
-      name: Drug Store News
-      domain: drugstorenews.com
-    quality: 39
-    images:
-      - url: "https://assets1.drugstorenews.com/2021-03/DrugStoreNews_m.png"
-        width: 384
-        height: 268
-        isCached: true
   - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
     excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
     publishedDateTime: 2024-03-08T20:00:00Z

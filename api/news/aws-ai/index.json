@@ -54,29 +54,38 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-rackspace-technology-achieves-the-aws-generative-ai-competency.md",
-      "title": "Rackspace Technology Achieves the AWS Generative AI Competency",
-      "excerpt": "Achieving the AWS Generative AI Competency in the categories of Consulting Services, Generative AI Applications, and Infrastructure and Data differentiates Rackspace Technology as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting key use cases for knowledge management,",
+      "path": "_news/2024-03-07-aws-launches-generative-ai-competency-to-grade-ai-offerings.md",
+      "title": "AWS launches Generative AI Competency to grade AI offerings",
+      "excerpt": "To help address this problem, Amazon Web Services (AWS) today launched a way to validate the helpfulness of these AI models. AWS' Generative AI Competency program aims to validate generative AI ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieves-the-aws-generative-ai-competency-1033139305",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieves-the-aws-generative-ai-competency-1033139305",
+      "webUrl": "https://www.zdnet.com/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "originalUrl": "https://www.zdnet.com/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 144,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/75a15e995d758da0f83fd69a37fa69412fff4b77/2023/07/26/555753b7-65f1-4cac-b013-6d5c50a28bfc/img-7865.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T20:37:00Z",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "publishedDateTime": "2024-03-06T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -157,7 +166,7 @@
       "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {

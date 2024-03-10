@@ -2,6 +2,188 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-12-06-are-we-choking-the-golden-goose-the-chilling-effect-of-overbroad-rules-and-ethics-opinions-on-the-use-of-generative-ai.md",
+      "title": "Are We Choking the Golden Goose? The Chilling Effect of Overbroad Rules and Ethics Opinions on the Use of Generative AI",
+      "excerpt": "Generative AI is powering an explosion of innovative public and private sector models, though this burgeoning industry remains in its infancy. GenAI products gained widespread notoriety and availability in one amazing year. Lawyers, law firms, and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16197_0825.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-artificial-intelligence-makes-gripping-more-intuitive.md",
+      "title": "Artificial intelligence makes gripping more intuitive",
+      "excerpt": "“These are movements that the patient has to learn during rehabilitation,” says Cristina Piazza, a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/news2/robotics/id64193_1.jpg",
+          "width": 1458,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
+      "title": "AWS announces Amazon Q to reimagine the future of work",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/N2IxMDA4ZjQtMTJiNi00/0/amazon-q-business-image-png.jpeg?f=3%3A2",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt.md",
+      "title": "Google Bard's biggest AI upgrade so far sees it close the gap on ChatGPT",
+      "excerpt": "Google Bard is receiving a huge boost in performance as it will now be powered by the company’s “most capable AI model”, Gemini. Gemini comes in three different “sizes”; however ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
+      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
       "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
       "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
@@ -935,196 +1117,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-best-robot-vacuum-deals-you-can-get-before-christmas.md",
-      "title": "Best robot vacuum deals you can get before Christmas",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart vacuum ... or device to better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum. \"I got this for my upstairs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/05/724c21c8-fc5e-43c1-a55a-86258bc526cf/thumbnail/1200x630/848eabad8d7da534f7e1531333ae652e/robot-vacuum-head.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T17:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence.md",
-      "title": "Rejoy Health is revolutionizing back and joint pain care with Artificial Intelligence",
-      "excerpt": "In an era where technological advancements continue to reshape the landscape of healthcare, Rejoy Health has emerged as a pioneer with its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/H3tVBQ8eYTfncfBbpMqhAKirLIh1Z62xUkB8z80Mmlp_EqXLAYIp3ez5l5jN0-4bXl7Y2oi-tDX8CKfALBLf910zlhkIeHkBl_DAn65odV-afwM3UZTdcyennZq_uGb2uzzjpR-MTNxJJdEMW2nYCVQ",
-          "width": 1600,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility.md",
-      "title": "AWS Unveils Major Bedrock Upgrade: More AI Models and Enhanced User Flexibility",
-      "excerpt": "As the generative AI landscape continually evolves with new use cases emerging, Amazon Web Services (AWS) is keeping pace by enhancing its Bedrock",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/12/05/aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility/",
-      "originalUrl": "https://www.datanami.com/2023/12/05/aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/11/layers_shutterstock_AIgenerated.jpg",
-          "width": 1545,
-          "height": 1004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-us.md",
-      "title": "Another blow for self-driving trucks as former industry leader abandons the US",
-      "excerpt": "When TuSimple went public in 2021 it was flying high as the leading self-driving trucks developer in the United States. Now — after a string of internal controversies and the loss of a critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/",
-      "originalUrl": "https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/amp/",
-      "publishedDateTime": "2023-12-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

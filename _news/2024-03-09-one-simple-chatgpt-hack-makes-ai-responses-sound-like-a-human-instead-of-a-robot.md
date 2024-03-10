@@ -109,20 +109,6 @@ related:
         width: 1280
         height: 710
         isCached: true
-  - title: "Anthropic Releases a New AI Model, Promising It's Cleverer than ChatGPT"
-    excerpt: "After billions in cash injections, Anthropic is backing the launch of its newest-generation AI with big promises."
-    publishedDateTime: 2024-03-05T17:45:00Z
-    webUrl: "https://www.inc.com/kit-eaton/anthropic-releases-a-new-ai-model-promising-its-cleverer-than-chatgpt.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/anthropic-ai-GettyImages-1500238079_538121_v90dre.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "This AI malware worm is capable of turning ChatGPT against you"
     excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
     publishedDateTime: 2024-03-08T22:34:00Z

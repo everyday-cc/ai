@@ -57,6 +57,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
+    excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
+    publishedDateTime: 2024-03-10T09:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 29
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444543/2022-world-robot-conference.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "l5G4yGMFGfXcq//MSOg5qXLGC4e48sbfT4uUZL7EaQ1/et3DzS2bBkr2T181zgE+1qIb/sojMBNcEXdUjRxA4FmV7L95rtm0R8GWZ+hJQJ3pOtgyLd8DUMvcTpT3cuB9cbDvv4ngWQvqa1U+XtwVlNuTMrMKHfsPX/x9+e5mRqmCcSySW5sNJkJKoyOCgaUToQ7czVG6YRFQCOt4A+pRrzY8TR0osIAqQl3+vUYVnZzBplcYq2rfpnhnnNTgUKLIL7+PII07dpZk90IxeAnmLA0YTRdnWXp6QYHl/JjxCLMdeNBW6TbthH/wbbWVePDqJxJ/YmqHKTMi5CfH06NySyRX/bh3wZfFF+dzWMrLYkc=;y6pu9j8xdVgi88YUx8S4hg=="
 ---

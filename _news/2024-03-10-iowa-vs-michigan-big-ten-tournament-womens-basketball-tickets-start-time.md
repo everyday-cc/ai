@@ -136,6 +136,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Charlotte vs. Tulane AAC Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 14 seed Tulane Green Wave (11-19 ... Northeastern CAA Tournament Women's Basketball Tickets & Start Time UNC Greensboro vs. Chattanooga Women's SoCon Tournament Championship Tickets & Start Time East Carolina ..."
+    publishedDateTime: 2024-03-10T17:05:00Z
+    webUrl: "https://www.wect.com/sports/betting/2024/03/10/charlotte-vs-tulane-buy-aac-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WECT
+      domain: wect.com
+    quality: 20
+    images:
+      - url: "https://gray-wect-prod.cdn.arcpublishing.com/resizer/v2/EXERAZYBUZNOFOCWFV6SZDS7NU.jpg?auth=1e29c3854ae67673dc2079b571d47333690cc9f2165f0cdfda530e93a7e8bb11&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Iowa State vs. Baylor Big 12 Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 4 seed Iowa State Cyclones (18-10 ... Lehigh Patriot Tournament Women's Basketball Tickets & Start Time Bucknell vs. American Patriot Tournament Women's Basketball Tickets & Start Time UC Riverside vs."
     publishedDateTime: 2024-03-09T06:21:00Z
@@ -147,6 +161,20 @@ related:
     quality: 18
     images:
       - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/Q4LAMNVS2VI65J7YMESUCS2IOE.jpg?auth=463ea0fa6ead9758c8ea49ddbe4c2fcca9a96366b1be196c483d6e6137dcf65f&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "UCSB vs. Long Beach State Big West Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 6 seed UCSB Gauchos (16-14) and the No. 7 seed Long Beach State Beach (13-17) will look to advance in the Big West tournament on Wednesday as they square off at 5:30 PM ET."
+    publishedDateTime: 2024-03-10T17:05:00Z
+    webUrl: "https://www.kcrg.com/sports/betting/2024/03/13/ucsb-vs-long-beach-state-buy-big-west-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 15
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/NIZUBJKIB5JAXF2WC5QSGIFDZM.jpg?auth=cd2ea4565ac8d10bbd972750439f5319513319c9dd7b72e329961c94293f610f&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

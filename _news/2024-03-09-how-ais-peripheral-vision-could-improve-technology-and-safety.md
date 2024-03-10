@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/how-ais-peripheral-vision-could-improve-techn
 webUrl: "https://www.unite.ai/how-ais-peripheral-vision-could-improve-technology-and-safety/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 400
     height: 240
     isCached: true
+
+related:
+  - title: "Designing Equitable Ocean Technology: Generative AI and Ocean Technologies Meet Environmental Justice"
+    excerpt: "In Designing Equitable Ocean Technology, we need to emphasize each country’s own technical capacity development. This is especially true today for marine artificial intelligence research like what Matt is doing."
+    publishedDateTime: 2024-03-06T07:43:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 52
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/03/OceanNexus_Webinar_poster_w_qr_print.png"
+        width: 5400
+        height: 7200
+        isCached: true
+  - title: "Closing Skills Gaps With Technology: AI's Role In Boosting Service Efficiency"
+    excerpt: "It's clear the service sector is increasingly intertwined with the strategic use of technology, particularly through the adoption of appropriate AI tools."
+    publishedDateTime: 2024-03-06T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/closing-skills-gaps-with-technology-ais-role-in-boosting-service-efficiency/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
 
 secured: "T9l48jT8fw3ZOkD9wm27pevtMPs436niT7/00MyNfL2YcGaxun/5Vx/d3bFJg3YLb/VRPi/Lxt/D8SxcIQSgzsgVgZKx3fiP3pzzIJMTWh+Hr8WPIkWDKXwb9IYdiKXnO4QUb+XDdDka2Rbkh1fJJFHfKuanxD1rHYvQsb1z1i+qHKmLThBzx8ex64PKkS4HnUpc4la9c+DAz4XdcHHWOmHZ8MudrQ2RoNzpoFqFXRKHQDJAWlBpfUBJc0B/2lBsc9QvZkM10DReIZ0gCMmLS4osW7FaAa+Nrm9jfzrhBB4ROlWb6uftEOnutXSNEK6hKd8SZ8ayXX/gl3iP8EF4ZBqgoRMlfUd/QOGBJx1v5oDqPixsRy573ajpdnA5O+ZP0DcYhw1fZu+4qv2Da69P6GnPsp+XThG5r2qTYmizUe9eq9awCg+IUrv9oSLEtFgKeHepE8xzn7nQiH5H8ydPW//WnPSIdPH68P4liYRpmxLZ0t8x2C2Ec1Upt8GgcrAdrkZIF4S/H2B4JZA0NF5DZQ==;oX4L2yvB7PvwFL0/j4Pmaw=="
 ---

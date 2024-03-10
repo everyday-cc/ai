@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-a
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518/amp/1"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Male AI robot appears to grope female reporter during interview at tech expo"
-    excerpt: "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’"
-    publishedDateTime: 2024-03-08T23:58:00Z
-    webUrl: "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/"
-    ampWebUrl: "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 71
-    images:
-      - url: "https://www.nydailynews.com/wp-content/uploads/2024/03/Screenshot_2_d284ea.jpg?w=1024&h=798"
-        width: 1024
-        height: 798
-        isCached: true
   - title: "Saudi Arabia’s First Male Robot Sparks Outrage For Inappropriately Touching Female Reporter During Live Interview"
     excerpt: "During the unveiling, Muhammad was dressed in traditional attire, wearing a white thawb and red keffiyeh. Addressing the audience fluently in Arabic, Muhammad proudly introduced himself as Saudi Arabia's first male robot, underscoring his roots and development within the kingdom as a showcase of advancements in artificial intelligence."
     publishedDateTime: 2024-03-07T08:25:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://sm.mashable.com/mashable_in/seo/default/img-1815_v5ut.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Male AI robot in Saudi Arabia sparks outrage for appearing to grope female reporter"
-    excerpt: "A video clip just seven seconds long shows a moment that caused quite a stir about artificial intelligence. The clip, shot at DeepFest in Riyadh, Saudi Arabia, captured an AI robot named Mohammad making an improper gesture towards reporter Rawya Kassem."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2024/mar/8/male-ai-robot-in-saudi-arabia-sparks-outrage-for-a/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 48
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
         isCached: true
 
 secured: "eINAXqUcAqOuT8n6ptCrTkLbbZ/WX1MBPcz7A6aSY7ndO91O/G0+eG94I58y2rNrOTFrwTUSraPMCGigNN+Lvrnj7X2rvZLG/9eN/hRSNgx0sGbOP8qrK6qkQdty7gRDS99qQVCnL8Sdl7Ax2dPS8/wkvW/ZwVtQwmJL0VdF9f5YQUay7+bciAVWTvrohnCJdMXxemt6qW4CnU55YEwMUcisZoRVivxfTN7pEXwxcXOWlp6STaNpRcLvxzQFYwZbdSPqbgdh0pcKh4+dFEWmLa9XXB69vZ7SwhhCrlF9vm/G4P1itXRsdvLbfByJpKdy7LWrfxPkxr74R+VeOylQljOT2fyNdhvwprp40gTmZW8=;UE9FZLbl8WeKD8Ll1lqcyQ=="

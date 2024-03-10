@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-19-attackers-could-eavesdrop-on-ai-conversations-on-apple-amd-imagination-and-qualcomm-gpus.md",
+      "title": "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs",
+      "excerpt": "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
+      "originalUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/leftoverlocals-logo-jan-24-hero.jpeg",
+          "width": 1090,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T03:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.md",
       "title": "Mark Zuckerberg wants to build Artificial General Intelligence (AGI)",
       "excerpt": "Mark Zuckerberg is planning more AI as the focus of global tech majors ... known for creating Facebook, the first widely used social media platform. It’s still in operation today and continues ...",
@@ -1267,49 +1320,6 @@
       "provider": {
         "name": "First Coast News",
         "domain": "firstcoastnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-study-shows-ai-image-generators-being-trained-on-explicit-photos-of-children.md",
-      "title": "Study shows AI image-generators being trained on explicit photos of children",
-      "excerpt": "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse",
-      "sourceUrl": null,
-      "webUrl": "https://sentinelcolorado.com/nation-world/nation/study-shows-ai-image-generators-being-trained-on-explicit-photos-of-children/",
-      "originalUrl": "https://sentinelcolorado.com/nation-world/nation/study-shows-ai-image-generators-being-trained-on-explicit-photos-of-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sentinelcolorado.com/wp-content/uploads/2023/12/AP23354573212179.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sentinel Colorado",
-        "domain": "sentinelcolorado.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -59,6 +59,22 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
+    excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
+    publishedDateTime: 2024-03-10T09:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 29
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444543/2022-world-robot-conference.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "w8dsduZG+Cml2HCDtUgWzZ9bEJmveP6CIqBcvIDXtp0J4RY6IoXSBXIq4isag5OBTgOc/zY0JUQvd3r4G1kPc86kZam9/ohtFrb+pAOhNBPqtxn8MMDJd5OFerx4y079ovk76tnVqilR0wUNVlHF/DlYXRn2pkYZOvXMBl4iVEPz0gCPp8QPQV4PWRgH6YUPuT88aGGK8ykCh0o74Ka1x/ti3aVSnWpMQ2KSRFy6VzazsiXo2cW26lAWGYOmFrkPmYbZJcQ/Big94juU3SpP84pr8A9qigtdxuGxdLbE4gExshjAh6k8eTbL0iBX73kHwXttXht69sBW9Tls++c7b9bFlWFSPIkIyanwIFpRp+l7pXbo/ul2S+1DOsOXdNSDPxlh7CeS8sGbcFxuBIdRWtKNeg+aVj/f3FFFVCayefFpzTpi5T85XFfc9kwOc+uSRPM5k6gxdZnwjdVWKT69T66LX9bYUvxsx9OyJH+i3RzzSUMQhXgYQXCb+DaX5OrCxGyawPFBUdByNZJhDM8PIA==;dNcKkiSEPEJ5X20G0j5vUg=="
 ---

@@ -2,6 +2,216 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-05-microsofts-new-orca-math-ai-outperforms-models-10x-larger.md",
+      "title": "Microsoft’s new Orca-Math AI outperforms models 10x larger",
+      "excerpt": "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
+      "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 273,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all",
+          "width": 749,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-avoiding-the-swinging-pendulum-in-the-great-ai-debate.md",
+      "title": "Avoiding The Swinging Pendulum In The Great AI Debate",
+      "excerpt": "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
+      "publishedDateTime": "2024-03-05T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-1-top-ai-stock-to-buy-before-2025-hint-its-not-nvidia.md",
+      "title": "1 Top AI Stock to Buy Before 2025 (Hint: It's Not Nvidia)",
+      "excerpt": "Nvidia has greatly benefited from the rise of artificial intelligence as its GPUs are widely used to train and run large AI models. Competition from rival chip companies and tech giants designing their own custom AI chips will likely erode Nvidia's dominance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/767980/gettyimages-1464561797.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T07:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-study-most-cmos-fail-to-understand-ai-beyond-chatgpt.md",
+      "title": "Study: Most CMOs Fail to Understand AI Beyond ChatGPT",
+      "excerpt": "The report, “Marketing's AI Era: Strategies & Measurement Driven by AI-Powered ... Camp Jefferson, Cossette Media, Impact Research, Jungle Media, K72, Level Eleven, Magic Circle Workshop, Make My Day, Middle Child, Mindshaker, Munvo, Septième ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/739441ea-6a05-41ba-856e-dd24b705c450/AIOS_Hero_Laptop.jpg",
+          "width": 4500,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T07:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-brazen-drug-ads-wreak-havoc-thanks-to-metas-facebook-ad-algorithms.md",
       "title": "Brazen Drug Ads Wreak Havoc Thanks to Meta’s Facebook Ad Algorithms",
       "excerpt": "Deloitte Canada’s report, “Clearing the Smoke: Insights to Canada’s Illicit Cannabis Market,” was supposed to provide data on illegal cannabis sales, but McGrath’s research ... and AI for the first round of filtration.” Facebook responded ...",
@@ -967,202 +1177,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together.md",
-      "title": "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together",
-      "excerpt": "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T14:52:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-jim-cramer-says-these-4-stocks-are-better-ai-plays-than-red-hot-super-micro-computer.md",
-      "title": "Jim Cramer says these 4 stocks are better AI plays than red-hot Super Micro Computer",
-      "excerpt": "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio. Super Micro Computer : Shares surged nearly 25% on Monday after the artificial intelligence server maker was selected late Friday to join the S & P 500 later in March.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
-      "originalUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107364684-17062129482023-02-17t102124z_2115759463_rc2xcz9bgstp_rtrmadp_0_amd-results.jpeg?v=1706213119&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T14:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-customers-expect-more-todayhow-ai-can-help-brands-deliver.md",
-      "title": "Customers Expect More Today—How AI Can Help Brands Deliver",
-      "excerpt": "Meeting today’s customer expectations has been an ongoing challenge for contact center leaders, and they are well aware of the constraints of their legacy technologies for providing digital experiences. The first step toward modernization is cloud adoption, which usually entails deploying some form of CCaaS (contact-center-as-a-service).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e201d04ec7953e14743576/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1504,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
-      "publishedDateTime": "2024-03-04T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-ai-powered-decision-making-its-impact-on-the-enterprise-value-chain.md",
-      "title": "AI-Powered Decision Making: Its Impact On The Enterprise Value Chain",
-      "excerpt": "Companies that are willing to test and learn are overcoming decision-making challenges, improving operations and making workers' lives easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62337b27ece1d59239e707ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
-      "publishedDateTime": "2024-03-04T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

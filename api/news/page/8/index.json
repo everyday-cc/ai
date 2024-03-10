@@ -2,6 +2,212 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-03-01-three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024.md",
+      "title": "Three Custom AI Solutions To Implement To Increase Efficiency In 2024",
+      "excerpt": "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6435b467d9420e08b2b0e670/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024/amp/",
+      "publishedDateTime": "2024-03-01T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog.md",
+      "title": "The Energy Sector And AI: Unplugging The Interconnection Queue Backlog",
+      "excerpt": "The ripple effect of the interconnection queue goes beyond regulatory delays; it directly impacts organizations' access to affordable and sustainable power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0a3288e978fb53b0207bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1099,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/amp/",
+      "publishedDateTime": "2024-03-01T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-us-regulation.md",
+      "title": "Salesforce's top AI ethics leader says she's 'optimistic' on the path to U.S. regulation",
+      "excerpt": "Paula Goldman, Salesforce's chief ethical and humane use officer, told CNBC that she sees momentum toward concrete federal AI laws in the United States. \"I remain optimistic, because I think if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "originalUrl": "https://www.cnbc.com/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107380428-1709222739626-gettyimages-2036330307-PCARTIE_0023.jpeg?v=1709277650",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "publishedDateTime": "2024-03-01T10:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-russian-kamikaze-drone-now-seems-to-identify-its-own-targets.md",
+      "title": "Russian Kamikaze Drone Now Seems To Identify Its Own Targets",
+      "excerpt": "New video seems to show a version of the Lancet used by Russian Special Forces with automated object recognition identifying tanks, self-propelled guns and other targets",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e199afe7cc0647aba49a17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 829,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
+      "publishedDateTime": "2024-03-01T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-apple-may-soon-be-feeling-the-heat-from-investors-over-its-slow-rollout-of-buzzy-ai-products.md",
       "title": "Apple may soon be feeling the heat from investors over its slow rollout of buzzy AI products",
       "excerpt": "Tim Cook attempted to reassure shareholders that the company is committed to AI innovation.",
@@ -1000,213 +1206,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
-      "title": "What Not To Do With AI In Your Job Search",
-      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1348,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "publishedDateTime": "2024-02-29T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock.md",
-      "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
-      "excerpt": "Amazon Bedrock provides a broad range of models from Amazon and third-party providers, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, embedding, chat, high-level agents with reasoning and orchestration, and more. Knowledge",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/rag-for-drug-discovery-1121x630.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T16:25:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service.md",
-      "title": "Unlock personalized experiences powered by AI using Amazon Personalize and Amazon OpenSearch Service",
-      "excerpt": "OpenSearch is a scalable, flexible, and extensible open source software suite for search, analytics, security monitoring, and observability applications, licensed under the Apache 2.0 license. Amazon OpenSearch Service is a fully managed service that makes it straightforward to deploy, scale, and operate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/ML-14964-os-domain-associate-1024x627.png",
-          "width": 1024,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T16:18:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-automate-amazon-sagemaker-pipelines-dag-creation.md",
-      "title": "Automate Amazon SageMaker Pipelines DAG creation",
-      "excerpt": "Creating scalable and efficient machine learning (ML) pipelines is crucial for streamlining the development, deployment, and management of ML models. In this post, we present a framework for automating the creation of a directed acyclic graph (DAG) for Amazon SageMaker Pipelines based on simple configuration",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/21/DBSBLOG-ML-15437-01-1072x630.png",
-          "width": 1072,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T16:13:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -67,6 +67,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "The AI arms race between the US and China is heating up"
+    excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
+    publishedDateTime: 2024-03-10T12:00:00Z
+    webUrl: "https://www.aol.com/ai-arms-race-between-us-160000867.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Yd3S5pYzAQQcRSYpsPTUzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_yahoo_finance_433/d42c59090aee25fc521e482055c6743d"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Intuit Study Finds Women Entrepreneurs Around the World Want to Use AI More for Their Businesses"
     excerpt: "Female entrepreneurs in low- and middle-income countries rely on cell phones and digital tools, creating opportunities for companies to offer products tailored to them."
     publishedDateTime: 2024-03-07T14:12:00Z

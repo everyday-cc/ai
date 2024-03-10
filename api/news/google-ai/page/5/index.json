@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-06-6-features-that-could-come-to-google-bard-in-2024.md",
+      "title": "6 Features That Could Come To Google Bard in 2024",
+      "excerpt": "After a slow start, Google Bard is catching up to its AI competitors such as OpenAI’s Chat GPT and 2024 will see the addition of a host of new features to the search giant’s AI product, although it’s not certain which of these features will make it out of development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "originalUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.talkandroid.com/wp-content/uploads/2024/01/Google-Bard.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "talkandroid.com",
+        "domain": "talkandroid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-google-is-reportedly-working-on-an-advanced-version-of-its-bard-chatbot.md",
       "title": "Google Is Reportedly Working on an Advanced Version of Its Bard Chatbot",
       "excerpt": "Google is seemingly working on developing a more advanced version of its Bard chatbot. Launched in May 2023, Google’s conversational AI bot was designed to be a competitor to ChatGPT but fell flat with many users compared to OpenAI ’s model.",
@@ -1309,59 +1352,6 @@
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare.md",
-      "title": "ChatGPT vs. Google Bard, round 2: How does the new Gemini model fare?",
-      "excerpt": "The new Gemini-powered Bard keeps the same spirit (\"He envisioned a sport that would unite people...\") with more concision and focus. Interestingly, GPT-3.5 is the only model we tested to imagine Lincoln as a youth instead of a restless president sitting in the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
-      "originalUrl": "https://arstechnica.com/ai/2023/12/chatgpt-vs-google-bard-round-2-how-does-the-new-gemini-model-fare/3/?view=grid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/chatgpt-vs-bard-round2-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T19:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

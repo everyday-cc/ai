@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-10-google-is-breaking-too-many-things-in-a-rush-to-lead-on-ai.md",
+      "title": "Google is breaking too many things in a rush to lead on AI",
+      "excerpt": "Early versions of Google’s Bard gave incorrect answers to questions, hallucinated facts, and struggled with simple maths. Google’s model has improved since then, but early Bard was more of a kneejerk response rather than a planned product to lead the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-move-fast-break-ai-3423665/",
+      "originalUrl": "https://www.androidauthority.com/google-move-fast-break-ai-3423665/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T16:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-10-the-coalition-for-health-ai-is-a-goo-goo-not-yet-a-revolutionary.md",
       "title": "The Coalition For Health AI Is A ‘Goo-Goo,’ Not Yet A Revolutionary",
       "excerpt": "The Coalition for Health AI wants to be the \"curator of best practices of AI in health,\" but it's unclear if that will involve enabling true patient empowerment.",
@@ -293,7 +345,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -375,49 +427,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-male-ai-robot-appears-to-grope-female-reporter-during-interview-at-tech-expo.md",
-      "title": "Male AI robot appears to grope female reporter during interview at tech expo",
-      "excerpt": "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
-      "originalUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/wp-content/uploads/2024/03/Screenshot_2_d284ea.jpg?w=1024&h=798",
-          "width": 1024,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
-      "publishedDateTime": "2024-03-08T23:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -703,7 +712,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -944,7 +953,7 @@
       "originalUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "",
@@ -976,6 +985,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-robo-cop-a-feel-cheeky-ai-robot-touches-shocked-womans-bottom-at-saudi-artificial-intelligence-event.md",
+      "title": "Robo cop-a-feel: Cheeky AI robot touches shocked woman's bottom at Saudi artificial intelligence event",
+      "excerpt": "A cheeky male AI robot was caught touching a woman on the bottom in front of an audience while she reported from an artificial intelligence event. In hilarious fotage, reporter Rawya Kassem can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/03/08/12/82207659-0-image-m-14_1709899954043.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "publishedDateTime": "2024-03-08T12:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1122,58 +1174,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-ai-may-kill-the-one-job-everyone-thought-it-would-create.md",
-      "title": "AI may kill the one job everyone thought it would create",
-      "excerpt": "Copy Link Could prompt engineering be on the list of jobs that AI will kill next? Prompt engineers write input ... which we've talked about on the show.\" Though research has shown promising performances for prompt optimizers, some experts caution that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3",
-      "originalUrl": "https://www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65ea50e26080194819fddbdb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3?amp",
-      "publishedDateTime": "2024-03-08T10:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

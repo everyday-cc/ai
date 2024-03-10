@@ -2,6 +2,213 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
+      "title": "What Not To Do With AI In Your Job Search",
+      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1348,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "publishedDateTime": "2024-02-29T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock.md",
+      "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
+      "excerpt": "Amazon Bedrock provides a broad range of models from Amazon and third-party providers, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, embedding, chat, high-level agents with reasoning and orchestration, and more. Knowledge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/29/rag-for-drug-discovery-1121x630.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T16:25:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service.md",
+      "title": "Unlock personalized experiences powered by AI using Amazon Personalize and Amazon OpenSearch Service",
+      "excerpt": "OpenSearch is a scalable, flexible, and extensible open source software suite for search, analytics, security monitoring, and observability applications, licensed under the Apache 2.0 license. Amazon OpenSearch Service is a fully managed service that makes it straightforward to deploy, scale, and operate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/ML-14964-os-domain-associate-1024x627.png",
+          "width": 1024,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T16:18:18Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-automate-amazon-sagemaker-pipelines-dag-creation.md",
+      "title": "Automate Amazon SageMaker Pipelines DAG creation",
+      "excerpt": "Creating scalable and efficient machine learning (ML) pipelines is crucial for streamlining the development, deployment, and management of ML models. In this post, we present a framework for automating the creation of a directed acyclic graph (DAG) for Amazon SageMaker Pipelines based on simple configuration",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/21/DBSBLOG-ML-15437-01-1072x630.png",
+          "width": 1072,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T16:13:08Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton.md",
       "title": "Accelerating large-scale neural network training on CPUs with ThirdAI and AWS Graviton",
       "excerpt": "This guest post is written by Vihan Lakshman, Tharun Medini, and Anshumali Shrivastava from ThirdAI. Large-scale deep learning has recently produced revolutionary advances in a vast array of fields. Although this stunning progress in artificial intelligence remains remarkable, the financial costs and",
@@ -963,168 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-common-challenges-in-natural-language-processing-development.md",
-      "title": "Common Challenges in Natural Language Processing Development",
-      "excerpt": "Natural language Processing (NLP) technology is promising due to its capacity to enable machines to process and understand human language, but it faces many issues that hinder it from seamless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/25818/common-challenges-in-natural-language-processing-development",
-      "originalUrl": "https://www.finextra.com/blogposting/25818/common-challenges-in-natural-language-processing-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T09:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-transformative-role-of-artificial-intelligence-in-revolutionizing-healthcare.md",
-      "title": "Transformative role of artificial intelligence in revolutionizing healthcare",
-      "excerpt": "L. Max Niki, as Chair in Engineering and VP for Presidential Initiatives at the University of Southern California, shares insights into the multifaceted applications of artificial intelligence (AI) in addressing complex healthcare challenges in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmabiz.com/ArticleDetails.aspx?aid=166664&sid=11",
-      "originalUrl": "https://www.pharmabiz.com/ArticleDetails.aspx?aid=166664&sid=11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pharmabiz",
-        "domain": "pharmabiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience.md",
-      "title": "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience",
-      "excerpt": "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/",
-      "publishedDateTime": "2024-02-29T06:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed.md",
-      "title": "Google’s AI Struggles: Gemini isn’t too woke. It’s too rushed",
-      "excerpt": "It shut the feature down, and then made the problem worse by firing two of its leading AI ethics researchers. These were the people whose job was to make sure that Google’s technology was fair in how it depicted women and minorities. Not overly diverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/gemini-ai-bbo.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html/amp",
-      "publishedDateTime": "2024-02-29T06:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

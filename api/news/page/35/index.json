@@ -2,6 +2,178 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2024-02-13-sweet-robo-unveils-cutting-edge-robotic-vending-machines-for-treats.md",
+      "title": "Sweet Robo Unveils Cutting-Edge Robotic Vending Machines for Treats",
+      "excerpt": "BROOKLYN, NY / ACCESSWIRE / February 12, 2024 / Sweet Robo introduces innovative, automated vending machines that redefine the way users experience treats. The company specializes in crafting machines",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61384862-sweet-robo-unveils-cutting-edge-robotic-vending-machines-for-treats-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61384862-sweet-robo-unveils-cutting-edge-robotic-vending-machines-for-treats-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T19:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-bidens-upcoming-physical-exam-will-not-include-a-cognitive-test-white-house-says.md",
+      "title": "Biden's upcoming physical exam will not include a cognitive test, White House says",
+      "excerpt": "President Biden will not take a cognitive test as part of his upcoming physical exam, the White House confirmed Monday. White House press secretary Karine Jean-Pierre stated that Biden's physician ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d61beb5b-2fdb-4ed2-8828-9d637f81b42d/624998bf-6f91-4b7d-b2ce-a2b40b59bcb8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
+      "publishedDateTime": "2024-02-12T19:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-automotive-industry-likely-to-continue-leading-robotics-growth-says-a3.md",
+      "title": "Automotive industry likely to continue leading robotics growth, says A3",
+      "excerpt": "The automotive industry will keep driving North American robotics adoption despite the current economic slowdown, according to A3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
+      "originalUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/ABB_Automotive_Manufacturing.jpg",
+          "width": 770,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research.md",
+      "title": "During Edmonds College talk, virologist explains how AI is changing gene therapy research",
+      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene",
+      "sourceUrl": null,
+      "webUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "originalUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myedmondsnews.com/wp-content/uploads/2024/02/IMG_7313.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My Edmonds News",
+        "domain": "myedmondsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation.md",
       "title": "Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation",
       "excerpt": "Businesses are increasingly turning to event-driven architecture (EDA) as a strategic approach to harness real-time data.\nThe post Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation appeared first on IBM Blog.\n",
@@ -951,188 +1123,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact.md",
-      "title": "How Luxury Brands Are Leveraging Blockchain and AI For Business Impact",
-      "excerpt": "When it comes to blockchain, luxury brands from watches to jewelry and leather goods are doubling down on utility, leveraging the technology to bring real impact to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b0011c01eac6af08cd5643/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1284,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/amp/",
-      "publishedDateTime": "2024-02-12T06:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "BusinessWire India Chennai Tamil Nadu [India] February 12 Amadis Technologies Pvt Ltd today announced the availability of CloudCADI in the Microsoft Azure Marketplace the Microsoft online store that p",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service.md",
-      "title": "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service",
-      "excerpt": "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "originalUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "publishedDateTime": "2024-02-12T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-hong-kong-police-head-says-city-may-use-facial-recognition-to-maintain-national-security-fight-crime.md",
-      "title": "Hong Kong police head says city may use facial recognition to maintain national security, fight crime",
-      "excerpt": "Set of norms will be designed on the use of personal information gathered by a new network of CCTV cameras, said Commissioner of Police Raymond Siu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2024/02/12/4a7446af-b43f-4577-854c-2fcab2fbaa02_a3f0a515.jpg?itok=ZpAUqNU3&v=1707709327",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T04:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

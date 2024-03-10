@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "SingleStore Partners with AWS to Advance Real-Time Data Analytics and AI Applications"
+    excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, announced it"
+    publishedDateTime: 2024-03-07T14:32:00Z
+    webUrl: "https://www.datanami.com/this-just-in/singlestore-partners-with-aws-to-advance-real-time-data-analytics-and-ai-applications/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 27
+
 secured: "PH8pDI8lBp/JwUM1WkMOeFEpW8GTXN1VqMBmU4KgI6aPnh3N7dJG+9YHscEOryV41e6j2irQCsBux3cgBdKP/AyQM45krHyqNnf/Srg1VpXbwpifGz6s80SppTi4oOLLypNFA8bEv+uJrnK1WJRPEOVqoQDFT/TMrneacsP3KCHr1cG6LMwLtPAjqqle6LhKHkNuEXk9oz2DcdWVUDeDXKiF0FRxtKI7hk3yNpORu3w7hzO6pYncttbDhI+0NxsyAqJzqEf0xOkl3EMniDh19MJu9Ifgqpg0KSzZuC0wxfo8i9L1UiN4LJUzto5AoBIcWDgMSPu4fYx73v540+P5WfLhIoXtcNVgFYKyppSXRlg=;HPWUH5zLWcTf56gQodGp9w=="
 ---
 
