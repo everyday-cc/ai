@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-25-how-to-use-cognitive-automation-to-optimize-operational-workflows.md",
+      "title": "How To Use Cognitive Automation To Optimize Operational Workflows",
+      "excerpt": "We can shape cognitive automation into a force for good with responsible development. But we have to go into this with our eyes wide open.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b11dd27ce03c7243f88102/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 883,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
+      "publishedDateTime": "2024-01-25T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
       "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
       "excerpt": "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power",
@@ -1329,49 +1381,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-using-natural-language-processing-to-detect-mental-health-crises.md",
-      "title": "Using natural language processing to detect mental health crises",
-      "excerpt": "The authors published their work in npj Digital Medicine. Using natural language processing, the team developed a machine learning (ML) system called Crisis Message Detector 1 (CMD-1) that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/using-nlp-to-detect-me.jpg",
-          "width": 950,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

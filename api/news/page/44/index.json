@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2024-02-05-wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering.md",
+      "title": "WiMi Announced Multi-View Representation Learning Algorithm for Data Stream Clustering",
+      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a multi-view representation learning algorithm is to deal with the data stream clustering problem.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T13:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-eu-states-give-green-light-to-artificial-intelligence-law.md",
       "title": "EU states give green light to artificial intelligence law",
       "excerpt": "Representatives of the EU member states voted in favor of a proposal in Brussels on Friday which should soon make artificial intelligence (AI) subject to stricter rules.",
@@ -1062,58 +1105,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-is-there-a-bubble-in-ai-stocks.md",
-      "title": "Is There A Bubble In AI Stocks?",
-      "excerpt": "Talk of price to innovation ratios by Morgan Stanley has triggered talk of a bubble in AI stocks. Is this just the beginning of a run up in stock prices?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65be8742c9d836097bc8f8e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
-      "publishedDateTime": "2024-02-03T18:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

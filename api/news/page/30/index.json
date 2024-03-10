@@ -2,6 +2,50 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
+      "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-tesla-fsd-is-still-a-work-in-progress-amid-tech-challenges-lawsuits.md",
       "title": "Tesla FSD is still a work in progress amid tech challenges, lawsuits",
       "excerpt": "Entrepreneurs like Tesla CEO Elon Musk have said self-driving cars will make regular vehicles obsolete, but most Americans are wary. A recent survey found that three out of every four Americans ...",
@@ -1129,49 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-neural-prosthetic-device-can-help-humans-restore-memory.md",
-      "title": "Neural prosthetic device can help humans restore memory",
-      "excerpt": "A team of scientists have demonstrated the first successful use of a neural prosthetic device to recall specific memories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

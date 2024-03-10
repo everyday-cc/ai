@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2024-02-13-oxytocin-the-love-hormone-that-holds-the-key-to-better-memory.md",
+      "title": "Oxytocin: The love hormone that holds the key to better memory",
+      "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/oxytocin-the-love-horm.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-02-oxytocin-hormone-key-memory.amp",
+      "publishedDateTime": "2024-02-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-scientists-discover-how-oxytocin-influences-memory-in-animals.md",
       "title": "Scientists discover how oxytocin influences memory in animals",
       "excerpt": "The cognitive function of mice was then evaluated using the Novel Object Recognition Task (NORT),\" explains Prof. Saitoh. The research emphasizes the significant role of OXT in regulating social ...",
@@ -1037,40 +1080,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-onetrust-enhancements-accelerate-ai-adoption-enable-responsible-data-use-and-automate-compliance.md",
-      "title": "OneTrust Enhancements Accelerate AI Adoption, Enable Responsible Data Use, and Automate Compliance",
-      "excerpt": "OneTrust, the market-defining leader for trust intelligence, today announced its newest platform features that make it easier for customers to govern their use of artificial intelligence (AI) and accelerate AI innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960763.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960763.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

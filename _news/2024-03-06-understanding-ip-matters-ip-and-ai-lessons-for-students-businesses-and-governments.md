@@ -48,6 +48,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Expanding The Limits Of AI With Identity"
+    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
+    publishedDateTime: 2024-03-08T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "l5G4yGMFGfXcq//MSOg5qXLGC4e48sbfT4uUZL7EaQ1/et3DzS2bBkr2T181zgE+1qIb/sojMBNcEXdUjRxA4FmV7L95rtm0R8GWZ+hJQJ3pOtgyLd8DUMvcTpT3cuB9cbDvv4ngWQvqa1U+XtwVlNuTMrMKHfsPX/x9+e5mRqmCcSySW5sNJkJKoyOCgaUToQ7czVG6YRFQCOt4A+pRrzY8TR0osIAqQl3+vUYVnZzBplcYq2rfpnhnnNTgUKLIL7+PII07dpZk90IxeAnmLA0YTRdnWXp6QYHl/JjxCLMdeNBW6TbthH/wbbWVePDqJxJ/YmqHKTMi5CfH06NySyRX/bh3wZfFF+dzWMrLYkc=;y6pu9j8xdVgi88YUx8S4hg=="
 ---

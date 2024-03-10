@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2024-02-21-no-tip-required-self-driving-robots-will-now-deliver-uber-eats-orders-in-tokyo.md",
+      "title": "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo",
+      "excerpt": "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107883741,width-1280,height-720,resizemode-4/107883741.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
+      "publishedDateTime": "2024-02-21T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-vcs-are-clamoring-to-back-screaming-hot-startups-using-ai-for-medical-records.md",
       "title": "VCs are clamoring to back 'screaming hot' startups using AI for medical records",
       "excerpt": "Most recently, Ambience Healthcare announced a $70 million Series B round in February, co-led by Kleiner Perkins and Open AI Startup Fund and including existing investors Andreessen Horowitz and Optum Ventures. Medical-scribe startup Nabla raised a Series ...",
@@ -1159,50 +1203,6 @@
         "AI Ethics",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-upenn-develops-optical-chip-to-process-complex-math-for-ai.md",
-      "title": "UPenn develops optical chip to process complex math for AI",
-      "excerpt": "Computing optically could cut the cost of AI: Prof. Nader Engheta. Engineers at the University of Pennsylvania (UPenn) have developed a new optical chip to perform the complex math essential to training AI. Its developers say that the chip has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://optics.org/news/15/2/28",
-      "originalUrl": "https://optics.org/news/15/2/28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optics.org/objects/news/thumb/15/2/28/UpennmanM.jpg",
-          "width": 476,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Optics",
-        "domain": "optics.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

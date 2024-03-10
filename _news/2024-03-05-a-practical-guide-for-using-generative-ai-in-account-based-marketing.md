@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-pr
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined"
         width: 800
         height: 450
+        isCached: true
+  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
+    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
+    publishedDateTime: 2024-03-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Widening lead in AI memory chips"
     excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."

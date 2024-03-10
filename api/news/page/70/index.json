@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2024-01-16-how-best-take-makes-your-group-photos-better.md",
+      "title": "How Best Take makes your group photos better",
+      "excerpt": "Learn more about how Google built Google Photo’s Best Take tool.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
+      "originalUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Best-Take.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/how-google-photos-best-take-works/amp/",
+      "publishedDateTime": "2024-01-16T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-practical-guides-to-budget-ai-and-computer-vision-solutions-part-1.md",
       "title": "Practical Guides to Budget AI and Computer Vision Solutions | Part 1",
       "excerpt": "In response to widespread interest, OpenCV.ai has launched a series of articles to guide entrepreneurs and enterprises, in exploring Computer Vision solutions. These articles are designed to aid in making informed decisions, with a focus on optimizing development and operational costs.",
@@ -1049,50 +1101,6 @@
       "provider": {
         "name": "Shacknews",
         "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-as-tesla-stock-tumbles-musk-threatens-25-voting-control-or-no-ai-robotics.md",
-      "title": "As Tesla Stock Tumbles, Musk Threatens 25% Voting Control Or No AI, Robotics",
-      "excerpt": "Musk wrote that he would be “uncomfortable growing Tesla to be a leader in AI & robotics without having ~25% voting control.” He claimed that would be enough to “be influential, but not so ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
-      "originalUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2024/01/ewrwerewrewrewrewrwerfsdcx-fdscdscx.jpg",
-          "width": 2410,
-          "height": 1356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null

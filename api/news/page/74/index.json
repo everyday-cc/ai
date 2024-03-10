@@ -2,6 +2,40 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2024-01-12-the-top-3-stocks-shaping-the-future-of-autonomous-driving.md",
+      "title": "The Top 3 Stocks Shaping the Future of Autonomous Driving",
+      "excerpt": "This marked an important step towards a fully driverless service, reinforcing the company ... and continuing investments in artificial intelligence and other growth projects. This makes it one of those autonomous driving stocks to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
+      "originalUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-sas-intelligent-planning-suite-now-available-on-aws.md",
       "title": "SAS Intelligent Planning Suite now available on AWS",
       "excerpt": "SAS, a global leader in AI and analytics, has launched SAS Intelligent Planning Suite powered by Amazon Web Services (AWS). The",
@@ -979,49 +1013,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
-      "title": "Machine Learning Approaches for Accelerated Materials Discovery",
-      "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
-      "originalUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23290_17049820057452938.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZOM",
-        "domain": "azom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -51,20 +51,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "The Future of Work: How Artificial Intelligence Training is Shaping Job Markets"
-    excerpt: "Introduction: The advent of Artificial Intelligence (AI) has ushered in a new era in the job market, transforming the way we work and reshaping traditional employment landscapes. As AI technology continues to advance,"
-    publishedDateTime: 2024-03-05T08:18:00Z
-    webUrl: "https://techbullion.com/the-future-of-work-how-artificial-intelligence-training-is-shaping-job-markets/"
+  - title: "The women in AI making a difference"
+    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
+    publishedDateTime: 2024-03-09T19:10:00Z
+    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/03/The-Future-of-Work-How-Artificial-Intelligence-Training-is-Shaping-Job-Markets.jpg"
-        width: 650
-        height: 450
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "AI Is Here, But Who Is It Helping?"
     excerpt: "Following Crunchyroll president Rahul Purini 's confirmation that the company is already testing generative A.I. uses on subtitling and closed captioning, Chris and Lucas discuss where the technology could benefit more broadly and management's misjudgment on how to implement it."
     publishedDateTime: 2024-03-07T14:00:00Z

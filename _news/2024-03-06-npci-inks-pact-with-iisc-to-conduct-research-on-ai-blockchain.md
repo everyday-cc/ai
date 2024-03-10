@@ -175,15 +175,6 @@ related:
       name: cryptonews
       domain: cryptonews.com
     quality: 14
-  - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
-    excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
-    publishedDateTime: 2024-03-05T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/sahara-raises-6-million-seed-round-to-democratize-global-knowledge-capital-access-through-ai-and-blockchain-technologies-led-by-polychain-capital-1033133215"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
 
 secured: "RjCLeirZMOqVVDtxUvknnq9E3I2YRJuLNPN0DPfo3fTdJ4HOgQG9M7dD/OZ8B/xTRv1EcqXcMDm+8rcO6SOiCnMBkk795AA/hup5i3UZAuQ25URV955K4x/wtOQqSue/e9JH7qFBMfaWaW9gV1wuwgoSCu/59msR8w/rFlNd5vURA1xgxXQwMOThEM8yW5fgJdE2NCOZZXhwT2sSZrg/DCvli4uEk6OEZWV84p+E7Skr/LpTJOyUFwwdEBd+KICOI+3wkiEbVc4KyC8DluSdr8L14n9oMQG8ur8CdNxRfhMHdpY4LgXmU3AFJJoVzH+ocDR12+ZEHmtCOQ3chdoYfCCaCbLYjef3TSFeY/JGSo206U+dtuQXFvYrD6W3kJ91dRDCEv5ZTkaosU8fHqUqP1K4ZthqjP49ERz41B+12RRyzQfGjvHTjhUXjACl1fTbEhG08uLGRSEVW7Gib9FGLBbVrTT6LDoT2XAvd0SK8ZTddxQfsrH1GqN1pvSyNKcylqdLDgSeNM45kRS4MiGn3A==;k8t+sS8YMD0xNgeVLV4BMA=="
 ---

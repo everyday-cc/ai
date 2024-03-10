@@ -2,6 +2,40 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-12-12-bayesian-health-ceo-thinks-ai-is-ready-for-prime-time.md",
+      "title": "Bayesian Health CEO thinks AI is 'ready for prime time'",
+      "excerpt": "Bayesian Health CEO Suchi Saria discussed the role regulators could play next year regarding the use of artificial intelligence in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/digital-health/bayesian-health-suchi-saria-ai-regulation",
+      "originalUrl": "https://www.modernhealthcare.com/digital-health/bayesian-health-suchi-saria-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-accenture-to-work-with-union-bank-of-india-to-build-new-ai-and-machine-learning-models.md",
       "title": "Accenture To Work with Union Bank of India To Build New AI and Machine Learning Models",
       "excerpt": "Accenture will work with Union Bank of India to build new AI and machine learning models that can help generate actionable insights for improved busin",
@@ -1131,40 +1165,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-test-driving-artificial-intelligence-in-the-classroom.md",
-      "title": "Test driving artificial intelligence in the classroom",
-      "excerpt": "One business school professor is having his students use artificial intelligence for class assignments. Here & Now 's Scott Tong talks with Ethan Mollick, professor of entrepreneurship at the University of Pennsylvania's Wharton School.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
-      "originalUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

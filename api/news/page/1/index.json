@@ -10,7 +10,7 @@
       "originalUrl": "https://www.mid-day.com/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -250,7 +250,7 @@
       "originalUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -376,6 +376,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race.md",
+      "title": "What you need to know about Nvidia and the AI chip arms race",
+      "excerpt": "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/",
+      "originalUrl": "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T22:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -574,7 +618,7 @@
       "originalUrl": "https://www.ibm.com/blog/5g-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -718,6 +762,59 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-these-6-prompt-engineering-courses-can-you-optimize-your-use-of-chatgpt-and-other-generative-ai-tools.md",
+      "title": "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools",
+      "excerpt": "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/education/articles/prompt-engineering-courses/",
+      "originalUrl": "https://fortune.com/education/articles/prompt-engineering-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T14:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1040,50 +1137,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-08-you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should.md",
-      "title": "You can now add extra security to your ChatGPT - here's how and why you should",
-      "excerpt": "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/",
-      "originalUrl": "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T09:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2024-03-08-not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai.md",
       "title": "Not Science Fiction: How Optical Neural Networks Are Revolutionizing AI",
       "excerpt": "A novel architecture for optical neural networks utilizes wavefront shaping to precisely manipulate the travel of ultrashort pulses through multimode fibers, enabling nonlinear optical computation. Pr",
@@ -1123,49 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it.md",
-      "title": "Google Gemini's Latest Update Empowers Content Editing With AI; Here’s How You Can Do It",
-      "excerpt": "In its latest update, Google introduces an innovative feature empowering users to seamlessly edit content generated by Gemini, promising not only time savings but also enhanced content quality.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/71008/google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it",
-      "originalUrl": "https://in.mashable.com/tech/71008/google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/2_2738.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T06:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

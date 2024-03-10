@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-22-biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems.md",
+      "title": "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems",
+      "excerpt": "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "originalUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-66491774/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
+      "publishedDateTime": "2024-02-21T18:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process.md",
       "title": "Microsoft will use Intel Foundry to make its own chip using the Intel 18A process",
       "excerpt": "Today, Intel announced its renamed chip-making business as Intel Foundry. Formerly known as Intel Foundry Services, the company claims the revamped business is the \"world’s first systems foundry for the AI era.\" However, this announcement was somewhat ...",
@@ -1181,50 +1232,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-no-tip-required-self-driving-robots-will-now-deliver-uber-eats-orders-in-tokyo.md",
-      "title": "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo",
-      "excerpt": "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/articleshow/107883721.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107883741,width-1280,height-720,resizemode-4/107883741.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/no-tip-required-ai-robots-will-deliver-uber-eats-orders-in-tokyo/amp_articleshow/107883721.cms",
-      "publishedDateTime": "2024-02-21T10:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

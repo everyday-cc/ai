@@ -735,6 +735,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-26-nwogu-weighs-in-on-bias-in-facial-recognition-software.md",
+      "title": "Nwogu weighs in on bias in facial recognition software",
+      "excerpt": "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "originalUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
       "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
       "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
@@ -1113,58 +1147,6 @@
       "topics": [
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-construction-workers-being-replaced-by-ai-robot-bricklayers.md",
-      "title": "Construction workers being replaced by AI robot bricklayers",
-      "excerpt": "Working all day in the hot sun, bending your back and knees with every brick, hands raw from mortar. Not exactly a career on most young people's dream list. That's where Monumental comes in with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/construction-workers-being-replaced-by-ai-robot-bricklayers",
-      "originalUrl": "https://www.foxnews.com/tech/construction-workers-being-replaced-by-ai-robot-bricklayers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/1-Say-goodbye-to-human-bricklayers-and-hello-to-a-new-breed-of-bricklaying-AI-robots.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

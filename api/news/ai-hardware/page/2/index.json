@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-28-intel-aims-to-deliver-chips-for-100-million-ai-pcs-by-2025.md",
+      "title": "Intel aims to deliver chips for 100 million AI PCs by 2025",
+      "excerpt": "Intel Vice President of Client Computing Group David Feng said his company expects to deliver 40 million AI PCs this year and 60 million next year -- more than 20% of the projected total global PC market in 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
+      "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-ai-market-structure-in-the-future-few-engines-many-applications.md",
       "title": "AI Market Structure In The Future: Few Engines, Many Applications",
       "excerpt": "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs.",
@@ -1400,58 +1443,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview.md",
-      "title": "Get ready for the age of sovereign AI | Jensen Huang interview",
-      "excerpt": "The AI Impact Tour – NYC We’ll be in New York on February 29 ... they would not be software-hackable and that took some time. Now the company is sampling chips to China again, within the restrictions of the government. I asked if the China market ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
-      "originalUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T08:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

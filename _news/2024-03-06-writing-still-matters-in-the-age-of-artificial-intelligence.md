@@ -25,90 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
-    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
-    publishedDateTime: 2024-03-05T08:58:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+  - title: "The Dark Side of Open Source AI Image Generators"
+    excerpt: "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn."
+    publishedDateTime: 2024-03-06T12:00:00Z
+    webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 397
+      - url: "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg"
+        width: 1280
+        height: 671
         isCached: true
-  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
-    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
-    publishedDateTime: 2024-03-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Expanding The Limits Of AI With Identity"
-    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
-    publishedDateTime: 2024-03-08T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
+  - title: "The Rise Of Open Artificial Intelligence: Open-Source Best Practices"
+    excerpt: "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem."
+    publishedDateTime: 2024-03-08T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
+  - title: "The 10 Best AI Writers & Content Generators Compared"
+    excerpt: "Following the introduction of these generative AI tools and their mainstream adoption, there have been plenty of discussions about ethics, the impact on creativity, and the impact on jobs. In a meta self-referential message, Gemini (Bard) even offers this ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.searchenginejournal.com/best-ai-writers-content-generators-compared/506218/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
-    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
-    publishedDateTime: 2024-03-05T19:08:00Z
-    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
     quality: 43
-  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
-    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
-    publishedDateTime: 2024-03-05T19:29:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 10
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2022/05/ai-content-generators-6273d3bbc7264-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "p3GSAiWPJkDIn3tp35R78YbYGsUFniq9GZXlh0Te4c//37Ew2x2Vr5OhYE72GVYqUhYKo+rQrpz/FjuLvg06FwR3eB7UUpqiyFPX13iLW91BHaiNrrMSjmiQ+F5mBg8gZufJjSyQVmyyS1DJVjf62VFKJAVH82Er1tjqPoRe0svcwjL63Qqna94CRlYal8sZh+7VeICIfpXTPs+WjfN53bAQcDzh2TScXioLyRKO9RdQl1GgiKpUBNteSdeRXa0LsGydXLPHap/FaA+8abB6U/8FfmSAyxawBk0rSe0QmIFgDZ3P0jHwCjmdRS5ngWZtFxrcKm+ABfTaRDEC1OJByjsRba0wvfWiR+Cx94IFAJvRaVZ7rwVUjsaaHoh+GgUKFsr4Z3cGpWGEqaRhr401NpVP0ss/1dDwKgteFWBxDCvspuBR3HBR+cY6UfXA5naHCnA9g4Nr6Yrd5G6nlAe2XTVWYr8aZyTp//qIL53bzKKDXU2hFWCOXU4H+nkAn9b5PrKxHte/2vUXH19qVJ1z+Q==;fUmLhjYXoUfUiqEJrMUfaQ=="
 ---

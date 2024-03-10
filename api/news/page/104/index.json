@@ -2,6 +2,49 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-12-09-artificial-intelligence-creates-terrible-iowa-superhero-watch.md",
+      "title": "Artificial Intelligence Creates Terrible Iowa Superhero [WATCH]",
+      "excerpt": "Artificial Intelligence can be an incredibly useful tool for many people daily. We use AI in our phones, automated cars, online shopping, advertising, smart thermostats, etc. At its core, AI is the ability of a machine to display human-like capabilities such as reasoning,",
+      "sourceUrl": null,
+      "webUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
+      "originalUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://townsquare.media/site/726/files/2023/12/attachment-esteban-lopez-6yjAC0-OwkA-unsplash.jpg?w=980&q=75",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHAK",
+        "domain": "khak.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-meta-releases-open-source-tools-for-ai-safety.md",
       "title": "Meta releases open-source tools for AI safety",
       "excerpt": "Meta has introduced Purple Llama, a project dedicated to creating open-source tools for developers to evaluate and boost the trustworthiness and safety of generative AI models before they are used publicly.",
@@ -1122,58 +1165,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-microsoft-exec-hints-at-new-llms-beyond-openais.md",
-      "title": "Microsoft exec hints at new LLMs beyond OpenAI’s",
-      "excerpt": "In a wide ranging interview about enterprise readiness for generative AI, Eric Boyd asserts that Microsoft plans to stay competitive on the choice front. He said the company's generative AI applications and the LLMs that power them,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-exec-hints-at-new-llms-beyond-openais/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/otAR_BG_master02a.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

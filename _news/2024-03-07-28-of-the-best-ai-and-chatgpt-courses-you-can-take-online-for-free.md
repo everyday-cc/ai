@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Study: Most CMOs Fail to Understand AI Beyond ChatGPT"
-    excerpt: "The report, “Marketing's AI Era: Strategies & Measurement Driven by AI-Powered ... Camp Jefferson, Cossette Media, Impact Research, Jungle Media, K72, Level Eleven, Magic Circle Workshop, Make My Day, Middle Child, Mindshaker, Munvo, Septième ..."
-    publishedDateTime: 2024-03-05T07:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503"
+  - title: "Amazon-Backed Anthropic Launches Claude 3 AI Models to Rival ChatGPT-4"
+    excerpt: "Claude 3 has three variants, with its most powerful Opus version promising better results than OpenAI's ChatGPT-4 and Google's Gemini 1.0 Ultra models."
+    publishedDateTime: 2024-03-05T11:58:00Z
+    webUrl: "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
     images:
-      - url: "https://ml.globenewswire.com/Resource/Download/739441ea-6a05-41ba-856e-dd24b705c450/AIOS_Hero_Laptop.jpg"
-        width: 4500
-        height: 3000
+      - url: "https://i.pcmag.com/imagery/articles/02GPZdQqyCmIQ95bmEMKPqW-1.fit_lim.size_1200x630.v1709639282.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini"
     excerpt: "AI startup Anthropic said Monday that the latest version of ... Opus, on the other hand, can plan and execute complex actions across APIs and databases and perform research and development tasks like brainstorming and hypothesis generation and even drug ..."
@@ -52,20 +52,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/6a110345d1f9a94f4a40d55bab492847a9dc8b19/hub/2024/03/05/d74b3cfb-af75-44d2-85c4-115f110de078/claude-3-launch.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
-    excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
-    publishedDateTime: 2024-03-08T14:58:00Z
-    webUrl: "https://fortune.com/education/articles/prompt-engineering-courses/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 71
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
     excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
@@ -83,29 +69,48 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This AI malware worm is capable of turning ChatGPT against you"
-    excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
-    publishedDateTime: 2024-03-08T22:34:00Z
-    webUrl: "https://bgr.com/tech/this-ai-malware-worm-is-capable-of-turning-chatgpt-against-you/"
+  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
+    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
+    publishedDateTime: 2024-03-07T17:48:00Z
+    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
+  - title: "Claude 3 vs ChatGPT vs Gemini latest Anthropic AI models compared"
+    excerpt: "Anthropic has launched a new AI model which has now being compared to ChatGPT and Google Gemini. This Claude 3 vs ChatGPT vs Gemini comparison"
+    publishedDateTime: 2024-03-05T11:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt-vs-gemini/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Claude-3-vs-ChatGPT-vs-Gemini.jpg"
+        width: 1280
+        height: 710
+        isCached: true
+  - title: "Anthropic Releases a New AI Model, Promising It's Cleverer than ChatGPT"
+    excerpt: "After billions in cash injections, Anthropic is backing the launch of its newest-generation AI with big promises."
+    publishedDateTime: 2024-03-05T17:45:00Z
+    webUrl: "https://www.inc.com/kit-eaton/anthropic-releases-a-new-ai-model-promising-its-cleverer-than-chatgpt.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
     quality: 54
     images:
-      - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1119
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/anthropic-ai-GettyImages-1500238079_538121_v90dre.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
-    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
-    publishedDateTime: 2024-03-08T17:10:00Z
-    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 48
   - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
     excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
     publishedDateTime: 2024-03-05T15:12:00Z
@@ -120,15 +125,68 @@ related:
         width: 400
         height: 363
         isCached: true
-  - title: "Can AI help me pack? Tips for using ChatGPT, other chatbots for daily tasks"
-    excerpt: "Many fear AI, but ChatGPT, Bing Chat and other bots can help with tasks ranging from shopping, to planning meals and trips."
-    publishedDateTime: 2024-03-05T09:19:00Z
-    webUrl: "https://www.statesman.com/story/tech/2024/03/05/ai-chatbots-help-plan-daily-tasks/72806995007/"
+  - title: "Which Claude 3 AI model is best? All three compared and tested"
+    excerpt: "research and development, and strategic analysis. Achieves a balance between speed and intelligence, making it ideal for enterprise environments. It provides robust performance at a lower cost, engineered for endurance in extensive AI operations."
+    publishedDateTime: 2024-03-05T14:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-ai-models-compared/"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 32
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Which-Claude-3-AI-model-is-best.jpg"
+        width: 1280
+        height: 713
+        isCached: true
+  - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
+    excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"
+    publishedDateTime: 2024-03-05T16:33:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-startup-anthropic-challenges-openai-and-google-with-new-chatbot-124030501240_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 37
+  - title: "3 Tips for Business Owners Who Want to Use Anthropic's New Flagship AI Model, Claude 3"
+    excerpt: "According to Anthropic, the largest and most powerful of the three models, Opus, outperforms OpenAI's current top-of-the-line model, GPT-4, across a wide variety of benchmarks, such as undergraduate level knowledge, graduate level reasoning, math-based problem solving, and coding. Here are three ways business owners can use these models."
+    publishedDateTime: 2024-03-05T17:08:00Z
+    webUrl: "https://www.inc.com/ben-sherry/3-tips-for-business-owners-who-want-to-use-anthropics-new-flagship-ai-model-claude-3.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 29
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1702217813_538101_ijkvbw.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Anthropic Fires Off Performance And Price Salvos In AI War"
+    excerpt: "It is a strange time in the generative AI revolution, with things changing on so many vectors so quickly it is hard to figure out what all of this"
+    publishedDateTime: 2024-03-05T19:53:00Z
+    webUrl: "https://www.nextplatform.com/2024/03/05/anthropic-fires-off-performance-and-price-salvos-in-ai-war/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
+  - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
+    excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
+    publishedDateTime: 2024-03-08T06:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20240307PD209/anthropic-claude-3-chatbot-ai-amazon-google.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 13
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240307pd209_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "e+/FLqHDNW0xbBETguvfH19n5QgLZV3cHJvW7LFj2ZU6XmKTlU5A5pWg5Z32QDyjJEmJPDxEt5BoZCZUaR2CPAJEMrhq9hc3OjpEt5emc79QNWC5s1AiApHU0oSF3ddnwNCDMbLUzk284CZxdDQCxpI0xx6291JWDMDim9zg2Em7UvhEPNkX9xx6gIY+pL0mhH5OPqlx5ygU9HZE40uuDJviB/VAMrpM6z1jMyt49DTEGVOdlZlmQTASnNj3ERryuM0c6kfIMYAdkuhzpRoIQK/VliEhErtfw/trDrrzRMs6eG+3K/14yqen1eNyPaw6Ei7GyDEesGmVGzbs0oQ2FxamoaXuFozMLUh5WNW0U+0=;3l43X5DbYaOnXliWcOE7HQ=="
 ---

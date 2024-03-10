@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2024/03/producing-more-but-underst
 webUrl: "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Ultimately, in any technological field, a strong patent is enforceable—you can count on it being upheld in court, and the patent will allow you to recuperate losses from infringement. When it comes to determining the worth of owning a patent (i.e., a patent’s enforceability), these are the questions you should ask."
     publishedDateTime: 2024-03-07T13:15:00Z
     webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/07/lessons-for-startups-and-small-businesses-on-patenting-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Expanding The Limits Of AI With Identity"
+    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
+    publishedDateTime: 2024-03-08T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
     type: article
     provider:
       name: Forbes

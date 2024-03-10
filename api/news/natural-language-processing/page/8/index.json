@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-28-antifake-ai-tech-could-keep-your-voice-from-being-deepfaked.md",
+      "title": "AntiFake AI tech could keep your voice from being deepfaked",
+      "excerpt": "Additionally, replicated voices could be used to bypass voice-recognition security systems. While there are already technologies designed to determine if supposedly legitimate voices are deepfakes, AntiFake is reportedly one of the very first systems to ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/antifake-voice-deepfake-protection/",
+      "originalUrl": "https://newatlas.com/science/antifake-voice-deepfake-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b2fe4fc/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6a%2Fef%2F49d10454473f9001ea064d040a81%2Fdepositphotos-16361363-l.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-aimreplys-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals.md",
       "title": "AImReply's New AI Assistant Set to Revolutionize Email for Busy Professionals",
       "excerpt": "AImReply announces the launch of an AI-powered email assistant to help professionals save time crafting email responses. The new product",

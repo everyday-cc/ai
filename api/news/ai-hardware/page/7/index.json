@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-27-us-sanctioned-chinese-chip-start-up-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card.md",
+      "title": "US-sanctioned Chinese chip start-up Moore Threads unveils GPU-based computing centre, AI graphics card",
+      "excerpt": "Moore Threads Intelligent Technology, a Beijing-based designer of GPUs tailored for AI training, said the new GPU will be found on its KUAE Intelligent Computing Centre, which is aimed at serving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/20/7246be65-c6ea-473f-b275-39e35141736d_06dd8399.jpg?itok=obd0zFrW&v=1703059591",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "publishedDateTime": "2023-12-27T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-big-tech-is-spending-more-than-vc-firms-on-ai-startups.md",
       "title": "Big Tech is spending more than VC firms on AI startups",
       "excerpt": "The rise of generative AI—systems capable of producing humanlike video ... Tech companies which can provide cloud infrastructure and access to the most powerful chips as well as dollars. That has rapidly pushed up the valuations of private start-ups ...",
@@ -1420,58 +1472,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-breaking-amd-is-not-the-fastest-gpu-heres-the-real-data.md",
-      "title": "Breaking: AMD Is Not The Fastest GPU; Here’s The Real Data.",
-      "excerpt": "Nvidia has just released a blog that counters AMD's claim that its latest chip, the MI300X, is 40-60 % faster in latency and throughput than Nvidia in inference processing for generative AI. Here is one of AMD’s slides at the MI300 launch event, which we covered here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6578921c5953b091cefa2b75/0x0.jpg?format=jpg&crop=638,359,x0,y401,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/13/breaking-amd-is-not-the-fastest-gpu-heres-the-real-data/amp/",
-      "publishedDateTime": "2023-12-13T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

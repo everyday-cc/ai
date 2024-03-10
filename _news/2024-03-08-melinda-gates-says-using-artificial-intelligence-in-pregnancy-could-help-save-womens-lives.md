@@ -44,20 +44,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "The Future of Work: How Artificial Intelligence Training is Shaping Job Markets"
-    excerpt: "Introduction: The advent of Artificial Intelligence (AI) has ushered in a new era in the job market, transforming the way we work and reshaping traditional employment landscapes. As AI technology continues to advance,"
-    publishedDateTime: 2024-03-05T08:18:00Z
-    webUrl: "https://techbullion.com/the-future-of-work-how-artificial-intelligence-training-is-shaping-job-markets/"
+  - title: "The women in AI making a difference"
+    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
+    publishedDateTime: 2024-03-09T19:10:00Z
+    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/03/The-Future-of-Work-How-Artificial-Intelligence-Training-is-Shaping-Job-Markets.jpg"
-        width: 650
-        height: 450
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "International Women’s Day 2024: How women in artificial intelligence are breaking stereotypes"
     excerpt: "As the buzz around Artificial Intelligence grows louder by the day, there are women who are making using of the technology and turning the industry on its head by opening the doors through unconventional methos of art, advertising and fashion to showcase ..."
     publishedDateTime: 2024-03-08T04:03:00Z

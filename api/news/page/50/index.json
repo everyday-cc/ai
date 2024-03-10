@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2024-02-01-meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push.md",
+      "title": "Meta Platforms is primed for a big quarter with ads, AI push",
+      "excerpt": "In raising his price target to $435 from $390, Seaport Research Partners analyst Aaron Kessler is looking at robust ad growth and outlook, an updated outlook on 2024 operating expenses, the impact of regulation on content for teens, and how AI initiatives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "originalUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-89343189/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "publishedDateTime": "2024-01-31T16:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains.md",
       "title": "In Iowa, Legislators Consider Singing Requirements And Unlicensed Chaplains",
       "excerpt": "Some Iowa legislators want to offer public school students both chaplains and a daily dose of the Star Spangled Banner.",
@@ -1130,49 +1182,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-engineers-unveil-new-patch-that-can-help-people-control-robotic-exoskeletons.md",
-      "title": "Engineers unveil new patch that can help people control robotic exoskeletons",
-      "excerpt": "In lab experiments, the researchers showed that humans could use these devices to operate robotic exoskeletons ... outside equipment to give people more control,\" said Jianliang Xiao, associate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240131144439.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240131144439.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "You can now add extra security to your ChatGPT - here's how and why you should"
-    excerpt: "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ"
-    publishedDateTime: 2024-03-08T09:12:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "Chatgpt Has Many Uses. Experts Explore What This Means For Healthcare And Medical Research"
     excerpt: "The sanctity of the doctor-patient relationship is the cornerstone of the healthcare profession. This protected space is steeped in tradition – the"
     publishedDateTime: 2024-03-06T06:47:00Z

@@ -22,95 +22,43 @@ topics:
   - AI
 
 related:
-  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
-    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
-    publishedDateTime: 2024-03-05T08:58:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+  - title: "Producing more but understanding less: The risks of AI for scientific research"
+    excerpt: "Enlarge / Current concerns about AI tend to focus on its obvious errors. But psychologist Molly Crockett and anthropologist Lisa Messeri argue that AI also poses potential long-term epistemic risks to the practice of science."
+    publishedDateTime: 2024-03-06T18:08:00Z
+    webUrl: "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-brain-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Lessons For Startups And Small Businesses On Patenting AI"
+    excerpt: "Ultimately, in any technological field, a strong patent is enforceable—you can count on it being upheld in court, and the patent will allow you to recuperate losses from infringement. When it comes to determining the worth of owning a patent (i.e., a patent’s enforceability), these are the questions you should ask."
+    publishedDateTime: 2024-03-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/07/lessons-for-startups-and-small-businesses-on-patenting-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 397
-        isCached: true
-  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
-    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
-    publishedDateTime: 2024-03-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
     quality: 47
-  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
-    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
-    publishedDateTime: 2024-03-05T19:08:00Z
-    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
+  - title: "Understanding IP Matters – IP and AI: Lessons for Students, Businesses and Governments"
+    excerpt: "They empahisize that AI law and ethics are not for lawyers only, but for most students. Are the lawyers who don’t focus on IP exposed to intellectual property law? Is it through contracts or are there specific courses for them? Megan Carpenter ..."
+    publishedDateTime: 2024-03-06T07:15:00Z
+    webUrl: "https://ipwatchdog.com/2024/03/06/understanding-ip-matters-ip-ai-lessons-students-businesses-governments/id=173966/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "Writing still matters in the age of artificial intelligence"
-    excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
-    publishedDateTime: 2024-03-06T00:25:00Z
-    webUrl: "https://www.michigandaily.com/opinion/writing-still-matters-in-the-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 39
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 31
     images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/Writing-still-matters-in-the-age-of-AI.png"
-        width: 2400
-        height: 1600
+      - url: "https://ipwatchdog.com/wp-content/uploads/2024/03/S3E8UIPM.jpg"
+        width: 1080
+        height: 1080
         isCached: true
-  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
-    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
-    publishedDateTime: 2024-03-05T19:29:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 10
 
 secured: "LKyif4hycldoBT5kyChBk6bBrvRVFgWp3J9wR8AXfmt+H/9vfO3w1QL/qlyBdm4Ccy+b9sdWaM2kQE5Vs3dUNuol8nPo6SE+tZ6lnoUzUVftVABfQtrnE/9fcM//uWwNC1k/j2muWL8B64iCkTEaxdMHmu8Tf8qkDM82ZgcCVynHtVQ1mC20GlNQx2mWp/zamDIdAiizPxCSNT+NLqpL6ykz/2Ie6egfnTGIQIC5shtornHNUVUyqTH8Jiq/5P26QMHAsUjklaWOxdhzsL9rBFnAty6scFEgUEvwzzjubRa7PIejLfOW41nqROvItMNhx5M7OLVq7cxdWrDGCehufxO03jB1CpEg13ApIJT5LR5MOq8MwDvpbDoJGULuDNmCZO4Am0PR9O4P56RAsMNmXjqS7ax4IDfZMYEX3aAIs5+dJTJZcKwS4j27mSJVKiWOCyBgX7g1KlyGpmxyI1P7kPr+BMIsWOQddFXnaA9YN4B/FiQ/wRk+9x+q5NRibM6m8EiOD+WGSZdxM8FkjpFw5g==;YFpsne+DvUiB0UhNkCMu1A=="
 ---

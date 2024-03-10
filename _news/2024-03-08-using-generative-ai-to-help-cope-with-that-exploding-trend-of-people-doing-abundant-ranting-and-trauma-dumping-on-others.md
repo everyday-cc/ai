@@ -31,88 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
-    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
-    publishedDateTime: 2024-03-05T08:58:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+  - title: "A Practical Guide For Using Generative AI In Account-Based Marketing"
+    excerpt: "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results."
+    publishedDateTime: 2024-03-05T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 397
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5db42c2c694a887568254/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+  - title: "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies"
+    excerpt: "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -"
+    publishedDateTime: 2024-03-06T15:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
-        width: 1200
-        height: 675
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg"
+        width: 512
+        height: 341
         isCached: true
-  - title: "Expanding The Limits Of AI With Identity"
-    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
-    publishedDateTime: 2024-03-08T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
+  - title: "AI Tools Are Still Generating Misleading Election Images"
+    excerpt: "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud."
+    publishedDateTime: 2024-03-06T14:32:00Z
+    webUrl: "https://www.wired.com/story/genai-images-election-fraud/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Widening lead in AI memory chips"
+    excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."
+    publishedDateTime: 2024-03-07T22:11:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2024/03/08/widening-lead-in-ai-memory-chips"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
-    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
-    publishedDateTime: 2024-03-05T19:08:00Z
-    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/08/2581151.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Informatica Claims Data Fragmentation Is Standing in the Way of APAC Generative AI"
+    excerpt: "Data management and cloud architecture have become critical to drawing value from generative AI, according to research from Informatica."
+    publishedDateTime: 2024-03-06T13:59:00Z
+    webUrl: "https://www.techrepublic.com/article/apac-survey-findings-informatica-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 43
-  - title: "Writing still matters in the age of artificial intelligence"
-    excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
-    publishedDateTime: 2024-03-06T00:25:00Z
-    webUrl: "https://www.michigandaily.com/opinion/writing-still-matters-in-the-age-of-artificial-intelligence/"
+  - title: "Growth and recognition of exporting businesses with the aid of AI"
+    excerpt: "“The IEA is the connecting force for Irish exporters, providing practical knowledge and support across the Island of Ireland and in foreign markets – and, growing in strength and recognition each year, the Export Industry Awards (EIA) have been recognising the tremendous achievements of companies working in the exporting industry for 24 years."
+    publishedDateTime: 2024-03-10T00:38:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/growth-and-recognition-of-exporting-businesses-with-the-aid-of-ai/"
     type: article
     provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
+      name: The Sunday Business Post
+      domain: businesspost.ie
     quality: 39
     images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/Writing-still-matters-in-the-age-of-AI.png"
-        width: 2400
-        height: 1600
+      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=76c49c61-c138-5721-9b61-fb02297c05a6&type=preview&function=original"
+        width: 1600
+        height: 1066
         isCached: true
-  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
-    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
-    publishedDateTime: 2024-03-05T19:29:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
+  - title: "Redefining Content Storage: How AI is Meeting the Demand for High-Quality, Personalized Content"
+    excerpt: "Many media assets lack appropriate metadata tagging, posing significant challenges for M&E companies aiming to repurpose and monetize their content"
+    publishedDateTime: 2024-03-05T14:36:00Z
+    webUrl: "https://www.tvtechnology.com/opinion/redefining-content-storage-how-ai-is-meeting-the-demand-for-high-quality-personalized-content"
     type: article
     provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 10
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YE8gNw25LqTwiGPBBs9hbR-1200-80.jpeg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "gdPIitLMOV6WByyeqAgSGa5Jb1jcaq5R3PzZOmKHuZCxctg0XeG9qRANpuCQeXnY0t/pvE3N1bcEX/P62L9tj2QmFqPBXKdJG3SyzQQxlJL4E9lc/GjXNWLPBzUYXKX+EImG4MJpCHklMkJTwbKQbW/HiS7+ye1egsOa2RMi3hTIrhhf5GWS+m9jRgsinpN+niAfTWo93kp0gQfgMvqFMA91gE9s4r32aQwVb/bmVd81fciMnCJ1HMHwyO8ktDAWX5VFF0Sfuoph6C0Aoux4xlhKOJAoFSezvwU0LADIuuWQ06pyr1xMEG7JCC0A3F4D0TujhXEeNhix7ER0QnamvoOgRCxTXp5Pt0Op4Xi8+iV1YZ+fw9iOLEsaeMHYYhZnUFM7sWOOwkTx5NVJwUSJ1Uq13Wnx7DmRWQYIwK5rr/abovMBW56dewRWEWivJvZRQaWlj2idTfmdBqRR0QrmglUZjVZ1ObEdJdsl2RKt6PN/IiBqAwvZFhl8Tr9wbzO6j/3iGBwvBtY7MpRFLDo5Nw==;Wlto04eJCWJyy8XeWE10vQ=="
 ---

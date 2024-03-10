@@ -2,6 +2,48 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2023-11-21-your-black-friday-observability-checklist.md",
+      "title": "Your Black Friday observability checklist",
+      "excerpt": "A checklist to help you find and implement the best possible observability platform to keep all your applications running bright.\nThe post Your Black Friday observability checklist appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/your-black-friday-observability-checklist/",
+      "originalUrl": "https://www.ibm.com/blog/your-black-friday-observability-checklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T22:47:36Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry.md",
       "title": "New York’s Drones & Robotics AI Summit Ushers In A Growing Automation Industry",
       "excerpt": "Join the millions and keep up with the stories shaping entrepreneurship. Sign up today.",
@@ -1185,48 +1227,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-level-up-your-kafka-applications-with-schemas.md",
-      "title": "Level up your Kafka applications with schemas",
-      "excerpt": "Michael Burgess discusses schemas and schema management to add value to your event-driven applications on the fully managed Kafka service.\nThe post Level up your Kafka applications with schemas appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/level-up-your-kafka-applications-with-schemas/",
-      "originalUrl": "https://www.ibm.com/blog/level-up-your-kafka-applications-with-schemas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

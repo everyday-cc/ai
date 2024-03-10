@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-06-jay-zs-grammys-speech-about-beyonce-reiterates-an-ongoing-issue-with-the-awards.md",
+      "title": "Jay-Z's Grammys speech about Beyoncé reiterates an ongoing issue with the awards",
+      "excerpt": "Jay-Z called out the Recording Academy's snubs against his wife, Beyoncé, during the Grammys on Sunday in a speech that drew attention to the lack of recognition Black artists have endured at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T10:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-roblox-brings-real-time-ai-chat-translator-to-connect-international-gamers.md",
       "title": "Roblox Brings Real-Time AI Chat Translator to Connect International Gamers",
       "excerpt": "The latest tool for Roblox looks to answer the linguistics divide on the platform, especially with its renowned global presence.",
@@ -1311,58 +1345,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-how-to-use-cognitive-automation-to-optimize-operational-workflows.md",
-      "title": "How To Use Cognitive Automation To Optimize Operational Workflows",
-      "excerpt": "We can shape cognitive automation into a force for good with responsible development. But we have to go into this with our eyes wide open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b11dd27ce03c7243f88102/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 883,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
-      "publishedDateTime": "2024-01-25T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

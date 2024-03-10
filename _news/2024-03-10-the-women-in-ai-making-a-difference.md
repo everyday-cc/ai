@@ -22,95 +22,79 @@ topics:
   - AI
 
 related:
-  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
-    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
-    publishedDateTime: 2024-03-05T08:58:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+  - title: "How AI is helping advance women’s health around the world"
+    excerpt: "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide."
+    publishedDateTime: 2024-03-08T14:00:00Z
+    webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "Nobody knows how AI works"
+    excerpt: "It’s still early days for our understanding of AI, so expect more glitches and fails as it becomes a part of real-world products."
+    publishedDateTime: 2024-03-05T10:32:00Z
+    webUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/"
+    ampWebUrl: "https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 397
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/03/Xerox-groucho3.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
-    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
-    publishedDateTime: 2024-03-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+  - title: "International Women’s Day 2024: How women in artificial intelligence are breaking stereotypes"
+    excerpt: "As the buzz around Artificial Intelligence grows louder by the day, there are women who are making using of the technology and turning the industry on its head by opening the doors through unconventional methos of art, advertising and fashion to showcase ..."
+    publishedDateTime: 2024-03-08T04:03:00Z
+    webUrl: "https://www.mid-day.com/lifestyle/culture/article/international-womens-day-2024-how-women-in-artificial-intelligence-are-breaking-stereotypes-23338846"
+    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/culture/article/international-womens-day-2024-how-women-in-artificial-intelligence-are-breaking-stereotypes-23338846"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/culture/article/international-womens-day-2024-how-women-in-artificial-intelligence-are-breaking-stereotypes-23338846"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
+      name: Mid Day
+      domain: mid-day.com
+    quality: 46
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://images.mid-day.com/images/images/2024/mar/women-wold_d.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+  - title: "AI Is Here, But Who Is It Helping?"
+    excerpt: "Following Crunchyroll president Rahul Purini 's confirmation that the company is already testing generative A.I. uses on subtitling and closed captioning, Chris and Lucas discuss where the technology could benefit more broadly and management's misjudgment on how to implement it."
+    publishedDateTime: 2024-03-07T14:00:00Z
+    webUrl: "https://www.animenewsnetwork.com/this-week-in-anime/2024-03-07/.208369"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Expanding The Limits Of AI With Identity"
-    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
-    publishedDateTime: 2024-03-08T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
-    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
-    publishedDateTime: 2024-03-05T19:08:00Z
-    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "Writing still matters in the age of artificial intelligence"
-    excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
-    publishedDateTime: 2024-03-06T00:25:00Z
-    webUrl: "https://www.michigandaily.com/opinion/writing-still-matters-in-the-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
+      name: Anime News Network
+      domain: animenewsnetwork.com
     quality: 39
     images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/Writing-still-matters-in-the-age-of-AI.png"
-        width: 2400
-        height: 1600
+      - url: "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/this-week-in-anime/208369/lucas_05.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
-    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
-    publishedDateTime: 2024-03-05T19:29:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
+  - title: "Melinda Gates says using artificial intelligence in pregnancy could help save women's lives"
+    excerpt: "Gates spoke to ABC News' Dr. Jennifer Ashton about the state of women's health. The Bill & Melinda Gates Foundation is working to increase access globally to AI-enabled ultrasound devices. Bill & Melinda Gates Foundation Each day,"
+    publishedDateTime: 2024-03-08T09:11:00Z
+    webUrl: "https://abcnews.go.com/GMA/Wellness/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives/story?id=107816804"
     type: article
     provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 10
+      name: ABC
+      domain: abcnews.go.com
+    quality: 9
+  - title: "Intuit Study Finds Women Entrepreneurs Around the World Want to Use AI More for Their Businesses"
+    excerpt: "Female entrepreneurs in low- and middle-income countries rely on cell phones and digital tools, creating opportunities for companies to offer products tailored to them."
+    publishedDateTime: 2024-03-07T14:12:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/intuit-study-finds-women-entrepreneurs-around-world-want-to-use-ai-more-for-their-businesses.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 4
 
 secured: "xTJZyjCFcz+kyvdrMrCKCaALPPqXxRSk+wj7b+8IOKAuxXFq36mnGAoNRPwAhenhB/ZwYc+CQ7DlhRACu3NznApDdV/vdGG6zZ7Hm5Ij0S29uRvVe5rMESjt9Zy8h5VxIcgOqqdwiz/RoZAy4OMkYs4sxS0QDTvwdqkTOh5uhf6yjndp8gNPkLBHQjfMVV5pRZXAqOOj6QBupMU1Ys5UL9MyJx6Mq0aG5jlW7yqShG2FeOkKsdDRQl5ypN/SFSeCqj2CrhEob+1oXg/fFPjrosJ6e6Nkwpl1xfS1sj8Cz//17AGFIAZEA7qFmqFfnOfJwzgaS7xbhvyaq1ooVLAWPObPtMZpV0PtzBZLpZZwkpw=;KiP5zAlBsHqTPeKcwVLY2Q=="
 ---

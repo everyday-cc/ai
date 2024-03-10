@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-24-bezos-nvidia-join-openai-in-funding-humanoid-robot-startup.md",
+      "title": "Bezos, Nvidia Join OpenAI in Funding Humanoid Robot Startup",
+      "excerpt": "Jeff Bezos, Nvidia Corp. and other big technology names are investing in a business that’s developing human-like robots ... applications for artificial intelligence. The startup Figure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T18:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-ai-is-having-a-1995-moment.md",
       "title": "AI is having a 1995 moment",
       "excerpt": "The analyst said the hunger for Nvidia's AI chips from leading software providers like Salesforce, Adobe, and Oracle is a \"transformational tech trend we have not seen since the start of the Internet in the mid 90's.\" But that doesn't mean major AI ...",
@@ -1146,49 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-bengaluru-to-debut-driverless-trains-all-you-need-to-know.md",
-      "title": "Bengaluru to debut driverless trains: All you need to know",
-      "excerpt": "Driverless trains are being introduced as part of the ... In case of any issues, it will generate alerts using Artificial Intelligence (AI) software. This system is equipped with a camera-based setup where track images are sent to the server.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "originalUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/Chinese-made-driverless-train-prototype-at-Bengaluru-580x435.jpg",
-          "width": 580,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "publishedDateTime": "2024-02-23T08:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

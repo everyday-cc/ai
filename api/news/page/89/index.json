@@ -2,6 +2,40 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-12-21-ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-in-2024.md",
+      "title": "AI trends: What experts, execs think artificial intelligence will look like in 2024",
+      "excerpt": "Though artificial intelligence has been around for decades, the introduction of ChatGPT — a consumer-facing AI chatbot — in late 2022 brought the technology to the forefront throughout 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
+      "originalUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-2023-at-google.md",
       "title": "2023 at Google",
       "excerpt": "Explore our collection looking back on some of our biggest moments and milestones from 2023.",
@@ -1165,58 +1199,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-highmoons-holistic-approach-to-investing-where-genai-meets-behavior.md",
-      "title": "Highmoon’s Holistic Approach To Investing: Where GenAI Meets Behavior.",
-      "excerpt": "Highmoon Capital takes a holistic approach to investment by integrating hard and soft variables into its decision-making algorithm with generative AI (GenAI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65824c6d7912efacd2815c49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1477,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/amp/",
-      "publishedDateTime": "2023-12-20T02:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

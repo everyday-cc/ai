@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2024-02-14-neural-prosthetic-device-can-help-humans-restore-memory.md",
+      "title": "Neural prosthetic device can help humans restore memory",
+      "excerpt": "A team of scientists have demonstrated the first successful use of a neural prosthetic device to recall specific memories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-new-for-2024-bergara-mgmicro-lite.md",
       "title": "New For 2024: Bergara MgMicro Lite",
       "excerpt": "Rifle maker Bergara is already well-established in the lightweight hunter category with models like its Crest and MgLite. Now the company is taking its Premier series MgLite and making it even lighter and more compact with the MgMicro Lite.",
@@ -1105,58 +1148,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms.md",
-      "title": "Apple researchers unveil ‘Keyframer’: An AI tool that animates still images using LLMs",
-      "excerpt": "Researchers at Apple have developed an AI-powered animation tool called Keyframer that allows anyone to animate static images using natural language prompts, opening up animation design to broader audiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
-      "originalUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_Macintosh_apple_and_animation_anima_1240c0e1-f2e1-4d36-95c1-a013225af6df-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T01:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

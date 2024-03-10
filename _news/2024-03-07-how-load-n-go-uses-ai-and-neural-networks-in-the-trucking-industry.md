@@ -7,7 +7,7 @@ originalUrl: "https://www.mcall.com/2024/03/07/how-load-n-go-uses-ai-and-neural-
 webUrl: "https://www.mcall.com/2024/03/07/how-load-n-go-uses-ai-and-neural-networks-in-the-trucking-industry/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "When AI Decides Raises, The Best Startup Employers And Finding Meaning In Work"
+    excerpt: "The AI system, dubbed Riley, monitors and analyzes employees’ interactions with customers and assigns bonuses to those who are able to sell more. America’s best startup employers: Forbes released its annual list Tuesday. Thumb through it here."
+    publishedDateTime: 2024-03-05T19:08:00Z
+    webUrl: "https://www.forbes.com/sites/emmylucas/2024/03/05/when-ai-decides-raises-the-best-startup-employers-and-finding-meaning-in-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
 
 secured: "//p8BfHuVlB5BQ/rnp6aIa5f6ENTejtqf0p7cLJdKUJvQD7vQHIM4K7xn7TuQ4S1XZA+5f278PhuU83IAI6KkpZmPwkDyj6j4Z7DgBgT/hThdjIq/p51MfWR7Da/4TdhipGj4WWnT3wRmRrD85MAsc/daDOnMIf/deUmUZmv5GEGMCgVzMQrr2GCIWMr7pOWQdGPY7iPylgotO6UriF+JA+TX/DyeNaqqj/+bcubBLgcTm2COwPeLgS7C12xIly7HXcDCq7NXygHMt0WN6xzWe60bj9EIRNSvv/Kepap7T0NlzvyJKdkjofwlytxZqMV+6lALbn/50KkKE/kgnRcU3DnKHv73XTlAtMbCxC/u5nZQpwMjrHooh1j5xSwp/iFBbIOIRM17Uak1c8/BkgkYgAg47vqRnzzH+bLu/HndctsyKN8e+4GsAZ7mJw0aXtAM0eJ2xEnMwYwhVfDhzXSEtkvCG0tSTbbeARMg6pGLE339jUNIbksU9DlGP/zE6YNFvH0D3KkFELvZwcW7NYh7g==;Tgntjh6YtjBt4yYP2UJqCA=="
 ---

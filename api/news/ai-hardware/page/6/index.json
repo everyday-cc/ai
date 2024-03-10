@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-24-what-ai-means-for-networking-infrastructure-in-2024.md",
+      "title": "What AI Means For Networking Infrastructure In 2024",
+      "excerpt": "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 648,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "publishedDateTime": "2024-01-23T18:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-i-love-the-samsung-galaxy-s24-ultra-but-galaxy-ai-isnt-ready.md",
       "title": "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready",
       "excerpt": "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time.",
@@ -1416,58 +1468,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-us-sanctioned-chinese-chip-start-up-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card.md",
-      "title": "US-sanctioned Chinese chip start-up Moore Threads unveils GPU-based computing centre, AI graphics card",
-      "excerpt": "Moore Threads Intelligent Technology, a Beijing-based designer of GPUs tailored for AI training, said the new GPU will be found on its KUAE Intelligent Computing Centre, which is aimed at serving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/20/7246be65-c6ea-473f-b275-39e35141736d_06dd8399.jpg?itok=obd0zFrW&v=1703059591",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
-      "publishedDateTime": "2023-12-27T15:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

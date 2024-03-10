@@ -2,6 +2,40 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2024-02-12-onetrust-enhancements-accelerate-ai-adoption-enable-responsible-data-use-and-automate-compliance.md",
+      "title": "OneTrust Enhancements Accelerate AI Adoption, Enable Responsible Data Use, and Automate Compliance",
+      "excerpt": "OneTrust, the market-defining leader for trust intelligence, today announced its newest platform features that make it easier for customers to govern their use of artificial intelligence (AI) and accelerate AI innovation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960763.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960763.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.md",
       "title": "AI frenzy puts Nvidia briefly ahead of Amazon in market value",
       "excerpt": "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data.",
@@ -1120,49 +1154,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-new-ai-feature-in-instagram-coming-soon-heres-what-it-will-do.md",
-      "title": "New AI feature in Instagram coming soon: Here’s what it will do",
-      "excerpt": "Discover the latest AI feature coming to Instagram and learn how it will enhance your experience on the platform. Find out everything you need to know about this exciting update.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107602791,width-1280,height-720,resizemode-4/107602791.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "publishedDateTime": "2024-02-11T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

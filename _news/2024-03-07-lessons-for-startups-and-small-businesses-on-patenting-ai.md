@@ -36,6 +36,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Expanding The Limits Of AI With Identity"
+    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
+    publishedDateTime: 2024-03-08T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Understanding IP Matters – IP and AI: Lessons for Students, Businesses and Governments"
     excerpt: "They empahisize that AI law and ethics are not for lawyers only, but for most students. Are the lawyers who don’t focus on IP exposed to intellectual property law? Is it through contracts or are there specific courses for them? Megan Carpenter ..."
     publishedDateTime: 2024-03-06T07:15:00Z

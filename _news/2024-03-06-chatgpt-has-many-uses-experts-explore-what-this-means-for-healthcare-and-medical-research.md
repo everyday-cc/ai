@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107940536/Chatgpt-Has-Many-Uses-Experts-Explor
 webUrl: "https://menafn.com/1107940536/Chatgpt-Has-Many-Uses-Experts-Explore-What-This-Means-For-Healthcare-And-Medical-Research"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "You can now add extra security to your ChatGPT - here's how and why you should"
-    excerpt: "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ"
-    publishedDateTime: 2024-03-08T09:12:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "ChatGPT Plugins are being replaced by GPTs. Here's why - and what it means for you"
     excerpt: "Integration with external services: ChatGPT Plugins allow the ChatGPT model to interact with external services and APIs. This means that the AI can fetch real-time data, perform actions like booking reservations, or retrieve information from the web directly within the conversation."
     publishedDateTime: 2024-03-07T06:21:00Z

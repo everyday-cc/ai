@@ -33,14 +33,19 @@ related:
         height: 900
         isCached: true
   - title: "QNL forum examines ethics, implications of AI in libraries"
-    excerpt: "Qatar National Library ( QNL) hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information"
-    publishedDateTime: 2024-03-09T21:21:00Z
-    webUrl: "https://www.gulf-times.com/article/678648/qatar/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
+    excerpt: "Doha, Qatar: For the third consecutive year, Qatar National Library has hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information in the digital age. The event ..."
+    publishedDateTime: 2024-03-10T07:31:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/10/03/2024/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 34
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 54
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20240310_1710055806-540.JPG?1710055806"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Revolutionizing Industries: The Pervasive Impact of Artificial Intelligence Applications"
     excerpt: "In our modern world, Artificial Intelligence(AI) has become more than just a figment of science fiction. In today's highly evolved technological landscape, AI is a revolutionary technology that has transformed every industry in ways we can only begin to imagine."
     publishedDateTime: 2024-03-05T16:45:00Z

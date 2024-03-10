@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2024-01-05-2024-digital-transformation-financial-services-trends.md",
+      "title": "2024: Digital Transformation & Financial Services Trends",
+      "excerpt": "FinTech Magazine gets the outlooks from industry experts on the future of financial services and what form digital transformation will take as we enter 2024, featuring leaders from Intellias and Confluent. Below, Peter Pugh-Jones discusses the importance of back-office efficiencies for financial institutions in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/articles/2024-digital-transformation-financial-services-trends",
+      "originalUrl": "https://fintechmagazine.com/articles/2024-digital-transformation-financial-services-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1200/9e39b22126c5b9bf459ddb058c4a66c9:411780fe9ee295cf61516b111fb037c6/gettyimages-1860678599.jpg.jpg",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-baidus-bet-on-ai-could-make-or-break-chinas-fallen-tech-group.md",
       "title": "Baidu’s bet on AI could make or break China’s fallen tech group",
       "excerpt": "Ma’s return also contributed to the exit of one of Baidu’s star hires, Lu Qi, an AI expert whom Li poached away from Microsoft in 2017 to run the company’s day-to-day operations as president and COO, according to two people familiar with the matter.",
@@ -1022,58 +1065,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-02-the-13-best-cat-litter-boxes-of-2024-tested-and-reviewed.md",
-      "title": "The 13 best cat litter boxes of 2024, tested and reviewed",
-      "excerpt": "If you're looking for an automatic litter box with all the bells and whistles, the Whisker Litter-Robot 4 is a pricey ... Best for odor control: Catit Jumbo Hooded Pan - See at Chewy The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/guides/pets/best-litter-box",
-      "originalUrl": "https://www.businessinsider.com/guides/pets/best-litter-box",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63cad3f725e32e00190c7c3e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

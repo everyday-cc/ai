@@ -2,6 +2,49 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2024-01-12-abb-expands-stake-in-next-gen-ai-powered-robotics-with-acquisition-of-sevensense.md",
+      "title": "ABB Expands Stake in Next-Gen AI-Powered Robotics with Acquisition of Sevensense",
+      "excerpt": "Swiss start-up Sevensense's 3D vision navigation technology to boost ABB's AMR portfolio and drive smarter factories and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2024/01/ABB_Sevensense.65a0777131390.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation.md",
       "title": "Sam’s Club Deploys AI-Powered Computer Vision to Speed Payment Confirmation",
       "excerpt": "Sam’s Club is piloting tech designed to address a big customer pain point: waiting for an associate to check their receipt against the items in their cart.",
@@ -1013,40 +1056,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-the-top-3-stocks-shaping-the-future-of-autonomous-driving.md",
-      "title": "The Top 3 Stocks Shaping the Future of Autonomous Driving",
-      "excerpt": "This marked an important step towards a fully driverless service, reinforcing the company ... and continuing investments in artificial intelligence and other growth projects. This makes it one of those autonomous driving stocks to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
-      "originalUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

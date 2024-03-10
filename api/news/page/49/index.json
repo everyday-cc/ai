@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2024-02-01-artificial-intelligence-ai-i-yai-yai-where-do-i-do-start.md",
+      "title": "Artificial Intelligence: AI, I Yai Yai – Where Do I Do Start?",
+      "excerpt": "Do not worry, you are not the only one not fully understanding the depth and scope of \"AI\" or what it does for that matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
+      "originalUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb11d2d3622599e4139bbf/0x0.jpg?format=jpg&crop=750,422,x0,y13,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T02:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-deep-learning-for-natural-language-processing.md",
       "title": "Deep Learning for Natural Language Processing",
       "excerpt": "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ...",
@@ -1114,58 +1165,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push.md",
-      "title": "Meta Platforms is primed for a big quarter with ads, AI push",
-      "excerpt": "In raising his price target to $435 from $390, Seaport Research Partners analyst Aaron Kessler is looking at robust ad growth and outlook, an updated outlook on 2024 operating expenses, the impact of regulation on content for teens, and how AI initiatives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "originalUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-89343189/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "publishedDateTime": "2024-01-31T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

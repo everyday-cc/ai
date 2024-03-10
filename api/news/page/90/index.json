@@ -2,6 +2,58 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-12-20-highmoons-holistic-approach-to-investing-where-genai-meets-behavior.md",
+      "title": "Highmoon’s Holistic Approach To Investing: Where GenAI Meets Behavior.",
+      "excerpt": "Highmoon Capital takes a holistic approach to investment by integrating hard and soft variables into its decision-making algorithm with generative AI (GenAI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65824c6d7912efacd2815c49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1477,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/12/19/highmoons-holistic-approach-to-investing-where-genai-meets-behavior/amp/",
+      "publishedDateTime": "2023-12-20T02:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft.md",
       "title": "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft",
       "excerpt": "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles.",
@@ -1136,57 +1188,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-startup-shutdowns-and-ai-showdowns-the-2023-chronicles.md",
-      "title": "Startup Shutdowns and AI Showdowns: the 2023 chronicles",
-      "excerpt": "The Equity crew is talking through key themes from 2023, looking at the year's venture capital numbers, fintech's hot start then cool down on the M&A front, the creator economy in 2023, and why OpenAI's upheaval got us thinking about the return of key-person syndrome.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/",
-      "originalUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/equity-podcast-2019-phone.webp?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/amp/",
-      "publishedDateTime": "2023-12-19T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

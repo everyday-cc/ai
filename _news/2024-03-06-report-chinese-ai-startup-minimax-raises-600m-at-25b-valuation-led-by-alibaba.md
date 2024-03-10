@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/03/05/report-chinese-ai-startup-mini
 webUrl: "https://siliconangle.com/2024/03/05/report-chinese-ai-startup-minimax-raises-600m-2-5b-valuation-led-alibaba/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba backs US$2.5 billion AI startup in second major 2024 deal"
-    excerpt: "ALIBABA Group Holding is leading a financing round of at least US$600 million for Chinese AI startup MiniMax, spearheading its second major deal in the space this year as it deploys capital in pursuit of growth."
-    publishedDateTime: 2024-03-05T07:42:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/alibaba-backs-us-2-5-billion-ai-startup-in-second-major-2024-deal"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 37
-    images:
-      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/05/imgbiz1113b5m3ld.jpg"
-        width: 880
-        height: 587
-        isCached: true
-  - title: "Alibaba adds fresh AI startup to its investing portfolio amid increasing bets in the sector"
-    excerpt: "Alibaba is casting a wide net as it looks to increase its bets on potential leaders in the country's artificial intelligence sector."
-    publishedDateTime: 2024-03-06T09:46:00Z
-    webUrl: "https://technode.com/2024/03/06/alibaba-adds-fresh-ai-startup-to-its-investing-portfolio-amid-increasing-bets-in-the-sector/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 27
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/09/阿里巴巴园区（西溪园区）3.png-e1695200541979.png"
-        width: 2048
-        height: 925
-        isCached: true
   - title: "Alibaba Amplifies AI Investment, Valuing MiniMax Over $2.5B in Latest Financing Round"
     excerpt: "Alibaba leads $600M funding round for AI startup MiniMax, boosting its valuation over $2.5B. Alibaba's AI focus continues with significant investment in MiniMax, mirroring its strategy with Moonshot AI. This investment positions MiniMax, a two-year-old ..."
     publishedDateTime: 2024-03-05T09:10:00Z

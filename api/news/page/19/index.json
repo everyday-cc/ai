@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-22-get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview.md",
+      "title": "Get ready for the age of sovereign AI | Jensen Huang interview",
+      "excerpt": "The AI Impact Tour – NYC We’ll be in New York on February 29 ... they would not be software-hackable and that took some time. Now the company is sampling chips to China again, within the restrictions of the government. I asked if the China market ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
+      "originalUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-google-launches-gemma-a-family-of-open-source-lightweight-ai-models-for-developers.md",
       "title": "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers",
       "excerpt": "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models.",
@@ -1123,57 +1175,6 @@
         "Natural Language Processing",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems.md",
-      "title": "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems",
-      "excerpt": "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "originalUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-66491774/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "publishedDateTime": "2024-02-21T18:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

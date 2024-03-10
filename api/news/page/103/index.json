@@ -2,6 +2,58 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-12-11-weve-come-full-circle-with-ai-chatgpt-lazily-prompts-users-to-complete-their-own-tasks.md",
+      "title": "We've come full circle with AI: ChatGPT lazily prompts users to complete their own tasks",
+      "excerpt": "Many users have reported that ChatGPT has become lazy lately, prompting users back to complete their own tasks after giving them a formula.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/chatgpt-lazy-3393196/",
+      "originalUrl": "https://www.androidauthority.com/chatgpt-lazy-3393196/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-58.jpg",
+          "width": 1919,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-aws-indias-interim-country-head-vaishali-kasture-quits.md",
       "title": "AWS India’s interim country head Vaishali Kasture quits",
       "excerpt": "Amazon Web Services (AWS) India and South Asia’s interim country head for commercial business Vaishali Kasture has resigned from her role, seven months after taking over from former president of commercial business Puneet Chandok, sources in the know told Moneycontrol.",
@@ -1007,49 +1059,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-artificial-intelligence-creates-terrible-iowa-superhero-watch.md",
-      "title": "Artificial Intelligence Creates Terrible Iowa Superhero [WATCH]",
-      "excerpt": "Artificial Intelligence can be an incredibly useful tool for many people daily. We use AI in our phones, automated cars, online shopping, advertising, smart thermostats, etc. At its core, AI is the ability of a machine to display human-like capabilities such as reasoning,",
-      "sourceUrl": null,
-      "webUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
-      "originalUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://townsquare.media/site/726/files/2023/12/attachment-esteban-lopez-6yjAC0-OwkA-unsplash.jpg?w=980&q=75",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHAK",
-        "domain": "khak.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

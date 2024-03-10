@@ -2,6 +2,58 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-12-13-portugals-progressive-policies-fuel-fintech-growth.md",
+      "title": "Portugal’s Progressive Policies Fuel Fintech Growth",
+      "excerpt": "These fintechs include: ivendPay, which provides comprehensive solutions for using cryptocurrency in everyday life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/",
+      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657731254d6c7a89a810b4c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/",
+      "publishedDateTime": "2023-12-13T10:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-gemini-ai-what-do-we-know-about-googles-answer-to-chatgpt.md",
       "title": "Gemini AI: What do we know about Google's answer to ChatGPT?",
       "excerpt": "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all.",
@@ -1092,49 +1144,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer.md",
-      "title": "Virginia sheriff says Tesla Autopilot was running before driving under tractor-trailer",
-      "excerpt": "Virginia authorities have determined that a Tesla was operating on its Autopilot system and was speeding in the moments leading to a crash with a crossing tractor-trailer last July that killed the Tesla driver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "originalUrl": "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2082x1171+414+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/12/12174123/Screenshot-2023-12-12-at-5.38.41-PM.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "publishedDateTime": "2023-12-12T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

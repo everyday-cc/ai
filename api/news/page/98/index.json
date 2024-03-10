@@ -2,6 +2,48 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-12-14-2023-was-the-year-that-artificial-intelligence-went-mainstream.md",
+      "title": "2023 was the year that artificial intelligence went mainstream",
+      "excerpt": "From ChatGPT to Gemini, this year was dominated by large language models and other AIs becoming everyday tools used by millions of people",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/",
+      "originalUrl": "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-breaking-amd-is-not-the-fastest-gpu-heres-the-real-data.md",
       "title": "Breaking: AMD Is Not The Fastest GPU; Here’s The Real Data.",
       "excerpt": "Nvidia has just released a blog that counters AMD's claim that its latest chip, the MI300X, is 40-60 % faster in latency and throughput than Nvidia in inference processing for generative AI. Here is one of AMD’s slides at the MI300 launch event, which we covered here.",
@@ -1139,58 +1181,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-portugals-progressive-policies-fuel-fintech-growth.md",
-      "title": "Portugal’s Progressive Policies Fuel Fintech Growth",
-      "excerpt": "These fintechs include: ivendPay, which provides comprehensive solutions for using cryptocurrency in everyday life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/",
-      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657731254d6c7a89a810b4c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/12/13/portugals-progressive-policies-fuel-fintech-growth/amp/",
-      "publishedDateTime": "2023-12-13T10:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

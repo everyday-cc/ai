@@ -22,95 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Avoiding The Swinging Pendulum In The Great AI Debate"
-    excerpt: "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other."
-    publishedDateTime: 2024-03-05T08:58:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/"
+  - title: "How Load N Go uses AI and neural networks in the trucking industry"
+    excerpt: "In 2023, prices rose for many products, including groceries, utilities, retail merchandise and fuel. This price uptick is explained by the inflation going on in the United States. Its impact has"
+    publishedDateTime: 2024-03-07T14:54:00Z
+    webUrl: "https://www.mcall.com/2024/03/07/how-load-n-go-uses-ai-and-neural-networks-in-the-trucking-industry/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 397
+      - url: "https://www.mcall.com/wp-content/uploads/2024/03/unnamed-2-1.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
-    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
-    publishedDateTime: 2024-03-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Expanding The Limits Of AI With Identity"
-    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
-    publishedDateTime: 2024-03-08T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "Writing still matters in the age of artificial intelligence"
-    excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
-    publishedDateTime: 2024-03-06T00:25:00Z
-    webUrl: "https://www.michigandaily.com/opinion/writing-still-matters-in-the-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 39
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/Writing-still-matters-in-the-age-of-AI.png"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Accenture says frenzy surrounding artificial intelligence is unlike anything seen before"
-    excerpt: "Sonic Healthcare said its Franklin.ai, which it hopes will improve the pathology process, is now ready for validation studies and trials. Telstra disclosed that AI will be used to improve half of its key processes, including automatically detecting and ..."
-    publishedDateTime: 2024-03-05T19:29:00Z
-    webUrl: "https://www.geelongadvertiser.com.au/business/accenture-says-frenzy-surrounding-artificial-intelligence-is-unlike-anything-seen-before/news-story/a7db89dbd5539fbe7c250567e706bbd4"
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 10
 
 secured: "OL80WzEjvyGDxikuLciJ8jDIEAij2B/6sUVAcOatZDmBld0b3V0l+5ZTaEoGInnuCtyq7cxyjzQ57uVQd7bG0DUwOUHK2p0Mv6haaroI9VAiXvz34CrbqlVKwKoMlp6WlyW3GTRSxaD2vJ7oCDLEukhgRve9dthUcC43osqFv9Us4JRGRPtVi4b56PDn7KRnA019Z4rli8Ca7liIOJRWVVqSMQqaBmfXP5TIwIBhgOTONJ3okHina6FoCqg20syZolJLAGAt5WhpVb6Ajt2dDJQBmmf1kqUhgSTV6TZmZI/JlVQfUO7l1WIED2EbNBgVjDtaHhjgKHABd+4eh03Brj3HT5AMutp6muDSYmjHqc4svfe7oCiNox33cE4gpmscLus1mILM7pPxVl7GLucbVYWPPVO9NSRwHV97PxIcfih0JvTrSI5qroukxHXoziYuqruuF1mqrtpvizice99vMV20VJKQIlhvf/wQwDx5KwMv/umYJ9CGuicjJZBb+ncDjGYQKFxvtD4CgequnbhjbQ==;TJDiJim44dg6uZb+vV+p1g=="
 ---

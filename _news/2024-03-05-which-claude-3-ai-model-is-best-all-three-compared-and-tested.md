@@ -39,6 +39,50 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "28 of the best AI and ChatGPT courses you can take online for free"
+    excerpt: "TL;DR: A wide range of online AI and ChatGPT courses are available to take for free on Udemy."
+    publishedDateTime: 2024-03-07T05:00:00Z
+    webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/00utc2FpFx7bHiQyoOQjXux/hero-image.fill.size_1200x675.v1709736229.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini"
+    excerpt: "AI startup Anthropic said Monday that the latest version of ... Opus, on the other hand, can plan and execute complex actions across APIs and databases and perform research and development tasks like brainstorming and hypothesis generation and even drug ..."
+    publishedDateTime: 2024-03-06T00:45:00Z
+    webUrl: "https://www.cnet.com/tech/anthropic-ups-its-ai-chatbot-game-with-claude-3-rival-to-chatgpt-and-gemini/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 83
+    images:
+      - url: "https://www.cnet.com/a/img/resize/6a110345d1f9a94f4a40d55bab492847a9dc8b19/hub/2024/03/05/d74b3cfb-af75-44d2-85c4-115f110de078/claude-3-launch.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon-backed AI startup claims new chatbot beats OpenAI ChatGPT and Google's Gemini"
+    excerpt: "Anthropic, the artificial intelligence startup founded by former OpenAI researchers, has unveiled its latest language models, Claude 3, claiming they outperform rival systems like Google's Gemini and OpenAI's vaunted GPT-4."
+    publishedDateTime: 2024-03-05T11:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/articleshow/108238137.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-backed-ai-startup-claims-new-chatbot-beats-openai-chatgpt-and-googles-gemini/amp_articleshow/108238137.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 67
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108238104,width-1280,height-720,resizemode-4/108238104.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
     excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
     publishedDateTime: 2024-03-07T17:48:00Z
@@ -80,6 +124,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/anthropic-ai-GettyImages-1500238079_538121_v90dre.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
+    excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
+    publishedDateTime: 2024-03-05T15:12:00Z
+    webUrl: "https://nypost.com/2024/03/05/business/ai-startup-anthropic-unveils-new-chatbot-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 45
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/moynihan.png?w=400"
+        width: 400
+        height: 363
         isCached: true
   - title: "AI startup Anthropic challenges OpenAI and Google with new chatbot"
     excerpt: "Dario Amodei, Anthropic's chief executive and co-founder, said the new technology, called Claude 3 Opus, was particularly useful when analysing scientific data or generating computer code"

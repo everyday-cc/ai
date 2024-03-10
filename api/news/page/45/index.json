@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-02-04-is-there-a-bubble-in-ai-stocks.md",
+      "title": "Is There A Bubble In AI Stocks?",
+      "excerpt": "Talk of price to innovation ratios by Morgan Stanley has triggered talk of a bubble in AI stocks. Is this just the beginning of a run up in stock prices?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65be8742c9d836097bc8f8e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "publishedDateTime": "2024-02-03T18:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-04-samsung-responds-to-criticism-of-the-galaxy-s24s-ai-photo-editing-features.md",
       "title": "Samsung responds to criticism of the Galaxy S24's AI photo-editing features",
       "excerpt": "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the",
@@ -1134,49 +1186,6 @@
         "AI Hardware",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-create-images-with-adobe-firefly-ai-for-apple-vision-pro.md",
-      "title": "Create images with Adobe Firefly AI for Apple Vision Pro",
-      "excerpt": "Adobe's image-generating software Firefly has been announced for the new Apple Vision Pro, and joins the company's previously-announced Lightroom photo app.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
-      "originalUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/58429-119036-000-lead-Firefly-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
-      "publishedDateTime": "2024-02-02T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

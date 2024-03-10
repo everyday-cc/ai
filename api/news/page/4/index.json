@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-06-airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip.md",
+      "title": "Airship AI’s stock rockets upon DOJ contract, as shares of other AI plays slip",
+      "excerpt": "The technology sector is moving lower Tuesday — but one small name stands out in a big way in a sea of mostly red.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
+      "originalUrl": "https://www.marketwatch.com/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-496944/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0",
+      "publishedDateTime": "2024-03-05T17:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai.md",
       "title": "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI",
       "excerpt": "This month, like every month, I’m sharing a few of the latest updates and resources to help reinforce how Azure can fuel your innovation through data, AI, and digital application solutions.\nThe post What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI appeared first",
@@ -261,7 +312,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -313,7 +364,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -660,7 +711,7 @@
       "originalUrl": "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1193,58 +1244,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-aws-to-launch-saudi-arabia-data-centers-as-part-of-5bn-investment.md",
-      "title": "AWS to launch Saudi Arabia data centers as part of $5bn investment",
-      "excerpt": "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
-      "originalUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/nbiGh8Hmf4qRxBs6jhftok-1200-80.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

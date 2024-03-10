@@ -1,22 +1,28 @@
 ---
 category: news
 title: "QNL forum examines ethics, implications of AI in libraries"
-excerpt: "Qatar National Library ( QNL) hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information"
-publishedDateTime: 2024-03-09T21:21:00Z
-originalUrl: "https://www.gulf-times.com/article/678648/qatar/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
-webUrl: "https://www.gulf-times.com/article/678648/qatar/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
+excerpt: "Doha, Qatar: For the third consecutive year, Qatar National Library has hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information in the digital age. The event ..."
+publishedDateTime: 2024-03-10T07:31:00Z
+originalUrl: "https://thepeninsulaqatar.com/article/10/03/2024/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
+webUrl: "https://thepeninsulaqatar.com/article/10/03/2024/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Gulf Times
-  domain: gulf-times.com
+  name: The Peninsula
+  domain: thepeninsulaqatar.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://thepeninsulaqatar.com/get/maximage/20240310_1710055806-540.JPG?1710055806"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI"
@@ -84,6 +90,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "0k/bbtwmJ0neXErf09qLRnPVZSGytZ7achpn11CLsEl6lXHVYT9bHNxAhSOKQcn0rq/zYF1qZScgVm3y0reTrhLIkiyXFmqqNhg8jZzbbdtGAqcPPosNmuqYZDM89hTYd+XBxtS625Jefkoi6OXD7VqAOodmk12qiPiOB8FRty2T9ubFnoyhC16DA5/9Dcdq4xR+cT5cu8aLHlRSoUydpAIP/Vzz2cN8yUK3vWgXoXIYVCfQ4cHfsGfhnbEMhrDHoT8ETDHFY2wPnqN+syoI9zfdZKEXsN+zjP76h3xDEEn/dmyDlMUteIiYyMtPDPW62Qepc/HdKD912RvuUxKx4dI/1wWVdgqvWIJQcfRhVRNxpbEtztyT15rwn6bF5b5t+aYr9a+sFyBISdJTdaJlDeCmry+lEELZhN0YExLv8qxflwlE6l0JjzH2A9gP2MhZpzmYo9ycPfDIzOTQ0JJOKvjuBODEAef5FaKXhFYmZryMAp1vVSA2uiRBW3qLEV02NDH9+6sKpuLIvdHH3uy7vw==;OrBK/03SMkfrVaQiCsB/qg=="
+secured: "O4ZBDSOQkucQXQInelM7Ft1cFwoBrpyp9mxXyjMPxWrZ75Jjqa/CnZsgLHsPaA2AQhg5v2bxNVBH1PJi3YKIFFjqihmM1ztDX6CPCwLmGI0QsnN3Kmon7w2Hl6xCqg5dne+c5GiPtBVSCwGNvlISwaYeuke2BWYiWFQBJQkVjTC9fSReAaWv9Fs0QhzbYhtVcOaGDRLKfEEhdGh0ygzfmvdprOO0cSG9GUEvistUuAaoZ349HLAmnYd58/nDlirkUHwQCuw4JgZuCUMthJiy9j2WbFva4ObupNf24Cne7Npzm4itLFswsDVgE6QNJjSKOiHQmieOoMFTB9CY1N15PttL6cL9FimQIftECGHWjS0=;l5giWfitCR7P+m+AbG2+xA=="
 ---
 

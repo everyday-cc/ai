@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-08-you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should.md",
-      "title": "You can now add extra security to your ChatGPT - here's how and why you should",
-      "excerpt": "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ",
+      "path": "_news/2024-03-08-these-6-prompt-engineering-courses-can-you-optimize-your-use-of-chatgpt-and-other-generative-ai-tools.md",
+      "title": "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools",
+      "excerpt": "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/",
-      "originalUrl": "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/",
+      "webUrl": "https://fortune.com/education/articles/prompt-engineering-courses/",
+      "originalUrl": "https://fortune.com/education/articles/prompt-engineering-courses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 111,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T09:12:00Z",
+      "publishedDateTime": "2024-03-08T14:58:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Fortune",
+        "domain": "fortune.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,9 +49,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI",
-        "AI in Security"
+        "Microsoft AI"
       ]
     },
     {
@@ -446,7 +455,7 @@
       "originalUrl": "https://www.pcmag.com/news/anthropic-launches-claude-3-ai-rival-chatgpt-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 204,
       "tags": null,
       "images": [
         {

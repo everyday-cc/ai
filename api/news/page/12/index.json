@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-28-k-state-social-media-week-to-feature-events-in-artificial-intelligence-content-creation.md",
+      "title": "K-State Social Media Week to feature events in artificial intelligence, content creation",
+      "excerpt": "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
+      "originalUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
+      "publishedDateTime": "2024-02-27T17:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIBW",
+        "domain": "wibw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-please-include-csiro-ai-and-australia-in-the-title-and-any-other-relevant-brands-if-it-makes-sense.md",
       "title": "Please include CSIRO, AI, and Australia in the Title and any other relevant brands if it makes sense.",
       "excerpt": "Australia’s CSIRO, with Google and Stone & Chalk, has launched a $500,000 competition to support the development of AI apps in Australia.",
@@ -1172,49 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-recent-healthcare-related-artificial-intelligence-developments.md",
-      "title": "Recent Healthcare-Related Artificial Intelligence Developments",
-      "excerpt": "AI is here to stay. The development and use of artificial intelligence (“AI”) is rapidly growing in the healthcare landscape with no signs of slowing down. From a governmental perspective, many federal agencies are embracing the possibilities of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/recent-healthcare-related-artificial-1356462/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

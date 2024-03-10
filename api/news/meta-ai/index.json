@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-09-what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race.md",
+      "title": "What you need to know about Nvidia and the AI chip arms race",
+      "excerpt": "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/",
+      "originalUrl": "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T22:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-ai-may-kill-the-one-job-everyone-thought-it-would-create.md",
       "title": "AI may kill the one job everyone thought it would create",
       "excerpt": "Copy Link Could prompt engineering be on the list of jobs that AI will kill next? Prompt engineers write input ... which we've talked about on the show.\" Though research has shown promising performances for prompt optimizers, some experts caution that ...",
@@ -1415,59 +1459,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
-      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
-      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1049,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
-      "publishedDateTime": "2024-02-22T22:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
       ]
     }
   ],
