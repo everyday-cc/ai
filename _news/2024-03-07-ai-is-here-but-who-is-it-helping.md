@@ -80,20 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How AI is helping Lake County forest preserves engage with the public"
-    excerpt: "The intent is to enhance communication and accessibility for all users, including by bridging language barriers. The new feature can translate into multiple languages, making it more inclusive and accessible to diverse communities, according to the district."
-    publishedDateTime: 2024-03-05T06:01:00Z
-    webUrl: "https://www.dailyherald.com/20240305/news/how-ai-is-helping-lake-county-forest-preserves-engage-with-the-public/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.pdh.navigacloud.com/?uuid=2dfdd2a6-e1e1-50e8-8728-f220448c4564&function=fit&type=preview"
-        width: 500
-        height: 357
-        isCached: true
   - title: "Melinda Gates says using artificial intelligence in pregnancy could help save women's lives"
     excerpt: "Gates spoke to ABC News' Dr. Jennifer Ashton about the state of women's health. The Bill & Melinda Gates Foundation is working to increase access globally to AI-enabled ultrasound devices. Bill & Melinda Gates Foundation Each day,"
     publishedDateTime: 2024-03-08T09:11:00Z

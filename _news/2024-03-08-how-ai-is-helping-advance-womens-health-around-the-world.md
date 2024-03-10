@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-wo
 webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://images.mid-day.com/images/images/2024/mar/women-wold_d.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How AI is helping Lake County forest preserves engage with the public"
-    excerpt: "The intent is to enhance communication and accessibility for all users, including by bridging language barriers. The new feature can translate into multiple languages, making it more inclusive and accessible to diverse communities, according to the district."
-    publishedDateTime: 2024-03-05T06:01:00Z
-    webUrl: "https://www.dailyherald.com/20240305/news/how-ai-is-helping-lake-county-forest-preserves-engage-with-the-public/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.pdh.navigacloud.com/?uuid=2dfdd2a6-e1e1-50e8-8728-f220448c4564&function=fit&type=preview"
-        width: 500
-        height: 357
         isCached: true
   - title: "AI Is Here, But Who Is It Helping?"
     excerpt: "Following Crunchyroll president Rahul Purini 's confirmation that the company is already testing generative A.I. uses on subtitling and closed captioning, Chris and Lucas discuss where the technology could benefit more broadly and management's misjudgment on how to implement it."

@@ -34,22 +34,6 @@ related:
         width: 1456
         height: 864
         isCached: true
-  - title: "The AI Homogenization Is Shaping The World."
-    excerpt: "A phenomenon of AI homogenization is emerging — this impact that Artificial Intelligence is having on the world makes us realize the importance of our own."
-    publishedDateTime: 2024-03-05T06:40:00Z
-    webUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hamiltonmann/2024/03/05/the-ai-homogenization-is-shaping-the-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e19a92e7cc0647aba49a19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1223
-        height: 900
-        isCached: true
   - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
     excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
     publishedDateTime: 2024-03-08T12:45:00Z

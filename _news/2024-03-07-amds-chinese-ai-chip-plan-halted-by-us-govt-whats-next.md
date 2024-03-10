@@ -44,20 +44,6 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 71
-  - title: "AMD's cut-down AI GPU for China market blocked by US government"
-    excerpt: "AMD has been halted by the US Commerce Department, banning its AI processors from shipping to China, even though it was cut-down AI GPU."
-    publishedDateTime: 2024-03-05T05:32:00Z
-    webUrl: "https://www.tweaktown.com/news/96638/amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96638_204_amds-cut-down-ai-gpu-for-china-market-blocked-by-us-government_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "AMD hits snag in China AI chip plans"
     excerpt: "Advanced Micro Devices Inc (AMD) hit a US government roadblock in attempting to sell an artificial intelligence (AI) chip tailored for the Chinese market, people familiar with the matter said, part of Washington’s crackdown on the export of advanced technologies to the country."
     publishedDateTime: 2024-03-05T16:00:00Z

@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Texas vs. Kansas Big 12 Tournament Women's Basketball Tickets & Start Time"
-excerpt: "View how Data Skrive uses AI here. The No. 2 seed Texas Longhorns (27-4 ... UAB AAC Tournament Women's Basketball Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Women's Basketball Tickets & Start Time Abilene Christian vs."
-publishedDateTime: 2024-03-09T18:07:00Z
-originalUrl: "https://www.ktre.com/sports/betting/2024/03/09/texas-vs-kansas-buy-big-12-tournament-womens-college-basketball-tickets/"
-webUrl: "https://www.ktre.com/sports/betting/2024/03/09/texas-vs-kansas-buy-big-12-tournament-womens-college-basketball-tickets/"
+title: "Kings vs. Magic March 23 Tickets & Start Time"
+excerpt: "The Sacramento Kings (36-26), on Saturday, March 23, 2024 at Amway Center, face the Orlando Magic (37-27). The game starts at 7:00 PM ET on BSFL and NBCS-CA. If you're looking to catch this game in person, head to Ticketmaster to buy your tickets!"
+publishedDateTime: 2024-03-10T06:26:00Z
+originalUrl: "https://www.kolotv.com/sports/betting/2024/03/23/kings-vs-magic-buy-nba-tickets/"
+webUrl: "https://www.kolotv.com/sports/betting/2024/03/23/kings-vs-magic-buy-nba-tickets/"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: KTRE
-  domain: ktre.com
+  name: KOLO TV
+  domain: kolotv.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/7XATOXTUUJM6PKOOAMWPW6A254.jpg?auth=3388ed72ca8441d055f59fd8ad8a41a561860c90d083da3e7c60e103646050a1&width=1200&height=600&smart=true"
+  - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/v2/WH2WNSRK7ZMEVPUP3MNOF63B7M.jpg?auth=15320baaa62d900910eb38ed27b348f3a61e655de5bfe1bbf5661cbdd79aec52&width=1200&height=600&smart=true"
     width: 1200
     height: 600
     isCached: true
@@ -38,17 +38,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kings vs. Magic March 23 Tickets & Start Time"
-    excerpt: "The Sacramento Kings (36-26), on Saturday, March 23, 2024 at Amway Center, face the Orlando Magic (37-27). The game starts at 7:00 PM ET on BSFL and NBCS-CA. If you're looking to catch this game in person, head to Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-03-10T06:26:00Z
-    webUrl: "https://www.kolotv.com/sports/betting/2024/03/23/kings-vs-magic-buy-nba-tickets/"
+  - title: "Texas vs. Kansas Big 12 Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 2 seed Texas Longhorns (27-4 ... UAB AAC Tournament Women's Basketball Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Women's Basketball Tickets & Start Time Abilene Christian vs."
+    publishedDateTime: 2024-03-09T18:07:00Z
+    webUrl: "https://www.ktre.com/sports/betting/2024/03/09/texas-vs-kansas-buy-big-12-tournament-womens-college-basketball-tickets/"
     type: article
     provider:
-      name: KOLO TV
-      domain: kolotv.com
-    quality: 22
+      name: KTRE
+      domain: ktre.com
+    quality: 20
     images:
-      - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/v2/WH2WNSRK7ZMEVPUP3MNOF63B7M.jpg?auth=15320baaa62d900910eb38ed27b348f3a61e655de5bfe1bbf5661cbdd79aec52&width=1200&height=600&smart=true"
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/7XATOXTUUJM6PKOOAMWPW6A254.jpg?auth=3388ed72ca8441d055f59fd8ad8a41a561860c90d083da3e7c60e103646050a1&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -81,6 +81,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hMo2VzilRQIAq//jcqWJ6fifslzjJBhEVy2hSSnTEvPI40LHfqFDy0npFINii5vCqP5RJ9U/+wNuu7Gv/rxdHMQG63sWmd8utboD0yp1zCeNOa3WTvgoXqq3uWDmb1aYrCXd5XdEXEWcIvWfJxv+CwfGFD6406TsKzhjyFyk/TsHdkt2XAK6JxTI/vhao4yk5K0WiEbMKzsQKM2dCIlyeJX0Q+CQtwiSYok3qadO70tT9KM8GwBqqLFyXbq1zMcRr53BJgW94E/ehe9L5iEvLYDS0xpVQLCebTZPdrbNzy4gv1XPWBzGyGlqTfENWlXlw8YQOcNBioae0rQoZxOMVf47yEBS4arizVEnY3OmGMo=;DN/X8xu4UlurrPH87alAgg=="
+secured: "/PQVfqKM30Zj0N0hro9SzpunGSLz7CsdyDZaBTGfhJJw7jjgwcl7G/5tYfk5AF7nM2JIYgtWCg0FT7aZD3GogoUnBPcG5KAcFFkFKVB1drDkBXqiqtBAefJJEYB6OLf28uAciAnvZ70AiircrfAOW7StzcusdRpaXDimwYg9vYT3ApRpUd/MFw/7ydajcd5M0+Vf3OmmJmfbOuUMiix5FEkxJjp6BvvBgisUteqnqODQEXl4RichET6YXm7jIM3H34p0HKMEW6lOOzjDFfVgxRaN+x0INGBzxEuOMPB76vtAcizGV484jnWNFsN7MeiAj6Fa6O/e0CNN2UTk3RWzYXFI06PV5CgINGSQgk72blI=;OqegllUBhJvXCKda2zV9HA=="
 ---
 

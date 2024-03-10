@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google AI in Turmoil: Layoffs, Overtime and Gemini Fiasco"
-    excerpt: "Despite shrinking, Google relies more on its trust and safety teams. Some employees have been encouraged to volunteer for weekend testing to avoid further issues with Gemini"
-    publishedDateTime: 2024-03-05T06:03:00Z
-    webUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
-    ampWebUrl: "https://www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/google-ai-in-turmoil-layoffs-overtime-and-gemini-fiasco-4235502"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2023/09/search-engine-76519-1280.png"
-        width: 1200
-        height: 657
-        isCached: true
 
 secured: "Rj9ut0JS3hyvCpqqOAE3HblhKZXI7kWk9EFYQlQzqxrm5gTh+BfgfVHO33v3no/nIKEkHlqdL4Enf9UEBzdSwGc1B0e3QmhemCU0XVf5lVcfdRPJtYDIIRcvn0lNXosT/Vc32kdsv172qypKqde7CIt7QaZhCyndH2/6T/5tmmyg/BS+kZDxIECUOoT0oZRZl7AAfXNIF1dPvANZCw5OuN0Bea1vuqAkzq7SHHyygk1a9uRWCYRJ5qMU/AWW8gDsOyj4Gu30egflXxH197PrrOQuc9bEKMFHziqY0am6MbKJeA0fEKp+MQX8K3XZJ+9zeFggkC919v4Riy74Q+IWx4X1IKefiKKTv7bROi8+uuiiar/tPfUXCwP0a9xH5qCUJ/KoJePg2vGdpiE8eOjyAUVmoe/IUAE+OpvY1PRRlObD9+8wvibTAfV6Q+Urk7B8nHoMOy7wyVf1yoS2KLmbKI+uTbm7YdhBr1plwnLUyrjEQYQCir5ztYRCKKoGM8fStHTzdsOmA4dcgVJkvAWDlQ==;FqJiTgOM8AU2ab+L/vUdEQ=="
 ---

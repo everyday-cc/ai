@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AMD's AI chatbot released"
-excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
-publishedDateTime: 2024-03-08T11:05:00Z
-originalUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
-webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
+title: "Best AI Chatbots for 2024"
+excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
+publishedDateTime: 2024-03-10T06:42:00Z
+originalUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
+webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Fudzilla
-  domain: fudzilla.com
+  name: thetechedvocate.org
+  domain: thetechedvocate.org
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
-    width: 620
-    height: 465
+  - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
+    width: 1548
+    height: 776
     isCached: true
 
 related:
@@ -78,6 +78,20 @@ related:
         width: 384
         height: 268
         isCached: true
+  - title: "AMD's AI chatbot released"
+    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
+    publishedDateTime: 2024-03-08T11:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
     excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
     publishedDateTime: 2024-03-08T20:00:00Z
@@ -92,21 +106,7 @@ related:
         width: 708
         height: 365
         isCached: true
-  - title: "Best AI Chatbots for 2024"
-    excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
-    publishedDateTime: 2024-03-10T06:42:00Z
-    webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 39
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
-        width: 1548
-        height: 776
-        isCached: true
 
-secured: "kbo4+4HL+8DBXA5Vux1PK7w2lPL0d92eKvGlosXQHvIbrnwr/qLBuu3Q/mP0vVOxOv2511vgkYn662AlSJ3LV9xbUZYzLz6S+KfkHzRqGc7SRm3/fT7KepETziR7upXS2mxsRJ6vX9jDixI+C2GN+59JD034KC82Nd6CX/UTr1Y/pZDTGGjzPdiqWgEj5Pgb7nkrY7qbgnNrH3PQsXnVQX8W7839ce5wX5D0lJQwV1u5L4+JLMixIi65c4/4nf1ER4+vMA46bWd1rps1TFltLtvzWM1a9oLaPqfcRzUIz1tKiYa8PYH3JYhj5njBynglThA0nm2tNDuHXBmVWG+RRXu4EX5I3YB4zy01E8e507OpZofoonlzOtpTWuAeAlp/xrLOE4GMnVPgEkiWYavs71iLQ2vFY1x8SzYC7/zKiPoKZAEVX/iNiv7ItSZAQvSvVNS+HgIkEnCzfSCg8l4opDjdt+S+ZcPG0Xrnj/bRQVJ1nj4n2cdIEvvZskJDljyM/sjGxAhgUzCiGWWPxA9y2g==;yGVp++O/Ik1Q0w3l3tNrEg=="
+secured: "9CH08KW0+ac8Mmvt6sxpisJRGe5bLl4sBpueV6MbGNaTTc9ywhJBuEJS7eR1O10I7A0fmfmysM86KspvYSVAfZZKf6Vb4z+O3hZf1pqTORgjk6uPX4LfFzWudYGIoXRq0nKBAfC5jUlX3FPIh6KrxpqogQEVQ26rhib/gGb6OWHhpW43+hIZHSX0vYag2yOEUTXqXuMsaJ7kF012bqoA1zxYy90kMBqPLZ75PheT+QLI55CpHbxRVc86GvaUYxJV4cfXgp81qq+uboOj0O4zlUlgAKZvnHoN+fPfJa4Pkmy6fGaxIQUnAu6gZwBkBKgINsF5zVcaj5Taw0Gk+k9cpuzB+Pfi/DL36cAbywsyI9k=;93HKN5seLFu3Q6MnMl7XOA=="
 ---
 

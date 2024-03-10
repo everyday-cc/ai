@@ -1,43 +1,29 @@
 ---
 category: news
-title: "Texas vs. Kansas Big 12 Tournament Women's Basketball Tickets & Start Time"
-excerpt: "View how Data Skrive uses AI here. The No. 2 seed Texas Longhorns (27-4 ... UAB AAC Tournament Women's Basketball Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Women's Basketball Tickets & Start Time Abilene Christian vs."
-publishedDateTime: 2024-03-09T18:07:00Z
-originalUrl: "https://www.ktre.com/sports/betting/2024/03/09/texas-vs-kansas-buy-big-12-tournament-womens-college-basketball-tickets/"
-webUrl: "https://www.ktre.com/sports/betting/2024/03/09/texas-vs-kansas-buy-big-12-tournament-womens-college-basketball-tickets/"
+title: "Hurricanes vs. Flames March 10 Tickets & Start Time"
+excerpt: "View how Data Skrive uses AI here. When the Carolina Hurricanes face the Calgary Flames at PNC Arena on Sunday (the puck drops at 5:00 PM ET), Sebastian Aho and Nazem Kadri will be among the best players to watch. One of Carolina's most productive ..."
+publishedDateTime: 2024-03-10T06:20:00Z
+originalUrl: "https://www.live5news.com/sports/betting/2024/03/10/hurricanes-vs-flames-buy-nhl-tickets/"
+webUrl: "https://www.live5news.com/sports/betting/2024/03/10/hurricanes-vs-flames-buy-nhl-tickets/"
 type: article
-quality: 20
-heat: -1
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: KTRE
-  domain: ktre.com
+  name: Live 5 News
+  domain: live5news.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/7XATOXTUUJM6PKOOAMWPW6A254.jpg?auth=3388ed72ca8441d055f59fd8ad8a41a561860c90d083da3e7c60e103646050a1&width=1200&height=600&smart=true"
+  - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/v2/H5QKXUTTNFIB3C4NBW62O2ADDE.jpg?auth=4975a39d17f360a684a4d3975eacee9f136d5c2ba23e74f509b5e86648a9f71f&width=1200&height=600&smart=true"
     width: 1200
     height: 600
     isCached: true
 
 related:
-  - title: "Hurricanes vs. Flames March 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. When the Carolina Hurricanes face the Calgary Flames at PNC Arena on Sunday (the puck drops at 5:00 PM ET), Sebastian Aho and Nazem Kadri will be among the best players to watch. One of Carolina's most productive ..."
-    publishedDateTime: 2024-03-10T06:20:00Z
-    webUrl: "https://www.live5news.com/sports/betting/2024/03/10/hurricanes-vs-flames-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: Live 5 News
-      domain: live5news.com
-    quality: 22
-    images:
-      - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/v2/H5QKXUTTNFIB3C4NBW62O2ADDE.jpg?auth=4975a39d17f360a684a4d3975eacee9f136d5c2ba23e74f509b5e86648a9f71f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Kings vs. Magic March 23 Tickets & Start Time"
     excerpt: "The Sacramento Kings (36-26), on Saturday, March 23, 2024 at Amway Center, face the Orlando Magic (37-27). The game starts at 7:00 PM ET on BSFL and NBCS-CA. If you're looking to catch this game in person, head to Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-03-10T06:26:00Z
@@ -49,6 +35,20 @@ related:
     quality: 22
     images:
       - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/v2/WH2WNSRK7ZMEVPUP3MNOF63B7M.jpg?auth=15320baaa62d900910eb38ed27b348f3a61e655de5bfe1bbf5661cbdd79aec52&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Texas vs. Kansas Big 12 Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 2 seed Texas Longhorns (27-4 ... UAB AAC Tournament Women's Basketball Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Women's Basketball Tickets & Start Time Abilene Christian vs."
+    publishedDateTime: 2024-03-09T18:07:00Z
+    webUrl: "https://www.ktre.com/sports/betting/2024/03/09/texas-vs-kansas-buy-big-12-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KTRE
+      domain: ktre.com
+    quality: 20
+    images:
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/7XATOXTUUJM6PKOOAMWPW6A254.jpg?auth=3388ed72ca8441d055f59fd8ad8a41a561860c90d083da3e7c60e103646050a1&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -81,6 +81,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hMo2VzilRQIAq//jcqWJ6fifslzjJBhEVy2hSSnTEvPI40LHfqFDy0npFINii5vCqP5RJ9U/+wNuu7Gv/rxdHMQG63sWmd8utboD0yp1zCeNOa3WTvgoXqq3uWDmb1aYrCXd5XdEXEWcIvWfJxv+CwfGFD6406TsKzhjyFyk/TsHdkt2XAK6JxTI/vhao4yk5K0WiEbMKzsQKM2dCIlyeJX0Q+CQtwiSYok3qadO70tT9KM8GwBqqLFyXbq1zMcRr53BJgW94E/ehe9L5iEvLYDS0xpVQLCebTZPdrbNzy4gv1XPWBzGyGlqTfENWlXlw8YQOcNBioae0rQoZxOMVf47yEBS4arizVEnY3OmGMo=;DN/X8xu4UlurrPH87alAgg=="
+secured: "8VnnooC7BBaXNDceeZMs7YoMot3ely7Qbk+utVIZS0HAXrWWOBfuX10BvnGq4AoUo2JTJ0bQTfbo2MYUVWUcRfjjlI7pnqrLmCOssldghxik4Kmr2q9JBSBMR13EH+q2OKR5oZ+O4+tRambd0EuyiJQ2jERLG6Bm5rKUleH/Kmos3yvSNvZ1Xt8ZwmIu79ufkB8yqC80TEI6+J4rGrO/zRgbdAs85N2DxYhszOVoWnrns64UH3yhLSTucNS7F5Ifazb/jwdwutAtbqoLIQUSBmKu7GiEMi6Yq/YazxjmwchXTLAlDO3DdzoNMd/pYZN77DyWEREmn7LoAwGwGNXzEuTwNYNze2a3oBaCfFu1x3I=;i5HTFaxOLLj6R9vW01/INg=="
 ---
 
