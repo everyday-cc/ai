@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024
 webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
 type: article
 quality: 116
-heat: 246
+heat: 226
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
         width: 575
         height: 504
         isCached: true
-  - title: "Navigating the Ethical Horizon: My Exploration into the Realm of Ethical AI in Healthcare"
-    excerpt: "As I stepped into the intriguing realm of ethical AI in healthcare, I found myself on a transformative path illuminated by the burgeoning potential of healthcare generative AI. The field, a promising convergence of artificial intelligence (AI) and ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2024/03/05/458882-navigating-ethical-horizon-my-exploration-into-realm-ethical.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 62
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-mar/8364476476-ai90.jpg"
-        width: 1469
-        height: 980
-        isCached: true
   - title: "The potential effects of AI healthcare"
     excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
     publishedDateTime: 2024-03-07T10:58:00Z
@@ -184,15 +170,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
-  - title: "Electoral Battles In The Age Of Artificial Intelligence"
-    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
-    publishedDateTime: 2024-03-04T20:44:00Z
-    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
 
 secured: "xZet9sxJj0vL6pG5T/kZjXboWwec4xcop346K3uoZH9eaIK9k02MEKBToxbpkvjxRzz95r5ZK7OrYOEFmlizylSjNEIllanghZ8Gh2RB9/ZIP1dvSrczBVMN5LdW8A7hnpP5bW8vWIJ3wYm2JwS0+ik/Mr/Aj1+GBMnIqIPfigl3TouWEGjWaa5KKltSCWpgu/viaec0Ray70Nbew118H38qSuMYATu5M52cQ+jBR9coKguh34DkGp2jwVtCyzLanbI73ik8HJDAaXOeiAkvBo+6FggH6upcAMu/pr7d2gWLW7z69fTdJcWn+k21bqZoUc9wc3dsBQDzpuoZF7hbEgen/iuBjF4GOWKRS12Twjqen9A7ia4PgFM8GFogZMx7QG3uVnqDzQrbqAKEnC20c1K3hamq9H+rsc2dqr7MQGIpxsi0OTc4PXGpgzwYRof2jBJsn5uGysQbShdqTmo0U3E6G7vUqKrliYtgbiCMXs7TnmagzWoPdlZSvRIYHR9Eio1XmvSSBIvScaw6dFqKdw==;lcImVl5ZnU3D2AevB8GcFQ=="
 ---

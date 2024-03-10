@@ -7,8 +7,8 @@ originalUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-ne
 webUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: SciTech Daily
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Free childcare and an AI revolution: Spring Budget business demands"
-    excerpt: "“Government support for early-stage and scaling AI startups, which have historically led the charge ... and collaboration between the government and fintech companies can drive growth. This includes support for digital banking infrastructure ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://startups.co.uk/news/spring-budget-business-demands/"
-    type: article
-    provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 39
-    images:
-      - url: "https://images.startups.co.uk/wp-content/uploads/2024/03/Spring-Budget-Business-Asks.jpg"
-        width: 1920
-        height: 1250
-        isCached: true
   - title: "How AI Will Revolutionize Supply Chains"
     excerpt: "Even the sturdiest supply chains are vulnerable to seismic shocks, whether due to groundbreaking technological advancements, geopolitical shifts, or global crises. Amid these sources of turbulence, artificial intelligence (AI) can be a game-changer, offering a source of rapid response and sustainable solutions to keep supply chains strong."
     publishedDateTime: 2024-03-08T13:51:00Z

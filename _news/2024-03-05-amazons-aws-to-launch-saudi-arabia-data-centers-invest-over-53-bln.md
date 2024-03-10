@@ -7,7 +7,7 @@ originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/amazons
 webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/amazons-aws-to-launch-saudi-arabia-data-centers-invest-over-5-3-bln/108219446"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS to launch Saudi Arabia data centers as part of $5bn investment"
-    excerpt: "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/nbiGh8Hmf4qRxBs6jhftok-1200-80.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 billion"
-    excerpt: "The cloud region will enable customers to securely store content and run workloads while offering higher speed for its users. Amazon and its cloud competitors Google-parent Alphabet and Microsoft have said they will raise their investments,"
-    publishedDateTime: 2024-03-04T20:56:00Z
-    webUrl: "https://www.aol.com/news/amazons-aws-launch-saudi-arabia-185640386.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/e29073561fb2f663ce8ff660f5f05f91"
-        width: 800
-        height: 532
-        isCached: true
   - title: "AWS to launch data centers in Saudi Arabia by 2026 with USD5.3B investment"
     excerpt: "to support the growing adoption of artificial intelligence technologies. Among the notable customers set to benefit from Amazon Web Services in the region are Saudi Telecom Company, Seera Holding Group, and Mobily, among others. These organizations rely on ..."
     publishedDateTime: 2024-03-05T03:44:00Z

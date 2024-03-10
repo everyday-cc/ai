@@ -107,6 +107,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Chinese researchers hope to create ‘real AI scientists’ through ‘informed machine learning’"
+    excerpt: "The scientists wrote in a recent paper that they had found ways to train machines with ‘prior knowledge’ such as the laws of physics or mathematical logic."
+    publishedDateTime: 2024-03-09T22:00:00Z
+    webUrl: "https://www.scmp.com/news/china/science/article/3254793/chinese-researchers-hope-create-real-ai-scientists-through-informed-machine-learning"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 54
   - title: "Ex-Google Engineer Charged With AI Tech Theft for Chinese Firms"
     excerpt: "A Chinese software engineer working for Alphabet Inc.’s Google was charged by the US Justice Department with stealing trade secrets for developing artificial intelligence from the company’s supercomputing data centers."
     publishedDateTime: 2024-03-06T20:54:00Z

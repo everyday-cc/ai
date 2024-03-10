@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107942001/Mohammad-Saudi-Arabias-First-Male-Hu
 webUrl: "https://menafn.com/1107942001/Mohammad-Saudi-Arabias-First-Male-Humanoid-Robot-Debuts-At-Deepfest-WATCH"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 511
     isCached: true
-
-related:
-  - title: "TikTok, Zoom and Mohammad the Humanoid Robot headline DeepFest opener"
-    excerpt: "Clad in a traditional white thawb and red keffiyeh, Mohammad addressed the audience in flawless Arabic, showcasing Saudi achievements in artificial intelligence and the nation’s commitment to technological advancement. “I am the first Saudi robot in ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://gulfbusiness.com/tiktok-zoom-mohammad-the-humanoid-robot-headline-deepfest/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2024/03/DeepFest-1.jpg"
-        width: 930
-        height: 620
-        isCached: true
 
 secured: "qxtvgEeIIL1XwlUQCAW3LqRz+EZLFqOo8+KYdRLb6XtJtMHoLLkoNckt+IN8LH/pp9PTWabX+ZIP19japMS4GZjN6B63edoRDMvanMSiHKMza/d3nXuVA+RtvNh0/B7sqSx/LrKZZS0l7slqBJvtYKD+Zomzf6CsM5eVpka7XZ4r3uUbdvraSKgzqkVxixcONeHrXlrZWhjgrLoInSt0KNKcBTeUimKndQAHerWJTdkBGc00CSTkWTUinPW9hiuTRdbUgr9dhpo2qvMarhY330TdKepPh3eL51TilyiPeQ9Sl5/USCtbeRIU6+hux16Q4ekJoInbUbXOveLm1NBgY8zNnDkYizjmIv/gOPoU+Ic=;dtyOpbSQeoTRvYNnS1649Q=="
 ---

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Job Growth: Let’s Get Specific, Starting With Health Care"
-    excerpt: "There’s no need to imagine this anymore. The innovation is in the organ chips. AI algorithms can analyze medical images such as X-rays, MRIs, and CT scans to assist radiologists – actually, improve their readings – in detecting abnormalities and ..."
-    publishedDateTime: 2024-03-04T19:56:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/"
+  - title: "11 Best Artificial Intelligence Stocks Under $20 According To Hedge Funds"
+    excerpt: "Disclosure: None. 11 Best Artificial Intelligence Stocks Under $20 According To Hedge Funds is originally published on Insider Monkey."
+    publishedDateTime: 2024-03-07T10:16:00Z
+    webUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-stocks-under-20-according-to-hedge-funds-1270178/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-stocks-under-20-according-to-hedge-funds-1270178/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/11-best-artificial-intelligence-stocks-under-20-according-to-hedge-funds-1270178/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e653692c81167a157e0694/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1501
-        height: 900
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/10/23030846/NOK-insidermonkey-1698044924186.jpg?auto=format&expires=1741392000&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "0h4ob08gJhBrxRKKNETCAjbG0Lpwnb6K8lO1TEwd7OJ6r8A9fxPDrqZYG0XyS4zPEINIgXvioKPf+VHMw0cAbioSbRGFlLA+DOsnqETzmVq++R0RDlypDuwn4cmXm1V5BgpPSh01HqoiEEgBofSkUmZ+Mog4gToskkrDO7vDNuyTQ9jFp2crfFH7NhusM6YMRWCSyhIFnLc2JyREtZ1/NjFjj4EkclSYgqbJa6pMhDGgUomQwjNbj5A2k/1Mlqd1Nd4Ksem4I/DBgicspVF0WXjcJr2h3mqcnVQCcz8bTDM0KfJGRK6ar4g3sxDnugeVZ2i3rs1CfnNEEwtamcd+YbI9g5jwIHdJx7PDoLs5nUHSW91xsdxH705zjENgG7X9lahXr26+2Zuj3ONfyk+6vefqTt/X7uH/m2zM5f9lLCqq4TKHeNp3osyh4V5reopNrHAtrEJVO8jvKBy4tylB2TwHb4ds5iGd0p2hPONXh7w4LrdpLhOBRWvNewB/EU2fxx51g3urCKsKMo1OhjnNKw==;VlrnB6r/EasTtn9PigNDpw=="

@@ -80,6 +80,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 43
+  - title: "Growth and recognition of exporting businesses with the aid of AI"
+    excerpt: "“The IEA is the connecting force for Irish exporters, providing practical knowledge and support across the Island of Ireland and in foreign markets – and, growing in strength and recognition each year, the Export Industry Awards (EIA) have been recognising the tremendous achievements of companies working in the exporting industry for 24 years."
+    publishedDateTime: 2024-03-10T00:38:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/growth-and-recognition-of-exporting-businesses-with-the-aid-of-ai/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=76c49c61-c138-5721-9b61-fb02297c05a6&type=preview&function=original"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Redefining Content Storage: How AI is Meeting the Demand for High-Quality, Personalized Content"
     excerpt: "Many media assets lack appropriate metadata tagging, posing significant challenges for M&E companies aiming to repurpose and monetize their content"
     publishedDateTime: 2024-03-05T14:36:00Z

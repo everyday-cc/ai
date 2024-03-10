@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple AI and why investors should expect revenue growth"
-    excerpt: "AI can move the earnings needle. Apple has 2.2B active devices, which I estimate are owned by 1.4B active users. If 20% of Apple’s active base subscribe to an AI product (personalized AI) at $10 a month, that’s $33B a year in 80% margin revenue, which would increase operating income by 16%. ($155B in operating income in CY23)."
-    publishedDateTime: 2024-03-04T20:51:00Z
-    webUrl: "https://9to5mac.com/2024/03/04/aapl-ai-bullish/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-18-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "TaskUs: Digital Experiences, AI Services To Drive Revenue Growth"
     excerpt: "TaskUs’ focus on digital experiences, trust and AI services will most likely drive revenue stream. Read more to see an overview and analysis of TASK stock."
     publishedDateTime: 2024-03-06T12:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/the-scope-of-sam-altmans-future-ai
 webUrl: "https://www.businessinsider.com/the-scope-of-sam-altmans-future-ai-empire-open-ai-2024-3"
 type: article
 quality: 69
-heat: 82
+heat: 79
 published: true
 
 provider:

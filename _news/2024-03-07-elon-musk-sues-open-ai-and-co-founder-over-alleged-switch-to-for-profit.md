@@ -51,6 +51,15 @@ related:
       name: Time
       domain: time.com
     quality: 61
+  - title: "OpenAI says Musk agreed the ChatGPT maker should become a for-profit company"
+    excerpt: "OpenAI has attacked a lawsuit from Elon Musk, saying he supported making the ChatGPT maker a for-profit company"
+    publishedDateTime: 2024-03-06T18:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-elon-musk-agreed-chatgpt-maker-become-profit-107838652"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 31
 
 secured: "5nxjIf1RdD3UtJh+x0GpanlxbFUub4qD7sCgmqvW85mnaf7jXmEuzX2BGyHQDjhEhsKiOZD0A9RmGzBtZ4W6AFkILHAyv2ELt3ZbAa+gqJj4oawgQsanyEfdJ/JAD/HZEaAkDxDWwOkKLfeDtN1UWtjar7L7ecOJl9iRQjuBFpdOH3t2n0mrAmUV/SuHAQGq8uNyMBSfFt5yTB3FO3WZqOoihK3UK5YgX71SixMrcIV2PFIsGbDisD7GaI0uHqQ+NRwHNtdL8iCMrQR85qkhOb6ir6TBBB3ufou8M3zLxsGQN0/685ZtvFD/5uCiIkrIkvkmIi/ic33cHvF24BGmPtah4Jpp24aznJ/gdB3NaEPoyRW1C6GUWpGcdOo1SJ9epitGryYf8CvvF9oaL7/iUZRFdQN7k0PHO6skgi+WIg712ELyx1pufa02y3W1TrfWTSmyNkfKKAAdBv1FiJgwaiLV2KnjQUnZog9/x2fTVcJJfEMXT9ex0QZbFjA9VWmzASi4IBjyIk2VfbM23+epCQ==;sXvt6FwHDmzRXrEw7fC4yg=="
 ---

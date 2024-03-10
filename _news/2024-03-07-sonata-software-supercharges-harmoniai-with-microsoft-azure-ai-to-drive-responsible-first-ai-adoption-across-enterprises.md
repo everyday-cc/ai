@@ -161,20 +161,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 51
-  - title: "Q&A: Microsoft research head explains how generative AI could help doctors be more human"
-    excerpt: "Generative AI is having a moment. Peter Lee ... The OpenAI services on Microsoft’s Azure cloud provide HIPAA compliance. We’re very proud of that but our cloud is not unique. AWS and Google Cloud provide the same sort of compliance to enterprise ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.statnews.com/2024/03/05/peter-lee-microsoft-generative-ai-physicians-medicine/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 45
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2024/02/Peter_Lee-328x328.jpg"
-        width: 328
-        height: 328
-        isCached: true
   - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
     excerpt: "The leading Modernization Engineering company, Sonata Software (NSE: SONATSOFTW), (BSE: 532221) in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni."
     publishedDateTime: 2024-03-07T18:35:00Z

@@ -25,28 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Security researchers prove they can exploit chatbot systems to spread AI-powered worms"
-    excerpt: "What makes matters worse is that generative AI (GenAI) systems, even large language models (LLMs) like Bard and the others, require massive amounts of processing, so"
-    publishedDateTime: 2024-03-04T21:11:00Z
-    webUrl: "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html"
+  - title: "AMD promotes third-party app for running AI chatbots on local hardware"
+    excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
+    publishedDateTime: 2024-03-08T13:55:00Z
+    webUrl: "https://www.techspot.com/news/102187-amd-promotes-third-party-app-solution-running-ai.html"
     type: article
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 58
-  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
-    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
-    publishedDateTime: 2024-03-07T12:44:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
+    quality: 49
+  - title: "US Army tests AI chatbots as battle planners in a war game simulation"
+    excerpt: "Researchers in the US Army are experimenting with commercial AI chatbots as battlefield advisers in war game simulations – but experts caution that such AI should not be used in high-stakes situations"
+    publishedDateTime: 2024-03-05T16:00:00Z
+    webUrl: "https://www.newscientist.com/article/2420184-us-army-tests-ai-chatbots-as-battle-planners-in-a-war-game-simulation/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 48
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
     images:
-      - url: "https://financialit.net/sites/default/files/justpaid.png"
-        width: 1366
-        height: 768
+      - url: "https://images.newscientist.com/wp-content/uploads/2024/03/04145345/SEI_194470347.jpg"
+        width: 1350
+        height: 900
         isCached: true
   - title: "What do shoppers think of AI-powered chatbots?"
     excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
@@ -76,33 +76,15 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "AI Chatbots Are Better at Math When They Pretend to Be Star Trek Characters"
-    excerpt: "Rick Battle and Teja Gollapudi from WMWare’s Natural Language Processing Lab set out to test the effects of framing their questions with “positive thinking.” The study looked at three AI tools, including two versions of Meta’s Llama 2 and a model ..."
-    publishedDateTime: 2024-03-04T20:00:00Z
-    webUrl: "https://gizmodo.com.au/2024/03/ai-chatbots-are-better-at-math-when-they-pretend-to-be-star-trek-characters/"
+  - title: "Chatbots Do Not Hallucinate, They Confabulate"
+    excerpt: "LLMs like ChatGPT are a type of artificial intelligence that run algorithms that decode content ... This was a form of cognitive behavior therapy to help her see that she was, in fact, safe to be around. We were sharing the meal to test out the validity ..."
+    publishedDateTime: 2024-03-06T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/theory-of-knowledge/202403/chatbots-do-not-hallucinate-they-confabulate"
     type: article
     provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 34
-  - title: "JUSTPAID, AI-POWERED FINANCE STARTUP, ANNOUNCES NEW FINANCIAL CHATBOT CAPABILITIES"
-    excerpt: "MOUNTAIN VIEW, Calif., March 6, 2024 /PRNewswire/ -- JustPaid ( chat.justpaid.io ), the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial assistant/chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
-    publishedDateTime: 2024-03-06T14:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9973950.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
-  - title: "Elgin inks deal with company to create AI text chatbot to provide answers to residents’ questions"
-    excerpt: "Elgin plans to add a “chatbot” function to the myriad ways residents can obtain city information electronically. The text service will enhance what’s already available through"
-    publishedDateTime: 2024-03-05T18:43:00Z
-    webUrl: "https://www.chicagotribune.com/2024/03/05/elgin-chatbot-ai-questions-text-residents-citibot/"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 6
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 4
 
 secured: "WvcR2O7TbOI9sz9MpF4qQ3UGxZzJvtntJG6GTZT/ZG9R5EW050r46gUVBgnYJSFQ/8D8HrViB6Csdxmud/8VrvGMEsOTR08p3m+eD/NwiVHFtwQOei+67sriBjUhcmsHos6gqi6SGI9043GRxHaAT1Di0iN6ekFquEGz7bdi6EetsqH1S4GsVHkpw8WDS145w7ljZh8VgDaIS4BJ+bTraTRDlL1yqyOHj2igT0XHrSLibbNQ3QKng/YT2dSHwJSw5R1j1PH8VeIMbk4rw/xS7IT3ujoFyGTG/9UiqQBW6mRdnLRCt6UUhYWBTbFsIiWh2NYy8+xLFnk2mLBsOyM52/yAAAbO7K2aSagMfKq5w5PCDcJ4kJSagsBCtZfU7wXAzf+Ae6oxSUVPww0VHN7anwN6SfVlTyYghTrgcVnZh0qvLLM1E+rL/Uh0XWSSaQm9DHAk2lATVWwNJXsJF3UvhLz8jVH8Uem12Y8O1Sr0IqJrpQssr3T78LwzMw5DjP7cC3GsGJgUVAekCfEoCunUmQ==;kEjl9msCEWLunjFEsvsZ0Q=="
 ---

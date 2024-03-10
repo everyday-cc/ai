@@ -28,6 +28,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 49
+  - title: "How NVIDIA leads the world by making AI user-friendly"
+    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
+    publishedDateTime: 2024-03-06T19:14:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
   - title: "AWS Exec: Demand for Nvidia Chips Will Stay High"
     excerpt: "Nvidia’s rapid climb to become the third most valuable company has drawn comparisons to Cisco, whose success in selling routers during the dot-com boom briefly made it the world’s most valuable public company in 2000."
     publishedDateTime: 2024-03-07T05:04:00Z
@@ -56,6 +65,15 @@ related:
         width: 822
         height: 822
         isCached: true
+  - title: "Nvidia Surpasses $2 Trillion Cap Amid AI Demand Surge"
+    excerpt: "Leading semiconductor entity, Nvidia, recently achieved a $2 trillion market capitalization, powered by high demand for its"
+    publishedDateTime: 2024-03-05T13:14:00Z
+    webUrl: "https://www.dmnews.com/nvidia-surpasses-2-trillion-cap-amid-ai-demand-surge/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 19
   - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
     excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
     publishedDateTime: 2024-03-08T00:02:00Z

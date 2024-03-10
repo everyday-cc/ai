@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024"
-excerpt: "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ..."
-publishedDateTime: 2024-03-07T09:02:00Z
-originalUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
-webUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
+title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
+excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
+publishedDateTime: 2024-03-07T07:00:00Z
+originalUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
+webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
@@ -68,6 +68,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "lm5WyxLSax3geYMY+3VIcjEvs+7nbZYpVTIzCzsFBJQv2Q4a4cot1x3TG9EIQP9NW7F1zApw/ZyiYiGjQ355SGKpPWLkyPNSpq0ECLC1xIhy6KbCN0481aPsCp3L1n7c9wl3vx1aiUu2VlWG0O32e/tBbx1FMps+onqBsLibNy9esmdH+fedpNFWTtCWtjsrAQ7FUrDuQyw+LAbrpiqJnG4HDA44NxAfW8EC67W3VsNBuCvU22uOdc9mme3SQaHUGstMhT1lYj/ac9P+TDvFpVVTR7u26WM2IU7cEKGSHf2AxSGxpoXk3cVMLETGFsFUQpSbnAzRRZt9LxN31hgwNbyclGiIAphINPH2Xy8zAqE=;7go8YSRhjj7E5pDlQJ47Rg=="
+secured: "+D3A6E1KDZltQcI+hB4OTCE99iuhxg1Gj3h/zlVT/McQV/7mDrd2dE37VHwtSyUzhsmiV3T+t81eeZh2RcIZGQUMs062WstH5JGfW4YCSbLFuOzeXAzpNopnl6aM/8L5KbcOfVTNtCVIwEcFqrgSMitKm8uBvgu3kc1ejDjYiltqiJ6bGzd+oUEDXCSyoy/JhgNw1FkucyYCwzX9++8WXSYRpqN0YpBFjO8t72WlLg+dNtuYb64+iHxqNtl9Gd8lsEdI19mWckZJtvwgL2AGQ6dTPNYh1kMo1b5wprqDn6HRJ8nzcrdVz9osCXqTMKciDlo1mmLOHAPta4Ha59Ap4TH923oIL9MId0JKIm4SaP4=;QKJDbxD2BN8DM2GA/Z/BMg=="
 ---
 

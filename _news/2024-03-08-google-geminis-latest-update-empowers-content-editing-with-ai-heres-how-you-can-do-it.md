@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-em
 webUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://images.indianexpress.com/2024/03/Google-Gemini-Google-1.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Google Gemini Tutorial: How to Use Gemini AI (With Images)"
-    excerpt: "You know, ChatGPT isn't the only AI chatbot on the market that's worth a gander. As a matter of fact, Gemini — the generative AI platform from Google formerly known as Bard — can hold its own compared to its OpenAI-owned counterpart, you just need to ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://tech.co/news/google-gemini-tutorial-how-to"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/03/04121522/google-gemini-on-mobile.jpg"
-        width: 1920
-        height: 960
         isCached: true
 
 secured: "xSwBhu8PKqTy3zZS46LRndM2HaLq5mUSAzz58UpXY31qolhjk8+z4pfLBvQaKvNmpgaK2mV6f2WiLZy/dcVVXfy7QCi3BZ+pYKVDOYsjlV1oHJspxW/EiVAQFLfxxu+QV5n3eM9VxU69L2mAN2LHsurbo64tpFEDfGi1hUyv56a+eHxh5j1wKSXWRtePqxXL4jlXkIAoBekFtyGtcKpPC6b3mLXOw7chh8X1FZoPq1CJp7PjxhiHPYeGRK2QAbdEI1FMerUue3RYRk8DyITM1FG2mx49Vq1zbFM06K8RcvKjX22ojebm6gWi9+T5nKGYRUepiejpbdegbgMHKNwjDJ3scO1VQZqZCRVnt+iaGYLx2KR5GvMNykw7EHYrGPm6Jwy+RkGeo46yvbKn7dONL4bSXr00gbnc+PX2aTX/Y9VIPNiFBbl/sUBms0to0iUkwcQOvz0szV2TOokgWPajQqsitRaq0C+7siimiytMnYSsx4nvJ/iYGsXdAfF2BAsbtDeN7Yn572zdOo69m5nuTQ==;rQYEJRyhKv8KGtwuGupqpQ=="

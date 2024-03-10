@@ -21,36 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Concern as the gambling industry embraces AI"
-    excerpt: "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending."
-    publishedDateTime: 2024-03-05T00:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68304137"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-68304137.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp"
+  - title: "Running the AI Race: What Retailers Should Know"
+    excerpt: "To unlock the full potential of artificial intelligence, retailers need a strategy in place to guide their efforts."
+    publishedDateTime: 2024-03-08T22:37:00Z
+    webUrl: "https://biztechmagazine.com/article/2024/03/running-ai-race-what-retailers-should-know"
+    ampWebUrl: "https://biztechmagazine.com/article/2024/03/running-ai-race-what-retailers-should-know?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/03/running-ai-race-what-retailers-should-know?amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: BizTech
+      domain: biztechmagazine.com
     quality: 57
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg"
-        width: 1024
-        height: 576
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202403/retail%20webby.png.jpg?itok=33pAWxHD"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "How Load N Go uses AI and neural networks in the trucking industry"
-    excerpt: "In 2023, prices rose for many products, including groceries, utilities, retail merchandise and fuel. This price uptick is explained by the inflation going on in the United States. Its impact has"
-    publishedDateTime: 2024-03-07T14:54:00Z
-    webUrl: "https://www.mcall.com/2024/03/07/how-load-n-go-uses-ai-and-neural-networks-in-the-trucking-industry/"
+  - title: "3 Big-Name Retailers Positioning Themselves for a Gen AI Boost"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the retail sector undergoing an artificial intelligence (AI) facelift,"
+    publishedDateTime: 2024-03-08T20:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-big-name-retailers-positioning-themselves-for-a-gen-ai-boost-1033147632"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 54
-    images:
-      - url: "https://www.mcall.com/wp-content/uploads/2024/03/unnamed-2-1.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "eplmx+u9nUF+5e9CPJLBfZFcaO0K1mSM6AHBQe5vQsOCo2aZv1Gui9ETXVUAGcnnaps66lp7yijSmiG4uYGvEl7iZ/ALe2BqFmNRzQzjelldDdcux1EEcNOAPy56p+R8uIMUejSDYd5j291G2Ul3wyq8ND10Ed1FyyqATPA8Wb/oXKe5FCjJ6+71vfizvrxVCGMjgZ7UFCLeWvzHMBX71nvCPqTqg4s+A2AYQMOxYDTgjne/a3fQZBGxFz7Y8NT7WWc5vdv87YxbQM6iIDT/1XDu7YDqa5YSnvqFJAJtSw2uMr2hQZPvgHpoCCmNBks7CRYqR73GPmycWtLwoqZUfPh2V523igPjL0pbi1dYPiGhydTT7NmMNVwt70qrpx3h7MYKTKzP1pVvIFfJcmNtf2s/GHR4ad+qDbLM8c8s8Nndiq0vw+lmUSrVurrDVj4F0+gvbIapD+3jrU9gna8SMVZJ84xY9Isuj58/1tXKsznDWbZmly4X/c8lhwrR0jToaP0gtB3fcjPlZe67OyL9JQ==;63sjVqXzvSNUMPZmPYqLDA=="
 ---

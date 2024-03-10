@@ -168,6 +168,15 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 38
+  - title: "French Cryptography Startup Zama Raises $73M for Blockchain, AI Privacy Apps"
+    excerpt: "French cryptography startup Zama has raised $73 million in a Series A funding round led by Multicoin Capital and Protocol Labs."
+    publishedDateTime: 2024-03-07T06:25:00Z
+    webUrl: "https://cryptonews.com/news/french-cryptography-startup-zama-raises-73m.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 14
   - title: "Sahara Raises $6 Million Seed Round to Democratize Global Knowledge Capital Access Through AI and Blockchain Technologies, Led by Polychain Capital"
     excerpt: "Sean is a Professor at USC and has contributed significantly to AI research and innovation. Additionally, Tyler has extensive experience in the blockchain industry as the previous Investment Director at Binance Labs. “Harnessing the synergy between ..."
     publishedDateTime: 2024-03-05T08:00:00Z

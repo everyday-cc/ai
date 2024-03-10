@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/pa
 webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/"
 type: article
 quality: 89
-heat: 92
+heat: 89
 published: true
 
 provider:

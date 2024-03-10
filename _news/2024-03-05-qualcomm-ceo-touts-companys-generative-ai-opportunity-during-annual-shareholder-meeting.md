@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Qualcomm opens an AI library for smart devices"
-    excerpt: "They all work with the Qualcomm AI Engine, which boosts their speed by using all the cores (NPU, CPU, and GPU). Qualcomm says they can run four times faster than normal. The AI Hub also makes it easy to switch models from one framework to another."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/58567-qualcomm-opens-an-ai-library-for-smart-devices"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9e5dbbecfd410aa0979e19b2ae9a3069_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "GXaqHkQm+j29cJ3IXyGBO69qB7I824MYaOmbdUcsUOgvknXPIE85M701LLDdoKP07iUY2vm3tL7kS7YLxeHYS+xJ3oRYDcUf7Z7z0ccJJLfnEiZ/DWR75vIR5dq2aD0hm8JWEaQo87Haxf0tCA3P9YV5DSlZkvLDcpWgaHgbXuvts2m1pslnbrpZkW7mYEOzmt82/iUnxdc/uDIvw90CRn6W+W+fGmKavN47VDuhZ54ihuxOojf1FHhFrnWpq2N6U0pF6UNyafLYW/x6fSvYgyB2BD9rgL4C/oVVQqpsfF1SJwjHCDaIyv/AQoQaP/QtQBs8ntk8oFoI71nxM8GHTsOc2Fn56NExFYUc3004Lp4=;m/cfKAzCXwMRQY15zFv40g=="
 ---

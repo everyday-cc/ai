@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/micros
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Zawya
@@ -25,22 +25,6 @@ images:
     width: 898
     height: 599
     isCached: true
-
-related:
-  - title: "Navigating the New Frontier: Insurance for Artificial Intelligence Risks"
-    excerpt: "This lawsuit is part of the first wave of artificial-intelligence-related lawsuits that have ... an issue for a company that provides AI-powered products or services in the healthcare or energy sectors where mistakes may lead to bodily injury or property ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-new-frontier-insurance-1257502/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 38
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12205_2644.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "Jau0OTM2c1n9LcEfAQ6je1t8zGFBv8GI9g2VOJyfn7D23Kv9V7oZhTXajqEidVTn1DSFwFClyns/c+BrZW2/dNXed1PtY49GkGMXDnYWknUXClEY2xlCORoPJ7kDm9Jz3rbdAWAO2NW5VFEjnP9CShzHrS+IgMdha0/n21myihoHjDWsaSRW/ujVPkhsfu+1u2LJwCYthzTo9GngQVsbl3Tj9aBzgWXlbiw+VeRHqRRvGF1nzJZ4RQZL2UjKGIw31vjDS5m99sQB1P0ZtviA7ko9DAfh4FgjlB3r9AcJapqoJCWJqcBIkmqIFk1bV2wFTk6LfPKGT7JgiOwDi5jyd41pq7wpLQwA70YnN3e+NhePTyN8WycJNhIfBqr47Dwp78nZMCs2R6wj1qE5lclFIXfey6Nt484vn6AskjBPFWj3ciuhmHvpjUcW9aJLvTntRQLrfWtw2tYZ1Hgv8Y4aMBGC4oDfj9rhXhP7XJ25V7NmLfxx4XbzQZi0g5gqtPfm1b93C1IRC+Tp12xHd9sKPw==;rQeGPHgWCnSDBXXlqTSsKg=="
 ---

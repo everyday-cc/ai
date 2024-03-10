@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
-excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
-publishedDateTime: 2024-02-28T06:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+excerpt: "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network."
+publishedDateTime: 2024-02-28T14:48:00Z
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg"
-    width: 760
-    height: 380
-    isCached: true
-
-secured: "6UhdJCKbI1T6KRaAX4/gtFHvCwb1Cbb1KCU6757kYTeK83mbQJpIHIj06D7eqUPzOVsW0rmWA3SiRGWj1Rd0wfbIXaPhs5mjytfgYpM9UdpQEE86vkXijzsdUGFE7zpkKyqjovM65jjho6/Rx357ZBCYXOsbPwzSJmu4Orh1m7lkSKv0yKzaz/A387ZZ97C7GqxaryXqjQghQTMk5UCgRhY/ya23sIpGBarabRTkoeh/ozy3Act9jM2GZbhezCLxBW2CMnKGXxzX1SeXlp8kwOC0oww2sBZbXZaDfghFbqKOzHKA4qrC/X6niDnP6M2GFVscIAFde2skde/9QePF3s8k+T5c0MgNtc6e+XldBkj5pPcrOis/10qYE4FgmCAxhirLB7UGmph+Eolfk+K9GVgXr7+9Eo2/y8RAGxWC/wOprkmMnu3aMyO1CotPIZuUMq7AhsHoWus0xhzltq1qx4lyuLex/F8f+KnVGbgxlfa5jDYOcGYyIW+AcXEYDh9N/Gux2Zf/4ENLc0SuCzZ9kQ==;fc/PaPJ+ZEJsSSFR6MmGQQ=="
+secured: "f3A0l1hbuHQCKRFs+ig3Cxv9Iocv6+/rR3TfNOIfQ7JtAJ4W5zpXqICPDAfT0VNboOAB2gtNonkMM19drQa3uJyTsT6pmlY+HXM7W90hRs094dmoZPrcDiivC7EbxAdX4ppyZFvJpPkd4f4++lsR82O25smoVH/iCx6gNMrI3dDxSJAl76Mdj/gwjvyCBgI9eJx7iQo/l2y3Ow1r3PWQkJosdhpRiqZvHqICvbn9/T8V8vAsxgcG5E7UCNODS1mVQ0kT4lcsFtZHQVGmkyIbft4BHmqEpuwMPz232/eXVKsahBUUjuimhbpk1CSFPDqpLGUjPivNIHxlDntLNEw2hVgX6DL1geuJoyfUQYbXGl7kIDqeB9cNaIc8nEHXzhqHIaHTNnqdsv/dprCpXzAPJKs0WDVC45RriCax+Auz/f93KU9bT1aduhLannXZaao1KSdE4lmk1PDKAkq40TpBwVXnuTcGNLXxgk+8S35K+DZeBhtQFZvJ5h3nE6ETNBIOp6qyUbUanmRJaTKlpQrk4g==;+LlKJAJBD83J7KUZQRFOHg=="
 ---
 

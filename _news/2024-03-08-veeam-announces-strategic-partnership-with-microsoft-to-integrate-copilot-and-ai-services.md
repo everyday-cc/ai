@@ -33,15 +33,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
-    excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
-    publishedDateTime: 2024-03-05T03:55:00Z
-    webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 33
 
 secured: "anoIC6JILCDvLkWZ2uBJr0/MnAo5ubLMdys29X1cOCdK8ytGeBZCqbYx+GkPsAjtGQe5bCXCQ28s6MCrXAFrCazmfvElVYAQGGld/ACjnNEBX5DWJ0WXXDiJpxFcoXtA4TCSOGPfQAllmH3Rp/Gx3sGqMw1e8NTl4aRDcaJx6D2WJJWtFcJO59tB+KEdyW/Zj7NgUYqHQPXlJ0TtDQ7gOOIA8AgXDF51WtT4JtPGuAS3Y++XnUaPFt2Fy9xkjlQbwgD/a4XdeuTMZnQLLrIWi7BzRSfowt/Xqq+UInoyDTwmZlpYQMUxeuzPYZuZpt3JXoNIDBBS+p32hI8uj3gwiIY/wTCLNhXBFVCe0bY7Qkp8SKijllnWMheLdn0wspwN1vBu1ZNDtuPg4Cm9/P2TeDsPuPv2tFOz7rymlBex/8pQJja5ci+IQ+APdV/ZTfOPftkst+bmxTTQctK0CHlj+2AO3f9u7AMekQdMT5mzmuquDXXABYe95+rtE9jxgN9/uKTz3PsFJpd3Fcucvr+RKw==;msTj2ySqFG3srB0pRy3Tfg=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple names M3 MacBook Air best AI consumer laptop"
-    excerpt: "“With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core neural engine, along with accelerators in the CPU and GPU to boost on-device machine learning, making MacBook Air the world’s ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://rollingout.com/2024/03/05/apple-m3-macbook-air-best-ai-laptop/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 41
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2024/03/0136810001525165983-165-400x260.jpg"
-        width: 400
-        height: 260
-        isCached: true
 
 secured: "7LblUpPiVVHwBxZM6qUDUGlJcpU5uwBnxzykv+KHGemCRRvh814A1/P9jC0FMCsgKYSacua4cIufEG8prQ/iWQK8JBrBKRn1L3NHS3v+XmHpd+JZTPwOtbfTwQw5Bdftzwn1+UMYDqLy9FXB7bqmmq1RkpfHHdO5e30yZkTAzHb/PMzDEcvumGHkpOznpir/5eNX+sIIFk0gkvIia3vJPhB70HUeU/YKjyq0yk7SA3oCjVUDE3PQNlaNrsR1tQH5x4ig1QlXIAVAoOawymJ3Bire9AV2QjlMMhMSTIJn9ALq11XUbry8cQFbx/FMM5WBF5ei7d6roRZZ/kVvJ3QpyHIF2KiW0VqJ9HOJDWzecAO81/P5EbVKkxfyx/5+7iZIU4xaIBcxIe5C7kBLMbXNvc3thorUWp9iHnCHqGvLPFIEm2GSv2PkidBwgTOqWFJj0YaB4V80pjzcyYA+lA2vBzw+1jo6BxTN4U4ANUjEsl9lrh+xKVhWW6fPx+zYVpDskdO7L9/Rz2fjuXLn3cZvRA==;FNd2Gi8orbcBb6VWFrasvA=="
 ---

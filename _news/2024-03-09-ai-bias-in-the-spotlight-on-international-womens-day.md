@@ -110,20 +110,6 @@ related:
         width: 575
         height: 504
         isCached: true
-  - title: "Navigating the Ethical Horizon: My Exploration into the Realm of Ethical AI in Healthcare"
-    excerpt: "As I stepped into the intriguing realm of ethical AI in healthcare, I found myself on a transformative path illuminated by the burgeoning potential of healthcare generative AI. The field, a promising convergence of artificial intelligence (AI) and ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2024/03/05/458882-navigating-ethical-horizon-my-exploration-into-realm-ethical.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 62
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-mar/8364476476-ai90.jpg"
-        width: 1469
-        height: 980
-        isCached: true
   - title: "The potential effects of AI healthcare"
     excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
     publishedDateTime: 2024-03-07T10:58:00Z
@@ -179,15 +165,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
-  - title: "Electoral Battles In The Age Of Artificial Intelligence"
-    excerpt: "Indian Scenario Deepfakes used to spread misinformation online using the treacherous role of a rapidly evolving AI technology are particu"
-    publishedDateTime: 2024-03-04T20:44:00Z
-    webUrl: "https://menafn.com/1107933573/Electoral-Battles-In-The-Age-Of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
 
 secured: "xKNCk+tmv2KIPkjXFuEqj9UO9ZhZ/4LyrOct0ZNDMN8ftmS9vZ1ZOhXv/cUeJzElSYwEkFL5JV8iFNmgpbaaCH4bKuICapWzGMfP68jArbFfBk/0FtuKh8F3QcQAPzpIzEm27OQvOGxGCmqp/qiLiuJP9blbIOqFKF884NY4T5yYOVnLViDgDkkrnfEM8MYNk2vRpEQkNbGWWU0JEL3mGnjT8umzS4dOugiTL3MsHQB4UlqvgWXFps8LL9akZ9EBwmTaDt4nobfuhCTHDwV45BVa3Ra59Th9XAmxREntcpWu3RoiKGE3jE8FGe7aggVpdLVI/2X++s1IgupW3+xLfAbmbCeFbqXUSowGtY56EIrrkpq5AyhBcZkJHwkIH++RoB/D5HH60mpA7zv2u+6FKBFO6Sk1VZTVO57HpV5YFZwohoeb4+8x32OV3e5ThP249uabWOY09EkkIh62/CLFww1e7NSaUxB2gqWBeAicXMPhal2JTizMpTeJjwRU3OpGbIDuFGy3kP4uH8goWJR8nw==;IWXBOLgIZJtXdXRBNY6geA=="
 ---

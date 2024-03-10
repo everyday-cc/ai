@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
 type: article
 quality: 95
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Time
       domain: time.com
     quality: 61
+  - title: "OpenAI says Musk agreed the ChatGPT maker should become a for-profit company"
+    excerpt: "OpenAI has attacked a lawsuit from Elon Musk, saying he supported making the ChatGPT maker a for-profit company"
+    publishedDateTime: 2024-03-06T18:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-elon-musk-agreed-chatgpt-maker-become-profit-107838652"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 31
 
 secured: "6HdhCvd3tr8L2MJhLB9N6PQneSnyucun2TPr9JxLXU9n4/8H0OAzWInYyQIk/6VfZ4VzSMQ5RX6RczokROZTOwj0gYQM0BgGBvhCWS+pUV7spI5dE10M/KqVI2vWzq0w/UYxCjiKjNw6TCE9aeTYi+mtQrqvT5Tiy2YMJImPjKSUvzeS/OWemuhYq0uo0h1wRdjfVRnnbke3VfXPsfiQtUKQ1vu7nDdRIWl4YbKW3wqzocGDz13RiOhEQulSVu3fF/QzOD/AOiFSm8fbwj/7FxmsCyd5EsOVVcBKrlCEqLRSyW6K8E3ulRah3OEbVhLWx10BK4UKfsGnpN1MWQ+ynphETa/DE5J0Tz48ieMI1ok=;uRr1FwhCSv6dDhNZvNWw1g=="
 ---

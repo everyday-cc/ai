@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-i
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 type: article
 quality: 74
-heat: 114
+heat: 116
 published: true
 
 provider:
@@ -69,6 +69,6 @@ related:
         height: 250
         isCached: true
 
-secured: "dQhOrwkRpDzKWjcmz4zW2HjNE94RtR95bRcntLs3G/+X174sUysgnUsspFWBSrEUtBHSYwxZce636n8v8li7anW+/C7u8W0DJaZfAoSfMswu+mM1qwd1IKh9NiHYOk2NknHtyzWJaP4Fevr4R2ZbuMmjqAXL2mDDWBdD66Yo6/V474tYP3rsYQP1xiRmArK3zitpkhqz/xmPy1NXjcNBNEmfBMo2u4lgxDVpdyZ2JLQzTSrphnD74+gMQWoX07Ozn71rSSki0Px95H7HvSNnfM/6otWT/IIUcjwwqLYo4ONhPzrP85DqqZu7Bp/jAxwOlWtLtEiGA8JHV6Qwprjn9wfp2iBPG2Ef1weFAoC4mR1iChjrfRhUqBHwuA+vOnX7XKG4uZyzHRWv8XrNxMLmJU+WS0MkrD+smBGFYQFRvkjgGLsqJMneoZZ2Z9ol7NH6No2PMJoN6S+YSltxv94DyVqzAwcbQGp0cwdLr2q2cQ9tj+IklXCVcUVsYfjfsV4Psowr3sA9Gb5DiNEhsNt0iA==;7eZYF1STP22z/S9gQJuJ6g=="
+secured: "1IaWlkc0PlB4HnPIytCuThEbkq1FksaKrxwP7/j7RI9Ns7NhX28I63kEWFZV1PimhwmnZDFhEYPhgxgCu+7pLYlMeWgvBtd/Elsue15L0sW1kvOlJMz4I0KmqpexEI4jKrrjWHxg5ihyhtR2udrbVC5aAryWssp891mLvScRsd7PUKqaYASClIDxbhBOHxwLTcTPq2QdIini18R3HCp5poJ30oQBwtRXw3pliZ6jGTMVaR2yZDumwRoHgGRdm9wTSSvTASjiIvVt7hve3z8c3XeFowG8tIjBpnP8F+v9o9isJSvrasQviQ1Ce8NqDEuMMlt+DHnmzEteWnQ61CUOzViOsTM3upx6t+GTeqXYXFdlq/kB8qZYbgeiql5fR130oB7vBP719Y5tzburmfH5XjDNdJvYtjFwHXti004G7cA4bXa2DNPCnxCiBVwTHoOhFTIxA9cA+7/mn1H/i/vy92/BHuD9kXsLshN8Q42J/QMzMFOQ2euP6ZgDVTiMWg3yE5fHvlg7Ms4d3MhokFUMKA==;dWqdegADYBujSIi5EBQrcA=="
 ---
 

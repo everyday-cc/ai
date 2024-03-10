@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/06/qualcomm-5g-moores-law-slowing-down-no-problem-just-add-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm opens an AI library for smart devices"
-    excerpt: "They all work with the Qualcomm AI Engine, which boosts their speed by using all the cores (NPU, CPU, and GPU). Qualcomm says they can run four times faster than normal. The AI Hub also makes it easy to switch models from one framework to another."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/58567-qualcomm-opens-an-ai-library-for-smart-devices"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9e5dbbecfd410aa0979e19b2ae9a3069_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Qualcomm CEO touts company's generative AI opportunity during annual shareholder meeting"
     excerpt: "Qualcomm (QCOM) CEO Cristiano Amon took the virtual stage during his company’s annual shareholder’s meeting on Tuesday to tout the chip giant’s AI efforts. Qualcomm’s processors are found in millions of Android-powered smartphones around the world ..."
     publishedDateTime: 2024-03-05T12:25:00Z

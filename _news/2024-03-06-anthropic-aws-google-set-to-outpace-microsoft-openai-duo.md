@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-
 webUrl: "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
-    excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
-    publishedDateTime: 2024-03-05T03:55:00Z
-    webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 33
   - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
     excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
     publishedDateTime: 2024-03-07T16:17:00Z

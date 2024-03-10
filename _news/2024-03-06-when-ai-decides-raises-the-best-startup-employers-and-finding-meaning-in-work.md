@@ -79,6 +79,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The women in AI making a difference"
+    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
+    publishedDateTime: 2024-03-09T19:10:00Z
+    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Writing still matters in the age of artificial intelligence"
     excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
     publishedDateTime: 2024-03-06T00:25:00Z

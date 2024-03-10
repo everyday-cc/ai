@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
-    excerpt: "Cutting-edge AI technology and Machine Learning is transforming gas exploration in Europe, enabling companies to uncover hidden reserves and reduce drilling risks."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.html"
-    ampWebUrl: "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 61
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-03-04_zv5ykbnbvc.jpg"
-        width: 718
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
     excerpt: "AWS's collaborations with these energy giants demonstrate ... A significant part of this optimistic outlook is attributed to the advent of Artificial Intelligence (AI) as a new catalyst, poised to bolster the company's growth trajectory in the coming ..."
     publishedDateTime: 2024-03-05T18:53:00Z

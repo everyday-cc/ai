@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "QNL forum examines ethics, implications of AI in libraries"
+    excerpt: "Qatar National Library ( QNL) hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information"
+    publishedDateTime: 2024-03-09T21:21:00Z
+    webUrl: "https://www.gulf-times.com/article/678648/qatar/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 34
   - title: "SingleStore Partners with AWS to Advance Real-Time Data Analytics and AI Applications"
     excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, announced it"
     publishedDateTime: 2024-03-07T14:32:00Z

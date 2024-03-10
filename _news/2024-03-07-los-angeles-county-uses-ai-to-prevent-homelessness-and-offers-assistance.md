@@ -19,66 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Los Angeles man arrested after attempting to steal self-driving taxi as car controls remained locked"
-    excerpt: "A Los Angeles man attempted to steal a self-driving taxi in the city's downtown on Saturday evening, but he didn't get very far — the vehicle's controls refused to cooperate with him"
-    publishedDateTime: 2024-03-04T22:48:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/los-angeles-man-arrested-after-32272914.amp"
+  - title: "Can AI Stop Homelessness?"
+    excerpt: "How we got here: L.A.’s worsening housing and homelessness crisis has been front and center in this district. Raman and Weaver sharply disagree on a city policy that bans encampments near schools, parks and other “sensitive” locations."
+    publishedDateTime: 2024-03-06T18:37:00Z
+    webUrl: "https://laist.com/brief/news/housing-homelessness/la-county-ai-testing-homelessness"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 44
+      name: LAist
+      domain: laist.com
+    quality: 39
     images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article32272996.ece/ALTERNATES/s1200/0_Self-driving-Waymo-cars-on-the-road-in-Santa-Monica.jpg"
+      - url: "https://scpr.brightspotcdn.com/dims4/default/775e410/2147483647/strip/true/crop/1200x630+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F91%2Ff4%2F9d493ccd43048fc530e2948dbf0b%2Fai-homelessness-help-jah-cm-09.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Thief Jumps Into Self-Driving Car To Steal It, Realises Its Smarter Than Him"
-    excerpt: "A homeless man was arrested on suspicion of grand theft auto after he tried to steal a Waymo self-driving car in Los Angeles, NBC News reported. The incident happened on Saturday night after the man entered and tried to operate the driverless vehicle that ..."
-    publishedDateTime: 2024-03-05T11:47:00Z
-    webUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875"
-    ampWebUrl: "https://www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/thief-jumps-into-self-driving-car-to-steal-it-realises-its-smarter-than-him-5180875/amp/1"
+  - title: "This California county is testing AI’s ability to prevent homelessness"
+    excerpt: "You’ve likely heard about AI powering driverless cars, writing term papers and creating unsettling deep fakes.  Can that same technology also prevent people from becoming homeless? That’s what Los Angeles County is trying to find out."
+    publishedDateTime: 2024-03-09T15:58:00Z
+    webUrl: "https://smdp.com/2024/03/09/this-california-county-is-testing-ais-ability-to-prevent-homelessness/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 41
+      name: Santa Monica Daily Press
+      domain: smdp.com
+    quality: 39
     images:
-      - url: "https://c.ndtvimg.com/2024-03/4nf9bvrg_driverless-car_625x300_05_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240117.07"
-        width: 6630
-        height: 5304
+      - url: "https://calmatters.network/wp-content/uploads/2024/03/AI-Homelessness-Help-JAH_CM_09-1.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "States and cities confront self-driving cars as Congress idles"
-    excerpt: "Lawmakers have struggled to create federal safety standards for autonomous vehicles. Local officials have been left to pick up the pieces."
-    publishedDateTime: 2024-03-08T10:46:00Z
-    webUrl: "https://www.eenews.net/articles/states-and-cities-confront-self-driving-cars-as-congress-idles/"
+  - title: "LA County Is Testing AI’s Ability To Prevent Homelessness"
+    excerpt: "County officials are using AI to predict who could end up homeless. So far, nearly 90% of participants kept their housing."
+    publishedDateTime: 2024-03-06T19:36:00Z
+    webUrl: "https://laist.com/news/housing-homelessness/la-county-ai-testing-homelessness"
     type: article
     provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/72/8c/e02706204686a2119d4445a9065d/cw-0308-lee-driverlesscars-2000-01.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Self-driving buses; Streeteries revisited; Honoring a legend | Sunday roundup"
-    excerpt: "RECAP: Looking back on the week that was Driver-less bus debuts at the Navy Yard as union leaders push back As the first self-driving bus in the city — and […]"
-    publishedDateTime: 2024-03-04T19:12:00Z
-    webUrl: "https://billypenn.com/2024/03/03/philly-news-sunday-morning-roundup-83/"
-    type: article
-    provider:
-      name: Billy Penn
-      domain: billypenn.com
-    quality: 21
-    images:
-      - url: "https://billypenn.com/wp-content/uploads/2024/03/Screenshot-2024-03-04-at-2.11.50-PM.png"
-        width: 1104
-        height: 1362
-        isCached: true
+      name: LAist
+      domain: laist.com
+    quality: 19
 
 secured: "QWAYgZ26r0sq7XvW09tOU6NGIBTlxPyo6alS/mnc4gqk63hxyREa5ce9mYX0fqKIbrtulHjTZZsXkRSfe06MdIPLZeokFRc9Uz+xwr4SbKHrP5XMiMqTEB2P0IkTEYmvPKhA0zcGFMxgI1IiZrK1Moi1wb4QBR4/04ALhe3PpJPWpMSW/w/DmvsbWpPgmTKxKu1Nj/D0+U4bIxC2YPMdCBrPdlWzKKP+dnH+USVg0QvPStKQmZmCB0atDQep7o1wcDKVgQwT+ka8sjylnQg+NS9kJ19DyVLIozFTwI/PKYIH5e8/32LwioAubv2rFYDE7eKKe0xzvgakBy1uDThOUr78acFra/tq8S3sSaqMuEBQEpCItg57+aftB/D73RkvpN4jFOixwEtibaA97kcVkYRBgo8HqJubQBrFxOrm58JQmSPJzLQ8wamtkgJlq0R5f5WCB0rTUCJ/Q0n9IXnaBR86D1lya5V3nT/v2VHXmVtYKO/EYE1TIjJk71A6IhtJiRHyDOjRY6vx+JGmBVxEvg==;OKganU1HJUaCuZZ1jIRxJg=="
 ---

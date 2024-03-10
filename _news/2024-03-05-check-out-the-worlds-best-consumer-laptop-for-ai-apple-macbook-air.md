@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-wo
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/laptops-pc/news/check-out-the-world-s-best-consumer-laptop-for-ai-apple-macbook-air-71709621060156.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hindustan Times Tech
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple names M3 MacBook Air best AI consumer laptop"
-    excerpt: "“With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core neural engine, along with accelerators in the CPU and GPU to boost on-device machine learning, making MacBook Air the world’s ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://rollingout.com/2024/03/05/apple-m3-macbook-air-best-ai-laptop/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 41
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2024/03/0136810001525165983-165-400x260.jpg"
-        width: 400
-        height: 260
-        isCached: true
   - title: "Apple MacBook Air 15-inch M3 hands-on review: Big on AI, bigger on battery life"
     excerpt: "Apple's big-screen MacBook Air goes big on AI with the new M3 chip, but it's the battery life that really impresses"
     publishedDateTime: 2024-03-07T14:00:00Z

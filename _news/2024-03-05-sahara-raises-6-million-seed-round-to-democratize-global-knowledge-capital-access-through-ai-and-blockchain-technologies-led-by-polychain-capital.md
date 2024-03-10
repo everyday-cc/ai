@@ -179,6 +179,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "French Cryptography Startup Zama Raises $73M for Blockchain, AI Privacy Apps"
+    excerpt: "French cryptography startup Zama has raised $73 million in a Series A funding round led by Multicoin Capital and Protocol Labs."
+    publishedDateTime: 2024-03-07T06:25:00Z
+    webUrl: "https://cryptonews.com/news/french-cryptography-startup-zama-raises-73m.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 14
 
 secured: "wL1/NV989OpWbzSvJxW78Reu0poa21kAnL61gehtY5r+cfft3BYYr6dwR5vVxhCFSeyiOsIGMhgPR15C9+czJsF6FtZj/akI6rhEziR2khvcUzOru4BFU7qD9NmMneEb64VFXNGOeezl/UqljDvU1ChHT9PB/Q1gBU4IUEj+Ajm4jeC5GoNIOPpfuvmN2y9Tw5Hb/x7pKaBbIJdxmpiOx3yVrb8VW0AsgFQk8i0yWgkmu2tRYhyLI43NL/QPlaK7sWKPXw6l4n/EuntRJ+HQY/50Ymm6SrHjp1jyGXka8pGceMeRMSHW4NhVg8yW17tTkBOehvnwgxAnbjkF5Sd8wmFjWZnWtyHapx1mt4w5zJI=;tyQqnl4kSyKIA9nScgFfQA=="
 ---

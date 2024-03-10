@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google Gemini Tutorial: How to Use Gemini AI (With Images)"
-    excerpt: "You know, ChatGPT isn't the only AI chatbot on the market that's worth a gander. As a matter of fact, Gemini — the generative AI platform from Google formerly known as Bard — can hold its own compared to its OpenAI-owned counterpart, you just need to ..."
-    publishedDateTime: 2024-03-05T00:00:00Z
-    webUrl: "https://tech.co/news/google-gemini-tutorial-how-to"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/03/04121522/google-gemini-on-mobile.jpg"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "WwJ02JITe+uac2uvOeTKzf/DMckQUOZS1QhSVQDVl15m8I1ipikEahjdGEOrTHD039TIyN/kUJMPb5r8FZyh8c+XzGcPQFgBtHhl2v/5k2zUVZyqZwtMhZeY+hfhbU7/mlrR9DuORKK7tJs5Yw8E6gDP5FapQMh58Ns5ICoCgitvLUgkH3zQEsiRM9uq+7Z0SvPDd8sVQYpV4HicwwbcQGHPulVYGAK4Jods/iii1H0dritVOmCyJp8wCP9SurN9rTf6Q5JxG3vObmGY/GqKDPBI9Nb7hSRetf1EyrFdl6LtKOeAH8AJxKI/6vB29et/75Ml989Or9KQSHZ1/858601VwSnRzD3izLeP+aMJo4E=;jdZ7IYOepVkzFXV8OaqSzQ=="
 ---

@@ -54,22 +54,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Anthropic gives its flagship generative AI models a facelift"
-    excerpt: "One of the hottest startups in the generative AI (genAI) market, Anthropic, has updated its flagship models to a new 3.0 standard, bringing improvements across a range of common tasks and faster processing speeds. The improvements in Claude 3 are broad ..."
-    publishedDateTime: 2024-03-04T21:28:00Z
-    webUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713463/anthropic-gives-its-flagship-generative-ai-models-a-facelift.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Anthropic Releases a New AI Model, Promising It's Cleverer than ChatGPT"
     excerpt: "After billions in cash injections, Anthropic is backing the launch of its newest-generation AI with big promises."
     publishedDateTime: 2024-03-05T17:45:00Z
