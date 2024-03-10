@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-profess
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/amp/"
 type: article
 quality: 104
-heat: 108
+heat: 110
 published: true
 
 provider:

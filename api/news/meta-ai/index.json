@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -395,6 +395,40 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-brazen-drug-ads-wreak-havoc-thanks-to-metas-facebook-ad-algorithms.md",
+      "title": "Brazen Drug Ads Wreak Havoc Thanks to Meta’s Facebook Ad Algorithms",
+      "excerpt": "Deloitte Canada’s report, “Clearing the Smoke: Insights to Canada’s Illicit Cannabis Market,” was supposed to provide data on illegal cannabis sales, but McGrath’s research ... and AI for the first round of filtration.” Facebook responded ...",
+      "sourceUrl": null,
+      "webUrl": "https://hightimes.com/news/brazen-drug-ads-wreak-havoc-thanks-to-metas-facebook-ad-algorithms/",
+      "originalUrl": "https://hightimes.com/news/brazen-drug-ads-wreak-havoc-thanks-to-metas-facebook-ad-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T07:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "High Times",
+        "domain": "hightimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1416,49 +1450,6 @@
         "AI",
         "Meta AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-google-says-its-ai-image-generator-would-sometimes-overcompensate-for-race.md",
-      "title": "Google says its AI image-generator would sometimes 'overcompensate' for race",
-      "excerpt": "It was built atop an earlier Google research experiment called Imagen 2. Google has known for a while that such tools can be unwieldly. In a 2022 technical paper, the researchers who developed Imagen warned that generative AI tools can be used for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/google-says-its-ai-image-generator-would-sometimes-overcompensate-for-race/21298041/",
-      "originalUrl": "https://www.wral.com/story/google-says-its-ai-image-generator-would-sometimes-overcompensate-for-race/21298041/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/news/technology/2024/02/22/21295823/65d921a890be7-media_9eb0816c8a2943e990424b9e3b8d6996-DMID1-621shpc5b-640x480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/21298041/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21298041/",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

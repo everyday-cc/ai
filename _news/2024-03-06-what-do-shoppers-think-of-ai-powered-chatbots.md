@@ -50,20 +50,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "US Army tests AI chatbots as battle planners in a war game simulation"
-    excerpt: "Researchers in the US Army are experimenting with commercial AI chatbots as battlefield advisers in war game simulations – but experts caution that such AI should not be used in high-stakes situations"
-    publishedDateTime: 2024-03-05T16:00:00Z
-    webUrl: "https://www.newscientist.com/article/2420184-us-army-tests-ai-chatbots-as-battle-planners-in-a-war-game-simulation/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2024/03/04145345/SEI_194470347.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AMD's AI chatbot released"
     excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
     publishedDateTime: 2024-03-08T11:05:00Z

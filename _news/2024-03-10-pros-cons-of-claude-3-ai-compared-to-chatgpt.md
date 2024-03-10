@@ -151,20 +151,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
-    excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
-    publishedDateTime: 2024-03-05T15:12:00Z
-    webUrl: "https://nypost.com/2024/03/05/business/ai-startup-anthropic-unveils-new-chatbot-to-rival-chatgpt/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 45
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/moynihan.png?w=400"
-        width: 400
-        height: 363
-        isCached: true
   - title: "ChatGPT Plugins are being replaced by GPTs. Here's why - and what it means for you"
     excerpt: "Integration with external services: ChatGPT Plugins allow the ChatGPT model to interact with external services and APIs. This means that the AI can fetch real-time data, perform actions like booking reservations, or retrieve information from the web directly within the conversation."
     publishedDateTime: 2024-03-07T06:21:00Z
@@ -203,6 +189,6 @@ related:
         height: 776
         isCached: true
 
-secured: "m0I3x9GwLkpaS4CyNJrq6qsOW3kAsv/bZvFRIr+JBO3aei8juOdUpnT2RBqqSJ+JnJoBzmVoLsmhBAaO4mg97DZ7pykBIAanpwjcEQCUXqDuymw8qyuJ5Vwm23u0sOGsNwiqZbn0CEwe8TofNJCEBDGrQNRtb341clnxHb8q3M++UmPdk+BnLrBnz18G+yGEQgBbY0j2ljIESw5o0llYl4+q7ri0kza6XEooUI7CXDTXzvTmgSWKkg8a1OE7Uxo3uTnIwIB9eKtRJtCkffigbfMhhYGZ2A/KgJEmYIg8WGsheGOucO1/F11FsMp/BPFcdpcczJ8p8udadY9UJXEYlqJov2ilxeiW5uGrHIZhv04=;K0rhxkrXpv/aDOCMFfTzUg=="
+secured: "d4nwr46bKkSnJeqxKPhLbl6x+Z0feGiZU6+xmFyK9nP9zRDqKVPAqS/JBR7U92ckrjT7v2aOead5ryUDlt4mSmwdsIdDbEQQo99cf+hl9HW7JJu/cNXQOEfRRKFeUTfONVZR5PGEElXnB9yu8MFkSWLdQH2ID2jyZLsyhERKReGWJS7y5MWFKLgj1L2n1Plw57TcGnW8RwTSWrO0guRW0jleC760E6gwuZHGUyq3NNsk7KmOsHjVnAl7vaQmR5bMMyvC8h/VyblVf0stl8REFZYWLdxxTrd653IWFGPW8kDPbgVptExIgHZh+X+/vlZh3lHxvkWcZo/VD/8JRJQpyFqh9TlVqpFM+1+ejxeR56yjUNoZQRrsStaI9Ea72hIYqX8bGjSFUcrVW+ALjcYTJHmKhG5RFJ7Yv5WxeFhiQs+TYdQFbrucozL2RPyWMOBy2rBjK6PV83Qg+DIBgemowUMoZN4ByEBD1BxhWi+uGX7foX3PI5X5sAdJtACYn0EzwpiYk8yaW3KCIcwtBST9ig==;wS4ALlu8D2HAEHWk3kG2uQ=="
 ---
 

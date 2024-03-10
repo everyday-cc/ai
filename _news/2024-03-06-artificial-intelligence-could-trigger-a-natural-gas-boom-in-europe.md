@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oilprice.com: How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe"
-    excerpt: "FN Media Group Presents Oilprice.com Market Commentary LONDON, March 5, 2024 /PRNewswire/ -- When the use of seismic surveys became commonplace, Oil and gas drillers used to drill only"
-    publishedDateTime: 2024-03-05T13:21:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61590715-oilprice-com-how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 12
   - title: "How Artificial Intelligence Could Trigger A Natural Gas Boom In Europe - Financial News Media"
     excerpt: "When the use of seismic surveys became commonplace, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and other data, but that's all changing now. The next round of onshore discoveries is being aided by new Artificial Intelligence and Machine Learning software that sees what we can't,"
     publishedDateTime: 2024-03-05T20:22:00Z

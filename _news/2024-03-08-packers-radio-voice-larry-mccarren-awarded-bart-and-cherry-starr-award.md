@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Larry Ellison-backed cancer startup shuts down operations"
-    excerpt: "In a memo, Project Ronin’s executive said there “will have a permanent mass layoff in connection with the closing of the company.”"
-    publishedDateTime: 2024-03-05T13:30:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/05/project-ronin-cancer-startup-shutters.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-
 secured: "AHgcyP/Q9GH0pQB4BEI+19ZGB4n9Mv47fnknOC8WR5ILtoVw0PvBn8PSa5HOLDUTJN1TJhN0EGQIOD7hyPPY1klz0kU6sV3WA9ZAbIWIOc60X+1SdOr3QB9w0+J3brVKIgjRuUtgFBeUHpPxdqt9RhxxOM4ijQZUTjB41wNTpDFtXnLG4D4z+G2+S4FcD9ADUs4wMe2oKIf29Brh3qok2IYz36Qul1Z6Yn5kXYMj6ayu+i1xRxd1fT1y/2/J2D5OrzX/UACl7fKacw9RGsR05uIbvjioUaZGJtLNYTJCBrJrCvptClrD3ZhxwtFphPMQq4ossto7ffLK9djVMMOdMboq7RqdfPQpm8ZDfk1t9FNKCn0eVRaC2syj4cNDeWJVJSSQZfHGh49MHa4So1kcrH8707f72U06qX9mB/mcFJ7qHQXm3ZB5/r+GdgMDbEsnQ+4ZAa/3UunLOJrNvN15nek3qKy34WesR6oIfP9jsYc//9SwjtPfr9aDImDFyWCAeD1fM1zhEO2VR9o7YI7xIQ==;wu2OfZONdTW8liymuLoS8A=="
 ---
 

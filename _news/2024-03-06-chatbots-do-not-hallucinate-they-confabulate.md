@@ -36,20 +36,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "US Army tests AI chatbots as battle planners in a war game simulation"
-    excerpt: "Researchers in the US Army are experimenting with commercial AI chatbots as battlefield advisers in war game simulations – but experts caution that such AI should not be used in high-stakes situations"
-    publishedDateTime: 2024-03-05T16:00:00Z
-    webUrl: "https://www.newscientist.com/article/2420184-us-army-tests-ai-chatbots-as-battle-planners-in-a-war-game-simulation/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2024/03/04145345/SEI_194470347.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "What do shoppers think of AI-powered chatbots?"
     excerpt: "Intellias research showed that AI chatbots are the most likely cause of friction when buying online, with 19% agreeing chatbots are the area where AI most disrupts their shopping experiences."
     publishedDateTime: 2024-03-05T17:35:00Z

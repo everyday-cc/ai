@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-p
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GE HealthCare, Vanderbilt AI models predict immunotherapy responses among cancer patients"
-    excerpt: "GE HealthCare said its artificial intelligence programs were able to help predict cancer patients’ responses to immunotherapies, by finding patterns within routinely collected clinical data. Developed through a years-long collaboration with Vanderbilt ..."
-    publishedDateTime: 2024-03-05T13:04:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-vanderbilt-ai-models-predict-immunotherapy-responses-among-cancer-patients"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 60
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud5/media/image/fiercepharma/1639748427/GettyImages-932559358.jpg/GettyImages-932559358.jpg?VersionId=ph0JjrmJko7SQYBiFYI9k63tkOAjRJc2"
-        width: 5500
-        height: 3600
-        isCached: true
   - title: "AI Predicts Immunotherapy Risks for Cancer Patients"
     excerpt: "A new study published in the Journal of Clinical Oncology Clinical Cancer Informatics unveils an artificial intelligence (AI ... Options include surgery, chemotherapy, radiation therapy, hormone therapy, hyperthermia, photodynamic therapy, biomarker ..."
     publishedDateTime: 2024-03-06T16:41:00Z

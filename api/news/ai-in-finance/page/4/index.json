@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-08-how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions.md",
+      "title": "How AI and machine learning solutions drive value for financial institutions",
+      "excerpt": "In an era where technology is reshaping industries, BMO is making waves in the financial sector through its robust artificial intelligence (AI) initiatives and machine learning technologies. A recent interview with Eric Morrow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
+      "originalUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/09/GettyImages-994786384-1.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
+      "publishedDateTime": "2024-01-08T14:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona.md",
+      "title": "The Future of Education: Exploring the Benefits of a Hybrid MS in Machine Learning at the University of Arizona",
+      "excerpt": "In the era of technological advancements and educational innovation, the University of Arizona is pioneering a new path with its Hybrid MS in Machine Learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "originalUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2024/1/2024_1$largeimg_1766553103.jpg",
+          "width": 655,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "publishedDateTime": "2024-01-08T13:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-fintech-kaspikz-is-set-to-be-first-kazakh-company-to-list-in-the-us.md",
       "title": "Fintech Kaspi.kz is set to be first Kazakh company to list in the U.S.",
       "excerpt": "Fintech Kaspi.kz is poised to become the first ... hits record intraday low and another record-low close The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia PayPal’s ...",
@@ -1275,102 +1364,6 @@
         "name": "Diginomica",
         "domain": "diginomica.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024.md",
-      "title": "What ChatGPT got wrong about top 5 fintech trends of 2024",
-      "excerpt": "I’ve received dozens of 2024 fintech trends prediction pitches in my email inbox over the past month. And while many of them are insightful, I wanted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
-      "originalUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cuinsight.com/wp-content/uploads/2023/05/bigstock-System-Artificial-Intelligence-468970227.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CUInsight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-todays-ai-funding-rush-reminds-me-of-the-fintech-investing-hype-of-2021.md",
-      "title": "Today’s AI funding rush reminds me of the fintech investing hype of 2021",
-      "excerpt": "We're seeing a lot of folks push their capital into just a few squares on the betting table. One way or another, the result is going to be notable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
-      "originalUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

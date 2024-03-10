@@ -23,6 +23,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Furman vs. Samford SoCon Tournament Tickets & Start Time"
+    excerpt: "Preview the SoCon Tournament Furman Paladins vs. Samford Bulldogs game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-03-10T13:22:00Z
+    webUrl: "https://www.live5news.com/sports/betting/2024/03/10/furman-vs-samford-buy-socon-tournament-college-basketball-tickets/"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
+    quality: 2
+
 secured: "/PQVfqKM30Zj0N0hro9SzpunGSLz7CsdyDZaBTGfhJJw7jjgwcl7G/5tYfk5AF7nM2JIYgtWCg0FT7aZD3GogoUnBPcG5KAcFFkFKVB1drDkBXqiqtBAefJJEYB6OLf28uAciAnvZ70AiircrfAOW7StzcusdRpaXDimwYg9vYT3ApRpUd/MFw/7ydajcd5M0+Vf3OmmJmfbOuUMiix5FEkxJjp6BvvBgisUteqnqODQEXl4RichET6YXm7jIM3H34p0HKMEW6lOOzjDFfVgxRaN+x0INGBzxEuOMPB76vtAcizGV484jnWNFsN7MeiAj6Fa6O/e0CNN2UTk3RWzYXFI06PV5CgINGSQgk72blI=;OqegllUBhJvXCKda2zV9HA=="
 ---
 

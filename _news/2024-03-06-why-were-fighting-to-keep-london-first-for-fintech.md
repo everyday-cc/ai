@@ -59,8 +59,8 @@ related:
       domain: menafn.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?884000"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?146451"
+        width: 514
         height: 250
         isCached: true
   - title: "The Investment Associations signs fintech agreement with Canada"

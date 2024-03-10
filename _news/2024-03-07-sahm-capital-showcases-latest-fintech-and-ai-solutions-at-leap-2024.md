@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?884000"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?146451"
+    width: 514
     height: 250
     isCached: true
 
@@ -74,6 +74,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "+tAXm800id2EVbZaaf6jhwL5LC3lHu423IojCey1t+BXpiG88oJwZA9//f/S6kTrGjjOmYVmw4hyijLYQA9ec00Bc3cB9gJ8E67U/CSH8K7Ncilzv5f8G1EGhNPf/Csf6ksLLSlQLFQAcRdhAa1DtMlYuftzDIcV65TJBe2+6QNjSsKgzGdJb5JEW/N6l/sffaTbkXZDK+Zc3s1X9nV5fm90xfJrneIYmkqSIEaCR3MbC3o80HQovsKePI4biVp5gaX3e2UbsV6t0eBLGd/imNx9DXaJ17OTCtt+wOJE4lX4UmaJnYQa5iHgzEN5tU0xNDttNfqFSz/r/JiGIlrmwyJ0akSBL7p7GdWEDEiH62M=;5q3rFt0BAnhawnn9Z09cTg=="
+secured: "/PwuehgTd+e4KJ1bQJQr2fnwYaG+X4I2EKE9yExcgTZTok0scpyY2o51jlTPkPuAF2i9IhuONvW4DbycT7QqfJCAmK5w5hkHqM1m/QUgZ0askxbqkjTsfTHSM06j4mILD7B5/InpR+v4+BqjKfqyffBe+eOas1n0tcc7MLYMs9Tuzph8MfkZnHQlR1JfaAhdwzU6TkOOiuMGw+801jaDtkI+pctD36b92FxIQh22SNfCs0OS/ku35NxPnBUlrDrRIOOnzeYcuG/novMFpD+NUA5/qCc4Ho9/Ep2DW0wzdLUKYCaWQ0178c3lb2GOShYo/+ofV2AJFR0d8d1AuZIb6BIWWc7bM+boVrx94wIzsBE=;vBBYvpMTfz/SjzKQvcynFQ=="
 ---
 

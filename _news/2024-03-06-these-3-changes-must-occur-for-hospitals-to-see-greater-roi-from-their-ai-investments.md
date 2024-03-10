@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2024/03/hospital-ai-healthcare-investment/
 webUrl: "https://medcitynews.com/2024/03/hospital-ai-healthcare-investment/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Jim Cramer Picks These 4 Stocks As Better AI Investments Alongside Nvidia, Skips Super Micro Computer"
-    excerpt: "CNBC’s “Mad Money” host Jim Cramer has suggested that there are better investment options in the artificial intelligence (AI) sector than Super Micro Computer Inc. (NASDAQ:SMCI). What Happened: Cramer identified four stocks that he believes are superior AI investments compared to Super Micro Computer, CNBC reported on Monday."
-    publishedDateTime: 2024-03-05T12:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jim-cramer-picks-these-4-stocks-as-better-ai-investments-alongside-nvidia-skips-super-micro-computer-1033132171"
+  - title: "Mount Sinai CEO: Hospitals Will Start Seeing ROI from Their AI Investments in a Couple Years"
+    excerpt: "And it’s the purely clinical side of things where AI deployment is riskiest, he declared. “The clinical side of the house is the place where people are the most scared — because you’re going to start to either use AI to make clinical decisions ..."
+    publishedDateTime: 2024-03-10T13:42:00Z
+    webUrl: "https://medcitynews.com/2024/03/mount-sinai-ai-healthcare/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 6
 
 secured: "26qSkfax3AlTPv2retsZcZYKY4hlCDlDRE6TzHPiIP0P1O5mEaAnlpZin+wjrucKf7kZ3EYUcNxYttU6s/AUMNI7RCsJUl1iRKy/IZ/kp7qw/NyaN8YGLWw/PcI7K8IgXa1Yuj45Hv3AJsmLBVvFQgUFypD4HYwVs7vH8LTsKTge6fgFxkSf+6CTzTig/qyCNaSyzwWVJe5ac9e5qiFj8GKHII03A2Neo7mUXE8gVxFmCjJZsWiOngIRjIcW63RSVz1yGPkGkTnWoHF4SsQyEX+Gt6fAS9lfOJJCBjvJwMMZ9Nht6QQdWztMHZl90iypzPS3KktqURedK3UuRN0oWVCjfXLrMhIwgmHKjDRDhERghSnpkFItnLvC5RFAkmcMFzEZwpAiub66gYTikGy3o6h0GwlLRLD5phctd2grB4GTBkfFPtmeDRGj6iX4NtWJJsfJYa9bqwMG0OktJ/9MSMIGhCVX7PUsP8HqBMLJ4KU3ezH8WXMskTFTOFDLlVUzEpmUuE+P2LKq0L50oxSHOw==;KavFPzU1QXPasT/+vUHhTg=="
 ---

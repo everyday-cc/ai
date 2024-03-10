@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip-4ea0d3c0"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Learning AI as a career skill"
-    excerpt: "Tu’s experience shows that generative AI should be a skill more people — especially younger generations — need to develop. It has already become a truism in many tech and corporate circles that while AI may not yet replace (white collar) workers, workers with AI skills will replace those without."
-    publishedDateTime: 2024-03-05T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/feat/archives/2024/03/06/2003814511"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/images/2024/03/06/P13-240306-306.jpg"
-        width: 800
-        height: 496
-        isCached: true
 
 secured: "dHKNEAUM9uMDFTUD+v5HZkju6Br1TmSuEVRnsuFtTGa2PLumWv8CgC7HcMW0tNWkGupbGJNDwtm6n5zp9BVq2SRW/cOpchQuau3QDMOOs/21F72MLhTl9m59lzGm6YKoHg1i9haHqe2E+IbW/GuPhKWhX1HngwnzWpEgbxtV0CPHM5mHUhKsIpQr8Zw0ns0dYcpXTbmbtTGEekFhiAydnChITwr6zyozIaiX4o3gwblbdqYIDBRXmbrkgIhApo4nsQMy7NDISO0mpQP+cEFNmrbkuf8ir+hWZ65YU4uZ4fN588/9X850w3a6aNnCG1htP3ruv/AMQyE5IALz8g2qWLfv7s/8RqtLAC/D5zwH9cY=;mpgIkJLBq//hhBZf5Smgmg=="
 ---

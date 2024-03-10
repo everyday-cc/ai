@@ -24,22 +24,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "Epiq AI Expands Legal Solutions as Part of the Epiq Service Cloud"
-    excerpt: "With data security, data management, and access control features, the Epiq Service Cloud enables legal departments and law firms to accelerate innovation with the ability to build, adopt, and nurture AI model libraries and data sets tailored to legal and compliance use cases."
-    publishedDateTime: 2024-03-05T14:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/05/9972901.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "beQFUd/3KLMH8nkgy882PiOJXI/mS20oyDJpJNshGrow4GdZFTFOPMcSaj0rk8JSTC4nUV88Pmmt9UCP2suo+hNHxGTBOF8LbheASWqdgkYvrYa6DpF5ejJVR2hipOE3dDlSBD/89ae6NvxqO/UU1U88v/pLyu1zdHKc9SQn9RBfX5O+2UOef9ycfRv2PMAuwFaI7AhbVz5dRqsZJR4dT/RunU4O06AKiZ/juaWKZI2erwUzd9zOFxs90KeVoaTsV0HG6MVm8zFGhgX8FlJLuaf27BfTWk4s1ftZcj19ylERUoNg1Ihjcsj/R8C1T0dhc4knqo8zeH55//AlsxAomKuh6bh/Qj9cEcu6tgGJOvQeEQKcCG0bp71zChBPXlVV2V2f16Sydyj5bW1WM7xMnsukFLsw6/lfJZPp579MEbg3ok0RCH24mhlbdLsvfQdBfdqRrAkIXlUY0Rhyqw4Z8xpknOot+nmXIg4OCvCOTdBx6qgGHxhJLLYMe8K0zwL1dRCCQA8OjiQlqCBSBnoyyQ==;FKlf5qAEWxMjns59dGZOeQ=="
 ---
 

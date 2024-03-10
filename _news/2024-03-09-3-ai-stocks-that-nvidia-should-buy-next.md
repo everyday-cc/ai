@@ -90,24 +90,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
-  - title: "Nvidia Surpasses $2 Trillion Cap Amid AI Demand Surge"
-    excerpt: "Leading semiconductor entity, Nvidia, recently achieved a $2 trillion market capitalization, powered by high demand for its"
-    publishedDateTime: 2024-03-05T13:14:00Z
-    webUrl: "https://www.dmnews.com/nvidia-surpasses-2-trillion-cap-amid-ai-demand-surge/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 19
-  - title: "TD SYNNEX Grows AI Offerings via Expanded NVIDIA Collaboration"
-    excerpt: "TD SYNNEX, a global distributor and solutions aggregator for the IT ecosystem, expanded its AI offerings in collaboration with NVIDIA in North America."
-    publishedDateTime: 2024-03-05T14:34:00Z
-    webUrl: "https://channelvisionmag.com/td-synnex-grows-ai-offerings-via-expanded-nvidia-collaboration/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 19
   - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
     excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
     publishedDateTime: 2024-03-08T00:02:00Z

@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "TL6UnesYvVtrP/idRq5GKUatXsAzcvmqLMz5pDV2FNhoXo3eGyFyx7ICgS1z7HkJIItkzNOzkU1TobBEYQDgRcOJGe3RRw6eYHxM0gBHx9dU8aNW2Lj1JtVaaL3R4dVOYcw9riwC36CyT3MmrT49NyOH7YKaS8QFPD1ecHdVRtb8WALjHOQznJymHA5xPok88ZiHUMQvQF61nSGz4NCzWPdFkamTZTx69wNGXG+9SEAPxj4IIfbFC/HiKZuOFE3JOb1VJBSL2QjDc1JrrhY+fsG/JMr1DBIFxQMzABsP3DdVl8p6yeIviiTYbqxI9fhWH8e78dvlU1x91AAI8fXkC9KGR6qzKDfNBFpRsXzhcEM=;OhwOn8BfToAaX382dbMMOg=="
+images:
+  - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-050324-ezine-pp17.jpg"
+    width: 500
+    height: 354
+    isCached: true
+
+secured: "a62ogcfhzEq2CDpkrJXNXZ1yPJ3oUuN9BnUxR29Z52oBjCGV5jecQHEgZo2iYh6l5qMWplRLBrVtQN1LCM9f/CJ3ny1101qnki2mA0B87/HMS3ZcvNBkAO36ok9gLARF2FWbEvbsDy5NC2ntkXKw/MBod4txVK9YrbT7eiIWKRxY33ybmiKfja+Hv06tIUYSvNtZenwGbo0DNVISXucj253ekg7cKJ+/LkRM9K0bMSYgYR96vZgaPLkY1Rvkxrdejhr3mOm+Pg3qti6MCvS7eHYnzSm3bxCyYlQCRnCLHm5bNY2u2sxpQxIYcrVjuyU2osx7Ayae1wWYbjdv8cbIC364aFm5gUkdBpswFYXHaUU=;8isWWGgiJcbm2ssWeoQkNQ=="
 ---
 

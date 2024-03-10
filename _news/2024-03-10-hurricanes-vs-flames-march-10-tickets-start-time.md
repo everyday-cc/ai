@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DePaul vs. Villanova Big East Tournament Tickets & Start Time"
+    excerpt: "Preview the Big East Tournament DePaul Blue Demons vs. Villanova Wildcats game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-03-10T15:23:00Z
+    webUrl: "https://www.wifr.com/sports/betting/2024/03/13/depaul-vs-villanova-buy-big-east-tournament-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WIFR
+      domain: wifr.com
+    quality: 22
+    images:
+      - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/v2/QNC2IFLWGVIS7O5RA6BSX73CCY.jpg?auth=f4219b3c85762b05683b3769a5be0b9224c00026f576ca563a3193c93fdb632d&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Samford vs. Furman SoCon Tournament Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 1 seed Samford Bulldogs (27-5, 15-3 SoCon) will take the court in the SoCon tournament against the No. 5 seed Furman Paladins (17-15, 10-8 SoCon), Sunday at 4:00 PM ET live on ESPNU. Watch college basketball ..."
     publishedDateTime: 2024-03-10T11:02:00Z

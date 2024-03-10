@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65ed25c4b5d0c50dfbcaf3e6/0x0.jpg?format=jpg&crop=3180,2382,x114,y0,safe&height=900&width=1600&fit=bounds"
@@ -39,21 +40,7 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Navigating The Risks And Opportunities Of Generative AI In Insurance"
-    excerpt: "The rise and rise of generative AI poses new questions for those of us working in insurance. Every day, people like us are finding new ways to use the technology’s uncanny abilities to process huge quantities of complex text, audio and video, as well as to generate ideas and usable first drafts across those three formats."
-    publishedDateTime: 2024-03-05T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/navigating-the-risks-and-opportunities-of-generative-ai-in-insurance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e5dc201ac5262af8449269/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1489
-        height: 900
-        isCached: true
 
-secured: "eF397+yvK96zFvvvj5u19SvsPCi9uJYPoqIE0TdM1RzMVmnaEfjiLVFB9LqcD/peg/bjlnGYZCEpYRoOjXOlFhyp/CuNzoash1/fj6Df/BirHWxenCKGQ2b7EbLsUfQp0TInGLWGqm2VNxBKSB2RqqbGmZGqi2qILLdHV6ORSlEc366uyFQFXlYhOI0vvVRbYCtSaUGEWH3Bo6CUbbfk3fX4APUEUe6pXhgj8BHNUtfUfWuAnglw6DZHz8emV/O+QN1s8BgyY34QLJBTzi4wuUvUPig2relmPb2l3pYeJQot7XgJkucdjdWrD0JrlaI6lcE8tEzkpnFvtRG+A49cucrgt8EiC5XFUtTd1Ebvt8g=;TeVVZkzjXrxX3KIYokLyAA=="
+secured: "1dQOwuOtuxzykNh51WJO/uohSp+Gat73922mTE890SGVdfC5fhlj1RuEBg8xQX2jqPxxv+nrxUwqozUYrOiK1YnE6MlLAzNEHZXxSwdojs4x8vd0+DADQyXwLbADkliYNNg16dw339oNJtFmAK5AAGELEvmMBN3Fk/DApUoSDrnGNpEGZTse+CPX70feWuCjd7Ajyh/jqZV76lJRF5N8FWJ4M5g9Wui0m0GXJzddqd2mp7YTju/exCjPUnXoHDpWO0vXmpKiMqBoWxpfHbOjmk8BDU1hzFBNnPst6lwdiLuN3gY9YvIzeonyVoRhxF73c/3rxa6EkbGWl1wahoTZDy5mN6KMh7Z7JLN0ZFBfRiAp8dNh7QaKZY/WghRl/o5FV3hwO8oJcFM7Vxm1KaY3OI1oKegi45TAY1KV732pBPvViGAROJsmThMydL4MQ2Fl6Fu360+Siv/I0OK/SXO7vqzp1ayGbknp5mEZg5buxxMYkJsWI40DI7VOfVft7RooeK8MALtrjULNf57QgKB+Eg==;yv3tOlqUkyUxTOjI3agwgA=="
 ---
 

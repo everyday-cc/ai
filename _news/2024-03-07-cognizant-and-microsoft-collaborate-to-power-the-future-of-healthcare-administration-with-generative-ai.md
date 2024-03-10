@@ -176,6 +176,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 51
+  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
+    excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
+    publishedDateTime: 2024-03-10T13:59:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24684851/better-artificial-intelligence-ai-stock-nvidia-vs-microsoft/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 49
   - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
     excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
     publishedDateTime: 2024-03-07T12:34:00Z

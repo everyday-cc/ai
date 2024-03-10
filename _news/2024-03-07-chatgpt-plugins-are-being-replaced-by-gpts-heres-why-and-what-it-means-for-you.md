@@ -162,20 +162,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
-    excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
-    publishedDateTime: 2024-03-05T15:12:00Z
-    webUrl: "https://nypost.com/2024/03/05/business/ai-startup-anthropic-unveils-new-chatbot-to-rival-chatgpt/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 45
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/moynihan.png?w=400"
-        width: 400
-        height: 363
-        isCached: true
   - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
     excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
     publishedDateTime: 2024-03-08T15:51:00Z

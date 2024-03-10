@@ -155,20 +155,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "AI startup Anthropic — backed by Google and Amazon — unveils new chatbot to rival ChatGPT"
-    excerpt: "Artificial-intelligence startup Anthropic — whose backers include Google and Amazon — on Monday launched an updated group of AI chatbots called Claude 3, claiming they are its fastest and most ..."
-    publishedDateTime: 2024-03-05T15:12:00Z
-    webUrl: "https://nypost.com/2024/03/05/business/ai-startup-anthropic-unveils-new-chatbot-to-rival-chatgpt/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 45
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/moynihan.png?w=400"
-        width: 400
-        height: 363
-        isCached: true
   - title: "ChatGPT Plugins are being replaced by GPTs. Here's why - and what it means for you"
     excerpt: "Integration with external services: ChatGPT Plugins allow the ChatGPT model to interact with external services and APIs. This means that the AI can fetch real-time data, perform actions like booking reservations, or retrieve information from the web directly within the conversation."
     publishedDateTime: 2024-03-07T06:21:00Z

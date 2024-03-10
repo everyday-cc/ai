@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-09T11:00:00Z
 originalUrl: "https://www.wired.com/story/ai-dolls-for-older-adults/"
 webUrl: "https://www.wired.com/story/ai-dolls-for-older-adults/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://media.wired.com/photos/65eb4f1df0b575321bdc1cf1/191:100/w_1280,c_limit/AI-Dolls-Featured-Gear.jpg"
@@ -27,6 +28,6 @@ images:
     height: 670
     isCached: true
 
-secured: "Nj5v6if23pX97bya2CKVceAWxqLoAQ4iqwKkgcWqQp+bklJduxFH5cpzy+rFo6BH9Ay5taL8CJo3kcznq7NuZB+S3ex8g05tF8Ge1jmNnDoDoW0ce4a6OzUR/qZOoQtIUXs+hhf3MzWYcny6vxApxukzA9fZpgq/AJGeLGaNo86BWpqFJfs0X7kneJVTZ5jPG7iX26vallwkRzG4tbUhr432xjJioF7ivpxIesJI8NVh2Baq4FATv5+sxeQLFgQgn0+q2wXgwo5a7ji4WKBUbhREezrYWgDc7mWrKH8jZzFwBPao6YXvzNnGBzTagOpctL57jrK3s+w026S1uIA9taKASH0pLsctB/UUyPU+mSs=;urKeYCqwm9yNuDZjWW/8eA=="
+secured: "Q6lBUE9tF1lpgzZ5KJ2y0WV8DTTVnpQebgAdafGI7P+9A+QcAFef7fuHllTVou6j3JmSgVEXj3kHLVMYIVaGUHwIpuw47O1g99OoSuCh2aPJEikSgQ5fF6KzWrqH9fzLEtjOwbPckL63myagsRfzSlTtc5ZqPJVasHgq3ZGZRwEb3DXzs3ORC8H1yH0YiMzG39rj6UdqXy/JI4+oEEVndgcBPqsa94cMCX9mxWw2z3XE/t/9pvq0q8j821rsevamRqLEERMl2d0Qvwjua3PvmJ7/6WIobpZMAlU+rNjvwOPWse6Q7XDXWxQw6jNa0GFrlu2JmnRepb2UxC8JyOLmudmg+eqjrfvPfOJDuhEMOEBJViMvWN5sMucu4IDjcKy6IuJpdABdiZB2tJvWVt6JuZSWnQUgziCmFTocZJle9RxJ/j3hDDzQ4fx8IPOk7f9Kn5xZnpXlh4mQvOM2W0Ck5h++c+HiwLCzbkGORxumpBvJgvx2hqUVCmdAzDtk+i8WieZT3JIwrZFWGCLIJur03A==;gJFVW7BbtB7JN5BOoNDWWQ=="
 ---
 

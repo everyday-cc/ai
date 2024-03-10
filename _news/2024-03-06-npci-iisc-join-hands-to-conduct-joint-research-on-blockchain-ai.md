@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round"
-    excerpt: "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ..."
-    publishedDateTime: 2024-03-05T15:02:00Z
-    webUrl: "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 63
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg"
-        width: 6285
-        height: 4190
-        isCached: true
   - title: "India Moves Forward in Blockchain, AI Research as NPCI and IISc Join Forces"
     excerpt: "Both these parties together, will work on developing scalable blockchain platforms. A multi-modal analytics platform to oversee fintech data will also be developed."
     publishedDateTime: 2024-03-09T09:31:00Z
@@ -153,20 +139,6 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 38
-  - title: "WiMi Is Researching Blockchain Optimized Data Storage Model Based on Extreme Learning Machine (ELM) Sharding"
-    excerpt: "In addition, the ELM-based sharding technology can also provide higher data privacy and security. Since the data is partitioned into multiple segments and managed by different ELM nodes, even if one node is attacked or the data is leaked, it will not have an impact on the data integrity of the whole system."
-    publishedDateTime: 2024-03-08T16:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/08/9975451.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "French Cryptography Startup Zama Raises $73M for Blockchain, AI Privacy Apps"
     excerpt: "French cryptography startup Zama has raised $73 million in a Series A funding round led by Multicoin Capital and Protocol Labs."
     publishedDateTime: 2024-03-07T06:25:00Z

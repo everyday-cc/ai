@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Confused About AI? A Guide to Which Flavor Will Boost Productivity for Business"
-excerpt: "The technology is evolving at a blistering pace, and figuring out which to use, for what task, can be tricky"
+excerpt: "Different flavors work best for different business needs"
 publishedDateTime: 2024-03-09T00:59:00Z
-originalUrl: "https://www.wsj.com/tech/ai/openai-google-meta-or-anthropic-a-guide-to-the-best-ai-for-your-business-fae402cc?mod=wsjhp_columnists_pos1"
-webUrl: "https://www.wsj.com/tech/ai/openai-google-meta-or-anthropic-a-guide-to-the-best-ai-for-your-business-fae402cc?mod=wsjhp_columnists_pos1"
+originalUrl: "https://www.wsj.com/tech/ai/openai-google-meta-or-anthropic-a-guide-to-the-best-ai-for-your-business-fae402cc"
+webUrl: "https://www.wsj.com/tech/ai/openai-google-meta-or-anthropic-a-guide-to-the-best-ai-for-your-business-fae402cc"
 type: article
 quality: 43
 heat: 43
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "sZFeP4m/wikXKMPrCb5dAuA5Vi03aXZDolwof32mGx9XjNSZ3tiwnNs7/SGiPpPzPiOMDhAb1K8NOddXWcwPfk7lnpTcv6enjp+DQdqF+DIeYvqGQu3o59hAFWUhH9tIHasTH4eMqlnznHj/q0iYc/MfmgoSnumZXXcSIYla+n9Rn6JTSs/CzB+qg3ct7cVgL7lWLKGA/8Fk/Wkfx2q1VHUMqQsRk8jrFHAw0MzTvoAlrkHNcm34XAQoKJll10kwurCbWZ3IFxDonRc57wc0ZAtkcqB9FNY4rweRVqac5C3CLzkxTxdVHzw6UtPh+PYlSiW4lnU/9zrlLaYbMypGdD8bjxBdNxBC41uMBX/p+6EbuUoeCi6fIUeem+kEL9YaSfQkiTaqPiYRfyOnqtCXMFOiUK7gBcVpZdUteou4ZduAsg7LFOme+74/DRriT8svBFpLjhEuDgJkneXCjzHTwUG65b74VbhoCasMnbNDSdq4w2x9Na6Yiml4p5aAQa+6t0KbjSOYUZRY7iRepPrnDQ==;PjqhyPTo0pX2Cl1Qb3Cj0Q=="
+secured: "9vEwTmgD+dWEicTp5SB5KQ2dk+D5llPH30rngale+7UCmDROFx35+e1DOUt3urMH9w4jVTMW5RW87YTtpraKWId7ZXjnlXuBJtBxmWlKOWjTu8eZsiyuW20qzeNGZZTaD61Bn5qMtk+FFIsElhqZ1xqHJAcvy5bMJGXJrdK4WQhs7L5WeE+OVnoC/s3TWzaoBevAf/rmLYuyYZL1nznjDmZoJQ5imGgoxBE9Ytjde9BLLUFitxgk2OFz7cWjuckCM9RHZVbQOjeV3cId3Zwea1c7h8Mjv2aJNP9hs1YtaHekZjB/FaoTinvpmZhc5gsIpNpG9+efF9POCKLNwLO4A43fe8nhhHZYeHZ7WBt8xHzsrvmqZhcWFrgOIaLizzuiruYR7HBD9sw5JJl7QaETiVqgQT0+p0CSGlGL/1Bpg9qIM8g1in8qoWfDHxKnUXQ7HI6SBavq+Do8BGg27i5ycy4DOzaOK6cUgEhuf42aBqXKmhcaYwRO6PIkZPi+5TK4wilzAAW6mxGvrqty/ywszw==;gIjpwYrxZTTXMPmEo08PkQ=="
 ---
 

@@ -22,22 +22,6 @@ topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "Which Claude 3 AI model is best? All three compared and tested"
-    excerpt: "research and development, and strategic analysis. Achieves a balance between speed and intelligence, making it ideal for enterprise environments. It provides robust performance at a lower cost, engineered for endurance in extensive AI operations."
-    publishedDateTime: 2024-03-05T14:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-ai-models-compared/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Which-Claude-3-AI-model-is-best.jpg"
-        width: 1280
-        height: 713
-        isCached: true
-
 secured: "Ck5NRh3RXmz1mOuOp+7BdZso86Ff4tZ44SsAk0f+59cDszLDqAdvGp9Bv8wsOtuhyQuFCdvkVthZgfoWXo2GoKRipF6iy4OZKVNLRwLT/yPTdwT0sSgeCHBBjAksXPhQawP0iC5Ld2OaoHX71Jtez7gZb3yseXVD/8UX6Gv3fgE0lLkVI+f2aPsGYqYWkm5LajJyk4nTIBONYWx924CEkPWl5ma50n3fyKlFqsHmkCHo8c7hSu+RTBKQyl25ecoOvwBO++yvLSc6o2ajdt51WWWGeCJMrBaCswVoqKM3z7b2FRmdHyp3oWsPThc/aJwdP699Z+MZeu+HUq/EJxtoPO7atTu/hxl9GQHv3V7xcD97bVN3aBKnzyhDL/5GHBh4N/Z5gi6a3IIZrsGMxh8LSXGHE6gkiJZnEmJkSmGqpYx2rccYEAzMOgnCN9qBXuXBYdiSCNICMRRqEywHr0k7rqGk7QEQAjQUXb89pDiyobY+CEL422rzOlRhsVY/daTScq3lLpMLqo+E9uIL/V5QGg==;Ue6ijK8+CswL8gp+PX7cSA=="
 ---
 

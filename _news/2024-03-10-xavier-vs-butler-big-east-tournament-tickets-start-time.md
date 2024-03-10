@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DePaul vs. Villanova Big East Tournament Tickets & Start Time"
+    excerpt: "Preview the Big East Tournament DePaul Blue Demons vs. Villanova Wildcats game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-03-10T15:23:00Z
+    webUrl: "https://www.wifr.com/sports/betting/2024/03/13/depaul-vs-villanova-buy-big-east-tournament-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WIFR
+      domain: wifr.com
+    quality: 22
+    images:
+      - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/v2/QNC2IFLWGVIS7O5RA6BSX73CCY.jpg?auth=f4219b3c85762b05683b3769a5be0b9224c00026f576ca563a3193c93fdb632d&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Hurricanes vs. Flames March 10 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. When the Carolina Hurricanes face the Calgary Flames at PNC Arena on Sunday (the puck drops at 5:00 PM ET), Sebastian Aho and Nazem Kadri will be among the best players to watch. One of Carolina's most productive ..."
     publishedDateTime: 2024-03-10T06:20:00Z

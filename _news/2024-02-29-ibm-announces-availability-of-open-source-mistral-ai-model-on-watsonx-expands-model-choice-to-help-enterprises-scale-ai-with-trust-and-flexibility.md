@@ -1,8 +1,8 @@
 ---
 category: news
 title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-excerpt: "IBM's enterprise-ready foundation model choices and its watsonx AI and data platform can empower clients to use generative AI to gain new insights and efficiencies, and create new business ..."
-publishedDateTime: 2024-02-29T04:00:00Z
+excerpt: "IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ..."
+publishedDateTime: 2024-02-28T23:59:00Z
 originalUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
 webUrl: "https://www.asiaone.com/business/ibm-announces-availability-open-source-mistral-ai-model-watsonx-expands-model-choice-help"
 type: article
@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "XzJ78YtYrky4eEycAeyjB9nrPor9dm+rolma43LINOcfqEc09dYRrNcepXJy336IQURtXi/jGE/5GeNFaLWqax0sG9ZHCPGRnNuFVvyEQY2+XnyzXUWXQEe7RM20jTzPpKcm8/HJf+Rx27EjM6XnaB2OEyAB0JYmkT1cgNyV4MulqhkDKfyQiGGPt4rhLFG2LUA5w9hh7I/UBRSF3kZY3g3189JhqicVQbpWcdn51BcWfUb7bOS1fBxVN0Bh3hO0UwxhfyH7SNZHOBcJrb5PsKBnqLraiAyj2XzUdRAPZTOt67b9DdXEgawL+zc3ad/nT+io8okwYnaQxN1D6ye+M13wgVJzoUdqyvItj/eu2Kg=;gYDCje9c2bu1lPQH637udA=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/IBM_watson_x_social_0.jpg?h=d2743266&itok=yW8xOuzW"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "Sr26IliTtr2CE/cdP2TVO4XvlIdvUeT3t+lpSEsd6c/V2/rKyHSomxGcVXPk/mKQJR8e2Fn00/05kK9/SKGRwCT/lLb8DtNEJq/iF7k9FBVd0jPJ3JiQr2O58hK655rRyTpJG3p1RN5UehS8GB4fWL9FldoyKHAGUt4uIme6HymLq2aH7CYxBB9cCeHSTr+344WjBYSIzIFYZd/fWFxFtoVdmMfpQaRmff1eBs0aDCYUPwEL3/JxU8pspfXIx6EcR1GJ+sax91bzPdzqjqiz+H4X94gagI7Mkkvz+RQge8FVQQLvxpSFydeN34y9Z7iFTPbAZ4NgKF3oZZb3M5bIpXs07SHT8+q8q6nU95Qbe38=;d6g/ZHRB81T5F+utt4Yhxw=="
 ---
 

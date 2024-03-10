@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AMD hits snag in China AI chip plans"
-    excerpt: "Advanced Micro Devices Inc (AMD) hit a US government roadblock in attempting to sell an artificial intelligence (AI) chip tailored for the Chinese market, people familiar with the matter said, part of Washington’s crackdown on the export of advanced technologies to the country."
-    publishedDateTime: 2024-03-05T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2024/03/06/2003814496"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 54
-    images:
-      - url: "https://www.taipeitimes.com/images/2024/03/06/P12-240306-315.jpg"
-        width: 787
-        height: 525
-        isCached: true
   - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
     excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
     publishedDateTime: 2024-03-06T16:50:00Z

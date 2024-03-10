@@ -1,28 +1,22 @@
 ---
 category: news
-title: "QNL forum examines ethics, implications of AI in libraries"
+title: "QNL Forum Examines Ethics, Implications Of AI In Libraries"
 excerpt: "Doha, Qatar: For the third consecutive year, Qatar National Library has hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information in the digital age. The event ..."
-publishedDateTime: 2024-03-10T07:31:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/10/03/2024/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
-webUrl: "https://thepeninsulaqatar.com/article/10/03/2024/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
+publishedDateTime: 2024-03-10T08:30:00Z
+originalUrl: "https://menafn.com/1107957623/QNL-Forum-Examines-Ethics-Implications-Of-AI-In-Libraries"
+webUrl: "https://menafn.com/1107957623/QNL-Forum-Examines-Ethics-Implications-Of-AI-In-Libraries"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://thepeninsulaqatar.com/get/maximage/20240310_1710055806-540.JPG?1710055806"
-    width: 1200
-    height: 801
-    isCached: true
 
 related:
   - title: "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI"
@@ -71,15 +65,6 @@ related:
       name: D Magazine
       domain: dmagazine.com
     quality: 19
-  - title: "Dataloop Marketplace aims to streamline AI application development"
-    excerpt: "Israeli artificial intelligence dataset startup Dataloop Ltd. today announced the launch of a marketplace designed to enhance AI development processes and slash time to market. The Dataloop Marketplace includes an extensive array of tools and resources ..."
-    publishedDateTime: 2024-03-05T14:00:00Z
-    webUrl: "https://siliconangle.com/2024/03/05/dataloop-marketplace-aims-streamline-ai-application-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
   - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
     excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
     publishedDateTime: 2024-03-07T11:47:00Z
@@ -90,6 +75,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "3Yj/KzdIGXXjz/7SxK+cvU80T/IQaZPgCkQEwPOJd0KIHnY/4rR/OmZ9AQdCzSOeKmN5x3lMk1/WFHFckSBl486oZyZm6pK97s80ueOxQtE2Fg8y4KSK038V6xz1olWJGRPqY0ubR0CAMQdKla2VhYHdZQCxc742EUg1LN5/O34Xomb5AXJvwa8yGMD6ehCgPW1EBdTpYSZbLeFCkHLXbTRYLnfZv2oG4o3G+ia8kUlBBlcF0YoXxl58LcN+/QrjdlCQKGHCAqFPPf+ybbnqc579ePPhE1lk02L2q9Z1zcYVgKe5k1z3ibBKd4u1tu2aFKHU+dco7VI4i+uR+RzCerIhzneaxPgDNYkgEmb1AUqJLeI/d+EwQMOm6Kgbmf0fMRa6LWZV821mSmIW3lxAiP0KMm1X0WL5oK8uV+/IA4+VJMVGm/flKTv5/c7uejbnkYTjUPw0KV0iRiNIHd0PVPfzHVGwr8CxoiVQ93ZUJvGIfwcnBFD1d1WP1S0Ant98jtIvsM9Yi8leBXu3eEtasA==;Jlt+IbWhwXTubGe68/2TZg=="
+secured: "8bCqe4EhNfiPq1i+m3qok79I3UvAWLU5qelZo0omMjw1cFDm3eG1W+nnodQ15K/0wzcoLxvEPF/Zk9gcak2YHBoFnC1nDLIXIxY3RH5TMUpfvLx052QE+prBerHx1Vb16Vnnia5K5cb4juAyZsRfwdOkA4Wv9iSsvefc49+LMyuPtE0lXY/KxfRxivswgsU58iKlQrWxpWIexXOkezmC35chDZH7Ix4rSp3YQvvnofdzn4jqFnq8e8WW9g1cSSBkDjwf29gpC5QDywsMlnlIQUS3q+NbrzwIcmbWIkEaMv7hragPJ1RBxqNds+w77gGcCJ1o02HNhQRhyEunLMu/lLq5MRMa6Vs9KWeG100hlyYeXCZkT8ApkBcRwJcDofQMlPmeVd8S4tPWr56hlyJ42WN92ieWhNwpk62BlBfTYrIQKvUMOJgGNVI3xTWbXwdA9jYx8fk3LG5YXhrmAbf/+vFrl/xJ592bh8yzn0Rb6UoNtpb+7jA9X/yBpRKLzmqwPkMQFVSGkQd0Qqj4x/9bTg==;Y7fV5wEFVDQAjsWnEy0uXw=="
 ---
 

@@ -19,29 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Cycode acquires Bearer to accelerate its move into AI-enhanced security remediation"
-    excerpt: "startup that focuses on making the developer experience as smooth as possible while still providing them with essential security feedback. With its recently launched AI assistant, Bearer also bet on generative AI to suggest code fixes and explain ..."
-    publishedDateTime: 2024-03-05T13:00:00Z
-    webUrl: "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/"
+  - title: "7 ways AI will both help and complicate cybersecurity in 2024"
+    excerpt: "Every new AI technology brings a fresh wave of interest and enthusiasm and new ways to apply it to bolster network defences, from machine learning (ML) to Natural Language Processing (NLP) and generative AI such as ChatGPT. Amongst all this enthusiasm ..."
+    publishedDateTime: 2024-03-06T00:44:00Z
+    webUrl: "https://itwire.com/business-it-news/security/7-ways-ai-will-both-help-and-complicate-cybersecurity-in-2024.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 58
-  - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
-    excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
-    publishedDateTime: 2024-03-07T05:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974406.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
+      name: ITWire
+      domain: itwire.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2356554/Cognizant_Babak_Hodjat.jpg"
-        width: 376
-        height: 400
+      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
+        width: 600
+        height: 260
         isCached: true
+  - title: "Healthcare Leaders Remain Focused on Cybersecurity and Efficiency"
+    excerpt: "Healthcare CIOs are taking stock of their security ecosystems as they prepare to innovate with emerging technologies."
+    publishedDateTime: 2024-03-06T20:01:00Z
+    webUrl: "https://healthtechmagazine.net/article/2024/03/healthcare-leaders-remain-focused-cybersecurity-and-efficiency"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 34
+  - title: "'Facepalm For Facebook': Meta Outage Highlights Weakness, Declining Cybersecurity Trust"
+    excerpt: "Also Read: ‘Apple At A Crossroads’ Analyst Says: Company Must Step Up On AI Or Get Left Behind Cybersecurity ... reliant on a second device.” Facebook’s outage came on the same day as the publication by research and public relations firm Edelman ..."
+    publishedDateTime: 2024-03-06T10:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/facepalm-for-facebook-meta-outage-highlights-weakness-declining-cybersecurity-trust-1033138417"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "UkxnvWJvylMKqzMKXdme8QbmRDpk71UV3urmmgK9AF9fXOVwYasfNDxa5mPcV/FziOGo7LxhisJdX+0e7scIh0mYFcZ9+HGiFVqGZgStEe2iO1U815E1zw1LwkEZNyuGCVixUjXr9LQLjDZr29SSbuBfegvUHFj3twxefc/H4MAvDh+uPfePKXMqHeMpnnc7TE8EZzE5JCfH4YtQFaadx1HCBpW/4K8xQ2/M7WFyENdAGyqNtAh1jUj5GkWRuW6RuPLlc0aEXnS46KIOfAReBdTcJw+e3sxt1cJlT2KLgYaCsiche7KsQXbDFrE1J0d7pyRJnmdG82xrdhKTFnrN52jCeckLcCEaBspW+6PF7D0=;+/pHi9jnwEpMGbKzwpkUHg=="
 ---

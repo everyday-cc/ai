@@ -32,20 +32,15 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "QNL forum examines ethics, implications of AI in libraries"
+  - title: "QNL Forum Examines Ethics, Implications Of AI In Libraries"
     excerpt: "Doha, Qatar: For the third consecutive year, Qatar National Library has hosted the Libraries Lead Forum 2024, with the latest edition focusing on AI and the role of libraries in ensuring equitable access to information in the digital age. The event ..."
-    publishedDateTime: 2024-03-10T07:31:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/10/03/2024/qnl-forum-examines-ethics-implications-of-ai-in-libraries"
+    publishedDateTime: 2024-03-10T08:30:00Z
+    webUrl: "https://menafn.com/1107957623/QNL-Forum-Examines-Ethics-Implications-Of-AI-In-Libraries"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20240310_1710055806-540.JPG?1710055806"
-        width: 1200
-        height: 801
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "Revolutionizing Industries: The Pervasive Impact of Artificial Intelligence Applications"
     excerpt: "In our modern world, Artificial Intelligence(AI) has become more than just a figment of science fiction. In today's highly evolved technological landscape, AI is a revolutionary technology that has transformed every industry in ways we can only begin to imagine."
     publishedDateTime: 2024-03-05T16:45:00Z
@@ -78,15 +73,6 @@ related:
       name: D Magazine
       domain: dmagazine.com
     quality: 19
-  - title: "Dataloop Marketplace aims to streamline AI application development"
-    excerpt: "Israeli artificial intelligence dataset startup Dataloop Ltd. today announced the launch of a marketplace designed to enhance AI development processes and slash time to market. The Dataloop Marketplace includes an extensive array of tools and resources ..."
-    publishedDateTime: 2024-03-05T14:00:00Z
-    webUrl: "https://siliconangle.com/2024/03/05/dataloop-marketplace-aims-streamline-ai-application-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "kPG3ILYDhJZYVX9dWHZOK7J1kkzNfb5CiFuomrL0g/euhNCECUi73jZmpHqsY06taZyLbqfdO6w5QPJA98E/isoL5Dp09yHdKZ6K7hvtjX4ac7l6b/Z34XeSs6tBMjehJssOLEfmH9CFYe1zWOwnzYkeJFep5WwYdX9uCJbXWIWFc8CvJjm7THcN+woyL3dYSWaj/6CI1ajLWQqYljqJHgFRYnLm9VMBFsN/zW6YZTgdZ5ntTz2X2ERXsKpOeusjTI0J5AeFSVBWMvlQ7bUofTqRG6FW1fPBt1lpY0EIxmgJr0cFhGLcF3nXMdwdgdQyhy7XiIyFMQJBD4vNymvmy9K6CgsbfeH86Bx44SEdc0M=;XPChKoEb3d3MQebFItOs6Q=="
 ---
