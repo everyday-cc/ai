@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intellig
 ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 type: article
-quality: 69
-heat: 129
+quality: 71
+heat: 131
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - Machine Learning
   - IBM AI
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"

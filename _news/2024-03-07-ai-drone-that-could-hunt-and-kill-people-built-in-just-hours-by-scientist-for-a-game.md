@@ -7,7 +7,7 @@ originalUrl: "https://www.livescience.com/technology/engineering/ai-drone-that-c
 webUrl: "https://www.livescience.com/technology/engineering/ai-drone-that-could-hunt-and-kill-people-built-in-just-hours-by-scientist-for-a-game"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists Show How Easy It Is To Create AI Drones That Can Hunt And Kill People"
+    excerpt: "Luis Wenus, an entrepreneur and engineer, wanted to see if he could configure a small, commercially available drone to use artificial intelligence to"
+    publishedDateTime: 2024-03-08T15:36:00Z
+    webUrl: "https://brobible.com/sports/article/scientists-create-ai-drones-hunt-kill-people/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 34
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2024/03/Pilot-running-drone.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "It only took this scientist a few hours to build a terrifying AI drone that can hunt and kill people"
     excerpt: "A couple of engineers say it only took them hours to build a terrifying AI attack drone that could target people and recognize faces."
     publishedDateTime: 2024-03-08T19:05:00Z

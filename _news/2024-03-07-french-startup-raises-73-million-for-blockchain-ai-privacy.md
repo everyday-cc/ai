@@ -38,34 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NPCI and IISc Collaborate on Blockchain and AI Research"
-    excerpt: "The collaboration aims to harness the immense potential of deep technologies like blockchain and AI to enhance the landscape of digital ... blockchain platforms and multi-modal analytics over fintech data. Faculty members from five departments at IISc ..."
-    publishedDateTime: 2024-03-06T10:05:00Z
-    webUrl: "https://www.siliconindia.com/news/general/npci-and-iisc-collaborate-on-blockchain-and-ai-research-nid-228285-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/StVYZKgl.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "NPCI, IISc join hands to conduct joint research on blockchain, AI"
-    excerpt: "National Payments Corporation of India (NPCI) on Wednesday announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru,"
-    publishedDateTime: 2024-03-06T10:22:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/npci-iisc-join-hands-to-conduct-joint-research-on-blockchain-ai-863015"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 39
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2024/03/06/1427979-npci.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
     excerpt: "The collaboration includes the establishment of NPCI-IISc Centre of Excellence for Deep Tech Research & Development. It focuses on scalable blockchain platforms, multi-modal analytics, neural networks,"
     publishedDateTime: 2024-03-07T05:27:00Z

@@ -33,6 +33,20 @@ related:
         width: 822
         height: 822
         isCached: true
+  - title: "Nvidia Blackwell GPU rumours"
+    excerpt: "Expect the unexpected The dark satanic rumour mill has manufactured a hell-on-earth yarn about Nvidia’s next-gen GeForce RTX 50 \"Blackwell\" GPUs. Tipster Kopite7kimi  suggests the Nvidia GeForce RTX 50 \"Blackwell\" B200 Gaming GPUs will start with the flagship GB202 and"
+    publishedDateTime: 2024-03-11T10:00:00Z
+    webUrl: "https://www.fudzilla.com/news/graphics/58609-nvidia-blackwell-gpu-rumours"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/898eab330671270b0ae41b389101ff05_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "Lu7wm4fo+8Mgi8Y9Kjz39PypEh/P2yulYr+sOoScQbpwbdJJ08E3xM1EIbnNXdOgHRc7qC3qBVHXyVVnsQz9EYJt0FK3bUVrWlGi4djIIFHytCLsuQeJNynYflGXIVE5Z0c8Lfiyt94kKqhKVb9RXIq4aH3Zl/frGO0tlq4MQm/nLtm4/v6V4QRZhvsv5dRePfsUwXcEcY0Oty3ODLLjaDke0ifO66t9CbWvmvA+MXYFuN+OPcN69e4/inviwxBEdb50TNMxZ1xNH43LJtDJpwRFDPE6C6ZTv+zdDqiAsXk6exnTm/pNr42xcv9EtsHD6IlZnYKJIo5XeapwefKl4S5ARdKhCElMNOo6t+7TCl/r9PZ6F9omRXiIPnqeu5NvtQZy6QqjqMtP4RrVbZDhsYg3HrX5giNx6T2NZQJwCb+g3UFs23fNlbSxFvt9SXli0teYL+rAaIwEHOc0ZjfJOf7IZ+z4mX63N40Sp+oiVwIDO4l4auQbV6KlrZmjK+QilNB4Ju3PkhdgHIoIXGPbFw==;lEFtHUmzVmgL3bcGqSBUQQ=="
 ---

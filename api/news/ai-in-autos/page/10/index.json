@@ -2,6 +2,214 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-05-member-panel-artificial-intelligence.md",
+      "title": "Member Panel: Artificial Intelligence",
+      "excerpt": "Hear from three members whose companies were using artificial intelligence long before 2023 about how they're making the most of the breakthrough technology in the year ahead. Got a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/12/04/member-panel-artificial-intelligence.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/12/04/member-panel-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T21:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-unveiling-the-future-south-koreas-artificial-intelligence-market-2024-2032.md",
+      "title": "Unveiling the Future: South Korea's Artificial Intelligence Market (2024-2032)",
+      "excerpt": "\"South Korea artificial intelligence market 2024-2032\"The South Korea artificial intelligence market size reached a staggering USD 1,011.04 million in 2023, signaling a new era of technological advanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/12/ab36079153/unveiling-the-future-south-koreas-artificial-intelligence-market-2024-2032",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/12/ab36079153/unveiling-the-future-south-koreas-artificial-intelligence-market-2024-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36079153",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36079153",
+      "publishedDateTime": "2023-12-04T20:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-artificial-intelligence-in-teaching-and-learning.md",
+      "title": "Artificial intelligence in teaching and learning",
+      "excerpt": "UD leads the conversation about AI in the context of teaching and learning with an interdisciplinary UD working group and other initiatives",
+      "sourceUrl": null,
+      "webUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
+      "originalUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-ai-teaching-learning-working-group-800x420.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Delaware",
+        "domain": "udel.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-can-you-text-while-your-self-driving-car-is-doing-the-driving-what-florida-law-says.md",
+      "title": "Can you text while your self-driving car is doing the driving? What Florida law says",
+      "excerpt": "You can text away while leaving the driving to your Tesla or other self-driving car. Florida law says that a driver whose car has an “automated driving system engaged” won’t be punished for using the phone behind the wheel ( (in other words, if the car is driving and not you).",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
+      "originalUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/traffic/article282641868.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/traffic/article282641868.html",
+      "publishedDateTime": "2023-12-04T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-artificial-intelligence-ai-what-it-is-and-how-it-is-used.md",
+      "title": "Artificial Intelligence (AI): What It Is and How It Is Used",
+      "excerpt": "Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
+      "originalUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investopedia.com/thmb/4K3hIci9bUF3521OUjC-cCG3NpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg",
+          "width": 1500,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-letter-artificial-intelligence-can-be-a-useful-workforce-tool.md",
       "title": "Letter: Artificial intelligence can be a useful workforce tool",
       "excerpt": "It seems every time I read new research about the impact of artificial intelligence on the UK labour market I come across a new threat to another set of occupations. This time (“City workers ...",
@@ -1078,221 +1286,6 @@
         "name": "Carscoops",
         "domain": "carscoops.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-artificial-intelligence-in-entertainment-among-hot-topics-at-focus-2023.md",
-      "title": "Artificial Intelligence in Entertainment Among Hot Topics at Focus 2023",
-      "excerpt": "A prominent topic in this year’s conference program is artificial intelligence. Three sessions will focus on the subject of AI: “The Write Approach: How Can AI and Humans Hold Hands,” “AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/",
-      "originalUrl": "https://variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2023/05/Napoleon-Movie.jpg?w=1000&h=563&crop=1",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/amp/",
-      "publishedDateTime": "2023-11-24T13:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-the-rise-of-artificial-intelligence-ai-in-online-casinos.md",
-      "title": "The rise of Artificial Intelligence (AI) in Online casinos",
-      "excerpt": "Online casinos, and even physical gambling establishments, are an example of one of the many industries that have benefited greatly from artificial intelligence (AI); from in the form of customized AI dealers to improved and sophisticated customer service bots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/",
-      "originalUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1",
-      "cdnAmpWebUrl": "https://www-chiangraitimes-com.cdn.ampproject.org/c/s/www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1",
-      "publishedDateTime": "2023-11-24T09:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chiangrai Times",
-        "domain": "chiangraitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-driverless-cars-immune-from-traffic-tickets-in-california-under-current-laws.md",
-      "title": "Driverless cars immune from traffic tickets in California under current laws",
-      "excerpt": "“I think all of us are still struggling to understand whether [driverless cars] really are ... agency purely focused on driverless cars and artificial intelligence. “Like when we got the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/",
-      "originalUrl": "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1",
-      "publishedDateTime": "2023-11-24T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Los Angeles",
-        "domain": "nbclosangeles.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-gms-cruise-imploded-but-risked-more-than-waymo-or-tesla-says-ark-analyst-musk-promises-fsd-that-will-far-exceed-human-safety.md",
-      "title": "GM's Cruise 'Imploded' But Risked More Than Waymo Or Tesla, Says Ark Analyst — Musk Promises FSD That Will 'Far Exceed Human Safety'",
-      "excerpt": "“Waymo still looks better than the average ... Elon Musk (@elonmusk) November 23, 2023 Early in July, at the 2023 World Artificial Intelligence Conference, Musk said that Tesla is \"very close ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35929043/gms-cruise-imploded-but-risked-more-than-waymo-or-tesla-says-ark-analyst-musk-promi",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35929043/gms-cruise-imploded-but-risked-more-than-waymo-or-tesla-says-ark-analyst-musk-promi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Cockpit-Of-Autonomous-Car--Self-Driving-.jpeg?width=1200&height=800&fit=crop",
-          "width": 902,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35929043",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35929043",
-      "publishedDateTime": "2023-11-23T09:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-why-ponyais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock.md",
-      "title": "Why Pony.ai’s Autonomous Driving Progress Is Bad for Tesla (TSLA) Stock",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The future of autonomous driving (AD) is quickly taking shape. Pony.ai, one of",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/why-pony-ais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock-1032843921",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-pony-ais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock-1032843921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T18:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

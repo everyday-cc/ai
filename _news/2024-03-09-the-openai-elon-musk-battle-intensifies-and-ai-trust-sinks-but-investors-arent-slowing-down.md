@@ -44,6 +44,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 31
+  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
+    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
+    publishedDateTime: 2024-03-11T11:09:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "/lfTEkB+h1Uqvbl1X2HYM6RvQ622fXFwH9IJR68zvgTM/Dd9Eq/BOYVqfoQGSyt5j/Z/0GS50LbJHVmRO18gatKHu3pQwSLxRxjepOVGFA9E+6+EMsCeStcXrkem0QapJ7xjCEgILCuodprU3xFtmXZclvQ9mdPG/aXyQqYZgA3/1MrbvgTmASOfO8I2oEvB5EicjcvreHcEW5zWT0kKxQ790Qs1qpqXXn6Zs3bfE2i1qeOZWgwNqe8LPOTlXbjHTkhXarUxFxvtVIUfzyssQNsZ3hq2RIRLcZDIr9/1JUtMbJXhioXBH1k9Ae/BKyPz4f+KbLNPHb4BDCeElhXj1JVNPVwBLQhZzB2bC/RNN1s=;ozOnVRgIlaYE537q97Fjng=="
 ---

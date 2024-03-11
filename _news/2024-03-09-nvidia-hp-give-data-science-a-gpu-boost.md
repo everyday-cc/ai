@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Blackwell GPU rumours"
+    excerpt: "Expect the unexpected The dark satanic rumour mill has manufactured a hell-on-earth yarn about Nvidia’s next-gen GeForce RTX 50 \"Blackwell\" GPUs. Tipster Kopite7kimi  suggests the Nvidia GeForce RTX 50 \"Blackwell\" B200 Gaming GPUs will start with the flagship GB202 and"
+    publishedDateTime: 2024-03-11T10:00:00Z
+    webUrl: "https://www.fudzilla.com/news/graphics/58609-nvidia-blackwell-gpu-rumours"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/898eab330671270b0ae41b389101ff05_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Vultr Expands Cloud Nvidia H100 GPU Capacity"
     excerpt: "provides us with a foundation to scale cloud compute and NVIDIA GPU capacity by utilizing renewable energy sources efficiently. As part of Vultr’s commitment to providing large-scale AI training and inference cloud computing clusters worldwide ..."
     publishedDateTime: 2024-03-07T00:00:00Z

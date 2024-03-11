@@ -57,15 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Focus: US officials face tough choices for subsidizing AI chip manufacturing"
-    excerpt: "U.S. officials have earmarked close to $30 billion in subsidies for advanced semiconductor manufacturing, aiming to bring cutting-edge artificial-intelligence chip development and manufacturing to American soil."
-    publishedDateTime: 2024-03-06T11:02:00Z
-    webUrl: "https://www.reuters.com/world/us/us-officials-face-tough-choices-subsidizing-ai-chip-manufacturing-2024-03-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 61
   - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
     excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
     publishedDateTime: 2024-03-11T04:27:00Z

@@ -2,6 +2,221 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-09-fcc-bans-ai-generated-voices-in-robocalls.md",
+      "title": "FCC bans AI-generated voices in robocalls",
+      "excerpt": "The Federal Communications Commission (FCC) banned the use of artificial intelligence (AI) generated voices in robocalls on Thursday just weeks after a message imitating President Biden went out ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "originalUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "publishedDateTime": "2024-02-08T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-elon-musks-brother-kimbal-is-not-as-optimistic-about-teslas-full-self-driving.md",
+      "title": "Elon Musk’s brother Kimbal is not as optimistic about Tesla’s Full Self-Driving",
+      "excerpt": "Elon Musk’s brother Kimbal, who is also a board member at Tesla, is not as optimistic as his brother about Tesla delivering ‘Full Self-Driving’. He says: “maybe 5 years”. Virtually every year for the past five years, Tesla CEO Elon Musk has said that the company will achieve full self-driving capability by the end of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
+      "originalUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Kimbal-Musk-self-driving-Tesla.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-global-bot-services-market-thrives-with-us-12-billion-in-2021-poised-for-18-growth-by-2032.md",
+      "title": "Global Bot Services Market Thrives with US$ 1.2 Billion in 2021, Poised for 18% Growth by 2032",
+      "excerpt": "The global bot services market stands at US$ 1.6 Bn at present and is expected to reach US$ 18 Bn by the year 2032 at a whopping CAGR of 27.1% between 2022 and 2032. The e-Commerce and BFSI sectors are more into usage of chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2024/02/08/bot-services-market-outlook/",
+      "originalUrl": "https://www.fmiblog.com/2024/02/08/bot-services-market-outlook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T13:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-1-artificial-intelligence-ai-growth-stock-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street.md",
+      "title": "1 Artificial Intelligence (AI) Growth Stock With More Upside Than Nvidia to Buy Now, According to Wall Street",
+      "excerpt": "Some analysts have called artificial intelligence (AI) the fourth industrial revolution, citing its potential to improve productivity and efficiency with predictive insights and automation. Similar to the third industrial revolution -- which was driven by digital technologies like the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL/pressreleases/23926494/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/8e7684296fe079a184271a11ff614dad/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764162%252falphabet-revenue-wheel.png%26amp%3Bw%3D700",
+          "width": 3512,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn.md",
+      "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
+      "excerpt": "But, as The New York Times asks, are people legitimately attempting to use the headset while driving, or is it all a stunt? \"Several of the videos taken in cars appear staged, and in many, it is clear that someone other than the driver is recording,\" writes Jesus Jiménez for The New York Times. \"The videos are not widespread.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
+      "originalUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T19:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-researchers-predict-more-autonomous-vehicles-by-2030-better-adas-tech-needed.md",
       "title": "Researchers predict more autonomous vehicles by 2030, better ADAS tech needed",
       "excerpt": "ABI Research has reviewed the current state of autonomous driving technology within the automotive industry in conjunction with artificial intelligence (AI), high-performance computing, mapping,",
@@ -1051,223 +1266,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-alphabet-shares-slide-on-disappointing-google-ad-revenue.md",
-      "title": "Alphabet shares slide on disappointing Google ad revenue",
-      "excerpt": "Alphabet said that, due to the workforce reductions last year, the company recorded severance and related charges of $2.1 billion for 2023. Additionally, Google exited some of its offices, resulting in charges of $1.2 billion for the quarter and $1.8 billion for the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107325514-1698681177311-AP23303506550300.jpg?v=1698681233",
-          "width": 6000,
-          "height": 4001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
-      "publishedDateTime": "2024-01-30T20:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-artificial-intelligence-is-it-a-tool-a-threat-or-an-artform.md",
-      "title": "Artificial Intelligence: Is it a tool, a threat or an artform?",
-      "excerpt": "MINNEAPOLIS — Artificial Intelligence is coming at us fast and furious. It's on our phones, it's in our classrooms, and it's changing businesses and lives. There is little that isn't or won't be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "originalUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kare11.com/assets/KARE/images/31c8ab27-2bf5-472d-a218-33a5964005dc/31c8ab27-2bf5-472d-a218-33a5964005dc_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "publishedDateTime": "2024-01-30T14:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KARE 11",
-        "domain": "kare11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-utilizing-active-microparticles-for-artificial-intelligence.md",
-      "title": "Utilizing active microparticles for artificial intelligence",
-      "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240129122349.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240129122349.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
-      "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
-      "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "publishedDateTime": "2024-01-27T09:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-baidus-ernie-ai-chatbot-to-power-samsungs-new-galaxy-s24-smartphones.md",
-      "title": "Baidu's Ernie AI chatbot to power Samsung's new Galaxy S24 smartphones",
-      "excerpt": "Chinese tech giant Baidu will partner Samsung to integrate its Ernie chatbot capabilities into Galaxy S24 smartphones. The collaboration will equip Samsung's latest Galaxy S24 smartphone series ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/26/baidus-ernie-ai-chatbot-to-power-samsungs-new-galaxy-s24-smartphones.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/26/baidus-ernie-ai-chatbot-to-power-samsungs-new-galaxy-s24-smartphones.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T09:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

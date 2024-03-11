@@ -38,7 +38,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
         width: 1200
@@ -105,6 +105,6 @@ related:
       domain: slator.com
     quality: 4
 
-secured: "x5yyvLepPa7CZHXpObQRzzg4M74XWUd2gRTZ4eyN7DrZWbQjwdHGFOmzBrmqDR5zEtI3tNKcGsXdK5fl3oUPyIlh3rvxH//jUHSZ6vMWvRJTBZNCN3F4p9fdOpGMh8f3rrVoRde/M0KJOc4W8mr2Phu9HxLfu56EclwtsXH04vo6+L8e0H8xX7i+TT8CSpMaD+rGvTGuM/io9dGowMhDvetU/L/O9jAmAbgHaZO1jYQ9XzxVsr54cG660bLfnmsNtE7001peV6j37sMyFPvYBRtErJgaTFtVDjxLbzvtWZ6WCj8xXPjiA+plcrVN2Ftk25U7i1Wu4xVPNEA0f8PMlq3bid8ssFan+PXDqR8ePZ0=;uGE2PrsXPvFgjnomMaMwZA=="
+secured: "53XB2kdsDEVc0OHnMEbDi8nLA/hy+g1oqWP/eASk87Ob7SQGSFrgwsIsoGx62PaiiFrGjmpsoBR9lPGeu0t3v2+ljOMd8gTTmv4W4OKRXm8iL5LvUgdzT3nM2loKBc5nzrNlIz2nNpiQsuT3QJ+fDRZ28z3ETO9fX+llvXKYQ7J5O4VG9+fIXE/mHis1hv6s7Bj2lxXWuft4CV1OE2HLBU6R1D/LibwoKysyt21u26zFMNEyzGE3ZI35MTa3c1gIR3IMAaKvAeje1Z3VrAKrl4DXgiFXT2qOTMinc5lKlRY2rnNuypDKXyjVftfIDxsVY292ckDbvcTc+n6E9KYhB/EzDkfZsLPYvN07r/5z/c2rID7fjSMHPhf1xF9a1k59/gsNvNN4Ubv1b4owmg0QqLK39VHJc09Wn0iSrB7sF6dr3rAgcIqo9ssy9e064z0b2JG6JO4SA4As8vVHHW05Mo/fhqAQcPPvLACeaP52Rm99M8quOT14Y3XlrS2NSBMnQEZ06uNjbtvDElMSvTjK/w==;Khv7JZc2CmtHu7QPzi60sw=="
 ---
 

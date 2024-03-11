@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1705316992/image_1705316992.jpg?io=getty-c-w1536"

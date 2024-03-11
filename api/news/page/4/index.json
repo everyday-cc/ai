@@ -2,6 +2,204 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-06-ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies.md",
+      "title": "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies",
+      "excerpt": "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T15:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-ai-predicts-immunotherapy-risks-for-cancer-patients.md",
+      "title": "AI Predicts Immunotherapy Risks for Cancer Patients",
+      "excerpt": "Globally by 2050, the number of cancer cases globally is projected to increase by 77% to more than 35 million compared to 20 million in 2022 according to 2024 estimates by the Wor",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-03/pic15616.jpg?itok=-TlLNcIr",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
+      "publishedDateTime": "2024-03-06T15:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation.md",
+      "title": "AI In Hospitality: Elevating The Hotel Guest Experience Through Innovation",
+      "excerpt": "In an industry where personalized experience is key, AI offers a myriad of opportunities to enhance guest satisfaction and streamline operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e6acbe7f26240238ff9c04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-ai-tools-are-still-generating-misleading-election-images.md",
+      "title": "AI Tools Are Still Generating Misleading Election Images",
+      "excerpt": "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/genai-images-election-fraud/",
+      "originalUrl": "https://www.wired.com/story/genai-images-election-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-the-dark-side-of-open-source-ai-image-generators.md",
       "title": "The Dark Side of Open Source AI Image Generators",
       "excerpt": "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn.",
@@ -385,6 +583,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-watad-energy-communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia.md",
+      "title": "Watad Energy & Communications Unveils \"Mulhem,\" First Locally Trained Arabic-Language Large Language Model in Saudi Arabia",
+      "excerpt": "In a significant development for the Arabic-speaking AI sector, Watad Energy & Communications today announced the launch of \"Mulhem,\" the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2355087/Watad.jpg?p=facebook",
+          "width": 1599,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
       "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
       "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
@@ -530,6 +771,49 @@
       ],
       "topics": [
         "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-type-1-diabetes-from-the-dream-of-automated-insulin-delivery-to-a-fully-artificial-pancreas.md",
+      "title": "Type 1 diabetes: from the dream of automated insulin delivery to a fully artificial pancreas",
+      "excerpt": "Automated insulin delivery systems have transformed the care of people living with type 1 diabetes and continue to move closer to the ultimate goal of a fully autonomous artificial pancreas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41591-024-00013-5",
+      "originalUrl": "https://www.nature.com/articles/d41591-024-00013-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41591-024-00013-5/d41591-024-00013-5_26818890.png",
+          "width": 938,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -739,6 +1023,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-the-impact-of-artificial-intelligence-on-our-encounters.md",
+      "title": "The Impact of Artificial Intelligence on Our Encounters",
+      "excerpt": "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
+      "publishedDateTime": "2024-03-05T17:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-whats-new-in-azure-data-ai-and-digital-applications-data-operates-as-the-currency-of-ai.md",
       "title": "What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI",
       "excerpt": "This month, like every month, I’m sharing a few of the latest updates and resources to help reinforce how Azure can fuel your innovation through data, AI, and digital application solutions.\nThe post What’s new in Azure Data, AI, and Digital Applications: Data operates as the currency of AI appeared first",
@@ -884,361 +1211,6 @@
         "Meta AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy.md",
-      "title": "Tackle large volumes of data with new solution from SLB for Azure Data Manager for Energy",
-      "excerpt": "The Microsoft partner ecosystem is a key component in how Microsoft delivers technology, services, and cloud-to-edge solutions for our customers. SLB—one of Microsoft’s strategic partners in the energy sector—designed the Enterprise Data Solution to work seamlessly with Azure Data Manager for Energy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/Getty_1260_Energy.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-5-ways-leaders-can-win-hearts-and-minds-and-drive-resultswith-ai.md",
-      "title": "5 Ways Leaders Can Win Hearts And Minds, And Drive Results—With AI",
-      "excerpt": "Imagine a technology tool that helps you understand your team better and personalize interactions for maximum impact. Welcome to the world of AI-powered people leadership",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3af767f50d19ebe29fa28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-a-practical-guide-for-using-generative-ai-in-account-based-marketing.md",
-      "title": "A Practical Guide For Using Generative AI In Account-Based Marketing",
-      "excerpt": "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5db42c2c694a887568254/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-focused-blockchain-startup-io-research-raises-30-mln-in-series-a-funding-round.md",
-      "title": "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round",
-      "excerpt": "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
-      "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg",
-          "width": 6285,
-          "height": 4190,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road.md",
-      "title": "Autonomous auto racing promises safer driverless cars on the road",
-      "excerpt": "Race car driving provides a venue for improving AI-based autonomous driving tech. But can it still be thrilling for drivers and spectators?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road",
-      "originalUrl": "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-5.jpg&signature=80383c64728c7c8b54efff34effb35e9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T14:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper.md",
-      "title": "Competition in AI video generation heats up as DeepMind alums unveil Haiper",
-      "excerpt": "Two DeepMind alums, Yishu Miao and Ziyu Wang, have publicly released their video-generation tool Haiper with its own AI model underneath. Miao, who was previously working at TikTok in the Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/",
-      "originalUrl": "https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/Haiper-Image.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/amp/",
-      "publishedDateTime": "2024-03-05T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
-      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
-      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "publishedDateTime": "2024-03-05T13:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando",
-        "domain": "orlandomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

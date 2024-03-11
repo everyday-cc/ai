@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techreport.com/wp-content/uploads/2024/02/victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg?_t=1709033265"

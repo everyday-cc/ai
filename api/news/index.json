@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-11-how-the-telecom-industry-can-accelerate-growth-from-generative-ai.md",
+      "title": "How The Telecom Industry Can Accelerate Growth From Generative AI",
+      "excerpt": "This article focuses on how the telecom industry can accelerate growth from generative AI and provides use cases relevant to the telco industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-telecom-industry-can-accelerate-growth-from-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-telecom-industry-can-accelerate-growth-from-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65eeea8b74594bca5ee3fccb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T11:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-musk-says-ai-start-up-will-open-source-chatbot-grok.md",
+      "title": "Musk says AI start up will open-source chatbot Grok",
+      "excerpt": "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach.",
+      "sourceUrl": null,
+      "webUrl": "https://ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555",
+      "originalUrl": "https://ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1",
+      "cdnAmpWebUrl": "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1",
+      "publishedDateTime": "2024-03-11T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.md",
       "title": "Nvidia is sued by authors over AI use of copyrighted works",
       "excerpt": "2024 shows a US multinational Nvidia's graphic processing unit (GPU). Nvidia, whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform. Brian Keene ...",
@@ -10,7 +103,7 @@
       "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -173,7 +266,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -209,7 +302,8 @@
         "Natural Language Processing",
         "Microsoft AI",
         "Machine Learning",
-        "IBM AI"
+        "IBM AI",
+        "AI in Finance"
       ]
     },
     {
@@ -472,6 +566,59 @@
       ]
     },
     {
+      "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
+      "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
+      "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
+      "originalUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/40efcc3/2147483647/strip/true/crop/2700x1418+0+191/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6c%2F55%2F03e86bae4e8497ce6d4a928cdc7a%2Finterim-front.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-best-ai-tools-to-enhance-your-social-media-account.md",
       "title": "Best AI Tools To Enhance Your Social Media Account",
       "excerpt": "These artificial intelligence (AI) solutions enable organizations to prosper in the digital sphere by using technology such as computer vision, machine learning algorithms, natural language processing (NLP), and natural language creation. It is thus ...",
@@ -575,7 +722,7 @@
       "originalUrl": "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1033,161 +1180,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-5g-use-cases-that-are-transforming-the-world.md",
-      "title": "5G use cases that are transforming the world",
-      "excerpt": "A look at the applications and use cases that 5G is enabling to transform the world.\nThe post 5G use cases that are transforming the world appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/5g-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/5g-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/ma74481_blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T15:41:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-the-power-and-peril-of-ai-in-digital-health.md",
-      "title": "The Power (And Peril) Of AI In Digital Health",
-      "excerpt": "Artificial intelligence technologies are rapidly being adopted into all facets of society, and digital health is no exception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9f2643e62634b0affa493/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
-      "publishedDateTime": "2024-03-08T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence.md",
-      "title": "The AI Takeover In Cinema: How Movie Studios Use Artificial Intelligence",
-      "excerpt": "The film industry, always at the forefront of technological innovation, is increasingly embracing artificial intelligence (AI) to revolutionize movie production, distribution, and marketing. From script analysis to post-production,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e92d973e62634b0affa472/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

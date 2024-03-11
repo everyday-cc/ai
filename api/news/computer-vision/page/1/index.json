@@ -53,7 +53,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -89,7 +89,8 @@
         "Natural Language Processing",
         "Microsoft AI",
         "Machine Learning",
-        "IBM AI"
+        "IBM AI",
+        "AI in Finance"
       ]
     },
     {
@@ -142,6 +143,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
+      "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
+      "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
+      "originalUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/40efcc3/2147483647/strip/true/crop/2700x1418+0+191/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6c%2F55%2F03e86bae4e8497ce6d4a928cdc7a%2Finterim-front.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -325,6 +379,40 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-house-session-part-1.md",
+      "title": "House Session, Part 1",
+      "excerpt": "2024-03-05T13:59:54-05:00https://ximage.c-spanvideo.org ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?533998-2/house-session-part-1#!",
+      "originalUrl": "https://www.c-span.org/video/?533998-2/house-session-part-1#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1303,92 +1391,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-facial-recognition-software-of-all-things-played-a-role-in-this-guys-latest-arrest.md",
-      "title": "Facial recognition software, of all things, played a role in this guy's latest arrest",
-      "excerpt": "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders at the store with pictures from his driver’s license.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "originalUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abcnews4.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "cdnAmpWebUrl": "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "publishedDateTime": "2024-02-20T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abcnews4",
-        "domain": "abcnews4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far.md",
-      "title": "The revolution that wasn’t: How AI drones have fizzled in Ukraine (so far)",
-      "excerpt": "Last fall, both Russia and Ukraine boasted of fielding drones that tracked targets using AI algorithms. Now new expert analysis suggests that neither side got it to work well enough for war — but the US and China might.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/",
-      "originalUrl": "https://breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2024/02/ukraine-drone-operators-scaled-e1708097134246.jpg",
-          "width": 2560,
-          "height": 1442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/?amp=1",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/02/the-revolution-that-wasnt-how-ai-drones-have-fizzled-in-ukraine-so-far/?amp=1",
-      "publishedDateTime": "2024-02-20T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

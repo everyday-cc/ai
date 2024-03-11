@@ -2,6 +2,866 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2024-02-16-university-of-michigan-says-its-not-selling-student-data-to-ai-companies.md",
+      "title": "University of Michigan Says It's Not Selling Student Data to AI Companies",
+      "excerpt": "An employee at Google DeepMind, the company’s AI research hub, said they’d gotten an offer for recordings of lectures, student discussions, and office hours, as well as essays written by ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/university-of-michigan-sell-student-data-ai-companies-1851261663",
+      "originalUrl": "https://gizmodo.com/university-of-michigan-sell-student-data-ai-companies-1851261663",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ad126dac919b3f4b43d70afe6f4c41c.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T17:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
+      "title": "Hartford Healthcare launches new AI center to help with operations",
+      "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WTIC/images/a8f77546-f60e-4fdd-9688-7514cc5133aa/a8f77546-f60e-4fdd-9688-7514cc5133aa_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "cdnAmpWebUrl": "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "publishedDateTime": "2024-02-15T17:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox61",
+        "domain": "fox61.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai.md",
+      "title": "Google’s new AI hub in Paris proves that Google feels insecure about AI",
+      "excerpt": "Some of Azure’s products are focused on AI, but it’s a much larger cloud provider with clients that have nothing to do with the AI industry. So it’s not just a Google thing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/APPROVED_NZ7_0176.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "publishedDateTime": "2024-02-15T17:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-unveiling-the-transformative-ai-technology-behind-watsonx-orders.md",
+      "title": "Unveiling the transformative AI technology behind watsonx Orders",
+      "excerpt": "With IBM® watsonx™ Orders, we have created an AI-powered voice agent to take drive-thru orders without human intervention.\nThe post Unveiling the transformative AI technology behind watsonx Orders appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "originalUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T17:10:28Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-reliable-robotics-autopilot-tech-earns-faa-nod.md",
+      "title": "Reliable Robotics Autopilot Tech Earns FAA Nod",
+      "excerpt": "The FAA has accepted the requirements for Reliable Robotics' advanced aircraft navigation and autopilot systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ainonline.com/aviation-news/air-transport/2024-02-15/reliable-robotics-autopilot-tech-earns-faa-nod",
+      "originalUrl": "https://www.ainonline.com/aviation-news/air-transport/2024-02-15/reliable-robotics-autopilot-tech-earns-faa-nod",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/2024-02/businesswire_reliable.jpeg",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ainonline.com",
+        "domain": "ainonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions.md",
+      "title": "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions",
+      "excerpt": "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T16:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-ai-chip-tags-can-fight-espionage-from-hostile-states-report-says.md",
+      "title": "AI chip tags can fight espionage from hostile states, report says",
+      "excerpt": "A new report from Cambridge University warns that AI regulators are overlooking hardware. They advise a firm focus on AI chips",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
+      "originalUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-7.jpg&signature=ed5fd8439b7f9bad42f23c6236f0987a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T16:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-climate-change-examples.md",
+      "title": "Climate change examples",
+      "excerpt": "A wide range of organizations from the public and private sector are working on climate actions to address the causes of climate change. \nThe post Climate change examples appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/climate-change-examples/",
+      "originalUrl": "https://www.ibm.com/blog/climate-change-examples/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:53:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-apple-vision-pro-users-return-35k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session.md",
+      "title": "Apple Vision Pro users return $3.5K headsets, say they cause extreme headaches, motion sickness: ‘Like a torture session’",
+      "excerpt": "“Vision Pro is a new kind of computer that augments reality by seamlessly blending the real world with the digital world,” Cook stated. “It’s the first Apple product you look through and ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/15/tech/apple-vision-pro-users-return-3-5k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session/",
+      "originalUrl": "https://nypost.com/2024/02/15/tech/apple-vision-pro-users-return-3-5k-headsets-say-they-cause-extreme-headaches-motion-sickness-like-a-torture-session/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-senate-finance-committee-holds-hearing-on-use-of-ai-in-healthcare.md",
+      "title": "Senate Finance Committee Holds Hearing on Use of AI in Healthcare",
+      "excerpt": "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "originalUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American College of Radiology",
+        "domain": "acr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
+      "title": "Our next-generation model: Gemini 1.5",
+      "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/",
+      "publishedDateTime": "2024-02-15T15:00:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it.md",
+      "title": "Google Teases an Even Better Version of Gemini, but You'll Have to Wait for It",
+      "excerpt": "Another day, another generative AI update. Google's AI subsidiary DeepMind has previewed Gemini 1.5 Pro, an upgraded model of Google's renamed Bard chatbot Gemini. Gemini got its new name less ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it/",
+      "originalUrl": "https://www.cnet.com/tech/google-teases-an-even-better-version-of-gemini-but-youll-have-to-wait-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/924ed5edfc0de9024ee6b4fb678edf3e7fe11a2a/hub/2024/02/15/f4c76374-3c54-4d63-a604-ef22b304b495/gettyimages-2004540056.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-responsible-technology-use-in-the-ai-age.md",
+      "title": "Responsible technology use in the AI age",
+      "excerpt": "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/",
+      "originalUrl": "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/02/Thoughtworks_image_2_1200x630px.jpg?w=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/",
+      "publishedDateTime": "2024-02-15T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-the-2024-buyers-guide-to-industrial-generative-ai.md",
+      "title": "The 2024 Buyer’s Guide To Industrial Generative AI",
+      "excerpt": "Christopher Savoie, PhD, is the CEO & founder of Zapata AI. He is a published scholar in medicine, biochemistry and computer science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd014ed2449794cb1106a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/amp/",
+      "publishedDateTime": "2024-02-15T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-why-soundhound-ai-stock-jumped-over-50-this-week.md",
+      "title": "Why SoundHound AI Stock Jumped Over 50% This Week",
+      "excerpt": "Nvidia disclosed a $3.7 million stake in the speech recognition developer. The AI chip leader has invested in several companies over the last year. Major restaurant chains are using SoundHound's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/15/why-soundhound-ai-stock-jumped-over-50-this-week/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/15/why-soundhound-ai-stock-jumped-over-50-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/765516/ai-computer-chip.png",
+          "width": 3078,
+          "height": 1730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-6-ways-to-elevate-the-salesforce-experience-for-your-users.md",
+      "title": "6 Ways to elevate the Salesforce experience for your users",
+      "excerpt": "In this article, explore six ways you can elevate your Salesforce experience for customers, partners and employees.\nThe post 6 Ways to elevate the Salesforce experience for your users appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
+      "originalUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-how-to-achieve-kubernetes-observability-principles-and-best-practices.md",
+      "title": "How to achieve Kubernetes observability: Principles and best practices",
+      "excerpt": "Learn how Kubernetes observability works, and how organizations can use it to optimize cloud-native IT architectures.\nThe post How to achieve Kubernetes observability: Principles and best practices appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/kubernetes-observability/",
+      "originalUrl": "https://www.ibm.com/blog/kubernetes-observability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-the-top-esg-trends-in-2024.md",
+      "title": "The top ESG trends in 2024",
+      "excerpt": "Learn four trends that have been taking shape as of late, and what they may mean for your business in the near future.\nThe post The top ESG trends in 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
+      "originalUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup.md",
+      "title": "Jeffrey Katzenberg, Joe Montana Firms Back AI Marketing Startup",
+      "excerpt": "Alembic Technologies Inc., a startup that uses artificial intelligence to help companies tell whether their marketing campaigns are working, has raised $14 million from investors including DreamWorks co-founder Jeffrey Katzenberg’s VC firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-15/jeffrey-katzenberg-joe-montana-firms-back-ai-marketing-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-waymo-recalls-444-self-driving-vehicles-over-software-error.md",
       "title": "Waymo recalls 444 self-driving vehicles over software error",
       "excerpt": "Feb 15 (Reuters) - Alphabet's (GOOGL.O), opens new tab Waymo unit has recalled 444 self-driving vehicles after two minor collisions in quick succession in Arizona ...",
@@ -254,867 +1114,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-apples-vision-pro-and-the-coming-healthcare-revolution.md",
-      "title": "Apple's Vision Pro and the coming healthcare revolution",
-      "excerpt": "Spatial computing will usher in 'transformative change' across multiple industries, with special implications for medical care and delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html",
-      "originalUrl": "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2024/02/15/13/apple-vision-pro-100961260-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html",
-      "publishedDateTime": "2024-02-15T12:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-meow-or-rooaaar-exotic-cats-ability-to-recognize-familiar-caregivers-voices.md",
-      "title": "Meow or rooaaar - exotic cats' ability to recognize familiar caregivers' voices",
-      "excerpt": "The article - \"Catcalls: Exotic Cats Discriminate the Voices of Familiar Caregivers\" - delves into the often-overlooked realm of voice recognition among Felidae species. While much attention has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1033892",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1033892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e2e92b62-a97d-442d-be97-28516b3d6590/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T12:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional.md",
-      "title": "Defining the Pro in Apple Vision Pro: Who is Apple's target professional?",
-      "excerpt": "The Apple Vision Pro is an excellent media consumption tool. Still, in our experience and after talking to enterprise, the US federal government, and tradespeople, it's not close to where it needs to be for wide adoption in business.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/24/02/15/defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional",
-      "originalUrl": "https://appleinsider.com/articles/24/02/15/defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/58579-119416-steeper-hardhat-xl.jpg",
-          "width": 1312,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/24/02/15/defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/15/defining-the-pro-in-apple-vision-pro-who-is-apples-target-professional/amp/",
-      "publishedDateTime": "2024-02-15T12:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-every-country-needs-its-own-ai-systems-says-nvidia-ceo-jensen-huang.md",
-      "title": "Every country needs its own AI systems, says Nvidia CEO Jensen Huang",
-      "excerpt": "Jensen Huang said nations should work toward building \"sovereign AI\" to control the intelligence and data produced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2",
-      "originalUrl": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cded4ca610a9069d59295d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp",
-      "publishedDateTime": "2024-02-15T11:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-in-cybersecurity-revolutionizing-safety.md",
-      "title": "AI In Cybersecurity: Revolutionizing Safety",
-      "excerpt": "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1406,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "publishedDateTime": "2024-02-15T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-alphabets-waymo-recalled-vehicles-to-update-automated-driving-software.md",
-      "title": "Alphabet's Waymo recalled vehicles to update automated driving software",
-      "excerpt": "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "publishedDateTime": "2024-02-15T11:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-flyteinteractive-interactive-development-for-machine-learning-models.md",
-      "title": "FlyteInteractive: Interactive development for machine learning models",
-      "excerpt": "LinkedIn needed a better way to test and tune machine learning models, so it wrote its own tool that plugs into Visual Studio Code. Machine learning (ML) is becoming an increasingly important part of the modern application stack. Whether it’s large-scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
-      "originalUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/12/21/worried-tired-programmer-developer-100947122-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-googles-flagship-ai-model-gets-a-mighty-fast-upgrade.md",
-      "title": "Google’s Flagship AI Model Gets a Mighty Fast Upgrade",
-      "excerpt": "Demis Hassabis, CEO of Google DeepMind, which developed the new model, compares its vast capacity for input to a person’s working memory, something he explored years ago as a neuroscientist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-deepmind-gemini-pro-ai-upgrade/",
-      "originalUrl": "https://www.wired.com/story/google-deepmind-gemini-pro-ai-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cd787e5cf740439249b2fb/191:100/w_1280,c_limit/Google-Deepmind-Business-1353069623.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-important-nvda-guidance-released.md",
-      "title": "Important NVDA guidance released",
-      "excerpt": "Artificial intelligence chipmaker Nvidia (NVDA) has surpassed $700/share and is now up 52% in 2024. Stephen McBride just issued guidance for Disruption Investor members on what to do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
-      "originalUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240214_feature.jpg",
-          "width": 725,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
-      "cdnAmpWebUrl": "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MauldinEconomics.com",
-        "domain": "mauldineconomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-is-supercharging-parametric-insurance.md",
-      "title": "AI Is Supercharging Parametric Insurance",
-      "excerpt": "Considering its 200-year history, parametric insurance has been slow to adopt, with conventional insurers regarding it as a niche proposition, suited for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca298f61d43ff4607a297b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1316,
-          "height": 877,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
-      "publishedDateTime": "2024-02-15T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-the-iphone-16s-chip-could-get-a-big-ai-upgrade-for-generative-ai-features.md",
-      "title": "The iPhone 16's chip could get a big AI upgrade for generative AI features",
-      "excerpt": "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
-      "originalUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T07:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-jfrog-announces-fourth-quarter-and-fiscal-2023-results.md",
-      "title": "JFrog Announces Fourth Quarter and Fiscal 2023 Results",
-      "excerpt": "(“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced financial results for its fourth quarter and fiscal year ended December 31,",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/jfrog-announces-fourth-quarter-and-fiscal-2023-results/",
-      "originalUrl": "https://www.01net.it/jfrog-announces-fourth-quarter-and-fiscal-2023-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T04:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade.md",
-      "title": "Microsoft: Azure And AI Are Set To Drive Growth In The Next Decade",
-      "excerpt": "The synergies between Azure, AI, and Microsoft's other businesses, such as gaming and productivity tools, give the company a competitive advantage. Microsoft has the potential to gain market share ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
-      "originalUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1246495638/es/foto/this-picture-taken-on-january-23-2023-in-toulouse-southwestern-france-shows-screens-displaying.jpg?b=1&s=594x594&w=0&k=20&c=W3Ny0ZFSCnIQ3OCfOzPsYtggqLRlITk6RVjioEYfMqc=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-innovationrx-the-feds-nutrition-labels-for-healthcare-ai.md",
-      "title": "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI",
-      "excerpt": "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd6e85e1831405583e345d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T02:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-gives-a-voice-for-people-with-speech-limitations.md",
-      "title": "AI Gives a Voice for People With Speech Limitations",
-      "excerpt": "The AI technology is based on machine learning and speech recognition algorithms that are unique to each user. Voiceitt asks a new user to repeat dozens of words, phrases and sentences to learn the speech patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
-      "originalUrl": "https://www.goodnet.org/articles/ai-gives-voice-for-people-speech-limitations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodnet",
-        "domain": "goodnet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-astros-to-debut-fast-entry-facial-recognition-tech-at-minute-maid-park.md",
-      "title": "Astros to debut fast-entry facial recognition tech at Minute Maid Park",
-      "excerpt": "A new facial recognition software will allow fans to enter Minute Maid Park faster this season. The new \"Go-Ahead Entry,\" system uses Artificial Intelligence will allow fans who sign up through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/sports/astros/article/astros-fast-pass-facial-recognition-18667671.php",
-      "originalUrl": "https://www.chron.com/sports/astros/article/astros-fast-pass-facial-recognition-18667671.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking.md",
-      "title": "Use PC without mouse or by speech alone; Use mouse without clicking",
-      "excerpt": "In this post, we will show you how to use your PC without the mouse or by speech alone or use your mouse without clicking by moving it only. Windows offers built-in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "originalUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2024/02/Work-by-Speech-in-action.jpg",
-          "width": 700,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
-      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess.md",
-      "title": "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess",
-      "excerpt": "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

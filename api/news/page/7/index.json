@@ -2,6 +2,505 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-03-04-south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers.md",
+      "title": "South Korean Chip Stocks Climb in Line With Rally in Japanese Peers",
+      "excerpt": "SK Hynix and Hanmi Semiconductor have recently drawn keen attention from investors because both have teamed up to package high bandwidth memory chips for clients to power AI applications, KB Securities analyst Juyoung Park said in a research note.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "originalUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "publishedDateTime": "2024-03-04T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update.md",
+      "title": "Nikkei Stock Average Rises Above 40000 for First Time, Driven by AI Optimism -- 2nd Update",
+      "excerpt": "By Kosaku Narioka Japan's benchmark stock index rose above 40000 for the first time ever, driven by stronger corporate earnings and a surge in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "originalUrl": "https://www.marketwatch.com/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update-d65c8edb",
+      "publishedDateTime": "2024-03-04T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-india-reverses-ai-stance-requires-government-approval-for-model-launches.md",
+      "title": "India reverses AI stance, requires government approval for model launches",
+      "excerpt": "India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models. India's India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
+      "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1096026706.jpg?resize=1200,843",
+          "width": 1200,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
+      "publishedDateTime": "2024-03-04T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs.md",
+      "title": "Mark Cuban Says 'Tax The Robots' Amid Fears Of AI Taking Over People's Jobs",
+      "excerpt": "See Also: Elon Musk Has Gone To War With Sam Altman, But OpenAI CEO Once Thought It Would Be ‘Really Helpful’ To Ha Why It Matters: Cuban’s call for taxing robots comes amid growing concerns about the impact of artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
+      "originalUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/Mark-Cuban_4.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37448729",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37448729",
+      "publishedDateTime": "2024-03-04T03:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-3-ways-to-succeed-in-the-rapidly-changing-ai-landscape.md",
+      "title": "3 Ways to Succeed in the Rapidly Changing AI Landscape",
+      "excerpt": "Some of the practices include storing data locally and ensuring adherence to ideology, laws, ethics, and data security at national and enterprise levels. To bring the business to the next level, AI-based LLMs should adapt to customers' specific ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952",
+      "originalUrl": "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1709324194-ai-tech-landscape-startup-g-825151062.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft-teams-contact-center-award.md",
+      "title": "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award",
+      "excerpt": "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-from-apprentice-to-pro-ais-workforce-promotion-awaits.md",
+      "title": "From Apprentice to Pro: AI’s workforce promotion awaits",
+      "excerpt": "Billionaire Elon Musk took to the X platform recently to agree with David Holz, the founder of artificial intelligence research lab Midjourney, on Holz’s assertion that there will be one billion humanoid robots on earth by the 2040s—a mere 16 years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmr.com/article/from_apprentice_to_pro_ais_workforce_promotion_awaits",
+      "originalUrl": "https://www.scmr.com/article/from_apprentice_to_pro_ais_workforce_promotion_awaits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scmr.com/images/2024_article/SCMR2403_F_Spotlight_AI-800px.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd.md",
+      "title": "Man arrested for trying to steal self-driving Waymo car: LAPD",
+      "excerpt": "A man was arrested after he allegedly tried to steal a to steal a self-driving taxi in downtown Los Angeles on Saturday night. The Los Angeles Police Department said in a statement that Vincent Maurice Jones, 33, got into the driver's seat of the Waymo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/",
+      "originalUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcphiladelphia.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1",
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 10 Philadelphia",
+        "domain": "nbcphiladelphia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-the-marthas-vineyard-times-is-using-ai-to-translate-articles-into-portuguese.md",
+      "title": "The Martha’s Vineyard Times is using AI to translate articles into Portuguese",
+      "excerpt": "a company that uses AI to translate webpages from English to other languages. While there are fears in the media industry that AI could replace writers, the initiative at the Times is an example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
+      "originalUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/YvcDD-fygSvTTWlfDlF83qmpGLk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/GLS6THFOKQI6THHI2IU4VW36Q4.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-man-arrested-after-trying-to-steal-a-self-driving-taxi-in-los-angeles.md",
+      "title": "Man arrested after trying to steal a self-driving taxi in Los Angeles",
+      "excerpt": "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/",
+      "originalUrl": "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcchicago.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3372269/?amp=1",
+      "publishedDateTime": "2024-03-03T21:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Chicago",
+        "domain": "nbcchicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-ai-promised-humanlike-machinesin-1958.md",
+      "title": "AI promised humanlike machines–in 1958",
+      "excerpt": "A roomsize computer equipped with a new type of circuitry, the Perceptron, was introduced to the world in 1958 in a brief news story buried deep in The New York Times. The story cited the U.S. Navy as saying that the Perceptron would lead to machines that “will be able to walk, talk, see, write, reproduce itself and be conscious of its existence.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/ai-humanoid-robots-history/",
+      "originalUrl": "https://www.popsci.com/technology/ai-humanoid-robots-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2024/03/01/history-of-robots.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-03T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-03-apples-failed-project-titan-was-a-full-self-driving-gamble.md",
       "title": "Apple's failed 'Project Titan' was a Full Self Driving gamble",
       "excerpt": "Apple's recently-abandoned \"car project\" shifted gears several times over the past decade, but ultimately the challenge of FSD proved insurmountable — and continues to elude the industry as a whole.",
@@ -688,542 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-apple-loop-iphone-17-details-leak-apples-ai-promise-ios-fixes-iphone-15-problems.md",
-      "title": "Apple Loop: iPhone 17 Details Leak, Apple’s AI Promise, iOS Fixes iPhone 15 Problems",
-      "excerpt": "This week’s Apple headlines; leaked iPhone 17 details, iPhone 15 features fixed, Apple’s AI promise, iOS long-term support, MacBook Pro repair details, Apple Arcade’s future, a potential iRing, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65173674770347df44065c12/0x0.jpg?format=jpg&crop=931,524,x130,y83,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
-      "publishedDateTime": "2024-03-01T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search.md",
-      "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
-      "excerpt": "At AWS re:Invent 2023, we announced the general availability of Knowledge Bases for Amazon Bedrock. With a knowledge base, you can securely connect foundation models (FMs) in Amazon Bedrock to your company data for fully managed Retrieval Augmented Generation (RAG). In a previous post, we described how",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/knowledge-bases-for-bedrock-hybrid-search-1117x630.jpg",
-          "width": 1117,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T22:29:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
-      "title": "US stock markets close at record highs amid continued enthusiasm for AI",
-      "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "originalUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/dd523ec21e76471b1119e8dbd02c6e0a3adc83dd/0_6_3000_1799/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=507f237be7acada08ea257cdcca739f3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "publishedDateTime": "2024-03-01T21:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-tech-jumps-as-ai-rally-resumes-tech-roundup.md",
-      "title": "Tech Jumps as AI Rally Resumes -- Tech Roundup",
-      "excerpt": "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "originalUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "publishedDateTime": "2024-03-01T21:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos.md",
-      "title": "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos",
-      "excerpt": "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
-      "originalUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png",
-          "width": 600,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T20:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-there-are-growing-calls-for-google-ceo-sundar-pichai-to-step-down.md",
-      "title": "There are growing calls for Google CEO Sundar Pichai to step down",
-      "excerpt": "Analysts believe Google's search business is keeping it safe for now, but that could change soon with generative AI rivals proliferating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3",
-      "originalUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e2308f90413ab8e1d877dd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/calls-for-google-ceo-sundar-pichai-alphabet-step-down-ai-2024-3?amp",
-      "publishedDateTime": "2024-03-01T20:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula.md",
-      "title": "California authorizes expansion of Waymo’s driverless car services to LA, SF peninsula",
-      "excerpt": "SAN FRANCISCO (AP) — California regulators on Friday authorized Waymo to expand services of its fleet of robotaxis into Los Angeles and to cities on the peninsula south of San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
-      "originalUrl": "https://www.seattletimes.com/business/california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million.md",
-      "title": "$675 Million For Humanoid ChatGPT Robot, Ideogram Gen AI Raises $80 Million",
-      "excerpt": "Ideogram Text-to-Image Midjourney competitor Raises $80 M. This values the company well north of $1 Billion. Andressen Horowitz led the round. Ideogram 1.0 has an amazingly effective feature called Magic Prompt, which created the image above.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T18:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-openai-rival-cohere-says-some-ai-startups-build-bugatti-sports-cars-we-make-f-150s.md",
-      "title": "OpenAI rival Cohere says some AI startups build Bugatti sports cars, 'We make F-150s'",
-      "excerpt": "Cohere is able to run efficiently and keep costs under control even amid a chip shortage, rising costs for graphics processing units (GPUs) and ever-changing licensing fees for AI models. \"I've rarely seen, in my career, many companies that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
-      "originalUrl": "https://www.cnbc.com/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107381170-1709313812146-gettyimages-1757707025-omarques_01112023_ILLUS_TECH_12.jpeg?v=1709313909",
-          "width": 5000,
-          "height": 3327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
-      "publishedDateTime": "2024-03-01T17:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence.md",
-      "title": "AI chip startup Groq forms new business unit, acquires Definitive Intelligence",
-      "excerpt": "Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise — and public sector. Today, Groq announced that it’s forming a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
-      "originalUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341418748.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
-      "publishedDateTime": "2024-03-01T17:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-why-snowflake-reeled-in-ai-hype.md",
-      "title": "Why Snowflake Reeled In AI Hype",
-      "excerpt": "“With the onslaught of generative AI, Snowflake needs a hard-driving technologist to navigate the challenges the new world represents,” said Slootman on the call. The departing CEO, who denied rumors of his potential departure last year, will remain chairman of the board.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/",
-      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e21d7d1ef2712dca54a75e/0x0.jpg?format=jpg&crop=3998,2248,x0,y206,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/",
-      "publishedDateTime": "2024-03-01T17:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

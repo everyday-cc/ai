@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists Show How Easy It Is To Create AI Drones That Can Hunt And Kill People"
+    excerpt: "Luis Wenus, an entrepreneur and engineer, wanted to see if he could configure a small, commercially available drone to use artificial intelligence to"
+    publishedDateTime: 2024-03-08T15:36:00Z
+    webUrl: "https://brobible.com/sports/article/scientists-create-ai-drones-hunt-kill-people/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 34
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2024/03/Pilot-running-drone.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI drone that could hunt and kill people built in just hours by scientist for 'a game'"
     excerpt: "The scientist who configured a small drone to target people with facial recognition and chase them at full speed warns we have no defenses against such weapons."
     publishedDateTime: 2024-03-07T12:10:00Z

@@ -29,7 +29,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
         width: 1200

@@ -2,6 +2,242 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-18-generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle.md",
+      "title": "Generative AI Getting Blended Into Smart Mirrors Might Reveal More Naked Truths Than People Can Handle",
+      "excerpt": "The latest in smart mirrors encompasses the addition of generative AI. You will be able to have a magical talking mirror. But this might not be as grand as assumed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a89ff7bbe6a0f6c19b549b/0x0.jpg?format=jpg&crop=1598,1065,x38,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
+      "publishedDateTime": "2024-01-18T04:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics.md",
+      "title": "Tesla: Continuing The Short Bet, As Bull Thesis Depends Too Much On AI And Robotics",
+      "excerpt": "We will see more hype around AI/robotics, but there is no timeline for when Tesla will deliver products. Read why I decided to continue short bet on TSLA stock.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "originalUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1584500014/image_1584500014.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
+      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
+      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T10:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-byd-showcased-the-intelligence-advancement-at-dream-day-2024.md",
+      "title": "BYD Showcased the Intelligence Advancement at Dream Day 2024",
+      "excerpt": "XUANJI Architecture empowered by AI debuted, marking a transformative leap in merging electrification with intelligence. BYD announced its plan to construct the world's first professional all-terrain test driving ... with the self-developed XUANJI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T07:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-elon-musk-is-uncomfortable-growing-tesla-to-be-a-leader-in-ai-and-robotics-without-this-1-key-development-happening.md",
+      "title": "Elon Musk Is \"Uncomfortable Growing Tesla to Be a Leader in AI and Robotics\" Without This 1 Key Development Happening",
+      "excerpt": "Elon Musk wants to obtain roughly 25% voting control of Tesla. If he doesn't get his way, he stated that he wants to build more AI and robotics products \"outside of Tesla.\" Musk made his demand to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/761471/tesla-service-center-with-two-associates-at-desk-with-tesla-logo.png",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T05:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-bet-on-googles-alpha-bets.md",
       "title": "Bet On Google's 'Alpha Bets'",
       "excerpt": "Google is the cheapest of the Magnificent 7 due to fears that large language models will cannibalize its search empire. Find out why GOOG stock is a Strong Buy.",
@@ -1000,231 +1236,6 @@
       "provider": {
         "name": "ArchDaily",
         "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-openai-unveils-app-store-for-custom-chatbots.md",
-      "title": "OpenAI Unveils App Store for Custom Chatbots",
-      "excerpt": "People who subscribe to OpenAI’s ChatGPT Plus service will be able to browse the new store for tailored chatbots that perform different tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
-      "originalUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/01/10/business/10gpt-store/10gpt-store-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T19:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-microsoft-debates-what-to-do-with-ai-lab-in-china.md",
-      "title": "Microsoft Debates What to Do With A.I. Lab in China",
-      "excerpt": "Amid U.S.-China tensions, the company has faced questions over whether operating an advanced research lab in Beijing is politically tenable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
-      "originalUrl": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/01/04/multimedia/00microsoft-china-top-fmkz/00microsoft-china-top-fmkz-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T10:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-superai-asias-premier-artificial-intelligence-conference-debuts-in-singapore.md",
-      "title": "SuperAI, Asia's Premier Artificial Intelligence Conference, Debuts in Singapore",
-      "excerpt": "Edward Snowden, Benedict Evans and Balaji Srinivasan amongst others to take the stage at SuperAI from 5-6 June 2024 SINGAPORE, Jan. 10, 2024 /PRNewswire/ --SuperAI, Asia's premier artificial intelligence (AI) conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
-      "originalUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1705653033793.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T02:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona.md",
-      "title": "Waymo’s Driverless Cars Are Hitting the Highway Sans Safety Drivers in Arizona",
-      "excerpt": "“Cruise’s implosion has left Waymo as the undisputed leader in the driverless taxi market ... especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
-      "originalUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-ai-acquisitions-whos-leading-the-charge-and-why.md",
-      "title": "AI Acquisitions: Who’s Leading the Charge and Why?",
-      "excerpt": "\"Explore the dynamic world of AI acquisitions by major tech players. Dive into strategies, challenges, and impacts",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
-      "originalUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2024/01/f33fdc97-fe42-4ce9-9c21-bb8e9133d59b-900x628-1-900x600.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T18:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
         "images": null,
         "publishers": null,
         "authors": null

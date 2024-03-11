@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jemmagreen/2024/03/07/musks-lawsuit-a
 webUrl: "https://www.forbes.com/sites/jemmagreen/2024/03/07/musks-lawsuit-against-openai-sparks-heated-debate-over-ai-transparency/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Box gets even smarter with Azure OpenAI Service integration"
-    excerpt: "Box AI, including the newly announced Azure OpenAI Service integration, is now included in Enterprise Plus plans. Individual users have access to 20 queries per month, with a further 2,000 queries available at the company level."
-    publishedDateTime: 2024-03-06T11:07:00Z
-    webUrl: "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/m6TgkK2kPHQufJaNbcCFvA-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
 
 secured: "7EJ6+xj7TdE+egJoScnGQtCRzGPjaLevdLxZpVaVJlqJSv/eAm5KYuUF7+qc3ucf7LrmN3Nx62egAZBoSaQ6W5+fObIwEyb2jawFKu0K2NF/IWgZvWlqPZOWh85SdiT+6cHgbq8UZ74B6LnjuYi3Zbqy/iv8Yyjm/9U1TNfvHT78alfRV+/ZUtV7tnsq2MCrQO/AG0xI15LqR3++nCNnrg12D4hhsRaPdr3AH7cex0zkIBTZ9AW24u9TUXxwVyeQKaWNkU684j50PFeLsdBqr0sacaXoapDrt5aR4Mnfs5PqIpVKScc2290+qnOQEAXhNgIMinaTKx6pY+p3nIOQ5x2NM7qSszMkg9tLuMAyYbGryYhRk1caCU50V4HYuKwOO9YHMXdlrDG29dqbZCUsMyqccruNUh0I+k1OgFSmeWj3U+UrBNipDkJO7EA5vo60WmxiIk02EqiwO5vKGCAvA3DhyTWnvt4IvAu3sBHn3sjzKIBu8zJx+UOaYdff1Lq/pzdDrkiG8j25/CkdKT05OQ==;5q6YmlFe9nArFLP5bsBSmg=="
 ---

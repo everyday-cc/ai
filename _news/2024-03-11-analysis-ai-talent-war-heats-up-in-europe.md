@@ -31,6 +31,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "What the fierce AI talent war in Europe means for IT professionals as well as IT companies like Google and others"
+    excerpt: "A surge of artificial intelligence (AI) startups is intensifying competition for skilled workers in Europe, forcing established players like Google De."
+    publishedDateTime: 2024-03-11T10:48:00Z
+    webUrl: "https://timesofindia.indiatimes.com/technology/tech-news/what-the-fierce-ai-talent-war-in-europe-means-for-it-professionals-as-well-as-it-companies-like-google-and-others/articleshow/108394935.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/technology/tech-news/what-the-fierce-ai-talent-war-in-europe-means-for-it-professionals-as-well-as-it-companies-like-google-and-others/amp_articleshow/108394935.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/technology/tech-news/what-the-fierce-ai-talent-war-in-europe-means-for-it-professionals-as-well-as-it-companies-like-google-and-others/amp_articleshow/108394935.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 38
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108394920,width-1280,height-720,resizemode-4/108394920.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "nsVjuZ4P5GvcwnCbjMOhDC2i8eu8Bb4r38VfCJBgnJ+R4OkxsXkNGfx6vgqFVLGG9Sftw5QZy2yCm4zfWo65XiaSw6EYUjE5kUZfb5fpJDk5QlKas300upXMFVQgkmwIsoWn0sH0hCzKuPjFdKj9rkafIswSXH8at+fUM43YdteT0ikC+xnCOcWBklMWCzF1cjYs6fA2jISy6LX4r3gW+9bqImx4AK67aDuNaG/QdbITxyLL+ezvoO40lwDSTUX+RRIggemf3BGpUMKNnhKjyvQsVzlqQB52gJxAho2OPA7JLH4CWIeZ/YqGZHrZeI79ky77pKAvAE/AvZtWN2ceDiAjQhClGhcihCP/CLpNi6h00F2Xq0rrM3n8/4M9+f+H3bzzGuiqZTjn+Opx+xS0DygYPFMjtnx7ArnMnMzwHlKYcV6EhDUv+BY4Glp7hq/8cSmm37tnWtcYbENcqfuz1ZSvUVmcfauIUyllbjoEA0WcEtIzT8PTM9oDvwZKzEWY2ajEgaoi32dWVhxCx8AKRA==;ST/ATgAcukyd5O0NokXLIQ=="
 ---

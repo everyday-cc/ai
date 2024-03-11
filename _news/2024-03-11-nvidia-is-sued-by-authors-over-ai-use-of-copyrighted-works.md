@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/nv
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
 type: article
 quality: 59
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 54
+  - title: "Nvidia’s AI chips can't be beaten, even if they're free"
+    excerpt: "Jensen Huang gets overenthusiastic. Nvidia boss Jensen Huang has boasted that his firm's chips are \"so good that even when the competitor's chips are free, it's not cheap enough.\" At the 2024 SIEPR Economic Summit,"
+    publishedDateTime: 2024-03-11T10:08:00Z
+    webUrl: "https://www.fudzilla.com/news/graphics/58608-nvidia-s-ai-chips-can-t-be-beaten-even-if-they-re-free"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/21201184c08d1eb3d16765121aeb3d18_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
     excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
     publishedDateTime: 2024-03-10T13:59:00Z
@@ -106,6 +120,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "NVIDIA emphasizes importance of nations investing in sovereign AI"
+    excerpt: "NVIDIA has this week been emphasizing  the importance of nations investing in sovereign AI, which is the development of artificial intelligence"
+    publishedDateTime: 2024-03-11T09:48:00Z
+    webUrl: "https://www.geeky-gadgets.com/sovereign-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/importance-of-nations-investing-in-sovereign-AI.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "A World Divided Over Artificial Intelligence"
     excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
     publishedDateTime: 2024-03-11T04:21:00Z
@@ -130,6 +158,6 @@ related:
       domain: datanami.com
     quality: 18
 
-secured: "N0abcprGVv2b3mzJVJeRvOAlpKJYK+WM3t16gyhJWz3Z3mzmdGUaKg1S9CoFhnWh0WqSFkz44m8u+B6wOxko7opsksurszW9KtExwEGMRzd6Oxt9W03G0ekXCe3Bg8aEOvAX2h3+Nu6JyCNhq2/bGf7J+TwlLbo2QO6+kE4hAZ/vVJsJiLsClfzhMU8NXnx0q06ca7p/gRdQ3k9MU+ipyecOScQWS3fGO5liiwO1T5q5Z2nSKYRS54K2LncJBecuTRAFyUuv2vuNPbGCV11PlbYpHclGOSULPI5Y1kX28DKOtEZvAjY58g/yywIfCZ/230sCHil3Wgzq8kWNyDVFuwO/cjLyfytdONYUUPHpKik=;5CvkqN7AHNxLM2DH/qi/GQ=="
+secured: "Xo7ZNaRf9xL7GSfElNpu5BT6MGowO3SKQw/0ZRbX97/H56RVsFS2dF2P+A0+5KVfs3d7/c69BbIBVqxS1ijq2P+ApP+AgsSrEplCg0Hig8yk+tgEOZEitWPQhnFL9BSlasvqGINbw3BJbANKRy4ZmIcJ62FjnHvUfaPQhZbRLiEOPdQoAdxe8o3cBw+rWd+RigP4C8mhCKLRDxfZymbB36fG6AIt3Zjx/kDsAKQ6s07XqeFr22B5OI76CKhB+PzB5YEqpLedxmwRL5qho/waFukr7IEkP61HVfgjFuu6qGaBAeNaNX14QZpPjbJGyj8qeaJe19cONt6umnu2kVzN9fL77APDNaxqs1PSNCLLWN8=;El3DJW2QM5hQsmqxjE9Yrw=="
 ---
 

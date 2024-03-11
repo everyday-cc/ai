@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-ne
 webUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/"
 type: article
 quality: 54
-heat: 76
+heat: 77
 published: true
 
 provider:

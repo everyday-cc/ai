@@ -2,6 +2,223 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-31-alphabet-shares-slide-on-disappointing-google-ad-revenue.md",
+      "title": "Alphabet shares slide on disappointing Google ad revenue",
+      "excerpt": "Alphabet said that, due to the workforce reductions last year, the company recorded severance and related charges of $2.1 billion for 2023. Additionally, Google exited some of its offices, resulting in charges of $1.2 billion for the quarter and $1.8 billion for the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107325514-1698681177311-AP23303506550300.jpg?v=1698681233",
+          "width": 6000,
+          "height": 4001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html",
+      "publishedDateTime": "2024-01-30T20:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-artificial-intelligence-is-it-a-tool-a-threat-or-an-artform.md",
+      "title": "Artificial Intelligence: Is it a tool, a threat or an artform?",
+      "excerpt": "MINNEAPOLIS — Artificial Intelligence is coming at us fast and furious. It's on our phones, it's in our classrooms, and it's changing businesses and lives. There is little that isn't or won't be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "originalUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kare11.com/assets/KARE/images/31c8ab27-2bf5-472d-a218-33a5964005dc/31c8ab27-2bf5-472d-a218-33a5964005dc_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "publishedDateTime": "2024-01-30T14:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KARE 11",
+        "domain": "kare11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-utilizing-active-microparticles-for-artificial-intelligence.md",
+      "title": "Utilizing active microparticles for artificial intelligence",
+      "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240129122349.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240129122349.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
+      "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
+      "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
+      "publishedDateTime": "2024-01-27T09:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-baidus-ernie-ai-chatbot-to-power-samsungs-new-galaxy-s24-smartphones.md",
+      "title": "Baidu's Ernie AI chatbot to power Samsung's new Galaxy S24 smartphones",
+      "excerpt": "Chinese tech giant Baidu will partner Samsung to integrate its Ernie chatbot capabilities into Galaxy S24 smartphones. The collaboration will equip Samsung's latest Galaxy S24 smartphone series ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/26/baidus-ernie-ai-chatbot-to-power-samsungs-new-galaxy-s24-smartphones.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/26/baidus-ernie-ai-chatbot-to-power-samsungs-new-galaxy-s24-smartphones.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T09:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident.md",
       "title": "GM’s self-driving car division is under investigation by DOJ and SEC after pedestrian dragging incident",
       "excerpt": "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.” In just the latest setback in the auto industry’s attempt to perfect driverless cars,",
@@ -1049,242 +1266,6 @@
         "name": "Austin American-Statesman",
         "domain": "statesman.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle.md",
-      "title": "Generative AI Getting Blended Into Smart Mirrors Might Reveal More Naked Truths Than People Can Handle",
-      "excerpt": "The latest in smart mirrors encompasses the addition of generative AI. You will be able to have a magical talking mirror. But this might not be as grand as assumed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a89ff7bbe6a0f6c19b549b/0x0.jpg?format=jpg&crop=1598,1065,x38,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
-      "publishedDateTime": "2024-01-18T04:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics.md",
-      "title": "Tesla: Continuing The Short Bet, As Bull Thesis Depends Too Much On AI And Robotics",
-      "excerpt": "We will see more hype around AI/robotics, but there is no timeline for when Tesla will deliver products. Read why I decided to continue short bet on TSLA stock.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
-      "originalUrl": "https://seekingalpha.com/article/4663303-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1584500014/image_1584500014.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T15:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
-      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
-      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T10:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-byd-showcased-the-intelligence-advancement-at-dream-day-2024.md",
-      "title": "BYD Showcased the Intelligence Advancement at Dream Day 2024",
-      "excerpt": "XUANJI Architecture empowered by AI debuted, marking a transformative leap in merging electrification with intelligence. BYD announced its plan to construct the world's first professional all-terrain test driving ... with the self-developed XUANJI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240116662715/en/BYD-Showcased-the-Intelligence-Advancement-at-Dream-Day-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T07:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-elon-musk-is-uncomfortable-growing-tesla-to-be-a-leader-in-ai-and-robotics-without-this-1-key-development-happening.md",
-      "title": "Elon Musk Is \"Uncomfortable Growing Tesla to Be a Leader in AI and Robotics\" Without This 1 Key Development Happening",
-      "excerpt": "Elon Musk wants to obtain roughly 25% voting control of Tesla. If he doesn't get his way, he stated that he wants to build more AI and robotics products \"outside of Tesla.\" Musk made his demand to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/761471/tesla-service-center-with-two-associates-at-desk-with-tesla-logo.png",
-          "width": 2000,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T05:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

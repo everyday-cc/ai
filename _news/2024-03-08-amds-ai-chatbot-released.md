@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Prohibits AMD’s AI Chip Sales To China"
-    excerpt: "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first."
-    publishedDateTime: 2024-03-06T11:50:00Z
-    webUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/"
-    ampWebUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
+  - title: "Musk says AI start up will open-source chatbot Grok"
+    excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
+    publishedDateTime: 2024-03-11T10:33:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555"
+    ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
+    cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
     type: article
     provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 71
+      name: Investing
+      domain: investing.com
+    quality: 57
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "AMD promotes third-party app for running AI chatbots on local hardware"
     excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
     publishedDateTime: 2024-03-08T13:55:00Z
@@ -45,6 +50,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
+  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
+    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-07T12:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 48
+    images:
+      - url: "https://financialit.net/sites/default/files/justpaid.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
     excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
     publishedDateTime: 2024-03-08T20:00:00Z
@@ -59,24 +78,24 @@ related:
         width: 708
         height: 365
         isCached: true
-  - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
-    excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
-    publishedDateTime: 2024-03-06T16:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/amds-china-focused-ai-chip-blocked-from-sale-by-us-commerce-department/"
+  - title: "JUSTPAID, AI-POWERED FINANCE STARTUP, ANNOUNCES NEW FINANCIAL CHATBOT CAPABILITIES"
+    excerpt: "MOUNTAIN VIEW, Calif., March 6, 2024 /PRNewswire/ -- JustPaid ( chat.justpaid.io ), the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial assistant/chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-06T14:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9973950.htm"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
-  - title: "AMD’s Chinese AI chip plan halted by US govt: What’s next?"
-    excerpt: "AMD finds itself at a standstill as it faces hurdles from the US in its endeavor to sell AI chips explicitly tailored for the Chinese market"
-    publishedDateTime: 2024-03-07T01:30:00Z
-    webUrl: "https://techwireasia.com/03/2024/amd-chinese-ai-chips-plan-halted-by-us-govt-whats-next/"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+  - title: "AI chatbot models ‘think’ in English even when using other languages"
+    excerpt: "When answering questions posed in Chinese, French, German or Russian, large language models seem to process the queries in English, which could create cultural issues"
+    publishedDateTime: 2024-03-08T13:00:00Z
+    webUrl: "https://www.newscientist.com/article/2420973-ai-chatbot-models-think-in-english-even-when-using-other-languages/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 34
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
 
 secured: "kbo4+4HL+8DBXA5Vux1PK7w2lPL0d92eKvGlosXQHvIbrnwr/qLBuu3Q/mP0vVOxOv2511vgkYn662AlSJ3LV9xbUZYzLz6S+KfkHzRqGc7SRm3/fT7KepETziR7upXS2mxsRJ6vX9jDixI+C2GN+59JD034KC82Nd6CX/UTr1Y/pZDTGGjzPdiqWgEj5Pgb7nkrY7qbgnNrH3PQsXnVQX8W7839ce5wX5D0lJQwV1u5L4+JLMixIi65c4/4nf1ER4+vMA46bWd1rps1TFltLtvzWM1a9oLaPqfcRzUIz1tKiYa8PYH3JYhj5njBynglThA0nm2tNDuHXBmVWG+RRXu4EX5I3YB4zy01E8e507OpZofoonlzOtpTWuAeAlp/xrLOE4GMnVPgEkiWYavs71iLQ2vFY1x8SzYC7/zKiPoKZAEVX/iNiv7ItSZAQvSvVNS+HgIkEnCzfSCg8l4opDjdt+S+ZcPG0Xrnj/bRQVJ1nj4n2cdIEvvZskJDljyM/sjGxAhgUzCiGWWPxA9y2g==;yGVp++O/Ik1Q0w3l3tNrEg=="
 ---

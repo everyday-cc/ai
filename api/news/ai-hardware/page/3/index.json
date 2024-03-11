@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-22-the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps.md",
+      "title": "The Nvidia app launches in beta form that will merge several of the company's GPU apps",
+      "excerpt": "The Nvidia app will also have more info on what's been added and what has been fixed for new GPU driver updates. Other changes for the new Nvidia app include improvements in the In-Game Overlay UI, and support for new AI-powered visual filters. One of them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708611177_nvidia-app-key-visual_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
+      "publishedDateTime": "2024-02-22T14:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator.md",
+      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
+      "excerpt": "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-besi-exceeds-quarterly-targets-on-ai-related-chip-parts-orders.md",
       "title": "Besi exceeds quarterly targets on AI-related chip parts orders",
       "excerpt": "The Dutch group's shares soared 16% in early trading after its quarterly orders increased by 30% driven by hybrid bonding, a form of chip packaging required for AI applications. Orders for the fourth quarter totalled 166 million euros ($180 million), part ...",
@@ -1346,101 +1450,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom.md",
-      "title": "Chipping In: Billionaire-Founded Unicorn Startup Makes Semiconductor ‘Chiplets’ For The AI Boom",
-      "excerpt": "Singapore-based Silicon Box specializes in chiplets, an increasingly popular way of making high-performing chips. To help ramp up production, the startup recently raised $200 million in a Series B round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c055520d5f42441db193dd/0x0.jpg?format=jpg&crop=2357,1325,x0,y594,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-sk-backed-sapeon-to-develop-on-device-ai-chip.md",
-      "title": "SK-backed Sapeon to develop on-device AI chip",
-      "excerpt": "Sapeon, a fabless startup backed by South Korean telecom-to-chip conglomerate SK Group, said Friday it would develop a new semiconductor optimized for on-device artificial intelligence as the market has been witnessing significant growth in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F16%2F20240216050380_0.jpg",
-          "width": 630,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20240216050362",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240216050362",
-      "publishedDateTime": "2024-02-16T04:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

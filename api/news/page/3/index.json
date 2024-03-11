@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-07-how-to-try-samsungs-galaxy-ai-on-any-iphone-or-android-phone.md",
+      "title": "How to try Samsung’s Galaxy AI on any iPhone or Android phone",
+      "excerpt": "Galaxy AI is a major selling point for the Galaxy S24. Now, you can take Galaxy AI for a test drive on any Android phone or iPhone. Here's how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/galaxy-s24-ultra-chat-assist.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp",
+      "publishedDateTime": "2024-03-07T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-the-breathtaking-scope-of-sam-altmans-future-ai-empire.md",
+      "title": "The breathtaking scope of Sam Altman's future AI empire",
+      "excerpt": "Altman's vision for AGI will require not just heaps of money, but also a whole-scale reimagining of how we organize society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-scope-of-sam-altmans-future-ai-empire-open-ai-2024-3",
+      "originalUrl": "https://www.businessinsider.com/the-scope-of-sam-altmans-future-ai-empire-open-ai-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65dfb81fce7f1785b2e4c932?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T09:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms.md",
+      "title": "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms",
+      "excerpt": "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-ai-crypto-platform-agii-enhances-community-value-with-significant-token-burn.md",
       "title": "AI Crypto Platform AGII Enhances Community Value with Significant Token Burn",
       "excerpt": "AGII operates at the nexus of AI and blockchain technology, providing innovative solutions for content generation, coding, and NFT creation. With a user-centric approach, AGII empowers individuals, developers, and creators in the rapidly evolving tech landscape.",
@@ -61,7 +216,7 @@
       "originalUrl": "https://mashable.com/article/free-ai-chatgpt-courses-march",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -104,7 +259,7 @@
       "originalUrl": "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -187,6 +342,51 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
+      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
+      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -792,7 +992,7 @@
       "originalUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1022,204 +1222,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies.md",
-      "title": "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies",
-      "excerpt": "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-predicts-immunotherapy-risks-for-cancer-patients.md",
-      "title": "AI Predicts Immunotherapy Risks for Cancer Patients",
-      "excerpt": "Globally by 2050, the number of cancer cases globally is projected to increase by 77% to more than 35 million compared to 20 million in 2022 according to 2024 estimates by the Wor",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-03/pic15616.jpg?itok=-TlLNcIr",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
-      "publishedDateTime": "2024-03-06T15:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation.md",
-      "title": "AI In Hospitality: Elevating The Hotel Guest Experience Through Innovation",
-      "excerpt": "In an industry where personalized experience is key, AI offers a myriad of opportunities to enhance guest satisfaction and streamline operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e6acbe7f26240238ff9c04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-tools-are-still-generating-misleading-election-images.md",
-      "title": "AI Tools Are Still Generating Misleading Election Images",
-      "excerpt": "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/genai-images-election-fraud/",
-      "originalUrl": "https://www.wired.com/story/genai-images-election-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img2.chinadaily.com.cn/images/202403/06/65e7c8b1a31082fc2b69cb01.jpeg"

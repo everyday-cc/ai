@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-excerpt: "TORONTO, March 07, 2024 (GLOBE NEWSWIRE) -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in ..."
-publishedDateTime: 2024-03-07T08:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
-webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
+excerpt: "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ..."
+publishedDateTime: 2024-03-07T00:00:00Z
+originalUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
+webUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
+ampWebUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
 type: article
-quality: 94
+quality: 104
 heat: 284
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - Machine Learning
-  - AI
-  - Microsoft AI
   - AI in Finance
+  - AI
+  - Machine Learning
+  - Microsoft AI
+
+images:
+  - url: "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Microsoft engineer warns company's AI tool creates violent, sexual images, ignores copyrights"
@@ -92,15 +96,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 62
-  - title: "OpenAI, Microsoft AI Tools Generate Misleading Election Images, Researchers Say"
-    excerpt: "(Reuters) - Image creation tools powered by artificial intelligence from companies including OpenAI and Microsoft can be used to produce photos that could promote election or voting-related disinformation, despite each having policies against creating misleading content, researchers said in a report on Wednesday."
-    publishedDateTime: 2024-03-06T11:05:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2024-03-06/openai-microsoft-ai-tools-generate-misleading-election-images-researchers-say"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "Microsoft’s AI Tool Generates Sexually Harmful and Violent Images, Engineer Warns"
     excerpt: "In letters to Microsoft and the FTC, Shane Jones urged government to work with tech companies to make AI safer."
     publishedDateTime: 2024-03-06T16:02:00Z
@@ -224,6 +219,6 @@ related:
       domain: fiercewireless.com
     quality: 7
 
-secured: "j8IZHiZwRUzcJEZqrnTfiYgAYRdk7Ko8oe8OqVN/Gmv99m/bPksjC/Z7cz66mi/VqxubQCnks3nYtr6QnzMArlrMBruS5WWkohG59Z47n2AaNtm39clF0jAPdG5NIOSmz49DNZXavZQ0F5FTsenkM3XtkeKSoEzmudjncqjWvbhfdD91jgaUIwGleADfmgKV1tiAyX+rems4qJoZ+4DcoBkYeu/MTIrEfNFpakj5dSbvJrly4L4EqeyK5xXg5hL+YPNJeuRt6wJwjjVZbPKbmPrLDMCuxnjG8+FcDXsMLFmGJ65CBbrFkSTYXjkA+bYRdN7Xu2/UyUZabuyA4xYoDGXqjgKv2nvdfqYNbeBuoTI=;ldzppyT1I+9fV87DME+avA=="
+secured: "qktsg03ka4ze3ycvXVBkS/YiZuJSCSKCc3830C8tL99vgwO1APZJfBHDdDfQ0QHZTJDb9M1ZCAl+t4V4mdaIXEmxRIqGW1CXm4WMA8VB22qZsy2FAIj1REoYpva59ibPyqp/wfmqdtCQspDLmE8NiyTEqKFIoHfjYOZhv8sopEvYUeBDaCmjswMz/8CPs5sXfBxduFrIv++LoADIyjKXN3MlH0Do2PHY9hdS3l5o5J0jU+MAfrsif4xNSu4G+l//dL4fFI2MV+YtHXY39H6ie0xJCKp2TDY2D6kWRW9ao75FNCm/v6Fl6ivnWN0HVJU8xs/H0aQd9VbPYM5t0Yp9JCkB7o1suywIkvOeY1Vmevs=;8hbHC+DoaCIGtV/x7eN/1g=="
 ---
 

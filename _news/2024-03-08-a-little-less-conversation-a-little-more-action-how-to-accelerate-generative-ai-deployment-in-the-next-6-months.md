@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/a-little-less-conversation-a-little-more-acti
 webUrl: "https://www.unite.ai/a-little-less-conversation-a-little-more-action-how-to-accelerate-generative-ai-deployment-in-the-next-6-months/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 240
     isCached: true
+
+related:
+  - title: "How The Telecom Industry Can Accelerate Growth From Generative AI"
+    excerpt: "This article focuses on how the telecom industry can accelerate growth from generative AI and provides use cases relevant to the telco industry."
+    publishedDateTime: 2024-03-11T11:34:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-telecom-industry-can-accelerate-growth-from-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65eeea8b74594bca5ee3fccb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "A3LMtkCZJA5UWpTXjokNEybaQ7SUGuslTWASdIdFwrd7/CrJQMT5euAV2wGKIwsO+T9AKwZmHnG3laCEwEfmWJ/4w/FAjN4tpbuLE/8tvsbq1cMXwJnJ8LCgSkpxvZZWjfwbkA1VoTcfNvXUmJzPUeuUGd2n4cAb6lGtYPWPVHAphhGLAUW0gwD3ipCA/09MT2MGs72e6+/3kNSrb6FQHaWR3c8RH3rC+J2GAS0DUlJu7tOavbIiI9zamR71wI3/xhS8QTUchYFEnvVOttVI0iCSxnRDhPVumUjQ4L8Y5gm2W0eRlZDxnYUI0S7IsPH+9QPXCRj1FUUM1I8V5n2T13I2vgWoB3bNJ/jz+yCx52crkiV22Zw1EpwzW+kisV25i59oMq2ujykfU0ieys/ieMRv3W8pMAwImryhs8YtiLhvZc6pRTMmb0jPPiCiECHabojn5JflLV+JoRnieA2N8Yx+AazT2tepl4O+0qvcuKbjAR1Pfx5+2pJ8JrTljjvnksWz16jZx+u5fjEPRMYBHA==;YXcoispbXBibtnWzmjFQjA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
 webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
 type: article
 quality: 84
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -176,6 +176,20 @@ related:
       - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
         width: 1548
         height: 776
+        isCached: true
+  - title: "Forget ChatGPT and Gemini — Claude 3 is the most human-like chatbot I've ever used"
+    excerpt: "Put through an IQ test Claude 3 scored 101, making it smarter than the average human and beating GPT-4 which scored 85. It has also performed better than (or equal to) humans in other benchmarks related to mathematics, information retrieval and language."
+    publishedDateTime: 2024-03-06T14:30:00Z
+    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-gemini-claude-3-is-the-most-human-like-chatbot-ive-ever-used"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xMQXtoMcRWfUCf2QK4voRG-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "e+/FLqHDNW0xbBETguvfH19n5QgLZV3cHJvW7LFj2ZU6XmKTlU5A5pWg5Z32QDyjJEmJPDxEt5BoZCZUaR2CPAJEMrhq9hc3OjpEt5emc79QNWC5s1AiApHU0oSF3ddnwNCDMbLUzk284CZxdDQCxpI0xx6291JWDMDim9zg2Em7UvhEPNkX9xx6gIY+pL0mhH5OPqlx5ygU9HZE40uuDJviB/VAMrpM6z1jMyt49DTEGVOdlZlmQTASnNj3ERryuM0c6kfIMYAdkuhzpRoIQK/VliEhErtfw/trDrrzRMs6eG+3K/14yqen1eNyPaw6Ei7GyDEesGmVGzbs0oQ2FxamoaXuFozMLUh5WNW0U+0=;3l43X5DbYaOnXliWcOE7HQ=="

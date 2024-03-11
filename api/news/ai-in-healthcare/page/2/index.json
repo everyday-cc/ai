@@ -2,6 +2,197 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-22-federal-and-state-lawmakers-launch-ai-task-forces-ai-the-washington-report.md",
+      "title": "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
+      "originalUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
+      "publishedDateTime": "2024-02-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-how-a-new-bipartisan-task-force-is-thinking-about-artificial-intelligence.md",
+      "title": "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence",
+      "excerpt": "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
+      "originalUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/02/congress-ai-2024.jpg?quality=85",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T22:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
+      "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
+      "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
+      "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fea49561f16b8426cbcbc4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
+      "publishedDateTime": "2024-02-20T23:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-availity-issues-statement-of-principles-on-artificial-intelligence-in-healthcare.md",
+      "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
+      "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-ai-comes-to-the-world-of-beauty-as-eyelash-robot-uses-artificial-intelligence-to-place-fake-lashes.md",
       "title": "AI comes to the world of beauty as eyelash robot uses artificial intelligence to place fake lashes",
       "excerpt": "and then combines it with artificial intelligence technology, according to Harding. \"And then we use the machine … to create a lot of data, tons and tons of images, and then we can use those ...",
@@ -1190,170 +1381,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence.md",
-      "title": "Diagnosing Attention Deficit Hyperactivity Disorder Using Artificial Intelligence",
-      "excerpt": "Cutting-edge research utilising artificial intelligence has shed light on the potential for a revolutionary diagnostic approach ADHD.",
-      "sourceUrl": null,
-      "webUrl": "https://www.emjreviews.com/innovations/news/diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence/",
-      "originalUrl": "https://www.emjreviews.com/innovations/news/diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.emjreviews.com/wp-content/uploads/2024/02/pexels-cottonbro-studio-5723883-1.jpg",
-          "width": 821,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T08:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "emjreviews.com",
-        "domain": "emjreviews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-healwell-ais-pentavere-referenced-by-several-leading-global-organizations-for-its-strength-in-artificial-intelligence-for-preventative-care.md",
-      "title": "HEALWELL AI's Pentavere Referenced by Several Leading Global Organizations for its Strength in Artificial Intelligence for Preventative Care",
-      "excerpt": "Pentavere's AI system, DARWEN™, identifies patients that are eligible for but not receiving approved medications or interventions, improving outcomes for patients and helping drive appropriate therapy growth and penetration. Forward Looking Statements ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/08/9959595.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/08/9959595.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-hhs-addresses-the-growing-influence-of-artificial-intelligence-in-health-care.md",
-      "title": "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
-      "originalUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/Telemedicine%20Mobile%20Health%20Apps%20Tech.jpg?h=0b7f3b1a&itok=fP20sSCO",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-who-publishes-guidance-for-ethics-and-governance-of-ai-for-healthcare-sector.md",
-      "title": "WHO Publishes Guidance for Ethics and Governance of AI for Healthcare Sector",
-      "excerpt": "We collaborate with the world's leading lawyers to deliver news tailored for you. Sign Up to receive our free e-Newsbulletins Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
-      "originalUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/healthcare%20insurance%20technology%20telemedicine%20medical%20chart%20doctor%20digital%20health.jpg?h=c0041bcf&itok=Oaxm9xAo",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

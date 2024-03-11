@@ -10,7 +10,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -46,7 +46,8 @@
         "Natural Language Processing",
         "Microsoft AI",
         "Machine Learning",
-        "IBM AI"
+        "IBM AI",
+        "AI in Finance"
       ]
     },
     {
@@ -58,7 +59,7 @@
       "originalUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -95,34 +96,34 @@
     {
       "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
       "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
-      "excerpt": "TORONTO, March 07, 2024 (GLOBE NEWSWIRE) -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in ...",
+      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
+      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
       "featuredContent": null,
       "highlight": null,
       "heat": 284,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T08:30:00Z",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -131,10 +132,10 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "Microsoft AI",
-        "AI in Finance"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -231,7 +232,8 @@
         "IBM AI",
         "AI",
         "AWS AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {

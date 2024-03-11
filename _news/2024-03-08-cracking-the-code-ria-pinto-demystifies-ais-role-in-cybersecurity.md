@@ -28,15 +28,6 @@ related:
       name: HealthTech
       domain: healthtechmagazine.net
     quality: 34
-  - title: "'Facepalm For Facebook': Meta Outage Highlights Weakness, Declining Cybersecurity Trust"
-    excerpt: "Also Read: ‘Apple At A Crossroads’ Analyst Says: Company Must Step Up On AI Or Get Left Behind Cybersecurity ... reliant on a second device.” Facebook’s outage came on the same day as the publication by research and public relations firm Edelman ..."
-    publishedDateTime: 2024-03-06T10:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/facepalm-for-facebook-meta-outage-highlights-weakness-declining-cybersecurity-trust-1033138417"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
 
 secured: "UkxnvWJvylMKqzMKXdme8QbmRDpk71UV3urmmgK9AF9fXOVwYasfNDxa5mPcV/FziOGo7LxhisJdX+0e7scIh0mYFcZ9+HGiFVqGZgStEe2iO1U815E1zw1LwkEZNyuGCVixUjXr9LQLjDZr29SSbuBfegvUHFj3twxefc/H4MAvDh+uPfePKXMqHeMpnnc7TE8EZzE5JCfH4YtQFaadx1HCBpW/4K8xQ2/M7WFyENdAGyqNtAh1jUj5GkWRuW6RuPLlc0aEXnS46KIOfAReBdTcJw+e3sxt1cJlT2KLgYaCsiche7KsQXbDFrE1J0d7pyRJnmdG82xrdhKTFnrN52jCeckLcCEaBspW+6PF7D0=;+/pHi9jnwEpMGbKzwpkUHg=="
 ---

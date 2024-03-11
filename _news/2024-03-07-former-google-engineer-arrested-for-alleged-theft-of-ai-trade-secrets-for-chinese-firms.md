@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer
 webUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/"
 type: article
 quality: 61
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -183,6 +183,15 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "AMD’s Chinese AI chip plan halted by US govt: What’s next?"
+    excerpt: "AMD finds itself at a standstill as it faces hurdles from the US in its endeavor to sell AI chips explicitly tailored for the Chinese market"
+    publishedDateTime: 2024-03-07T01:30:00Z
+    webUrl: "https://techwireasia.com/03/2024/amd-chinese-ai-chips-plan-halted-by-us-govt-whats-next/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 34
   - title: "Ex-Google engineer charged with stealing artificial intelligence technology while working with China-based companies"
     excerpt: "Ex-Google engineer charged with stealing artificial intelligence technology while working with China-based companies"
     publishedDateTime: 2024-03-06T21:09:00Z

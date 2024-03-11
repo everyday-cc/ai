@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-09-an-oscar-for-best-casting-is-set-for-2026-will-stunt-workers-and-voice-actors-be-next.md",
+      "title": "An Oscar for Best Casting Is Set for 2026 — Will Stunt Workers and Voice Actors Be Next?",
+      "excerpt": "Casting directors, often the unsung heroes of film production, rarely receive mainstream recognition. David Rubin ... But that hasn’t stopped people from pitching Oscars for best voice performances (despite worthy efforts by Eddie Murphy in “Shrek ...",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/#!",
+      "originalUrl": "https://variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://variety.com/wp-content/uploads/2024/02/Sarah-Finn-John-Wick-Her.jpg?w=1000&h=562&crop=1",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/film/columns/casting-oscars-stunts-voice-acting-1235902449/amp/",
+      "publishedDateTime": "2024-02-08T21:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-webpt-wins-2024-best-in-klas-recognition.md",
+      "title": "WebPT Wins 2024 Best in KLAS Recognition",
+      "excerpt": "\"This accolade from KLAS Research validates WebPT's commitment to excellence and innovation as we aim to advance Practice Experience Management in outpatient therapy,\" said Ashley",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time.md",
+      "title": "Roblox's new AI chat translator can help you understand 16 languages in real time",
+      "excerpt": "However, language barriers can often pose a barrier to making those connections, and Roblox's new AI chat translator seeks to tackle that. On Monday, Roblox released real-time AI chat translations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "originalUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/837e9a56008ea0a05685512d2539cee0edf12658/2024/02/06/5320fc4d-26fb-42a8-87ea-1ab8e30c3499/screenshot-2024-02-06-at-10-47-15am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "publishedDateTime": "2024-02-06T21:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-roblox-launches-real-time-ai-chat-translation-tool-will-support-16-languages.md",
       "title": "Roblox Launches Real-Time AI Chat Translation Tool, Will Support 16 Languages",
       "excerpt": "Announcing the new feature in a post, Roblox Chief Technology Officer Daniel Sturman said, “Using AI to automate real-time translations in text chat removes language barriers and brings more people together,",
@@ -1204,145 +1333,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-why-ai-methods-need-heightened-security.md",
-      "title": "Why AI Methods Need Heightened Security",
-      "excerpt": "The company has blended talent disciplines from cybersecurity and deep learning and they are now entering their fifth year of software development of their secure AI risk platform that covers computer vision, natural language processing, machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b3cc5450e1d7610d2631ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T15:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-the-benefits-of-medical-speech-to-text.md",
-      "title": "The Benefits of Medical Speech-to-Text",
-      "excerpt": "What is medical speech-to-text? Medical speech-to-text, also known as medical speech recognition (MSR), is a technology that allows you to dictate your medical notes instead of typing them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
-      "originalUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tL3Jlc291cmNlcy9pbWcvZXAtYm5kLWxvZ28tMTIwLnBuZw==",
-          "width": 700,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back.md",
-      "title": "‘Not Going Away’: A Star Greenberg Traurig Litigator Lost Her Voice. AI Brought It Back",
-      "excerpt": "Lori Cohen achieved an impressive 58 defense verdicts before suddenly and inexplicably losing her voice. Now, with the help of her long-time trial technologist and friend Gerard Buitrago, she’s harnessing the power of AI to get back in the courtroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/",
-      "originalUrl": "https://www.law.com/legaltechnews/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Cohen-Buitrago-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T20:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

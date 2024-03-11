@@ -10,7 +10,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -46,7 +46,8 @@
         "Natural Language Processing",
         "Microsoft AI",
         "Machine Learning",
-        "IBM AI"
+        "IBM AI",
+        "AI in Finance"
       ]
     },
     {
@@ -175,6 +176,49 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-watad-energy-communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia.md",
+      "title": "Watad Energy & Communications Unveils \"Mulhem,\" First Locally Trained Arabic-Language Large Language Model in Saudi Arabia",
+      "excerpt": "In a significant development for the Arabic-speaking AI sector, Watad Energy & Communications today announced the launch of \"Mulhem,\" the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2355087/Watad.jpg?p=facebook",
+          "width": 1599,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -435,6 +479,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-exploring-ai-what-are-large-language-models.md",
+      "title": "Exploring AI: What Are Large Language Models?",
+      "excerpt": "I am an entrepreneur using AI to make public info easy to understand ... given the previous words among other tasks designed to improve its understanding of language syntax, semantics, and context. This phase requires massive amounts of computational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/02/29/exploring-ai-what-are-large-language-models/",
+      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/02/29/exploring-ai-what-are-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e12d42d73e9c9cd4c8256b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1304,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T20:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-generative-ai-and-the-big-buzz-about-small-language-models.md",
       "title": "Generative AI and the big buzz about small language models",
       "excerpt": "They process massive amounts of information to execute natural language processing (NLP) tasks that approximate human speech in response to prompts. As such, they are ideal for pulling from vast amounts of data to generate a wide range of content ...",
@@ -507,6 +603,49 @@
       "provider": {
         "name": "Finextra",
         "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-groq-lpu-language-processing-unit-performance-tested-capable-of-500-tokens-per-second.md",
+      "title": "Groq LPU (Language Processing Unit) performance tested – capable of 500 tokens per second",
+      "excerpt": "Learn more about the performance of the new  Groq LPU Inference Engine performance tested. The Groq Language Processing Unit is extremely",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/groq-lpu-language-processing-unit-performance-tested-capable-of-500-tokens-per-second/",
+      "originalUrl": "https://www.geeky-gadgets.com/groq-lpu-language-processing-unit-performance-tested-capable-of-500-tokens-per-second/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Groq-Language-Processing-Unit.jpg",
+          "width": 1280,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T13:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1322,154 +1461,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-samsung-expands-galaxy-ai-features-across-latest-devices-with-one-ui-61-update.md",
-      "title": "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update",
-      "excerpt": "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "originalUrl": "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "publishedDateTime": "2024-02-22T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets.md",
-      "title": "Galaxy AI Coming to Samsung S23, Z Flip, Z Fold 5, and Galaxy Tablets",
-      "excerpt": "One of the most touted Galaxy AI features is called Circle to Search, which lets you search for something that you see on your screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
-      "originalUrl": "https://www.pcmag.com/news/galaxy-ai-coming-to-samsung-s23-z-flip-z-fold-5-and-galaxy-tablets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00gGCdUOwn2gbxeJgLZKAYU-1.fit_lim.size_1200x630.v1708557191.jpg",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-which-tech-jobs-could-ai-replace-a-realistic-and-pragmatic-view.md",
-      "title": "Which tech jobs could AI replace? A realistic and pragmatic view",
-      "excerpt": "AI won't take over everyone's jobs overnight, but some careers in the tech industry are at a greater risk than others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/",
-      "originalUrl": "https://www.androidauthority.com/which-tech-jobs-could-ai-replace-3417496/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/OpenAI-on-website-on-smartphone-stock-photo-3.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T20:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

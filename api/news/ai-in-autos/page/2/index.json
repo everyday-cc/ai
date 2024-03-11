@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
+      "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
+      "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
+      "publishedDateTime": "2024-02-27T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-house-announces-bipartisan-task-force-to-tackle-ai-regulation.md",
+      "title": "House announces bipartisan task force to tackle AI regulation",
+      "excerpt": "A new effort is underway in Washington, D.C. to regulate artificial intelligence. The House has launched a bipartisan task force focused on creating the AI legislation necessary to keep everyone safe while also advancing the industry. KTVU's Alex Savidge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/video/1417137",
+      "originalUrl": "https://www.ktvu.com/video/1417137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/video/1417137.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/video/1417137.amp",
+      "publishedDateTime": "2024-02-27T01:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-baidu-an-unloved-ai-related-name.md",
+      "title": "Baidu: An Unloved AI-Related Name",
+      "excerpt": "Baidu shares have underperformed global tech peers despite its strong position in the AI space in China. The stock is attractively valued at 11x forward P/E, especially after recent turmoil in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4673515-baidu-an-unloved-ai-related-name",
+      "originalUrl": "https://seekingalpha.com/article/4673515-baidu-an-unloved-ai-related-name",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458699011/image_458699011.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T21:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-artificial-intelligence-used-to-cut-down-on-emergency-response-times.md",
+      "title": "Artificial Intelligence used to cut down on emergency response times",
+      "excerpt": "SAN JOSE, Calif. - Artificial Intelligence, also known as AI, has blasted onto the scene with concerning results and discussions about federal oversight and regulation. However, a Silicon Valley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
+      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
+      "publishedDateTime": "2024-02-26T19:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
+      "title": "AI Can Power The Green Energy Transition",
+      "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "publishedDateTime": "2024-02-26T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-baidu-and-ponyai-receive-permit-to-offer-robotaxis-at-daxing-airport.md",
       "title": "Baidu and Pony.ai receive permit to offer robotaxis at Daxing airport",
       "excerpt": "Chinese tech heavyweight Baidu Inc and self-driving startup Pony.ai have received permits to offer autonomous vehicle services at Beijing Daxing International Airport, a key step that indicates Beijing has become the world's first capital city to run passenger-carrying robotaxis from urban areas to the airport.",
@@ -1134,239 +1332,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-openai-unveils-ai-that-instantly-generates-eye-popping-videos.md",
-      "title": "OpenAI Unveils A.I. That Instantly Generates Eye-Popping Videos",
-      "excerpt": "The start-up is sharing the new technology, called Sora, with a small group of early testers as it tries to understand the potential dangers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/15/autossell/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T18:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-waymo-recalls-444-self-driving-vehicles-over-software-error.md",
-      "title": "Waymo recalls 444 self-driving vehicles over software error",
-      "excerpt": "Feb 15 (Reuters) - Alphabet's (GOOGL.O), opens new tab Waymo unit has recalled 444 self-driving vehicles after two minor collisions in quick succession in Arizona ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
-      "originalUrl": "https://www.reuters.com/technology/waymo-updates-software-over-400-recalled-vehicles-nhtsa-2024-02-15/?user_email=31c5543c1734d25c7206f5fd591525d0295bec6fe84ff82f946a34fe970a1e66",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T13:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-alphabets-waymo-recalled-vehicles-to-update-automated-driving-software.md",
-      "title": "Alphabet's Waymo recalled vehicles to update automated driving software",
-      "excerpt": "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms",
-      "publishedDateTime": "2024-02-15T11:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-important-nvda-guidance-released.md",
-      "title": "Important NVDA guidance released",
-      "excerpt": "Artificial intelligence chipmaker Nvidia (NVDA) has surpassed $700/share and is now up 52% in 2024. Stephen McBride just issued guidance for Disruption Investor members on what to do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
-      "originalUrl": "https://www.mauldineconomics.com/editorial/important-nvda-guidance-released",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240214_feature.jpg",
-          "width": 725,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
-      "cdnAmpWebUrl": "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/important-nvda-guidance-released",
-      "publishedDateTime": "2024-02-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MauldinEconomics.com",
-        "domain": "mauldineconomics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.md",
-      "title": "Waymo issues a voluntary recall on its self-driving vehicle software",
-      "excerpt": "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?v=1707324947",
-          "width": 3200,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "publishedDateTime": "2024-02-14T23:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

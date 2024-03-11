@@ -2,6 +2,170 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-08-diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence.md",
+      "title": "Diagnosing Attention Deficit Hyperactivity Disorder Using Artificial Intelligence",
+      "excerpt": "Cutting-edge research utilising artificial intelligence has shed light on the potential for a revolutionary diagnostic approach ADHD.",
+      "sourceUrl": null,
+      "webUrl": "https://www.emjreviews.com/innovations/news/diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence/",
+      "originalUrl": "https://www.emjreviews.com/innovations/news/diagnosing-attention-deficit-hyperactivity-disorder-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emjreviews.com/wp-content/uploads/2024/02/pexels-cottonbro-studio-5723883-1.jpg",
+          "width": 821,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "emjreviews.com",
+        "domain": "emjreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-healwell-ais-pentavere-referenced-by-several-leading-global-organizations-for-its-strength-in-artificial-intelligence-for-preventative-care.md",
+      "title": "HEALWELL AI's Pentavere Referenced by Several Leading Global Organizations for its Strength in Artificial Intelligence for Preventative Care",
+      "excerpt": "Pentavere's AI system, DARWEN™, identifies patients that are eligible for but not receiving approved medications or interventions, improving outcomes for patients and helping drive appropriate therapy growth and penetration. Forward Looking Statements ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/08/9959595.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/08/9959595.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-hhs-addresses-the-growing-influence-of-artificial-intelligence-in-health-care.md",
+      "title": "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
+      "originalUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/Telemedicine%20Mobile%20Health%20Apps%20Tech.jpg?h=0b7f3b1a&itok=fP20sSCO",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-who-publishes-guidance-for-ethics-and-governance-of-ai-for-healthcare-sector.md",
+      "title": "WHO Publishes Guidance for Ethics and Governance of AI for Healthcare Sector",
+      "excerpt": "We collaborate with the world's leading lawyers to deliver news tailored for you. Sign Up to receive our free e-Newsbulletins Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "originalUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/healthcare%20insurance%20technology%20telemedicine%20medical%20chart%20doctor%20digital%20health.jpg?h=c0041bcf&itok=Oaxm9xAo",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-3-health-systems-share-their-apple-vision-pro-plans.md",
       "title": "3 health systems share their Apple Vision Pro plans",
       "excerpt": "Cedars-Sinai Medical Center, Boston Children’s Hospital and Sharp Healthcare are testing Apple's virtual and augmented reality set.",
@@ -1195,161 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-securing-the-healthcare-cloud-in-2024-with-cloud-managed-services.md",
-      "title": "Securing the Healthcare Cloud in 2024 with Cloud Managed Services",
-      "excerpt": "By partnering with a cloud managed service provider, one can overcome cloud staffing and security issues and better align internal resources with the things that make your business special, like developing new apps and features that enhance healthcare services and improve health outcomes for end users.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2024/01/securing-the-healthcare-cloud-in-2024-with-cloud-managed-services/",
-      "originalUrl": "https://medcitynews.com/2024/01/securing-the-healthcare-cloud-in-2024-with-cloud-managed-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T18:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-role-of-artificial-intelligence-in-improving-sexual-and-mental-health.md",
-      "title": "Role of artificial intelligence in improving sexual and mental health",
-      "excerpt": "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html",
-      "originalUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html",
-      "publishedDateTime": "2024-01-24T06:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy.md",
-      "title": "Inhibrx, Sanofi ratify $2.2B deal for AATD therapy",
-      "excerpt": "Inhibrx Inc. and Sanofi SA have agreed to a deal worth up to $2.2 billion, whereby the latter’s Aventis Inc. subsidiary will acquire INBRX-101, an optimized, recombinant alpha-1 antitrypsin (AAT) augmentation therapy undergoing a registrational trial for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
-      "originalUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
-      "title": "Is there AI discussion fatigue in healthcare?",
-      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,190 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-15-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade.md",
+      "title": "Microsoft: Azure And AI Are Set To Drive Growth In The Next Decade",
+      "excerpt": "The synergies between Azure, AI, and Microsoft's other businesses, such as gaming and productivity tools, give the company a competitive advantage. Microsoft has the potential to gain market share ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
+      "originalUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gettyimages.com/id/1246495638/es/foto/this-picture-taken-on-january-23-2023-in-toulouse-southwestern-france-shows-screens-displaying.jpg?b=1&s=594x594&w=0&k=20&c=W3Ny0ZFSCnIQ3OCfOzPsYtggqLRlITk6RVjioEYfMqc=",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T04:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
+      "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks.md",
+      "title": "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks",
+      "excerpt": "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-ai-investors-are-wooing-startups-with-massive-computing-clusters.md",
+      "title": "AI Investors Are Wooing Startups With Massive Computing Clusters",
+      "excerpt": "Nat Friedman and Daniel Gross built a 4,000-chip supercomputer. Andreessen Horowitz is in talks to secure tens of thousands of GPUs for an offering of its own, a source said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd0941a11e54b7ed05dad1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T20:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-akamai-bets-on-edge-computing-to-take-on-aws-azure-and-google-cloud.md",
       "title": "Akamai Bets on Edge Computing to Take on AWS, Azure and Google Cloud",
       "excerpt": "Akamai aims to establish 25 new edge locations by the end of this month, 100 by the end of this year, and scale to over thousands in the coming years.",
@@ -1161,170 +1345,6 @@
       "provider": {
         "name": "punjabnewsexpress",
         "domain": "punjabnewsexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour.md",
-      "title": "Pune Woman, 53, Teaches Marathi To Microsoft AI Tools, Earns ₹400 An Hour",
-      "excerpt": "At the core of this initiative lies Karya, an organisation born as a Microsoft Research Project in Bengaluru back in 2017. Karya focusses on creating datasets in various Indian languages to train AI models and conduct research, while also generating employment opportunities for Indians, particularly in rural regions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/pune/pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour",
-      "originalUrl": "https://www.freepressjournal.in/pune/pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T08:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-research-shows-that-offering-tips-to-chatgpt-improves-responses.md",
-      "title": "Research Shows That Offering Tips To ChatGPT Improves Responses",
-      "excerpt": "A research paper titled, Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4,” details an in-depth exploration into optimizing Large Language Model prompts. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/research-chatgpt-prompts/507535/",
-      "originalUrl": "https://www.searchenginejournal.com/research-chatgpt-prompts/507535/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/tipping-chatgpt-65c4ab526c7e7-sej.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Searchenginejournal.com",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-dhs-is-recruiting-techies-for-the-ai-corps.md",
-      "title": "DHS Is Recruiting Techies for the AI Corps",
-      "excerpt": "The U.S. Department of Homeland Security is recruiting dozens of artificial intelligence experts to integrate AI abilities into government work such as defending",
-      "sourceUrl": null,
-      "webUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
-      "originalUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/dhs-recruiting-techies-for-ai-corps-showcase_image-10-a-24297.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T22:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HHS",
-        "domain": "govinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-microsoft-ceo-satya-nadella-in-india-to-meet-with-villagers-helping-develop-microsoft-ai-tools.md",
-      "title": "Microsoft CEO Satya Nadella in India, to meet with villagers helping develop Microsoft AI tools",
-      "excerpt": "Microsoft CEO Satya Nadella is in India to meet with villagers helping develop Microsoft AI tools. Learn how he aims to provide skilling opportunities and make technology accessible in under-resourced languages.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-ceo-satya-nadella-in-india-developing-microsoft-ai-tools/articleshow_new/107492543.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-ceo-satya-nadella-in-india-developing-microsoft-ai-tools/articleshow_new/107492543.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/107492543.cms",
-          "width": 1432,
-          "height": 955,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T12:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

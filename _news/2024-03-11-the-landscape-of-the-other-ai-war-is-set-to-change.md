@@ -21,6 +21,22 @@ topics:
   - AI
   - AI Hardware
 
+related:
+  - title: "Apple has created its own artificial intelligence and is set to release it this year"
+    excerpt: "Apple is reportedly testing a new AI called \"Ask.\" The company has initiated a pilot program to test a new AI aimed at improving its technical support."
+    publishedDateTime: 2024-03-11T10:34:00Z
+    webUrl: "https://ccm.net/mobile/12197-apple-has-created-its-own-artificial-intelligence-ask-ai/"
+    type: article
+    provider:
+      name: CCM
+      domain: ccm.net
+    quality: 30
+    images:
+      - url: "https://img-19.ccm.net/L0jMbnzKm2I_hCvOMi8ZcAi7JR4=/1500x/smart/fdab48970ba7496e8f117c91fb6f73d6/ccmcms-enccm/39489304.png"
+        width: 1500
+        height: 1500
+        isCached: true
+
 secured: "9bXnsT4saAg+QBigA/McMwmiyGvk/eX6rqLnCqpAx9tWqY5zaxZdV/8tNMoOiyurs2lw8vrKPDAgA2Aj/SU3suc8mXcx9zWGqhnB+HK17wjP6cvFq5VVQtn3MKY+wBp5OoTygRdOPxRWahRSNY29TX29Ghq0z4F3Grq2j8eo6vfmjsZKE//8RFVTY/Y9Q5/7GqzEqzz0qJihwTsXOGNfYiC7l1DKSx7AEce/c/i/eUG3AEa3hyxE1Q6wby4BuXumNSc8yeAOg/Yy/79mFdA//U05QjT9HrFti+/KKOwXX7uxRYCWf1s9/u+1usRDAewYkJ4kKQBc7g7/D+W7nSJxOGKiuFCqKGW1w4wrB90elccS3Yj9bZ5suk9uh1Hge5cBMbLNeRRzp7ktHRFXTqliLc+zg58j299Ydxyp3Cv7l1Usb02ehL2fXw4UzMRyiC6n0gLswEcfcGjGXiyvMEX9Iju3xTA59kRi4M2XrLGpA+0MIY5CfdYFoiuQaiSm0cj3J5Ad1UrA+3jicD4hg+Bz4g==;OoP+YWRQG68a/RWJz3hx2w=="
 ---
 

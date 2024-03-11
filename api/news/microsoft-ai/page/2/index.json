@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-28-mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried.md",
+      "title": "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried",
+      "excerpt": "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
+      "publishedDateTime": "2024-02-28T04:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-long-covid-may-lead-to-measurable-cognitive-decline-study-finds.md",
+      "title": "Long Covid May Lead to Measurable Cognitive Decline, Study Finds",
+      "excerpt": "Long Covid may lead to measurable cognitive decline, especially in the ability to remember, reason and plan, a large new study suggests. Cognitive testing of nearly 113,000 people in England found ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/28/health/long-covid-cognitive-effects.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/28/health/long-covid-cognitive-effects.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/28/science/28LongCovid-Cognition/28LongCovid-Cognition-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-microsoft-made-a-16-million-investment-in-mistral-ai.md",
+      "title": "Microsoft made a $16 million investment in Mistral AI",
+      "excerpt": "Yesterday, Mistral AI, a Paris-based AI startup working on foundational models, announced a new large language model that could rival OpenAI’s GPT-4, a chat assistant and a distribution partnership with Microsoft yesterday. But Microsoft and Mistral AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 544,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/amp/",
+      "publishedDateTime": "2024-02-27T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-amazon-bedrock-a-solid-generative-ai-foundation.md",
+      "title": "Amazon Bedrock: A solid generative AI foundation",
+      "excerpt": "Amazon Bedrock complements the almost 30 other Amazon machine learning services available, including Amazon Q, the AWS generative AI assistant. One major competitor to Amazon Bedrock is Azure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
+      "originalUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_2024657870-100961571-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
+      "publishedDateTime": "2024-02-27T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant.md",
       "title": "Mistral AI releases new model to rival GPT-4 and its own chat assistant",
       "excerpt": "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ...",
@@ -1293,190 +1493,6 @@
         "Microsoft AI",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade.md",
-      "title": "Microsoft: Azure And AI Are Set To Drive Growth In The Next Decade",
-      "excerpt": "The synergies between Azure, AI, and Microsoft's other businesses, such as gaming and productivity tools, give the company a competitive advantage. Microsoft has the potential to gain market share ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
-      "originalUrl": "https://seekingalpha.com/article/4670331-microsoft-azure-and-ai-are-set-to-drive-growth-in-the-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1246495638/es/foto/this-picture-taken-on-january-23-2023-in-toulouse-southwestern-france-shows-screens-displaying.jpg?b=1&s=594x594&w=0&k=20&c=W3Ny0ZFSCnIQ3OCfOzPsYtggqLRlITk6RVjioEYfMqc=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
-      "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks.md",
-      "title": "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks",
-      "excerpt": "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T20:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-investors-are-wooing-startups-with-massive-computing-clusters.md",
-      "title": "AI Investors Are Wooing Startups With Massive Computing Clusters",
-      "excerpt": "Nat Friedman and Daniel Gross built a 4,000-chip supercomputer. Andreessen Horowitz is in talks to secure tens of thousands of GPUs for an offering of its own, a source said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd0941a11e54b7ed05dad1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T20:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

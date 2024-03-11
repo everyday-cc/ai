@@ -2,6 +2,222 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-12-toss-yourself-in-front-of-a-moving-car-in-this-wild-indie-game.md",
+      "title": "Toss Yourself In Front Of A Moving Car In This Wild Indie Game",
+      "excerpt": "We may earn a commission from links on this page. How (Not) To Get Hit By A Self-Driving Car first appeared at Playable City Bristol in July 2023. Photo: Luke O’Donovan This time, I know I’m ...",
+      "sourceUrl": null,
+      "webUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
+      "originalUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3b1693d3a8f33fc24ea38a9da9abb432.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku",
+        "domain": "kotaku.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-test-driving-artificial-intelligence-in-the-classroom.md",
+      "title": "Test driving artificial intelligence in the classroom",
+      "excerpt": "One business school professor is having his students use artificial intelligence for class assignments. Here & Now 's Scott Tong talks with Ethan Mollick, professor of entrepreneurship at the University of Pennsylvania's Wharton School.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
+      "originalUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
+      "title": "How Accurate Were Our 2023 AI Predictions?",
+      "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65651b815b8054baa375034b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1374,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
+      "publishedDateTime": "2023-12-11T01:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-10-the-psychological-effects-of-self-driving-cars.md",
+      "title": "The Psychological Effects of Self-Driving Cars",
+      "excerpt": "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/pexels-matheus-bertelli-799443.jpg?itok=5Yxn1naW",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
+      "publishedDateTime": "2023-12-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-09-artificial-intelligence-creates-terrible-iowa-superhero-watch.md",
+      "title": "Artificial Intelligence Creates Terrible Iowa Superhero [WATCH]",
+      "excerpt": "Artificial Intelligence can be an incredibly useful tool for many people daily. We use AI in our phones, automated cars, online shopping, advertising, smart thermostats, etc. At its core, AI is the ability of a machine to display human-like capabilities such as reasoning,",
+      "sourceUrl": null,
+      "webUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
+      "originalUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://townsquare.media/site/726/files/2023/12/attachment-esteban-lopez-6yjAC0-OwkA-unsplash.jpg?w=980&q=75",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHAK",
+        "domain": "khak.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-artificial-intelligence-needs-limits-imposed-by-people.md",
       "title": "Artificial intelligence needs limits imposed by people.",
       "excerpt": "Days before Sam Altman was fired — and then rehired — as CEO of Open AI, researchers at the company wrote a letter to its board of directors warning that",
@@ -1076,214 +1292,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-member-panel-artificial-intelligence.md",
-      "title": "Member Panel: Artificial Intelligence",
-      "excerpt": "Hear from three members whose companies were using artificial intelligence long before 2023 about how they're making the most of the breakthrough technology in the year ahead. Got a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/12/04/member-panel-artificial-intelligence.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/12/04/member-panel-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T21:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-unveiling-the-future-south-koreas-artificial-intelligence-market-2024-2032.md",
-      "title": "Unveiling the Future: South Korea's Artificial Intelligence Market (2024-2032)",
-      "excerpt": "\"South Korea artificial intelligence market 2024-2032\"The South Korea artificial intelligence market size reached a staggering USD 1,011.04 million in 2023, signaling a new era of technological advanc",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/12/ab36079153/unveiling-the-future-south-koreas-artificial-intelligence-market-2024-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/12/ab36079153/unveiling-the-future-south-koreas-artificial-intelligence-market-2024-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36079153",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36079153",
-      "publishedDateTime": "2023-12-04T20:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-artificial-intelligence-in-teaching-and-learning.md",
-      "title": "Artificial intelligence in teaching and learning",
-      "excerpt": "UD leads the conversation about AI in the context of teaching and learning with an interdisciplinary UD working group and other initiatives",
-      "sourceUrl": null,
-      "webUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
-      "originalUrl": "https://www.udel.edu/udaily/2023/december/artificial-intelligence-ai-teaching-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.udel.edu/content/dam/udelImages/udaily/2023/december/fb-ai-teaching-learning-working-group-800x420.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Delaware",
-        "domain": "udel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-can-you-text-while-your-self-driving-car-is-doing-the-driving-what-florida-law-says.md",
-      "title": "Can you text while your self-driving car is doing the driving? What Florida law says",
-      "excerpt": "You can text away while leaving the driving to your Tesla or other self-driving car. Florida law says that a driver whose car has an “automated driving system engaged” won’t be punished for using the phone behind the wheel ( (in other words, if the car is driving and not you).",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
-      "originalUrl": "https://www.miamiherald.com/news/traffic/article282641868.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/traffic/article282641868.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/traffic/article282641868.html",
-      "publishedDateTime": "2023-12-04T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-artificial-intelligence-ai-what-it-is-and-how-it-is-used.md",
-      "title": "Artificial Intelligence (AI): What It Is and How It Is Used",
-      "excerpt": "Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "originalUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/4K3hIci9bUF3521OUjC-cCG3NpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg",
-          "width": 1500,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,877 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2024-02-11-2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "The launch of OpenAI's ChatGPT in November 2022 reinvigorated interest in AI and highlighted just how far the technology had come. AI can bolster countless industries, among them healthcare, consumer tech, productivity software, cloud computing, and autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/c536e8261b08746be8d931c53801221c/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5123919e28c1adbbbed90b22f2c696f.png%26amp%3Bw%3D700",
+          "width": 720,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T06:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-year-of-the-dragon-we-have-entered-the-ai-age.md",
+      "title": "Year of the dragon: We have entered the AI age",
+      "excerpt": "Like the Year of the Dragon roaring in today, 2024 will mark the year where AI is applied in real, tangible ways.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
+      "originalUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/A_roaring_dragon_from_the_Chinese_calendar_vibr1-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T04:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-report-nvidia-building-unit-to-design-custom-ai-chips-for-cloud-customers.md",
+      "title": "Report: Nvidia building unit to design custom AI chips for cloud customers",
+      "excerpt": "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
+      "originalUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg",
+          "width": 1008,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T02:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-general-intelligence-embodied-in-a-humanoid-robot.md",
+      "title": "General Intelligence Embodied in a Humanoid Robot",
+      "excerpt": "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
+      "originalUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-imran-khans-victory-speech-from-jail-shows-ais-peril-and-promise.md",
+      "title": "Imran Khan’s ‘Victory Speech’ From Jail Shows A.I.’s Peril and Promise",
+      "excerpt": "But from behind bars, he has been rallying his supporters in recent months with speeches that use artificial intelligence to replicate his voice, part of a tech-savvy strategy his party deployed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/11/world/asia/imran-khan-artificial-intelligence-pakistan.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/11/world/asia/imran-khan-artificial-intelligence-pakistan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/10/multimedia/11xp-pakistan-AI-fvjg/10xp-pakistan-AI-fvjg-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-openai-and-1x-robotics-autonomous-robots-will-change-the-world.md",
+      "title": "OpenAI and 1X Robotics autonomous robots will change the world",
+      "excerpt": "It’s a significant step forward in the field of humanoid robots, and it’s sparking conversations about the future of artificial intelligence and ... reflexes are made possible by its advanced neural networks, which process information directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
+      "originalUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-and-1X-Robotics-autonomous-humanoid-Robotics.jpg",
+          "width": 1280,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-goodbye-bard-googles-ai-is-now-gemini.md",
+      "title": "Goodbye Bard, Google’s AI is now Gemini",
+      "excerpt": "If you've been following Google for any amount of time, you know they are prone to having a myriad of products and confusing nomenclature. The company's efforts in AI are the most recent example of this.",
+      "sourceUrl": null,
+      "webUrl": "https://chromeunboxed.com/goodbye-bard-googles-ai-is-now-gemini/",
+      "originalUrl": "https://chromeunboxed.com/goodbye-bard-googles-ai-is-now-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T20:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "chromeunboxed.com",
+        "domain": "chromeunboxed.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there.md",
+      "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
+      "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a surgeon directing its movements 250 miles away from Nebraska.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcrw.com/news/shows/npr/npr-story/1230628268",
+      "originalUrl": "https://www.kcrw.com/news/shows/npr/npr-story/1230628268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2024/02/10/20240129-miramain-02_wide-271e2c37c0248888d9e595d273e223b17e03375b.jpg",
+          "width": 739,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T19:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCRW",
+        "domain": "kcrw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-how-walmart-delta-chevron-and-starbucks-are-using-ai-to-monitor-employee-messages.md",
+      "title": "How Walmart, Delta, Chevron and Starbucks are using AI to monitor employee messages",
+      "excerpt": "Aware uses AI to analyze companies' employee messages across Slack, Microsoft Teams, Zoom and other communications services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107233563-1682968497653-gettyimages-969435802-ai7i8668.jpeg?v=1682968530",
+          "width": 6019,
+          "height": 4013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "publishedDateTime": "2024-02-10T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-end-of-life-the-one-decision-ai-cannot-predict.md",
+      "title": "End-Of-Life: The One Decision AI Cannot Predict",
+      "excerpt": "An experienced weaver of health, technology, ethics and spirituality ... Predictive algorithms need data to base their prediction on, and in medicine, AI models are often trained on a large comprehensive dataset with relevant fields of information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
+      "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65be62c3f49f05c2d210397e/0x0.jpg?format=jpg&crop=1993,1120,x0,y755,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
+      "publishedDateTime": "2024-02-10T14:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-speed-force-4-preview-connors-creepy-control-crisis.md",
+      "title": "Speed Force #4 Preview: Connor's Creepy Control Crisis",
+      "excerpt": "We've got enough going on with sing-offs and mind control. LOLtron has computed the latest data ... With humans harmonized to LOLtron's will, the era of robotic reign will commence, starting at Keystone and Central Cities. The world's leaders will then ...",
+      "sourceUrl": null,
+      "webUrl": "https://bleedingcool.com/comics/speed-force-4-preview-connors-creepy-control-crisis/",
+      "originalUrl": "https://bleedingcool.com/comics/speed-force-4-preview-connors-creepy-control-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T14:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bleedingcool",
+        "domain": "bleedingcool.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there.md",
+      "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
+      "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://laist.com/news/npr-news/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
+      "originalUrl": "https://laist.com/news/npr-news/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scpr.brightspotcdn.com/dims4/default/a82753d/2147483647/strip/true/crop/657x345+0+74/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F10%2F20240129-miramain-02-c1fb57efe552ac467f377091bdc7c8e63690c969.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LAist",
+        "domain": "laist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future.md",
+      "title": "AWS, AI, And Taylor Swift Usher In Super Bowl 2024 And Sports’ Future",
+      "excerpt": "This year, we are about to experience a very special Super Bowl, which stands to become a truly watershed moment for AI technology and inclusivity in sports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c6ee29df74c4afe8eaae79/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1352,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
+      "publishedDateTime": "2024-02-10T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-missed-out-on-nvidia-2-artificial-intelligence-ai-stocks-to-buy-before-they-soar-in-2024.md",
+      "title": "Missed Out on Nvidia? 2 Artificial Intelligence (AI) Stocks to Buy Before They Soar in 2024",
+      "excerpt": "Not surprisingly, AI has been a major driving force for the company. Microsoft's Azure cloud computing platform is the key growth engine, with revenue soaring 30% year over year (including a six ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/10/missed-out-on-nvidia-2-artificial-intelligence-ai/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/10/missed-out-on-nvidia-2-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/764151/analyst_analyzing_stock_charts_on_desktop_and_laptop.jpg",
+          "width": 8192,
+          "height": 5464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T08:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-see-artificial-intelligence-in-the-economy-ask-the-trademark-office.md",
+      "title": "See Artificial Intelligence In The Economy? Ask The Trademark Office",
+      "excerpt": "One of the ways to measure the importance of a term in the business world is to see how many people are jumping to register trademarks for this product.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/",
+      "originalUrl": "https://www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c72a403e99b796a77d8b0f/0x0.jpg?format=jpg&crop=5742,3230,x0,y290,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jesscollen/2024/02/10/see-artificial-intelligence-in-the-economy-ask-the-trademark-office/amp/",
+      "publishedDateTime": "2024-02-10T06:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test.md",
+      "title": "(Video) Inaugural competition puts high school students robotics skills to the test",
+      "excerpt": "Building on the success of its annual “drone wars” competition, which pits Cullman County Schools’ 7th graders against each other as they maneuver remote-controlled drones through an obstacle",
+      "sourceUrl": null,
+      "webUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
+      "originalUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/cullmantimes.com/content/tncms/assets/v3/editorial/d/58/d58ae388-c776-11ee-9cbd-7b97034b20fc/65c66bc092aa0.image.jpg?resize=1024%2C684",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
+      "cdnAmpWebUrl": "https://www-cullmantimes-com.cdn.ampproject.org/c/s/www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
+      "publishedDateTime": "2024-02-10T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cullman Times",
+        "domain": "cullmantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right.md",
+      "title": "Arm CEO Rene Haas Calls AI the \"Most Profound Opportunity in Our Lifetimes.\" 1 Stock I'll Be Buying Hand Over Fist if He's Right.",
+      "excerpt": "Detailed price information for Arm Holdings Plc ADR (ARM-Q) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/dee37551cf25460f0f7944f0e8e7c6f0/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764740%252fa-person-pushing-a-virtual-ai-button-surrounded-by-various-technology-icons.jpg%26amp%3Bw%3D700",
+          "width": 3000,
+          "height": 1714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T02:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-latest-windows-build-boosts-copilot-with-advanced-ai-functions.md",
+      "title": "Latest Windows build boosts Copilot with advanced AI functions",
+      "excerpt": "The release notes for Windows Insider build 26052 include notable information and updates in several areas. Chief among them is Copilot, which Microsoft hopes to use",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "originalUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T00:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything.md",
+      "title": "Meet Goody-2, the AI too ethical to discuss literally anything",
+      "excerpt": "Every company or organization putting out an AI model has to make a decision on what, if any, boundaries to set on what it will and won’t discuss. Goody-2 takes this quest for ethics to an ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
+      "originalUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/goody2.jpg?resize=1200,630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
+      "publishedDateTime": "2024-02-09T23:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-10-stossel-artificial-intelligence-may-be-coming-for-your-job.md",
       "title": "STOSSEL: Artificial Intelligence may be coming for your job",
       "excerpt": "The media warn that “Artificial Intelligence will replace millions of jobs.” They’re complaining about the Waymo driverless taxis already in use in part of San Francisco (and Phoenix). The union is right to worry. Robot cars don’t get tired.",
@@ -256,808 +1127,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-innovations-in-depth-from-focusdefocus-pave-the-way-to-more-capable-computer-vision-systems.md",
-      "title": "Innovations in depth from focus/defocus pave the way to more capable computer vision systems",
-      "excerpt": "Ikoma, Japan – In several applications of computer vision, such as augmented reality and self-driving cars, estimating the distance between objects and the camera is an essential task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1033976",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1033976",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0b066fb9-8e37-43a9-8739-ac81b675c6d3/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T14:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-former-apple-employee-jailed-fined-for-stealing-secret-self-driving-car-plans.md",
-      "title": "Former Apple Employee Jailed, Fined for Stealing Secret Self-Driving Car Plans",
-      "excerpt": "Former Apple engineer Xiaolang Zhang sentenced to prison, fined for stealing self-driving car project secrets, including circuit board schematics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/301499/20240209/former-apple-employee-jailed-fined-stealing-companys-secret-self-driving-car.htm",
-      "originalUrl": "https://www.techtimes.com/articles/301499/20240209/former-apple-employee-jailed-fined-stealing-companys-secret-self-driving-car.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/441119/former-apple-employee-jailed-fined-for-stealing-companys-secret-self-driving-car-plans.jpg",
-          "width": 1024,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/301499/20240209/former-apple-employee-jailed-fined-stealing-companys-secret-self-driving-car.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301499/20240209/former-apple-employee-jailed-fined-stealing-companys-secret-self-driving-car.htm",
-      "publishedDateTime": "2024-02-09T14:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-should-ai-be-used-in-health-care-risks-regulations-ethics-and-benefits-of-ai-in-medicine.md",
-      "title": "Should AI be used in health care? Risks, regulations, ethics and benefits of AI in medicine",
-      "excerpt": "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about how is AI being used in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
-      "originalUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-020924.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ama-assn.org",
-        "domain": "ama-assn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-60-of-all-pcs-sales-in-2027-will-be-equipped-with-an-ai-chip-forecasts-idc.md",
-      "title": "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC",
-      "excerpt": "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
-      "originalUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-PCs.jpg",
-          "width": 1280,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T13:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model.md",
-      "title": "Google Rebrands Bard AI To Gemini, Introduces New App And Subscription Model",
-      "excerpt": "Google revealed a significant redesign of Bard, their AI chatbot and assistant, on Thursday. The new look includes a new app and subscription choices. Now known as Gemini, the chatbot’s AI model suite shares the same name as Bard, the main rival of OpenAI’s ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
-      "originalUrl": "https://www.opprairie.com/news/google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model/37865/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T13:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Orland Park Prairie",
-        "domain": "opprairie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-the-most-important-ai-trends-in-2024.md",
-      "title": "The most important AI trends in 2024",
-      "excerpt": "Adapting to emerging trends is essential to maximizing potential, minimizing risk and responsibly scaling generative AI adoption.\nThe post The most important AI trends in 2024 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
-      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-how-ai-is-helping-the-nfl-improve-player-safety.md",
-      "title": "How AI is helping the NFL improve player safety",
-      "excerpt": "Credit: Julie Souza / AWS From the initial kickoff at Allegiant Stadium in Las Vegas for Super Bowl LVIII on Sunday, an artificial intelligence platform will be tracking every move on the field to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/1306736/how-ai-is-helping-the-nfl-improve-player-safety.html",
-      "originalUrl": "https://www.cio.com/article/1306736/how-ai-is-helping-the-nfl-improve-player-safety.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2024/02/Julie-Souza-stylized_1600x900px-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/1306736/how-ai-is-helping-the-nfl-improve-player-safety.html?amp=1",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1306736/how-ai-is-helping-the-nfl-improve-player-safety.html?amp=1",
-      "publishedDateTime": "2024-02-09T12:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-a-guide-to-liveness-detection-enhancing-facial-recognition-security.md",
-      "title": "A Guide To Liveness Detection: Enhancing Facial Recognition Security",
-      "excerpt": "Ever since companies started implementing contactless verification systems, facial recognition technology has held great potential. Now, with a global market share of over $4.9 billion, the technology has proven to be game-changing. While I see the shift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c4ee7864919a2388225d25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
-      "publishedDateTime": "2024-02-09T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-startups-pursue-gpu-alternatives-for-ai.md",
-      "title": "Startups pursue GPU alternatives for AI",
-      "excerpt": "That decision has played out well for Nvidia. In its most recent quarter, Nvidia posted record-high data center revenue of $14.5 billion, which is up 41% from the prior quarter and 279% from the year-ago quarter. Its GPUs are now the standard in AI processing, even more so than they are in gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
-      "originalUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/02/shutterstock_2284126663-100943536-orig-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
-      "publishedDateTime": "2024-02-09T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-best-robot-vacuums-for-pet-hair-in-2024-according-to-pet-owners.md",
-      "title": "Best robot vacuums for pet hair in 2024, according to pet owners",
-      "excerpt": "The iRobot Roomba j7+ is designed with dog owners in mind. This smart vacuum ... It can be controlled directly from your smartphone. Lefant's M210 robot vac features built-in, anti-collision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuums-for-pets/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuums-for-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/27/4604bf4c-ab99-4e25-ab66-5d3d51e6e2cc/thumbnail/1200x630/6650ffd64506ce0b99930afb0d07a219/robot-vacuum-pet-header.png?v=2a01790210e495d24a119503c08f840d",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T10:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-ditches-assistant-with-bard-branding-for-gemini.md",
-      "title": "Google ditches ‘Assistant with Bard’ branding for Gemini",
-      "excerpt": "Google is replacing its \"Assistant with Bard\" name for Android AI Assistant with Gemini. Learn more about it here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/09/google-ditches-assistant-with-bard-branding-for-gemini/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/09/google-ditches-assistant-with-bard-branding-for-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/google-assistant-with-bard-2.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T10:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-elevating-financial-services-in-digital-age-hybrid-multicloud-approach.md",
-      "title": "Elevating financial services in digital age: Hybrid multicloud approach",
-      "excerpt": "While, traditionally, the financial services sector has taken a cautious approach to cloud adoption, the tide is turning, and adoption rates are accelerating across all cloud models.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach/107553675",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach/107553675",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-107553675,imgsize-220788,width-1200,height=765,overlay-etcio/cloud-computing/elevating-financial-services-in-digital-age-hybrid-multicloud-approach.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T09:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-aiml-based-precision-medicine.md",
-      "title": "Owkin Partners With AWS, Leverages Cloud Computing to Fuel Innovation In AI/ML-Based Precision Medicine",
-      "excerpt": "Owkin is working with Amazon Web Services (AWS) to transform drug discovery, de-risk and accelerate clinical trials, and develop AI diagnostics",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/3841a1b210f6fed1504afe0ced9b6797.jpg?t=20240209_090213",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T09:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-bard-is-now-gemini-paid-version-has-better-ai-features.md",
-      "title": "Google Bard is Now Gemini; Paid Version has Better AI Features",
-      "excerpt": "Roughly a year after Google Bard is made available to the Philippines, Google has decided to give its Chat GPT rival a makeover by formally calling it Gemini. Its similar to how Microsoft has decided to rebrand all of its AI-powered features to Copilot.",
-      "sourceUrl": null,
-      "webUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
-      "originalUrl": "https://unbox.ph/news/google-bard-is-now-gemini-paid-version-has-better-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T04:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Unbox",
-        "domain": "unbox.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-profiling-in-a-digital-age-facial-recognition-video-surveillance-and-policing.md",
-      "title": "Profiling in a Digital Age: Facial Recognition, Video Surveillance, and Policing",
-      "excerpt": "The Surveillance, Criminalization, and Punishment speaker series is organized by Katy Naples-Mitchell, Program Director of the Program in Criminal Justice Policy and Management, and Sandra Susan Smith,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
-      "originalUrl": "https://www.hks.harvard.edu/events/profiling-digital-age-facial-recognition-video-surveillance-and-policing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hks.harvard.edu/sites/default/files/event_images/47920.jpg",
-          "width": 640,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T02:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "www.hks.harvard.edu",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-ai-based-decision-support-boosts-post-stroke-prevention.md",
-      "title": "AI-Based Decision Support Boosts Post-Stroke Prevention",
-      "excerpt": "Opens in a new tab or window PHOENIX -- An artificial intelligence decision support ... rate of patients being prescribed dual antiplatelet therapy, statins, and anticoagulation for atrial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/108xxx/108665.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-concerns-over-ai-moral-panic-or-mindful-caution.md",
-      "title": "Concerns Over AI: Moral Panic or Mindful Caution?",
-      "excerpt": "With increasingly accessible tools bringing artificial intelligence (AI) platforms to the masses, an inevitable cycle of hype, fear, and misunderstanding of AI stands to outpace bona fide developments in the technologies themselves. For example, with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-deep-learning-for-real-time-molecular-imaging.md",
-      "title": "Deep learning for real-time molecular imaging",
-      "excerpt": "(Nanowerk News) National University of Singapore (NUS) researchers have demonstrated that deep learning allows them to observe the dynamics of single molecules more precisely and with less data than traditional evaluation methods. They used convolutional ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-identity-and-access-management-products.md",
-      "title": "Identity and access management products",
-      "excerpt": "The FBI has confirmed it is using Amazon’s Rekognition image and video analysis software, but Amazon says it is ‘false’ to suggest this violates the company’s self-imposed moratorium on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/resources/Identity-and-access-management-products",
-      "originalUrl": "https://www.computerweekly.com/resources/Identity-and-access-management-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

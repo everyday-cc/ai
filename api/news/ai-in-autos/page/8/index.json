@@ -2,6 +2,252 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
+      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
+      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
+      "publishedDateTime": "2023-12-26T03:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-robots-and-artificial-intelligence.md",
+      "title": "Robots and Artificial Intelligence",
+      "excerpt": "As new threats like deep fakes become cheaper and more widespread, these upcoming elections could serve as a test run for democracy in the artificial intelligence (AI) era. What risks does AI pose ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-self-driving-vehicles-are-finding-a-home-in-industrial-operations.md",
+      "title": "Self-Driving Vehicles Are Finding a Home in Industrial Operations",
+      "excerpt": "Autonomous trucks may be running into trouble on the highway, but the technology behind self-driving vehicles is getting traction deeper inside shipping operations in freight yards, warehouses and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe?mod=latest_headlines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-903976/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T19:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x.md",
+      "title": "Waymo says its self-driving cars are safer than human drivers by up to 10x",
+      "excerpt": "Waymo claims its self-driving cars are 57% less likely to be in a crash and 85% less likely to injure anyone – or 90% less likely in SF.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
+      "originalUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/BlogAsset1_SafetyPaper_Hero_VR4-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T20:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-artificial-intelligence-experts-share-6-of-the-biggest-ai-innovations-of-2023-a-landmark-year.md",
+      "title": "Artificial intelligence experts share 6 of the biggest AI innovations of 2023: 'A landmark year'",
+      "excerpt": "If you received medical care any time this year, there’s a good chance you had a close encounter with artificial intelligence. Widely regarded as the breakout year for AI, 2023 ushered in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year",
+      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp",
+      "publishedDateTime": "2023-12-20T09:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-how-artificial-intelligence-is-rapidly-changing-human-society.md",
       "title": "How Artificial Intelligence Is Rapidly Changing Human Society",
       "excerpt": "sessionStorage(\"litespeed_docref\")); How Artificial Intelligence is Rapidly Changing Human ... From virtual assistants to self-driving cars, AI is rapidly changing the world around us. Here are some ways in which AI is shaping human society.",
@@ -1196,222 +1442,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-toss-yourself-in-front-of-a-moving-car-in-this-wild-indie-game.md",
-      "title": "Toss Yourself In Front Of A Moving Car In This Wild Indie Game",
-      "excerpt": "We may earn a commission from links on this page. How (Not) To Get Hit By A Self-Driving Car first appeared at Playable City Bristol in July 2023. Photo: Luke O’Donovan This time, I know I’m ...",
-      "sourceUrl": null,
-      "webUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
-      "originalUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3b1693d3a8f33fc24ea38a9da9abb432.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku",
-        "domain": "kotaku.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-test-driving-artificial-intelligence-in-the-classroom.md",
-      "title": "Test driving artificial intelligence in the classroom",
-      "excerpt": "One business school professor is having his students use artificial intelligence for class assignments. Here & Now 's Scott Tong talks with Ethan Mollick, professor of entrepreneurship at the University of Pennsylvania's Wharton School.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
-      "originalUrl": "https://www.wbur.org/hereandnow/2023/12/11/ai-business-school",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-how-accurate-were-our-2023-ai-predictions.md",
-      "title": "How Accurate Were Our 2023 AI Predictions?",
-      "excerpt": "Midjourney, which generates images from text prompts, is one of the hottest generative AI startups in the world. It has tens of millions of users and is reportedly on track to do $200 million in revenue in 2023. It has accomplished all of this without raising a cent of outside capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65651b815b8054baa375034b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1374,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/10/how-accurate-were-our-2023-ai-predictions/amp/",
-      "publishedDateTime": "2023-12-11T01:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-the-psychological-effects-of-self-driving-cars.md",
-      "title": "The Psychological Effects of Self-Driving Cars",
-      "excerpt": "Autonomous vehicles (AVs) including artificial intelligence AI-powered driverless or self-driving cars have received significant attention as a potentially safer and more sustainable mode of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/pexels-matheus-bertelli-799443.jpg?itok=5Yxn1naW",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202311/the-psychological-effects-of-self-driving-cars?amp",
-      "publishedDateTime": "2023-12-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-artificial-intelligence-creates-terrible-iowa-superhero-watch.md",
-      "title": "Artificial Intelligence Creates Terrible Iowa Superhero [WATCH]",
-      "excerpt": "Artificial Intelligence can be an incredibly useful tool for many people daily. We use AI in our phones, automated cars, online shopping, advertising, smart thermostats, etc. At its core, AI is the ability of a machine to display human-like capabilities such as reasoning,",
-      "sourceUrl": null,
-      "webUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
-      "originalUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://townsquare.media/site/726/files/2023/12/attachment-esteban-lopez-6yjAC0-OwkA-unsplash.jpg?w=980&q=75",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHAK",
-        "domain": "khak.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

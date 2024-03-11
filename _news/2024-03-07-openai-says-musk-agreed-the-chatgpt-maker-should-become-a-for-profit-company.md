@@ -35,6 +35,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
+    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
+    publishedDateTime: 2024-03-11T11:09:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
   - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
     excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
     publishedDateTime: 2024-03-08T19:56:00Z

@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "How SA businesses can unlock the power of AI"
-    excerpt: "IBM’s research in AI goes back to the 1950s and includes significant milestones like the Deep Blue supercomputer defeating chess grandmaster Garry Kasparov. In 2011, IBM Watson defeated Brad Rutter and Ken Jennings in the Jeopardy!"
-    publishedDateTime: 2024-03-08T07:04:00Z
-    webUrl: "https://it-online.co.za/2024/03/08/how-sa-businesses-can-unlock-the-power-of-ai/"
+  - title: "Key Principles for Interpreting Dreams with AI"
+    excerpt: "Such general guidelines are familiar to anyone who has done research or therapy with dreams over the past few decades, and there seems no reason why the same principles should not apply to this new technology, too. Following these guidelines will enable ..."
+    publishedDateTime: 2024-03-10T12:21:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 41
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
     images:
-      - url: "https://it-online.co.za/wp-content/uploads/2024/03/Ria-Pinto.jpg"
-        width: 1075
-        height: 900
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/IMG_8627.JPG.jpg?itok=5609qzT5"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Three Lessons for (Business) Leaders in the Age of AI"
-    excerpt: "Artificial intelligence can potentially transform our lives in ways we can barely even imagine. But for all the potential upside, there are important considerations business leaders should keep in mind."
-    publishedDateTime: 2024-03-11T06:37:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/758027/three-lessons-for-business-leaders-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 19
 
 secured: "uVdQmQlBB3C856GNw9QHd2e+fIpdJ+A6nTLXBwK2yFnduktkk9ojaOF0XeiX/U8rDY5f67R9xhGuGSmreleSBU5kB6DaVeV7FpOcOLYzwJ/7rMiXVQJffBsH7GGSWylMfpkbN7GJ/lZ3Jx/yf0acPTCk7z3Ahi5vQhlEA2q26laaOaYNUSt5LVSmoSb9vagZp805ie2EBBRD2xHN4WWKmk0jdWrxNV6PFetuRlt75LWNHW70FG48zLVBmsHx+CUhWo+Z2RbNHSifpBrhMjw5EHKDdrsap5n/ebpKYLcb+DFJqn88ebpJsSD+LS6ngqvaZ/6hc1QZoYPQ7H0HvOrMC0vZ76D3CFrbMn3UjNPWcOtFD2hbilM1oK0y/NVnNPW2oQ20mde/L8fPzxq/OPUzThJ2+Gh8Jc4fSyKULIuWbV3JJ+iUXuQ4N560aJK7rOcHl85N40dqi0Huma/UylNetwXOpMTJtWB3iDQFScxjIikd/1meufDh1D/DLDBQSJNrDZ2zchQlWSeM95ArEF2qGQ==;YXoLRTYKo2+lQq3sppiSKg=="
 ---

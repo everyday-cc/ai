@@ -21,6 +21,13 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - Microsoft AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65df967c6c5eef8a30df4477/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1367
+    height: 900
+    isCached: true
 
 related:
   - title: "What Comes Next For Banks With Generative AI"
@@ -33,6 +40,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "9FcV0QEwemhkMcGljAk6pi4ImVNIqgWDDNQbNeEpw9hVfpcwOJixTSDvkOD4ojvl8fvy23g9G9Tow495sXnHPR5lpY+BgPBzxrxCyfKnAz2EuWqURwy8Q/LXMRJSf/vCu8/wmLKR3d1u3+JRRM/ygvMiQTE5pwMrcvUeae3cmJPfNFGspTExJhy9LI6u0Dfq/z8h4jhOJ3o/gU4lwHSh3R890EHK2UUz6Ng0Y0Y5pzHBdnEsqdevEaKHd2oCtqTuOzGBVEFxh0ZEWXmiLgP4mGHZFPLOc/t7XzUByGSCq4z8KVYxj4+scbP0oNJtnyqeDh9BkPulN6RqYNf0evj0MK79rZHjkmNfDqURO+Ztm7s12DlVVlY2RdgJZL0M9fnfoNeOcHx6/3L9p7WGLMmMUU9vSBpTBf0d92SNgc6oG4VmKSIErHbSeDPr8G2kirN4mvDnpL3ry9HsYP517U6zDSIMjnjW4uQJ+InebbT1LTSaZGPDMwP/f5LV8wCOZwEJrlMwBPYHkWzOFIGkS/auBw==;r2CY6dV2xIDWnAoMkLiDpg=="
+secured: "caQYVGY5iDgUrB0uDxRqERtgBjuPHVByC6FfnlDLoq0gfX+uCLoBqWNw4vz17Y2FLuPnB2putGPIW9R7ETpV3+mWQHt0XxbesbMpgiqxBfvBU+yKX27SCR+fMVi/7gfyXKDGVbnlnnp9inIIQ4Ld42wgsbUntFhQCsBdigTSQ/AyU/vSfFlCNWr5ImmpFY7EEBZWsaJJ7+eMvlq6KP1Dedft/Iwn5k+ZzXtmgOqyD52fYtfrigtuKpc2mTICkqHr36ILpJR/QtEvRJm6Jk3ujNdd/67JTTFsiDyhimTMo48QHlYYUGqoYdyOswsUW4aVDjM71DvWMsb5NRwTs6SGwyXuSuzKU5ylR42vOncQUOI=;12qsBvq7Ca9GAyp8iOnwgw=="
 ---
 

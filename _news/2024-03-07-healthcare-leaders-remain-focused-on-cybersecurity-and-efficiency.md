@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "'Facepalm For Facebook': Meta Outage Highlights Weakness, Declining Cybersecurity Trust"
-    excerpt: "Also Read: ‘Apple At A Crossroads’ Analyst Says: Company Must Step Up On AI Or Get Left Behind Cybersecurity ... reliant on a second device.” Facebook’s outage came on the same day as the publication by research and public relations firm Edelman ..."
-    publishedDateTime: 2024-03-06T10:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/facepalm-for-facebook-meta-outage-highlights-weakness-declining-cybersecurity-trust-1033138417"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Cracking the Code: Ria Pinto Demystifies AI’s Role in Cybersecurity"
     excerpt: "Protecting data across hybrid cloud environments: AI solutions can identify shadow data, monitor for abnormalities in data access, and alert cybersecurity professionals about potential threats by anyone accessing the data or sensitive information—saving valuable time in detecting and remediating issues in real-time."
     publishedDateTime: 2024-03-08T11:48:00Z

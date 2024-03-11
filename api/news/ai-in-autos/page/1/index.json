@@ -505,6 +505,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-04-ai-promised-humanlike-machinesin-1958.md",
+      "title": "AI promised humanlike machines–in 1958",
+      "excerpt": "A roomsize computer equipped with a new type of circuitry, the Perceptron, was introduced to the world in 1958 in a brief news story buried deep in The New York Times. The story cited the U.S. Navy as saying that the Perceptron would lead to machines that “will be able to walk, talk, see, write, reproduce itself and be conscious of its existence.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/ai-humanoid-robots-history/",
+      "originalUrl": "https://www.popsci.com/technology/ai-humanoid-robots-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2024/03/01/history-of-robots.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-03T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-03-apples-failed-project-titan-was-a-full-self-driving-gamble.md",
       "title": "Apple's failed 'Project Titan' was a Full Self Driving gamble",
       "excerpt": "Apple's recently-abandoned \"car project\" shifted gears several times over the past decade, but ultimately the challenge of FSD proved insurmountable — and continues to elude the industry as a whole.",
@@ -577,6 +620,49 @@
       "provider": {
         "name": "Los Angeles Times",
         "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming-boring-appliances.md",
+      "title": "The hype is gone from the electric-vehicle industry. EVs are becoming boring appliances",
+      "excerpt": "This week, Apple AAPL-Q rolled its plans to create a self-driving iPhone on wheels into the ditch ... in spite of endless predictions they would be the norm by now (Waymo and Baidu run small fleets of them in a few American and Chinese cities), Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
+      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/v2/J2XSXX54HFAYLFIFIDL3W5TF2I.jpg?auth=d1515dbf415f9a8059e3dd35b1c61613fd7c328a4e80c0489beea31b51c3bf62&width=1200&height=800&quality=80",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -824,6 +910,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-29-live-news-man-group-profits-plunge-as-investment-returns-disappoint.md",
+      "title": "Live news: Man Group profits plunge as investment returns disappoint",
+      "excerpt": "The world’s largest listed hedge fund Man Group said pre-tax profits fell 56 per cent last year as clients paid less in fees due to lacklustre investment returns. Core performance fees, which clients pay when investment strategies perform well,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/64a86f5c-70ae-4b13-9d98-e2ab56afac56",
+      "originalUrl": "https://www.ft.com/content/64a86f5c-70ae-4b13-9d98-e2ab56afac56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T07:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-apples-scrapped-car-project-means-ai-and-headset-bets-are-more-urgent.md",
       "title": "Apple’s Scrapped Car Project Means AI and Headset Bets Are More Urgent",
       "excerpt": "In abandoning plans for a self-driving car, Apple Inc. is giving up on billions in potential revenue and the dream of selling what one executive called “the ultimate mobile device.”",
@@ -951,6 +1071,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-rip-apple-car-this-is-why-it-died.md",
+      "title": "RIP Apple Car. This Is Why It Died",
+      "excerpt": "Any tech company moving into the auto space needs a manufacturing partner. But Apple’s EV died as it lived: alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
+      "originalUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65de3f5c8f177b35ceaa4d78/191:100/w_1280,c_limit/Death-Of-The-Apple-Car-Gear-AP19148216961071.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1211,170 +1383,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips.md",
-      "title": "Apple and Tesla veterans plan to help Japan design advanced AI chips",
-      "excerpt": "Tenstorrent, led by Tesla Inc. and Apple Inc. veteran Jim Keller, will license its design for part of Japan's artificial intelligence accelerator and also co-design the overall chip, the two sides ann",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "originalUrl": "https://www.business-standard.com/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/apple-and-tesla-veterans-plan-to-help-japan-design-advanced-ai-chips-124022700237_1.html",
-      "publishedDateTime": "2024-02-27T05:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-baidu-an-unloved-ai-related-name.md",
-      "title": "Baidu: An Unloved AI-Related Name",
-      "excerpt": "Baidu shares have underperformed global tech peers despite its strong position in the AI space in China. The stock is attractively valued at 11x forward P/E, especially after recent turmoil in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4673515-baidu-an-unloved-ai-related-name",
-      "originalUrl": "https://seekingalpha.com/article/4673515-baidu-an-unloved-ai-related-name",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458699011/image_458699011.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T21:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-artificial-intelligence-used-to-cut-down-on-emergency-response-times.md",
-      "title": "Artificial Intelligence used to cut down on emergency response times",
-      "excerpt": "SAN JOSE, Calif. - Artificial Intelligence, also known as AI, has blasted onto the scene with concerning results and discussions about federal oversight and regulation. However, a Silicon Valley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
-      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
-      "publishedDateTime": "2024-02-26T19:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
-      "title": "AI Can Power The Green Energy Transition",
-      "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
-      "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
-      "publishedDateTime": "2024-02-26T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

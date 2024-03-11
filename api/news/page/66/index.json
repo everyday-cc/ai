@@ -2,6 +2,884 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2024-01-21-harnessing-ais-potential-to-boost-your-career.md",
+      "title": "Harnessing AI’s Potential To Boost Your Career",
+      "excerpt": "Workplace futurist Marti Konstant suggests that AI can supercharge careers. Like the internet in the 90s, AI will become an essential tool for knowledge workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/",
+      "originalUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ac38c2447a46ffb0923861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1261,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/",
+      "publishedDateTime": "2024-01-20T21:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-21-2024-prediction-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth.md",
+      "title": "2024 Prediction: Why IBM Is the AI Stock to Buy and Hold for Magnificent Growth",
+      "excerpt": "While market darlings have grabbed headlines with soaring valuations, IBM has quietly built a formidable AI arsenal, from the versatile Watson AI platform to the innovative Watsonx system tailored ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2024-prediction:-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth",
+      "originalUrl": "https://www.nasdaq.com/articles/2024-prediction:-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup.md",
+      "title": "Google DeepMind scientists in talks to leave and form AI startup",
+      "excerpt": "A pair of scientists at Google DeepMind, the Alphabet Inc. artificial intelligence division, have been talking with investors about forming an AI startup in Paris, according to people familiar with the conversations.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/01/20/1600x900/Google_DeepMind_1705723313498_1705723313715.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
+      "publishedDateTime": "2024-01-20T15:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does.md",
+      "title": "History Suggests the Nasdaq Will Surge in 2024: My Top 7 Artificial Intelligence (AI) Growth Stocks to Buy Before It Does",
+      "excerpt": "Detailed price information for Compass Inc Cl A (COMP-N) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/5a2f12308459f594ac354dba874464fc/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761668%252fa-robotic-hand-interacting-with-a-visual-ai-touchscreen-display.jpg%26amp%3Bw%3D700",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-david-lammys-speech-disrupted-by-pro-palestinian-protesters.md",
+      "title": "David Lammy’s speech disrupted by pro-Palestinian protesters",
+      "excerpt": "David Lammy’s speech calling for a ceasefire in Gaza was disrupted by pro-Palestinian protesters. Labour’s shadow foreign secretary was addressing the Fabian Society conference on Saturday when flag-waving demonstrators mounted the stage shouting: “When will you condemn the genocide?",
+      "sourceUrl": null,
+      "webUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
+      "originalUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ealingtimes.co.uk/resources/images/17666148/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ealing Times",
+        "domain": "ealingtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-love-machina-review-provocative-but-unfocused-doc-tackles-romance-and-robotics.md",
+      "title": "‘Love Machina’ Review: Provocative but Unfocused Doc Tackles Romance and Robotics",
+      "excerpt": "One of the great pleasures of reviewing documentaries, though, is that every few months a new film will pull back the curtain on the latest advancement in artificial intelligence or consciousness-infused robotics. Fairly consistently, the answer is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
+      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/LoveMachina-Still1-copy.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
+      "publishedDateTime": "2024-01-20T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-google-deepmind-scientists-said-to-be-in-talks-to-leave-and-form-ai-startup.md",
+      "title": "Google DeepMind Scientists Said to Be in Talks to Leave and Form AI Startup",
+      "excerpt": "DeepMind scientists have held discussions with potential investors about a financing round that may exceed EUR 200 million (roughly Rs. 1,800 crore).",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836",
+      "originalUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/google_deutsche_bank_cloud_deal_reuters_1594109955741.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp",
+      "publishedDateTime": "2024-01-20T14:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-this-week-in-ai-openai-finds-a-partner-in-higher-ed.md",
+      "title": "This Week in AI: OpenAI finds a partner in higher ed",
+      "excerpt": "OpenAI and crowdsourcing: In other OpenAI news, the startup is forming a new team, Collective Alignment, to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.” At the same time, it’s changing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/",
+      "originalUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/",
+      "publishedDateTime": "2024-01-20T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.md",
+      "title": "Musk denies report his AI company secures $500 million toward $1 billion funding goal",
+      "excerpt": "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858",
+          "width": 7008,
+          "height": 4672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
+      "publishedDateTime": "2024-01-20T13:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-two-google-deepmind-scientists-may-leave-company-to-form-ai-startup.md",
+      "title": "Two Google DeepMind scientists may leave company to form AI startup",
+      "excerpt": "Two scientists affiliated with Google DeepMind are reportedly in talks to establish an AI startup in Paris. The proposed venture aims to develop a new AI model. Learn more about this significant development in the AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/articleshow/107013476.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/articleshow/107013476.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107013470,width-1280,height-720,resizemode-4/107013470.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms",
+      "publishedDateTime": "2024-01-20T12:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-2024-prediction-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth.md",
+      "title": "2024 Prediction: Why IBM Is the AI Stock to Buy and Hold for Magnificent Growth",
+      "excerpt": "While market darlings have grabbed headlines with soaring valuations, IBM has quietly built a formidable AI arsenal, from the versatile Watson AI platform to the innovative Watsonx system tailored ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/20/why-ibm-is-the-ai-stock-to-buy-for-2024/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/20/why-ibm-is-the-ai-stock-to-buy-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/761702/human-and-robot-shaking-hands.jpg",
+          "width": 2246,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T11:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt.md",
+      "title": "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT",
+      "excerpt": "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-artificial-intelligence-in-personalized-cancer-medicine-new-therapies-require-flexible-and-safe-approval-conditions.md",
+      "title": "Artificial intelligence in personalized cancer medicine: New therapies require flexible and safe approval conditions",
+      "excerpt": "Personalized therapies could improve the treatment of many diseases in the future. Cancer medicine in particular has made significant progress in recent years. Applications of artificial intelligence (AI) will allow to adapt personalised therapies in an even more targeted manner.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news827773",
+      "originalUrl": "https://idw-online.de/de/news827773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
+          "width": 498,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T09:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-msi-prestige-16-ai-evo-review-it-brings-the-heat.md",
+      "title": "MSI Prestige 16 AI Evo Review: It Brings The Heat",
+      "excerpt": "The review unit I was sent has 32GB of DDR5 memory and a 1TB SSD for storage. Configurations of the Prestige 16 AI Evo start at $1,399, including builds that feature a QHD+ display or NVIDIA GeForce RTX 4070 instead of the OLED display and Intel Arc GPU I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a6ede53b814e09e85f0897/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/",
+      "publishedDateTime": "2024-01-20T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change.md",
+      "title": "How AI-generated digital twins are speeding up the race to beat climate change",
+      "excerpt": "Climactic cofounder Raj Kapoor and Vibrant Planet VP Dr. Chelsey Walden-Schreiner discuss the intersectionality of AI and climate tech.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe",
+      "originalUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/Images/posterImage-ver1-1280x720.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/amp",
+      "publishedDateTime": "2024-01-20T08:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-google-plans-to-bring-ai-image-generator-to-bard.md",
+      "title": "Google plans to bring AI image generator to Bard",
+      "excerpt": "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2024/01/11/1413752-google.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
+      "publishedDateTime": "2024-01-20T04:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool.md",
+      "title": "DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"",
+      "excerpt": "Mustafa Suleyman recently said the quiet part out loud when he admitted that AI is designed to steal jobs from humans.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "originalUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f9f5c4175d40dbf8befd5716ec87baf.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-mark-zuckerberg-announces-new-open-source-agi-under-development.md",
+      "title": "Mark Zuckerberg announces new open source AGI under development",
+      "excerpt": "To achieve this, Meta, the parent company of Facebook, is investing heavily ... AGI represents a frontier in AI research, blending the power of machine learning with the adaptability of human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
+      "originalUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-when-states-try-to-take-away-americans-freedom-of-thought.md",
+      "title": "When States Try to Take Away Americans’ Freedom of Thought",
+      "excerpt": "He refused to do so, calling the requirement “McCarthyist” and an affront to his free-speech rights ... demonstrate “an ongoing awareness and recognition of racial, social and cultural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
+      "originalUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/01/20/opinion/20statespeech/20statespeech-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-20-patent-issued-for-financial-autopilot-uspto-11861694-united-services-automobile-association.md",
       "title": "Patent Issued for Financial autopilot (USPTO 11861694): United Services Automobile Association",
       "excerpt": "United Services Automobile Association has been issued patent number 11861694, according to news reporting originating out of Alexandria, Virginia, by NewsRx editors. The patent’ s inventors are Hendry,",
@@ -265,873 +1143,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-exploring-the-hyper-competitive-future-of-customer-experience.md",
-      "title": "Exploring the hyper-competitive future of customer experience",
-      "excerpt": "The future of customer experience demands more data, more technology and more personalized efforts to retain customer loyalty.\nThe post Exploring the hyper-competitive future of customer experience appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "originalUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:26:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-apple-vision-pro-sold-out-at-least-for-pre-order.md",
-      "title": "Apple Vision Pro Sold Out, At Least For Pre-Order",
-      "excerpt": "Trying to score a pre-order for a $3,500 face computer? Good luck: Apple appears to be out of stock of Apple Vision Pro headsets, at least for the moment, in every city and state. Every geographic region I’ve tried around the United States has the same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-google-makes-a-surprise-new-offer-to-all-pixel-8-pro-buyers.md",
-      "title": "Google Makes A Surprise New Offer To All Pixel 8 Pro Buyers",
-      "excerpt": "It looks like Google is planning to replace Assistant with the more accomplished generative AI chatbot, Bard, which could end up with some premium paid-for tiers soon. Your Pixel phone is a conduit to more Google subscriptions. Update January 19th ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
-      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579cc1db49bac13c8c88cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
-      "publishedDateTime": "2024-01-19T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-meta-to-develop-artificial-general-intelligence.md",
-      "title": "Meta To Develop Artificial General Intelligence",
-      "excerpt": "The Facebook founder said that Meta had built ... He further said that two of the company's AI research teams - FAIR and GenAI are working together to accelerate this project.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
-      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
-      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
-          "width": 467,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "publishedDateTime": "2024-01-19T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features.md",
-      "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features",
-      "excerpt": "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T13:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-education-meets-ai-at-the-2024-world-economic-forum-in-davos.md",
-      "title": "“Education Meets AI” At The 2024 World Economic Forum In Davos",
-      "excerpt": "AI tutoring, how and what we teach and the importance of critical thinking were discussed by government officials of Slovenia and the UAE, with CEOs of 2 tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/",
-      "originalUrl": "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T13:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-next-gen-ai-powered-voice-translator-previewed-by-vasco-at-ces.md",
-      "title": "Next-gen AI-powered voice translator previewed by Vasco at CES",
-      "excerpt": "Vasco Electronics previewed its next-generation live voice translation device that is powered by artificial intelligence (AI) and can provide live translations of nearly 50 languages to your ear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces",
-      "originalUrl": "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/25844fe6-06e4-4c68-abf2-849fa1a0bde3/c5a474d0-0442-458b-b0ea-60f7ca9bd359/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces.amp",
-      "publishedDateTime": "2024-01-19T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy.md",
-      "title": "Operational Data Lakes: Why They're Needed In Your 2024 AI Strategy",
-      "excerpt": "Operational data lakes can play an important role in fueling AI strategies and have a lot of potential for driving business success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy/amp/",
-      "publishedDateTime": "2024-01-19T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-gasgoo-daily-venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-v-online-in-guangzhou.md",
-      "title": "Gasgoo Daily: Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
-      "excerpt": "Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
-      "sourceUrl": null,
-      "webUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
-      "originalUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metal",
-        "domain": "metal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-baidu-idg-geely-co-introduce-ai-conversational-assistant-in-galaxy-l6-model.md",
-      "title": "Baidu IDG, Geely co-introduce AI conversational assistant in Galaxy L6 Model",
-      "excerpt": "Beijing (Gasgoo)- Recently, the collaborative efforts of Baidu's Intelligent Driving Group (IDG) and Geely Auto have come to fruition with the successful mass production of an AI conversational product embedded in the automaker’s Galaxy L6 model.",
-      "sourceUrl": null,
-      "webUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
-      "originalUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metal",
-        "domain": "metal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-better-artificial-intelligence-ai-stock-nvidia-vs-amd.md",
-      "title": "Better Artificial Intelligence (AI) Stock: Nvidia vs. AMD",
-      "excerpt": "Of course, AMD stock could be rewarded with a higher multiple if it can grow at a faster pace, assuming its AI business accelerates strongly. However, on current form and 2024 prospects, Nvidia seems like the better AI stock of the two, especially considering the potential upside it could deliver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/761413/chatbot-smartphone-person.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-empowering-smbs-with-essential-ai-technologies.md",
-      "title": "Empowering SMBs With Essential AI Technologies",
-      "excerpt": "For AI to deliver real value, the insights it offers must go beyond generic advice that can be easily found through other sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/empowering-smbs-with-essential-ai-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/empowering-smbs-with-essential-ai-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/empowering-smbs-with-essential-ai-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/empowering-smbs-with-essential-ai-technologies/amp/",
-      "publishedDateTime": "2024-01-19T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending.md",
-      "title": "How AI Is Adding Faster Funding And Efficiency To Small-Business Lending",
-      "excerpt": "When business owners use AI data to make lending decisions at the start of their loan application, they may be able to better avoid denials, which can delay a business from obtaining funding for months. AI’s ability to process vast amounts of data allows ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9408d972483f2df60c7d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/",
-      "publishedDateTime": "2024-01-19T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-arizona-state-students-will-get-their-own-chatgpt-powered-tutors-as-openai-partners-with-the-university.md",
-      "title": "Arizona State students will get their own ChatGPT-powered tutors as OpenAI partners with the university",
-      "excerpt": "Students, professors, and researchers at Arizona State University are set to get access to OpenAI's ChatGPT Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1",
-      "originalUrl": "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65aa55866979d737182492d3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp",
-      "publishedDateTime": "2024-01-19T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody.md",
-      "title": "AI start-up CEO accused of killing minor son sent to 13-day judicial custody",
-      "excerpt": "The childrens court in Goa on Friday remanded Suchana Seth, the chief executive officer of an Artificial Intelligence start-up who is accused of killing her four-year-old son, in judicial custody for 13 days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody",
-      "originalUrl": "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_01_2024_17_57_23_9077063.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody?amp",
-      "publishedDateTime": "2024-01-19T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-using-ai-to-help-create-a-fintech-game-changer.md",
-      "title": "Using AI To Help Create A Fintech Game-Changer",
-      "excerpt": "In today’s fast-paced economy, fintech companies are increasingly turning to AI to gain a competitive edge. From early-stage startups to late-stage enterprises, AI has emerged with multifaceted applications and disruptive technology to revolutionize the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6442fb6e1e6588f81da821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/",
-      "publishedDateTime": "2024-01-19T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-wall-street-analysts-top-picks-2-artificial-intelligence-ai-growth-stocks-to-buy-in-2024-and-hold-long-term.md",
-      "title": "Wall Street Analysts' Top Picks: 2 Artificial Intelligence (AI) Growth Stocks to Buy in 2024 and Hold Long Term",
-      "excerpt": "Ives recently ranked CrowdStrike ( CRWD 2.48%) and Palo Alto Networks ( PANW 1.73%) among his top picks for the year. Similarly, Fodderwala ranked both companies among the software vendors best positioned to benefit from generative AI. Those bullish sentiments warrant a closer look.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/19/wall-street-top-picks-2-ai-stocks-to-buy-in-2024/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/19/wall-street-top-picks-2-ai-stocks-to-buy-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/761456/artificial-intelligence-14.jpg",
-          "width": 2308,
-          "height": 1298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T09:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner.md",
-      "title": "ChatGPT goes to college: OpenAI finds its first higher education partner",
-      "excerpt": "While some schools ban the use of generative AI, Arizona State University becomes the first college to implement ChatGPT Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2372eed714badfd193c24dff4c994ee251cdcb3e/2024/01/19/07c812ae-e03d-4645-ac93-fae1d19d88fb/gettyimages-1406728413.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "publishedDateTime": "2024-01-19T09:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -51,15 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Focus: US officials face tough choices for subsidizing AI chip manufacturing"
-    excerpt: "U.S. officials have earmarked close to $30 billion in subsidies for advanced semiconductor manufacturing, aiming to bring cutting-edge artificial-intelligence chip development and manufacturing to American soil."
-    publishedDateTime: 2024-03-06T11:02:00Z
-    webUrl: "https://www.reuters.com/world/us/us-officials-face-tough-choices-subsidizing-ai-chip-manufacturing-2024-03-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 61
   - title: "Widening lead in AI memory chips"
     excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."
     publishedDateTime: 2024-03-07T22:11:00Z

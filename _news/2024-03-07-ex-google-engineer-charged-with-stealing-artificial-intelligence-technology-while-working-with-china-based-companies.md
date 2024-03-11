@@ -194,6 +194,15 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "AMD’s Chinese AI chip plan halted by US govt: What’s next?"
+    excerpt: "AMD finds itself at a standstill as it faces hurdles from the US in its endeavor to sell AI chips explicitly tailored for the Chinese market"
+    publishedDateTime: 2024-03-07T01:30:00Z
+    webUrl: "https://techwireasia.com/03/2024/amd-chinese-ai-chips-plan-halted-by-us-govt-whats-next/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 34
   - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
     excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
     publishedDateTime: 2024-03-07T17:32:00Z

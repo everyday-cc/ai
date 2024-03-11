@@ -180,6 +180,20 @@ related:
         width: 1548
         height: 776
         isCached: true
+  - title: "Forget ChatGPT and Gemini — Claude 3 is the most human-like chatbot I've ever used"
+    excerpt: "Put through an IQ test Claude 3 scored 101, making it smarter than the average human and beating GPT-4 which scored 85. It has also performed better than (or equal to) humans in other benchmarks related to mathematics, information retrieval and language."
+    publishedDateTime: 2024-03-06T14:30:00Z
+    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-gemini-claude-3-is-the-most-human-like-chatbot-ive-ever-used"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xMQXtoMcRWfUCf2QK4voRG-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "a1xpt23IMO7j5rz6e+xFBFZFWhUKPP0+tFUhGhSCh5dWEwNI7CyzI7FuqE+O8tk8OKROOdiAzFvNgU/uegumbhg+7eZwpOZW0pJeZdrGmpTaS1xIOP9wRCtdXFVo1WTeMzGcKJHQq38sqeDexhRWY1C6OlWayewkER3pDStIAW2UqPdJ3admBJQtNm/f6GjwiTvFFQOK7m8Jc3Y9ZDaRBUmZLFXuEiTGF1HXPjYStO6INLQnQwCtYXIej4S5oktd0t/L+GsOPyKVoPgAfVeBwXt2HsqCTKGoZhMYr1S3sN2e256NIqhdMo7SdYVL6aguO6M71U4tzoDhH158iqxTczMhNGUJQ0owXuqMFL6adZV6AqMbhhI3hJMoWYnLTEDAvZJnYLdy6gLWI2QNeytKVUc6Bcnjerndvop8PShfrjs5CXkzPLaK8kIdAWQEbnCN9J6eGwW082xf2WnSo596dHvE8TnhyhzccqeFbhGG7BQ9h75v0427gu30TgkyRe6RHqZAZIMv4Wn7ORkLm9wjjA==;4QAQsHsa3vAGlWAVRG5G0g=="
 ---

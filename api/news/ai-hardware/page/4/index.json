@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-16-chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom.md",
+      "title": "Chipping In: Billionaire-Founded Unicorn Startup Makes Semiconductor ‘Chiplets’ For The AI Boom",
+      "excerpt": "Singapore-based Silicon Box specializes in chiplets, an increasingly popular way of making high-performing chips. To help ramp up production, the startup recently raised $200 million in a Series B round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/02/16/chipping-in-billionaire-founded-unicorn-startup-makes-semiconductor-chiplets-for-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c055520d5f42441db193dd/0x0.jpg?format=jpg&crop=2357,1325,x0,y594,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-sk-backed-sapeon-to-develop-on-device-ai-chip.md",
+      "title": "SK-backed Sapeon to develop on-device AI chip",
+      "excerpt": "Sapeon, a fabless startup backed by South Korean telecom-to-chip conglomerate SK Group, said Friday it would develop a new semiconductor optimized for on-device artificial intelligence as the market has been witnessing significant growth in recent years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F16%2F20240216050380_0.jpg",
+          "width": 630,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20240216050362",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240216050362",
+      "publishedDateTime": "2024-02-16T04:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap.md",
       "title": "‘Game on’ for video AI as Runway, Stability react to OpenAI’s Sora leap",
       "excerpt": "Runway CEO Cristóbal Valenzuela posted two words on X in response to today's demo drop of OpenAI's Sora video AI model: 'game on.'",
@@ -1398,110 +1493,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
-      "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
-      "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "originalUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T02:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-clash-of-the-titans-in-chinas-ai-market-as-nvidia-takes-on-huawei.md",
-      "title": "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei",
-      "excerpt": "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

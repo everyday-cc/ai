@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -150,6 +150,92 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-type-1-diabetes-from-the-dream-of-automated-insulin-delivery-to-a-fully-artificial-pancreas.md",
+      "title": "Type 1 diabetes: from the dream of automated insulin delivery to a fully artificial pancreas",
+      "excerpt": "Automated insulin delivery systems have transformed the care of people living with type 1 diabetes and continue to move closer to the ultimate goal of a fully autonomous artificial pancreas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41591-024-00013-5",
+      "originalUrl": "https://www.nature.com/articles/d41591-024-00013-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41591-024-00013-5/d41591-024-00013-5_26818890.png",
+          "width": 938,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-the-impact-of-artificial-intelligence-on-our-encounters.md",
+      "title": "The Impact of Artificial Intelligence on Our Encounters",
+      "excerpt": "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
+      "publishedDateTime": "2024-03-05T17:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
       "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
       "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
@@ -191,6 +277,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology.md",
+      "title": "Medeloop Partners with Mila to Leverage Artificial Intelligence in Health Technology",
+      "excerpt": "Beyond its pivotal role in advancing research, Medeloop specializes in supporting clinical care and outpatient therapy. By providing a seamless platform for remote patient monitoring, Medeloop empowers healthcare professionals to extend their care beyond ...",
+      "sourceUrl": null,
+      "webUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology",
+      "originalUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology/wcm/ac611357-4705-4d11-9bfe-cad60d65e440/amp/",
+      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology/wcm/ac611357-4705-4d11-9bfe-cad60d65e440/amp/",
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winnipegsun",
+        "domain": "winnipegsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -736,6 +865,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-26-bayer-gets-us-fda-breakthrough-therapy-designation-for-lung-cancer-treatment.md",
+      "title": "Bayer Gets U.S. FDA Breakthrough Therapy Designation for Lung Cancer Treatment",
+      "excerpt": "By Pierre Bertrand Bayer received a breakthrough therapy designation from the U.S. Food and Drug Administration for its BAY 2927088 lung cancer",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "originalUrl": "https://www.marketwatch.com/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "publishedDateTime": "2024-02-26T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-market-downturn-3-artificial-intelligence-ai-stocks-to-buy-with-1000-and-hold-forever.md",
       "title": "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever",
       "excerpt": "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ...",
@@ -1127,197 +1308,6 @@
       "provider": {
         "name": "TheStreet.com",
         "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-federal-and-state-lawmakers-launch-ai-task-forces-ai-the-washington-report.md",
-      "title": "Federal and State Lawmakers Launch AI Task Forces — AI: The Washington Report",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
-      "originalUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI-Artificial-Intelligence-Abstract-Art-367016941_1.jpg?h=c4779ecb&itok=G8TpDj02",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-and-state-lawmakers-launch-ai-task-forces-ai-washington-report?amp",
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-how-a-new-bipartisan-task-force-is-thinking-about-artificial-intelligence.md",
-      "title": "How a New Bipartisan Task Force Is Thinking About Artificial Intelligence",
-      "excerpt": "On Tuesday, speaker of the House of Representatives Mike Johnson and Democratic leader Hakeem Jeffries launched a bipartisan Task Force on Artificial Intelligence. Johnson, a Louisiana Republican ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
-      "originalUrl": "https://time.com/6727264/house-artificial-intelligence-task-force/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2024/02/congress-ai-2024.jpg?quality=85",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T22:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
-      "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
-      "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
-      "originalUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fea49561f16b8426cbcbc4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josiecox/2024/02/20/employers-are-failing-women-on-healthcare-uk-research-shows/amp/",
-      "publishedDateTime": "2024-02-20T23:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-availity-issues-statement-of-principles-on-artificial-intelligence-in-healthcare.md",
-      "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
-      "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

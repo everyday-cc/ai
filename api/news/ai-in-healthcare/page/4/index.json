@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-25-securing-the-healthcare-cloud-in-2024-with-cloud-managed-services.md",
+      "title": "Securing the Healthcare Cloud in 2024 with Cloud Managed Services",
+      "excerpt": "By partnering with a cloud managed service provider, one can overcome cloud staffing and security issues and better align internal resources with the things that make your business special, like developing new apps and features that enhance healthcare services and improve health outcomes for end users.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2024/01/securing-the-healthcare-cloud-in-2024-with-cloud-managed-services/",
+      "originalUrl": "https://medcitynews.com/2024/01/securing-the-healthcare-cloud-in-2024-with-cloud-managed-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T18:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-role-of-artificial-intelligence-in-improving-sexual-and-mental-health.md",
+      "title": "Role of artificial intelligence in improving sexual and mental health",
+      "excerpt": "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html",
+      "originalUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html",
+      "publishedDateTime": "2024-01-24T06:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy.md",
+      "title": "Inhibrx, Sanofi ratify $2.2B deal for AATD therapy",
+      "excerpt": "Inhibrx Inc. and Sanofi SA have agreed to a deal worth up to $2.2 billion, whereby the latter’s Aventis Inc. subsidiary will acquire INBRX-101, an optimized, recombinant alpha-1 antitrypsin (AAT) augmentation therapy undergoing a registrational trial for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
+      "originalUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
+      "title": "Is there AI discussion fatigue in healthcare?",
+      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-how-to-use-artificial-intelligence-today-text-to-speech-technology.md",
       "title": "How To Use Artificial Intelligence Today: Text-To-Speech Technology",
       "excerpt": "Chat GPT is a powerful tool - don’t get me wrong, but it is not the whole of what AI is capable of at the moment.",
@@ -1102,187 +1257,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment.md",
-      "title": "Revolutionizing Healthcare: The Impact of Artificial Intelligence on Medical Diagnosis and Treatment",
-      "excerpt": "Introduction: In recent years, the intersection of healthcare and artificial intelligence (AI) has given rise to groundbreaking innovations that are reshaping the landscape of medical diagnosis and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment/",
-      "originalUrl": "https://techbullion.com/revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Healthcare-The-Impact-of-Artificial-Intelligence-on-Medical-Diagnosis-and-Treatment.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-healthcare-technology-trends-to-watch-in-2024.md",
-      "title": "Healthcare technology trends to watch in 2024",
-      "excerpt": "Still, interest in emerging technologies is high this year — particularly as artificial intelligence ... lead analyst in healthcare IT at market intelligence company CB Insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/healthcare-technology-artificial-intelligence-digital-health-cybersecurity-outlook-2024/702980/",
-      "originalUrl": "https://www.healthcaredive.com/news/healthcare-technology-artificial-intelligence-digital-health-cybersecurity-outlook-2024/702980/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/bQD7_QlXjW6ZBkcFCnwPVD4drx1E9e1Twq5FJqrAVPM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MjE2MjY0MzcuanBn.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-2-artificial-intelligence-ai-stocks-down-58-and-69-to-buy-in-2024-and-hold-for-the-long-haul.md",
-      "title": "2 Artificial Intelligence (AI) Stocks Down 58% and 69% to Buy in 2024 and Hold for the Long Haul",
-      "excerpt": "With the artificial intelligence (AI) revolution just starting to unfold and expectations that the Federal Reserve might cut interest rates this year, investors who back the right beaten-down ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759259/a-person-looking-at-charts-on-a-computer.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-06T07:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness.md",
-      "title": "Artificial intelligence decreases barrier to treating ultrasonic brain illness",
-      "excerpt": "A research team led by Dr Kim, Hyungmin of the Bionics Research Center at the Korea Institute of Science and Technology (KIST) has developed a real-time acoustic simulation technology based on generative AI to predict and correct the distortion of the ultrasound focus position caused by the skull in real-time during focused ultrasound therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-106375550,imgsize-7518,width-1200,height=765,overlay-ethealth/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
-      "publishedDateTime": "2023-12-29T09:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

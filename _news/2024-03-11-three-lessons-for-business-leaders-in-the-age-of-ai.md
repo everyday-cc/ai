@@ -33,20 +33,6 @@ related:
         width: 1075
         height: 900
         isCached: true
-  - title: "Growth and recognition of exporting businesses with the aid of AI"
-    excerpt: "“The IEA is the connecting force for Irish exporters, providing practical knowledge and support across the Island of Ireland and in foreign markets – and, growing in strength and recognition each year, the Export Industry Awards (EIA) have been recognising the tremendous achievements of companies working in the exporting industry for 24 years."
-    publishedDateTime: 2024-03-10T00:38:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/growth-and-recognition-of-exporting-businesses-with-the-aid-of-ai/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=76c49c61-c138-5721-9b61-fb02297c05a6&type=preview&function=original"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "Seqj+h1Ehg3xU40UMbz3NeSdYBYqq02MAmMAeJ9bDPDKsIZn0ALdZotA1GW2Wv9vnqXiusnq96ScsvTAnYoc0TIWQ3L5RJYYnlv4VRiEbFbOmO7xU/4yzuT5pLBQAqmTQAsqGJ/2gN+7DAoKIJ38a7QfJK7fvG0ti0JXxkyLOpP3O3JzjYPJmKHnGp04wtr1VLUa52hBSRfy4pi5lUZJcZAtcPa/GZF/bISXJEfFZXYTLl7yt10TtzwxXWjbWa6zPYMP/DZHxqwSJPXyfYRkMp7KKb1jWZDL5cfeuK+32XoBv+9HpAe2z49Yr0k49SpR+3Wdt1Ft4M24Vq1XtHuLF6JDYOlSvXpxedQklJaZJFQ=;rgjkh2jGNTBxs9vEKL3z0Q=="
 ---

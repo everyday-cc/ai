@@ -2,6 +2,231 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-11-openai-unveils-app-store-for-custom-chatbots.md",
+      "title": "OpenAI Unveils App Store for Custom Chatbots",
+      "excerpt": "People who subscribe to OpenAI’s ChatGPT Plus service will be able to browse the new store for tailored chatbots that perform different tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
+      "originalUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/01/10/business/10gpt-store/10gpt-store-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-microsoft-debates-what-to-do-with-ai-lab-in-china.md",
+      "title": "Microsoft Debates What to Do With A.I. Lab in China",
+      "excerpt": "Amid U.S.-China tensions, the company has faced questions over whether operating an advanced research lab in Beijing is politically tenable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
+      "originalUrl": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/01/04/multimedia/00microsoft-china-top-fmkz/00microsoft-china-top-fmkz-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T10:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-superai-asias-premier-artificial-intelligence-conference-debuts-in-singapore.md",
+      "title": "SuperAI, Asia's Premier Artificial Intelligence Conference, Debuts in Singapore",
+      "excerpt": "Edward Snowden, Benedict Evans and Balaji Srinivasan amongst others to take the stage at SuperAI from 5-6 June 2024 SINGAPORE, Jan. 10, 2024 /PRNewswire/ --SuperAI, Asia's premier artificial intelligence (AI) conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
+      "originalUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1705653033793.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T02:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona.md",
+      "title": "Waymo’s Driverless Cars Are Hitting the Highway Sans Safety Drivers in Arizona",
+      "excerpt": "“Cruise’s implosion has left Waymo as the undisputed leader in the driverless taxi market ... especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "originalUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-ai-acquisitions-whos-leading-the-charge-and-why.md",
+      "title": "AI Acquisitions: Who’s Leading the Charge and Why?",
+      "excerpt": "\"Explore the dynamic world of AI acquisitions by major tech players. Dive into strategies, challenges, and impacts",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
+      "originalUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2024/01/f33fdc97-fe42-4ce9-9c21-bb8e9133d59b-900x628-1-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T18:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business.md",
       "title": "Kodiak Robotics reveals its best shot at making self-driving trucks a business",
       "excerpt": "Those redundant systems are there as a backup in case anything were to fail while its self-driving truck barrels down a highway without a driver behind the wheel. “From a safety perspective, we do not believe that is responsible to put a driverless truck ...",
@@ -1120,252 +1345,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
-      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
-      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "publishedDateTime": "2023-12-26T03:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-robots-and-artificial-intelligence.md",
-      "title": "Robots and Artificial Intelligence",
-      "excerpt": "As new threats like deep fakes become cheaper and more widespread, these upcoming elections could serve as a test run for democracy in the artificial intelligence (AI) era. What risks does AI pose ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-self-driving-vehicles-are-finding-a-home-in-industrial-operations.md",
-      "title": "Self-Driving Vehicles Are Finding a Home in Industrial Operations",
-      "excerpt": "Autonomous trucks may be running into trouble on the highway, but the technology behind self-driving vehicles is getting traction deeper inside shipping operations in freight yards, warehouses and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe?mod=latest_headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-903976/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x.md",
-      "title": "Waymo says its self-driving cars are safer than human drivers by up to 10x",
-      "excerpt": "Waymo claims its self-driving cars are 57% less likely to be in a crash and 85% less likely to injure anyone – or 90% less likely in SF.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
-      "originalUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/BlogAsset1_SafetyPaper_Hero_VR4-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T20:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-artificial-intelligence-experts-share-6-of-the-biggest-ai-innovations-of-2023-a-landmark-year.md",
-      "title": "Artificial intelligence experts share 6 of the biggest AI innovations of 2023: 'A landmark year'",
-      "excerpt": "If you received medical care any time this year, there’s a good chance you had a close encounter with artificial intelligence. Widely regarded as the breakout year for AI, 2023 ushered in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year",
-      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp",
-      "publishedDateTime": "2023-12-20T09:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

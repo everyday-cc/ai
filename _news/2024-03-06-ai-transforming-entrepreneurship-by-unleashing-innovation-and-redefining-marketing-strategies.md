@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-transforming-en
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 512
     height: 341
     isCached: true
+
+related:
+  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
+    excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
+    publishedDateTime: 2024-03-11T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "ugigNjQfvgaRAGX0+q+QkFxRe/6AtTQjW9/wjKgRI0BgVtf4HPRrCPmlknf7qldQiKjsb6AHwDxL8IzJ842tLMQEdu4qOvLpofeX8m3EZ9J0rzju8SPP5XW6IaArutbVIRJAeDNrMDdQjiRst+4srRYUHpa+BQRxQc9GIndZanqFEF2TRZ9gQqRhXL9IFVl/ZqfL+ybpzcua9m+Rz82DCZmJ7s5k26pdI4l5Siwg7b2RvA7UhEHbkpusD8hB9IZybEaJ1oGgP7OPE7OTn9npsODSZqo7fCqo+i7N04oU9dm44nnlvMMabfkZh7iZQ21PyQXFEn5V1qgR9ubSkGcClF7stw8cNacziO72YJTcmjc=;zYxAt5PJ632QGHJb9ASdhQ=="
 ---
