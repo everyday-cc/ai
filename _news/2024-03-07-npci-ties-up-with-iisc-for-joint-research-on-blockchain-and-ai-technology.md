@@ -31,7 +31,7 @@ related:
     provider:
       name: gadgets360
       domain: gadgets360.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://i.gadgets360cdn.com/large/blockchain_technology_maharashtra_revenue_dept_unsplash_1664785921608.jpg"
         width: 1200

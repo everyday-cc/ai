@@ -53,20 +53,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "AI startup Taalas comes out of stealth, raises $50m for LLM chips"
-    excerpt: "AI chip startup Taalas has emerged from stealth to announce that it has raised $50 million over two funding rounds. The two rounds were led by Pierre Lamond and Quiet Capita, with the company planning to use the funds to expand its operations and development efforts."
-    publishedDateTime: 2024-03-06T13:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Taalas.2e16d0ba.fill-1200x630.jpg"
-        width: 633
-        height: 332
-        isCached: true
 
 secured: "ERManeMt565JrOUeJAJoJ4dk8pORmfRsakG+nAxuw+cjbp+JxwnMb0BnVwnVOgMgfnicDJxw8u0rc73TTNWCRhMYdxQ2pykvuvXzQchmKMdap+e3+ryf4row2vRHoHPK1h9npgGK/soO6nt+5W6tBYPmLsTjIkZyyQj729V0Q3iUNRuGEGxPOnOFmcptcUpb6NGk8itHauRrCSG5oknbPw+Lt27nIXqAL5Qi8W4+klgPiU1qMJpmtWWQTQG3kI9TNzA2VHnLjgNYAb6MxHdXmZ1Po9jwjSyLEuNjB/k6BHB+7n1KF+Z4r/nUcHajojPbz27zTo//09PvY/6ccJF71ONGofgQd+dFLhkDDUyTE0s=;67mCULhpi+UpxkNMP83TIw=="
 ---

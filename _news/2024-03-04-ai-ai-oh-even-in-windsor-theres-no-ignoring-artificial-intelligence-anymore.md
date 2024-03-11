@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/a/b8/ab814fcc-d807-11ee-a94b-ef8596663dd1/65e2373e20a7f.image.png?crop=1024%2C538%2C0%2C243&resize=1024%2C538&order=crop%2Cresize"

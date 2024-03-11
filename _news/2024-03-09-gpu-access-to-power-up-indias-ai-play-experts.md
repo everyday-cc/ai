@@ -3,8 +3,8 @@ category: news
 title: "GPU access to power up India’s AI play: experts"
 excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
 publishedDateTime: 2024-03-09T02:40:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
 type: article
 quality: 34
 heat: -1
@@ -67,7 +67,25 @@ related:
         width: 500
         height: 250
         isCached: true
+  - title: "India AI Mission: How India Plans To Lead in Artificial Intelligence"
+    excerpt: "The cabinet led by PM Narendra Modi has approved the national-level IndiaAI mission, allocating Rs 10,371.92 crore, aligning with a vision to foster AI for national benefit The IndiaAI mission aims to establish a robust ecosystem driving AI innovation via ..."
+    publishedDateTime: 2024-03-08T05:32:00Z
+    webUrl: "https://www.ndtv.com/webstories/feature/india-ai-mission-how-india-plans-to-lead-in-artificial-intelligence-14326"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 34
+  - title: "This Computer Scientist Seeks a Future Where AI Development Values Copyright"
+    excerpt: "The new nonprofit Fairly Trained certifies that artificial intelligence models license copyrighted data—which often isn’t the case"
+    publishedDateTime: 2024-03-11T13:30:00Z
+    webUrl: "https://www.scientificamerican.com/article/artificial-intelligence-copyright-fairly-trained/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 14
 
-secured: "Sp6LYvJcWygt7TTQ0kyAaE2MCrQbZLlphaoeo6SF47Smn8WNFd5Z/GntydYu/y9YJzdwRVgkwcFHkmY89wSr/THM8uJZEzojEBYXNofx5izdNRKJVxz8qXl+gFou1oSGy6g0MMeiNcg5NeuEXVBbi6wklXMGb1bgZwTqFitOs/Len9yb/CKAB9odkfh7lOMcE9NSTOZ6aIjM88JFDg3h/4wAeL9EVTW3ZS8ql5P13J9vHfxCNwyke8I9a4iWDDpgVmin2fE9i4K0wnSlSLGkGReemCuTkfYhar2TITCmR72LrpjB3DVe2UaqrT2j37vg5gFrwZrCyvRl1j+PIItbzZ4u4YoW+jFEIZUS0jXRNJ2K0qlIraX/GjNWc0C4pV0//qGgsvS+BHjuBOeOJO6unXvCNkPpkHpl/mn5tsjwS77QoTEAOKSTcMHo4q9HJ8AmQ/8bV7GiHPkuPplTLyUUP+Rc8LGmkOyfOVYk5lUsYIAbbII0WWsIWjEqGk9o+gX0RTUDg6NY69xHMUu7/uKG8g==;0xqBkjECLyduP187HndJiw=="
+secured: "yphHOkeJppxKl5fh87K5FLeTGWmQhnt/EDp1/6cIbbXg4RnP82vX4Tcu7hhgnAGna9/r6JEqmd6mCmIkowkASK8476GRO2DolM7KBFjgEl5BfQfQp/aPqOCysjEAvEZ3joufUObWK/Q4Qbgke45nbMJq9tac5FVPVW98WMmlKEgoitGRI03kCpS7ZqexZOTBFfAKLNE2PkWSMYNlx1RVMLcCWREjecYgkrJYQOwz/4IbV5UZSqRKqFTze8p/zg/2znS5fVcZKTJ4196OGRXd+FB6TI0shma+nL4UXtpOAztPrKiso6a5r076RECK5XJXCW3hzLlu5/lFiJTr1iHz0z7Ggt5LBCaTDr6+32NXz9mou7sXc36TQl11HfIf18X45k7SKEg8HEufaStpkNb6O5D9lwYabacPYpXdkLx6KUSQ/P0mckIpvb1a0BidKup1hBtZLN5m9t+5J6n+22SKGD8CSJJYm/grjh/b7yfooOclv8BNZjVOpHUsrjprYoxmdoQMCFrHKIDIqokW+n7DFQ==;TxhO7tzk8OA5Co10Bm/m4g=="
 ---
 

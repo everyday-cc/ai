@@ -55,6 +55,34 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "How fintech is reshaping the landscape of business finance"
+    excerpt: "Simon Moorcroft, above, director and chief technology officer at Capalona, sheds light on the changing fintech landscape and how it continues transforming"
+    publishedDateTime: 2024-03-11T12:09:00Z
+    webUrl: "https://www.smeweb.com/how-fintech-is-reshaping-the-landscape-of-business-finance/"
+    type: article
+    provider:
+      name: SMEweb
+      domain: smeweb.com
+    quality: 39
+    images:
+      - url: "https://www.smeweb.com/wp-content/uploads/2024/03/Picture1.jpg"
+        width: 409
+        height: 269
+        isCached: true
+  - title: "hedgehog lab promotes fintech vet to chief client officer"
+    excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
+    publishedDateTime: 2024-03-11T14:24:00Z
+    webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
+    type: article
+    provider:
+      name: prolificnorth.co.uk
+      domain: prolificnorth.co.uk
+    quality: 24
+    images:
+      - url: "https://www.prolificnorth.co.uk/wp-content/uploads/2024/03/Clare-Weightman.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The Investment Associations signs fintech agreement with Canada"
     excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."
     publishedDateTime: 2024-03-07T14:15:00Z

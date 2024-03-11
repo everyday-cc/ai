@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google: I Am Bullish Despite The Mess With Gemini"
+    excerpt: "Despite potential risks from generative AI, Google's solid position and profitability make it an attractive investment. Find out why I am bullish on GOOG stock."
+    publishedDateTime: 2024-03-07T15:49:00Z
+    webUrl: "https://seekingalpha.com/article/4676632-google-i-am-bullish-despite-the-mess-with-gemini"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1415832512/image_1415832512.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
 
 secured: "Rj9ut0JS3hyvCpqqOAE3HblhKZXI7kWk9EFYQlQzqxrm5gTh+BfgfVHO33v3no/nIKEkHlqdL4Enf9UEBzdSwGc1B0e3QmhemCU0XVf5lVcfdRPJtYDIIRcvn0lNXosT/Vc32kdsv172qypKqde7CIt7QaZhCyndH2/6T/5tmmyg/BS+kZDxIECUOoT0oZRZl7AAfXNIF1dPvANZCw5OuN0Bea1vuqAkzq7SHHyygk1a9uRWCYRJ5qMU/AWW8gDsOyj4Gu30egflXxH197PrrOQuc9bEKMFHziqY0am6MbKJeA0fEKp+MQX8K3XZJ+9zeFggkC919v4Riy74Q+IWx4X1IKefiKKTv7bROi8+uuiiar/tPfUXCwP0a9xH5qCUJ/KoJePg2vGdpiE8eOjyAUVmoe/IUAE+OpvY1PRRlObD9+8wvibTAfV6Q+Urk7B8nHoMOy7wyVf1yoS2KLmbKI+uTbm7YdhBr1plwnLUyrjEQYQCir5ztYRCKKoGM8fStHTzdsOmA4dcgVJkvAWDlQ==;FqJiTgOM8AU2ab+L/vUdEQ=="
 ---

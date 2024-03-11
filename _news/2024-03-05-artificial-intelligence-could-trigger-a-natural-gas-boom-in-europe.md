@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - Machine Learning
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg"

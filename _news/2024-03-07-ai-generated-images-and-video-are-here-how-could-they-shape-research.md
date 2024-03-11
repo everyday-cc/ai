@@ -19,45 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Tools Are Still Generating Misleading Election Images"
-    excerpt: "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud."
-    publishedDateTime: 2024-03-06T14:32:00Z
-    webUrl: "https://www.wired.com/story/genai-images-election-fraud/"
+  - title: "Profit or research? Google may not shake all claims over facial recognition data theft"
+    excerpt: "A judge indicated she will allow plaintiffs some time for discovery to back up their claims that Google used their data for profit, not just research."
+    publishedDateTime: 2024-03-07T22:12:00Z
+    webUrl: "https://www.courthousenews.com/google-unlikely-to-shake-all-claims-in-facial-recognition-data-theft-lawsuit/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 46
     images:
-      - url: "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined"
-        width: 800
-        height: 450
+      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2021/06/GoogleCampusMountainView9-24-19AP.jpg/w=2500"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "AI can be easily used to make fake election photos - report"
-    excerpt: "People can easily make fake election-related images with artificial intelligence tools, despite rules designed to prevent such content. The companies behind the most popular tools prohibit users from creating \"misleading\" images. But researchers with the Center for Countering Digital Hate (CCDH) attempted to work around the rules."
-    publishedDateTime: 2024-03-06T18:26:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68471253.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68471253.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68471253.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B5D1/production/_132854564_5_index_false_ai_images_5_march_24-nc.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
-    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
-    publishedDateTime: 2024-03-08T13:07:00Z
-    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
-    type: article
-    provider:
-      name: LGBTQ Nation
-      domain: lgbtqnation.com
-    quality: 9
 
 secured: "JRMUPeN/cu/Hpnvjo1SSfeYBx0HDJChjv6n0gytclfHjr6fREk1J5jqOmzGBaAzMVEvQ/J9ERwuL3GC3dO3oU7Rc977I9+1HHLvbNTfFoQmMVNrycIKy94blKFd6ySAS3YgyaF9ZgTcY3bakHozqpEHDhaQjafAxuSfLzE5cBnR3h72hsAlUPsa+U7BSGbP1fexnwnQ6tSv1GCEW3hB/X6MRgumEP7xt9yp0FqjRxV3CJPuHg42TOEqtuiw9HDTIFuHNMEXeW8gG460haiHTIA6y7v33wzikjF8+qKiZ95K53L8W9Er6JB7aXag5WiMBLcDvO8nXTNcyJvxLuDQgmdYiVoj9vyzTfKYsqiO/ZSTtAzFdip2G8+wNZj/10kS0avUHtoCoIlymbECbaaw29cy3Vvgw+yVlS3KiodU6yEDO0nYTuqwhHswsV+Po+z8QDmzksj/RTj1/0TxSDwgDtDXvNZyOMnOy4qW5P+6ZTrQFJqtbEFaI6UNcSjJMvlnIVooJS2uE/vVwTpw72FKYdg==;T45IxpGAfQLS3om/O7QnAQ=="
 ---

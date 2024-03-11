@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-
 webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "VqftgF2DIk0aUs8RYqOwBt/RnZttvQ2QHaNUl8lN0IawJ+vnOdwvbgnE3sMRyhO0AcKKlWfaRLQA42MrMDva8U1cvRtRA5FBat8o2YnMPPVmrCzWAebYN4DVmwvwPzji4y0MO+KQqCw0m/0p1P+7q7BFDaBDVXvzsYnGfdrCMqe3f350K0bOGOpIcDIDS5Kzk4KiZGYI0D/GS2grYjSkcbMK5QspoEq+x6YV3PxqYmOIPz3X1AdwFjsWATXGmLtJmEn15aOikJlHZTsoTdduGrNWsKl1O221QrKi8ANPzqVzmZojVc36frLJ/J3g3E6w02knxEbyhKCZZBh8rNkzrKVJBUmWf8xxN8I12Hl7PNM=;EMO0YYcCwGP8di254ZYpTw=="
 ---

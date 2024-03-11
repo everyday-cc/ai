@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "visionOS 1.1 now available with Vision Pro persona improvements"
-    excerpt: "After a month of beta testing, Apple is now releasing visionOS 1.1 to Apple Vision Pro users. Here's everything you need to know."
-    publishedDateTime: 2024-03-07T18:09:00Z
-    webUrl: "https://bgr.com/tech/visionos-1-1-now-available-with-vision-pro-persona-improvements/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/apple-vision-pro-on-bg4-3.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
-        isCached: true
   - title: "Apple MacBook Air 15-inch M3 hands-on review: Big on AI, bigger on battery life"
     excerpt: "Apple's big-screen MacBook Air goes big on AI with the new M3 chip, but it's the battery life that really impresses"
     publishedDateTime: 2024-03-07T14:00:00Z

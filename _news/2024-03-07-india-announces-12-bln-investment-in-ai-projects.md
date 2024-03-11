@@ -61,15 +61,33 @@ related:
         width: 500
         height: 250
         isCached: true
+  - title: "India AI Mission: How India Plans To Lead in Artificial Intelligence"
+    excerpt: "The cabinet led by PM Narendra Modi has approved the national-level IndiaAI mission, allocating Rs 10,371.92 crore, aligning with a vision to foster AI for national benefit The IndiaAI mission aims to establish a robust ecosystem driving AI innovation via ..."
+    publishedDateTime: 2024-03-08T05:32:00Z
+    webUrl: "https://www.ndtv.com/webstories/feature/india-ai-mission-how-india-plans-to-lead-in-artificial-intelligence-14326"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 34
   - title: "GPU access to power up India’s AI play: experts"
     excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
     publishedDateTime: 2024-03-09T02:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
+  - title: "This Computer Scientist Seeks a Future Where AI Development Values Copyright"
+    excerpt: "The new nonprofit Fairly Trained certifies that artificial intelligence models license copyrighted data—which often isn’t the case"
+    publishedDateTime: 2024-03-11T13:30:00Z
+    webUrl: "https://www.scientificamerican.com/article/artificial-intelligence-copyright-fairly-trained/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 14
 
 secured: "xRhmvPjegvRIdOlQDqWxfH7zHP82pzQbqYRFYWxbbfJubf//4nZd7zQteQc1f5tRsdnGTRipD/n+w+oT1+WTiehxNqVSUblibu04zSod0NMrGPMZRLNCbRwJCnTSjxO3F0B/+xxCHedSulIzdkm4R9qKGIBBjUOms53NZD33WKf1ZfEPyjfNEh/mMvm22NJOoYUTieOQ9g1H1AB+F/0hWQ9plCNNqJ8k1WD4WTBSNqcYRb8jhF78U/qc6BWqHYFUX9sYvB9/dsxu6eB9n6PIUpoTmQV2oC0VCUhVYSt7rJxi6ic0Qp6Ou5H+XjV1g5+yGlazVes05ye9a+mDgKPkUKsq7JJWZIM1e2tyh5RV5x4YPiyELqUYQW8squ2jfBIbQw2VtyhyiyYX1aZkVnuJtaQ5txITVfFcyvrzGJ1QAHuoE6lPb57tLDSZI9lvHkuNeM7rWEDh8xcME7FKQPrMnEhmmnjrPRXJXkFF2E9i5/5rQA750Y1Cg6aiZFfUltLQqZnyg1bBSeKRL7evYfURiA==;ggY3I6FdLP8hOupDD41V7g=="
 ---

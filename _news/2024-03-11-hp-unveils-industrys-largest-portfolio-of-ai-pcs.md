@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CUEBRIC UNVEILS THREE-TIERED PRICING STRUCTURE, BRINGING POWER OF AI TO FILMMAKERS AND CREATIVES AROUND THE WORLD"
+    excerpt: "Cuebric—a leading industry-grade AI creative tool that allows users to create, segment, and dimensionalize scenes for filming and go from Concept To Camera™ in minutes—today announced its new three-tiered pricing structure."
+    publishedDateTime: 2024-03-11T14:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9976051.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "HP: New Business Laptops, Workstations Part Of ‘Industry’s Largest’ AI PC Portfolio"
     excerpt: "The laptops are powered by Intel Core Ultra or next-generation AMD Ryzen Pro processors, both of which feature a CPU, GPU and, for the first time in an HP business laptop, a neural processing unit (NPU) to power a diverse range of AI workloads. The ZBooks ..."
     publishedDateTime: 2024-03-07T22:00:00Z

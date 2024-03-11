@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-lat
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,34 @@ related:
       - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/464663-Screenshot-2024-01-18-225.jpeg?h=bde28bee&itok=Hgla7csP"
         width: 600
         height: 316
+        isCached: true
+  - title: "How fintech is reshaping the landscape of business finance"
+    excerpt: "Simon Moorcroft, above, director and chief technology officer at Capalona, sheds light on the changing fintech landscape and how it continues transforming"
+    publishedDateTime: 2024-03-11T12:09:00Z
+    webUrl: "https://www.smeweb.com/how-fintech-is-reshaping-the-landscape-of-business-finance/"
+    type: article
+    provider:
+      name: SMEweb
+      domain: smeweb.com
+    quality: 39
+    images:
+      - url: "https://www.smeweb.com/wp-content/uploads/2024/03/Picture1.jpg"
+        width: 409
+        height: 269
+        isCached: true
+  - title: "hedgehog lab promotes fintech vet to chief client officer"
+    excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
+    publishedDateTime: 2024-03-11T14:24:00Z
+    webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
+    type: article
+    provider:
+      name: prolificnorth.co.uk
+      domain: prolificnorth.co.uk
+    quality: 24
+    images:
+      - url: "https://www.prolificnorth.co.uk/wp-content/uploads/2024/03/Clare-Weightman.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The Investment Associations signs fintech agreement with Canada"
     excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."

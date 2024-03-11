@@ -9,8 +9,8 @@ ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/musk-says-ai-start
 cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
 type: article
 quality: 57
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Investing
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI showdown: I put 3 chatbots to the test"
+    excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/"
+    ampWebUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AMD promotes third-party app for running AI chatbots on local hardware"
     excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
     publishedDateTime: 2024-03-08T13:55:00Z
@@ -35,20 +51,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
-    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
-    publishedDateTime: 2024-03-07T12:44:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 48
-    images:
-      - url: "https://financialit.net/sites/default/files/justpaid.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "AMD's AI chatbot released"
     excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
     publishedDateTime: 2024-03-08T11:05:00Z
@@ -77,25 +79,7 @@ related:
         width: 708
         height: 365
         isCached: true
-  - title: "JUSTPAID, AI-POWERED FINANCE STARTUP, ANNOUNCES NEW FINANCIAL CHATBOT CAPABILITIES"
-    excerpt: "MOUNTAIN VIEW, Calif., March 6, 2024 /PRNewswire/ -- JustPaid ( chat.justpaid.io ), the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial assistant/chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
-    publishedDateTime: 2024-03-06T14:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9973950.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
-  - title: "AI chatbot models ‘think’ in English even when using other languages"
-    excerpt: "When answering questions posed in Chinese, French, German or Russian, large language models seem to process the queries in English, which could create cultural issues"
-    publishedDateTime: 2024-03-08T13:00:00Z
-    webUrl: "https://www.newscientist.com/article/2420973-ai-chatbot-models-think-in-english-even-when-using-other-languages/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
 
-secured: "qHaoRqa31hD/hWC/+zoe0Y8Ci+x3nr1hDRc+IYbc+pVM/0ybeUQMUpw71xlQl3lMnfekk8r2uXhV9jMMQPrNaTl9R7vT/eLuBLpLJ1gSsjzLqYB+aQK7PNaRc1UQZdkceIxeEoHtzzQFWz8YEyfPqOkZUCGq7srw5fgqHeygE9jab8YuDhYWVXtlL/Za5dYZ1haqAOX/v5xlK9nMKu7L6LdxmDOpeGXB2N34koEbf2QqBU6dQAGn3wcHafvAlyKTXZPkTi3AhqjEvN8/FpEQtYTDXEHa0xusDz1iQCazEbaJiFiDAWQfByI1TNF8Wth9eBF/LeAu/r7bD7pBIfJO4WzROhG3TqIqwwogBzlC0CE=;K1MBZ1T/9UIH0SphGPgkFQ=="
+secured: "csRor4XdjVE+UWKDjM3r0UIKslNsJMswp86fz3WYYD5q+YPho+UBBrNtDl4TeIdAZNZfiC/aAlZM0CeuEpRowsf+197yr/8/trwa+y6U1xEjwUoXV8+W6uTC/UHVgcUPf1ZNeceYdaKyIT4LyM0qZiAGsb1cHpbhzYuhEm7idfANjrmVqJcm0bsisGpyrQb9ORXTADhyIdbqPOauit/hNZ49GbArBfnl3zNDGHACaK/wrsa6LnGhb04f4Z1GT+0nreWk+fTRSLjv6GIduJj4XyTtqHy9FVpdjLPAWnijJjcZSjWBLHWZo+iXF8sgsv9sZ7Z2ZXdMLfiAeRy76nBoq5Sd6avnwEqRk6X25QyJR8Q=;dsKO7cuaFvQS0xI0dXRkjw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.am
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Hospitality: Elevating The Hotel Guest Experience Through Innovation"
-    excerpt: "In an industry where personalized experience is key, AI offers a myriad of opportunities to enhance guest satisfaction and streamline operations."
-    publishedDateTime: 2024-03-06T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/"
+  - title: "Oregon passes its first bills on artificial intelligence regulations"
+    excerpt: "Oregon lawmakers passed the first two bills in state history that regulate the use of artificial intelligence."
+    publishedDateTime: 2024-03-08T01:20:00Z
+    webUrl: "https://www.kgw.com/article/news/politics/first-oregon-bills-regulating-ai-head-governor/283-9da2dee5-a711-457e-afad-cf9d81e82513"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: KGW8
+      domain: kgw.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e6acbe7f26240238ff9c04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://media.kgw.com/assets/KGW/images/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Nurses Worry About Lack of AI Rules in Hospitals"
     excerpt: "For health care facilities that use AI, nurses could override the technology’s recommendations if they deem it in the patient’s best interest. The American Nurses Association’s code of ethics, followed by all nurses in the country, states that ..."

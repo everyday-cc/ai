@@ -194,7 +194,7 @@
       "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -234,7 +234,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -246,7 +247,7 @@
       "originalUrl": "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "",
@@ -521,7 +522,8 @@
         "AI",
         "AWS AI",
         "Machine Learning",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI in Autos"
       ]
     },
     {

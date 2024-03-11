@@ -41,6 +41,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watch Cillian Murphy Oscar acceptance speech as ‘very proud Irishman’ pays tribute to his wife and kids"
+    excerpt: "CILLIAN Murphy payed a touching tribute to his beloved family as he bagged the Best Actor gong at the Oscars last night. The Cork native, who added the win to his CV after his starring role in"
+    publishedDateTime: 2024-03-11T11:31:00Z
+    webUrl: "https://www.thesun.ie/tvandshowbiz/12386629/cillian-murphy-oscar-acceptance-speech-wife-kids-tribute/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 0
 
 secured: "ExcCHvBKMSyuMn+55sqw0jBdt3kDDzdP0Rfs71Tks5WAOUQkOUFtmCNGDUux/9Mda0+bYmLTLYiz3bMJ74M4gmiUpt/onyJtg0FD18s2Ra9Q5lG4nE8CHHtr6cBxFl8/aP4svWgaAvweBhDYVFcIs/N7iyJT7snfySQhCx946vE5SXuQxOssFTMLxGKeI7wE37v3T+0045KovrUtdUh+V4PWqa34u7K5A9irFRxvXfIIIlP1mTTwvrcBe/VhGUtRTlk/UxBlgtTLhzurxBLkJUAzZSRhq0d/qS2uSmTlO56vDn0n/zIAMZ3go0Ws5T4PM/1ckbAuGPLHF1w+N4y6TQghGHBwOyPpVi3WFMvuGtW0Ro6/6TwkMV6ajSIRRY49ZKduyqK3879dKtrGkocLGdobq3LfEWBEO6CjBUy7UE5p4wYwSCJEJAwMATcwUzW54Wnlj6ceHDG2FW8J8cARDXfCa2MocdoO3tj3OzF8IK/gth4eZT+fb7mzLa2FYUQ1tXOkYySa+STacPTWEmd3xA==;FubsTt7BoHtDtn0qBCXRiw=="
 ---

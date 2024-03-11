@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
 webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
 type: article
 quality: 84
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
-  - title: "OpenAI Says Musk Agreed the ChatGPT Maker Should Become a For-Profit Company"
-    excerpt: "Elon Musk supported making OpenAI a for-profit company, the ChatGPT maker said, attacking a lawsuit from the investor."
-    publishedDateTime: 2024-03-06T14:01:00Z
-    webUrl: "https://time.com/6874035/openai-elon-musk-chatgpt-for-profit-company/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 61
   - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
     excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
     publishedDateTime: 2024-03-10T11:03:00Z
@@ -177,20 +168,15 @@ related:
         width: 1548
         height: 776
         isCached: true
-  - title: "Forget ChatGPT and Gemini — Claude 3 is the most human-like chatbot I've ever used"
-    excerpt: "Put through an IQ test Claude 3 scored 101, making it smarter than the average human and beating GPT-4 which scored 85. It has also performed better than (or equal to) humans in other benchmarks related to mathematics, information retrieval and language."
-    publishedDateTime: 2024-03-06T14:30:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-gemini-claude-3-is-the-most-human-like-chatbot-ive-ever-used"
+  - title: "New Jailbreak bypasses AI filtering on ChatGPT-4, Claude, Gemini and LLaMA"
+    excerpt: "A new AI jailbreak has been discovered using ASCII art to bypass content filters on advanced AI models : ChatGPT-4, Claude, Gemini and LLaMA"
+    publishedDateTime: 2024-03-11T13:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-jailbreak-ascii-art-bypass-content-filters/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xMQXtoMcRWfUCf2QK4voRG-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
 
 secured: "e+/FLqHDNW0xbBETguvfH19n5QgLZV3cHJvW7LFj2ZU6XmKTlU5A5pWg5Z32QDyjJEmJPDxEt5BoZCZUaR2CPAJEMrhq9hc3OjpEt5emc79QNWC5s1AiApHU0oSF3ddnwNCDMbLUzk284CZxdDQCxpI0xx6291JWDMDim9zg2Em7UvhEPNkX9xx6gIY+pL0mhH5OPqlx5ygU9HZE40uuDJviB/VAMrpM6z1jMyt49DTEGVOdlZlmQTASnNj3ERryuM0c6kfIMYAdkuhzpRoIQK/VliEhErtfw/trDrrzRMs6eG+3K/14yqen1eNyPaw6Ei7GyDEesGmVGzbs0oQ2FxamoaXuFozMLUh5WNW0U+0=;3l43X5DbYaOnXliWcOE7HQ=="
 ---

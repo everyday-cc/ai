@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-07T20:28:00Z
 originalUrl: "https://www.forbes.com/sites/rachelwells/2024/03/07/8-best-ai-tools-for-work-in-2024-according-to-research/"
 webUrl: "https://www.forbes.com/sites/rachelwells/2024/03/07/8-best-ai-tools-for-work-in-2024-according-to-research/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 related:
   - title: "Best AI Tools To Enhance Your Social Media Account"

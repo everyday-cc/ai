@@ -7,7 +7,7 @@ originalUrl: "https://www.baltimoresun.com/2024/03/08/fake-images-made-to-show-t
 webUrl: "https://www.baltimoresun.com/2024/03/08/fake-images-made-to-show-trump-with-black-supporters-highlight-concerns-around-ai-and-elections/"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
 
 secured: "5kp/bZu6bs2Go+dIPBzZ6QOEnB1fTpTPxPRQPPGdOkpfeI8Ga8xvsqc7V+7etbUA8VGD3gajfze/iIVoP38rnwzI4dxw7z0dyl2fZ4HH6CJG7RSpJYMbsb2agsTGkJSWGtnCDJmOz5ACv1Fq3tloFfpFl96WaIjr/ruXn7iR93IttG4RdGhvsJhk5Z5ofihXqj5Unm26VSvsZpv5SQ6aWkwraqMnfD7lHfx5pyvqoNqv0CMfRD6bfC51B7WVcHwvIUvhsXKCIkPH9wCcGznKk0q7q7xbWn71Bb72gf4dacKFr2pCLBFo3S2Usdtxhp5VRZ8dxeRDcj/V9tQHGXmXjtM4Jd4IlfWH/+oQB05pwz7n3kq7DMXCOPgx3MZV0YCar/6dBFChyeuEBqxAksojt1FmWaUeXwJ/9KnutCshXfCgSa+dctPsh6c/Ul6Jg6zPZFVANZMntsmM6vPk4+uwTHLkc7MiLooBLYpCnbDWsBTjpcKi+G8RFBfG+J9cY+LznPG6SGD4IJKwMm4Tj4D2oQ==;hRoYS/88dfDBdwENmONwRw=="
 ---

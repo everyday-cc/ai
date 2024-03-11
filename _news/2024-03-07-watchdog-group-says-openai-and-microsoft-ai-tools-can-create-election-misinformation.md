@@ -20,21 +20,14 @@ topics:
 
 related:
   - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-    excerpt: "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
-    ampWebUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+    excerpt: "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization."
+    publishedDateTime: 2024-03-07T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 104
-    images:
-      - url: "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
   - title: "Microsoft engineer warns company's AI tool creates violent, sexual images, ignores copyrights"
     excerpt: "Shane Jones, who's worked at Microsoft for six years, has found a plethora of disturbing images that are being created by the company's Copilot Designer tool."
     publishedDateTime: 2024-03-06T20:18:00Z
@@ -102,15 +95,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 62
-  - title: "Microsoft’s AI Tool Generates Sexually Harmful and Violent Images, Engineer Warns"
-    excerpt: "In letters to Microsoft and the FTC, Shane Jones urged government to work with tech companies to make AI safer."
-    publishedDateTime: 2024-03-06T16:02:00Z
-    webUrl: "https://www.wsj.com/tech/ai/microsoft-engineer-shane-jones-warns-copilot-ai-tool-generates-harmful-images-needs-better-safeguards-659ac2a2?mod=tech_lead_pos1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 59
   - title: "Microsoft is making lots of money from LinkedIn Premium — and users like its AI tools"
     excerpt: "LinkedIn generated $1.7 billion in revenue from premium subscriptions last year and says many users are taking advantage of its AI features."
     publishedDateTime: 2024-03-08T13:03:00Z
@@ -120,6 +104,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
+  - title: "Microsoft Corporation (MSFT) Rose on Accelerated Growth from Azure"
+    excerpt: "Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” fourth quarter 2023 investor letter. A copy of the same can be downloaded here."
+    publishedDateTime: 2024-03-11T06:23:00Z
+    webUrl: "https://www.insidermonkey.com/blog/microsoft-corporation-msft-rose-on-accelerated-growth-from-azure-1272132/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 54
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/24233139/microsoft-4608125_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
     excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
     publishedDateTime: 2024-03-06T20:58:00Z
@@ -174,15 +172,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 35
-  - title: "Why Claude 3 Is Bad News for Microsoft Azure"
-    excerpt: "Now, AWS and Google Cloud’s generative AI pal and OpenAI’s rival, Anthropic, might have brought them back into the game. The company recently released the Claude 3 model family, which comprises Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus."
-    publishedDateTime: 2024-03-06T12:56:00Z
-    webUrl: "https://analyticsindiamag.com/why-claude-3-is-bad-news-for-microsoft-azure/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
   - title: "Veeam To Jointly Develop AI Solutions With Microsoft For Industry's #1 Data Protection And Ransomware Recovery Platform"
     excerpt: "Veeam to co-sell newly announced Veeam Data Cloud for Microsoft Azure and for Microsoft 365 with Microsoft which builds on the world's #1 data protec"
     publishedDateTime: 2024-03-07T21:03:00Z
@@ -206,15 +195,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 25
-  - title: "Amdocs Expands Strategic Partnership with Microsoft, Driving Generative AI Innovation Across the Telecommunications Industry"
-    excerpt: "Amdocs, a global leader in software and services for communications and media companies, today announced their plan to expand their strategic partnership with Microsoft to further bring verticalize | Using Amdocs’ GenAI platform amAIz,"
-    publishedDateTime: 2024-03-06T13:00:00Z
-    webUrl: "https://www.fiercewireless.com/sponsored/amdocs-expands-strategic-partnership-microsoft-driving-generative-ai-innovation-across"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 7
 
 secured: "PK1oo1veBz6gw1JZoh/MpoMKnmey7KwYVU2E/Y3dz4AVtIu9XQkKGmT4ZNDYtIuCOFXMsiK1ccjCIAeneGwW8FFbcnJ/NLlKS9o/K3lSeFwdPlFUDZ6o2cbFlnq49ag7+ZAkiO6aG1mMcHKQakInlTola5DzNZH7VU0rneoBJp3bxqfwSCc593G02+YqDEwxmBWRUhUzxWiTnGCbjXwDrACjgvr3NbH9JmZLUjq4VPVyGD1BECVbRFEtIvmYnwh4RttU70aaPVqiTYjzSlxxpZPDZrzAmZ5NOOI+uyImB25rwFOEUbYFf5Ujlr/bZFhX/7Ns+B0GL2WCdQA62GkzTnrhLwqHhnF2f6uvje3+f0+sOgUr8H4ONCZUly2mOHgGokcyNRVj9CLLVsoUSda28jTxDb6cgBmezaMa8J/qKnugRzS3UQ0QdHEx5LPzH3nvI7KaYj/QsbMXPyKGDcPqUSg5s/seP+iPN7b8APBJG85gyPsX5p5L0AW8pReI3uL0cDvEzhf2ofLuET5rlmCNRA==;WY03a5ezNb+HoX7bW50qdw=="
 ---

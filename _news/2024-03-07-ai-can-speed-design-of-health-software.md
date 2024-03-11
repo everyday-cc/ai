@@ -34,6 +34,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "care.ai is named a Top 25 Artificial Intelligence Company of 2024 by The Software Report"
+    excerpt: "ORLANDO, Fla., March 11, 2024 /PRNewswire/ -- The Software Report named care.ai one of the top 25 artificial intelligence companies in 2024. The process included evaluating the software's effectiveness, technological innovation, organizational capabilities, management team caliber and workplace culture, among other factors."
+    publishedDateTime: 2024-03-11T13:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975912.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
   - title: "Wipro's health care deals get an artificial intelligence booster shot"
     excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
     publishedDateTime: 2024-03-08T16:16:00Z

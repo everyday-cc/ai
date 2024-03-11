@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-em
 webUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://images.indianexpress.com/2024/03/Google-Gemini-Google-1.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Google: I Am Bullish Despite The Mess With Gemini"
+    excerpt: "Despite potential risks from generative AI, Google's solid position and profitability make it an attractive investment. Find out why I am bullish on GOOG stock."
+    publishedDateTime: 2024-03-07T15:49:00Z
+    webUrl: "https://seekingalpha.com/article/4676632-google-i-am-bullish-despite-the-mess-with-gemini"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1415832512/image_1415832512.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
         isCached: true
 
 secured: "xSwBhu8PKqTy3zZS46LRndM2HaLq5mUSAzz58UpXY31qolhjk8+z4pfLBvQaKvNmpgaK2mV6f2WiLZy/dcVVXfy7QCi3BZ+pYKVDOYsjlV1oHJspxW/EiVAQFLfxxu+QV5n3eM9VxU69L2mAN2LHsurbo64tpFEDfGi1hUyv56a+eHxh5j1wKSXWRtePqxXL4jlXkIAoBekFtyGtcKpPC6b3mLXOw7chh8X1FZoPq1CJp7PjxhiHPYeGRK2QAbdEI1FMerUue3RYRk8DyITM1FG2mx49Vq1zbFM06K8RcvKjX22ojebm6gWi9+T5nKGYRUepiejpbdegbgMHKNwjDJ3scO1VQZqZCRVnt+iaGYLx2KR5GvMNykw7EHYrGPm6Jwy+RkGeo46yvbKn7dONL4bSXr00gbnc+PX2aTX/Y9VIPNiFBbl/sUBms0to0iUkwcQOvz0szV2TOokgWPajQqsitRaq0C+7siimiytMnYSsx4nvJ/iYGsXdAfF2BAsbtDeN7Yn572zdOo69m5nuTQ==;rQYEJRyhKv8KGtwuGupqpQ=="

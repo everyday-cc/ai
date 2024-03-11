@@ -40,6 +40,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Precisely Drives Confidence in AI-ready Data at the 2024 Gartner® Data & Analytics Summit"
+    excerpt: "Precisely, the global leader in data integrity, today announced it will present on stage at the 2024 Gartner ® Data & Analytics Summit in Orlando, Florida, sharing its expertise"
+    publishedDateTime: 2024-03-11T14:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975976.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "How Marketing at the BBC is exploring generative AI to increase experimentation and improve Doctor Who promotion"
     excerpt: "Experimentation is at the heart of how we approach marketing at the BBC. Testing and learning on how we let audiences know what BBC content is most relevant to them and we know they might love underpins our digital marketing strategy."
     publishedDateTime: 2024-03-07T13:38:00Z

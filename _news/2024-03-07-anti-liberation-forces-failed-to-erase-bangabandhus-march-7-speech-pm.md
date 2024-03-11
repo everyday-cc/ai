@@ -35,15 +35,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Bangabandhu's 7 March speech will glorify Bangalees in world: PM"
-    excerpt: "Till 25 March, all the people in the country ignored Yahya's rule and obeyed Sheikh Mujib's orders precisely as he said, she stated. Bangabandhu was arrested by Pakistani authorities that night, the premier said, adding that he formally announced the Declaration of Independence before he was arrested."
-    publishedDateTime: 2024-03-06T12:58:00Z
-    webUrl: "https://www.tbsnews.net/bangladesh/bangabandhus-march-7-speech-will-glorify-bangalees-world-pm-804658"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 4
 
 secured: "4mlQivcVG7g76YIpTgjLJYF4YPbbkd+sFLyL8giF7XhiYqHxa/8Nh4Alxaq4CK1ZwMs10Ro+D2Ra/JpD8eGnkMnUyDahUavToKLs0icPZZrSxmSjj/9SVTHOWTpnWHczbDVWH5ZV16DB/ozlQYFk13iLAvT3SuHuwkJEEFCPJC4Xg5cKqyvh0o6wEPU60U72DuhQ5+98XfkI2Kuq/W/uD9JfW0ge4i7tHp05wP1nPyw903QuLWMSEn7dQfU4VZU6C52/j9Y+AvVAH3ixITsp0UrxNGXP52IW+vDXb+Ffj95JCSurPa8pFbjIK8EDsAt1FrwlzRswccsjezK1Y+iyk4CAinGxB/+9bbEQt81rBd7KO/CAPph5Xj+viknxH82DKoFAmqfOFw9PHj0pb+W5Pb6zh5dWCv403BDzQywOUZVTEzyL+DOj260uZr+3ES/stcq2A1Wf/e7LdeDpEDa1paJr0zJh+227bl1hZH2kzNyS4jOmyh9/NR2bfLozNilstxh5tbMxAgrsd6aIMJHPHw==;1EW462VOrN3mt0qFVRLdnw=="
 ---

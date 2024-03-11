@@ -40,11 +40,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds"
         width: 1599
         height: 900
+        isCached: true
+  - title: "2024 Is The Year Of AI, But Data Will Steal The Show"
+    excerpt: "Disparate datasets in fragmented systems will give way to platform-aggregated datasets architected for AI analytics."
+    publishedDateTime: 2024-03-11T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62601f40cff8e83e2777648b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 625
+        height: 416
         isCached: true
   - title: "ChatGPT Stock Predictions: 3 Space Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the machines taking over, it seems only appropriate to ask ChatGPT what"
@@ -83,6 +99,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Are Expectations For Gen AI Lower Than Planned?"
+    excerpt: "At least 90% of the POCs for gen AI that launched during 2023 will not make it to production in 2024. Yet, tech firms are still plowing hundreds of millions of dollars into building AI tools and building the capabilities for running them."
+    publishedDateTime: 2024-03-11T12:29:00Z
+    webUrl: "https://www.forbes.com/sites/peterbendorsamuel/2024/03/11/are-expectations-for-gen-ai-lower-than-planned/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Key Lessons for Businesses From Google's Conversational AI Innovations"
     excerpt: "Cognitive AI offers a path to augment and eventually substitute human agents in complex decision-making processes."
     publishedDateTime: 2024-03-08T08:47:00Z

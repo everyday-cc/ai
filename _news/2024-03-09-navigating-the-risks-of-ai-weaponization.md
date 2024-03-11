@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Preventing the weaponization of AI-designed proteins"
+    excerpt: "A new online marketplace called aRukon is set to launch globally this year to help researchers sell unused animal samples to other labs. The idea is to potentially reduce waste, save money, and prevent the unnecessary death of animals."
+    publishedDateTime: 2024-03-11T12:51:00Z
+    webUrl: "https://www.statnews.com/2024/03/11/biotech-news-amylyx-alumis-lundbeck-als-psoriasis-arukon-msa-relyvrio/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 19
   - title: "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines"
     excerpt: "AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field."
     publishedDateTime: 2024-03-08T00:00:00Z

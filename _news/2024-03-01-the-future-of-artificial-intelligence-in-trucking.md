@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2024/02/maxresdefault.65e101276ffb9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"

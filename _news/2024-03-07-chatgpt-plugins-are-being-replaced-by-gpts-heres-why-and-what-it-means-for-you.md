@@ -106,15 +106,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
-  - title: "OpenAI Says Musk Agreed the ChatGPT Maker Should Become a For-Profit Company"
-    excerpt: "Elon Musk supported making OpenAI a for-profit company, the ChatGPT maker said, attacking a lawsuit from the investor."
-    publishedDateTime: 2024-03-06T14:01:00Z
-    webUrl: "https://time.com/6874035/openai-elon-musk-chatgpt-for-profit-company/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 61
   - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
     excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
     publishedDateTime: 2024-03-10T11:03:00Z
@@ -180,20 +171,15 @@ related:
         width: 1548
         height: 776
         isCached: true
-  - title: "Forget ChatGPT and Gemini — Claude 3 is the most human-like chatbot I've ever used"
-    excerpt: "Put through an IQ test Claude 3 scored 101, making it smarter than the average human and beating GPT-4 which scored 85. It has also performed better than (or equal to) humans in other benchmarks related to mathematics, information retrieval and language."
-    publishedDateTime: 2024-03-06T14:30:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-gemini-claude-3-is-the-most-human-like-chatbot-ive-ever-used"
+  - title: "New Jailbreak bypasses AI filtering on ChatGPT-4, Claude, Gemini and LLaMA"
+    excerpt: "A new AI jailbreak has been discovered using ASCII art to bypass content filters on advanced AI models : ChatGPT-4, Claude, Gemini and LLaMA"
+    publishedDateTime: 2024-03-11T13:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-jailbreak-ascii-art-bypass-content-filters/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xMQXtoMcRWfUCf2QK4voRG-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
 
 secured: "t8cjD2k/JAQgMQmTEF9HCiYLaXP+6LB3y1ikzime4bCz7lPbLUVoJyVfh8mQa0UMqgWEahCIANt34cZrwo9SCTUEM9G3Trqfw4KQWmOId4z42tbRsIxW3pbCQxLyUd40om5QZkXfxUIJnL9hpEZPfWXLKJUDf5PKW+UQtn5gFeE1gKqJk3bOgp2HFybV4G0LypzVCqX/9ZSNxJiW3fy6AbQEco997R/eMmQFaCV1AdXCoHgFBShmnm0pS/dOL8o29ClNHK8rdISAaQyy5bFJlsE7r28KN5uCmgMYylSv7U94qU5cx1PV+ppByufY4xb3HGzVru4r4SvMj4oUZK4rkmG8IuiBnwbc5L82cl+dbGOA0Le+k2pA+hHqJkBfHp/Oo8AfQZPc3Su5y7HwvsappyL5y1R5VdsoFtf/lAmMF0M2ZvE2J6WBQQ1XUDgEawQoVaK3JCPdCOEKEcV5bJrVo0Rcsp8Kqtexi4TYNtvkkEbWq54a2V86EwDuhQO7smRwecUcXKucsQe33jKK6Rka9Q==;HS6WusvunTl440Jmj7tdKg=="
 ---

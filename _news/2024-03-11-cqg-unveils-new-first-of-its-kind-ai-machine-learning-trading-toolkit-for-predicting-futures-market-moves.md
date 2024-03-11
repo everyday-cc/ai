@@ -1,39 +1,40 @@
 ---
 category: news
 title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
-publishedDateTime: 2024-03-11T11:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
+publishedDateTime: 2024-03-11T11:20:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 related:
-  - title: "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies"
-    excerpt: "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -"
-    publishedDateTime: 2024-03-06T15:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486"
+  - title: "CQG unveils machine learning toolkit for predicting futures market moves"
+    excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and exchanges, today announced completion of internal testing and proof-of-concept using live data on what the firm believes to be a first-of-its kind artificial intelligence (AI) predictive model for traders."
+    publishedDateTime: 2024-03-11T11:38:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99960/cqg-unveils-machine-learning-toolkit-for-predicting-futures-market-moves"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Finextra
+      domain: finextra.com
+    quality: 38
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg"
+      - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
-        height: 341
+        height: 512
         isCached: true
 
-secured: "vo1kZyqsK/k94wTx39vA/npIWFrXFMPXrhiMMCF71ZPxOs03w++vwWqeuDL19xGrVcwVE0RscvejETTrjTqBkWnXzsL8KlN8KQGIATgWkIa0aYWBxjoh/MbEUF0aOEPdHCK9dBdRf/51r9HyLl5K9+3v9+TIOAkPaRQ3zLuu4kt6VJWXuhEK7FCpeViDi8uZxBTy+1pK/TOdS+8qpacegLD4D8A5wFc2NxeWn45moZc6NEEaWBlTc7rvB+AzSHbZmIaQRR70vf2JBiJYJG2Zh3drtQfm7nw7KHN6vDsGktIRyvpRsfeDlG5y2e3S6/jcEdQ+jeUUZJkDG1018hDGaqwGzQ7tHMLdU3UllyitgL4=;+nkDt6SlyqLCe3cINi+Qhw=="
+secured: "V/3m3pOaV5hlxVwoEHNhxEbX7Gqd5c3d69DxHQCvbotsTntFmgTdFMyn51F0RjyFkyfLb81kjgarvM++GFpWiZz6DXe66MlGPVYVRClVH/Z0YgpF6HU6ossR4Djw+XXsJN1I2bqPtxYFo1XflB3ZEsTH6MS2Hkh50eolSxMhxyr+nuvcol694nXvtDnpXfJQr8Ip+0zuY/cSsJY7O0dcFtwKUER1SelNhoorqFSXA3OKIicJ3O3OegfV3G/dbYvNDEzSYivNCbjoEekZ6ADWyy3h33RiLNEQ4Tw5djmTM3GnNISNvo6FmaJWfO2k0jKd+Xgn+zcJL0PkD9rN17yMpxng/opLbfBNfiDEHzLNq3M=;kEVS4o3pl3KGs93f2NmCww=="
 ---
 

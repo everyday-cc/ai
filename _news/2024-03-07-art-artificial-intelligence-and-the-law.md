@@ -94,6 +94,22 @@ related:
         width: 575
         height: 504
         isCached: true
+  - title: "Human Creativity in the Age of Artificial Intelligence"
+    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
+    publishedDateTime: 2024-03-11T02:11:00Z
+    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
+    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 57
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The potential effects of AI healthcare"
     excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
     publishedDateTime: 2024-03-07T10:58:00Z
@@ -146,6 +162,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "i+oEgnjqgfPx6s+85rGNZ7UeSF3eufuXPEFTprxKmTzMDD7UH5SzSSzyVdArB+J1O7FWWPE9BkSEITm/bCzS4ji/eIlaVlxLLrUfolRzX43E2gMIHhQbTvXeZ4lKFFWaOmvY8FpzuYbxY5iTMFPnw7JK1Pkg3fWH6X1Vc0EoOLyh0JTZt8HjkTyI6fVZaUv+BdiOFiGyILahXaMr0fZ0mJyDrVpofF1ccuhlByv6C7KYAg16sbwYoNUTYTxvIc3XBB1sbC5KAZEwSDXvUwC+mPR/S9l9LtqjQUdltp+MrbXZPaNxNR3OTY8TVbnXJ5W/Wo/EDk9oRgvFmnKoWddtH24pEqh/pwsl+qmrWpMsGsw=;jQBAlvQIEuXG6qpSBjRHnw=="
+secured: "0aaykZLX/8BgDLVc2INxutpTFcITtT+tw+sPLhkNpodIZzV9glmffnQF0d0fmhLoJ3LogKIqNdaR6OE/s42YjO0jlNYkTTD7yWkfTHWorNIp9Db6bEsyE/Rtu460Xzvp8KtIT1uiJP9kYZBzWl1XlQcfGPfXZSgWJOzimXXrMfoF/qNCCDnvaOTRY4JxFvE6oge2Wey+x8F3hwlyrJquMTJMRqx8r8cv0gzrqjvk77ka71IHVsnWszOVMSrraWr7jXZxrILksT5407Eg6CLH8ilTLromrZZxGY5PUGWDiTd7hIHEWGdwW7w9ZZF03P7BCTZsUnf3s3AeyYaSmc4xNp37VR1i3aLvl3HqcJzB8/Kyq0rLy7eeR9uswZmOjvC79D/N6eLBwgIcN0XkNHOKLDCU7mPhDXpqF0qfpEtWYA/5s7qt/nCTjsLV/mWkh4KwTOiCE3mQKKH+fIm4OQqlPWFSZPAz61vxrIwTMXkJNrQEcJvNwKjmbml8OsRQ7KN4h+WBd4mJ64GhIG/tnrnmlQ==;7txc1EHd6eGnejSHLywz4Q=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/nv
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
 type: article
 quality: 59
-heat: 179
-published: true
+heat: -1
+published: false
 
 provider:
   name: brandequity.economictimes.indiatimes
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "What you need to know about Nvidia and the AI chip arms race"
-    excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
-    publishedDateTime: 2024-03-08T22:18:00Z
-    webUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/"
+  - title: "Nvidia Says NeMo AI Platform Complies With Copyright Law After Authors' Complaint"
+    excerpt: "By Mauro Orru Nvidia said its NeMo artificial intelligence platform was created in full compliance with copyright law, after a group of authors filed"
+    publishedDateTime: 2024-03-11T14:20:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 807
+        height: 630
         isCached: true
   - title: "Chip giant Nvidia sued by authors over AI use of copyrighted work"
     excerpt: "Nvidia has been sued by three authors who said that the company used their copyrighted books without permission to train its NeMo AI platform. According to a report by news agency Reuters, the authors Brian Keene, Abdi Nazemian and Stewart O'Nan said that ..."
@@ -52,65 +54,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 54
-  - title: "Nvidia’s AI chips can't be beaten, even if they're free"
-    excerpt: "Jensen Huang gets overenthusiastic. Nvidia boss Jensen Huang has boasted that his firm's chips are \"so good that even when the competitor's chips are free, it's not cheap enough.\" At the 2024 SIEPR Economic Summit,"
-    publishedDateTime: 2024-03-11T10:08:00Z
-    webUrl: "https://www.fudzilla.com/news/graphics/58608-nvidia-s-ai-chips-can-t-be-beaten-even-if-they-re-free"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/21201184c08d1eb3d16765121aeb3d18_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
-    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
-    publishedDateTime: 2024-03-10T13:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Nvidia's Next-Gen AI Chip Is a 1,000W GPU: Dell Exec"
-    excerpt: "We all know the B100 is the Blackwell successor to this chip, so it appears the B200 will be that GPU's second iteration, though it does not currently appear on Nvidia's roadmap (below). Nvidia's \"AI roadmap\" makes no mention of a B200, but it's possible ..."
-    publishedDateTime: 2024-03-06T15:51:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidias-next-gen-ai-chip-is-a-1000w-gpu-dell-exec"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 49
-  - title: "How NVIDIA leads the world by making AI user-friendly"
-    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
-    publishedDateTime: 2024-03-06T19:14:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
-  - title: "Inflows Into Bullish Nvidia ETF Hit Record on AI Frenzy"
-    excerpt: "(Reuters) - Investors have piled into Nvidia-focused exchange-traded funds (ETFs) this year on the frenzy around AI, with inflows into a bullish fund that tracks the shares of the chip designer hitting an all-time high on Wednesday. Net daily inflows into ..."
-    publishedDateTime: 2024-03-07T10:51:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-03-07/inflows-into-bullish-nvidia-etf-hit-record-on-ai-frenzy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Will Nvidia GTC Mark The Peak Of AI?"
-    excerpt: "In these explosive times and stock market surges, how to find the nuggets in the most important AI show in the world."
-    publishedDateTime: 2024-03-06T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2024/03/06/will-nvidia-gtc-mark-the-peak-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "3 AI Stocks That Nvidia Should Buy Next"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
     publishedDateTime: 2024-03-08T20:37:00Z
@@ -120,43 +63,47 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "NVIDIA emphasizes importance of nations investing in sovereign AI"
-    excerpt: "NVIDIA has this week been emphasizing  the importance of nations investing in sovereign AI, which is the development of artificial intelligence"
-    publishedDateTime: 2024-03-11T09:48:00Z
-    webUrl: "https://www.geeky-gadgets.com/sovereign-ai/"
+  - title: "Nvidia Says NeMo AI Platform Complies With Copyright After Authors’ Complaint"
+    excerpt: "Nvidia said its NeMo artificial intelligence platform was created in full compliance with copyright law, after a group of authors filed a class-action complaint saying some of their books were used without permission."
+    publishedDateTime: 2024-03-11T14:54:00Z
+    webUrl: "https://www.wsj.com/tech/ai/nvidia-says-nemo-ai-platform-complies-with-copyright-after-authors-complaint-52a4dd79"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 46
+  - title: "Nvidia Sued for AI Tech Copyright Infringement by Three Authors"
+    excerpt: "Nvidia becomes the latest tech company to be sued for copyright infringement for using copyrighted books to train AI tech."
+    publishedDateTime: 2024-03-11T12:52:00Z
+    webUrl: "https://www.ign.com/articles/nvidia-sued-for-ai-tech-copyright-infringement-by-three-authors"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
     quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/importance-of-nations-investing-in-sovereign-AI.jpg"
+      - url: "https://assets-prd.ignimgs.com/2024/03/11/nvidia2-blogroll-logos-1710164782829.jpg?width=1280"
         width: 1280
-        height: 717
+        height: 720
         isCached: true
-  - title: "A World Divided Over Artificial Intelligence"
-    excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
-    publishedDateTime: 2024-03-11T04:21:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/world-divided-over-artificial-intelligence"
+  - title: "Jensen Huang: Even if competitors' AI products were free, Nvidia's hardware would still be better value"
+    excerpt: "A hot potato: Nvidia has become the dominant force in the AI hardware industry, and CEO Jensen Huang knows it. The leather jacket-loving boss is so confident in the ability of his products, he says that even if the competitors' chips were free, they would ..."
+    publishedDateTime: 2024-03-11T05:19:00Z
+    webUrl: "https://www.techspot.com/news/102208-jensen-huang-even-if-competitors-ai-products-free.html"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/03/07/RTSWGMSK.JPG?itok=wW0VNQi8"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
-    publishedDateTime: 2024-03-08T00:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+      name: TechSpot
+      domain: techspot.com
+    quality: 33
+  - title: "Nvidia Faces Lawsuit for Alleged Copyright Infringement in AI Training"
+    excerpt: "Nvidia is being sued by three authors who claim their copyrighted books were used without permission to train its NeMo AI platform."
+    publishedDateTime: 2024-03-11T10:10:00Z
+    webUrl: "https://www.techopedia.com/news/nvidia-faces-lawsuit-for-alleged-copyright-infringement-in-ai-training"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 18
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "Xo7ZNaRf9xL7GSfElNpu5BT6MGowO3SKQw/0ZRbX97/H56RVsFS2dF2P+A0+5KVfs3d7/c69BbIBVqxS1ijq2P+ApP+AgsSrEplCg0Hig8yk+tgEOZEitWPQhnFL9BSlasvqGINbw3BJbANKRy4ZmIcJ62FjnHvUfaPQhZbRLiEOPdQoAdxe8o3cBw+rWd+RigP4C8mhCKLRDxfZymbB36fG6AIt3Zjx/kDsAKQ6s07XqeFr22B5OI76CKhB+PzB5YEqpLedxmwRL5qho/waFukr7IEkP61HVfgjFuu6qGaBAeNaNX14QZpPjbJGyj8qeaJe19cONt6umnu2kVzN9fL77APDNaxqs1PSNCLLWN8=;El3DJW2QM5hQsmqxjE9Yrw=="
 ---

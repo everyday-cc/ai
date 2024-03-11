@@ -1,22 +1,18 @@
 ---
 category: news
-title: "Analysis-AI Talent War Heats up in Europe"
-excerpt: "now CEO of Mistral AI. Both companies have received multi-billion dollar valuations in the short time they have been active. Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. In an apparent effort to ..."
-publishedDateTime: 2024-03-11T02:03:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2024-03-11/analysis-ai-talent-war-heats-up-in-europe"
-webUrl: "https://money.usnews.com/investing/news/articles/2024-03-11/analysis-ai-talent-war-heats-up-in-europe"
+title: "Analysis-AI talent war heats up in Europe"
+excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
+publishedDateTime: 2024-03-11T13:03:00Z
+originalUrl: "https://www.aol.com/news/analysis-ai-talent-war-heats-060345305.html"
+webUrl: "https://www.aol.com/news/analysis-ai-talent-war-heats-060345305.html"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
@@ -48,6 +44,6 @@ related:
         height: 720
         isCached: true
 
-secured: "nsVjuZ4P5GvcwnCbjMOhDC2i8eu8Bb4r38VfCJBgnJ+R4OkxsXkNGfx6vgqFVLGG9Sftw5QZy2yCm4zfWo65XiaSw6EYUjE5kUZfb5fpJDk5QlKas300upXMFVQgkmwIsoWn0sH0hCzKuPjFdKj9rkafIswSXH8at+fUM43YdteT0ikC+xnCOcWBklMWCzF1cjYs6fA2jISy6LX4r3gW+9bqImx4AK67aDuNaG/QdbITxyLL+ezvoO40lwDSTUX+RRIggemf3BGpUMKNnhKjyvQsVzlqQB52gJxAho2OPA7JLH4CWIeZ/YqGZHrZeI79ky77pKAvAE/AvZtWN2ceDiAjQhClGhcihCP/CLpNi6h00F2Xq0rrM3n8/4M9+f+H3bzzGuiqZTjn+Opx+xS0DygYPFMjtnx7ArnMnMzwHlKYcV6EhDUv+BY4Glp7hq/8cSmm37tnWtcYbENcqfuz1ZSvUVmcfauIUyllbjoEA0WcEtIzT8PTM9oDvwZKzEWY2ajEgaoi32dWVhxCx8AKRA==;ST/ATgAcukyd5O0NokXLIQ=="
+secured: "GE/JZVaFSS8D2gljLd/3AowmIqP5UC1Xyl7LUqiWr2VZJhQeZa/T6w6jxGMMyD6wvyr8gpuZuIpK2ol8N4Ctw2W0+ciYm8Z6l0KCYMeTt+uKs8DiHoaug484fJ6NXrtZK40Uy4AqLyhQgRzE9kzqK3TRf8RlzDW28wGCHCje6d3e2Pu95tNt2TJ4gzHXQIaEbL437iQx5ro6/Vc3uyUzpDNY/SwgsJzKpg++5cZn/TYnx/5GczW7G5/VYbQyOFsmpFUkaHSlvhUkzprrN/W5UdiN9Jh4hNXKunli3O1X744N3izijl6lWeeV6aqlDR8TdG83/32CjE6HfWTmkC0pUdTwJGb+Oh2sKrqUAebYCA3i2iGkWX/NTs+U43aVuVtCtJU9RMpLPVa34GGQBZyPBH11V3/VZcwGJI19dVMhsinBa/LkLcZw2uDqz4mCn+Zqq0fUyQJVSy6IesVviQq1uLzgr50gYu7o0fkE0S9dSr4rhFpVePXHm7AdCWQL32ITJasMx8VdTJO2NAOkrvpacA==;Ye6pinBuJ60fYo/GfmTUtA=="
 ---
 

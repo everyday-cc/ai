@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2024/03/how-harness-artificial-i
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/03/how-harness-artificial-intelligence-transform-customer-experience?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "Build, buy, or both? How to choose the right approach for your AI transformation"
-    excerpt: "From Copilot for Microsoft 365 to Copilot Studio to Azure AI Studio, build workflows with a connected, end-to-end AI toolchain to meet business needs."
-    publishedDateTime: 2024-03-06T16:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/06/build-buy-or-both-how-to-choose-the-right-approach-for-your-ai-transformation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
 
 secured: "fAd3PS7PZC5nRUfdvRrA6rutt5bpuu7n5MCQzzOboOpLvteFCNNxz7FVS6EBMgvkHyhMJQPAr4PSQSe6c7dBGAWH588nCgqG3WcuG7EAXgoGz6HzSV7yP+j6rfcytdRsfMD9jFKBXv1Sh1Dj30nPqRt9DZit0kaFQ1Y5pKVI+t/uATUHGwcGYr7Sq7m36pbV2nxlS/yhG6QuYRhL5Zd2eBTlfY+/FVWCdlIQ9geV+fc9C+YWITEkZt+pionkeS5ZQ9Hg3YhbfT0gXVkQv3dhuN8LrTlZULO9NxJUzJ5wAMv0oKkfQuvwY0L7yoccLYrPlgjELBBGS5ZPTxAhVADxmzDx1G2BVFW9GGAWup0NwObv11Sbg0rCaag0BMwdpl62N1fb3TwVgvWVcLmaQDgzH97xb+7WUWEgkOGZwS5nEwbRWbQOH42nXNMtjszVuFqqU6uLHnno0f53/vdNL/oAQc/+mAT6FySbinYIcK88NoHyRN0odhKj+5Lwo+++7p01sOTFtzv57tfUcNe8RF/JhA==;3zpcN8/m5mBQ+kqtAogHDw=="
 ---

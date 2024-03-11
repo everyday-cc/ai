@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-11T09:32:00Z
 originalUrl: "https://www.post-gazette.com/business/tech-news/2024/03/11/whats-next-in-ai-tech-pete-buttigieg-cmu-chatgtp/stories/202403100031"
 webUrl: "https://www.post-gazette.com/business/tech-news/2024/03/11/whats-next-in-ai-tech-pete-buttigieg-cmu-chatgtp/stories/202403100031"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20240126buttigiegbb18513-1710112232.jpg"

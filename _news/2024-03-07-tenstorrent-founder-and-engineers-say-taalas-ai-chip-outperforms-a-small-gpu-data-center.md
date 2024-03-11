@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-sa
 webUrl: "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/10/Lenovo-racks-image-2-1-1023-1024x512.png"
         width: 1024
         height: 512
-        isCached: true
-  - title: "AI startup Taalas comes out of stealth, raises $50m for LLM chips"
-    excerpt: "AI chip startup Taalas has emerged from stealth to announce that it has raised $50 million over two funding rounds. The two rounds were led by Pierre Lamond and Quiet Capita, with the company planning to use the funds to expand its operations and development efforts."
-    publishedDateTime: 2024-03-06T13:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ai-startup-taalas-comes-out-of-stealth-raises-50m-for-llm-chips/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Taalas.2e16d0ba.fill-1200x630.jpg"
-        width: 633
-        height: 332
         isCached: true
   - title: "Taalas raises $50M to develop chips optimized for specific AI models"
     excerpt: "Taalas is led by Chief Executive Officer Ljubisa Bajic, who previously launched AI chip startup Tenstorrent Inc. in 2016. The latter company received a $1 billion valuation after its most recent $200 million funding round. Bajic founded Taalas last August ..."

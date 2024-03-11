@@ -7,8 +7,8 @@ originalUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about
 webUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: Marketplace
@@ -26,33 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia is sued by authors over AI use of copyrighted works"
-    excerpt: "2024 shows a US multinational Nvidia's graphic processing unit (GPU). Nvidia, whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform. Brian Keene ..."
-    publishedDateTime: 2024-03-11T09:54:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108389315,imgsize-29130,width-1200,height=765,overlay-etbrandequity/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Chip giant Nvidia sued by authors over AI use of copyrighted work"
-    excerpt: "Nvidia has been sued by three authors who said that the company used their copyrighted books without permission to train its NeMo AI platform. According to a report by news agency Reuters, the authors Brian Keene, Abdi Nazemian and Stewart O'Nan said that ..."
-    publishedDateTime: 2024-03-11T07:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chip-giant-nvidia-sued-by-authors-over-ai-use-of-copyrighted-work/articleshow/108388215.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/chip-giant-nvidia-sued-by-authors-over-ai-use-of-copyrighted-work/amp_articleshow/108388215.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/chip-giant-nvidia-sued-by-authors-over-ai-use-of-copyrighted-work/amp_articleshow/108388215.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
   - title: "Nvidia’s AI chips can't be beaten, even if they're free"
     excerpt: "Jensen Huang gets overenthusiastic. Nvidia boss Jensen Huang has boasted that his firm's chips are \"so good that even when the competitor's chips are free, it's not cheap enough.\" At the 2024 SIEPR Economic Summit,"
     publishedDateTime: 2024-03-11T10:08:00Z
@@ -76,15 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Nvidia's Next-Gen AI Chip Is a 1,000W GPU: Dell Exec"
-    excerpt: "We all know the B100 is the Blackwell successor to this chip, so it appears the B200 will be that GPU's second iteration, though it does not currently appear on Nvidia's roadmap (below). Nvidia's \"AI roadmap\" makes no mention of a B200, but it's possible ..."
-    publishedDateTime: 2024-03-06T15:51:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidias-next-gen-ai-chip-is-a-1000w-gpu-dell-exec"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 49
   - title: "How NVIDIA leads the world by making AI user-friendly"
     excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
     publishedDateTime: 2024-03-06T19:14:00Z
@@ -112,15 +76,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "3 AI Stocks That Nvidia Should Buy Next"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
-    publishedDateTime: 2024-03-08T20:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-nvidia-should-buy-next-1033147633"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "NVIDIA emphasizes importance of nations investing in sovereign AI"
     excerpt: "NVIDIA has this week been emphasizing  the importance of nations investing in sovereign AI, which is the development of artificial intelligence"
     publishedDateTime: 2024-03-11T09:48:00Z
@@ -135,20 +90,15 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "A World Divided Over Artificial Intelligence"
-    excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
-    publishedDateTime: 2024-03-11T04:21:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/world-divided-over-artificial-intelligence"
+  - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
+    excerpt: "In today's video, I discuss Nvidia (NASDAQ: NVDA) and other semiconductor companies that provide solutions for the robotics market. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used ..."
+    publishedDateTime: 2024-03-09T10:00:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/QCOM-Q/pressreleases/24585796/nvidia-and-7-other-semiconductor-stocks-that-can-benefit-from-artificial-intelligence-ai-robots/"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/03/07/RTSWGMSK.JPG?itok=wW0VNQi8"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
   - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
     excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
     publishedDateTime: 2024-03-08T00:02:00Z
@@ -158,6 +108,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 18
+  - title: "The 10 best Mac tips and tricks you need to know about"
+    excerpt: "That's it; our favorite Mac tips and tricks on macOS Sonoma will help you save some time, make your life easier, and give you a new outlook on the way you use your Apple devices. Using these tips and tricks will make even the best Macs better."
+    publishedDateTime: 2024-03-07T16:28:00Z
+    webUrl: "https://www.imore.com/mac/macos/the-10-best-macos-tips-and-tricks-you-need-to-know-about"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 4
 
 secured: "6WZEaNpDKGIhvh0abgJcr840n98/5R+qLGlEkw+5WSF+SAm2epNOKnSRW7asoM3XJ+B9oM7Y5jf8AzuPMvkvoeSgtMT78GyHXD1C3xhpkIHQVIikX6p+lRTyUbJxRnOri/ktGXaL+zF+UD4JCpeFZ53dgzVrOFvMTQH4Fd0Y2imXTeBcJnKc7CbH94oMOjZMompDjrxMtYEzbbrKTOX1C2YDjGJn7W9J4wjr+SNdR7qKIkVtjeN3szEMXw/grjbCOtubrju/NMr0mop37sfITPqklz7CDghxLUVhXJwJWuwt0wmvHr3Cz37/Odi76+ZG6Kv2dgjODzJfe8IFjmJuxnGJQ3S8pN4ZIhLsuZsT0NJoq1/nSJgLIF4+z6hKu515mUH29VvlLinwEoSmlmDEgsdcun6Cz2mYjrXJuQSQiHymOtyvbNvOiNWgruDY0Cv5OcQdWSuN2gY6KsI60zcwLeuAP/ygnQNy3eXZRviDcd0pO/j2H5gKSYRPPbiRZOIydgNrm0x9tqHP7pLxZaJ6fw==;xodDG5vKOLJ/f7lQBdGbOA=="
 ---

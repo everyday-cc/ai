@@ -59,6 +59,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Preventing the weaponization of AI-designed proteins"
+    excerpt: "A new online marketplace called aRukon is set to launch globally this year to help researchers sell unused animal samples to other labs. The idea is to potentially reduce waste, save money, and prevent the unnecessary death of animals."
+    publishedDateTime: 2024-03-11T12:51:00Z
+    webUrl: "https://www.statnews.com/2024/03/11/biotech-news-amylyx-alumis-lundbeck-als-psoriasis-arukon-msa-relyvrio/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 19
 
 secured: "TUiQ2UhspvZEp6WUjGZni6qyH7gvBZToLxMXhpMwj2UIFOVVlVROEE/T1dUsPLLx2jK3tRORQgtLwKEDY1kgO3P2XUpf19xYk0bdjZjlZauyXVFEZ4/ZExqJjzV/4aV6aorVTmOh8NhOq2nqcsklluuIUfcDWysfAAMe4xpCBqda89g+S7GyY00jDlJqSk+PlmB1iKji++n9rbZRdc2HWp1ni8Oz2O4o/KRGtfvbJVh9BtmmYzPE2nwZ+UUzy2TU1DBCHHN0/kVnRQVLX0vnIb+lYkwoJcCAY2EP29X75OvaTb/lvvOaz47+ysCXdsTVoLbp/agCMA6zeUyL91CpOojXustT2VrU/gTpKp6nfw1diPlFhzfVfEqIdUHyZXmLdgm8BBztX2gI0NDPev+OE8MGUXZrIq1iEU6SAFGJiv7Ehn4TaNL5DQcEtlqX5f30iyBu9P/lSdMWOPy5DEG0SgV4THAqTcJll+V8GruUToo5VA/hv+fQSwWYLD6RvkwlMtGZsUG2i8ImZ8f+ruT0QA==;OAneJh/KhWqy1YuFKflJSQ=="
 ---

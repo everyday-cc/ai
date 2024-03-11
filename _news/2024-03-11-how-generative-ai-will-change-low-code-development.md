@@ -99,6 +99,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "il6O8AtC0O3VZGbXjpyvibouvOfAF63EMoyx2V8xK+TvzU2Hbs6bSPBIYOWD5mILz3fePhrGpcUgOXTUP9Nj7uDjeNxRPmKcuByAiZJ7ZdpR77pgF79R+6S693zqJuIAW+4EHcN2Sr6T26qP3Z+zml+gmw7MYZ6sic+6dfZvd/NdFdp2UcwpgzVuQdl14cszTFFv5zwVzmLmUgUmxfo+cU/MnHc9NueSFZSlQIost8nU9BQaM0KgAD7xtNNFlIPJDQAWd7afBjSpj2HTkx67Cbn25iJqp6eBkbe7w7QPr6Zq+QuHhR9Aus10n7+3a+5/1A22q/9YqXI0OroJa8ycIRSLMIdIchFXsbVcmdLt78aOkwF/3/bhColDz9pWNuOao9fgQKCnOp0Xl7UMTbW4Hc8etPrF3hMhY7CexUQ38wi0trQ8ATLG2p6d1oHm4Ei6Q70QP8l2gn0Ks6zMxwLKKe0tGcxJuAzKbCXKcUR78DOhsEKPp5qaHmLzz/epmxKZaERlDjSL11F2lz20m1qkBA==;7OzqFCSPUjV/rZhamcVwBQ=="
 ---

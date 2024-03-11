@@ -24,17 +24,6 @@ images:
     height: 1152
     isCached: true
 
-related:
-  - title: "MWC2024: Artificial Intelligence reshape the smartphones user’s experience"
-    excerpt: "This year at the Mobile World Congress in Barcelona the artificial intelligence is centre stage. It feels like we are entering in a new era of technology thanks to AI capabilities and how fast can change our lives."
-    publishedDateTime: 2024-03-06T14:09:00Z
-    webUrl: "https://www.euronews.com/next/2024/03/06/mwc2024-artificial-intelligence-reshape-the-smartphones-users-experience"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 15
-
 secured: "uOBEvA94w0x6I6r5IyVlyhrQa2xRayjjS+YuMtXx30LV7oKsKIyhzpHeEhWam+CtJLFfnx1+RjX9OMJrUFvmOl1ku+qXUVpj2mMCXjIGwqRYh1pNxFMfseorjyYftggX+RxjjJTuDLRDl1qN4WfJMpcX41+dapql7wtdM5hcLCqZ2pMRIaZe9LjiK76M9+weO19R2GCYXp5aG+UgI9ailR9iBMlz5k0oDat9B9FYQy9eaxJzQJMzDBpkEsyUaxSX2AUJAsgFHLp28frqHIFjkMmnjTwivx8Eto4UCRffAhtIqdVojwTKIL33Tu+n30dLquzPXGFD/4yE+Xw3ZP48AlqZZZwVtulBnaDgAg9YVWg=;dLKwgIYQM3FQBV7OWnyo7Q=="
 ---
 

@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Does AI have a place on ethics committees? How to use it the right way"
-excerpt: "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ..."
+excerpt: "So it makes sense to ask the question of whether AI can be used to help make better ethics decisions. As AI is a class of computer algorithm, it relies on data. Ethics committees also rely on data ..."
 publishedDateTime: 2024-03-04T11:53:00Z
-originalUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way"
-webUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way"
+originalUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook"
+webUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook"
 type: article
-quality: 84
-heat: 114
-published: true
 
 provider:
   name: The Next Web
@@ -28,42 +25,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Indeed shares 4 ways companies can ensure their use of AI for hiring is fair, ethical, and effective"
-    excerpt: "Indeed has also created a cross-functional AI ethics team that builds tools, systems, and processes to help ensure that technology is used responsibly. Even with safeguards, the new generation of AI tools are complex and fallible. However, putting in the ..."
-    publishedDateTime: 2024-03-05T17:09:00Z
-    webUrl: "https://www.businessinsider.com/sc/4-ways-companies-can-ensure-their-use-ai-fair-ethical-and-effective"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/65e5f795ce7f1785b2e5f087?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Tech Coalition Issues Open Letter to Commit to Ethical AI Use"
-    excerpt: "Tech giants unite in an open letter to advocate for AI's responsible use to enhance human life and ensure a sustainable future for all."
-    publishedDateTime: 2024-03-04T18:19:00Z
-    webUrl: "https://coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/"
-    ampWebUrl: "https://coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/tech-coalition-issues-open-letter-to-commit-to-ethical-ai-use/amp/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 54
-  - title: "Here’s How to Use Mistral AI Right Now"
-    excerpt: "Even Microsoft (an existing investor in Open AI) is backing this AI startup by pouring $16 million into it. If you’re an AI enthusiast like me and have already used text models like ChatGPT, you’d definitely be looking to test Mistral AI. In this guide ..."
-    publishedDateTime: 2024-03-06T00:00:00Z
-    webUrl: "https://www.gizmochina.com/how-to/how-to-use-mistral-ai/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 47
-
-secured: "MPnOSh/RqAxrcCYAxRg5hgWL+QAQcOVQ3rwJ3t0TIHC5+a0VxglCl/aWMlJR34vIFRk5248P0pl3XhDEpc2NoMUhSG+5osd2vkMRPD5MAEwIfThrAcH8DvRQZop1vVuaaU0vaeo05UHuj394HKwKiK/rT2AEdqczuz5x7bwgF5bMptoxHenWBKyc/LSzwKQsN8+oYLsBpwetGLM1fcY6+2h8vutflj8kbFZirPAxgC8+K/pRk0mjAfV48MOH7UCXiLnaTlHDLZlYlolXYV7Tn6kqzg4dze7WI3U64pfuKWpgz/0yPm+Surpk9rZa88fdaB+or6qGmpVcvzZ44fHMNmp8IMCH4OSn/VsE/ReBvB0=;C/2aTW/LjrZxq/gfbtCLkQ=="
+secured: "LO7kCdrxllTnz9Uxeq4VCSg6logMX+67xBdKgGAo0hi5gT7nXMFPQK1CuBFYkpnNMGpg8ZWaabcrk2vuVHUyv8oI4B2ClT99DDX0RQDn4XenmS97kj8qHfVgM4OCqsXYMcrIWHdneAd8TTf3DwsYSrKXJooSwF4WLfk9IBq6ATSeM/z79kj6mZ3XX76HyyMrm5XSctfRk8yW3aXon4om/8OCiUwbcGVSlrmkpYbEtWSdSHFYUR290tioCPg0Hb2ZGlPZFu5MN7fcsExaLp9ViU82SD2AQIIa8rxV4p4Vkhqn/QJZum7LoMKv3PG++G2BkW2An0wKXkrjO1JfRKg03EPEgExGFjCcps3jJFt5Dgs=;mfkwzNGbdlC/kJghWGkTmA=="
 ---
 

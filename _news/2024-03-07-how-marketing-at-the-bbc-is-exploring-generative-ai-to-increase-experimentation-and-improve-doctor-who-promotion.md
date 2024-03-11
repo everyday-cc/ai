@@ -49,6 +49,20 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Precisely Drives Confidence in AI-ready Data at the 2024 Gartner® Data & Analytics Summit"
+    excerpt: "Precisely, the global leader in data integrity, today announced it will present on stage at the 2024 Gartner ® Data & Analytics Summit in Orlando, Florida, sharing its expertise"
+    publishedDateTime: 2024-03-11T14:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975976.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "v9HqQkERVnbyEO8Nh4zYLP830racNG9mhz5nxYEVQJJhOjwYxMqbWL+/snb1OGcANZt/kGq02rOrKtjnNO+wutmqlq5e/3LlJzO23aNpj8klx9XI9N0sO29yxosldQEVUUZNBFA3vUNvgDzPE9489dGN0D/lE5/qPMU1xsCRJQIJ/bpOa9izSCfealcxlwugFAuaaL64aegNqAlmb2CaPQPICQsQtZPe1SXlCGCU+r0N50PY85kyHMCU/NS93v3LNmA9mMHTfgMSzXjIBm5BY9HU8+rL8ufhJwqkEGKPGTPirivkma/WTPnAyaMs9EFCS+6LF8fXLmzU1h1Z5ICdKmHcL8dJzki6UG3GoDT5FKN47BdnURw7FPV+kVzluGeGs4+yRCck0knku7S/8uKKz3T9VOIvXRet9LfjlhX/qg5ZbxNEUXtWLId0H+TzG+niGPZrZ0STPf0jTIvJQ11cp2Tqn6nV5lpOL/gNgHKS/KKLyuzeBV9kgAdO2YyiOOUgiTQG/lHb19BVVjCA3phoug==;yPkWzJ9aGDSbAFZsNPf5Zg=="
 ---

@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://cdn.bignewsnetwork.com/cus1709350515787.jpg"

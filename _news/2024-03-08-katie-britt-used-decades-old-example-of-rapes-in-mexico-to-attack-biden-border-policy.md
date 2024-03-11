@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Katie Britt used decades-old example of rapes in Mexico to attack Biden border policy"
+    excerpt: "First-term Sen. Katie Britt of Alabama in the GOP response criticized current immigration policies, describing how she had met a woman at the U.S.-Mexico border who told of being raped thousands of times in a sex trafficking operation run by cartels, starting at age 12."
+    publishedDateTime: 2024-03-10T01:15:00Z
+    webUrl: "https://dailyprogress.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_9505b17f-bfd7-5f4b-9698-7d55f1d40ce4.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 0
+
 secured: "0C2Fzcb5L0jgZ0fJe2iiktxODkHz81wZgIegCn+7aD1Q3u2S3dMruEnMvq/tMLaHycK1AXvRDkhvTcfyF633K5r5gYmhqs8A2mQIP6KV6xs2h5QQi31opDD16cPQEXvGwMK8Jkuvde/u7JI6glKzw/i1lfbXSTEFnjskilm2Ft73mPSAJSdm3LeXxGPUdruAnEBfvhz+86cXBhJ3Kr1wx2zVfd7iszkm35QIW/oLPa2A3r7i8klt+UFGdJtKDcQgWJBptBxi1Pya9ETXvGtUXp0/FO4eJ8r2IJ1F8Rh/HWPQL33jnyvWmP8rEiUhcj1DSbdhPQLMUDROSX0Au0/C5+6igiWbha6wLWkZvgAaxh8=;0LzVHfHpgAWongfKB51qiA=="
 ---
 

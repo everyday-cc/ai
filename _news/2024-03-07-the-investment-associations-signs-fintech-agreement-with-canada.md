@@ -63,6 +63,34 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "How fintech is reshaping the landscape of business finance"
+    excerpt: "Simon Moorcroft, above, director and chief technology officer at Capalona, sheds light on the changing fintech landscape and how it continues transforming"
+    publishedDateTime: 2024-03-11T12:09:00Z
+    webUrl: "https://www.smeweb.com/how-fintech-is-reshaping-the-landscape-of-business-finance/"
+    type: article
+    provider:
+      name: SMEweb
+      domain: smeweb.com
+    quality: 39
+    images:
+      - url: "https://www.smeweb.com/wp-content/uploads/2024/03/Picture1.jpg"
+        width: 409
+        height: 269
+        isCached: true
+  - title: "hedgehog lab promotes fintech vet to chief client officer"
+    excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
+    publishedDateTime: 2024-03-11T14:24:00Z
+    webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
+    type: article
+    provider:
+      name: prolificnorth.co.uk
+      domain: prolificnorth.co.uk
+    quality: 24
+    images:
+      - url: "https://www.prolificnorth.co.uk/wp-content/uploads/2024/03/Clare-Weightman.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "VIAVI Showcases Testing Solutions from Lab to Field for Demanding Artificial Intelligence Applications at OFC 2024"
     excerpt: "For the eighth year in a row, VIAVI has been recognized with multiple 2024 Lightwave Innovation Reviews awards in the field test and lab/production test equipment categories. VIAVI will also participate in the OIF interoperability demo in booth 1323."
     publishedDateTime: 2024-03-07T11:47:00Z

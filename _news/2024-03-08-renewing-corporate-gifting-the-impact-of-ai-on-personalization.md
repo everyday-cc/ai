@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Preventing the weaponization of AI-designed proteins"
+    excerpt: "A new online marketplace called aRukon is set to launch globally this year to help researchers sell unused animal samples to other labs. The idea is to potentially reduce waste, save money, and prevent the unnecessary death of animals."
+    publishedDateTime: 2024-03-11T12:51:00Z
+    webUrl: "https://www.statnews.com/2024/03/11/biotech-news-amylyx-alumis-lundbeck-als-psoriasis-arukon-msa-relyvrio/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 19
   - title: "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines"
     excerpt: "AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field."
     publishedDateTime: 2024-03-08T00:00:00Z

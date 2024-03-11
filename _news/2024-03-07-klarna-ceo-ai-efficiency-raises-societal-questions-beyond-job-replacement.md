@@ -7,7 +7,7 @@ originalUrl: "https://www.blackenterprise.com/klarna-ceo-ai-efficiency/"
 webUrl: "https://www.blackenterprise.com/klarna-ceo-ai-efficiency/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1284
     height: 800
     isCached: true
+
+related:
+  - title: "Klarna, the AI powered Payments Provider, Reports Significant Sustainability Achievements"
+    excerpt: "Klarna, the AI powered global payments provider, announced its significant sustainability achievements from the past year."
+    publishedDateTime: 2024-03-09T16:04:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222428-klarna-the-ai-powered-payments-provider-reports-significant-sustainability-achievements/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/03/222428-klarna-the-ai-powered-payments-provider-reports-significant-sustainability-achievements/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/03/222428-klarna-the-ai-powered-payments-provider-reports-significant-sustainability-achievements/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 50
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "+AhTK0UvkaFkZiLcu9b+PDyEW9ZlRHa2bPkzAH8EH2c7cEq246CdBAyrDAw9Ff9rR8h1V123n6Opk2pPW4lcuz/m9vsS/KkMFpYhNn0vW7/AtXPsLiLadZaT/nrHGkxjwQhT9Sy0mFQeAohP731BHiiHi0fQgaUjwIZ5aNM/f+iMu47dp2gKKsxkHeybVKO0KfL/5fLUqUcocrg5R1zN+4KQRXrkn43HKEtpLLbzD/ppL0i6Yi0iAy//jZCcIFAdhLwO6G+d+PdbrkkDCMHa/Br5Q3YTw2krCgSS12LjT0jSYjNSPXKZySkeB8jEQ45rh+ZzPCb6OqaLzFNjFTSyQ92J2Ybz6K9HI9VhkWQXZjYIBduznoqq1QOd2S+sCyM7PinNFD08m/sePwGnEh0xu0NyYMr5K4VsEMW5DhHEvYJEfANRvu8OT38XnrJZRq3QaI9W7oGZg5LgqsVnCCDaBwwik4opa9PmBrDjaJK8fJXhwxZYJKI9lwfPKbJSlwoNbHg9BLOQhubECx18iCpQCA==;SlgdNrrOS5LYMKCJHTlLNg=="
 ---

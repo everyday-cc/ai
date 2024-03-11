@@ -39,6 +39,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "care.ai is named a Top 25 Artificial Intelligence Company of 2024 by The Software Report"
+    excerpt: "ORLANDO, Fla., March 11, 2024 /PRNewswire/ -- The Software Report named care.ai one of the top 25 artificial intelligence companies in 2024. The process included evaluating the software's effectiveness, technological innovation, organizational capabilities, management team caliber and workplace culture, among other factors."
+    publishedDateTime: 2024-03-11T13:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975912.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "4EUzcOF+VVOg0uVifL2bRI+Wn0TvlPfyfYlVohEdnqXxu11Zli16UxlhhXuYTFa5Y4k5HZzqn2bLjnDJ9EG5VQvKM058gJGSMma5WnINmvcysXFGLnpT5aoPfjhgEw4aVmPVTeFw2DNjBgkpRv8yecvup0qEaJbLgs8Vcx2q3+R6Qr8c1kWBGe9uLOmJVoSSfVrQmh+DKIulKUwhitrs3SfKfl5+nGk5b3Oi7mAU4sN/SguWROl6VXXdtdyEpIpl/um5ZeHgPFY2CuLFkN/EItcb7LYEktPo6f58sGgzv+rHaDfAGb8WBVzUqVuvpPXjQ+gudzQqdEe8qQGy8EUtkIHK4bQKjKsHOKBJJkTEqPMbL2hSwrPMQooMJkCn5zuhV5ky9pEZhm8iYnQucA2/VNZI/P9k+idQdD+SqpgxYi9x7no2iYP5OqXMTL75++5Gmd7/Msn1rS7BIRfuHgcsMQAJxRx9El0lhZHqclDwCHZyN4NSR4sYYM/vieIX3UjnQOWliq2D071KHpFFaNgEmw==;UKGuPsaLJ58D+gEjLw2tJA=="
 ---
