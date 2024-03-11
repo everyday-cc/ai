@@ -2,6 +2,152 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-12-21-florida-lawmakers-could-look-at-regulations-for-artificial-intelligence-use.md",
+      "title": "Florida lawmakers could look at regulations for artificial intelligence use",
+      "excerpt": "Among the bills filed ahead of session: requiring a disclaimer on political ads that use AI-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/",
+      "originalUrl": "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/_gX9Wb5jIYkcOcbEosJkK2XdOOs=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/7R4G3W4FFX2GUDXETZO6XJPTEI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp",
+      "publishedDateTime": "2023-12-20T22:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-4-ways-ai-transformed-music-movies-and-art-in-2023.md",
+      "title": "4 Ways AI Transformed Music, Movies and Art in 2023",
+      "excerpt": "From Drake impersonators to the Hollywood strike, AI provoked both enthusiasm and panic across the entertainment world.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
+      "originalUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1252545292.jpg?quality=85",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T22:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-how-ai-can-supercharge-your-job-search.md",
+      "title": "How AI Can Supercharge Your Job Search",
+      "excerpt": "Step 1: Develop your resume and online profile. The first step in any job search is to prepare your resume and online profile (on Handshake or LinkedIn) and pull together the core components of your cover letter. These documents should list relevant education and employment history as well as your skills, abilities, and interests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/",
+      "originalUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658354bcbd785accb21900ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/amp/",
+      "publishedDateTime": "2023-12-20T21:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-tech-slips-as-ai-speculation-slows-tech-roundup.md",
       "title": "Tech Slips as AI Speculation Slows -- Tech Roundup",
       "excerpt": "Shares of technology companies fell slightly as a speculative rush into AI stocks slowed. The semiconductor rally is set to resume Friday after",
@@ -1048,162 +1194,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before.md",
-      "title": "A free AI image dataset, removed for child sex abuse images, has come under fire before",
-      "excerpt": "This isn't the first time the massive open source AI dataset, LAION-5B, has had to defend itself against problematic images.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/",
-      "originalUrl": "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-09.41.42-An-abstract-conceptual-illustration-that-portrays-a-dataset-containing-hundreds-of-images.-The-image-should-give-a-sense-of-a-moderately-large-collec.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-the-future-of-generative-ai-heres-what-technology-analysts-are-saying.md",
-      "title": "The future of generative AI: Here's what technology analysts are saying",
-      "excerpt": "According to 2023 research, most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-future-of-generative-ai-heres-what-technology-analysts-are-saying/",
-      "originalUrl": "https://www.zdnet.com/article/the-future-of-generative-ai-heres-what-technology-analysts-are-saying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f1a42d84ff65d375ab522760072f4c48d5c745b7/2023/12/12/99696814-e115-4290-98d7-6926a2c93285/gettyimages-1096811078.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-future-of-generative-ai-heres-what-technology-analysts-are-saying/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-future-of-generative-ai-heres-what-technology-analysts-are-saying/",
-      "publishedDateTime": "2023-12-20T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market.md",
-      "title": "Don’t Bet AMD Stock Can Rise On $150 Billion AI Chip Market",
-      "excerpt": "With AMD behind in GPU software and the company's data center revenues expected to grow at 30% a year through 2027, the stock already reflects very optimistic assumptions",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6582efedd0a98bf71fdf87cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/12/20/dont-bet-amd-stock-can-rise-on-150-billion-ai-chip-market/amp/",
-      "publishedDateTime": "2023-12-20T14:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

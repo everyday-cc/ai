@@ -90,6 +90,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-scientists-develop-new-machine-learning-method-for-modeling-chemical-reactions.md",
+      "title": "Scientists develop new machine learning method for modeling chemical reactions",
+      "excerpt": "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that can simulate reactive processes in a diverse set of organic materials and conditions. \"It's a tool that can be used to ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
+      "originalUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-develop-new-2.jpg",
+          "width": 1759,
+          "height": 1659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
       "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
       "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
@@ -1333,59 +1376,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-why-the-debate-about-artificial-general-intelligence-misses-the-point.md",
-      "title": "Why The Debate About Artificial General Intelligence Misses The Point",
-      "excerpt": "The world will never achieve artificial general intelligence, but it won’t be due to technological limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce48d9e14de6b124d410c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/",
-      "publishedDateTime": "2024-02-16T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

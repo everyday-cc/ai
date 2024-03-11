@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
+      "title": "5 AI Predictions For The Year 2030",
+      "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/",
+      "publishedDateTime": "2024-03-10T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-best-ai-tools-to-enhance-your-social-media-account.md",
       "title": "Best AI Tools To Enhance Your Social Media Account",
       "excerpt": "These artificial intelligence (AI) solutions enable organizations to prosper in the digital sphere by using technology such as computer vision, machine learning algorithms, natural language processing (NLP), and natural language creation. It is thus ...",
@@ -1421,59 +1474,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-how-this-ex-apple-guys-ai-glasses-invention-works.md",
-      "title": "How this ex-Apple guy’s AI glasses invention works",
-      "excerpt": "Here are some examples. Visual recognition: You can ask Frame glasses to identify any object, person or place that you see. For example, you can say, \"What is this?\" and Frame glasses will tell you what it is, how it works or where it comes from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
-      "originalUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58e1e4e7-0f6a-46ac-adf5-e1afcdf09815/445293b3-f96a-4a00-8ec5-8c312a766ee7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works.amp",
-      "publishedDateTime": "2024-02-21T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-22-machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism.md",
+      "title": "Machine Learning Can Predict Aggressive Behaviors in Youth With Autism",
+      "excerpt": "For inpatient youths with autism, machine learning analyses of preceding changes in peripheral physiology can predict imminent aggressive behaviors before they occur, according to a study published online Dec.",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/",
+      "originalUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/12/image1703226618.jpg",
+          "width": 800,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T06:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-five-machine-learning-types-to-know.md",
       "title": "Five machine learning types to know",
       "excerpt": "Explore the five major machine learning types, including their unique benefits and capabilities, that teams can leverage for different tasks.\nThe post Five machine learning types to know appeared first on IBM Blog.\n",
@@ -1297,42 +1340,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning.md",
-      "title": "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning",
-      "excerpt": "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
-      "originalUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T03:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

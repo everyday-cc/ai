@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
-quality: 89
-heat: 169
+quality: 91
+heat: 171
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds"
@@ -131,6 +132,6 @@ related:
       domain: eschoolnews.com
     quality: 15
 
-secured: "JbznM9U+lYnmi5Vaqxus5yYLMhb47pqesepNirXALUUXp7FluOmFKZbdFGHhygQ5ZyLDjATLmak8vqu9GtkXTrbRliyc+ku4ZqsFpKODjjbA2TpH4dJ53bwiTdxKlecXDkISRFlPpOAfFvtMj0oxXXq1/SPEkZBjvshw9M+FNaaEpqE3acYsBywcleP0v3j6Z/bfJZBh0iqyLLyTNU5hyal0648xVsgZ/0EsPwAY/Uewq7p0CyHP2QroOGek0gJ3Hj9qBfFz4O0k3l1vUJgGqO0VclX729MP1UX9IR7E91YfLHlarQeJFwTkzJUHVx2nFWXVyDwWTX5mTYkizXiM6roAXK4CoyJf6DRPn8dnyGc=;Bs//7NQn80NjuAV9cRvwEA=="
+secured: "XdRFHqMwkh89t8IeBu+9wKYlkUCFvZ4pURoO+gC4jGV7Nx+pjqhOHVHbYGWQX5mXEeUnQAm6lyMvHDTRfGXol7YiCFGt8v7Bszilud9IvEBnhoEBNp+Qsdc40q+/3W9nPaLd556ZmyCFs0yhjHIpzahP/Isg/2DP1lBOwaspMO9zIwlYUc6KLBnFQ0+rwYnwWgvOozou1N/S3bDJxoS1S43SHDcodmSJYCpf78k0ylJwP2C0S+rcoeFGEOpFQ8FekWKrExMUUsh5TO6rSih1d0vBh3niPYnlpM6gGjV5mhKu3ASI3Scpz8FfXlSbK2bKw0/d4JRHh6F4dyAs45ui621HouMe/IK3JfV6f+pBYlKclwbXibmrG/k6GpzcJ7gNnMLhYJ1qTMChkobGYLloV9T169rQHourOzT0MT4H+hoNDEHQzsSrnoJaZXR9mR1IoOFo3QsBK3vIyBJRmcXK3YjYHuWErlZpnjkCog8EOK4b4vaOn1MkpRxKLKyIR8/fq6qXLoub/tY9gGaH7NlpVA==;eEPG2J4iPcdxPF4FZadugQ=="
 ---
 

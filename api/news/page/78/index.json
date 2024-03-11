@@ -2,6 +2,135 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2024-01-09-ais-growing-influence-in-e-commerce-the-future-of-online-retail.md",
+      "title": "AI's Growing Influence in E-Commerce: The Future of Online Retail",
+      "excerpt": "AI, ranging from ChatGPT to IIoT, significantly transforms e-commerce, enriches business strategies, and tailors customer experiences worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "originalUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2024/Jan/robot-holding-shopping-cart-with-cardboard-boxes-og.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T09:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-top-10-google-bard-tips-to-improve-your-productivity-in-2024.md",
+      "title": "Top 10 Google Bard Tips to Improve Your Productivity in 2024",
+      "excerpt": "This guide is designed to show you how to use AI tools like Google Bard to improve your productivity in 2024. The arrival of 2024 brings with it fresh",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
+      "originalUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-productivity.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-cognitive-computing-market-surges-with-263-cagr-hits-us-1882-billion.md",
+      "title": "Cognitive Computing Market Surges with 26.3% CAGR, Hits US$ 188.2 Billion",
+      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling CAGR of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
+      "originalUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Cognitive-Computing-Market.jpg",
+          "width": 768,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T04:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-the-3-best-machine-learning-stocks-to-buy-in-january-2024.md",
       "title": "The 3 Best Machine Learning Stocks to Buy in January 2024",
       "excerpt": "Machine learning is transforming sectors including healthcare and transportation, offering lucrative opportunities in the best machine learning stocks. However, investors should approach cautiously, as not all stocks in this sector ensure returns.",
@@ -958,153 +1087,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-heres-an-early-look-at-google-assistant-with-bard-on-android-phone.md",
-      "title": "Here’s an early look at Google Assistant with Bard on Android phone",
-      "excerpt": "Here's a sneak peek at how the Google Assistant with Bard will look like on Android phone. Learn more about its features here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/01/08/heres-an-early-look-of-the-google-assistant-with-bard-on-android-phone/",
-      "originalUrl": "https://www.gizmochina.com/2024/01/08/heres-an-early-look-of-the-google-assistant-with-bard-on-android-phone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/Google-Assistant-with-Bard.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-uk-ipos-new-direction-on-ai-neural-networks.md",
-      "title": "UK IPO’s New Direction On AI Neural Networks.",
-      "excerpt": "UK IPO’s New Direction On AI Neural Networks. Legal News and Analysis - United Kingdom - Intellectual Property, Telecommunications, Media & Technology -",
-      "sourceUrl": null,
-      "webUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
-      "originalUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://conventuslaw.com/wp-content/uploads/2022/04/CH-asset-UnitedKingdomv2_l2r_main.jpg",
-          "width": 1140,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T10:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Conventus Law",
-        "domain": "conventuslaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-how-do-we-make-money-with-generative-ai.md",
-      "title": "How do we make money with generative AI?",
-      "excerpt": "Succeeding with generative AI requires the expertise to design new use cases and the ability to develop and operationalize genAI models. These are major challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/united_states_currency_money_usa_dollar_sign_consisting_of_abstract_digits_numbers_money_finance_budget_revenue_expense_earnings_income_salary_salaries_growth_by_istock_onespirit_gettyimages-674952306_2400x1600-100854959-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.amp.html",
-      "publishedDateTime": "2024-01-08T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

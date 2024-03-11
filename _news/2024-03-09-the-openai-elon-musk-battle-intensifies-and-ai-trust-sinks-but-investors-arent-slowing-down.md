@@ -33,22 +33,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "AI Researchers Pen Letter to OpenAI, Meta, for More Accessible AI Systems"
-    excerpt: "The penned open letter says that the strict restrictions meant to prevent malicious actors from misusing AI systems are instead chilling independent research. If these auditors attempt to safety-test AI models without a company's approval, they risk having their accounts blocked or facing legal action."
-    publishedDateTime: 2024-03-06T02:29:00Z
-    webUrl: "https://www.techtimes.com/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302335/20240305/ai-researchers-pen-letter-openai-meta-more-artificial-intelligence-accessible-systems.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 58
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444414/germany-internet-ai-artificial-intelligence.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Musk’s Lawsuit Against OpenAI Sparks Heated Debate Over AI Transparency"
     excerpt: "The controversy began when Musk, the CEO of Tesla and SpaceX, filed a lawsuit against OpenAI, alleging that the company had misused his contributions and violated"
     publishedDateTime: 2024-03-07T19:38:00Z

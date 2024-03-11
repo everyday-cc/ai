@@ -2,6 +2,133 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2024-01-29-we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power.md",
+      "title": "We Have Only Begun To Scratch The Surface Of AI’s True Innovative Power",
+      "excerpt": "With recent AI progress, 'we will likely see new businesses, focused on providing more natural and human-centric interactions between humans and machines, sprouting up.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635b38cb63aefdcfb6876e01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1445,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/amp/",
+      "publishedDateTime": "2024-01-28T16:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-28-prediction-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market.md",
+      "title": "Prediction: 3 Artificial Intelligence (AI) Stocks That Will Lead the New Bull Market",
+      "excerpt": "It's official: A new bull market is here. And part of the reason for that is the rise of artificial intelligence (AI). Amazon, the world's largest cloud services provider and the world's largest e-commerce company, should benefit in several ways ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/prediction:-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market",
+      "originalUrl": "https://www.nasdaq.com/articles/prediction:-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-28T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-28-pictet-robotics-a-real-artificial-intelligence-thriller-funds-42-profit-in-just-one-year.md",
+      "title": "PICTET ROBOTICS: A real artificial intelligence thriller - fund's 42% profit in just one year",
+      "excerpt": "Yet for those more interested in making money from artificial intelligence, there is a possible answer in the shape of investment fund Pictet Robotics. Although robotics has played a key role in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/investing/article-13015819/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html?mrn_rm=rta",
+      "originalUrl": "https://www.thisismoney.co.uk/money/investing/article-13015819/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html?mrn_rm=rta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/01/28/11/80555565-0-image-a-9_1706442620365.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/investing/article-13015819/amp/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-13015819/amp/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html",
+      "publishedDateTime": "2024-01-28T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-28-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
       "title": "DeepMind uses AI to tackle neglected deadly diseases",
       "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ...",
@@ -1064,141 +1191,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-study-says-hiring-managers-expect-and-prefer-ai-enhanced-resumes.md",
-      "title": "Study Says Hiring Managers Expect (and Prefer) AI-Enhanced Resumes",
-      "excerpt": "In a powerful new survey conducted by Canva and Sago, nearly half of all job seekers today are using artificial intelligence (AI) tools to improve their resumes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chriswestfall/2024/01/26/study-says-hiring-managers-expect-and-prefer-ai-enhanced-resumes/",
-      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2024/01/26/study-says-hiring-managers-expect-and-prefer-ai-enhanced-resumes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b41a34b54aa56ae7ba4e96/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2024/01/26/study-says-hiring-managers-expect-and-prefer-ai-enhanced-resumes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2024/01/26/study-says-hiring-managers-expect-and-prefer-ai-enhanced-resumes/amp/",
-      "publishedDateTime": "2024-01-26T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-networks-unchained-the-shift-toward-intent-based-autonomous-operations.md",
-      "title": "Networks unchained: the shift toward intent-based autonomous operations",
-      "excerpt": "To succeed in the modern era, CSPs need data scientists, software developers and service assurance engineers to succeed.\nThe post Networks unchained: the shift toward intent-based autonomous operations appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/networks-unchained-the-shift-toward-intent-based-autonomous-operations/",
-      "originalUrl": "https://www.ibm.com/blog/networks-unchained-the-shift-toward-intent-based-autonomous-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T19:06:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-the-different-types-of-renewable-energy.md",
-      "title": "The different types of renewable energy ",
-      "excerpt": "Understanding the types of renewable energy sources available can be a key step towards reducing your carbon footprint.\nThe post The different types of renewable energy  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/renewable-energy-types/",
-      "originalUrl": "https://www.ibm.com/blog/renewable-energy-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

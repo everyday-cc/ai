@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2024-03-scientists-machine-method-chemical-rea
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers develop new machine learning method for modeling of chemical reactions"
+    excerpt: "Researchers have used machine learning to create a model that simulates reactive processes in organic materials and conditions. Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/03/240307110722.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
   - title: "Carnegie Mellon researchers develop new machine learning method for modeling of chemical reactions"
     excerpt: "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that simulates reactive processes in organic materials and conditions."
     publishedDateTime: 2024-03-07T00:00:00Z

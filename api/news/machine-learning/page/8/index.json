@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-04-ai-networks-are-more-vulnerable-to-malicious-attacks-than-previously-thought.md",
+      "title": "AI networks are more vulnerable to malicious attacks than previously thought",
+      "excerpt": "Artificial intelligence tools hold promise for applications ... on determining how common these sorts of adversarial vulnerabilities are in AI deep neural networks. They found that the vulnerabilities are much more common than previously thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1010001",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1010001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-04-how-bloomberg-uses-machine-learning-to-bring-intraday-pricing-transparency-to-fixed-income-trading.md",
       "title": "How Bloomberg uses machine learning to bring intraday pricing transparency to fixed income trading",
       "excerpt": "Bloomberg recently introduced Intraday BVAL (IBVAL) Front Office, a pricing service featuring a machine learning-based system capable of ... It was first launched in 2008, as the financial crisis resulted in a need for more robust independent pricing.",
@@ -1242,49 +1276,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-launch-of-altair-rapidminer-2023-platform-delivers-next-generation-generative-ai-capabilities.md",
-      "title": "Launch of Altair® RapidMiner® 2023 Platform Delivers Next-Generation Generative AI Capabilities",
-      "excerpt": "Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI) announced that Altair® RapidMiner®, its data analytics and AI platform, is becoming more integrated, more powerful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aap.com.au/aapreleases/cision20231128ae77927/",
-      "originalUrl": "https://www.aap.com.au/aapreleases/cision20231128ae77927/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2286046/Upgrades_to_Altair_RapidMiner.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T12:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Associated Press",
-        "domain": "aap.com.au",
         "images": null,
         "publishers": null,
         "authors": null

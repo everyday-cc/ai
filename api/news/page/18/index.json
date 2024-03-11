@@ -2,6 +2,154 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-23-google-translate-vs-chatgpt-which-one-is-the-best-language-translator.md",
+      "title": "Google Translate vs. ChatGPT: Which One Is the Best Language Translator?",
+      "excerpt": "This first test occurred back in June 2023, making PCMag one of the first to test these supposedly all-knowing, new chatbots for language translation. We asked bilingual speakers of seven languages to blind rank the translation of two paragraphs by Google Translate, ChatGPT, Gemini (then known as Bard), and Copilot (then Microsoft Bing Chat).",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/articles/google-translate-vs-chatgpt-which-is-the-best-language-translator",
+      "originalUrl": "https://www.pcmag.com/articles/google-translate-vs-chatgpt-which-is-the-best-language-translator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/046QFeqxZCw9VMhylV1U9me-1.fit_lim.size_1200x630.v1707252977.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-healthcare-startup-abridge-raises-150-mln-for-ai-model-for-clinicians.md",
+      "title": "Healthcare startup Abridge raises $150 mln for AI model for clinicians",
+      "excerpt": "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
+      "originalUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-jeff-bezos-and-nvidia-are-throwing-serious-cash-at-a-human-like-robot-startup.md",
+      "title": "Jeff Bezos and Nvidia are throwing serious cash at a human-like robot startup",
+      "excerpt": "A startup that wants to put humanoid robots in warehouses around the world has an increasingly elite slate of big-name backers with deep pockets. Figure AI Inc. is raising about $675 million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
+      "originalUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d9547490413ab8e1d6a186?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-neuralink-brain-chip-advance-sparks-safety-and-secrecy-concerns.md",
       "title": "Neuralink brain chip: advance sparks safety and secrecy concerns",
       "excerpt": "Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.",
@@ -1083,161 +1231,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-digs-puts-ai-in-the-center-of-building-a-home.md",
-      "title": "Digs Puts AI In The Center Of Building A Home",
-      "excerpt": "This tool enhances the build process by providing instant, detailed responses to questions related to product information, installation decisions, specifications, warranties, and more using natural language processing. Digs AI also produces a perfectly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d69484e5055638edd7b24c/0x0.jpg?format=jpg&crop=1617,909,x292,y158,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/22/digs-puts-ai-in-the-center-of-building-a-home/amp/",
-      "publishedDateTime": "2024-02-22T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-operationalizing-responsible-ai-principles-for-defense.md",
-      "title": "Operationalizing responsible AI principles for defense",
-      "excerpt": "Curating responsible AI is a multifaceted challenge that demands that human values be reliably and consistently reflected in our technology.\nThe post Operationalizing responsible AI principles for defense appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
-      "originalUrl": "https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/coding_1-2-1.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T15:35:50Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute.md",
-      "title": "Women In AI: Krystal Kauffman, research fellow at the Distributed AI Research Institute",
-      "excerpt": "Krystal Kauffman, profiled as part of TechCrunch's series on women in AI, is a research fellow at the Distributed AI Research Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/",
-      "originalUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-Kauffman.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/amp/",
-      "publishedDateTime": "2024-02-22T15:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

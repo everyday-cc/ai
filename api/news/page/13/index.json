@@ -2,6 +2,152 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-27-how-to-mitigate-the-risks-of-diy-authoritative-dns.md",
+      "title": "How to mitigate the risks of DIY authoritative DNS",
+      "excerpt": "While everyone has their reasons for adopting a DIY system for authoritative DNS, there are some distinct disadvantages to consider. \nThe post How to mitigate the risks of DIY authoritative DNS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-mitigate-the-risks-of-diy-authoritative-dns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-you-can-now-try-galaxy-ai-on-any-android-phone-to-see-just-how-good-it-is.md",
+      "title": "You can now try Galaxy AI on any Android phone to see just how good it is",
+      "excerpt": "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/",
+      "originalUrl": "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Just-Circle-It-lying-on-chair.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T12:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-ai-market-structure-in-the-future-few-engines-many-applications.md",
+      "title": "AI Market Structure In The Future: Few Engines, Many Applications",
+      "excerpt": "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657ca9e7bc7dbcfed2d9bd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/",
+      "publishedDateTime": "2024-02-27T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america.md",
       "title": "AI momentum is underpriced in the options market says Bank of America",
       "excerpt": "Buying Nvidia call options remains a good way to profit from gains in the AI chipmaker’s share price because volatility is being undervalued, according to Bank of America. In a note published Tuesday, the BofA global equity derivatives team observed that ...",
@@ -1040,117 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-us-can-house-entire-supply-chain-for-advanced-chips-commerce-dept.md",
-      "title": "US can house 'entire' supply chain for advanced chips: Commerce Dept",
-      "excerpt": "US Commerce Secretary Gina Raimondo expressed confidence Monday that the country can house the entire silicon supply chain for making advanced chips, including tech that is key for artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
-      "originalUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/us-commerce-secretary.jpg",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
-      "publishedDateTime": "2024-02-26T20:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-artificial-intelligence-used-to-cut-down-on-emergency-response-times.md",
-      "title": "Artificial Intelligence used to cut down on emergency response times",
-      "excerpt": "SAN JOSE, Calif. - Artificial Intelligence, also known as AI, has blasted onto the scene with concerning results and discussions about federal oversight and regulation. However, a Silicon Valley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
-      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
-      "publishedDateTime": "2024-02-26T19:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks-not-working-the-way-we-intended.md",
-      "title": "Google to relaunch ‘woke’ Gemini AI image tool in few weeks: ‘Not working the way we intended’",
-      "excerpt": "We are hoping to have that back online very shortly in the next couple of weeks, few weeks,” Google DeepMind CEO Demis Hassabis said Monday. The tool was not “working the way we intended ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/26/business/google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks/",
-      "originalUrl": "https://nypost.com/2024/02/26/business/google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T18:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

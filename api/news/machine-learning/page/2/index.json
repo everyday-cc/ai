@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-16-why-the-debate-about-artificial-general-intelligence-misses-the-point.md",
+      "title": "Why The Debate About Artificial General Intelligence Misses The Point",
+      "excerpt": "The world will never achieve artificial general intelligence, but it won’t be due to technological limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce48d9e14de6b124d410c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/amp/",
+      "publishedDateTime": "2024-02-16T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-karnataka-budget-state-bets-big-on-artificial-intelligence-machine-learning.md",
       "title": "Karnataka Budget: State bets big on Artificial Intelligence & Machine Learning",
       "excerpt": "Siddaramaiah also unveiled a stipend of Rs 15,000 for 200 engineering graduates enrolled in 6 to 12-month vocational training courses, including Artificial Intelligence and Machine Learning, at institutions like IISc,",
@@ -1247,49 +1300,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests.md",
-      "title": "Deep learning and neural networks have more to offer than their buzz suggests",
-      "excerpt": "While Generative AI and its chatbots are powerful language-based technologies, it is still ‘good old AI’ that has been churning out astounding new products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/04/1600x900/3-0-95504387-iStock-1195187835-0_1679788575543_1707052117406.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
-      "publishedDateTime": "2024-02-05T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

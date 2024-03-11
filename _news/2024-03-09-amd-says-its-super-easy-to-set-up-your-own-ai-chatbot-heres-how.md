@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Prohibits AMD’s AI Chip Sales To China"
+    excerpt: "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first."
+    publishedDateTime: 2024-03-06T11:50:00Z
+    webUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/"
+    ampWebUrl: "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 71
   - title: "AMD promotes third-party app for running AI chatbots on local hardware"
     excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
     publishedDateTime: 2024-03-08T13:55:00Z
@@ -48,6 +59,24 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
+    excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
+    publishedDateTime: 2024-03-06T16:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-china-focused-ai-chip-blocked-from-sale-by-us-commerce-department/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+  - title: "AMD’s Chinese AI chip plan halted by US govt: What’s next?"
+    excerpt: "AMD finds itself at a standstill as it faces hurdles from the US in its endeavor to sell AI chips explicitly tailored for the Chinese market"
+    publishedDateTime: 2024-03-07T01:30:00Z
+    webUrl: "https://techwireasia.com/03/2024/amd-chinese-ai-chips-plan-halted-by-us-govt-whats-next/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 34
 
 secured: "WvcR2O7TbOI9sz9MpF4qQ3UGxZzJvtntJG6GTZT/ZG9R5EW050r46gUVBgnYJSFQ/8D8HrViB6Csdxmud/8VrvGMEsOTR08p3m+eD/NwiVHFtwQOei+67sriBjUhcmsHos6gqi6SGI9043GRxHaAT1Di0iN6ekFquEGz7bdi6EetsqH1S4GsVHkpw8WDS145w7ljZh8VgDaIS4BJ+bTraTRDlL1yqyOHj2igT0XHrSLibbNQ3QKng/YT2dSHwJSw5R1j1PH8VeIMbk4rw/xS7IT3ujoFyGTG/9UiqQBW6mRdnLRCt6UUhYWBTbFsIiWh2NYy8+xLFnk2mLBsOyM52/yAAAbO7K2aSagMfKq5w5PCDcJ4kJSagsBCtZfU7wXAzf+Ae6oxSUVPww0VHN7anwN6SfVlTyYghTrgcVnZh0qvLLM1E+rL/Uh0XWSSaQm9DHAk2lATVWwNJXsJF3UvhLz8jVH8Uem12Y8O1Sr0IqJrpQssr3T78LwzMw5DjP7cC3GsGJgUVAekCfEoCunUmQ==;kEjl9msCEWLunjFEsvsZ0Q=="
 ---

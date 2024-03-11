@@ -2,6 +2,135 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2024-02-12-the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation.md",
+      "title": "The Role Of Humans And AI In Social Media's Battle Against Misinformation",
+      "excerpt": "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655225b46f7ef811892e44e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
+      "publishedDateTime": "2024-02-12T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-boycott-tesla-super-bowl-ads-target-self-driving-technology.md",
+      "title": "‘Boycott Tesla’ Super Bowl ads target self-driving technology",
+      "excerpt": "A pair of Super Bowl ads went after Tesla’s self-driving technology Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/",
+      "originalUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/",
+      "publishedDateTime": "2024-02-12T10:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-microsoft-preparing-for-a-quantum-leap.md",
+      "title": "Microsoft: Preparing For A Quantum Leap",
+      "excerpt": "Microsoft has launched Azure Quantum, a cloud-based platform for researchers to learn quantum programming. Read why I rate MSFT stock a strong buy.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
+      "originalUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gettyimages.com/id/1241725400/photo/quantum-leap-a-portrait-for-troian-february-7-1971-episode-2-pictured-deborah-pratt-as-troian.jpg?b=1&s=594x594&w=0&k=20&c=B-k-GdCjYCVtWpFQWAmebAax0AM1ghxnG2Sb933vek0=",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-is-ai-making-our-code-stupid.md",
       "title": "Is AI making our code stupid?",
       "excerpt": "AI-generated code has transformed software development forever. That’s not necessarily good. A solid review process can shrink bloat and attack surfaces.",
@@ -1026,136 +1155,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-year-of-the-dragon-we-have-entered-the-ai-age.md",
-      "title": "Year of the dragon: We have entered the AI age",
-      "excerpt": "Like the Year of the Dragon roaring in today, 2024 will mark the year where AI is applied in real, tangible ways.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
-      "originalUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/A_roaring_dragon_from_the_Chinese_calendar_vibr1-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T04:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-report-nvidia-building-unit-to-design-custom-ai-chips-for-cloud-customers.md",
-      "title": "Report: Nvidia building unit to design custom AI chips for cloud customers",
-      "excerpt": "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
-      "originalUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg",
-          "width": 1008,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T02:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-general-intelligence-embodied-in-a-humanoid-robot.md",
-      "title": "General Intelligence Embodied in a Humanoid Robot",
-      "excerpt": "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
-      "originalUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-05-deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests.md",
+      "title": "Deep learning and neural networks have more to offer than their buzz suggests",
+      "excerpt": "While Generative AI and its chatbots are powerful language-based technologies, it is still ‘good old AI’ that has been churning out astounding new products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2024/02/04/1600x900/3-0-95504387-iStock-1195187835-0_1679788575543_1707052117406.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
+      "publishedDateTime": "2024-02-05T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-mit-researchers-use-neural-networks-to-design-more-durable-and-flexible-composite-materials.md",
       "title": "MIT researchers use neural networks to design more durable and flexible composite materials",
       "excerpt": "Researchers at the Massachusetts Institute of Technology’s Computer Science and Artificial Intelligence Laboratory have created a new, AI-powered system for designing more durable microstructured composite materials for use in vehicle manufacturing.",
@@ -1225,49 +1268,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-will-our-educational-system-keep-pace-with-ai-a-students-perspective-on-ai-and-learning.md",
-      "title": "Will Our Educational System Keep Pace with AI? A Student's Perspective on AI and Learning",
-      "excerpt": "Reflecting on AI and learning, a student offers four insights gleaned from firsthand interactions with ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://er.educause.edu/articles/2024/1/will-our-educational-system-keep-pace-with-ai-a-students-perspective-on-ai-and-learning",
-      "originalUrl": "https://er.educause.edu/articles/2024/1/will-our-educational-system-keep-pace-with-ai-a-students-perspective-on-ai-and-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://er.educause.edu/-/media/images/articles/2024/01/er24_010_relatedimage_1600x650.jpg",
-          "width": 1600,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "er.educause.edu",
-        "domain": "educause.edu",
         "images": null,
         "publishers": null,
         "authors": null

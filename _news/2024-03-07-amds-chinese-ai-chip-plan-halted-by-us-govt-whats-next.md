@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "US blocks AMD from selling AI chip tailored for China without licence: sources"
-    excerpt: "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally."
-    publishedDateTime: 2024-03-06T03:34:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 80
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/06/17dbafef-d2ea-4e14-9aad-c157ae6799bb_f578f2f2.jpg?itok=1P5ZJByg&v=1709694364"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. Prohibits AMD’s AI Chip Sales To China"
     excerpt: "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first."
     publishedDateTime: 2024-03-06T11:50:00Z
@@ -44,6 +30,43 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 71
+  - title: "AMD promotes third-party app for running AI chatbots on local hardware"
+    excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
+    publishedDateTime: 2024-03-08T13:55:00Z
+    webUrl: "https://www.techspot.com/news/102187-amd-promotes-third-party-app-solution-running-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "AMD's AI chatbot released"
+    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
+    publishedDateTime: 2024-03-08T11:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
+    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
+    publishedDateTime: 2024-03-08T20:00:00Z
+    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
+        width: 708
+        height: 365
+        isCached: true
   - title: "AMD's China-focused AI chip sale blocked by US Commerce Department"
     excerpt: "Despite designing a less powerful chip specifically for the Chinese market, AMD can’t sell it without a license"
     publishedDateTime: 2024-03-06T16:50:00Z

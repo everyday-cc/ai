@@ -2,6 +2,144 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2024-02-14-revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine.md",
+      "title": "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine",
+      "excerpt": "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbc583a7ebceedfab53229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/",
+      "publishedDateTime": "2024-02-14T12:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot.md",
+      "title": "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot",
+      "excerpt": "The generative artificial intelligence boom has led to the emergence of more companion chatbots NEW YORK -- A few months ago, Derek Carrier started seeing someone and became infatuated.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T11:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-a-new-era-of-drug-discovery-with-biology-driven-ai.md",
+      "title": "A New Era Of Drug Discovery With Biology-Driven AI",
+      "excerpt": "The AI and computing revolution is ushering in a new era of drug development that is poised to be better, faster and cheaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cb78ca62e34c5e08f238c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/",
+      "publishedDateTime": "2024-02-14T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-chinese-tech-startups-quietly-stop-testing-driverless-cars-on-californian-roads.md",
       "title": "Chinese tech startups quietly stop testing driverless cars on Californian roads",
       "excerpt": "Chinese autonomous vehicle companies have scaled back testing of driverless cars in California, a BI analysis found. These companies face growing scrutiny from US lawmakers.",
@@ -994,160 +1132,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge.md",
-      "title": "Airbnb plans to use AI, including its GamePlanner acquisition, to create the ‘ultimate concierge’",
-      "excerpt": "In November, Airbnb acquired a stealth AI firm launched by Siri’s co-founder, called GamePlanner.AI. The deal valued the secretive startup at around $200 million, according to reports. Though the hosting company didn’t telegraph its plans for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/",
-      "originalUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/amp/",
-      "publishedDateTime": "2024-02-13T22:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-sadiq-khan-says-fake-ai-audio-of-him-nearly-led-to-serious-disorder.md",
-      "title": "Sadiq Khan says fake AI audio of him nearly led to serious disorder",
-      "excerpt": "London Mayor Sadiq Khan says deepfake audio of him supposedly making inflammatory remarks before Armistice Day almost caused \"serious disorder\". Mr Khan says the law is not \"fit for purpose\" in tackling AI fakes, as the audio creator \"got away with it\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-68146053",
-      "originalUrl": "https://www.bbc.com/news/uk-68146053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/30FF/production/_132634521_promo_ep02_976x549.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-68146053.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-68146053.amp",
-      "publishedDateTime": "2024-02-13T22:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-microsoft-cloud-for-sustainability-gains-data-ai-capabilities.md",
-      "title": "Microsoft Cloud For Sustainability Gains Data & AI Capabilities",
-      "excerpt": "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbe197e0981b2a50f2c0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
-      "publishedDateTime": "2024-02-13T21:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

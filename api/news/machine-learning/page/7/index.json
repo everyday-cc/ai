@@ -2,6 +2,42 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-11-googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning.md",
+      "title": "Google's Billion-Dollar Cloud Business Takes On AWS, Azure With AI, Machine Learning",
+      "excerpt": "\"Anytime any customer talks cloud, they talk AWS, Azure, and Google ... Google's portfolio of artificial intelligence (AI) and machine learning technologies are standing out and giving the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
+      "originalUrl": "https://www.crn.com/news/cloud/300100466/googles-billion-dollar-cloud-business-takes-on-aws-azure-with-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T03:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-how-this-retailer-uses-machine-learning-and-computer-vision-to-keep-its-shelves-full.md",
       "title": "How this retailer uses machine learning and computer vision to keep its shelves full",
       "excerpt": "Yet The Home Depot is meeting this test head-on by using a mix of machine learning (ML) and computer vision technology to help staff find products for customers quickly and effectively.",
@@ -1235,40 +1271,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-ai-networks-are-more-vulnerable-to-malicious-attacks-than-previously-thought.md",
-      "title": "AI networks are more vulnerable to malicious attacks than previously thought",
-      "excerpt": "Artificial intelligence tools hold promise for applications ... on determining how common these sorts of adversarial vulnerabilities are in AI deep neural networks. They found that the vulnerabilities are much more common than previously thought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1010001",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1010001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services-to-accelerate-database-and-machine-learning-application-development.md",
+      "title": "InterSystems Introduces Two New Cloud-Native Smart Data Services to Accelerate Database and Machine Learning Application Development",
+      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "originalUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T17:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services.md",
       "title": "InterSystems introduces two new cloud-native smart data services",
       "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed problems, today announced general availability of the InterSystems IRIS® Cloud SQL and InterSystems IRIS® Cloud IntegratedML® services.",
@@ -1229,49 +1263,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism.md",
-      "title": "Machine Learning Can Predict Aggressive Behaviors in Youth With Autism",
-      "excerpt": "For inpatient youths with autism, machine learning analyses of preceding changes in peripheral physiology can predict imminent aggressive behaviors before they occur, according to a study published online Dec.",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/",
-      "originalUrl": "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/12/image1703226618.jpg",
-          "width": 800,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T06:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

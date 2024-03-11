@@ -471,6 +471,41 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-us-prohibits-amds-ai-chip-sales-to-china.md",
+      "title": "U.S. Prohibits AMD’s AI Chip Sales To China",
+      "excerpt": "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first.",
+      "sourceUrl": null,
+      "webUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
+      "originalUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
+      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
+      "publishedDateTime": "2024-03-06T11:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coingape",
+        "domain": "coingape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
       "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
       "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
@@ -1423,58 +1458,6 @@
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
-      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
-      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "publishedDateTime": "2024-02-28T09:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

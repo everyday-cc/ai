@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
+      "title": "How to choose an AI-as-a-service provider",
+      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "publishedDateTime": "2024-03-11T03:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-bueckers-leads-uconn-into-big-east-final-to-face-georgetown.md",
       "title": "Bueckers Leads UConn Into Big East Final To Face Georgetown",
       "excerpt": "Connecticut (28-5) will face sixth seeded Georgetown (22-10), who upset second seeded Creighton University (25-5) 55-46 in the other semi-final. Creighton came into the game the number one ranked free throw shooting team in the country.",
@@ -1340,49 +1383,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-models-of-object-recognition.md",
-      "title": "Models of object recognition",
-      "excerpt": "Much of the interesting recent computational work in object recognition considers the recognition problem as a supervised learning problem. We start with a very simplified description (Fig.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/nn1100_1199",
-      "originalUrl": "https://www.nature.com/articles/nn1100_1199",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F81479/MediaObjects/41593_2000_Article_BFnn1100_1199_Fig1_HTML.gif",
-          "width": 395,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T22:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

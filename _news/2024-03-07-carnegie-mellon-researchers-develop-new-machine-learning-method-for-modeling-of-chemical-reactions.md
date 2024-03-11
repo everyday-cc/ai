@@ -41,6 +41,15 @@ related:
         width: 1759
         height: 1659
         isCached: true
+  - title: "Researchers develop new machine learning method for modeling of chemical reactions"
+    excerpt: "Researchers have used machine learning to create a model that simulates reactive processes in organic materials and conditions. Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/03/240307110722.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
 
 secured: "ZzF2tCF8JANb0kOaSoFaIGx1acvLmMoC5HEzkfwaRHK0gcc5zY5D0Az6Jv68RhsfSrJ6LbIXLTVypm150JCeUG0HUCTmNs3H1AmpPYLOAMtZj7ivX4klTkOCMcEtfUP6s/ARt2kj1QjkhNuR5WUdJMhDb4iN0cgzWsmiIAvaXcunXrdzFADc9Wmo7w3krooLcZlN57RiYwZ7du4uwhurn935teP7ZuX4yalOUfxHRbcOWikMgTeO/43CEyhmDvpmav0nFr6N06A5djOT/skQcfnqShBsLhic2n9iiqM9yElRKpYZMvBkPs2g+wzwCI5rUfUDdNcq16L6+JGIoTCpBfgpeTsJrllkaSCDWHSeb0+k6WgB2OUTqUyLMpCTaxCW6zGibeK2nGXGILm9K63CjXSVpaNk84aum8xb8sv0nqPhkec5piGccinu1IxejQT7M8aeRv6Z8uQuE9L44OhH0at3FiKLXMpQXGPc7IKoCgij9d6l86uiN2L8SBFCp61+8F2d9QnDsgNL0TJKl6KOCQ==;kpubpn7ujI9aYCR9YGo9TQ=="
 ---

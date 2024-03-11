@@ -2,6 +2,127 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2024-02-06-a-skin-tone-bias-lingers-from-the-early-days-of-photographic-technology.md",
+      "title": "A skin-tone bias lingers from the early days of photographic technology",
+      "excerpt": "Old orthochromatic photo films had a technical flaw traceable to a socio-cultural context that favoured lighter skin. Today, AI may help resolve a bias that has survived into the digital era of facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/online-views/a-skin-tone-bias-lingers-from-the-early-days-of-photographic-technology-11707134232782.html",
+      "originalUrl": "https://www.livemint.com/opinion/online-views/a-skin-tone-bias-lingers-from-the-early-days-of-photographic-technology-11707134232782.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2024/02/05/1600x900/best_cameras_1706875600834_1707150624488.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/online-views/a-skin-tone-bias-lingers-from-the-early-days-of-photographic-technology/amp-11707134232782.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/a-skin-tone-bias-lingers-from-the-early-days-of-photographic-technology/amp-11707134232782.html",
+      "publishedDateTime": "2024-02-06T04:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.md",
+      "title": "Microsoft, Lenovo, Big Tech Companies Sign UNESCO AI Ethics Recommendation",
+      "excerpt": "The tech giants will be required to safeguard human rights in all stages of AI development, design, acquisition, sale, and usage under the terms of a new agreement signed by the tech corporations GSMA, INNIT, Lenovo Group, LG AI Research, Mastercard, Microsoft, Salesforce, and Telefonica.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
+      "originalUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/435738/unesco-unveils-first-ever-global-guidance-on-generative-ai-in-education-research.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
+      "publishedDateTime": "2024-02-06T03:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-funding-for-ai-in-fintech-in-singapore-grow-77-h-o-h-to-us33113-mil-amid-soft-year-for-investments-in-2023.md",
+      "title": "Funding for AI in fintech in Singapore grow 77% h-o-h to US$331.13 mil; amid 'soft' year for investments in 2023",
+      "excerpt": "Singapore accounted for 21% of all fintech deals in the region, making it the “leader” in the APAC region, says KPMG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theedgesingapore.com/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "originalUrl": "https://www.theedgesingapore.com/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theedgesingapore.com/amp/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "cdnAmpWebUrl": "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "publishedDateTime": "2024-02-06T03:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Edge Singapore",
+        "domain": "theedgesingapore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-roblox-brings-real-time-ai-chat-translator-to-connect-international-gamers.md",
       "title": "Roblox Brings Real-Time AI Chat Translator to Connect International Gamers",
       "excerpt": "The latest tool for Roblox looks to answer the linguistics divide on the platform, especially with its renowned global presence.",
@@ -974,135 +1095,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications.md",
-      "title": "Dynatrace unveils AI Observability solution to benefit LLMs and generative AI-oriented applications",
-      "excerpt": "From what it’s understood, it also supports platforms for building, training, and delivering AI models, including Microsoft® Azure OpenAI Service, Amazon® SageMaker, and Google® AI Platform. Reportedly, Dynatrace AI Observability leverages the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-05T133449.796.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-dynatrace-unveils-ai-observability-solution-to-benefit-llms-and-generative-ai-oriented-applications-3384617/lite/",
-      "publishedDateTime": "2024-02-05T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-miley-cyrus-thanks-family-in-full-grammys-speech-but-not-dad-billy-ray.md",
-      "title": "Miley Cyrus Thanks Family in Full Grammys Speech — But Not Dad Billy Ray",
-      "excerpt": "JC Olivera/WireImage; Gabe Ginsberg/Getty Images Miley Cyrus was in total “shock” after her 2024 Grammys wins, but her choice to leave dad Billy Ray Cyrus from her acceptance speech appears to be intentional.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
-      "originalUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_us_weekly_474/bfdb85a8d603758901bdb198e996eba1",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-5m-masstech-collaborative-initiative-boosts-states-robotics-sector.md",
-      "title": "$5M MassTech Collaborative initiative boosts state’s robotics sector",
-      "excerpt": "MassTech program will focus on expansion of research and development, testing, commercialization, and workforce development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/5m-masstech-collaborative-initiative-boosts-states-robotics-sector/",
-      "originalUrl": "https://www.therobotreport.com/5m-masstech-collaborative-initiative-boosts-states-robotics-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/Screen-Shot-2023-03-06-at-12.22.25-PM.png",
-          "width": 520,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T19:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-06-the-dark-side-of-open-source-ai-image-generators.md",
+      "title": "The Dark Side of Open Source AI Image Generators",
+      "excerpt": "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg",
+          "width": 1280,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-us-prohibits-amds-ai-chip-sales-to-china.md",
+      "title": "U.S. Prohibits AMD’s AI Chip Sales To China",
+      "excerpt": "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first.",
+      "sourceUrl": null,
+      "webUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
+      "originalUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
+      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
+      "publishedDateTime": "2024-03-06T11:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coingape",
+        "domain": "coingape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-interconnected-data-the-missing-link-to-make-ai-useful.md",
+      "title": "Interconnected Data: The Missing Link To Make AI Useful",
+      "excerpt": "Until data on the internet, intranets and even offline can be interconnected by use case, even the smartest AI model won’t be able to go deep. Such interconnection should happen with up-to-date, legally compliant, secure data for the model not to spit out some variant of attractive garbage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/interconnected-data-the-missing-link-to-make-ai-useful/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/interconnected-data-the-missing-link-to-make-ai-useful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/06/interconnected-data-the-missing-link-to-make-ai-useful/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/06/interconnected-data-the-missing-link-to-make-ai-useful/amp/",
+      "publishedDateTime": "2024-03-06T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-box-gets-even-smarter-with-azure-openai-service-integration.md",
       "title": "Box gets even smarter with Azure OpenAI Service integration",
       "excerpt": "Box AI, including the newly announced Azure OpenAI Service integration, is now included in Enterprise Plus plans. Individual users have access to 20 queries per month, with a further 2,000 queries available at the company level.",
@@ -10,7 +149,7 @@
       "originalUrl": "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1100,154 +1239,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision.md",
-      "title": "CrowdStrike and Dell unleash an AI-powered, unified security vision",
-      "excerpt": "By adding CrowdStrike's Falcon XDR platform to its current Managed Detection and Response (MDR) service, Dell provides its global base of resellers with AI-based technologies their customers need to battle back against attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
-      "originalUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/hero-16-9-crowdstrike-dell-partnership-.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation.md",
-      "title": "Cycode acquires Bearer to accelerate its move into AI-enhanced security remediation",
-      "excerpt": "startup that focuses on making the developer experience as smooth as possible while still providing them with essential security feedback. With its recently launched AI assistant, Bearer also bet on generative AI to suggest code fixes and explain ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/",
-      "originalUrl": "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-i-tried-tripadvisors-free-ai-tool-to-plan-trips-to-maui-and-montreal-it-was-useful-in-some-ways-but-i-wont-stop-doing-my-own-trip-research.md",
-      "title": "I tried Tripadvisor's free AI tool to plan trips to Maui and Montreal. It was useful in some ways, but I won't stop doing my own trip research.",
-      "excerpt": "Before I got a 9-to-5, I spent a good chunk of my 20s freelancing while traveling out of a van or working on farms abroad so that I could stay for free weeks at a time. These days, my travel time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
-      "originalUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e68d376080194819fc6fa6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
-      "publishedDateTime": "2024-03-05T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

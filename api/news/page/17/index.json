@@ -2,6 +2,134 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-02-24-gm-tries-to-get-back-into-self-driving-cars-after-major-failure.md",
+      "title": "GM Tries to Get Back Into Self-Driving Cars After Major Failure",
+      "excerpt": "After a major setback in its self-driving car business, General Motors is ready to try again, this time in Dallas and Houston.",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/cars-and-drivers/2024/02/23/gm-tries-to-get-back-into-self-driving-cars-after-major-failure/",
+      "originalUrl": "https://247wallst.com/cars-and-drivers/2024/02/23/gm-tries-to-get-back-into-self-driving-cars-after-major-failure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T16:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again.md",
+      "title": "Robotaxis by GM's Cruise are getting ready to hit the streets again",
+      "excerpt": "Unlike its previous operations prior to October 2023, the vehicles will not be entirely autonomous, and will have safety drivers ready to take the wheel if necessary.  The report also said that Cruise is in talks with local officials to ensure a positive reception when it hits the streets to test its cars.",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "originalUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjAyMzQ5OTcyOTE2NTQ0NTI0/cruise-a-driverless-robot-taxi-in-san-francisco.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/robotaxis-by-gms-cruise-are-getting-ready-to-hit-the-streets-again/article_fa6f972c-2e1f-59c4-9565-9f168fb472b0.amp.html",
+      "publishedDateTime": "2024-02-23T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-tyler-perry-halts-630m-film-studio-build-over-ai-fears.md",
+      "title": "Tyler Perry halts £630m film studio build over AI fears",
+      "excerpt": "US film and TV giant Tyler Perry says he's putting a $800m (£630m) expansion of his studio on hold after becoming concerned over new AI technology. He was due to add 12 sound stages to his Atlanta complex, but says he has been put off by the release of OpenAI's video generator Sora.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-68384657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6038/production/_132723642_gettyimages-2014322799.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-68384657.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-68384657.amp",
+      "publishedDateTime": "2024-02-23T15:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-jim-cramer-says-mcdonalds-embracing-ai-at-drive-thrus-is-good-news-for-nvidia.md",
       "title": "Jim Cramer says McDonald's embracing AI at drive-thrus is good news for Nvidia",
       "excerpt": "McDonald's use of artificial intelligence in drive-thru lanes is a sign adoption of the technology is growing across the U.S., CNBC's Jim Cramer said Friday. And that bodes well for the leading maker of AI chips: Nvidia .",
@@ -1042,154 +1170,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-google-translate-vs-chatgpt-which-one-is-the-best-language-translator.md",
-      "title": "Google Translate vs. ChatGPT: Which One Is the Best Language Translator?",
-      "excerpt": "This first test occurred back in June 2023, making PCMag one of the first to test these supposedly all-knowing, new chatbots for language translation. We asked bilingual speakers of seven languages to blind rank the translation of two paragraphs by Google Translate, ChatGPT, Gemini (then known as Bard), and Copilot (then Microsoft Bing Chat).",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/articles/google-translate-vs-chatgpt-which-is-the-best-language-translator",
-      "originalUrl": "https://www.pcmag.com/articles/google-translate-vs-chatgpt-which-is-the-best-language-translator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/046QFeqxZCw9VMhylV1U9me-1.fit_lim.size_1200x630.v1707252977.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-healthcare-startup-abridge-raises-150-mln-for-ai-model-for-clinicians.md",
-      "title": "Healthcare startup Abridge raises $150 mln for AI model for clinicians",
-      "excerpt": "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "originalUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-jeff-bezos-and-nvidia-are-throwing-serious-cash-at-a-human-like-robot-startup.md",
-      "title": "Jeff Bezos and Nvidia are throwing serious cash at a human-like robot startup",
-      "excerpt": "A startup that wants to put humanoid robots in warehouses around the world has an increasingly elite slate of big-name backers with deep pockets. Figure AI Inc. is raising about $675 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
-      "originalUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d9547490413ab8e1d6a186?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jeff-bezos-nvidia-throwing-cash-humanoid-robot-startup-2024-2?amp",
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,135 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2024-01-05-virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization.md",
+      "title": "Virtusa Announces Strategic Collaboration with AWS to Accelerate Cloud Data Migration and IT Modernization",
+      "excerpt": "Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT)",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
+      "originalUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2024/01/Virtusa-298x300.jpg",
+          "width": 298,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-04-mammotion-introduces-yuka-3d-vision-robotic-mower-with-self-emptying-sweeper-and-lawn-imagery-printing.md",
+      "title": "MAMMOTION Introduces YUKA, 3D Vision Robotic Mower with Self-Emptying Sweeper and Lawn Imagery Printing",
+      "excerpt": "SHENZHEN, China, Jan. 4, 2024 /PRNewswire/ -- MAMMOTION, a leader in robotic outdoor solutions, today unveiled the YUKA - 3D vision robotic lawn mower with a self-emptying sweeper and lawn imagery printing, marking a new era of intelligent, perfect, and artistic lawn care to your fingertips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mammotion-introduces-yuka-3d-vision-robotic-mower-with-/2024/01/04/9940324.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mammotion-introduces-yuka-3d-vision-robotic-mower-with-/2024/01/04/9940324.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2311099/YUKA_robot_lawn_sweeping_mower.jpg",
+          "width": 400,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T12:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-04-human-brain-is-superior-and-more-efficient-than-artificial-intelligence-scientists-say.md",
+      "title": "Human brain is superior and more efficient than artificial intelligence, scientists say",
+      "excerpt": "Most modern AI consist of artificial neural networks, which are layers of 'nodes' or neurons similar to what you might find in the brain. When an AI makes a mistake it adjusts the connections ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/01/04/11/79609597-0-image-a-28_1704366728030.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12925689/amp/Human-brain-superior-efficient-artificial-intelligence-scientists-say.html",
+      "publishedDateTime": "2024-01-04T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-04-meet-the-humanoid-robot-that-learns-from-natural-language-mimics-human-emotions.md",
       "title": "Meet the humanoid robot that learns from natural language, mimics human emotions",
       "excerpt": "Alter3 is an example of how natural language processing and robotics can work together to create pretty incredible interactions. By using GPT-4, the robot can perform a variety of tasks and ...",
@@ -922,160 +1051,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/amp/",
       "publishedDateTime": "2023-12-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-30-michael-cohen-admits-he-sent-fake-ai-generated-legal-cases-to-his-lawyer.md",
-      "title": "Michael Cohen Admits He Sent Fake, AI-Generated Legal Cases To His Lawyer",
-      "excerpt": "The former Donald Trump lawyer blamed his own attorney for failing to check the cases before submitting them to the judge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137",
-      "originalUrl": "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/658f1e922200003200ad4169.jpeg?ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp",
-      "publishedDateTime": "2023-12-29T23:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-30-thoughts-on-ai-in-education-learning-a-new-way.md",
-      "title": "Thoughts On AI In Education: Learning A New Way",
-      "excerpt": "Artificial intelligence has a lot of potential and opportunities to optimize teaching and learning processes. We know this, intuitively, but then when you start talking to people who are working on this and get an actual picture of what it looks like – well, it’s a real eye-opener.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658f0800187f67b88db75bca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1595,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/amp/",
-      "publishedDateTime": "2023-12-29T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-12-30-ai-and-agriculture-better-farming-better-food.md",
-      "title": "AI And Agriculture: Better Farming, Better Food",
-      "excerpt": "If you think about it, it makes sense – so much of agriculture involves geospatial analysis, and using detailed data to fine-tune systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/ai-and-agriculture-better-farming-better-food/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/ai-and-agriculture-better-farming-better-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658f074cd18ab2cbde024703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1509,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/ai-and-agriculture-better-farming-better-food/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/ai-and-agriculture-better-farming-better-food/amp/",
-      "publishedDateTime": "2023-12-29T17:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

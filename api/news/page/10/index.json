@@ -2,6 +2,136 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-29-use-chatgpt-for-mock-interviews-if-you-want-to-land-a-job-says-ex-disney-recruiter.md",
+      "title": "Use ChatGPT for mock interviews if you want to land a job, says ex-Disney recruiter",
+      "excerpt": "HR executive Simon Taylor told CNBC that job seekers should use ChatGPT's voice feature to practice answering interview questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
+      "originalUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e05f0790413ab8e1d7c0ef?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
+      "publishedDateTime": "2024-02-29T12:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-robotics-startup-figure-raises-675-mln-from-microsoft-nvidia-other-big-techs.md",
+      "title": "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, other big techs",
+      "excerpt": "Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "originalUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-paypals-ai-surprise-why-its-more-than-just-a-fintech-stock.md",
+      "title": "PayPal’s AI Surprise: Why It’s More Than Just a Fintech Stock",
+      "excerpt": "Some traders panic-sold their PayPal (NASDAQ:PYPL) shares after the company issued modest current-year revenue guidance. However, a thorough PYPL stock analysis indicates that this is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/paypals-ai-surprise:-why-its-more-than-just-a-fintech-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/paypals-ai-surprise:-why-its-more-than-just-a-fintech-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T11:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls.md",
       "title": "Why Cell And Gene Therapy Design Processes Need More Efficient Quality Controls",
       "excerpt": "Drugmakers must make the entire drug testing and quality control process as efficient and innovative as the drug discovery method itself.",
@@ -959,162 +1089,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-innovationrx-exploring-the-future-of-healthcare-ai.md",
-      "title": "InnovationRx: Exploring The Future Of Healthcare AI",
-      "excerpt": "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T22:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
-      "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
-      "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107241946-1684255273555-sei.jpg?v=1694098121",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
-      "publishedDateTime": "2024-02-28T21:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
-      "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
-      "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
-      "originalUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-23.jpg",
-          "width": 2000,
-          "height": 1261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T21:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
