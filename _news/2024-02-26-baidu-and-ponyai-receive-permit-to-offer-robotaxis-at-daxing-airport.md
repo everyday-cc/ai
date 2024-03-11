@@ -3,12 +3,9 @@ category: news
 title: "Baidu and Pony.ai receive permit to offer robotaxis at Daxing airport"
 excerpt: "Chinese tech heavyweight Baidu Inc and self-driving startup Pony.ai have received permits to offer autonomous vehicle services at Beijing Daxing International Airport, a key step that indicates Beijing has become the world's first capital city to run passenger-carrying robotaxis from urban areas to the airport."
 publishedDateTime: 2024-02-26T06:04:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202402/26/WS65dc29eda31082fc043b9187.html?prefer_reader_view=1&prefer_safari=1"
-webUrl: "https://www.chinadaily.com.cn/a/202402/26/WS65dc29eda31082fc043b9187.html?prefer_reader_view=1&prefer_safari=1"
+originalUrl: "https://www.chinadaily.com.cn/a/202402/26/WS65dc29eda31082fc043b9187.html"
+webUrl: "https://www.chinadaily.com.cn/a/202402/26/WS65dc29eda31082fc043b9187.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: 中国日报网
@@ -24,22 +21,6 @@ images:
     height: 718
     isCached: true
 
-related:
-  - title: "Robotaxis get green light for airport run"
-    excerpt: "Beijing has granted permits to several robotaxi operators, including Baidu Inc and Pony.ai, allowing them to offer driverless vehicle services at Beijing Daxing International Airport, a key step indicating that the city has become the world's first capital to run autonomous passenger vehicles between urban areas and the airport."
-    publishedDateTime: 2024-02-26T15:49:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202402/26/WS65dcadbaa31082fc043b9293.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202402/26/65dcadbaa31082fc2b692b36.jpeg"
-        width: 1078
-        height: 718
-        isCached: true
-
-secured: "SZf1zfvpNxjp+yLy9IdYTnFbGOhO8a8A69mRydCYgJebtE7jXTdWRtGvjx21tO6iBu8BcY8pM4vggHnNne/eRhWOlvRGZsisreWWMIuyuporQmePmjByfXMd8/Yrd9/cf5BZiuPlVpGWNLWmoMlfhmgtP0uKaCdwcY6E6ntSTpIjbtyLidOuqDuapfjvDQ4wAa/cptd+2G5Bz9SYb3uALGAb+o196+jBa4ZYVvXdWV7kAwd4uqixIGzepS9pO3xbDyy58HOA57/ztS096mLN9+mPl0w4/ZXsYfqjud57MRgEjYLuKKhUQz9mUaYrXiVYXWcGU7KbvC10/J4lv0mfZ25eK1z+xJC0i/klg/fz8UUGr/tuK5xrPMvZNDVfIlGQJcSd6Qi3KDi0gwNHTrND1y/eayWKrfLzlLBbtZzoeQ3Pj9/4rMSgnBr6JV80493cjSsHpYlWQo9Qqztru6aRr0EsIOsNwN1tKe5ph8s3YR0S+ssYbKhuiCtm3OmkMlhIB3PasLR1bLLH64phI4UHXQ==;1DnsHH52fywElEreat4bzg=="
+secured: "pqOlsW7CL2fS7heZKMfUxXo0r+L61T62a47zWsNWDfhe9ZspMedsCk5g1LRXbrxoV/vzyEXQGCAIBpK3Xkb2FLpwHUMLKpj9FuuU/7ItqXhUbcGBsI9whP75JFOzot0bn9UE8qbBmxzUTBGevn2Hy/Yj6jsffwb8xFaGkoMsyu4o6rUmDoevS4Ru9dJ2Qq3Z1C3gUzr/LqQWisRx6pLznXbZpn5KDRttz5GvzP4sDD7FsSWGa/N+BEPR6NlHiKNVk0gtDPaf/PRelhOsFvOoqF1co7r3VnqruyDHfMTNlaQ7eBm+AHZPXE1rMcs+Vkn+Jj2oojSTroiGEpfwICJfq59ND9Q2xsy+RCv2FKdxImogng6zYGBWTqn70q/wX06LyrSEa6zwEbQAYXNm5pWTtqtYpMSjtzhd9YAvCiZUUmduCS7DIuXCI44VI1dCfeBCkiZUOJU0x2rfGScKkByC7APnWlep1kvwVnDSspiRQ+PwTx5l6Oe5hVv4DtPyjDgi4Lmwz4ywOfTnCzN6RP1NCw==;VG8jGp2gHdhKU4Yp6Z+AKg=="
 ---
 

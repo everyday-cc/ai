@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-ope
 webUrl: "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
-    excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
-    publishedDateTime: 2024-03-08T19:56:00Z
-    webUrl: "https://siliconangle.com/2024/03/08/openai-elon-musk-battle-intensifies-ai-trust-sinks-investors-arent-slowing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
 
 secured: "8TNNvcj5mU2z1vt2IVFvXwMGY54Y0KpQQTd3pCrmOBuy5K4S2Fmz5QxyEEDSOL4ilXQB1u5sD+82QcdfUTTTPi7D5PybdmshAKLXWAAfI/5mqHlbFzSk6RibviCLhLYkSNKKHDLd2uHguakLguYFhA6sCdnJ/Nl0HN8eTW5WLMO+H65Zm2mm/6QYRbXsvcuhmbdZIB+ZZ9ZuOaco9peZpQ0KkNQwZHSzN9iNepFJPhKZeSGgj4F9vIxqhM/mv/EyOW0JdFhJbpgkvOqhE8HhtKf81Ror8+1P9J+mynJuhndK5u8kaTSIxF4F9a/sNXIslPtLBZGvqlhi/uwJA2LIdIanQgQMVZA9rNdXgNLfC+Q=;6C+mckhvzAdMPtN5nydjNg=="
 ---

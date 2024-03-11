@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Groq: The new blazing-fast AI platform that beat ChatGPT and Gemini"
+    excerpt: "Groq is the ‘fast and furious’ of the LLM world offering a staggering 500 tokens per second for smaller models with an output speed of 2.5 seconds"
+    publishedDateTime: 2024-03-11T08:34:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 76
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/03/groq-AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
     excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
     publishedDateTime: 2024-03-08T14:58:00Z
@@ -53,6 +69,22 @@ related:
       - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Elon Musk says his AI startup xAI will open-source Grok chatbot, ChatGPT's rival"
+    excerpt: "Elon Musk said on Monday his artificial intelligence firm xAI will open-source \"Grok\", a chatbot rivaling OpenAI's ChatGPT, this week. The billionaire's startup launched the AI model to a small group of users last November. In a podcast episode with Lex Fridman, Musk suggested that he liked the concept of open-source AI."
+    publishedDateTime: 2024-03-11T09:03:00Z
+    webUrl: "https://www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394.html"
+    ampWebUrl: "https://www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/03/11/1600x900/elon_musk_1706669401721_1710147708569.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
     excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
@@ -77,6 +109,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "OpenAI Says Musk Agreed the ChatGPT Maker Should Become a For-Profit Company"
+    excerpt: "Elon Musk supported making OpenAI a for-profit company, the ChatGPT maker said, attacking a lawsuit from the investor."
+    publishedDateTime: 2024-03-06T14:01:00Z
+    webUrl: "https://time.com/6874035/openai-elon-musk-chatgpt-for-profit-company/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 61
   - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
     excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
     publishedDateTime: 2024-03-10T11:03:00Z
@@ -114,20 +155,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 48
-  - title: "Chatgpt Has Many Uses. Experts Explore What This Means For Healthcare And Medical Research"
-    excerpt: "The sanctity of the doctor-patient relationship is the cornerstone of the healthcare profession. This protected space is steeped in tradition – the"
-    publishedDateTime: 2024-03-06T06:47:00Z
-    webUrl: "https://menafn.com/1107940536/Chatgpt-Has-Many-Uses-Experts-Explore-What-This-Means-For-Healthcare-And-Medical-Research"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/06/TC_e2b39image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "ChatGPT Plugins are being replaced by GPTs. Here's why - and what it means for you"
     excerpt: "Integration with external services: ChatGPT Plugins allow the ChatGPT model to interact with external services and APIs. This means that the AI can fetch real-time data, perform actions like booking reservations, or retrieve information from the web directly within the conversation."
     publishedDateTime: 2024-03-07T06:21:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -44,7 +44,9 @@
         "AI",
         "AWS AI",
         "Natural Language Processing",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI"
       ]
     },
     {
@@ -108,7 +110,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 284,
       "tags": null,
       "images": null,
       "content": "",
@@ -153,7 +155,7 @@
       "originalUrl": "https://mashable.com/article/free-ai-chatgpt-courses-march",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -248,7 +250,7 @@
       "originalUrl": "https://www.techradar.com/pro/box-gets-even-smarter-with-azure-openai-service-integration",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {

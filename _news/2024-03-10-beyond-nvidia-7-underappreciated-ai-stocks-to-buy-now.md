@@ -25,20 +25,20 @@ topics:
 
 related:
   - title: "Nvidia is sued by authors over AI use of copyrighted works"
-    excerpt: "Nvidia whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform."
-    publishedDateTime: 2024-03-10T17:12:00Z
-    webUrl: "https://www.cnbc.com/2024/03/10/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/03/10/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/10/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.html"
+    excerpt: "2024 shows a US multinational Nvidia's graphic processing unit (GPU). Nvidia, whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform. Brian Keene ..."
+    publishedDateTime: 2024-03-11T09:54:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works/108389315"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107340708-1701276069835-gettyimages-1820585655-dsc_2416_wma4pvaf.jpeg?v=1708706721"
-        width: 4032
-        height: 3203
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108389315,imgsize-29130,width-1200,height=765,overlay-etbrandequity/digital/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "What you need to know about Nvidia and the AI chip arms race"
     excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 807
         isCached: true
+  - title: "Chip giant Nvidia sued by authors over AI use of copyrighted work"
+    excerpt: "Nvidia has been sued by three authors who said that the company used their copyrighted books without permission to train its NeMo AI platform. According to a report by news agency Reuters, the authors Brian Keene, Abdi Nazemian and Stewart O'Nan said that ..."
+    publishedDateTime: 2024-03-11T07:44:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chip-giant-nvidia-sued-by-authors-over-ai-use-of-copyrighted-work/articleshow/108388215.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/chip-giant-nvidia-sued-by-authors-over-ai-use-of-copyrighted-work/amp_articleshow/108388215.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/chip-giant-nvidia-sued-by-authors-over-ai-use-of-copyrighted-work/amp_articleshow/108388215.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
   - title: "Nvidia's Next-Gen AI Chip Is a 1,000W GPU: Dell Exec"
     excerpt: "We all know the B100 is the Blackwell successor to this chip, so it appears the B200 will be that GPU's second iteration, though it does not currently appear on Nvidia's roadmap (below). Nvidia's \"AI roadmap\" makes no mention of a B200, but it's possible ..."
     publishedDateTime: 2024-03-06T15:51:00Z
@@ -99,34 +110,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
-    excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."
-    publishedDateTime: 2024-03-08T03:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20240308PD212/nvidia-cuda-china-ai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240308pd212_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "This AI token is being called the Nvidia of crypto"
-    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
-    publishedDateTime: 2024-03-08T12:23:00Z
-    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 39
-    images:
-      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A World Divided Over Artificial Intelligence"
     excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
     publishedDateTime: 2024-03-11T04:21:00Z

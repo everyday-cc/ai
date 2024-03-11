@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/2024/03/10/jeff-bezos-perplexity-ai-tech-inves
 webUrl: "https://fortune.com/2024/03/10/jeff-bezos-perplexity-ai-tech-investment/?ref=biztoc.com"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia, Microsoft, and Jeff Bezos Invested in a $2.6 Billion Robotics Start-Up. Here's Why That's Good News for Tesla."
-    excerpt: "The deal with Figure AI is just another stat-line showing that there is a big interest in this area of robotics. Furthermore, given the number of artificial intelligence (AI) businesses fueling ..."
-    publishedDateTime: 2024-03-06T06:16:00Z
-    webUrl: "https://www.fool.com/investing/2024/03/06/nvidia-microsoft-and-jeff-bezos-invested-in-a/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
   - title: "Jeff Bezos’s investment in Perplexity AI has nearly doubled in value in a few months as Google challenger nears $1B unicorn status"
     excerpt: "Yet Amazon founder Jeff Bezos recently placed a bet on Perplexity AI, a startup that, despite the daunting odds, is taking on the search giant. “Startups are all about being bold,” Perplexity CEO Aravind Srinivas recently told Fortune. “Are you ..."
     publishedDateTime: 2024-03-10T13:58:00Z

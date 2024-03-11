@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "The Top 50 Language AI Companies to Watch in 2024"
-    excerpt: "Florian and Esther discuss the language industry news of the week, with Head of Research Anna Wyndham joining to give a breakdown of the 2024 Slator Language AI 50 Under 50, a list highlighting 50 of the newest and most notable language AI companies."
-    publishedDateTime: 2024-03-08T08:30:00Z
-    webUrl: "https://slator.com/top-50-language-ai-companies-to-watch-2024/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-
 secured: "r3iN8Y5bhWJNTHJAxFC2PizqKhkqFGvKv5ylOhic3horGu7ImYPeLACbzgo3D5DG5dUMIKujtS3rjHCq9rhFhPZsPzjId/cVR0bANdblTzLSnnlyfZBiV9y66I04X5glm0UhW3ibS6XfqfC7ib+Us6CkRHyPvMky0fXDWJZ2WidnupIgXUa2GERZksxaT8w1YWHGpAABuHquD+x7StHLOjiax6bj0Q+LATh8zGNs48H7RMZxoac7p+A4yvqoJeD/akaOExtoc32Ig9D6GMo//gxYUzkWiTyfsXYtqd3HN1bNaBrUuvAjIW+iCgS4bHyf2wELreTNz8XUoJL6iH7ZQPH3OQT8e+8SeE/ivGWuonyNNMnFM+BbD2JZIAuLu5y+WwIRkbBLf6dIzuZbGkE7ComQleryH9T5/g+66MXXmBwbQR1/OHBuM9bO3l9JV1l2VASzQvGNtB4HUQJPViLiaZQ49FjSNkDh0KyqzZVgklJzSe1DRGGPjQ4jogVb/OwuutGzaEYCIeMil9p+YBkvgg==;9pDMeiVtGFR8X3qix16bDQ=="
 ---
 

@@ -71,20 +71,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 69
-  - title: "Copilot dreams and nightmares: Microsoft insiders share what they really think about the company's AI future."
-    excerpt: "Wall Street is gushing about an AI productivity revolution. Inside Microsoft, the reality is less glamorous and the path to success less clear."
-    publishedDateTime: 2024-03-06T09:30:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-ai-copilot-future-openai-2024-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/65e63040ce7f1785b2e61cce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Sonata Software integrates Sonata Harmoni.AI with Microsoft Azure AI service"
     excerpt: "Sonata Software in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni.AI with Microsoft Azure AI service. This integration complements Sonata's collaboration with Microsoft Fabric and its position as a Microsoft AI Partner Council member."
     publishedDateTime: 2024-03-07T11:00:00Z

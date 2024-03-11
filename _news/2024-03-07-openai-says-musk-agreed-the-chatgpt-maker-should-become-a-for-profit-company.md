@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Open AI says Elon Musk demanded \"absolute control\" of the company or a merger with Tesla"
-    excerpt: "OpenAI has responded to Elon Musk's lawsuit, stating that Musk himself backed for-profit plans and at one point wanted “absolute control” of the company or a merger with Tesla."
-    publishedDateTime: 2024-03-06T06:49:00Z
-    webUrl: "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
-    ampWebUrl: "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/01/1672878896_chatgpt-openai_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Elon Musk sues Open AI and co-founder over alleged switch to for-profit"
     excerpt: "Elon Musk has sued the non-profit Open AI and it's co-founder Sam Altman over the company allegedly moving to a for-profit company. Open AI responded to the claims by releasing e-mails between the company and Musk."
     publishedDateTime: 2024-03-07T03:28:00Z
@@ -51,15 +35,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI Says Musk Agreed the ChatGPT Maker Should Become a For-Profit Company"
-    excerpt: "Elon Musk supported making OpenAI a for-profit company, the ChatGPT maker said, attacking a lawsuit from the investor."
-    publishedDateTime: 2024-03-06T14:01:00Z
-    webUrl: "https://time.com/6874035/openai-elon-musk-chatgpt-for-profit-company/"
+  - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
+    excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
+    publishedDateTime: 2024-03-08T19:56:00Z
+    webUrl: "https://siliconangle.com/2024/03/08/openai-elon-musk-battle-intensifies-ai-trust-sinks-investors-arent-slowing/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 61
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
 
 secured: "4jaBHgXVy1RldqftfYbn1VNRyoNkS6CZ4ydWqX6LVB3kiJ9FUNPOFCppwxcwtCIrB5LkMkf732WhY+CD0sVDBGv/OhVHBMmbirRepy2VycjakuAxnJ7k5udhWUethB0xRUzIgFtzCj0eDJ1MotjO4MMoj+TuM9eDC8j5LGK85CTOS3gd0jE2WoLTF1GxsT0lbJp+7idRe7PjTRI4KwBG4rDLS1iSeg8U19QeLY6GqRjwD7YQ2bXWP4uIWCu8ULUdjlo7lB+fdzy7HpHYCIj1qq43nwgquOjTR5LmGeLmojeXMSPDQIFnW3AXsCJ2r9rDOLFVq+hBIsdQUGjRijupDHwdPVx/kToyyMvWcsmeZ+6JAvgEghwWUAGVjqOFhqr5IlaBGUqSQ+82y7RPOHWVL6b5/gcMirv9uFW8dv5QXWXh9sYCV6IYi3TtPBeNiC1RHoRWNDk8QZrohFlV6jKe3ZY92ek/3g7Wjk/XEaRN9lH0c8Sj7jio/DSaQafDlXmYpvjCSepArxk3xRcfB/W8lg==;zyc7ixlpSi2rBxIRLFsLfw=="
 ---

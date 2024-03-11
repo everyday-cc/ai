@@ -10,7 +10,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -44,7 +44,9 @@
         "AI",
         "AWS AI",
         "Natural Language Processing",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI"
       ]
     },
     {

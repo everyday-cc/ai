@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Ethics must form bedrock of AI deployments: IBM"
+    excerpt: "Guardrails must be put in place to make AI as accessible to non-technical people as possible, IBM South Africa has said."
+    publishedDateTime: 2024-03-11T07:51:00Z
+    webUrl: "https://techcentral.co.za/ethics-must-form-bedrock-of-ai-ibm/241114/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 34
+
 secured: "ddOFSDNAs+XkmHHSIueJfkDu5/GWzUBgczBYeDxCjrJosqpZ2REzIdPsDMC8wQYioP6aIOIS67c19y1pRt4RwM/SfsjBG1nY4OucEd1BM/TItMZHaNV7pctyES/9AYt3LWwkQrPH254FuKCYxDBhUvr2tj6IBueZd/KRXqdOviM1ze2gTK212R3e47i8N9Nj4TefH5vC5Mct+9USOehil6dDxTzoq8wESis8UAR0R3O80WSxZ9YL+qqAM2Ll5+UsEc0R7NKmTtUoAUw8ISgH2itjpSCwoWA85/JotFwo1SBbU68AYTQMAu3+wqAKGLJD/bUo4zk6h5p9IcIm4c1fdzkub5T1WB4QUtujZfZg0D8eW4HyhsHT3lkI5paakHLEpF5qT5+O3kwDDdcZ2ozS7uoqVG5lqM8V/FZFH5yy4L/4fcPSCyRGxzPrv6lNhEkLdhfyAOIYFYyRMZ926zTzDvi7R4zJ8IjD0MqI69yzaCcK++i9BlxkZQpRRzKLIM0QKMXY120jahXWbks81FpZ0Q==;mLQTlaymAPIQ57fPc0fOiw=="
 ---
 

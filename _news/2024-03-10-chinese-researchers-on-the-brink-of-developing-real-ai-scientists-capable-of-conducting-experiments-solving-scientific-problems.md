@@ -59,20 +59,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Understanding IP Matters – IP and AI: Lessons for Students, Businesses and Governments"
-    excerpt: "They empahisize that AI law and ethics are not for lawyers only, but for most students. Are the lawyers who don’t focus on IP exposed to intellectual property law? Is it through contracts or are there specific courses for them? Megan Carpenter ..."
-    publishedDateTime: 2024-03-06T07:15:00Z
-    webUrl: "https://ipwatchdog.com/2024/03/06/understanding-ip-matters-ip-ai-lessons-students-businesses-governments/id=173966/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 31
-    images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2024/03/S3E8UIPM.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
 
 secured: "lXpqh/rlJY8CTbV5yGRcE2PBa5jHve/hfwra1gsRvVDmRp8pGJpbxo4SZHB7xYzzv7r+5qYkbyH2JdBsShdb74n81GTJMQQ5/LN2ZRjoMHHL9/N+8sd+Ue5L8dbYY3JAlvio8Ug51ncYny8CdsqvCDmgExL/LU4qfKxsxX2MEeDZc4qI4yGvXUzk16Oz80e6b9JJXcd4kUz23gBEG9BpG18wCtw21WFmTd0hhve9zU+LhgjR+F7rDKRBb6LxBLWO2G5EPFG7M4eomwSMyNdHtGgOeELCMV186n4FRUoW6yJkZp0EZIR6n+09aDYQKIZr9m+ph4olD/PuLdpne/ZokgvgmQCD+YiaTpUAZPTsm4dgn6ud7BtHUp/iQsu556njKDfEzYhmo1mAIAnSA4Fe+Ftagm2TUS+4ZtGiOxag21ZypiKzSOUIcvx8gSArGgi9i4JOKRYV59NcuAzXrOU3tECrVsEJ6lb9Q+T7y/olPb0d5QZrzE2TUTiH0bSeKZEd8l3+ZLGDMy0EZFjnyzvqdA==;XHNdw/m6jhOMsJkwp5FGtw=="
 ---

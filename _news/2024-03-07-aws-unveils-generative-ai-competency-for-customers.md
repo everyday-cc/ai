@@ -64,19 +64,21 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Accenture partners with Cohere to bring generative AI to enterprises"
-    excerpt: "The collaboration between Accenture and Cohere, announced today, aims to provide enterprise clients with tailored generative AI solutions that can significantly boost productivity and efficiency across industries."
-    publishedDateTime: 2024-03-06T06:29:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-partners-with-cohere-to-bring-generative-ai-to-enterprises/"
+  - title: "How generative AI will change low-code development"
+    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
+    publishedDateTime: 2024-03-11T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/03/AccentureCohere-1-.png?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 691
         isCached: true
   - title: "Microsoft's Annual Ability Summit Launches With Accessible AI Tech, Features for the Disabled"
     excerpt: "Microsoft's 14th Ability Summit takes AI to the center stage in curbing the disability divide with promises of accessible features for Windows Copilot, Azure AI, and other Microsoft applications. The annual summit is Microsoft's one-day celebration ..."

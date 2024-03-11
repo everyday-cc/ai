@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-11-pioneering-technology-ai-in-computer-vision-market-surges-to-457-billion-by-2028.md",
+      "title": "Pioneering Technology: AI in Computer Vision Market Surges to $45.7 Billion by 2028",
+      "excerpt": "The Artificial Intelligence in Computer Vision Market is expected to develop at a compound annual growth rate of 21.5%, reaching a value of USD 17.2 billion in 2023 and USD 45.7 billion by 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
+      "originalUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://q3.informazione.it/imgr/aHR0cHM6Ly93d3cubWFya2V0c2FuZG1hcmtldHMuY29tL0ltYWdlcy9haS1pbi1jb21wdXRlci12aXNpb24tbWFya2V0MTUuanBn.ZUGs9IrsSBI.jpg?w=1200&h=800&scale=both&mode=crop&anchor=topcenter",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/amp/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
+      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/amp/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
+      "publishedDateTime": "2024-03-11T07:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "informazione",
+        "domain": "informazione.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
       "title": "How to choose an AI-as-a-service provider",
       "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -44,7 +87,9 @@
         "AI",
         "AWS AI",
         "Natural Language Processing",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI"
       ]
     },
     {
@@ -1334,58 +1379,6 @@
         "name": "Breaking Defense",
         "domain": "breakingdefense.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david.md",
-      "title": "Ultrathin, energy-efficient facial recognition can identify Michelangelo’s David",
-      "excerpt": "Packing in all those optical components like lasers makes commercial dot projectors rather bulky, so it can be harder to integrate for some applications such as robotics and augmented reality, as well as the next generation of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T22:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

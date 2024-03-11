@@ -23,47 +23,163 @@ topics:
   - AI
 
 related:
-  - title: "Open AI says Elon Musk demanded \"absolute control\" of the company or a merger with Tesla"
-    excerpt: "OpenAI has responded to Elon Musk's lawsuit, stating that Musk himself backed for-profit plans and at one point wanted “absolute control” of the company or a merger with Tesla."
-    publishedDateTime: 2024-03-06T06:49:00Z
-    webUrl: "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
-    ampWebUrl: "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/"
+  - title: "28 of the best AI and ChatGPT courses you can take online for free"
+    excerpt: "TL;DR: A wide range of online AI and ChatGPT courses are available to take for free on Udemy."
+    publishedDateTime: 2024-03-07T05:00:00Z
+    webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
+      name: Mashable
+      domain: mashable.com
+    quality: 84
     images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/01/1672878896_chatgpt-openai_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://helios-i.mashable.com/imagery/articles/00utc2FpFx7bHiQyoOQjXux/hero-image.fill.size_1200x675.v1709736229.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Elon Musk sues Open AI and co-founder over alleged switch to for-profit"
-    excerpt: "Elon Musk has sued the non-profit Open AI and it's co-founder Sam Altman over the company allegedly moving to a for-profit company. Open AI responded to the claims by releasing e-mails between the company and Musk."
-    publishedDateTime: 2024-03-07T03:28:00Z
-    webUrl: "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo205623365638"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo205623365638"
+  - title: "Groq: The new blazing-fast AI platform that beat ChatGPT and Gemini"
+    excerpt: "Groq is the ‘fast and furious’ of the LLM world offering a staggering 500 tokens per second for smaller models with an output speed of 2.5 seconds"
+    publishedDateTime: 2024-03-11T08:34:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html/amp"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 76
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_03/1709782067597_now_topstory_musk_open_ai_240306_1920x1080-na2ess.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/03/groq-AI.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "OpenAI says Musk agreed the ChatGPT maker should become a for-profit company"
-    excerpt: "OpenAI has attacked a lawsuit from Elon Musk, saying he supported making the ChatGPT maker a for-profit company"
-    publishedDateTime: 2024-03-06T18:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-elon-musk-agreed-chatgpt-maker-become-profit-107838652"
+  - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
+    excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
+    publishedDateTime: 2024-03-08T14:58:00Z
+    webUrl: "https://fortune.com/education/articles/prompt-engineering-courses/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 31
+      name: Fortune
+      domain: fortune.com
+    quality: 71
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Elon Musk says his AI startup xAI will open-source Grok chatbot, ChatGPT's rival"
+    excerpt: "Elon Musk said on Monday his artificial intelligence firm xAI will open-source \"Grok\", a chatbot rivaling OpenAI's ChatGPT, this week. The billionaire's startup launched the AI model to a small group of users last November. In a podcast episode with Lex Fridman, Musk suggested that he liked the concept of open-source AI."
+    publishedDateTime: 2024-03-11T09:03:00Z
+    webUrl: "https://www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394.html"
+    ampWebUrl: "https://www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/03/11/1600x900/elon_musk_1706669401721_1710147708569.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
+    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
+    publishedDateTime: 2024-03-07T17:48:00Z
+    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
+  - title: "You can now add extra security to your ChatGPT - here's how and why you should"
+    excerpt: "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ"
+    publishedDateTime: 2024-03-08T09:12:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
+  - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
+    excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
+    publishedDateTime: 2024-03-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/chatgpt-vs-claude-3-Pros-and-Cons-compared.jpg"
+        width: 1280
+        height: 710
+        isCached: true
+  - title: "This AI malware worm is capable of turning ChatGPT against you"
+    excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
+    publishedDateTime: 2024-03-08T22:34:00Z
+    webUrl: "https://bgr.com/tech/this-ai-malware-worm-is-capable-of-turning-chatgpt-against-you/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1119
+        isCached: true
+  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
+    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
+    publishedDateTime: 2024-03-08T17:10:00Z
+    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 48
+  - title: "ChatGPT Plugins are being replaced by GPTs. Here's why - and what it means for you"
+    excerpt: "Integration with external services: ChatGPT Plugins allow the ChatGPT model to interact with external services and APIs. This means that the AI can fetch real-time data, perform actions like booking reservations, or retrieve information from the web directly within the conversation."
+    publishedDateTime: 2024-03-07T06:21:00Z
+    webUrl: "https://www.zdnet.com/article/on-march-19-chatgpt-plugins-get-replaced-by-gpts-heres-why-and-what-it-means-to-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
+  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
+    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
+    publishedDateTime: 2024-03-08T15:51:00Z
+    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Best AI Chatbots for 2024"
+    excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
+    publishedDateTime: 2024-03-10T06:42:00Z
+    webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
+        width: 1548
+        height: 776
+        isCached: true
 
 secured: "a1xpt23IMO7j5rz6e+xFBFZFWhUKPP0+tFUhGhSCh5dWEwNI7CyzI7FuqE+O8tk8OKROOdiAzFvNgU/uegumbhg+7eZwpOZW0pJeZdrGmpTaS1xIOP9wRCtdXFVo1WTeMzGcKJHQq38sqeDexhRWY1C6OlWayewkER3pDStIAW2UqPdJ3admBJQtNm/f6GjwiTvFFQOK7m8Jc3Y9ZDaRBUmZLFXuEiTGF1HXPjYStO6INLQnQwCtYXIej4S5oktd0t/L+GsOPyKVoPgAfVeBwXt2HsqCTKGoZhMYr1S3sN2e256NIqhdMo7SdYVL6aguO6M71U4tzoDhH158iqxTczMhNGUJQ0owXuqMFL6adZV6AqMbhhI3hJMoWYnLTEDAvZJnYLdy6gLWI2QNeytKVUc6Bcnjerndvop8PShfrjs5CXkzPLaK8kIdAWQEbnCN9J6eGwW082xf2WnSo596dHvE8TnhyhzccqeFbhGG7BQ9h75v0427gu30TgkyRe6RHqZAZIMv4Wn7ORkLm9wjjA==;4QAQsHsa3vAGlWAVRG5G0g=="
 ---

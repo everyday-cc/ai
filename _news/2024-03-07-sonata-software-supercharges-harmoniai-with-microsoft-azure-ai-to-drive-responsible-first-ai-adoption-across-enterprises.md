@@ -72,20 +72,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 69
-  - title: "Copilot dreams and nightmares: Microsoft insiders share what they really think about the company's AI future."
-    excerpt: "Wall Street is gushing about an AI productivity revolution. Inside Microsoft, the reality is less glamorous and the path to success less clear."
-    publishedDateTime: 2024-03-06T09:30:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-ai-copilot-future-openai-2024-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/65e63040ce7f1785b2e61cce?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
     excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
     publishedDateTime: 2024-03-07T14:43:00Z

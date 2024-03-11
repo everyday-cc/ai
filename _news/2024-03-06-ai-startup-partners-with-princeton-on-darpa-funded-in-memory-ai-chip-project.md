@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2024/03/ai-startup-partners-with-princeton-o
 webUrl: "https://insidehpc.com/2024/03/ai-startup-partners-with-princeton-on-darpa-funded-in-memory-ai-chip-project/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: insideHPC
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Computing: Inside Princeton’s Trailblazing AI Chip Technology"
-    excerpt: "Princeton's advanced AI chip project, backed by DARPA and EnCharge AI, promises significant improvements in energy efficiency and computing power, aiming to revolutionize AI's accessibility and application."
-    publishedDateTime: 2024-03-08T18:37:00Z
-    webUrl: "https://scitechdaily.com/revolutionizing-computing-inside-princetons-trailblazing-ai-chip-technology/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 31
   - title: "EnCharge AI Partners with Princeton University on Groundbreaking AI Chip Technology Supported By U.S. Department of Defense (DoD)"
     excerpt: "Key to this Princeton University -EnCharge AI project is Dr. Naveen Verma, Professor of Electrical and Computer Engineering at Princeton and c-founder and CEO of EnCharge AI. Many of the innovations the OPTIMA project seeks to further develop were discovered in Dr. Verma's Princeton lab, in part with previous funding by DARPA and DoD."
     publishedDateTime: 2024-03-06T15:20:00Z

@@ -74,56 +74,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "NPCI Inks Pact With IISc To Conduct Research On AI, Blockchain"
-    excerpt: "NPCI's pact with Indian Institute of Science (IISc) will propel further innovation through the establishment of the a Centre of Excellence"
-    publishedDateTime: 2024-03-06T09:47:00Z
-    webUrl: "https://inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/"
-    ampWebUrl: "https://inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-inks-pact-with-iisc-to-conduct-research-on-ai-blockchain/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 39
-  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
-    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
-    publishedDateTime: 2024-03-06T07:08:00Z
-    webUrl: "https://yourstory.com/2024/03/npci-joins-hands-iisc-joint-research-blockchain-ai-tech"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/98e25df018b511e988ceff9061f4e5e7/Image21vt-1687328418129.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "NPCI Joins Hands With IISc For Joint Research On Blockchain, AI"
-    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement."
-    publishedDateTime: 2024-03-06T07:08:00Z
-    webUrl: "https://www.ndtvprofit.com/technology/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 39
-    images:
-      - url: "https://media.assettype.com/bloombergquint%2F2023-09%2F79a21d8a-fce8-41fc-83b5-5d03a11a9220%2FF5P4iQzbQAA51CA.jpg?rect=0%2C115%2C1024%2C538&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1024
-        height: 538
-        isCached: true
-  - title: "NPCI joins hands with IISc to conduct joint research on blockchain, AI"
-    excerpt: "The partnership will focus on scalable blockchain platforms and multi-modal analytics over fintech data, NPCI said in a statement"
-    publishedDateTime: 2024-03-06T09:05:00Z
-    webUrl: "https://www.business-standard.com/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/finance/news/npci-joins-hands-with-iisc-to-conduct-joint-research-on-blockchain-ai-124030600487_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
     excerpt: "The collaboration includes the establishment of NPCI-IISc Centre of Excellence for Deep Tech Research & Development. It focuses on scalable blockchain platforms, multi-modal analytics, neural networks,"
     publishedDateTime: 2024-03-07T05:27:00Z

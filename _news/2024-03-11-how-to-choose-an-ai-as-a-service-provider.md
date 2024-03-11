@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intellig
 ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 type: article
-quality: 65
-heat: 115
+quality: 69
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,8 @@ topics:
   - AWS AI
   - Natural Language Processing
   - Microsoft AI
+  - Machine Learning
+  - IBM AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
@@ -72,6 +74,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
+    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
+    publishedDateTime: 2024-03-11T08:42:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 33
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
+        width: 424
+        height: 283
+        isCached: true
   - title: "Manufacturers, Software Providers Lean Into Artificial Intelligence"
     excerpt: "On the manufacturer side, HVAC engineers are using data-gathering capabilities to introduce all kinds of innovations in indoor comfort. One of those is Mitsubishi Electric Trane HVAC US LLC (METUS), whose 3D i-See Sensor can thermally scan an interior space, analyzing the temperature profile of the room to detect cool and warm spots."
     publishedDateTime: 2024-03-06T19:00:00Z
@@ -91,6 +109,6 @@ related:
       domain: slator.com
     quality: 4
 
-secured: "OIbNhIJ4siwruvxT910v7mKIrtsvgaAfMN0s8SlDhrOtP9FbVUH2/Z9pZT9yt0i1XVpuOOsFeG88Nw5Tz3sQCzdEuHKsdKpd/kmJ14WqHNGjnjkWqQVx5nwbWigVgZu6nVHlbd2NDN4nzej/a/tet2xTPEWX1Hsj/1Ts7/02aFrRDemCQ8zNlyAwsWconXN4ms/r1SLybGecO16QWNn8n9l11hy3wCWbqiJ2qE4aNbkG8/MKEHmuS/BNe/TFksYIErXvFQCEKP6uoqqvupIE26IJrjdOonj+0mmGqV+QpD1QhI9TtsbgSp5v7qlQFYcW47DrxFP3QMPTTyNC3A1OqnSPg9pMRv6pZQRr1ibS/AwTkKi4y8OOpAEWxIufBDBZvZy6dvQBzw8h4JVubGgY3cwqP1BU8CPb7BkNYO1y206ynBfYTTkXSxytTfdwRbdGgTGoICP+6eWPxN65FuaneDeurgHgUNeWRJRGYLhLuC+MdaCTGCX/SNopYiNeOmUsVRmc+hJ8++uEGTP0mIFUjQ==;1Z6pyut737tv81dFnZLJxA=="
+secured: "HV2TUPGpslok+aw/EO3iVTOpKmRR0a8P158MBZt5aAXxis/uktRwgWfj/mady63TyIXFIauNprawl7th834YN/WW9+YWIOuFor7HHcf00ViFGG45gHC9/qV5Stj9mnuZNyeE9pSI5ckBq53XTD9lTztrf1ha72+Ypg+biQ7SYn84zNLdmerx9zeI4YYV5jC/2ECAj9rLoDj7sLCsQ/tGeTUG/r/nLlGyOQ32/YsIiMLsMIn6trP7UuDnHzu2of0CooCp+b34pdELe/aSbzMpuZM9RzApcZn7bhM1xUcJcFzwSrvDKsxPbC8u50zyMJr2pd427O0sv7Ja8FJMPPBXuVlJovbAYqnGUMmmmgJRubPEBgDtIVdQ8EV1fBc+mPC9ouqXbF4G51GMcD+RLZPvrPLMawcNc1fqXdYTcak+YLX/JLngStc5ww79weWPujsGuMgu1it8d28wgU2G+/020zwi6aIwXAVmyQbgW3KOfIF01VXIhdRaJZeV1dpa/rOnveKk+F83iXksvmEoTaktHw==;YPckzqig7DUX4AHA/Vy74A=="
 ---
 

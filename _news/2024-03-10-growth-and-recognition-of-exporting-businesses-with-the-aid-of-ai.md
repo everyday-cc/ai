@@ -39,6 +39,15 @@ related:
         width: 1075
         height: 900
         isCached: true
+  - title: "Three Lessons for (Business) Leaders in the Age of AI"
+    excerpt: "Artificial intelligence can potentially transform our lives in ways we can barely even imagine. But for all the potential upside, there are important considerations business leaders should keep in mind."
+    publishedDateTime: 2024-03-11T06:37:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/758027/three-lessons-for-business-leaders-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 19
 
 secured: "uVdQmQlBB3C856GNw9QHd2e+fIpdJ+A6nTLXBwK2yFnduktkk9ojaOF0XeiX/U8rDY5f67R9xhGuGSmreleSBU5kB6DaVeV7FpOcOLYzwJ/7rMiXVQJffBsH7GGSWylMfpkbN7GJ/lZ3Jx/yf0acPTCk7z3Ahi5vQhlEA2q26laaOaYNUSt5LVSmoSb9vagZp805ie2EBBRD2xHN4WWKmk0jdWrxNV6PFetuRlt75LWNHW70FG48zLVBmsHx+CUhWo+Z2RbNHSifpBrhMjw5EHKDdrsap5n/ebpKYLcb+DFJqn88ebpJsSD+LS6ngqvaZ/6hc1QZoYPQ7H0HvOrMC0vZ76D3CFrbMn3UjNPWcOtFD2hbilM1oK0y/NVnNPW2oQ20mde/L8fPzxq/OPUzThJ2+Gh8Jc4fSyKULIuWbV3JJ+iUXuQ4N560aJK7rOcHl85N40dqi0Huma/UylNetwXOpMTJtWB3iDQFScxjIikd/1meufDh1D/DLDBQSJNrDZ2zchQlWSeM95ArEF2qGQ==;YXoLRTYKo2+lQq3sppiSKg=="
 ---

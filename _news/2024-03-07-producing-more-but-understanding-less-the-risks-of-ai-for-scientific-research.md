@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2024/03/producing-more-but-underst
 webUrl: "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Understanding IP Matters – IP and AI: Lessons for Students, Businesses and Governments"
-    excerpt: "They empahisize that AI law and ethics are not for lawyers only, but for most students. Are the lawyers who don’t focus on IP exposed to intellectual property law? Is it through contracts or are there specific courses for them? Megan Carpenter ..."
-    publishedDateTime: 2024-03-06T07:15:00Z
-    webUrl: "https://ipwatchdog.com/2024/03/06/understanding-ip-matters-ip-ai-lessons-students-businesses-governments/id=173966/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 31
-    images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2024/03/S3E8UIPM.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
     excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
     publishedDateTime: 2024-03-10T09:03:00Z

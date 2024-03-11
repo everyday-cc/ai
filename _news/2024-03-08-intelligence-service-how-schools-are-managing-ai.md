@@ -35,7 +35,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 65
+    quality: 69
     images:
       - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
         width: 1200
@@ -68,6 +68,22 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1351969920_bxksd5.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
+    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
+    publishedDateTime: 2024-03-11T08:42:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 33
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
+        width: 424
+        height: 283
         isCached: true
   - title: "Manufacturers, Software Providers Lean Into Artificial Intelligence"
     excerpt: "On the manufacturer side, HVAC engineers are using data-gathering capabilities to introduce all kinds of innovations in indoor comfort. One of those is Mitsubishi Electric Trane HVAC US LLC (METUS), whose 3D i-See Sensor can thermally scan an interior space, analyzing the temperature profile of the room to detect cool and warm spots."

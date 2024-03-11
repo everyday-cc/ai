@@ -1,0 +1,47 @@
+---
+category: news
+title: "Robert Downey Jr looks ‘annoyed’ after Jimmy Kimmel targets his addiction history in Oscars speech"
+excerpt: "Fans have criticised Oscars host Jimmy Kimmel after the comedian cracked a joke about Robert Downey Jr’s past drug addiction in his opening monologue. The 96th Academy Awards takes place on Sunday (10 March),"
+publishedDateTime: 2024-03-11T07:00:00Z
+originalUrl: "https://www.aol.com/news/robert-downey-jr-looks-annoyed-000014838.html"
+webUrl: "https://www.aol.com/news/robert-downey-jr-looks-annoyed-000014838.html"
+type: article
+quality: 10
+heat: -1
+published: false
+
+provider:
+  name: AOL
+  domain: aol.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_the_independent_us_877/234c974dfedff84936f95b704083ffea"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Oscars host Jimmy Kimmel makes cringe joke about Cillian Murphy in opening speech as star makes awards history"
+    excerpt: "OSCARS host Jimmy Kimmel opened the show with a cringe joke about how to pronounce Cillian Murphy’s name before the Irish star made history. The Corkman won the Oscar for Best Actor at last"
+    publishedDateTime: 2024-03-11T08:47:00Z
+    webUrl: "https://www.thesun.ie/tvandshowbiz/12385361/cillian-murphy-makes-history-win-best-actor-oscar-oppenheimer/"
+    ampWebUrl: "https://www.thesun.ie/tvandshowbiz/12385361/cillian-murphy-makes-history-win-best-actor-oscar-oppenheimer/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tvandshowbiz/12385361/cillian-murphy-makes-history-win-best-actor-oscar-oppenheimer/amp/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 24
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2024/03/MixCollage-11-Mar-2024-09-46-AM-4293.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "oHb7m32auWxoBuOXlJnX5lC7Dv+mOGNfoSvBl0DNeibbbha9P/GtkbMvi8wwZpNqBulHNFSvba6SCbkaL0o+vGulx51roWe9Aey8C54wqxc1rcPV6sRQkSukf0E7Sq0Tps7YUiW9xYHkZ/8CJyS8O1Dz67Wq8FuPxUMxT6m0YR/uziKAbvor31xD3zhVwEgZtuIFbZMF4IGM4LKW1c/l+F6r/fIRpCScB7IKOo/fi2B9MF9kD7umzk1Z4w56HDxUlFgPqhxQgtBn96fWPjjjdBeA//3T7hBDzjI2PoNDUAoCbSWlHD/hYOStf9Yg6/8272Wcwwx02RdeOQq3JE2xTG3CmJRkgCP7389CObJ9hzs=;c4dK23diwf4vKY50eh/QHg=="
+---
+
