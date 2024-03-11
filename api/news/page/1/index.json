@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-11-10-ai-predictions-for-the-year-2030.md",
-      "title": "10 AI Predictions For The Year 2030",
+      "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
+      "title": "5 AI Predictions For The Year 2030",
       "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -49,6 +49,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -216,7 +217,7 @@
       "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2024/03/10/chai-is-the-goo-goo-of-health-care-ai-but-not-yet-a-revolutionary/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {

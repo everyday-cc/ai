@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anthropic Ups Its AI Chatbot Game With Claude 3, Rival to ChatGPT and Gemini"
-    excerpt: "AI startup Anthropic said Monday that the latest version of ... Opus, on the other hand, can plan and execute complex actions across APIs and databases and perform research and development tasks like brainstorming and hypothesis generation and even drug ..."
-    publishedDateTime: 2024-03-06T00:45:00Z
-    webUrl: "https://www.cnet.com/tech/anthropic-ups-its-ai-chatbot-game-with-claude-3-rival-to-chatgpt-and-gemini/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 83
-    images:
-      - url: "https://www.cnet.com/a/img/resize/6a110345d1f9a94f4a40d55bab492847a9dc8b19/hub/2024/03/05/d74b3cfb-af75-44d2-85c4-115f110de078/claude-3-launch.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
     excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
     publishedDateTime: 2024-03-08T14:58:00Z

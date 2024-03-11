@@ -51,15 +51,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant"
-    excerpt: "Plus, at the Trailblazer TDX 2024 conference, Salesforce introduced the Slack Developer Program and showed research into AI adoption and IT."
-    publishedDateTime: 2024-03-06T13:00:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-trailblazer-tbx-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 42
   - title: "Salesforce aims to blaze new generative AI trail for developers with Einstein 1 Studio"
     excerpt: "Einstein 1 Studio provides a set of tools that can enable developers to customize the Salesforce Einstein Copilot gen AI assistant."
     publishedDateTime: 2024-03-06T13:00:00Z

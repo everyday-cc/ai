@@ -7,7 +7,7 @@ originalUrl: "https://healthtechmagazine.net/article/2024/03/healthcare-leaders-
 webUrl: "https://healthtechmagazine.net/article/2024/03/healthcare-leaders-remain-focused-cybersecurity-and-efficiency"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "7 ways AI will both help and complicate cybersecurity in 2024"
-    excerpt: "Every new AI technology brings a fresh wave of interest and enthusiasm and new ways to apply it to bolster network defences, from machine learning (ML) to Natural Language Processing (NLP) and generative AI such as ChatGPT. Amongst all this enthusiasm ..."
-    publishedDateTime: 2024-03-06T00:44:00Z
-    webUrl: "https://itwire.com/business-it-news/security/7-ways-ai-will-both-help-and-complicate-cybersecurity-in-2024.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
-        width: 600
-        height: 260
-        isCached: true
   - title: "'Facepalm For Facebook': Meta Outage Highlights Weakness, Declining Cybersecurity Trust"
     excerpt: "Also Read: ‘Apple At A Crossroads’ Analyst Says: Company Must Step Up On AI Or Get Left Behind Cybersecurity ... reliant on a second device.” Facebook’s outage came on the same day as the publication by research and public relations firm Edelman ..."
     publishedDateTime: 2024-03-06T10:33:00Z

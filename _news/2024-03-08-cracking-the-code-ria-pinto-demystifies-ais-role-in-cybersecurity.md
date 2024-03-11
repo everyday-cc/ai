@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "7 ways AI will both help and complicate cybersecurity in 2024"
-    excerpt: "Every new AI technology brings a fresh wave of interest and enthusiasm and new ways to apply it to bolster network defences, from machine learning (ML) to Natural Language Processing (NLP) and generative AI such as ChatGPT. Amongst all this enthusiasm ..."
-    publishedDateTime: 2024-03-06T00:44:00Z
-    webUrl: "https://itwire.com/business-it-news/security/7-ways-ai-will-both-help-and-complicate-cybersecurity-in-2024.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
-        width: 600
-        height: 260
-        isCached: true
   - title: "Healthcare Leaders Remain Focused on Cybersecurity and Efficiency"
     excerpt: "Healthcare CIOs are taking stock of their security ecosystems as they prepare to innovate with emerging technologies."
     publishedDateTime: 2024-03-06T20:01:00Z

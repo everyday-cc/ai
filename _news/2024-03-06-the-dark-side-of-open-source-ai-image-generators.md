@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generat
 webUrl: "https://www.wired.com/story/dark-side-open-source-ai-image-generators/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.searchenginejournal.com/wp-content/uploads/2022/05/ai-content-generators-6273d3bbc7264-sej.png"
         width: 1600
         height: 840
-        isCached: true
-  - title: "Writing still matters in the age of artificial intelligence"
-    excerpt: "The writing process can also flush out the hidden nuance and dimension of the topic at hand, providing writers with a more complex understanding of what they’re writing about."
-    publishedDateTime: 2024-03-06T00:25:00Z
-    webUrl: "https://www.michigandaily.com/opinion/writing-still-matters-in-the-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 39
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/Writing-still-matters-in-the-age-of-AI.png"
-        width: 2400
-        height: 1600
         isCached: true
 
 secured: "VB/OgB/dXlzPWKgE0ph4ttYdCkoYeAHnH1SpqDYg/Qkx1EjuBhqW4jMp3w5iMnpkIuDGmlYDtbT6Hc3864L5laPf8CBki+K28mxoXXyU/xs5hQFYRC8FhG0amNXf4iMescTV4FVkPqxqMabm/dozX1vL94prn54VEZnizB4wupMIdIWd4S6bI+oSrYkCezGq5PtV7ZcIOXdswbDBWIA5Z3B09WJbxZ/jSYrNHQUSoyS+3ISxmp5ie9YmMifPodpnUh1w0zFuQ9YXkY+LVwoCIwGsfc21xp1h/X/sXhtmiA2Yjrl6KiS3K3X6N876m8iLbQh51P1IgIY+Brt3lqQ9vW2ij8TutAyxZ4eeOKkkEYz6XJXE2Agct4UxPf5oXIhIIMqSX0DbOG9bpYwY+z090usYnmo0cZYinYnN/Qyo979y4Ofmv1pxIOpgeQ4SoWmuCcaFUuBaUInfv5HPBODsURy6qT0m1dVKurDlVbHuXjwsKEwl2kvwHboE4FYqfVXsRVfB415lWHMLQ8ZMFD8+Ag==;TI0T8g8+3/p3yA+nYkBoUQ=="

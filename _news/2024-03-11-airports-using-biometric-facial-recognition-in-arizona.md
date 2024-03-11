@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Airports using biometric facial recognition in Texas"
-excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
-publishedDateTime: 2024-03-08T05:58:00Z
-originalUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
-webUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
+title: "Airports using biometric facial recognition in Arizona"
+excerpt: "(Stacker) - The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ..."
+publishedDateTime: 2024-03-10T23:39:00Z
+originalUrl: "https://www.azfamily.com/2024/03/10/airports-using-biometric-facial-recognition-arizona/"
+webUrl: "https://www.azfamily.com/2024/03/10/airports-using-biometric-facial-recognition-arizona/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: AZFamily
+  domain: azfamily.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/TREEWK3BYBA3DHAVCRGHRPWFNA.png?auth=25a9a03572e1d59ccc0f210a9f495daa08ca5f6c8a0b7a1c996c40c85bd5ec00&width=1200&height=600&smart=true"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Airports using biometric facial recognition in Florida"
@@ -32,20 +38,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DVRK2BHLAZGBXGV3QJLBZQF2B4.jpg?_a=ATAPphC0"
         width: 700
         height: 394
-        isCached: true
-  - title: "Airports using biometric facial recognition in Arizona"
-    excerpt: "(Stacker) - The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ..."
-    publishedDateTime: 2024-03-10T23:39:00Z
-    webUrl: "https://www.azfamily.com/2024/03/10/airports-using-biometric-facial-recognition-arizona/"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 54
-    images:
-      - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/TREEWK3BYBA3DHAVCRGHRPWFNA.png?auth=25a9a03572e1d59ccc0f210a9f495daa08ca5f6c8a0b7a1c996c40c85bd5ec00&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Airports using biometric facial recognition in Missouri"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Missouri for security screenings, according to Customs and Border Protection."
@@ -83,7 +75,16 @@ related:
       name: The Bellingham Herald
       domain: bellinghamherald.com
     quality: 34
+  - title: "Airports using biometric facial recognition in Texas"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-08T05:58:00Z
+    webUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 34
 
-secured: "w6+1AykijKavBUHnHTuiRsbUy6URAOZwbFGS6UZ95Wjz/tsfYQsD0utfft01cJ7g0lci5bxoUU5pCmz5p6QMneAkhVkNMvV0MoR63y8IAETTwDrIscbSHP6HS7TJJTI0Nl1isHQY5bjXGykNgahsR+OPi75bHxqYqPaAQApvAIJb9AgvYoEm+8SCLFHF6ohIWEAXGt2K/PK7mnPlzWEOpj2s+fFzxjXPDfK8yekihOGLNU6ON4OXudA/Ai0614mImaU+1lb9UIDVEULk5NNSy3loDw7pGv53fQZSluTDC184DE2Z3kRoY8wXRu1uj4jgOgr60Dp0N7S3t0Md1jkOV/11EOwDYfyeg5LZQHVyDP+XaLu0MyypiRdLnd0PZshj37bGDxZDy9DEZnT2CATZZ0IoWMd0UZpW7F83NP0px8P1e/T03fpvg7nrTCwyYTmCHW+dbkPoMg2n5eenP/fKIPqAP9COhoFJjHAFk1b2JHJ1qqe0M6QvZQS/vxYiM9zLLJIhieqmGo832WbDUZZ5hQ==;wlLgwGslNXFvXKq5B1t8dQ=="
+secured: "hk/eeK77jhgr1YLPWF8W1QKfcSgZxcTzhcn+9z1buHijGVbkPryqztnOSdGhvi1gW4jFSuRRw9mSUHL9MHVXdG3OonQHKv982cqmS8ZUaqj0KUrJXYNiOsAmt92dmpSeDbu6mpfz2gkmmIRbldL1YXeKc/JuU6EJvWHq4RHL7zf6h2frUP8B16+BcbLbEZ1qt3P5A8VRsfFWrFxlovAMl15lVDYOU21zP1U5HiIplv+Sz2yu9lIvHsUA/6AV4VVEKXcFKP7TUlaCZXbMsPJwaaryqJCEW2eB0TXMa44E1gUkya1DuSR5b2tXaovjzxv9wLVCu9iEIrVOHwMVCLjtVNFMMGz2AnVloPrNac3VnuI=;joKYqBdVVP07CA4umcEjzQ=="
 ---
 

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 AI Predictions For The Year 2030"
+    excerpt: "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center."
+    publishedDateTime: 2024-03-10T23:30:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "10 AI Predictions For The Year 2030"
     excerpt: "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center."
     publishedDateTime: 2024-03-10T23:30:00Z

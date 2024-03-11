@@ -156,7 +156,7 @@
       "originalUrl": "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -837,57 +837,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-ai-integration-in-aerial-imagery-spells-big-changes-for-key-industries.md",
-      "title": "AI Integration In Aerial Imagery Spells Big Changes For Key Industries",
-      "excerpt": "These technologies can have a big impact on local governments, insurers and commercial developers. Here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/ai-integration-in-aerial-imagery-spells-big-changes-for-key-industries/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/ai-integration-in-aerial-imagery-spells-big-changes-for-key-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e8cca6d9e4e51831726f75/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1202,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-07-yeo-messaging-unveils-revolutionary-continuous-facial-recognition-sdk.md",
       "title": "YEO Messaging Unveils Revolutionary Continuous Facial Recognition SDK",
       "excerpt": "YEO Messaging has introduced Continuous Facial Recognition SDK at MWC Barcelona, preventing unauthorised access and breaches in confidentiality.",
@@ -1170,6 +1119,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-28-of-the-best-ai-and-chatgpt-courses-you-can-take-online-for-free.md",
+      "title": "28 of the best AI and ChatGPT courses you can take online for free",
+      "excerpt": "TL;DR: A wide range of online AI and ChatGPT courses are available to take for free on Udemy.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/free-ai-chatgpt-courses-march",
+      "originalUrl": "https://mashable.com/article/free-ai-chatgpt-courses-march",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/00utc2FpFx7bHiQyoOQjXux/hero-image.fill.size_1200x675.v1709736229.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

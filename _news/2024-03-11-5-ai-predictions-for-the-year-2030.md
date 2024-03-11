@@ -1,46 +1,36 @@
 ---
 category: news
-title: "The Pentagon is funding new chip designs for the AI era"
-excerpt: "But that high stock valuation bespeaks a big problem: the demand for chips that can run energy-intensive AI applications far exceeds supply. That’s an especially big problem for the military, which is looking to run complex AI programs in environments ..."
-publishedDateTime: 2024-03-06T22:28:00Z
-originalUrl: "https://www.defenseone.com/technology/2024/03/military-funding-new-chip-designs-ai-era/394749/"
-webUrl: "https://www.defenseone.com/technology/2024/03/military-funding-new-chip-designs-ai-era/394749/"
+title: "5 AI Predictions For The Year 2030"
+excerpt: "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center."
+publishedDateTime: 2024-03-10T23:30:00Z
+originalUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/"
+webUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/"
+ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 89
+heat: 169
+published: true
 
 provider:
-  name: Defense One
-  domain: defenseone.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.defenseone.com/media/img/cd/2024/03/06/GettyImages_1529796422_1/open-graph.jpg"
-    width: 400
-    height: 400
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds"
+    width: 1599
+    height: 900
     isCached: true
 
 related:
-  - title: "5 AI Predictions For The Year 2030"
-    excerpt: "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center."
-    publishedDateTime: 2024-03-10T23:30:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
   - title: "10 AI Predictions For The Year 2030"
     excerpt: "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center."
     publishedDateTime: 2024-03-10T23:30:00Z
@@ -68,6 +58,20 @@ related:
     quality: 59
   - title: "The military is funding new chip designs for the AI era"
     excerpt: "But that high stock valuation speaks to a big problem: demand for chips that can run energy-intensive AI applications far exceeds supply. That’s an especially big problem for the military, which is looking to run complex AI programs in environments where ..."
+    publishedDateTime: 2024-03-06T22:28:00Z
+    webUrl: "https://www.defenseone.com/technology/2024/03/military-funding-new-chip-designs-ai-era/394749/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 54
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2024/03/06/GettyImages_1529796422_1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The Pentagon is funding new chip designs for the AI era"
+    excerpt: "But that high stock valuation bespeaks a big problem: the demand for chips that can run energy-intensive AI applications far exceeds supply. That’s an especially big problem for the military, which is looking to run complex AI programs in environments ..."
     publishedDateTime: 2024-03-06T22:28:00Z
     webUrl: "https://www.defenseone.com/technology/2024/03/military-funding-new-chip-designs-ai-era/394749/"
     type: article
@@ -127,6 +131,6 @@ related:
       domain: eschoolnews.com
     quality: 15
 
-secured: "1pcUoO3L5qNFH9cUTJFFy9CxzFoTEcFp1l5n+TQb3PipbENEHwPIaCkrwSEiXm5D22SL3iamBI9JlrdIEVpEu3va+sk3i/UhdHECd0o05g9/TE4acn7L2ewIVC0RtRD3XS39N9WK1xFJ0jA+G7gWnwZml3FNbQnOKQdzAH/FMdNzW7ZqXcpZdc5GlQnp5i6tgEBh3xIzRv0DnypXqmwH+70QUzGuGYdSO2q1rDJ+lxT/4lw3080a6BwwAiteWqtC67Flkp08mVFzaDHA4EmU8iqwwU1EBhtxMoAUOSMquAvnlRFHVlpgyP6s1ka/R32aB2DVMWVHWLGutyUr3FFJHAaGhukn1idVXE2S1rEjKYLipAhcoq4pRPsUYutptEc2pkS3aq1rWb50rJ0p17umNmla3t4/VDqZOrxjZh20hvi0l/jawlenclBrbvH3n2NGjWbQy+Fq80CWfV71Aj4A7PSxoNP1k533xeEMKxghjYWZBXVhcPNICXjJWFmP6UqJf9otbBR7J2kw1WHn3rTHIA==;vOvEWqDGjYTYqCsT6Gj1UA=="
+secured: "JbznM9U+lYnmi5Vaqxus5yYLMhb47pqesepNirXALUUXp7FluOmFKZbdFGHhygQ5ZyLDjATLmak8vqu9GtkXTrbRliyc+ku4ZqsFpKODjjbA2TpH4dJ53bwiTdxKlecXDkISRFlPpOAfFvtMj0oxXXq1/SPEkZBjvshw9M+FNaaEpqE3acYsBywcleP0v3j6Z/bfJZBh0iqyLLyTNU5hyal0648xVsgZ/0EsPwAY/Uewq7p0CyHP2QroOGek0gJ3Hj9qBfFz4O0k3l1vUJgGqO0VclX729MP1UX9IR7E91YfLHlarQeJFwTkzJUHVx2nFWXVyDwWTX5mTYkizXiM6roAXK4CoyJf6DRPn8dnyGc=;Bs//7NQn80NjuAV9cRvwEA=="
 ---
 

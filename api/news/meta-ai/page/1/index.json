@@ -194,6 +194,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-salesforce-rolls-out-customization-tool-for-einstein-copilot-generative-ai-assistant.md",
+      "title": "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant",
+      "excerpt": "On March 6, the CRM giant rolled out: Einstein 1 Studio, which can be used to customize the Einstein AI assistant. A Slack Developer Program. Research on how tech leaders and IT workers perceive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/salesforce-trailblazer-tdx-generative-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/salesforce-trailblazer-tdx-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/03/salesforce-einstein-copilot.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-how-does-ai-support-creativity-a-marketing-perspective.md",
       "title": "How does AI support creativity? A marketing perspective",
       "excerpt": "Some might argue that creativity and AI only go together because leveraging AI for routine work paves the way to being more creative. But it's not as simple as that. AI can play a strategic role in creativity, and James Manderson, SVP of Customer Success at Braze, helps explain how.",
@@ -1379,58 +1431,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-some-gen-z-workers-are-turning-to-ai-for-career-advice-and-its-actually-not-a-bad-idea.md",
-      "title": "Some Gen Z workers are turning to AI for career advice and it's actually not a bad idea",
-      "excerpt": "So, while relying on artificial intelligence for career inspo can be a move of desperation ... much their actions shape the success of those under them, Daniel Jolles, a research assistant in behavioral science at the Inclusion Initiative at the London ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2",
-      "originalUrl": "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d78899f533b039a886088e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-career-advice-coach-gen-z-workers-get-ahead-2024-2?amp",
-      "publishedDateTime": "2024-02-23T11:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

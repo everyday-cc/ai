@@ -33,6 +33,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Airports using biometric facial recognition in Arizona"
+    excerpt: "(Stacker) - The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ..."
+    publishedDateTime: 2024-03-10T23:39:00Z
+    webUrl: "https://www.azfamily.com/2024/03/10/airports-using-biometric-facial-recognition-arizona/"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 54
+    images:
+      - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/TREEWK3BYBA3DHAVCRGHRPWFNA.png?auth=25a9a03572e1d59ccc0f210a9f495daa08ca5f6c8a0b7a1c996c40c85bd5ec00&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Airports using biometric facial recognition in Pennsylvania"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Pennsylvania for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-03-07T13:56:00Z

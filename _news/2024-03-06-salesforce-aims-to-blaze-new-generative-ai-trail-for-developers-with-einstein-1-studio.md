@@ -55,15 +55,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant"
-    excerpt: "Plus, at the Trailblazer TDX 2024 conference, Salesforce introduced the Slack Developer Program and showed research into AI adoption and IT."
-    publishedDateTime: 2024-03-06T13:00:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-trailblazer-tbx-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 42
   - title: "UNESCO Welcomes Salesforce to Business Council for Ethics of AI to Promote Responsible Technology"
     excerpt: "UNESCO and Salesforce, the #1 AI CRM, have announced a new partnership to advance the responsible development and deployment of AI for the benefit of humanity."
     publishedDateTime: 2024-03-07T21:05:00Z

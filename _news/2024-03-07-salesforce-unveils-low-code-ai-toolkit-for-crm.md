@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-cod
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant"
-    excerpt: "Plus, at the Trailblazer TDX 2024 conference, Salesforce introduced the Slack Developer Program and showed research into AI adoption and IT."
-    publishedDateTime: 2024-03-06T13:00:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-trailblazer-tbx-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 42
   - title: "Salesforce aims to blaze new generative AI trail for developers with Einstein 1 Studio"
     excerpt: "Einstein 1 Studio provides a set of tools that can enable developers to customize the Salesforce Einstein Copilot gen AI assistant."
     publishedDateTime: 2024-03-06T13:00:00Z

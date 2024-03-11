@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-19-meta-to-develop-artificial-general-intelligence.md",
+      "title": "Meta To Develop Artificial General Intelligence",
+      "excerpt": "The Facebook founder said that Meta had built ... He further said that two of the company's AI research teams - FAIR and GenAI are working together to accelerate this project.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-attackers-could-eavesdrop-on-ai-conversations-on-apple-amd-imagination-and-qualcomm-gpus.md",
       "title": "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs",
       "excerpt": "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes.",
@@ -1277,49 +1320,6 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-no-dr-oz-isnt-promoting-a-diabetes-cure-in-ads-on-facebook.md",
-      "title": "No, Dr. Oz isn’t promoting a diabetes cure in ads on Facebook",
-      "excerpt": "Manipulated ads on Facebook falsely claim former TV host Dr. Oz developed a diabetes cure. But these ads are deepfakes; there is no cure for diabetes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstcoastnews.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
-      "originalUrl": "https://www.firstcoastnews.com/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.firstcoastnews.com/assets/VERIFY/images/e9c5abaa-1cc5-441e-96da-88d883e1276e/e9c5abaa-1cc5-441e-96da-88d883e1276e_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstcoastnews.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
-      "cdnAmpWebUrl": "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/verify/scams-verify/dr-oz-diabetes-cure-deepfake-videos-doctored-altered-facebook-ads-fact-check/536-3eea2484-1b8a-4f2f-ba7b-234aab11e2bb",
-      "publishedDateTime": "2023-12-20T23:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "First Coast News",
-        "domain": "firstcoastnews.com",
         "images": null,
         "publishers": null,
         "authors": null

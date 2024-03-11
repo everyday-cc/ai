@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
 quality: 87
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 AI Predictions For The Year 2030"
+    excerpt: "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center."
+    publishedDateTime: 2024-03-10T23:30:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "ChatGPT Stock Predictions: 3 Space Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the machines taking over, it seems only appropriate to ask ChatGPT what"
     publishedDateTime: 2024-03-06T22:14:00Z
@@ -114,6 +130,6 @@ related:
       domain: eschoolnews.com
     quality: 15
 
-secured: "cvw3bO5+ewDLiaIHCD/HsjXnGyTzj3RWbpEOZR5aiXZxr5f/G+CTosyayFAlw9kymoQ0FC2eIhzvrS2q6uqtGscNAQ7ItTZp5fWoGbe2Vfsnig7sQ5IsXH2fhD9Jy9HkZo6QGvTEtpcO3vcZ98J2ma6DREMY0RLMP1fm6EBv8cKDI69VUKjceyj/O6bj+9VcDhZknq/mPvlrzeZ/Ydf1/Vcm3OH3rM01fMgpgj2TAtS13WpFHACo29t0cu8bW3lzNDrfL9HLCJb5w7kKZSb2YtVy6822bvkZWA+4GU+hFvNSbzQ3IkcWNn9lFrC0Fn3A4bRdX86DW/M4iLAyBCkVg2jvpZfkQImcJRT+uy4tzKw=;AyCbuJWrU6SEhhaa/gDfbA=="
+secured: "goxxGYT5XuQe4TZjjnidWEBwZ/EwUFi+S/EFlO0Kmpwm+TCNFWmMq1BbfTC17Ia9AAn/kt79FMD4yksk3WwiBDz3CF5l8K1M7GBbIiTQVCVXG7eMTRL89GkOoov/Koio3Zc1a2NWXZDe/caHxmHcJ7P8AtMb2qjjogljIT+dNEL3HQ3DrJeLnRf/hoFsBe4KIA2hZVydPdUoTG7pmtRB1VyXa3GrZHLonpeeMbZwuteKJQP8GIqRwbxw6ILrnLPNyUra8QkFGAqH4ITnjAQOGewC1+XYOuTyczqCyUa2gEF5wGnyH4bW007ZPmG2Knj1oAVdepnieErfldgzW1r1YpR8aR1igfP/IKY6xH+9Fuc=;5tBkcEU+VjhJ2VlanQk6Pg=="
 ---
 

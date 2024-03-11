@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/06/nvidia-microsoft-and-jef
 webUrl: "https://www.fool.com/investing/2024/03/06/nvidia-microsoft-and-jeff-bezos-invested-in-a/"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:
