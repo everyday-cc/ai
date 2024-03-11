@@ -32,20 +32,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 42
-  - title: "The 'No' Voice Result Showed Us We Need To Prioritise Truth-Telling In Australia"
-    excerpt: "The Indigenous Voice to Parliament could have been a chance to address issues First Nations people often face, such as domestic and family violence,"
-    publishedDateTime: 2024-03-06T05:54:00Z
-    webUrl: "https://menafn.com/1107940383/The-No-Voice-Result-Showed-Us-We-Need-To-Prioritise-Truth-Telling-In-Australia"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/06/TC_5bc98image_story.jpg"
-        width: 960
-        height: 641
-        isCached: true
 
 secured: "Rguz3Jeo3BUhdM+LUJ1b73EKSq2PEFDJoFZmkgGkWDxVbn8M5YbtoXzOtQx9gR+S1XMhjdruKtVIGzi5F9ia6KKPbKNZvH5R4JyhrgI1y/SzCsBcg0Ub8+EsgIfvxDMQkmYwIXz82JcZnCC8XqH8sLjtXXi3vGbmCxWOBvZKxgdjoSto54RTGJPaH/SQ8JfL1n614Hm6+9ZJT3hf4ecsBYgbM0P+XavkzcL8ZaxyzqMinJTQxeBjr774lMnraxfaSiMIbOLFdryLuPxnMIz6w9dpv2/ApMADQ+FGItjcqaeooQ4TuPMELaG4Q5PL82IlkebKTYJJIXWgEm25NY7meoXKcvPJ56QwMe+eNKHOTyhobvpC6TMX+lAt5oiq4eVmF3QpuBQszO1phFZ84XlOZ7flC8yU5Eiv+nZOxIgwrq1WVqQvKplA0cgiIA6DVTUNOjdueO+tyTfj1swZ4MbCV3pLE0rdPcOZa5tuuR1DZupRKvlrvfw/jns9pIYnxSXPoj9hZGDQS263WoGok4Pv8g==;sY9YNGXVV/N1YFH2MepWsg=="
 ---

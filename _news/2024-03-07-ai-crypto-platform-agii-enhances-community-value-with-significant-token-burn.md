@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-crypto-platform
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-crypto-platform-agii-enhances-community-value-with-significant-token-burn-1033140472"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Business Insider
@@ -26,22 +26,6 @@ images:
     width: 550
     height: 309
     isCached: true
-
-related:
-  - title: "This AI token is being called the Nvidia of crypto"
-    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
-    publishedDateTime: 2024-03-08T12:23:00Z
-    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 39
-    images:
-      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "XgzqAn30VqfUN21NZq0gYlcSyFjdFyaMmiMFGC5nFR9KuqxdAdmMUEN7Fvp7prrqs13d9FQwz1AGAmNSkMLH+gdZ6PbHrwoVuuXxpLNjjhb/LjsOgD/KWzH99pn71b8zrvxTWtJmgdHFpL6U9yh4OZIEj8iFGIaNsRixevBWMSxfQebcSMPtyyuEJmgjfvaOKDEMo7L2TME6aE2DUuuSOD2Y0FIHCqXU8utnWS+blVipFaRfRetvIy0GL6JLf/p+GgqDuV1P9yQbO7MfOFgoqtreTNpkzsUTOV7xTyVZO3U0ce7rZ9LCHRFDnyozjYbpi8sPztMfHDIk+jCcQO8UyANOYym1SdwHFFmueTfBIIs=;LB2lkIkhtU8S7rz+ovbBGA=="
 ---

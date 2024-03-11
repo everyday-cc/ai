@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "End of an era, NVIDIA has produced its last GeForce GTX GPU... it's all RTX from here on out"
-    excerpt: "NVIDIA has stopped making GeForce GTX 16 Series GPUs, retiring the 'GTX' branding while shifting its entry-level focus to cards like the RTX 3050 6GB."
-    publishedDateTime: 2024-03-06T04:33:00Z
-    webUrl: "https://www.tweaktown.com/news/96663/end-of-an-era-nvidia-has-produced-its-last-geforce-gtx-gpu-all-rtx-from-here-on-out/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 28
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96663_04_end-of-an-era-nvidia-has-produced-its-last-geforce-gtx-gpu-its-all-rtx-from-here-on-out_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Vultr Expands Cloud Nvidia H100 GPU Capacity"
     excerpt: "provides us with a foundation to scale cloud compute and NVIDIA GPU capacity by utilizing renewable energy sources efficiently. As part of Vultr’s commitment to providing large-scale AI training and inference cloud computing clusters worldwide ..."
     publishedDateTime: 2024-03-07T00:00:00Z

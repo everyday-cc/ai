@@ -18,15 +18,73 @@ topics:
   - AI
 
 related:
-  - title: "How Finance Leaders Can Turn AI Optimism Into Results"
-    excerpt: "Leaders are right to be optimistic about AI. By focusing on an incremental approach, sensible technology choices, careful collaboration with stakeholders and careful communication across the organization, business leaders can turn that optimism into a successful AI transformation."
-    publishedDateTime: 2024-03-07T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/how-finance-leaders-can-turn-ai-optimism-into-results/"
+  - title: "How to choose an AI-as-a-service provider"
+    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
+    publishedDateTime: 2024-03-11T03:10:00Z
+    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
+      name: Computerworld
+      domain: computerworld.com
+    quality: 65
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
+    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
+    publishedDateTime: 2024-03-10T01:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
+        width: 1280
+        height: 1139
+        isCached: true
+  - title: "How to Navigate AI as Humanity's Next Great Arms Race"
+    excerpt: "We should take some lessons from the atomic race as we compete to create new artificial intelligence technologies."
+    publishedDateTime: 2024-03-06T18:52:00Z
+    webUrl: "https://www.inc.com/inc-masters/how-to-navigate-ai-as-humanitys-next-great.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1351969920_bxksd5.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Intelligence service: how schools are managing AI"
+    excerpt: "Artificial intelligence is everywhere. Since ChatGPT launched in November 2022, it seems a day hasn't gone by without a shouty headline about robots taking over our jobs and schools. While much of the press has been predictably negative with lurid stories ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://theweek.com/education/ai-in-schools-machine-learning"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jKrZd6NChLayZULiivHRj4-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Which Role Prepares You Best to Lead a Language Service Provider?"
+    excerpt: "March marches on, and with it, the end of the first quarter of 2024 gets closer. As the Language Service Provider Index (LSPI) reveals, there are indications of stability … for some companies. The Super Agencies managed to grow a bit."
+    publishedDateTime: 2024-03-07T15:00:00Z
+    webUrl: "https://slator.com/which-role-prepares-you-best-to-lead-a-language-service-provider/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "GeHAyu/gk3JkMX4viyI4UTqGxE20EK9zp8Jjq7UCLHY874vgDeq5qy9O0OcOWpB//D+C+BdLin9TCTmol1o602IZX19Kf+qZvAywTHHpwEF/1BN5b5WoS417aCWlY0/udovJsBSZPSD53lBYmcS4iVXA2SBNPFc7ezx0iCq5NCBhiN5om9K4KMwihHDOFV7CMsIzcSGzalCbNd/hfeCFGtTXd4mTeCmdz/ewH3OLpB1IMoHEQRASvYkvk/m8Tg4H6InOj8hJ6AEmwR8w1b5qhGX3gmhWVAYWFGiMfXHfkrRsomC9LiwOshG1T8a9KyOFvUY4Jal2topRzfW2pRvPGEO76DYKSV0bE6ObXJ0cDAX8N8BOW0TcK/FkyiYx8lsaQeNV3iXIwpDjlDETw2GBOP/V0w/Reb5EogerviQ6Sfoy6bToLGzW/ApkRQeCZDO59XznQ2zUlYHfpEuO6EuVDXOEeW6w67YLC4iZjfMwscWQ9TniNao+BzFFrgJCNX3czshN/YOE5RAbFd+XB7x1xg==;GrvE7sILvsxll8WN3KPNuw=="
 ---

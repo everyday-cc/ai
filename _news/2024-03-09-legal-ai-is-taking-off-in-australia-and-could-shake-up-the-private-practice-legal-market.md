@@ -24,20 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "The 'No' Voice Result Showed Us We Need To Prioritise Truth-Telling In Australia"
-    excerpt: "The Indigenous Voice to Parliament could have been a chance to address issues First Nations people often face, such as domestic and family violence,"
-    publishedDateTime: 2024-03-06T05:54:00Z
-    webUrl: "https://menafn.com/1107940383/The-No-Voice-Result-Showed-Us-We-Need-To-Prioritise-Truth-Telling-In-Australia"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/06/TC_5bc98image_story.jpg"
-        width: 960
-        height: 641
-        isCached: true
   - title: "Australian news media could seek payment from Meta for content used to train AI"
     excerpt: "News media bargaining code could apply to tech companies using massive amounts of online information for generative AI, researchers say"
     publishedDateTime: 2024-03-07T13:00:00Z

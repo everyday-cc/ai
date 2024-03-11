@@ -66,6 +66,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
+  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
+    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
+    publishedDateTime: 2024-03-11T04:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Backend houses gearing up for AI chip boom"
     excerpt: "The arrival of the Artificial Intelligence (AI) age has underscored the increasing importance of semiconductor packaging and testing, with makers stepping up efforts to expand advanced backend capacity to capitalize on strong demand for AI chips."
     publishedDateTime: 2024-03-07T01:43:00Z

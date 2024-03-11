@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intellig
 ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 type: article
-quality: 59
-heat: 89
+quality: 65
+heat: 115
 published: true
 
 provider:
@@ -19,6 +19,9 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
+  - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
@@ -27,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
+    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
+    publishedDateTime: 2024-03-10T01:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
+        width: 1280
+        height: 1139
+        isCached: true
   - title: "How to Navigate AI as Humanity's Next Great Arms Race"
     excerpt: "We should take some lessons from the atomic race as we compete to create new artificial intelligence technologies."
     publishedDateTime: 2024-03-06T18:52:00Z
@@ -55,6 +72,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Manufacturers, Software Providers Lean Into Artificial Intelligence"
+    excerpt: "On the manufacturer side, HVAC engineers are using data-gathering capabilities to introduce all kinds of innovations in indoor comfort. One of those is Mitsubishi Electric Trane HVAC US LLC (METUS), whose 3D i-See Sensor can thermally scan an interior space, analyzing the temperature profile of the room to detect cool and warm spots."
+    publishedDateTime: 2024-03-06T19:00:00Z
+    webUrl: "https://www.achrnews.com/articles/154211-manufacturers-software-providers-lean-into-artificial-intelligence"
+    type: article
+    provider:
+      name: ACHR News
+      domain: achrnews.com
+    quality: 17
   - title: "Which Role Prepares You Best to Lead a Language Service Provider?"
     excerpt: "March marches on, and with it, the end of the first quarter of 2024 gets closer. As the Language Service Provider Index (LSPI) reveals, there are indications of stability … for some companies. The Super Agencies managed to grow a bit."
     publishedDateTime: 2024-03-07T15:00:00Z
@@ -65,6 +91,6 @@ related:
       domain: slator.com
     quality: 4
 
-secured: "PxIjd4/5FgA6eK18P7356y7yhSB4g5ffJyh4z4YYobf7I/yTR7Jys/iu6JGqtVRdf5GbDa3E1FmEQ0+I/EkOy064Q0Zv+LgvXZh6br2Zk8GJePLxFpBcPOuLzJDGuie8BRSbMBYmIT01AaCIRwf9mn0gKMzSP/ocSDNJa77ynKU+/apg//99+ctoLXRrxQS5vdyis+7A/ykjywvBWR0xOBCeJybfnTJ2zZ02BG2T1paaoqa2Jwc9tR3tjrrikPJTxR5qT2BICxAY9MTivxGVGqylCMFkt419LJl5Eq8+Gc1nrciFkdO+E7GKFtmHb2yAJCnUMdbha2EV/5keMzH0c84RqJHadbs06p5HGUIvs/k=;Omt2M3zEzIBQ7x/4DWNawA=="
+secured: "OIbNhIJ4siwruvxT910v7mKIrtsvgaAfMN0s8SlDhrOtP9FbVUH2/Z9pZT9yt0i1XVpuOOsFeG88Nw5Tz3sQCzdEuHKsdKpd/kmJ14WqHNGjnjkWqQVx5nwbWigVgZu6nVHlbd2NDN4nzej/a/tet2xTPEWX1Hsj/1Ts7/02aFrRDemCQ8zNlyAwsWconXN4ms/r1SLybGecO16QWNn8n9l11hy3wCWbqiJ2qE4aNbkG8/MKEHmuS/BNe/TFksYIErXvFQCEKP6uoqqvupIE26IJrjdOonj+0mmGqV+QpD1QhI9TtsbgSp5v7qlQFYcW47DrxFP3QMPTTyNC3A1OqnSPg9pMRv6pZQRr1ibS/AwTkKi4y8OOpAEWxIufBDBZvZy6dvQBzw8h4JVubGgY3cwqP1BU8CPb7BkNYO1y206ynBfYTTkXSxytTfdwRbdGgTGoICP+6eWPxN65FuaneDeurgHgUNeWRJRGYLhLuC+MdaCTGCX/SNopYiNeOmUsVRmc+hJ8++uEGTP0mIFUjQ==;1Z6pyut737tv81dFnZLJxA=="
 ---
 

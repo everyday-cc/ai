@@ -2,101 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2024-01-23-hyundai-motor-in-artificial-intelligence-theme-innovation-strategy.md",
-      "title": "Hyundai Motor in artificial intelligence: theme innovation strategy",
-      "excerpt": "How many patents did Hyundai Motor submit related to artificial intelligence last quarter, and how many were granted? Discover the latest information here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
-      "originalUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png",
-          "width": 388,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T10:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it.md",
-      "title": "Investing in Artificial Intelligence (AI) Stocks Can Be Risky, but Here's a Spectacular Way to Do It",
-      "excerpt": "Artificial intelligence (AI) was the dominant stock ... t just an internet and cloud computing company -- it's also home to Waymo, an early mover in self-driving technology. Apple might seem ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/23/investing-in-ai-stocks-risky-but-heres-way-do-it/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/23/investing-in-ai-stocks-risky-but-heres-way-do-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/762051/a-pot-plant-carved-in-the-shape-of-an-upward-trending-arrow.jpg",
-          "width": 4000,
-          "height": 2666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-23-softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel.md",
       "title": "SoftBank leads TravelPerk's $104 million fundraising, in a bet that AI will reshape corporate travel",
       "excerpt": "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank's Vision Fund 2.",
@@ -1118,6 +1023,91 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs.md",
+      "title": "Franz Unveils AllegroGraph Cloud – A Managed Service for Neuro-Symbolic AI Knowledge Graphs",
+      "excerpt": "There is an interesting contradiction in AI between rule-based systems and machine learning. While rule-based systems offer better interpretation and",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2024/01/22/franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs/",
+      "originalUrl": "https://www.datanami.com/2024/01/22/franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2022/03/neural_net_shutterstock_vs148.jpg",
+          "width": 800,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T20:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-how-to-handle-a-ransomware-attack.md",
+      "title": "How to handle a ransomware attack ",
+      "excerpt": "With ransomware becoming more prevalent, learn how your organization can swiftly respond to these cyberattacks.\nThe post How to handle a ransomware attack  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T20:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

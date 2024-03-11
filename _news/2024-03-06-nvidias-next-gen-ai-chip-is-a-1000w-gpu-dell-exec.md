@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia is sued by authors over AI use of copyrighted works"
+    excerpt: "Nvidia whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform."
+    publishedDateTime: 2024-03-10T17:12:00Z
+    webUrl: "https://www.cnbc.com/2024/03/10/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/03/10/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/10/nvidia-is-sued-by-authors-over-ai-use-of-copyrighted-works.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107340708-1701276069835-gettyimages-1820585655-dsc_2416_wma4pvaf.jpeg?v=1708706721"
+        width: 4032
+        height: 3203
+        isCached: true
   - title: "What you need to know about Nvidia and the AI chip arms race"
     excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
     publishedDateTime: 2024-03-08T22:18:00Z
@@ -33,6 +49,15 @@ related:
         width: 1200
         height: 807
         isCached: true
+  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
+    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
+    publishedDateTime: 2024-03-10T13:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "How NVIDIA leads the world by making AI user-friendly"
     excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
     publishedDateTime: 2024-03-06T19:14:00Z
@@ -60,15 +85,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
-    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
-    publishedDateTime: 2024-03-10T13:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 AI Stocks That Nvidia Should Buy Next"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
     publishedDateTime: 2024-03-08T20:37:00Z
@@ -78,24 +94,48 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
-    excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2024-03-06T10:51:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/24585796/nvidia-and-7-other-semiconductor-stocks-that-can-benefit-from-artificial-intelligence-ai-robots/"
+  - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
+    excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."
+    publishedDateTime: 2024-03-08T03:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20240308PD212/nvidia-cuda-china-ai.html"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
-  - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
-    excerpt: "In today's video, I discuss Nvidia (NASDAQ: NVDA) and other semiconductor companies that provide solutions for the robotics market. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used ..."
-    publishedDateTime: 2024-03-09T10:00:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/QCOM-Q/pressreleases/24585796/nvidia-and-7-other-semiconductor-stocks-that-can-benefit-from-artificial-intelligence-ai-robots/"
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240308pd212_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "This AI token is being called the Nvidia of crypto"
+    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
+    publishedDateTime: 2024-03-08T12:23:00Z
+    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 39
+    images:
+      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "A World Divided Over Artificial Intelligence"
+    excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
+    publishedDateTime: 2024-03-11T04:21:00Z
+    webUrl: "https://www.foreignaffairs.com/united-states/world-divided-over-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/03/07/RTSWGMSK.JPG?itok=wW0VNQi8"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
     excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
     publishedDateTime: 2024-03-08T00:02:00Z
@@ -105,15 +145,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 18
-  - title: "The 10 best Mac tips and tricks you need to know about"
-    excerpt: "That's it; our favorite Mac tips and tricks on macOS Sonoma will help you save some time, make your life easier, and give you a new outlook on the way you use your Apple devices. Using these tips and tricks will make even the best Macs better."
-    publishedDateTime: 2024-03-07T16:28:00Z
-    webUrl: "https://www.imore.com/mac/macos/the-10-best-macos-tips-and-tricks-you-need-to-know-about"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 4
 
 secured: "JutDWDwFHFrXAHuJWTF718z6GCiXqJcEwyEIyxDJ4rqiSla37vlk7owrZ1/jaorEy+Odb61sPez8PUWgKr5mr87QrXFjOpGlZkN1ZgZERwcwu4McWgg6XJ4Ub8dVX1vXsOnh/8DS/EzbisRocHsjQEN6hRDfkbE/OfTBo3vxc+M3nPOJcknGlR46zHrPcuyV0l4Z6We0Zx2pSd6kQcTXlYEy1RhclwGw2rd+tF/fRTpVdcGM8eUCp1rxGcqVZiDh7PQnKASjNqfdWcrDOl5oVkJoF137EA4Ymly8YwKwmCZDIr7ZwNC6kJB4BGcWNQvOqKBheL/9NlwPfCF7DWqVofIPx25JCxIqfuIIvBG2tFE=;IzwTu1pkOSeNNSFwg52VJg=="
 ---

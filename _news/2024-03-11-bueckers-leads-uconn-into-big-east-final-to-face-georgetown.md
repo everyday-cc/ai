@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenweaver/2024/03/10/bueckers-leads-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenweaver/2024/03/10/bueckers-leads-uconn-into-big-east-final-to-face-georgetown/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

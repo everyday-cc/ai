@@ -29,11 +29,25 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 59
+    quality: 65
     images:
       - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
+    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
+    publishedDateTime: 2024-03-10T01:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
+        width: 1280
+        height: 1139
         isCached: true
   - title: "How to Navigate AI as Humanity's Next Great Arms Race"
     excerpt: "We should take some lessons from the atomic race as we compete to create new artificial intelligence technologies."
@@ -63,6 +77,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Manufacturers, Software Providers Lean Into Artificial Intelligence"
+    excerpt: "On the manufacturer side, HVAC engineers are using data-gathering capabilities to introduce all kinds of innovations in indoor comfort. One of those is Mitsubishi Electric Trane HVAC US LLC (METUS), whose 3D i-See Sensor can thermally scan an interior space, analyzing the temperature profile of the room to detect cool and warm spots."
+    publishedDateTime: 2024-03-06T19:00:00Z
+    webUrl: "https://www.achrnews.com/articles/154211-manufacturers-software-providers-lean-into-artificial-intelligence"
+    type: article
+    provider:
+      name: ACHR News
+      domain: achrnews.com
+    quality: 17
 
 secured: "fNV8GSK1aMFWFNpnF9Y08TfTSy8GFSAj4AYbOpTDf+zTqTnzcVSvDO32zO68mxxcJ/cGxjn2v9kCc6cgrporafKPn8eEJZ58j+SaVWgsJtS/WF8W5OcHuouJ30haivItBPx5dwJ2fKBF16LjVmtHwOhLXa5ExDDxZVC9k6GA4slYsmXWJCJQSzKR05ckESjCTNUtIH6l2HzMc6Wu6/AyltChtjcI4kkPpNWQEbvBbl/b9tnGQ1P2T23Cvjp6JYPz2Sggk+WL8t5vpBxHtXre/trOH6PaHDL+8aa7ggYRzo8YnLtCsJyevYOHukjKrCRRi0/AyvK6CI0hiqmH/PdcSsXk3fVo2ZZszT7xvXOklpeZbVcS0n6GH5i8EpvuSHIUpsaYN8KuR4tSYdSjtC2coSyvE5pnDnLqplkVVHkLG+tVkZyL4y16KW4UT+ju1gpjUXvpzLshU5GgNuFCXNSIVDFTB+3y0iIH1sCk9279ugCBgQVRGMHW9V5XTUduMsrdkAgb7XkTS4pxVKnn5wiNEA==;QZljDtkYC6NpqOyPR42TRg=="
 ---

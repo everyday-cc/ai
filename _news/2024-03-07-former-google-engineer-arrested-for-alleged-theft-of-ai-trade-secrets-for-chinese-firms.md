@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer
 webUrl: "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/"
 type: article
 quality: 61
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt896917cb42a083dc/65eb7998e12481040a898328/tradesecret_kenary820_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
         width: 1000
         height: 525
-        isCached: true
-  - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
-    excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."
-    publishedDateTime: 2024-03-08T03:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20240308PD212/nvidia-cuda-china-ai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240308pd212_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Ex-Googler Stole AI Secrets for Chinese Companies: Feds"
     excerpt: "An indictment alleges that Linwei Ding quietly began stealing confidential information about the company’s machine learning processes two years ago."

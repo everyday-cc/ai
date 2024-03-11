@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2024/03/08/2581151.jpg"
         width: 1240
         height: 827
+        isCached: true
+  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
+    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
+    publishedDateTime: 2024-03-11T04:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Backend houses gearing up for AI chip boom"
     excerpt: "The arrival of the Artificial Intelligence (AI) age has underscored the increasing importance of semiconductor packaging and testing, with makers stepping up efforts to expand advanced backend capacity to capitalize on strong demand for AI chips."

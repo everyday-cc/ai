@@ -166,20 +166,6 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
-    excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."
-    publishedDateTime: 2024-03-08T03:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20240308PD212/nvidia-cuda-china-ai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240308pd212_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Ex-Googler Stole AI Secrets for Chinese Companies: Feds"
     excerpt: "An indictment alleges that Linwei Ding quietly began stealing confidential information about the company’s machine learning processes two years ago."
     publishedDateTime: 2024-03-07T00:17:00Z
