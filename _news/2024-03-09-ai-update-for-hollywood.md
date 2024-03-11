@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/"
 type: article
 quality: 87
-heat: 94
+heat: 87
 published: true
 
 provider:

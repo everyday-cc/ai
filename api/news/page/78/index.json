@@ -2,6 +2,178 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2024-01-09-the-3-best-machine-learning-stocks-to-buy-in-january-2024.md",
+      "title": "The 3 Best Machine Learning Stocks to Buy in January 2024",
+      "excerpt": "Machine learning is transforming sectors including healthcare and transportation, offering lucrative opportunities in the best machine learning stocks. However, investors should approach cautiously, as not all stocks in this sector ensure returns.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-machine-learning-stocks-to-buy-in-january-2024-1032951910",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-machine-learning-stocks-to-buy-in-january-2024-1032951910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T01:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-from-the-pool-to-the-lawn-aiper-revolutionizes-the-smart-yard-ecosystem-with-its-first-ever-robotic-lawn-mower.md",
+      "title": "From The Pool to the Lawn, Aiper Revolutionizes The Smart-Yard Ecosystem With Its First-Ever Robotic Lawn Mower",
+      "excerpt": "Available in Q1 2024, Aiper also announces its first-ever app for iOS and Android, giving the ability to remotely control the robot and more ... and ease-of-use in mind. Unlike other robot lawn mowers that require hours of complicated pre-setup involving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-from-pool-the-lawn-aiper-revolutionizes-smart-yard-/2024/01/09/9943337.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-from-pool-the-lawn-aiper-revolutionizes-smart-yard-/2024/01/09/9943337.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2311502/Horizon_U1_Lawn_Mower_Lifestyle.jpg",
+          "width": 400,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-learning-a-second-language-strengthens-neural-connections-in-the-language-network-study-shows.md",
+      "title": "Learning a second language strengthens neural connections in the language network, study shows",
+      "excerpt": "These images showed the strengthening of white matter connections within the language network, as well as the involvement of additional regions in the right hemisphere during second language learning.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/learning-a-second-lang.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2024-01-language-neural-network.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-language-neural-network.amp",
+      "publishedDateTime": "2024-01-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-leukemia-artificial-intelligence-provides-support-in-diagnostics.md",
+      "title": "Leukemia: Artificial intelligence provides support in diagnostics",
+      "excerpt": "IT specialists and physicians have now shown how a method based on artificial intelligence can be used to predict various ... who heads the Personalised Cancer Therapy and Digital Medicine working group at Münster University Hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240109121128.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240109121128.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-remote-controlled-robots-bring-metropolitan-healthcare-experience-to-outback-patients-with-heart-conditions.md",
       "title": "Remote-controlled robots bring metropolitan healthcare experience to outback patients with heart conditions",
       "excerpt": "The Queensland-designed remote-controlled robot, hailed as a world-first, is expected to help alleviate the tyranny of distance faced by patients living in remote, rural, and regional areas.",
@@ -933,197 +1105,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-volkswagen-is-adding-chatgpt-to-its-infotainment-system.md",
-      "title": "Volkswagen is adding ChatGPT to its infotainment system",
-      "excerpt": "Working with the voice recognition company Cerence, VW is adding ChatGPT to its infotainment system. We first experienced Cerence's excellent in-car voice recognition at CES in 2016—back then ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2024/01/volkswagen-is-adding-chatgpt-to-its-infotainment-system/",
-      "originalUrl": "https://arstechnica.com/cars/2024/01/volkswagen-is-adding-chatgpt-to-its-infotainment-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GTI_Cockpit_Display-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-heres-what-google-assistant-with-bard-will-look-like-on-android.md",
-      "title": "Here's what Google Assistant with Bard will look like on Android",
-      "excerpt": "Google Assistant with Bard is coming soon, and leaked screenshots showcase the various UI and features of the AI assistant in action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
-      "originalUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/10/Assistant-with-Bard-Presentation-at-Made-by-Google-Event-2023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T06:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment.md",
-      "title": "Revolutionizing Healthcare: The Impact of Artificial Intelligence on Medical Diagnosis and Treatment",
-      "excerpt": "Introduction: In recent years, the intersection of healthcare and artificial intelligence (AI) has given rise to groundbreaking innovations that are reshaping the landscape of medical diagnosis and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment/",
-      "originalUrl": "https://techbullion.com/revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Healthcare-The-Impact-of-Artificial-Intelligence-on-Medical-Diagnosis-and-Treatment.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-ibm-taps-taiwan-to-develop-traditional-chinese-llms.md",
-      "title": "IBM taps Taiwan to develop Traditional Chinese LLM's",
-      "excerpt": "Once a leader in artificial intelligence (AI), IBM has recently adopted a collaborative strategy amid the surge in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20240108PD210/ibm-taiwan-llm-generative-ai-watsonx.html",
-      "originalUrl": "https://www.digitimes.com/news/a20240108PD210/ibm-taiwan-llm-generative-ai-watsonx.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20240108pd210_files/2_b.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T03:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

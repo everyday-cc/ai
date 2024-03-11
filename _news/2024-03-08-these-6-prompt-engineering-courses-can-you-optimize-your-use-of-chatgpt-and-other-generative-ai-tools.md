@@ -81,15 +81,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
-  - title: "ChatGPT Stock Predictions: 3 Space Companies the AI Bot Thinks Have 10X Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the machines taking over, it seems only appropriate to ask ChatGPT what"
-    publishedDateTime: 2024-03-06T22:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-space-companies-the-ai-bot-thinks-have-10x-potential-1033139633"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
   - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
     excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
     publishedDateTime: 2024-03-10T11:03:00Z

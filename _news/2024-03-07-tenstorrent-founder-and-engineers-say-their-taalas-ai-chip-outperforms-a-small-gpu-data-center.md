@@ -67,20 +67,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Tenstorrent founder reveals new AI chip startup Taalas with $50 million in funding"
-    excerpt: "Toronto-based artificial intelligence chip development startup Taalas has launched out of stealth with $50 million in funding."
-    publishedDateTime: 2024-03-05T22:09:00Z
-    webUrl: "https://betakit.com/tenstorrent-founder-reveals-new-ai-chip-startup-taalas-with-50-million-in-funding/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 48
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2024/02/GPUs.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "p7nwenzWvauKMaPHGnbDKpcguG8FAXSfrHvk24dSc688ca1Q4PEBRQoDyz6BaEmvTeCKe3Kxe4LAba5V8ttrlU84z5QzvJgmKSDCOQ4D/8tY92JH258nbO3AatGgyZQn5I1YoDCTrE43HntzAEff60XSQ1lPKdxZoaJzhdaeb7JN/1qy4lWPyhV8FnvNIydsUjx65pKX3XJHVeFjftYYgt6EAEfDxpC3IK1Jt1I9W/NNnKEaQc2MIopqA7X6fxsUV1XWqoYrvc2SdWjsGdI2UX7cp43nYwJFeV7q/iwx0B+N/AR96cAL829qHBGYlAVPsLuM330eQUMG3P8OYwK+lkpHCMNopsb8xYo3jPCsmk0=;PeIbymB7G0BRBm3dLam7Pw=="
 ---

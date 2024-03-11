@@ -73,6 +73,22 @@ related:
         width: 1600
         height: 897
         isCached: true
+  - title: "Ex-Google engineer charged with stealing AI secrets"
+    excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
+    publishedDateTime: 2024-03-07T01:08:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Former Google engineer indicted for stealing AI secrets while secretly running a startup in China"
     excerpt: "Read our ethics statement. WTF?! There's been another case of a tech ... has been indicted by a federal grand jury for pilfering confidential AI tech while secretly working for Chinese AI firms. He even launched a startup in his home country without ..."
     publishedDateTime: 2024-03-07T06:58:00Z
@@ -207,20 +223,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
-    excerpt: "He also separately founded and served as chief executive of a China-based startup company that aspired to train “large AI models powered by supercomputing chips,” the indictment said. Prosecutors say Ding did not disclose either affiliation to Google ..."
-    publishedDateTime: 2024-03-06T00:00:00Z
-    webUrl: "https://www.wandtv.com/news/national/ex-google-engineer-charged-with-stealing-ai-trade-secrets-while-working-with-chinese-companies/article_4d2c07c4-dc1b-11ee-bb51-0312192a3d0d.html"
-    type: article
-    provider:
-      name: WAND
-      domain: wandtv.com
-    quality: 27
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/6/76/67693788-dc1b-11ee-b43f-7fbed9da7815/65e90d44b1d2b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Former Google Engineer Charged With Trade Secret Theft"
     excerpt: "A former Google software engineer was charged with four counts of federal trade secret theft for an alleged plan to steal artificial intelligence technol"
     publishedDateTime: 2024-03-07T06:53:00Z
@@ -235,6 +237,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Former Google engineer charged with stealing AI trade secrets"
+    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
+    publishedDateTime: 2024-03-07T16:10:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
     excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
     publishedDateTime: 2024-03-07T14:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-move-fast-break-ai-3423665
 webUrl: "https://www.androidauthority.com/google-move-fast-break-ai-3423665/"
 type: article
 quality: 69
-heat: 79
+heat: 81
 published: true
 
 provider:

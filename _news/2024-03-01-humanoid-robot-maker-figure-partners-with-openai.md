@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Humanoid robot-maker Figure partners with OpenAI"
-excerpt: "In a previous video, Musk showcased Optimus folding a shirt, clarifying that the robot was n… ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of ..."
-publishedDateTime: 2024-02-29T23:43:00Z
-originalUrl: "https://omaha.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_1a586ae6-53e6-5455-bd41-af030414cdd5.html"
-webUrl: "https://omaha.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_1a586ae6-53e6-5455-bd41-af030414cdd5.html"
+excerpt: "ChatGPT-maker OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with robotics startup Figure. Sunnyvale, California-based ..."
+publishedDateTime: 2024-02-29T23:40:00Z
+originalUrl: "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html"
+webUrl: "https://tdn.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_273a2c51-e6df-5dca-a76b-ab278f9d1e77.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: tdn
+  domain: tdn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/a5/1a586ae6-53e6-5455-bd41-af030414cdd5/65e103281bff5.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/2/73/273a2c51-e6df-5dca-a76b-ab278f9d1e77/65e1032903339.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "MIhZ6gfcZD+nSznKVBg7wsISV/KwWzm2OQfi5eCN5mCCOcjZBCaCLNu9OnhIAGE2GkFDixMup9iVl2M6EGn+NDqjcoYkGZxoQh+KM5tzYX4zvD09a8BdMotJ6B4A7c5jWASUjFz3A5K9SM0RfOYWn7u0bDLs78M3zEx4lCKIQDKEFIzPqvYB6jvTbCEWyglrQcWsRSitf/tVwmJZErWC/nAxdnSKRUlOOiWe88MD5ZZl2DMsu5nWrf2JfOsrwWOqmKmekz9mt5Wu+3dwNJ3+dD1ImeGG4Y6M8uBrYX1qMLFTPc4oJLqxtxKMrUkPx+YWeqdguISl1Ed66xvkOj6hCKcC7i2CA2Muh3rjsOg/n7M=;SYsGhh98Lphsh+fNpjGntw=="
+secured: "dayfvDap9lq5NiXid6Pnx766weysQur88bVpIHXJIRzQSvxM5qo6YvY64g+Hd1d5I3oTn89Wwr6tjkVkQQp+PK2dj2K3cBkiWeeUdnZtsuj0VGS7wSmgtzl7suIjLSpuAlRN8NtvJW0ji9BUzlkQe2Cpm46us3KyYY1K2ehT0dbg8ljuBjvLhyoGXRxwR5LMg14imhGv2ml2k1nJjAVbkt9FtcZvZbjW63m3qengqbVWgprJW27JNjrkvuWo/yu++I+VGCL+83yd8CopBPkIuwQAo+3SR7v+W1cEaDx4uEOT8sXyJHgV2cahOhHA7J3dFMbrNVNQoU22D9eHTV6E9HLtT2f6jt1Ytpln58mjRuw=;bAZlruZQ6giny3YxyiiYNA=="
 ---
 

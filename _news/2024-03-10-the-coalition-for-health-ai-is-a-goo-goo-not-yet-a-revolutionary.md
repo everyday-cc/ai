@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelmillenson/2024/03/10/chai-is-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2024/03/10/chai-is-the-goo-goo-of-health-care-ai-but-not-yet-a-revolutionary/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

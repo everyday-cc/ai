@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-sa
 webUrl: "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/chip.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Tenstorrent founder reveals new AI chip startup Taalas with $50 million in funding"
-    excerpt: "Toronto-based artificial intelligence chip development startup Taalas has launched out of stealth with $50 million in funding."
-    publishedDateTime: 2024-03-05T22:09:00Z
-    webUrl: "https://betakit.com/tenstorrent-founder-reveals-new-ai-chip-startup-taalas-with-50-million-in-funding/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 48
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2024/02/GPUs.jpg"
-        width: 1050
-        height: 700
         isCached: true
 
 secured: "MfYNClCZOctWCqCzOQUKz56lxeNy0EWjHBSLKp8A/r1U9LlV07FCBjMOcqrC3cI01yUVXmNL+PtAKgflIx+gOCOkqtvYBDD423R42VnQToxaaqlBN4EfjRi4BohFicc5zwsQzZIlngYsACp5/5k7V3RiqiQtMUlwmSctvt1ZtLTvGDdYk7Fuxyqu3J0wsQRlbnNwNT3fLKLsy4yS/dLjqOTdWHzSDoRMRbk/dr+QGUWZbKwmSgVzI9uXSTj4E6BsrFxpPoXxHlL+H17Z69beg620pvNh/cDSj0TXGxO5Q3KcS9mWd0jRbTrcbxI5mTxNp4Z+R2VKZSahROFfQofPMD2MhhywtoBud/BtsQg2n6SecFdJjyKIndXt6NdY7O1iSqxoUvLrblHzgf/oVz7/MLrqmtMo/Yd6fWwbry6tpjNr8eSGnoMOYXmxfzml4dUGqNuMz576Pkm33MnRsWN4q+4iX3IxVVtL9w3GXMp0cmYiDRoy987ryLnu7tYW47WrHGWsyVrRo8W1ICIIXc2abA==;UZTovTXfYWah2REO5erySw=="

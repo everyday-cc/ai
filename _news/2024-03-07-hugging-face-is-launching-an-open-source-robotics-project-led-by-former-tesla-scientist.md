@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-is-launching-an-open-sourc
 webUrl: "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/"
 type: article
 quality: 93
-heat: 108
+heat: 107
 published: true
 
 provider:

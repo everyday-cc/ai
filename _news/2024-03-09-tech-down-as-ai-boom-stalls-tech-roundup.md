@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-te
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The Lifeblood of the AI Boom"
-    excerpt: "Sometimes AI is a conversation partner, an illustrator, a math tutor, a facial-recognition tool. But in every incarnation, it is always, always a machine, demanding almost unfathomable amounts of ..."
-    publishedDateTime: 2024-03-06T00:00:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2024/03/nvidia-chips-gpu-generative-ai/677664/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 49
 
 secured: "1Udgsjoe0ch1c0BmgnerGS59LjuHaB8XLWt1YLOzRursvjIN2Y/bRdVvBR6xBzc1reKZtcJSo39etYQINjQ7h30y5dSaf3Ci+29JyPCZ3Vvg3aESZWkUIjBrejoJBvkbV3UHCB+x0YNOzgDaUxs+nfpWE997eA7eV15C8OAh7OQdy4y1iN8Q6BlcBmLGLOKe9bOZnar6TVYKDkuW+HfNDPSZVnAUoZLaDPLFnubGepRNgvMJq0RNeD2BbtCxyszy0rT1aytvSiqUY39rMZuY5c9avAiWoTUZ/yYh7VAx75JOw8HcluK1yrtHDdCSzBzeuEqSIJbsW1g8+HXet+reGPYoVyFMkxtJl4+ekcfGc+s=;n2bP4EyQzcxJ70BpFvf4fw=="
 ---
