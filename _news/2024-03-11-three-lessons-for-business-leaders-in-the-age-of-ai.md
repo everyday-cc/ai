@@ -7,7 +7,7 @@ originalUrl: "https://businesstech.co.za/news/industry-news/758027/three-lessons
 webUrl: "https://businesstech.co.za/news/industry-news/758027/three-lessons-for-business-leaders-in-the-age-of-ai/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "How SA businesses can unlock the power of AI"
-    excerpt: "IBM’s research in AI goes back to the 1950s and includes significant milestones like the Deep Blue supercomputer defeating chess grandmaster Garry Kasparov. In 2011, IBM Watson defeated Brad Rutter and Ken Jennings in the Jeopardy!"
-    publishedDateTime: 2024-03-08T07:04:00Z
-    webUrl: "https://it-online.co.za/2024/03/08/how-sa-businesses-can-unlock-the-power-of-ai/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 41
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2024/03/Ria-Pinto.jpg"
-        width: 1075
-        height: 900
-        isCached: true
 
 secured: "Seqj+h1Ehg3xU40UMbz3NeSdYBYqq02MAmMAeJ9bDPDKsIZn0ALdZotA1GW2Wv9vnqXiusnq96ScsvTAnYoc0TIWQ3L5RJYYnlv4VRiEbFbOmO7xU/4yzuT5pLBQAqmTQAsqGJ/2gN+7DAoKIJ38a7QfJK7fvG0ti0JXxkyLOpP3O3JzjYPJmKHnGp04wtr1VLUa52hBSRfy4pi5lUZJcZAtcPa/GZF/bISXJEfFZXYTLl7yt10TtzwxXWjbWa6zPYMP/DZHxqwSJPXyfYRkMp7KKb1jWZDL5cfeuK+32XoBv+9HpAe2z49Yr0k49SpR+3Wdt1Ft4M24Vq1XtHuLF6JDYOlSvXpxedQklJaZJFQ=;rgjkh2jGNTBxs9vEKL3z0Q=="
 ---

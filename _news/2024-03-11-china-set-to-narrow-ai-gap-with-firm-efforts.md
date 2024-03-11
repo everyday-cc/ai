@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China set to narrow AI gap with firm efforts"
-excerpt: "Zhou Yu, chairman of Beijing Fanyu Technology Co, a startup specializing in natural language processing products and services, said that as the stakes are high, Chinese and US startups appear to be adopting different approaches to developing LLMs that ..."
-publishedDateTime: 2024-03-10T23:37:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202403/11/WS65ee412ea31082fc043bbbd9.html"
-webUrl: "https://www.chinadaily.com.cn/a/202403/11/WS65ee412ea31082fc043bbbd9.html"
+excerpt: "The latest concerns arose in February when US firm OpenAI, which had created a sensation with ChatGPT, launched a text-to-video model called Sora, sending ripples through China's AI industry. Reactions ranged from admiration and appreciation to \"AI anxiety\"."
+publishedDateTime: 2024-03-10T23:51:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202403/11/WS65ee412ea31082fc043bbbd9.html"
+webUrl: "https://global.chinadaily.com.cn/a/202403/11/WS65ee412ea31082fc043bbbd9.html"
 type: article
 quality: 39
 heat: 39
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202403/11/65ee4458a31082fc2b6a24d8.jpeg"
-    width: 540
-    height: 270
+  - url: "https://img2.chinadaily.com.cn/images/202403/11/65ee6f2ea31082fc2b6a2b6b.jpeg"
+    width: 935
+    height: 623
     isCached: true
 
-secured: "vvQjYAc43vFo+eH6yCtPeArdzESsOFMFCf8dCALBroHGsK+Jwr01hSq62AFZ/VwNLSCBSx/N3DZXuUb31hDqUY5L9yU+WgFBReW/65HBA+eglM7GlAjhCF1nAoWPtiQXSWStWFn4U1UGatiZjb6dQJ6hzNyIN5wZHStfSmlhrP+Mw5KZ2vwU/z15CXiA3wejNQuRA2B4xktsdCKvpAjcQxtJtUidRfiMjR2WC5v5NXSiy3zu28VV1+ijG/oqi7AmJHRy1XOz800aYMJqGOCzbzVdIT1cgx7dZ4eStAxF8YAFKjBLqkv7eKV9JjNob0XqBgpdn0F4DrMjcsoM0c1xst9Uko9BM0Kx00hAvWC9h00=;y4PzMEJpId7IT/wG4Z6AkQ=="
+secured: "vQV4yIHAaCg+HCtohguEVAsD83Eh34LTmdwWI9+9615eT7L76o0TMAjfGaM2ysoxac7lE7OzZwmErHit+f1e+oPkuPqTQO7XBSXcG5qtV17z77tJEkdt9j/FMTRrr9GCFonmjiDjL2T+DHXd9SZZCD4klxcCM3SIL1msd9CA4AT2K0KLjVf6RGMSmj61rgcx7QWF+xCn0cv+BHluqm6u7089jcuswDLp4hLHtkOvya7+dPeOHnyR9k4GLQcKQrM0n8w/YW7g9GfzZXrBpQ4a2dG4KONoF3mQNnjq4vMKeVedovdRW/pLgcpjSCa9vORqjHeyMnJLnAqAJWdHmIxTABnEOAZhzWfJNusKJPFoFQI=;jBTkGJOo2KnpX+8CWisigQ=="
 ---
 

@@ -27,84 +27,162 @@ images:
     isCached: true
 
 related:
-  - title: "6 ways generative AI helps improve accessibility for all with Azure "
-    excerpt: "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft"
-    publishedDateTime: 2024-03-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
+  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
+    excerpt: "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization."
+    publishedDateTime: 2024-03-07T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+  - title: "Microsoft engineer warns company's AI tool creates violent, sexual images, ignores copyrights"
+    excerpt: "Shane Jones, who's worked at Microsoft for six years, has found a plethora of disturbing images that are being created by the company's Copilot Designer tool."
+    publishedDateTime: 2024-03-06T20:18:00Z
+    webUrl: "https://www.cnbc.com/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 93
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR05_322044_Blog_Blogheader_240305_V02-social.png"
-        width: 1200
-        height: 674
+      - url: "https://image.cnbcfm.com/api/v1/image/107380575-1709232114037-gettyimages-1755654626-porzycki-internet231030_npqRj.jpeg?v=1709685511"
+        width: 3603
+        height: 2402
         isCached: true
-  - title: "9 ways developer productivity is boosted by generative AI"
-    excerpt: "Generative AI is just one tool in the toolbelt that helps improve developer productivity with methodologies, frameworks and best practices.\nThe post 9 ways developer productivity is boosted by generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-03-06T20:10:24Z
-    webUrl: "https://www.ibm.com/blog/developer-productivity/"
+  - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
+    excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
+    publishedDateTime: 2024-03-08T06:14:00Z
+    webUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How Stitch Fix Is Using Generative AI To Help Us Dress Better"
-    excerpt: "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities."
-    publishedDateTime: 2024-03-08T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 69
+  - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
+    excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
+    publishedDateTime: 2024-03-07T14:43:00Z
+    webUrl: "https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "How generative AI will change low-code development"
-    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
-    publishedDateTime: 2024-03-11T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
-    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+      name: PC World
+      domain: pcworld.com
+    quality: 66
+  - title: "Sonata Software integrates Sonata Harmoni.AI with Microsoft Azure AI service"
+    excerpt: "Sonata Software in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni.AI with Microsoft Azure AI service. This integration complements Sonata's collaboration with Microsoft Fabric and its position as a Microsoft AI Partner Council member."
+    publishedDateTime: 2024-03-07T11:00:00Z
+    webUrl: "https://www.business-standard.com/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 691
-        isCached: true
-  - title: "AWS Unveils Generative AI Competency for Customers"
-    excerpt: "The program is designed to facilitate customer innovation with enterprise-grade security, privacy, foundation models, and high-performance, low-cost infrastructure."
-    publishedDateTime: 2024-03-07T12:11:00Z
-    webUrl: "https://analyticsindiamag.com/aws-unveils-generative-ai-competency-for-customers/"
+      name: Business Standard
+      domain: business-standard.com
+    quality: 66
+  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
+    excerpt: "announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization. The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the ..."
+    publishedDateTime: 2024-03-07T16:32:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/QUIS-X/pressreleases/24624555/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 62
+  - title: "Microsoft is making lots of money from LinkedIn Premium — and users like its AI tools"
+    excerpt: "LinkedIn generated $1.7 billion in revenue from premium subscriptions last year and says many users are taking advantage of its AI features."
+    publishedDateTime: 2024-03-08T13:03:00Z
+    webUrl: "https://www.businessinsider.com/linkedin-microsoft-premium-subscriptions-revenue-rising-ai-tools-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+  - title: "Microsoft Corporation (MSFT) Rose on Accelerated Growth from Azure"
+    excerpt: "Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” fourth quarter 2023 investor letter. A copy of the same can be downloaded here."
+    publishedDateTime: 2024-03-11T06:23:00Z
+    webUrl: "https://www.insidermonkey.com/blog/microsoft-corporation-msft-rose-on-accelerated-growth-from-azure-1272132/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
     quality: 54
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/1-How-Amazons-Silicon-Innovation-Is-Instrumental-in-AWS-Success-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/24233139/microsoft-4608125_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Generative AI Is A Game Changer For Talent Transformation"
-    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
-    publishedDateTime: 2024-03-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+  - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
+    excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
+    publishedDateTime: 2024-03-06T20:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
+  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
+    excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
+    publishedDateTime: 2024-03-10T13:59:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24684851/better-artificial-intelligence-ai-stock-nvidia-vs-microsoft/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 49
+  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
+    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
+    publishedDateTime: 2024-03-07T12:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg"
+        width: 400
+        height: 279
+        isCached: true
+  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
+    excerpt: "The leading Modernization Engineering company, Sonata Software (NSE: SONATSOFTW), (BSE: 532221) in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni."
+    publishedDateTime: 2024-03-07T18:35:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 44
+  - title: "Veeam To Jointly Develop AI Solutions With Microsoft For Industry's #1 Data Protection And Ransomware Recovery Platform"
+    excerpt: "Veeam to co-sell newly announced Veeam Data Cloud for Microsoft Azure and for Microsoft 365 with Microsoft which builds on the world's #1 data protec"
+    publishedDateTime: 2024-03-07T21:03:00Z
+    webUrl: "https://menafn.com/1107950423/Veeam-To-Jointly-Develop-AI-Solutions-With-Microsoft-For-Industrys-1-Data-Protection-And-Ransomware-Recovery-Platform"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/07/M_c9955image_story.jpg"
+        width: 1328
+        height: 927
+        isCached: true
+  - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
+    excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
+    publishedDateTime: 2024-03-07T16:17:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/veeam-announces-strategic-partnership-microsoft-integrate-copilot-ai-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
 
 secured: "3yFtWYOku1W84Wac7mjbrw9CencfXBLxmE5oYmOv0cribtayHaizpISqRZpFnyOrWqA2ngYeI07JCyd3CKmOmgJbBsCnMLjV7ZAi6ddq6umRuYgxrYieB9c5Xzsn8Eeeir1vvfxBf46js2vUD5hwZOrnUnGEYMa9BRxmdrATWVVXbqjaMBsndquoPPDZaGwEEZVp/lfbbjTW4sESHtMAM9q7gx1e/JcVQfGSANUTgLikI3ZYAOW5vJHTb6bd/eA7Y2Jj9rcHCV1+nCsYnaFDhKnqXFpRKqIgpvlk/1ENXKVEyBl94lgsh1OHBep22RmTAibf623mmGpIJ6lltEdQ7a/YB45ZRGLJd6L2moKZFbEt4s6kjEABL4VlTZeG7H2ggBHbqx862jObZTC3JVSnySDbQRmxLfruu/d9IFnlv+NUmrnf/0ho/wX+oIC+XF1RF/fgmH/aNgaCIxeEfpFPiKMZ3fZld0x4oCMGCwdqg/TYXucoMY0z4ERqD6D6+wHUkw/yKNKp2OLgCE0o7UYujw==;WnPAvj7nc6JfrpfGfVoIUQ=="
 ---

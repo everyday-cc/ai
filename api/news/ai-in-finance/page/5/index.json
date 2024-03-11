@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-06-wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing.md",
+      "title": "WiMi Developed Deep Reinforcement Learning-Based Task Scheduling Algorithm in Cloud Computing",
+      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it developed a deep reinforcement learning-based task scheduling algorithm in cloud computing to improve the performance and resource utilization of cloud computing systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing-1032877874",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-developed-deep-reinforcement-learning-based-task-scheduling-algorithm-in-cloud-computing-1032877874",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-ai-lessons-from-financial-market-surveillance.md",
       "title": "AI lessons from financial market surveillance",
       "excerpt": "Innovations in financial market surveillance are an interesting story of their own. They also have some important lessons for the future of AI oversight. The recent explosion in AI has heightened concerns about how the technology might lead to new unforeseen problems.",

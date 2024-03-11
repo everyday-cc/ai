@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Says NeMo AI Platform Complies With Copyright After Authors' Complaint -- Update"
+    excerpt: "By Mauro Orru Nvidia said its NeMo artificial intelligence platform was created in full compliance with copyright law, after a group of authors filed"
+    publishedDateTime: 2024-03-11T15:33:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-says-nemo-ai-platform-complies-with-copyright-after-authors-complaint-update-c4e4ecbf"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-after-authors-complaint-update-c4e4ecbf"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-after-authors-complaint-update-c4e4ecbf"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia is sued by authors over AI use of copyrighted works"
     excerpt: "2024 shows a US multinational Nvidia's graphic processing unit (GPU). Nvidia, whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform. Brian Keene ..."
     publishedDateTime: 2024-03-11T09:54:00Z
@@ -105,6 +121,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "yIzxPns/ApFrb1rWycmLTvFKs5b4nR/YI3bhoTYu1kmGJku4hvJ3JPEnOrBjdmaWVc/uAJFfyisdqFiYX0TzP77zEc+ASfpRhns8rm4z9qkO6l8CHNqsITZYNNxV5fxnsmUO1i04V4vDX0DLnAUvo88o7Brg+T1Hhgdv21UN0mcHnS41VqvoqSjwAqQAm1ahWopd4hYqUroJrquQK9whPsH5X2r3FqYcpgiR5d5cK8uEZX3RULzdiXOMEkAqFYWJY0XbPeV7WPlKkYNtc/ZyD6zGEMKd0vmzrLjIBQjfJLmUoKztjInlcuLNu9Ws1i9gjF7JmvyR832yN0jUzyZSk/RzRYfpYEWa6fVd0vvX98s=;MHCJFG3oj+9+4wlPQjvAAQ=="
+secured: "TCLXerYYev06LFy47V6UtpRDWQ9aBfsB0eGv4a8a6MQ4qveWzNQQwlShpmgGtx9iWxKWu9O7HMg9avb47VPn1c1xy1wvgDKhXLfS5gSBV+W6yS0UZLVNHotm8YIv5B0igN7ewoeJEcdr/aWhtkhryD/IGxx5M6qR5khPRnQY0RepaVZuiieb6p1TkZONR8ORMGXpOBCU4+koyBKoS6/+PJM4J5RVdF2w5HeKomin2IORLRIC0tsEKstP564euzWDBKz4+nAUStD5wgYKMM2Pt6cG/b7M7INe1bpQDahXViaL28jWQxs5i3dEvO8mbedEMkGGhxHXvRv+6vGZhiwVLVg7rEXuMaYWRf9T6Tx4397L+RiF/sRbLOeLZYgno9cv/g4Q6ezKT9uMNhsG2TULLaY0kjGaor9kGCzWH1EPyaVXUS5QOML/N3nlCvPkO7Cj9DFm/sfGu7x1TQ4tQ/OzYSFG+qXmzt+eQ+8y1rtwl1wuGFvowwdLmpoB4Lxuey1MGMry8qBgULhXFc5HNKTWyA==;NGM3f/q5RQmnOhCj5a29dA=="
 ---
 

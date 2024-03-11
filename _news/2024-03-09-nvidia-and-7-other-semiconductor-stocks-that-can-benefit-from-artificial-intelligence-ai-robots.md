@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "What you need to know about Nvidia and the AI chip arms race"
-    excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
-    publishedDateTime: 2024-03-08T22:18:00Z
-    webUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 56
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200"
-        width: 1200
-        height: 807
-        isCached: true
   - title: "Nvidia’s AI chips can't be beaten, even if they're free"
     excerpt: "Jensen Huang gets overenthusiastic. Nvidia boss Jensen Huang has boasted that his firm's chips are \"so good that even when the competitor's chips are free, it's not cheap enough.\" At the 2024 SIEPR Economic Summit,"
     publishedDateTime: 2024-03-11T10:08:00Z
@@ -47,74 +33,43 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
-    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
-    publishedDateTime: 2024-03-10T13:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
+  - title: "What exactly is NVIDIA's AI specialized GPU? Is it different from a gaming GPU?"
+    excerpt: "As AI research and development progresses rapidly, NVIDIA, which develops 'GPU for AI', is also attracting a lot of attention. However, even though we know that GPUs are used for AI research ..."
+    publishedDateTime: 2024-03-07T12:01:00Z
+    webUrl: "https://gigazine.net/gsc_news/en/20240307-nvidia-ai-gpu"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "How NVIDIA leads the world by making AI user-friendly"
-    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
-    publishedDateTime: 2024-03-06T19:14:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
-  - title: "Inflows Into Bullish Nvidia ETF Hit Record on AI Frenzy"
-    excerpt: "(Reuters) - Investors have piled into Nvidia-focused exchange-traded funds (ETFs) this year on the frenzy around AI, with inflows into a bullish fund that tracks the shares of the chip designer hitting an all-time high on Wednesday. Net daily inflows into ..."
-    publishedDateTime: 2024-03-07T10:51:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-03-07/inflows-into-bullish-nvidia-etf-hit-record-on-ai-frenzy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Will Nvidia GTC Mark The Peak Of AI?"
-    excerpt: "In these explosive times and stock market surges, how to find the nuggets in the most important AI show in the world."
-    publishedDateTime: 2024-03-06T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2024/03/06/will-nvidia-gtc-mark-the-peak-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "NVIDIA emphasizes importance of nations investing in sovereign AI"
-    excerpt: "NVIDIA has this week been emphasizing  the importance of nations investing in sovereign AI, which is the development of artificial intelligence"
-    publishedDateTime: 2024-03-11T09:48:00Z
-    webUrl: "https://www.geeky-gadgets.com/sovereign-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: GIGAZINE
+      domain: gigazine.net
+    quality: 50
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/importance-of-nations-investing-in-sovereign-AI.jpg"
-        width: 1280
-        height: 717
+      - url: "https://i.gzn.jp/img/2024/03/07/nvidia-ai-gpu/00.png"
+        width: 560
+        height: 315
         isCached: true
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
-    publishedDateTime: 2024-03-08T00:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+  - title: "NVIDIA CEO Jensen Huang says next-gen DGX AI system will be liquid cooled"
+    excerpt: "NVIDIA CEO Jensen Huang confirms next-gen DGX AI system will be liquid-cooled, off the back that Dell confirmed B200 will use up to 1000W of power."
+    publishedDateTime: 2024-03-10T23:39:00Z
+    webUrl: "https://www.tweaktown.com/news/96744/nvidia-ceo-jensen-huang-says-next-gen-dgx-ai-system-will-be-liquid-cooled/index.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 18
-  - title: "The 10 best Mac tips and tricks you need to know about"
-    excerpt: "That's it; our favorite Mac tips and tricks on macOS Sonoma will help you save some time, make your life easier, and give you a new outlook on the way you use your Apple devices. Using these tips and tricks will make even the best Macs better."
-    publishedDateTime: 2024-03-07T16:28:00Z
-    webUrl: "https://www.imore.com/mac/macos/the-10-best-macos-tips-and-tricks-you-need-to-know-about"
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 38
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96744_908_nvidia-ceo-jensen-huang-says-next-gen-dgx-ai-system-will-be-liquid-cooled_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
+  - title: "Nvidia CEO Jensen Huang Thinks Even Free AI Chips From Rivals Are 'Not Cheap Enough' Compared To Its GPUs"
+    excerpt: "Nvidia CEO Jensen Huang believes the company’s AI technology is so advanced, chips from rivals would prove costly even for free. Huang also believes despite Nvidia’s dominance, it faces the most competition compared to “anyone on the planet.”"
+    publishedDateTime: 2024-03-11T09:45:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/03/37586814/nvidia-ceo-jensen-huang-thinks-even-free-ai-chips-from-rivals-are-not-cheap-enough-compared-to-i"
     type: article
     provider:
-      name: iMore
-      domain: imore.com
-    quality: 4
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
 
 secured: "qXvhiwBhsXw670d4htI6HHmu7w3kmgBFBq1tU6btOIPSktWB84/cOHMHPU0a9SJ+/AAGd20qBlxFmOpxsI+99CpKTgh5uXmgHLhilKPahImBS1MTCTVcERHcrKbDnW/J3+RczznWEkTIRdxhucv6FIX7uyT2dJdj2CXFUcw2j6hDb07G/3mp+YaKY8u4/zJ8gjMkJg3Epz2idPHTLqkGv2/LG1gxIuGe8RZ/fZ4TwWUIvd6pDL/y0kex+1sdVyP0tLV0aCkyPYGY97SwLT7cFCX49BhmE09BVuVSDFtPgKTaMiBifyG3THOqoj4qVsD2GtqaOdmCPQu9OqD9S8BGX1Ew0U0hOuU2HOk3sSdzYkY=;gkk7O5w5iMyYe3l4DL9FoA=="
 ---

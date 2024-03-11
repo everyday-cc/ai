@@ -22,14 +22,14 @@ related:
   - title: "Katie Britt used decades-old example of rapes in Mexico to attack Biden border policy"
     excerpt: "The Republican senator who gave the party's response to President Joe Biden's State of the Union address used a harrowing account of a young woman's sexual abuse to attack his border policies, but the rapes did not happen in the U.S. nor during the Biden ..."
     publishedDateTime: 2024-03-08T07:46:00Z
-    webUrl: "https://tulsaworld.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_61d4caa6-7555-53ce-becf-44ca4df48a48.html"
+    webUrl: "https://auburnpub.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_f3786808-3eb4-556f-83fe-45e540e068d6.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Auburn Citizen
+      domain: auburnpub.com
     quality: 17
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/1d/61d4caa6-7555-53ce-becf-44ca4df48a48/65ed10c361ae4.preview.jpg?crop=1433%2C752%2C48%2C103&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/f/37/f3786808-3eb4-556f-83fe-45e540e068d6/65ed0f72e0da0.preview.jpg?crop=1433%2C752%2C48%2C103&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

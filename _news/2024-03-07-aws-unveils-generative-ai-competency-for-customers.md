@@ -25,86 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "6 ways generative AI helps improve accessibility for all with Azure "
-    excerpt: "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft"
-    publishedDateTime: 2024-03-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
+  - title: "Rackspace Technology Achieves the AWS Generative AI Competency"
+    excerpt: "Achieving the AWS Generative AI Competency in the categories of Consulting Services, Generative AI Applications, and Infrastructure and Data differentiates Rackspace Technology as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting key use cases for knowledge management,"
+    publishedDateTime: 2024-03-06T20:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieves-the-aws-generative-ai-competency-1033139305"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Weights & Biases Achieves the AWS Generative AI Competency"
+    excerpt: "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications."
+    publishedDateTime: 2024-03-06T18:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-weights-biases-achieves-aws-generative-ai-competency-/2024/03/06/9974204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR05_322044_Blog_Blogheader_240305_V02-social.png"
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
-        height: 674
+        height: 627
         isCached: true
-  - title: "9 ways developer productivity is boosted by generative AI"
-    excerpt: "Generative AI is just one tool in the toolbelt that helps improve developer productivity with methodologies, frameworks and best practices.\nThe post 9 ways developer productivity is boosted by generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-03-06T20:10:24Z
-    webUrl: "https://www.ibm.com/blog/developer-productivity/"
+  - title: "Space loves AI, AI doesn’t love Space"
+    excerpt: "Operators are developing creative solutions for putting AI on satellites, a challenge that comes with myriad technical and logistical obstacles."
+    publishedDateTime: 2024-03-11T16:43:00Z
+    webUrl: "https://spacenews.com/space-loves-ai-ai-doesnt-love-space/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How Stitch Fix Is Using Generative AI To Help Us Dress Better"
-    excerpt: "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities."
-    publishedDateTime: 2024-03-08T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
+      - url: "https://spacenews.com/wp-content/uploads/2024/03/space-loves-ai_dramatic-contrast.jpg"
+        width: 1000
+        height: 1000
         isCached: true
-  - title: "How generative AI will change low-code development"
-    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
-    publishedDateTime: 2024-03-11T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
-    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+  - title: "DoiT Achieves the AWS Generative AI Competency"
+    excerpt: "Over the past year, DoiT has leveraged technologies like Amazon Bedrock and Amazon SageMaker to build AI foundations for its customers and ensure their environments are regularly optimized based on emerging best practices. The AWS Generative AI Competency ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://www.01net.it/doit-achieves-the-aws-generative-ai-competency/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 691
-        isCached: true
-  - title: "Microsoft's Annual Ability Summit Launches With Accessible AI Tech, Features for the Disabled"
-    excerpt: "Microsoft's 14th Ability Summit takes AI to the center stage in curbing the disability divide with promises of accessible features for Windows Copilot, Azure AI, and other Microsoft applications. The annual summit is Microsoft's one-day celebration ..."
-    publishedDateTime: 2024-03-07T21:03:00Z
-    webUrl: "https://www.techtimes.com/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 63
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444157/spain-wireless-telecoms-internet-mobile.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Generative AI Is A Game Changer For Talent Transformation"
-    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
-    publishedDateTime: 2024-03-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: 01Net
+      domain: 01net.it
+    quality: 34
 
 secured: "NwkW67FRuzX/nY5uUpY+fLntAlliNlMk/He0IQcjWWn9Qskfw8jD5ZOeVY2hMBbCIzgxWalc+t9EGD+jrgCA2F+BBuI2ArgAFRI59FzGqHL/xadR5KK7tqJeieJdht7QqBGofe5ZTHSQbEKn9WtHS2/UtIoDUy1dBzNGzfmctvK8I+S2R3m5XjZIUySr/WClvhOYtxPS6T1E+GXoogCj8oIvoqucpkfGD5ukD5CeNUp+PJbId7dyfbWxmvxGLTYewjigelLUEYeQv4YMAHRtcWanwzO1E8dtHiExaKwqJdddPjSvXtIuqnYJj4d3PhxQ0FykBU5zwnHHXmdFLuUYxnYT87Wie0Crfpg/DDNFpi7zfZGkyj9ko2SosHIPEyMNc6uSRVyzwFJDRmb4B3fzu/LIRTgWS+q3IUA4bdc2NmfGOOSzVh4L8RtQQ9D2Td+iry6ljJGuErggpvWisG3i/PmmGtVncsjDPIjIWCl+DRKoNJS10GtN0TIb1RRTC+ksoEFZ3yH4HZEKKJl9kxEsig==;qNSGwYG4WXR8ZnVPB/VZQQ=="
 ---

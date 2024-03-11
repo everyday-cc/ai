@@ -36,15 +36,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 14
-  - title: "Use of Indian languages key for increasing internet access in India: Report"
-    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
-    publishedDateTime: 2024-03-10T13:23:00Z
-    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 2
 
 secured: "RtAbCxva7s9MMEsyb77YfOJ2asiYYVYS8sNxOWDaRuedUD5ZmpiaphSk8ln3AwuiCpEv8vsVxbZTyqiVFG8bJ8e+aKT20vmmU3pYRL9L/HJgZZnmxhvpNC95YJAfFIrUV6ZI4fiOxUFrnE7dqT3yP0eDzxyH44ION50/t3Xh5TgND3SCpjdhCWlQriyMd9X2AC2ci0FxTgcpE3K9FUtQPoYLVDlzs1FetbjvZgra+x5JdGMimPvSWmfbl3HkyXjlT1cdFNf+8GMbnhG62qFUDfgWZruETnQp+zJk6DzklSv0G1Nb6sb0EWG/vsDID9OTVRlWhB8Ok1bWmWTXnLGOVAIwkIktA+E3hfLNBjMS6+RNkNNjw32eham2vGKa15mNdvBjS5kRwyCpi1RrlMdqzkriqmP3ZC2FkK8eOmRqRhkkC/f+jPQWMynDT0yC1Z+YewOB+zkwR65BTeN2msm8BeWEzxBF4dWrzg8HbbDFIiolARRKhPsapFPum4K+1/q1kpP0X9EhLpKEDSRCqMZkxg==;TVlhfRTkYsuSdc6/n2EyYQ=="
 ---

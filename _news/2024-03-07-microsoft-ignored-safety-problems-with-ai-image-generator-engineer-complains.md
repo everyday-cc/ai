@@ -50,17 +50,6 @@ related:
         width: 3603
         height: 2402
         isCached: true
-  - title: "A Microsoft employee warns that the company’s AI tool can generate ‘offensive images’"
-    excerpt: "A Microsoft software engineer on Wednesday warned of shortcomings in the company’s artificial intelligence systems that could lead to the creation of harmful images in a letter sent to the US Federal Trade Commission."
-    publishedDateTime: 2024-03-06T16:45:00Z
-    webUrl: "https://www.cnn.com/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/06/tech/microsoft-ai-copilot-designer-ftc-warning/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 77
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -92,6 +81,22 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 66
+  - title: "Microsoft's Annual Ability Summit Launches With Accessible AI Tech, Features for the Disabled"
+    excerpt: "Microsoft's 14th Ability Summit takes AI to the center stage in curbing the disability divide with promises of accessible features for Windows Copilot, Azure AI, and other Microsoft applications. The annual summit is Microsoft's one-day celebration ..."
+    publishedDateTime: 2024-03-07T21:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 63
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444157/spain-wireless-telecoms-internet-mobile.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
     excerpt: "announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization. The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the ..."
     publishedDateTime: 2024-03-07T16:32:00Z
@@ -158,15 +163,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 44
-  - title: "Cognizant and Microsoft Collaborate to Power the Future of Healthcare Administration with Generative AI"
-    excerpt: "The TriZetto platform, powered by Azure OpenAI Service, will help payers and providers reduce hidden costs and enable better patient outcomes for millions of Americans. TEANECK, N.J., March 6, 2024"
-    publishedDateTime: 2024-03-06T16:23:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61605799-cognizant-and-microsoft-collaborate-to-power-the-future-of-healthcare-administration-with-generative-ai-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 35
   - title: "Veeam To Jointly Develop AI Solutions With Microsoft For Industry's #1 Data Protection And Ransomware Recovery Platform"
     excerpt: "Veeam to co-sell newly announced Veeam Data Cloud for Microsoft Azure and for Microsoft 365 with Microsoft which builds on the world's #1 data protec"
     publishedDateTime: 2024-03-07T21:03:00Z
@@ -181,15 +177,6 @@ related:
         width: 1328
         height: 927
         isCached: true
-  - title: "Watchdog Group Says OpenAI and Microsoft AI Tools Can Create Election Misinformation"
-    excerpt: "The Center for Countering Digital Hate made fake images using ChatGPT Plus, Microsoft's Image Creator, Midjourney, and Stability AI's DreamStudio it says could influence voting choices."
-    publishedDateTime: 2024-03-06T16:45:00Z
-    webUrl: "https://www.inc.com/reuters/watchdog-group-says-openai-microsoft-ai-tools-can-create-election-misinformation.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 27
   - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
     excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
     publishedDateTime: 2024-03-07T16:17:00Z

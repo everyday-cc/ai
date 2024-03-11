@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
-excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
-publishedDateTime: 2024-03-07T07:00:00Z
-originalUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
-webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
+title: "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024"
+excerpt: "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ..."
+publishedDateTime: 2024-03-07T09:02:00Z
+originalUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
+webUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/464663-Screenshot-2024-01-18-225.jpeg?h=bde28bee&itok=Hgla7csP"
-    width: 600
-    height: 316
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?544192"
+    width: 549
+    height: 250
     isCached: true
 
 related:
@@ -69,6 +69,15 @@ related:
         width: 409
         height: 269
         isCached: true
+  - title: "The Top 7 Fintech Stocks to Buy in March 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are spearheading a revolutionary shift in their niche,"
+    publishedDateTime: 2024-03-08T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "hedgehog lab promotes fintech vet to chief client officer"
     excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
     publishedDateTime: 2024-03-11T14:24:00Z
@@ -102,6 +111,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "rGRGJ0xjoIYOnbTX/Ddsws89/RuVJEsC7MA5gRaoM43rIWj6dLjf6POQ+8WnzKuhwAm35zkllCZLglcxOATafs4hrCunix8a3q+e6fOpUoRHfPB61E8Dw4DAomXTj5Qb0YIrbA9DiWiEnIwYdRm4hqDVY8AcYXvbqQUusGO0WiD0bBRpo5es0HIG4iSYQxpwvcTy2Ypoz9Lc5dqmuxrorAoik7U/tmf53qJV+i2GDx0iCimIA7eOM2VqzjHCIoNW/mexO1Ob/P/rGCOxPflHcetQ+ONCYAqiarD3C9X5P2syDLfQQ5jczSFUX+sUW9JejwC5U9RIqlhbkCp+GvEveRHA2m/hWwEZ2SQQWg0204M=;UDWDVJIijIdR/hn3IzHFrQ=="
+secured: "CvYXRqWiEA8oCj2TXXHqtlonQ526gCu1fUSkyXyRZM/t5PS8OSnz9RhtU1pDMizgoEjq9ziJb2q3kWIo/MnmGbworNkySlkMqowq1R4kxToC8yZ3juZU+iezWr8jGg1pVY1WZm/jsz7c0Pl/B0TQf/v+kHFbUoe/2OTWwT5tZvla6MBLVtOkKhk8fOneKkEN6IKkN5G1dyOlvWcOUfplRCc3ZlOH5Fc54o4J9mTSEwchp3vsqc/3lr4VEbFF6OanXRaC29Y6QgJimpjWbh9ntIZQE4bith7HKT/DCue02XC8JAk7Do7HJl8aIOZjRjdpEGoqr5+b3m28P1epBO2kTZXoNoH/U252udegBeaWFWQ=;q4p7UBY4jUn6FntDti72hw=="
 ---
 

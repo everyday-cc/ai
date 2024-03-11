@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-move-fast-break-ai-3423665
 webUrl: "https://www.androidauthority.com/google-move-fast-break-ai-3423665/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Widening lead in AI memory chips"
+    excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."
+    publishedDateTime: 2024-03-07T22:11:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2024/03/08/widening-lead-in-ai-memory-chips"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/08/2581151.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Eye On AI: Oh The Humanity — Everybody’s In A Rush To Reassure AI Development Will Help Us"
     excerpt: "The big AI news this week is Elon Musk’s lawsuit against OpenAI and its executives — including co-founder and CEO Sam Altman — claiming breach of OpenAI’s founding agreement."
     publishedDateTime: 2024-03-07T12:00:00Z

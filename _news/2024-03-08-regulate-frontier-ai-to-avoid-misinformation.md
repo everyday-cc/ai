@@ -38,6 +38,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "U.S. Dept. of Energy seeks comment on using AI to improve electric grid and mitigate climate risks"
+    excerpt: "The U.S. Department of Energy (DOE) issued a request for information (RFI) on artificial intelligence’s (AI) potential to enhance U.S. electric grid infrastructure, expand the domestic electric energy supply, and mitigate climate change risks. The Biden ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/u-s-dept-of-energy-seeks-comment-on-9790291/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 25
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "JR23dNA2Wt0LiMN3KdcDmP/qKYawOfl+BfIwT8swSCdmG/ZblpgKBkL2mwqkDnCAdzcnaQa1ZigH3n2W4i0Wkomuh8PA+t8Q8SvsAF4VvHNu/5JvedIUZAIhP8ej82fFTicsuAD5n7NEeejFYHP9uSzlMvaN5+kpdeYl/nKq4/q60DNNiiVbvcIlSKW0m5sc17BJMyUPHsbkYUjEBHqESrGqv8YIY6xmTqFsAdr6bO9TrYuGvwNkC4KtoMibaKV4kUoS5mRm9deNOYqhFLfKf4jlX4VHUNHTz2iZWsZjabCSrvZigBj+Zd5K7VYBuGQ4m9cGZq9p9jWvems37m7OaESOmbEmNVJIHxz6RwDzoXAOicJtrUu8DF3V3Fh1Pfg9TFxHHdL4DHMrgsPdqSI3YSmKfOot7Kh/Vf3canIVV5ipmGiHHWMwR8MQqTtVUYVpnQo9nboKHd+1gbRKS4/D4VZoFYFTK5cGTf/6FzNXJ8o2IEjbGasmYSdl38YHzssH7aUqWdJ90JvvdsJ9h6i7JA==;/jJLS3/wX1b/ujkDYzWGPw=="
 ---

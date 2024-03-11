@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/developer-productivity/"
 webUrl: "https://www.ibm.com/blog/developer-productivity/"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: IBM
@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "6 ways generative AI helps improve accessibility for all with Azure "
-    excerpt: "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft"
-    publishedDateTime: 2024-03-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/"
+  - title: "No silver bullet: Closing the gender gap in the era of generative AI"
+    excerpt: "Closing the gender gap won't happen overnight. It’s a puzzle, and we need all the pieces to come together. Generative AI can help.\nThe post No silver bullet: Closing the gender gap in the era of generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-03-08T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR05_322044_Blog_Blogheader_240305_V02-social.png"
-        width: 1200
-        height: 674
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "How Stitch Fix Is Using Generative AI To Help Us Dress Better"
     excerpt: "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities."
     publishedDateTime: 2024-03-08T05:00:00Z
@@ -69,35 +64,19 @@ related:
         width: 1200
         height: 691
         isCached: true
-  - title: "Microsoft's Annual Ability Summit Launches With Accessible AI Tech, Features for the Disabled"
-    excerpt: "Microsoft's 14th Ability Summit takes AI to the center stage in curbing the disability divide with promises of accessible features for Windows Copilot, Azure AI, and other Microsoft applications. The annual summit is Microsoft's one-day celebration ..."
-    publishedDateTime: 2024-03-07T21:03:00Z
-    webUrl: "https://www.techtimes.com/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
+  - title: "EA says generative AI will make gamers spend more, speed up development time"
+    excerpt: "Speaking at the Morgan Stanley Technology, Media & Telecom Conference on Wednesday (via Techraptor), Wilson called generative AI an \"incredibly exciting\" technology that EA is embracing."
+    publishedDateTime: 2024-03-07T14:50:00Z
+    webUrl: "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 63
+      name: TechSpot
+      domain: techspot.com
+    quality: 66
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444157/spain-wireless-telecoms-internet-mobile.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "AWS Unveils Generative AI Competency for Customers"
-    excerpt: "The program is designed to facilitate customer innovation with enterprise-grade security, privacy, foundation models, and high-performance, low-cost infrastructure."
-    publishedDateTime: 2024-03-07T12:11:00Z
-    webUrl: "https://analyticsindiamag.com/aws-unveils-generative-ai-competency-for-customers/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/11/1-How-Amazons-Silicon-Innovation-Is-Instrumental-in-AWS-Success-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-07-image-9.jpg"
+        width: 3840
+        height: 2160
         isCached: true
   - title: "Generative AI Is A Game Changer For Talent Transformation"
     excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
@@ -108,6 +87,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "This Bengaluru-based AI Startup is Helping Enterprise Productionize Generative AI Apps Reliably"
+    excerpt: "Portkey.ai, a bengaluru based startup boosts enterprise AI app deployments, simplifying integration in the LLMOps landscape."
+    publishedDateTime: 2024-03-08T05:04:00Z
+    webUrl: "https://analyticsindiamag.com/this-bengaluru-based-ai-startup-is-helping-enterprise-productionize-generative-ai-apps-reliably/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 25
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/03/portkey-ai-founders.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "rBubxgkXQktbSB1T03oRsOaWffAAVxSPjp24eFCC6VRoQ76FWSpd0j0MCQy/JEypQNj4JihcEMcTV9+f6osT0b/NIt+72lEPtlURF2kPF1sP+saK3rZlsdr9Qv2+3uvNrH1CX191agVAZCWVOhh1c7Oz8m28qJY+ojni41IGSnndDhjFoxMsl/fhD9HMYyOv00YmviqtNK/jAacB8gEutx5TOoj/lKIBzicvFjuuVZ5SbFaGL7iST0zL7nOJwvg0zVEerDPnQF5ApCKvY78k19YtC+iju5QgISjeqXiAI/saL0hkjekLyTCp00nQ4NaoXhSmzRbian2pEg7F+GAdXbWDDjytWulIdiMBcVie1v0=;KxAPoh3og1nJtUgTafWZSg=="
 ---

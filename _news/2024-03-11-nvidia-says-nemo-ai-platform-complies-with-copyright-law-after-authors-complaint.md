@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-c
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Says NeMo AI Platform Complies With Copyright After Authors' Complaint -- Update"
+    excerpt: "By Mauro Orru Nvidia said its NeMo artificial intelligence platform was created in full compliance with copyright law, after a group of authors filed"
+    publishedDateTime: 2024-03-11T15:33:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-says-nemo-ai-platform-complies-with-copyright-after-authors-complaint-update-c4e4ecbf"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-after-authors-complaint-update-c4e4ecbf"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-after-authors-complaint-update-c4e4ecbf"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia is sued by authors over AI use of copyrighted works"
     excerpt: "2024 shows a US multinational Nvidia's graphic processing unit (GPU). Nvidia, whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform. Brian Keene ..."
     publishedDateTime: 2024-03-11T09:54:00Z

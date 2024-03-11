@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How the A.I. That Drives ChatGPT Will Move Into the Physical World"
+    excerpt: "In a move aimed at addressing fears that A.I. could be used to create bioweapons, over 90 biologists and other scientists have signed an agreement that seeks to ensure that their research will move forward without exposing the world to serious harm."
+    publishedDateTime: 2024-03-11T16:00:00Z
+    webUrl: "https://www.nytimes.com/2024/03/11/technology/ai-robots-technology.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 71
+    images:
+      - url: "https://static01.nyt.com/images/2024/03/11/multimedia/11ai-robotics-01-bzgl/11ai-robotics-01-bzgl-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
     excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
     publishedDateTime: 2024-03-07T17:48:00Z

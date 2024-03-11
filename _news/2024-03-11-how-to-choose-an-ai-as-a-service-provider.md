@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intel
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 type: article
 quality: 71
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computerworld
@@ -33,82 +33,45 @@ images:
     isCached: true
 
 related:
-  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
-    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
-    publishedDateTime: 2024-03-10T01:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+  - title: "How Financial Services Firms Can Unleash The Power Of Generative AI"
+    excerpt: "To unlock the full value of gen AI, banks, and insurers first need to establish essential building blocks around their data, culture and responsible AI."
+    publishedDateTime: 2024-03-11T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e9b33440c6fe9eb6e8cf6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1513
+        height: 900
+        isCached: true
+  - title: "How SA businesses can unlock the power of AI"
+    excerpt: "IBM’s research in AI goes back to the 1950s and includes significant milestones like the Deep Blue supercomputer defeating chess grandmaster Garry Kasparov. In 2011, IBM Watson defeated Brad Rutter and Ken Jennings in the Jeopardy!"
+    publishedDateTime: 2024-03-08T07:04:00Z
+    webUrl: "https://it-online.co.za/2024/03/08/how-sa-businesses-can-unlock-the-power-of-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
     quality: 41
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
+      - url: "https://it-online.co.za/wp-content/uploads/2024/03/Ria-Pinto.jpg"
+        width: 1075
+        height: 900
         isCached: true
-  - title: "How to Navigate AI as Humanity's Next Great Arms Race"
-    excerpt: "We should take some lessons from the atomic race as we compete to create new artificial intelligence technologies."
-    publishedDateTime: 2024-03-06T18:52:00Z
-    webUrl: "https://www.inc.com/inc-masters/how-to-navigate-ai-as-humanitys-next-great.html"
+  - title: "Law Firms Aren’t Behind the Generative AI Adoption Curve—Yet"
+    excerpt: "Welcome back to the Big Law Business column. I’m Roy Strom, and today we look at how law firms stack up to other companies deploying generative AI tools."
+    publishedDateTime: 2024-03-07T10:30:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/law-firms-arent-behind-the-generative-ai-adoption-curve-yet"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1351969920_bxksd5.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Intelligence service: how schools are managing AI"
-    excerpt: "Artificial intelligence is everywhere. Since ChatGPT launched in November 2022, it seems a day hasn't gone by without a shouty headline about robots taking over our jobs and schools. While much of the press has been predictably negative with lurid stories ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://theweek.com/education/ai-in-schools-machine-learning"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jKrZd6NChLayZULiivHRj4-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
-    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
-    publishedDateTime: 2024-03-11T08:42:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 33
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
-        isCached: true
-  - title: "Manufacturers, Software Providers Lean Into Artificial Intelligence"
-    excerpt: "On the manufacturer side, HVAC engineers are using data-gathering capabilities to introduce all kinds of innovations in indoor comfort. One of those is Mitsubishi Electric Trane HVAC US LLC (METUS), whose 3D i-See Sensor can thermally scan an interior space, analyzing the temperature profile of the room to detect cool and warm spots."
-    publishedDateTime: 2024-03-06T19:00:00Z
-    webUrl: "https://www.achrnews.com/articles/154211-manufacturers-software-providers-lean-into-artificial-intelligence"
-    type: article
-    provider:
-      name: ACHR News
-      domain: achrnews.com
-    quality: 17
-  - title: "Which Role Prepares You Best to Lead a Language Service Provider?"
-    excerpt: "March marches on, and with it, the end of the first quarter of 2024 gets closer. As the Language Service Provider Index (LSPI) reveals, there are indications of stability … for some companies. The Super Agencies managed to grow a bit."
-    publishedDateTime: 2024-03-07T15:00:00Z
-    webUrl: "https://slator.com/which-role-prepares-you-best-to-lead-a-language-service-provider/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 19
 
 secured: "HV2TUPGpslok+aw/EO3iVTOpKmRR0a8P158MBZt5aAXxis/uktRwgWfj/mady63TyIXFIauNprawl7th834YN/WW9+YWIOuFor7HHcf00ViFGG45gHC9/qV5Stj9mnuZNyeE9pSI5ckBq53XTD9lTztrf1ha72+Ypg+biQ7SYn84zNLdmerx9zeI4YYV5jC/2ECAj9rLoDj7sLCsQ/tGeTUG/r/nLlGyOQ32/YsIiMLsMIn6trP7UuDnHzu2of0CooCp+b34pdELe/aSbzMpuZM9RzApcZn7bhM1xUcJcFzwSrvDKsxPbC8u50zyMJr2pd427O0sv7Ja8FJMPPBXuVlJovbAYqnGUMmmmgJRubPEBgDtIVdQ8EV1fBc+mPC9ouqXbF4G51GMcD+RLZPvrPLMawcNc1fqXdYTcak+YLX/JLngStc5ww79weWPujsGuMgu1it8d28wgU2G+/020zwi6aIwXAVmyQbgW3KOfIF01VXIhdRaJZeV1dpa/rOnveKk+F83iXksvmEoTaktHw==;YPckzqig7DUX4AHA/Vy74A=="
 ---

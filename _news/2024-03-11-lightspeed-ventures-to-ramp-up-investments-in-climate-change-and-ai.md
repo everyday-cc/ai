@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Lightspeed Ventures To Ramp Up Investments In Climate Change And AI"
-excerpt: "Bengaluru: Lightspeed Venture Partners, which has backed prominent Indian startups such as Sharechat, Udaan and Razorpay, will invest in emerging a"
-publishedDateTime: 2024-03-11T09:55:00Z
-originalUrl: "https://menafn.com/1107959314/Lightspeed-Ventures-To-Ramp-Up-Investments-In-Climate-Change-And-AI"
-webUrl: "https://menafn.com/1107959314/Lightspeed-Ventures-To-Ramp-Up-Investments-In-Climate-Change-And-AI"
+title: "Lightspeed Ventures to ramp up investments in climate change and AI"
+excerpt: "Rahul Taneja, partner at Lightspeed India, said the VC firm would continue to invest in emerging themes in addition to the core streams of enterprise SaaS, fintech, consumer and commerce."
+publishedDateTime: 2024-03-11T16:54:00Z
+originalUrl: "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai-11710134071305.html"
+webUrl: "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai-11710134071305.html"
+ampWebUrl: "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2024-03/11/LM_49028image_story.jpeg"
-    width: 800
-    height: 450
+  - url: "https://www.livemint.com/lm-img/img/2024/03/11/1600x900/RahulTaneja_2-683x1024_1710134245640_1710134273934.jpeg"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "YhugZwuy1UnOeJ7GHdoPfys5Z5vt/pOXG+rwpoHIccHCkUZPxj/jSBxLABYL5lDc19+AoQJbAu5wzxAfL81Tk4gj7gLLQRYGbwM131vRcqDEiRkKjPGaTMbS4Uht2ZGqbQDTUkDaLtM1IVCSmBHdP7miaUiGZO+JqU54uc+T58DpWzY3fJyYRtEevCFtFl0gTdndh4xseNMkTwIBEwhxtvRjE3FhfL9wQgkHxKPkEPhM1GIrm+rXc28lQkkGDE/8FuJUmuezy8paJTjr62w4X6fKUCBUHx5TP1nF+Wc3N1k5urgP3a+/Z6myOfOPl/0YZxJg0AYQLKopce2ENbZk73qfwIx/DpMf3RlXKfPaCuxt+dl/Cdo7VRsun6pNJR3Juzf18yKu85m4CPqNfUs/0zyATR5wx9zvCTGoHIOv5WU5a6nNxxVrSVdcmpmYhcaNdL2bf3ilJjfeuztVOL6hpm4Qv9vvP+KAFday70OEgXlwfPHw4C7Rm93BH1t+c+9CSSiLaKZQNqWnX+Q++qa1fg==;IuD6grxg0OGheOM0kPc4lA=="
+secured: "TG+0tUA35bzVSGnODr44CRzw3bLukbKHad8aqzAySxrND8UBRWghZWFlC5pLqNV1Z9C8BdZYcVZEwPqFlVZjC4lvynGyHYAYFtjIfgrCDAVwIQSpIZ3Inm3ii7g6ag24JuyHflMLlrMzqHPFEQNubKRp3L6bImzdX3uTsh+VUf5q1QR3yE4Gj5jexW/RtsFui5Jg7QvzGjoz/AiXnM3JsMSfS3TJl9cnchhmrEWjtJpc+GDPR80yKcgPN6iDvl4Iq5DET/ro/FiY7VA0kCk2J9+xGddJIOfoOcXQbJxWSOjgCF4gBhZywnsdXJC5HHcRlRp8V6B0GRw0gKflN70MyrYjvJ/W1rVydjjE7XqHFX0=;OQnDoq3GbjOvovMD0QF4Ag=="
 ---
 

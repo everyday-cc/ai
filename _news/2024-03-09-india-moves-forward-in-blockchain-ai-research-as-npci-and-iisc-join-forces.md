@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-r
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
 type: article
 quality: 59
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -51,17 +51,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "NPCI ties up with IISc for joint research on blockchain and AI technology"
-    excerpt: "National Payments Corporation of India (NPCI) has announced the signing of a multi-year Memorandum of Understanding (MoU) with the Indian Institute of Science (IISc), Bengaluru, for conducting joint research on Blockchain and Artificial Intelligence (AI) technology."
-    publishedDateTime: 2024-03-06T16:26:00Z
-    webUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece"
-    ampWebUrl: "https://www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/npci-ties-up-with-iisc-for-joint-research-on-blockchain-and-ai-technology/article67921745.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 38
   - title: "French Cryptography Startup Zama Raises $73M for Blockchain, AI Privacy Apps"
     excerpt: "French cryptography startup Zama has raised $73 million in a Series A funding round led by Multicoin Capital and Protocol Labs."
     publishedDateTime: 2024-03-07T06:25:00Z

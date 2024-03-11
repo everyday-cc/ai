@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
+      "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
+      "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb6c39c78a1860c0563c44/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
+      "publishedDateTime": "2024-03-11T15:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
       "title": "5 AI Predictions For The Year 2030",
       "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
@@ -559,6 +611,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-the-best-roomba-deals-to-shop-for-spring-cleaning-save-up-to-42-on-robot-vacuums-and-mops.md",
+      "title": "The Best Roomba Deals to Shop for Spring Cleaning: Save Up to 42% on Robot Vacuums and Mops",
+      "excerpt": "Roombas are up to 50% off just in time for spring cleaning. Shop the best robot vacuum deals before they're gone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etonline.com/the-best-roomba-deals-to-shop-for-spring-cleaning-save-up-to-42-on-robot-vacuums-and-mops-154274",
+      "originalUrl": "https://www.etonline.com/the-best-roomba-deals-to-shop-for-spring-cleaning-save-up-to-42-on-robot-vacuums-and-mops-154274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-02/roomba.jpeg?h=bd1d6124",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.etonline.com/the-best-roomba-deals-to-shop-for-spring-cleaning-save-up-to-42-on-robot-vacuums-and-mops-154274?amp",
+      "cdnAmpWebUrl": "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/the-best-roomba-deals-to-shop-for-spring-cleaning-save-up-to-42-on-robot-vacuums-and-mops-154274?amp",
+      "publishedDateTime": "2024-03-04T16:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entertainment Tonight",
+        "domain": "etonline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1261,83 +1356,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university.md",
-      "title": "B-Tech in robotics, AI among new courses at Noida's Gautam Buddha University",
-      "excerpt": "BTech in robotics and artificial intelligence are among the 16 new courses along with 139 existing ones at the state-run Gautam Buddha University here for which admissions opened on Tuesday, officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university",
-      "originalUrl": "https://www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_02_2024_16_53_01_7211857.png?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university?amp",
-      "publishedDateTime": "2024-02-27T18:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-here-come-the-killer-robots.md",
-      "title": "Here Come the Killer Robots",
-      "excerpt": "While we’ve had versions of autonomous weapons systems for decades, the latest advances in AI have made today’s killer robots more sophisticated. Popular autonomous weapons systems include drones that can fly themselves, autonomous drone swarms, and AI targeting systems that automatically choose their targets.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/here-come-the-killer-robots/",
-      "originalUrl": "https://cacm.acm.org/news/here-come-the-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Widening lead in AI memory chips"
+    excerpt: "SK Hynix Inc is ramping up its spending on advanced chip packaging, in hopes of capturing more of the burgeoning demand for a crucial component in artificial intelligence (AI) development: high-bandwidth memory (HBM)."
+    publishedDateTime: 2024-03-07T22:11:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2024/03/08/widening-lead-in-ai-memory-chips"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/08/2581151.jpg"
+        width: 1240
+        height: 827
+        isCached: true
 
 secured: "P/B9NhIFrPc4pe7D2nBJ9AKfRV2XnsfZU8H5tCYShG5okXipXw5Mp4sqAhZnxgs1KQKMZbaqwW9j500KYZaIEw8YSsGtKSYOujz7pUVmTKZksrAaqABKmc9+/RYci29zdwhITGnqO7C/v5lWHDPnRWJ4piSLqTgEob/Fw/vYKsqpY9GblUzeDq/3a4IskBZJD5feK/gOVD1iyserT1EHK9PupxGDoERYaz3hiU6bs6IDtIP+i7wnpYNkTAGQAj+jOR664hvFQvBU5CfKdZq2Hhi8ahmtuFWwKmCODvHUoDkVFB+JVe9qhk0DqU1dC8xg8VGQCqARNUef3eklpMMDqGufXx8xOH4UeyvWabrGZSk=;rj7EJsVIEeT6/y3XPTNfIg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
 webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
 type: article
 quality: 84
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How the A.I. That Drives ChatGPT Will Move Into the Physical World"
+    excerpt: "In a move aimed at addressing fears that A.I. could be used to create bioweapons, over 90 biologists and other scientists have signed an agreement that seeks to ensure that their research will move forward without exposing the world to serious harm."
+    publishedDateTime: 2024-03-11T16:00:00Z
+    webUrl: "https://www.nytimes.com/2024/03/11/technology/ai-robots-technology.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 71
+    images:
+      - url: "https://static01.nyt.com/images/2024/03/11/multimedia/11ai-robotics-01-bzgl/11ai-robotics-01-bzgl-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Elon Musk says his AI startup xAI will open-source Grok chatbot, ChatGPT's rival"
     excerpt: "Elon Musk said on Monday his artificial intelligence firm xAI will open-source \"Grok\", a chatbot rivaling OpenAI's ChatGPT, this week. The billionaire's startup launched the AI model to a small group of users last November. In a podcast episode with Lex Fridman, Musk suggested that he liked the concept of open-source AI."

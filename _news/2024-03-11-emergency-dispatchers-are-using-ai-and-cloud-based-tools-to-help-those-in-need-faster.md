@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/emergency-response-call-centers-using-a
 ampWebUrl: "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp"
 type: article
-quality: 80
-heat: 90
+quality: 82
+heat: 92
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.insider.com/65eb4c116080194819fe185f?width=1200&format=jpeg"
@@ -40,6 +41,6 @@ related:
       domain: nbcnews.com
     quality: 47
 
-secured: "PpUFPWtBypl8WKm+vkjh5O5Mnl7W4bn7IRRXL9mhA4nEF/4gRmMeQcVLgxWnaY58vOwQa2wiLTb5I+ZmiGSPHB6fU/e4YJlIftLOfICBbqdKyZR7c8tX/l4s3iCD09R19TTKZwu0GWk1EtNTO3cELFWj6e6VyNEW7/QMGn1pEFFejA1X2He0+IGeuHNyPYN19aF5BfONs0fSYUMuvcFnnuDFsz/aH/GbTSox3msIS//3eNi+l5zm+rYmddw2Q4IvAzg/VF/xppWUEnR3vuayA17pxMg3zj7uTjSmtokl8iM1gOmAJfRdqN+Er2riWlBV0efx1MRTC2Efs+GSiJLzUEd2CiNPHC2lmv6Gxia7G3M=;TpwK4Xc6TuFhqvQy/J2kww=="
+secured: "3aPpOhXxFS01fM63GI8NlzZevowU/F5aAhCbQA7RcXzKlm1dcMrmdks8eUDsT07jwOrpEcDkru8yrR2ywAkrUQqgt9clyfr/wmh47/SGQcfiSMVv9OhWKF+DZ2wi1y491vpNM1vCN6EmuhHusYDmKiAexmNb52eIZz88KOwHxPONt30lIyB8+Y0HvguW/kinYOMz5ANIINmahHmc0bRlyIoJrGsjMgUHCqPdgOQmf3fu1YWhvgpOOAHlVwYYxdFjVnZdBbDrUkjyHaMj7i2YB6bKAV5zrx8yUVpH7pvLuinXAM0GnvnvMCaowmLp3jdVZBh3yj4vW7Hd5lrRs+bwHPS8IpLY0i8J5EHmT9wlfzckCIsEQ37kNFGG071hYJRk7LmOIA5GvHeu4fLgn61bw33cbwhtR4eJZ36M9KrHzttbetEzx5NirLbwAUyJ9I2ficv+57e8Cv9ORgC4v12OGK5DkD94q9aJAzHjpjsLPTxhsRHisinJVXZw4YmDYisUtsMxJO3IbpsfcvF6RNzOfA==;8l+gp0mJlLPI8ir4sarz9w=="
 ---
 

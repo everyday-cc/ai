@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-23-openais-sora-has-left-ai-experts-either-enthused-or-skeptical-its-left-most-everyone-else-terrified.md",
+      "title": "OpenAI’s Sora has left AI experts either enthused or skeptical. It’s left most everyone else terrified",
+      "excerpt": "including access to the highly coveted Nvidia H100s and over 15 different Nvidia GPU SKUs all together, allowing customers to deploy AI without massive infrastructure investments. Yesterday, it announced a new AI chatbot it says will make this process even ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
+      "originalUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-2013766961-e1708621527967.jpg?w=840",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/22/openai-sora-terrifies-the-public/amp/",
+      "publishedDateTime": "2024-02-22T17:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-tech-war-nvidia-sampling-alternative-ai-chips-to-china-as-us-restrictions-take-a-toll-there.md",
+      "title": "Tech war: Nvidia sampling alternative AI chips to China as US restrictions take a toll there",
+      "excerpt": "US chip giant Nvidia said it has started shipping alternative samples of permissible AI chips to Chinese customers, as Washington’s restrictions on sales of advanced chips to the mainland begin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/22/7a38710c-1876-407d-b5b4-b87cff7934bd_0f7c428a.jpg?itok=bNInIN78",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3252826/tech-war-nvidia-sampling-alternative-ai-chips-china-us-restrictions-take-toll-there",
+      "publishedDateTime": "2024-02-22T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-intels-ceo-says-ai-is-the-key-to-the-companys-comeback.md",
       "title": "Intel’s CEO Says AI Is the Key to the Company’s Comeback",
       "excerpt": "Will Knight: You announced this week that Intel will relaunch its business that manufactures chips on behalf of other companies as an “AI-era system foundry.” What does that mean? Pat Gelsinger: I began Intel’s strategy two plus years ago ...",
@@ -1363,93 +1467,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race.md",
-      "title": "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race",
-      "excerpt": "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
-      "originalUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp",
-      "publishedDateTime": "2024-02-17T06:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-what-using-security-to-regulate-ai-chips-could-look-like.md",
-      "title": "What Using Security to Regulate AI Chips Could Look Like",
-      "excerpt": "An exploratory research proposal is recommending regulation of AI chips and stronger governance measures to keep up with the rapid technical innovations in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like",
-      "originalUrl": "https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0b7c955babca975e/65cfe038761e9f040a6e1d6c/chipcheck-Science_Photo_Library-alamy.png?disable=upscale&width=1200&height=630&fit=crop",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T22:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

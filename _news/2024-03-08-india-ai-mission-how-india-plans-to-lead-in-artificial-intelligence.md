@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "GPU access to power up India’s AI play: experts"
+    excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
+    publishedDateTime: 2024-03-09T02:40:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "India to build a 10,000 GPU supercomputer for self-sufficient AI development"
     excerpt: "The Indian government, led by Prime Minister Shri Narendra Modi, has approved a new $1.24 billion investment for the IndiaAI mission, a \"national-level\" plan designed to"
     publishedDateTime: 2024-03-08T17:57:00Z
@@ -28,22 +44,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "AI-driven evolution of low-code software development in India"
-    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
-    publishedDateTime: 2024-03-09T10:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+  - title: "India’s AI Regulators Need Scalpels, Not Hammers"
+    excerpt: "A vague decree has revived fears that government overreach will stifle innovation in the country’s booming tech sector."
+    publishedDateTime: 2024-03-06T22:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-06/india-s-clumsy-ai-decree-could-stifle-innovation"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "India announces $1.2 bln investment in AI projects"
     excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
     publishedDateTime: 2024-03-07T13:50:00Z
@@ -67,24 +76,17 @@ related:
         width: 500
         height: 250
         isCached: true
-  - title: "GPU access to power up India’s AI play: experts"
-    excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
-    publishedDateTime: 2024-03-09T02:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms"
+  - title: "India’s AI leap: bridging the gap"
+    excerpt: "The just announced National Mission on AI ensures that all the necessary building blocks needed by India to shape the future of AI for India and the world are in place."
+    publishedDateTime: 2024-03-11T07:20:00Z
+    webUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap-11710140690633.html"
+    ampWebUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-  - title: "This Computer Scientist Seeks a Future Where AI Development Values Copyright"
-    excerpt: "The new nonprofit Fairly Trained certifies that artificial intelligence models license copyrighted data—which often isn’t the case"
-    publishedDateTime: 2024-03-11T13:30:00Z
-    webUrl: "https://www.scientificamerican.com/article/artificial-intelligence-copyright-fairly-trained/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 14
+      name: Mint
+      domain: livemint.com
+    quality: 39
 
 secured: "x3TnTqexDcE3soVkcFo/jN0NxII9mrX7DY13q8j4zPyShiyN4Zb0tdZDxlKR7UHjxQyZVVEV9anm6yIhE8SzevDEuw56jmIlhzsAqkPtNTqB0bQnrVv20R0SmtQc+nTANQik9X/+guHo9gCyKK68x0tJS+W+HHdrhVBewhk71aGuTZF2OAsD1fIo7QQIkWjqNR3fsclTYbZOQ0lfbZ4FmJRAw3TaweF4RsBjb93A0MHXxT0/FI2BJiMfPz0+uxizTVu2sdBanqzsXTAx0zM7I/WQGiGoubqQ9Doe89/kCAKgpNNSR0eGYzsq7106ma/JMPR4lfSClDyHNWZk9hu/YVX6GbMG/FCjbcRTyyn9SJ0HKqtM1w6yCApUL6MC+3SN2RZ1h7r9uWDtGedXiWRThSAmFeSh/TQNDVXtCz8k3ykY5UnBFNvScPsrlpm8+S1voTYt8/hNuEQgS4vVz1xuzd4CpgMifCVlbrx5xvIoWZhqYtu+SQ6WI8Z52K5pLS9W4umD1AgQZh6Y+bsIynFRsQ==;tOUvRRdGYPYaeEoS4GS/aw=="
 ---
